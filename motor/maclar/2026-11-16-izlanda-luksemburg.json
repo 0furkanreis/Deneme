@@ -1,0 +1,11 @@
+{
+ "organizasyon": "UEFA Uluslar Ligi C Ligi 4. Grup", "tarih": "16 Kasım 2026, 20:00 TSİ", "stadyum": "Laugardalsvöllur, Reykjavik",
+ "ilk_yari_gol_payi": 0.44, "korner_guven": "düşük", "kart_guven": "düşük", "var_ort": 0.2,
+ "ev": {"ad": "İzlanda", "beklenen_gol": 2.05, "korner": 5.2, "sari_kart": 1.6,
+  "oyuncular": [
+   {"ad": "Orri Óskarsson", "gol_payi": 0.25, "asist_payi": 0.08, "kart_ihtimali": 0.10},
+   {"ad": "Andri Guðjohnsen", "gol_payi": 0.15, "asist_payi": 0.10, "kart_ihtimali": 0.12},
+   {"ad": "Mikael Egill Ellertsson", "gol_payi": 0.08, "asist_payi": 0.12, "kart_ihtimali": 0.12},
+   {"ad": "Victor Pálsson", "gol_payi": 0.05, "asist_payi": 0.04, "kart_ihtimali": 0.20}]},
+ "dep": {"ad": "Lüksemburg", "beklenen_gol": 0.42, "korner": 2.6, "sari_kart": 2.1}
+}

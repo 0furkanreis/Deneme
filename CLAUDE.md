@@ -17,3 +17,12 @@ Kullanıcı Türkçe konuşur; tüm yanıtlar Türkçe olmalı.
 4. **Sunum:** en mantıklı 1 seçenek (gerekçeli), 2–3 alternatif, kategori kategori özet tablo, kaçınılması gerekenler. Kullanıcı oran verdiyse adil oranla karşılaştır (değer = olasılık × oran − 1).
 5. Kesin sonuç garantisi verilmez; olasılık olarak sun.
 6. Analizi `analizler/YYYY-AA-GG-ev-dep.md` olarak kaydet ve analiz sayfasını güncelle.
+
+## Tam katalog motoru (338 seçeneğin hepsi)
+
+1. `motor/maclar/<slug>.json` yaz: takım adları, `beklenen_gol`, `korner`, `sari_kart`, isteğe bağlı `oyuncular` (gol_payi, asist_payi, kart_ihtimali, penaltici), `korner_guven`/`kart_guven`. Örnekler klasörde.
+2. `python3 motor/motor.py motor/maclar/<slug>.json` → `analizler/<slug>-tam.json` ve `-tam.md` (120.000 Monte Carlo simülasyonu; 338 pazarın tamamı).
+3. Sayfa verisi: `veri/maclar.json` dizinine maçı ekle (ana öneri, gerekçe, riskler, kaynaklar) ve `veri/<slug>.json` ince sürümünü üret (bkz. git geçmişi: `-tam.json` → `{ev,dep,beklenen_gol,simulasyon,pazarlar:[{k,y,p,g,n,s}]}`).
+4. Sayfa: `sayfa/mac-onu.html`, yayın adresi https://claude.ai/artifact/UYrg8ESS8tYYVNpMHhi1CE (`veri/*.json` dosyalarıyla birlikte yayımlanır).
+- Oyuncu istatistik pazarları (şut, pas, faul vb.) oyuncu başına 90 dk verisi girilmeden değerlendirilmez.
+- Bu ortamda istatistik sitelerine doğrudan erişim yok; veriler web aramasıyla toplanıyor.

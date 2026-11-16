@@ -1,0 +1,10863 @@
+{
+ "mac": {
+  "organizasyon": "UEFA Uluslar Ligi C Ligi 4. Grup",
+  "tarih": "16 Kasım 2026, 20:00 TSİ",
+  "stadyum": "Laugardalsvöllur, Reykjavik",
+  "ilk_yari_gol_payi": 0.44,
+  "korner_guven": "düşük",
+  "kart_guven": "düşük",
+  "var_ort": 0.2
+ },
+ "ev": "İzlanda",
+ "dep": "Lüksemburg",
+ "beklenen_gol": [
+  2.05,
+  0.42
+ ],
+ "simulasyon": 120000,
+ "pazarlar": [
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu",
+   "oneri": "1 (İzlanda)",
+   "olasilik": 0.7593,
+   "adil_oran": 1.32,
+   "en_olasi": "1 (İzlanda)",
+   "en_olasi_p": 0.7593,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (İzlanda)",
+     0.7593
+    ],
+    [
+     "X",
+     0.1767
+    ],
+    [
+     "2 (Lüksemburg)",
+     0.064
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.8233,
+   "adil_oran": 1.21,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.936,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.936
+    ],
+    [
+     "12",
+     0.8233
+    ],
+    [
+     "X2",
+     0.2407
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Beraberlikte İade",
+   "oneri": "İzlanda",
+   "olasilik": 0.9223,
+   "adil_oran": 1.08,
+   "en_olasi": "İzlanda",
+   "en_olasi_p": 0.9223,
+   "guven": "yüksek",
+   "not_": "Beraberlikte iade; olasılık iade hariç",
+   "secimler": [
+    [
+     "İzlanda",
+     0.9223
+    ],
+    [
+     "Lüksemburg",
+     0.0777
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "İzlanda : Bahis Yok",
+   "oneri": "X",
+   "olasilik": 0.7341,
+   "adil_oran": 1.36,
+   "en_olasi": "X",
+   "en_olasi_p": 0.7341,
+   "guven": "yüksek",
+   "not_": "İzlanda kazanırsa iade",
+   "secimler": [
+    [
+     "X",
+     0.7341
+    ],
+    [
+     "Lüksemburg",
+     0.2659
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Lüksemburg : Bahis Yok",
+   "oneri": "İzlanda",
+   "olasilik": 0.8112,
+   "adil_oran": 1.23,
+   "en_olasi": "İzlanda",
+   "en_olasi_p": 0.8112,
+   "guven": "yüksek",
+   "not_": "Lüksemburg kazanırsa iade",
+   "secimler": [
+    [
+     "İzlanda",
+     0.8112
+    ],
+    [
+     "X",
+     0.1888
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "İzlanda : Geriden Gelerek Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9471,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9471,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0529
+    ],
+    [
+     "Hayır",
+     0.9471
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Lüksemburg : Geriden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9929,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9929,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0071
+    ],
+    [
+     "Hayır",
+     0.9929
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "İzlanda : Kazanma Marjı",
+   "oneri": "1 fark",
+   "olasilik": 0.2563,
+   "adil_oran": 3.9,
+   "en_olasi": "1 fark",
+   "en_olasi_p": 0.2563,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.2563
+    ],
+    [
+     "2 fark",
+     0.235
+    ],
+    [
+     "3 fark",
+     0.1505
+    ],
+    [
+     "4+ fark",
+     0.1175
+    ],
+    [
+     "Kazanamaz",
+     0.2407
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Lüksemburg : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.936,
+   "adil_oran": 1.07,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.936,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.0528
+    ],
+    [
+     "2 fark",
+     0.0098
+    ],
+    [
+     "3 fark",
+     0.0012
+    ],
+    [
+     "4+ fark",
+     0.0002
+    ],
+    [
+     "Kazanamaz",
+     0.936
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller",
+   "oneri": "Toplam 3,5 Alt",
+   "olasilik": 0.7626,
+   "adil_oran": 1.31,
+   "en_olasi": "Toplam 5,5 Alt",
+   "en_olasi_p": 0.9596,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.9143
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.0857
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.7089
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.2911
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.4492
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.5508
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.2374
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.7626
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.1062
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.8938
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.0404
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.9596
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "İzlanda : Toplam Gol",
+   "oneri": "İzlanda 2,5 Alt",
+   "olasilik": 0.6617,
+   "adil_oran": 1.51,
+   "en_olasi": "İzlanda 0,5 Üst",
+   "en_olasi_p": 0.8707,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda 0,5 Üst",
+     0.8707
+    ],
+    [
+     "İzlanda 0,5 Alt",
+     0.1293
+    ],
+    [
+     "İzlanda 1,5 Üst",
+     0.609
+    ],
+    [
+     "İzlanda 1,5 Alt",
+     0.391
+    ],
+    [
+     "İzlanda 2,5 Üst",
+     0.3383
+    ],
+    [
+     "İzlanda 2,5 Alt",
+     0.6617
+    ],
+    [
+     "İzlanda 3,5 Üst",
+     0.1531
+    ],
+    [
+     "İzlanda 3,5 Alt",
+     0.8469
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Lüksemburg : Toplam Gol",
+   "oneri": "Lüksemburg 0,5 Alt",
+   "olasilik": 0.6568,
+   "adil_oran": 1.52,
+   "en_olasi": "Lüksemburg 3,5 Alt",
+   "en_olasi_p": 0.9991,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Lüksemburg 0,5 Üst",
+     0.3432
+    ],
+    [
+     "Lüksemburg 0,5 Alt",
+     0.6568
+    ],
+    [
+     "Lüksemburg 1,5 Üst",
+     0.068
+    ],
+    [
+     "Lüksemburg 1,5 Alt",
+     0.932
+    ],
+    [
+     "Lüksemburg 2,5 Üst",
+     0.0093
+    ],
+    [
+     "Lüksemburg 2,5 Alt",
+     0.9907
+    ],
+    [
+     "Lüksemburg 3,5 Üst",
+     0.0009
+    ],
+    [
+     "Lüksemburg 3,5 Alt",
+     0.9991
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller Asya",
+   "oneri": "Toplam Asya 3,25 Alt",
+   "olasilik": 0.7345,
+   "adil_oran": 1.36,
+   "en_olasi": "Toplam Asya 3,25 Alt",
+   "en_olasi_p": 0.7345,
+   "guven": "yüksek",
+   "not_": "Asya çizgisi: değer = 1/adil oran",
+   "secimler": [
+    [
+     "Toplam Asya 1,75 Üst",
+     0.6655
+    ],
+    [
+     "Toplam Asya 1,75 Alt",
+     0.3345
+    ],
+    [
+     "Toplam Asya 2 Üst",
+     0.6068
+    ],
+    [
+     "Toplam Asya 2 Alt",
+     0.3932
+    ],
+    [
+     "Toplam Asya 2,25 Üst",
+     0.5162
+    ],
+    [
+     "Toplam Asya 2,25 Alt",
+     0.4838
+    ],
+    [
+     "Toplam Asya 2,5 Üst",
+     0.4492
+    ],
+    [
+     "Toplam Asya 2,5 Alt",
+     0.5508
+    ],
+    [
+     "Toplam Asya 2,75 Üst",
+     0.3839
+    ],
+    [
+     "Toplam Asya 2,75 Alt",
+     0.6161
+    ],
+    [
+     "Toplam Asya 3 Üst",
+     0.3012
+    ],
+    [
+     "Toplam Asya 3 Alt",
+     0.6988
+    ],
+    [
+     "Toplam Asya 3,25 Üst",
+     0.2655
+    ],
+    [
+     "Toplam Asya 3,25 Alt",
+     0.7345
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "İzlanda : Toplam Gol Asya",
+   "oneri": "İzlanda Asya 1 Üst",
+   "olasilik": 0.8249,
+   "adil_oran": 1.21,
+   "en_olasi": "İzlanda Asya 0,75 Üst",
+   "en_olasi_p": 0.8513,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda Asya 0,75 Üst",
+     0.8513
+    ],
+    [
+     "İzlanda Asya 0,75 Alt",
+     0.1487
+    ],
+    [
+     "İzlanda Asya 1 Üst",
+     0.8249
+    ],
+    [
+     "İzlanda Asya 1 Alt",
+     0.1751
+    ],
+    [
+     "İzlanda Asya 1,25 Üst",
+     0.7007
+    ],
+    [
+     "İzlanda Asya 1,25 Alt",
+     0.2993
+    ],
+    [
+     "İzlanda Asya 1,5 Üst",
+     0.609
+    ],
+    [
+     "İzlanda Asya 1,5 Alt",
+     0.391
+    ],
+    [
+     "İzlanda Asya 1,75 Üst",
+     0.5478
+    ],
+    [
+     "İzlanda Asya 1,75 Alt",
+     0.4522
+    ],
+    [
+     "İzlanda Asya 2 Üst",
+     0.4639
+    ],
+    [
+     "İzlanda Asya 2 Alt",
+     0.5361
+    ],
+    [
+     "İzlanda Asya 2,25 Üst",
+     0.3913
+    ],
+    [
+     "İzlanda Asya 2,25 Alt",
+     0.6087
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Lüksemburg : Toplam Gol Asya",
+   "oneri": "Lüksemburg Asya 0,75 Alt",
+   "olasilik": 0.7616,
+   "adil_oran": 1.31,
+   "en_olasi": "Lüksemburg Asya 1,5 Alt",
+   "en_olasi_p": 0.932,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Lüksemburg Asya 0,25 Üst",
+     0.511
+    ],
+    [
+     "Lüksemburg Asya 0,25 Alt",
+     0.489
+    ],
+    [
+     "Lüksemburg Asya 0,5 Üst",
+     0.3432
+    ],
+    [
+     "Lüksemburg Asya 0,5 Alt",
+     0.6568
+    ],
+    [
+     "Lüksemburg Asya 0,75 Üst",
+     0.2384
+    ],
+    [
+     "Lüksemburg Asya 0,75 Alt",
+     0.7616
+    ],
+    [
+     "Lüksemburg Asya 1 Üst",
+     0.0939
+    ],
+    [
+     "Lüksemburg Asya 1 Alt",
+     0.9061
+    ],
+    [
+     "Lüksemburg Asya 1,25 Üst",
+     0.0789
+    ],
+    [
+     "Lüksemburg Asya 1,25 Alt",
+     0.9211
+    ],
+    [
+     "Lüksemburg Asya 1,5 Üst",
+     0.068
+    ],
+    [
+     "Lüksemburg Asya 1,5 Alt",
+     0.932
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (3-İhtimalli)",
+   "oneri": "4 Alt",
+   "olasilik": 0.7626,
+   "adil_oran": 1.31,
+   "en_olasi": "4 Alt",
+   "en_olasi_p": 0.7626,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.0857
+    ],
+    [
+     "Tam 1",
+     0.2054
+    ],
+    [
+     "1 Üst",
+     0.7089
+    ],
+    [
+     "2 Alt",
+     0.2911
+    ],
+    [
+     "Tam 2",
+     0.2598
+    ],
+    [
+     "2 Üst",
+     0.4492
+    ],
+    [
+     "3 Alt",
+     0.5508
+    ],
+    [
+     "Tam 3",
+     0.2117
+    ],
+    [
+     "3 Üst",
+     0.2374
+    ],
+    [
+     "4 Alt",
+     0.7626
+    ],
+    [
+     "Tam 4",
+     0.1312
+    ],
+    [
+     "4 Üst",
+     0.1062
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol Tek/Çift",
+   "oneri": "Çift",
+   "olasilik": 0.5069,
+   "adil_oran": 1.97,
+   "en_olasi": "Çift",
+   "en_olasi_p": 0.5069,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.4931
+    ],
+    [
+     "Çift",
+     0.5069
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Kesin)",
+   "oneri": "2 gol",
+   "olasilik": 0.2598,
+   "adil_oran": 3.85,
+   "en_olasi": "2 gol",
+   "en_olasi_p": 0.2598,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0857
+    ],
+    [
+     "1 gol",
+     0.2054
+    ],
+    [
+     "2 gol",
+     0.2598
+    ],
+    [
+     "3 gol",
+     0.2117
+    ],
+    [
+     "4 gol",
+     0.1312
+    ],
+    [
+     "5 gol",
+     0.0658
+    ],
+    [
+     "6+ gol",
+     0.0404
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "İzlanda : Toplam Gol (Kesin)",
+   "oneri": "2 gol",
+   "olasilik": 0.2707,
+   "adil_oran": 3.69,
+   "en_olasi": "2 gol",
+   "en_olasi_p": 0.2707,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.1293
+    ],
+    [
+     "1 gol",
+     0.2617
+    ],
+    [
+     "2 gol",
+     0.2707
+    ],
+    [
+     "3 gol",
+     0.1852
+    ],
+    [
+     "4+ gol",
+     0.1531
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Lüksemburg : Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.6568,
+   "adil_oran": 1.52,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.6568,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6568
+    ],
+    [
+     "1 gol",
+     0.2752
+    ],
+    [
+     "2 gol",
+     0.0588
+    ],
+    [
+     "3 gol",
+     0.0084
+    ],
+    [
+     "4+ gol",
+     0.0009
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Aralık)",
+   "oneri": "2-3 gol",
+   "olasilik": 0.4715,
+   "adil_oran": 2.12,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.4715,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.2911
+    ],
+    [
+     "2-3 gol",
+     0.4715
+    ],
+    [
+     "4-5 gol",
+     0.197
+    ],
+    [
+     "6+ gol",
+     0.0404
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "İzlanda : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5324,
+   "adil_oran": 1.88,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5324,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.1293
+    ],
+    [
+     "1-2 gol",
+     0.5324
+    ],
+    [
+     "3+ gol",
+     0.3383
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Lüksemburg : Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.6568,
+   "adil_oran": 1.52,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.6568,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6568
+    ],
+    [
+     "1-2 gol",
+     0.3339
+    ],
+    [
+     "3+ gol",
+     0.0093
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Genişletilmiş Gol Aralığı)",
+   "oneri": "1-3 gol",
+   "olasilik": 0.6769,
+   "adil_oran": 1.48,
+   "en_olasi": "1-3 gol",
+   "en_olasi_p": 0.6769,
+   "guven": "yüksek",
+   "not_": "Sitedeki aralıklar farklı olabilir",
+   "secimler": [
+    [
+     "0 gol",
+     0.0857
+    ],
+    [
+     "1-2 gol",
+     0.4652
+    ],
+    [
+     "1-3 gol",
+     0.6769
+    ],
+    [
+     "2-3 gol",
+     0.4715
+    ],
+    [
+     "2-4 gol",
+     0.6027
+    ],
+    [
+     "3-4 gol",
+     0.343
+    ],
+    [
+     "3-5 gol",
+     0.4087
+    ],
+    [
+     "4-6 gol",
+     0.2239
+    ],
+    [
+     "5+ gol",
+     0.1062
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "İzlanda : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5324,
+   "adil_oran": 1.88,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5324,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.391
+    ],
+    [
+     "1-2 gol",
+     0.5324
+    ],
+    [
+     "2-3 gol",
+     0.4559
+    ],
+    [
+     "3+ gol",
+     0.3383
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Lüksemburg : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.932,
+   "adil_oran": 1.07,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.932,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.932
+    ],
+    [
+     "1-2 gol",
+     0.3339
+    ],
+    [
+     "2-3 gol",
+     0.0671
+    ],
+    [
+     "3+ gol",
+     0.0093
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Kesin Gol Sayısı",
+   "oneri": "2 gol",
+   "olasilik": 0.2598,
+   "adil_oran": 3.85,
+   "en_olasi": "2 gol",
+   "en_olasi_p": 0.2598,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0857
+    ],
+    [
+     "1 gol",
+     0.2054
+    ],
+    [
+     "2 gol",
+     0.2598
+    ],
+    [
+     "3 gol",
+     0.2117
+    ],
+    [
+     "4 gol",
+     0.1312
+    ],
+    [
+     "5 gol",
+     0.0658
+    ],
+    [
+     "6 gol",
+     0.027
+    ],
+    [
+     "7+ gol",
+     0.0135
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 1 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7946,
+   "adil_oran": 1.26,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7946,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2054
+    ],
+    [
+     "Hayır",
+     0.7946
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 2 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7402,
+   "adil_oran": 1.35,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7402,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2598
+    ],
+    [
+     "Hayır",
+     0.7402
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 3 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7883,
+   "adil_oran": 1.27,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7883,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2117
+    ],
+    [
+     "Hayır",
+     0.7883
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 4 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8688,
+   "adil_oran": 1.15,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8688,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1312
+    ],
+    [
+     "Hayır",
+     0.8688
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "En Az Bir Takım Üst Gol Atar",
+   "oneri": "En az bir takım 1,5 Üst",
+   "olasilik": 0.6353,
+   "adil_oran": 1.57,
+   "en_olasi": "En az bir takım 0,5 Üst",
+   "en_olasi_p": 0.9143,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "En az bir takım 0,5 Üst",
+     0.9143
+    ],
+    [
+     "En az bir takım 1,5 Üst",
+     0.6353
+    ],
+    [
+     "En az bir takım 2,5 Üst",
+     0.3443
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "İzlanda : Asist Yapar. Toplam",
+   "oneri": "İzlanda asist 0,5 Üst",
+   "olasilik": 0.7373,
+   "adil_oran": 1.36,
+   "en_olasi": "İzlanda asist 2,5 Alt",
+   "en_olasi_p": 0.8468,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda asist 0,5 Üst",
+     0.7373
+    ],
+    [
+     "İzlanda asist 0,5 Alt",
+     0.2627
+    ],
+    [
+     "İzlanda asist 1,5 Üst",
+     0.3867
+    ],
+    [
+     "İzlanda asist 1,5 Alt",
+     0.6133
+    ],
+    [
+     "İzlanda asist 2,5 Üst",
+     0.1532
+    ],
+    [
+     "İzlanda asist 2,5 Alt",
+     0.8468
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Lüksemburg : Asist Yapar. Toplam",
+   "oneri": "Lüksemburg asist 0,5 Alt",
+   "olasilik": 0.7832,
+   "adil_oran": 1.28,
+   "en_olasi": "Lüksemburg asist 1,5 Alt",
+   "en_olasi_p": 0.9742,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Lüksemburg asist 0,5 Üst",
+     0.2168
+    ],
+    [
+     "Lüksemburg asist 0,5 Alt",
+     0.7832
+    ],
+    [
+     "Lüksemburg asist 1,5 Üst",
+     0.0258
+    ],
+    [
+     "Lüksemburg asist 1,5 Alt",
+     0.9742
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takımda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.7004,
+   "adil_oran": 1.43,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7004,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2996
+    ],
+    [
+     "Hayır",
+     0.7004
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.9583,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9583,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0417
+    ],
+    [
+     "Hayır",
+     0.9583
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "İzlanda : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.8707,
+   "adil_oran": 1.15,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.8707,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.8707
+    ],
+    [
+     "Hayır",
+     0.1293
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Lüksemburg : Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.6568,
+   "adil_oran": 1.52,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6568,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3432
+    ],
+    [
+     "Hayır",
+     0.6568
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Karşılıklı Gol ve Toplam Goller 2.5",
+   "oneri": "KG Yok & Alt",
+   "olasilik": 0.4772,
+   "adil_oran": 2.1,
+   "en_olasi": "KG Yok & Alt",
+   "en_olasi_p": 0.4772,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "KG Var & Üst",
+     0.2259
+    ],
+    [
+     "KG Var & Alt",
+     0.0736
+    ],
+    [
+     "KG Yok & Üst",
+     0.2232
+    ],
+    [
+     "KG Yok & Alt",
+     0.4772
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Yarıda da Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.9853,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9853,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0147
+    ],
+    [
+     "Hayır",
+     0.9853
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı",
+   "oneri": "İzlanda -0,5",
+   "olasilik": 0.7593,
+   "adil_oran": 1.32,
+   "en_olasi": "İzlanda +2,5",
+   "en_olasi_p": 0.9986,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda -2,5",
+     0.268
+    ],
+    [
+     "Lüksemburg +2,5",
+     0.732
+    ],
+    [
+     "İzlanda -1,5",
+     0.503
+    ],
+    [
+     "Lüksemburg +1,5",
+     0.497
+    ],
+    [
+     "İzlanda -0,5",
+     0.7593
+    ],
+    [
+     "Lüksemburg +0,5",
+     0.2407
+    ],
+    [
+     "İzlanda +0,5",
+     0.936
+    ],
+    [
+     "Lüksemburg -0,5",
+     0.064
+    ],
+    [
+     "İzlanda +1,5",
+     0.9888
+    ],
+    [
+     "Lüksemburg -1,5",
+     0.0112
+    ],
+    [
+     "İzlanda +2,5",
+     0.9986
+    ],
+    [
+     "Lüksemburg -2,5",
+     0.0014
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Goller Asya Handikapı",
+   "oneri": "İzlanda Asya -0,25",
+   "olasilik": 0.8329,
+   "adil_oran": 1.2,
+   "en_olasi": "İzlanda Asya +1,5",
+   "en_olasi_p": 0.9888,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda Asya -2",
+     0.3503
+    ],
+    [
+     "Lüksemburg Asya -2",
+     0.0014
+    ],
+    [
+     "İzlanda Asya -1,75",
+     0.4368
+    ],
+    [
+     "Lüksemburg Asya -1,75",
+     0.0063
+    ],
+    [
+     "İzlanda Asya -1,5",
+     0.503
+    ],
+    [
+     "Lüksemburg Asya -1,5",
+     0.0112
+    ],
+    [
+     "İzlanda Asya -1,25",
+     0.5769
+    ],
+    [
+     "Lüksemburg Asya -1,25",
+     0.0115
+    ],
+    [
+     "İzlanda Asya -1",
+     0.6763
+    ],
+    [
+     "Lüksemburg Asya -1",
+     0.0119
+    ],
+    [
+     "İzlanda Asya -0,75",
+     0.7239
+    ],
+    [
+     "Lüksemburg Asya -0,75",
+     0.0386
+    ],
+    [
+     "İzlanda Asya -0,5",
+     0.7593
+    ],
+    [
+     "Lüksemburg Asya -0,5",
+     0.064
+    ],
+    [
+     "İzlanda Asya -0,25",
+     0.8329
+    ],
+    [
+     "Lüksemburg Asya -0,25",
+     0.0702
+    ],
+    [
+     "İzlanda Asya 0",
+     0.9223
+    ],
+    [
+     "Lüksemburg Asya 0",
+     0.0777
+    ],
+    [
+     "İzlanda Asya +0,25",
+     0.9298
+    ],
+    [
+     "Lüksemburg Asya +0,25",
+     0.1671
+    ],
+    [
+     "İzlanda Asya +0,5",
+     0.936
+    ],
+    [
+     "Lüksemburg Asya +0,5",
+     0.2407
+    ],
+    [
+     "İzlanda Asya +0,75",
+     0.9614
+    ],
+    [
+     "Lüksemburg Asya +0,75",
+     0.2761
+    ],
+    [
+     "İzlanda Asya +1",
+     0.9881
+    ],
+    [
+     "Lüksemburg Asya +1",
+     0.3237
+    ],
+    [
+     "İzlanda Asya +1,25",
+     0.9885
+    ],
+    [
+     "Lüksemburg Asya +1,25",
+     0.4231
+    ],
+    [
+     "İzlanda Asya +1,5",
+     0.9888
+    ],
+    [
+     "Lüksemburg Asya +1,5",
+     0.497
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı (3-İhtimalli)",
+   "oneri": "Lüksemburg (-3)",
+   "olasilik": 0.732,
+   "adil_oran": 1.37,
+   "en_olasi": "İzlanda (+3)",
+   "en_olasi_p": 0.9986,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda (-3)",
+     0.1175
+    ],
+    [
+     "X (-3)",
+     0.1505
+    ],
+    [
+     "Lüksemburg (-3)",
+     0.732
+    ],
+    [
+     "İzlanda (-2)",
+     0.268
+    ],
+    [
+     "X (-2)",
+     0.235
+    ],
+    [
+     "Lüksemburg (-2)",
+     0.497
+    ],
+    [
+     "İzlanda (-1)",
+     0.503
+    ],
+    [
+     "X (-1)",
+     0.2563
+    ],
+    [
+     "Lüksemburg (-1)",
+     0.2407
+    ],
+    [
+     "İzlanda (+1)",
+     0.936
+    ],
+    [
+     "X (+1)",
+     0.0528
+    ],
+    [
+     "Lüksemburg (+1)",
+     0.0112
+    ],
+    [
+     "İzlanda (+2)",
+     0.9888
+    ],
+    [
+     "X (+2)",
+     0.0098
+    ],
+    [
+     "Lüksemburg (+2)",
+     0.0014
+    ],
+    [
+     "İzlanda (+3)",
+     0.9986
+    ],
+    [
+     "X (+3)",
+     0.0012
+    ],
+    [
+     "Lüksemburg (+3)",
+     0.0002
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "İzlanda Gol Atar ve Maç Sonucu",
+   "oneri": "1 & İzlanda gol atar",
+   "olasilik": 0.7593,
+   "adil_oran": 1.32,
+   "en_olasi": "1 & İzlanda gol atar",
+   "en_olasi_p": 0.7593,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & İzlanda gol atar",
+     0.7593
+    ],
+    [
+     "1 & İzlanda gol atamaz",
+     0.0
+    ],
+    [
+     "X & İzlanda gol atar",
+     0.0911
+    ],
+    [
+     "X & İzlanda gol atamaz",
+     0.0857
+    ],
+    [
+     "2 & İzlanda gol atar",
+     0.0204
+    ],
+    [
+     "2 & İzlanda gol atamaz",
+     0.0436
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Lüksemburg Gol Atar ve Maç Sonucu",
+   "oneri": "1 & Lüksemburg gol atamaz",
+   "olasilik": 0.5711,
+   "adil_oran": 1.75,
+   "en_olasi": "1 & Lüksemburg gol atamaz",
+   "en_olasi_p": 0.5711,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Lüksemburg gol atar",
+     0.1881
+    ],
+    [
+     "1 & Lüksemburg gol atamaz",
+     0.5711
+    ],
+    [
+     "X & Lüksemburg gol atar",
+     0.0911
+    ],
+    [
+     "X & Lüksemburg gol atamaz",
+     0.0857
+    ],
+    [
+     "2 & Lüksemburg gol atar",
+     0.064
+    ],
+    [
+     "2 & Lüksemburg gol atamaz",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Karşılıklı Gol",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.5711,
+   "adil_oran": 1.75,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.5711,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.1881
+    ],
+    [
+     "1 & KG Yok",
+     0.5711
+    ],
+    [
+     "X & KG Var",
+     0.0911
+    ],
+    [
+     "X & KG Yok",
+     0.0857
+    ],
+    [
+     "2 & KG Var",
+     0.0204
+    ],
+    [
+     "2 & KG Yok",
+     0.0436
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Karşılıklı Gol",
+   "oneri": "1X & KG Yok",
+   "olasilik": 0.6568,
+   "adil_oran": 1.52,
+   "en_olasi": "1X & KG Yok",
+   "en_olasi_p": 0.6568,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & KG Var",
+     0.2792
+    ],
+    [
+     "1X & KG Yok",
+     0.6568
+    ],
+    [
+     "12 & KG Var",
+     0.2085
+    ],
+    [
+     "12 & KG Yok",
+     0.6148
+    ],
+    [
+     "X2 & KG Var",
+     0.1115
+    ],
+    [
+     "X2 & KG Yok",
+     0.1293
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 1.5",
+   "oneri": "1 & 1,5 Üst",
+   "olasilik": 0.5889,
+   "adil_oran": 1.7,
+   "en_olasi": "1 & 1,5 Üst",
+   "en_olasi_p": 0.5889,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1,5 Üst",
+     0.5889
+    ],
+    [
+     "1 & 1,5 Alt",
+     0.1704
+    ],
+    [
+     "X & 1,5 Üst",
+     0.0911
+    ],
+    [
+     "X & 1,5 Alt",
+     0.0857
+    ],
+    [
+     "2 & 1,5 Üst",
+     0.029
+    ],
+    [
+     "2 & 1,5 Alt",
+     0.035
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 2.5",
+   "oneri": "1 & 2,5 Üst",
+   "olasilik": 0.4102,
+   "adil_oran": 2.44,
+   "en_olasi": "1 & 2,5 Üst",
+   "en_olasi_p": 0.4102,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 2,5 Üst",
+     0.4102
+    ],
+    [
+     "1 & 2,5 Alt",
+     0.3491
+    ],
+    [
+     "X & 2,5 Üst",
+     0.0174
+    ],
+    [
+     "X & 2,5 Alt",
+     0.1593
+    ],
+    [
+     "2 & 2,5 Üst",
+     0.0215
+    ],
+    [
+     "2 & 2,5 Alt",
+     0.0425
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 3.5",
+   "oneri": "1 & 3,5 Alt",
+   "olasilik": 0.5445,
+   "adil_oran": 1.84,
+   "en_olasi": "1 & 3,5 Alt",
+   "en_olasi_p": 0.5445,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 3,5 Üst",
+     0.2147
+    ],
+    [
+     "1 & 3,5 Alt",
+     0.5445
+    ],
+    [
+     "X & 3,5 Üst",
+     0.0174
+    ],
+    [
+     "X & 3,5 Alt",
+     0.1593
+    ],
+    [
+     "2 & 3,5 Üst",
+     0.0053
+    ],
+    [
+     "2 & 3,5 Alt",
+     0.0588
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 4.5",
+   "oneri": "1 & 4,5 Alt",
+   "olasilik": 0.6577,
+   "adil_oran": 1.52,
+   "en_olasi": "1 & 4,5 Alt",
+   "en_olasi_p": 0.6577,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 4,5 Üst",
+     0.1016
+    ],
+    [
+     "1 & 4,5 Alt",
+     0.6577
+    ],
+    [
+     "X & 4,5 Üst",
+     0.0017
+    ],
+    [
+     "X & 4,5 Alt",
+     0.1751
+    ],
+    [
+     "2 & 4,5 Üst",
+     0.0029
+    ],
+    [
+     "2 & 4,5 Alt",
+     0.0611
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve İzlanda : Toplam Gol",
+   "oneri": "1 & İzlanda 1,5 Üst",
+   "olasilik": 0.5889,
+   "adil_oran": 1.7,
+   "en_olasi": "1 & İzlanda 1,5 Üst",
+   "en_olasi_p": 0.5889,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & İzlanda 1,5 Üst",
+     0.5889
+    ],
+    [
+     "1 & İzlanda 1,5 Alt",
+     0.1704
+    ],
+    [
+     "X & İzlanda 1,5 Üst",
+     0.0174
+    ],
+    [
+     "X & İzlanda 1,5 Alt",
+     0.1593
+    ],
+    [
+     "2 & İzlanda 1,5 Üst",
+     0.0027
+    ],
+    [
+     "2 & İzlanda 1,5 Alt",
+     0.0613
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Lüksemburg : Toplam Gol",
+   "oneri": "1 & Lüksemburg 0,5 Alt",
+   "olasilik": 0.5711,
+   "adil_oran": 1.75,
+   "en_olasi": "1 & Lüksemburg 0,5 Alt",
+   "en_olasi_p": 0.5711,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Lüksemburg 0,5 Üst",
+     0.1881
+    ],
+    [
+     "1 & Lüksemburg 0,5 Alt",
+     0.5711
+    ],
+    [
+     "X & Lüksemburg 0,5 Üst",
+     0.0911
+    ],
+    [
+     "X & Lüksemburg 0,5 Alt",
+     0.0857
+    ],
+    [
+     "2 & Lüksemburg 0,5 Üst",
+     0.064
+    ],
+    [
+     "2 & Lüksemburg 0,5 Alt",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Toplam Gol",
+   "oneri": "1 veya 2,5 Üst",
+   "olasilik": 0.7982,
+   "adil_oran": 1.25,
+   "en_olasi": "1 veya 2,5 Alt",
+   "en_olasi_p": 0.9611,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 2,5 Üst",
+     0.7982
+    ],
+    [
+     "1 veya 2,5 Alt",
+     0.9611
+    ],
+    [
+     "X veya 2,5 Üst",
+     0.6085
+    ],
+    [
+     "X veya 2,5 Alt",
+     0.5683
+    ],
+    [
+     "2 veya 2,5 Üst",
+     0.4916
+    ],
+    [
+     "2 veya 2,5 Alt",
+     0.5724
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol (Kesin)",
+   "oneri": "1 & 3 gol",
+   "olasilik": 0.1955,
+   "adil_oran": 5.12,
+   "en_olasi": "1 & 3 gol",
+   "en_olasi_p": 0.1955,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 0 gol",
+     0.0
+    ],
+    [
+     "1 & 1 gol",
+     0.1704
+    ],
+    [
+     "1 & 2 gol",
+     0.1787
+    ],
+    [
+     "1 & 3 gol",
+     0.1955
+    ],
+    [
+     "1 & 4 gol",
+     0.1132
+    ],
+    [
+     "1 & 5 gol",
+     0.0633
+    ],
+    [
+     "X & 0 gol",
+     0.0857
+    ],
+    [
+     "X & 1 gol",
+     0.0
+    ],
+    [
+     "X & 2 gol",
+     0.0736
+    ],
+    [
+     "X & 3 gol",
+     0.0
+    ],
+    [
+     "X & 4 gol",
+     0.0158
+    ],
+    [
+     "X & 5 gol",
+     0.0
+    ],
+    [
+     "2 & 0 gol",
+     0.0
+    ],
+    [
+     "2 & 1 gol",
+     0.035
+    ],
+    [
+     "2 & 2 gol",
+     0.0075
+    ],
+    [
+     "2 & 3 gol",
+     0.0163
+    ],
+    [
+     "2 & 4 gol",
+     0.0023
+    ],
+    [
+     "2 & 5 gol",
+     0.0025
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "1 & 1-3 gol",
+   "olasilik": 0.5445,
+   "adil_oran": 1.84,
+   "en_olasi": "1 & 1-3 gol",
+   "en_olasi_p": 0.5445,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1-2 gol",
+     0.3491
+    ],
+    [
+     "1 & 1-3 gol",
+     0.5445
+    ],
+    [
+     "1 & 2-3 gol",
+     0.3741
+    ],
+    [
+     "1 & 2-4 gol",
+     0.4873
+    ],
+    [
+     "1 & 3-4 gol",
+     0.3086
+    ],
+    [
+     "1 & 3-5 gol",
+     0.3719
+    ],
+    [
+     "X & 1-2 gol",
+     0.0736
+    ],
+    [
+     "X & 1-3 gol",
+     0.0736
+    ],
+    [
+     "X & 2-3 gol",
+     0.0736
+    ],
+    [
+     "X & 2-4 gol",
+     0.0894
+    ],
+    [
+     "X & 3-4 gol",
+     0.0158
+    ],
+    [
+     "X & 3-5 gol",
+     0.0158
+    ],
+    [
+     "2 & 1-2 gol",
+     0.0425
+    ],
+    [
+     "2 & 1-3 gol",
+     0.0588
+    ],
+    [
+     "2 & 2-3 gol",
+     0.0237
+    ],
+    [
+     "2 & 2-4 gol",
+     0.0261
+    ],
+    [
+     "2 & 3-4 gol",
+     0.0186
+    ],
+    [
+     "2 & 3-5 gol",
+     0.0211
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "1X & 1-3 gol",
+   "olasilik": 0.6182,
+   "adil_oran": 1.62,
+   "en_olasi": "1X & 1-3 gol",
+   "en_olasi_p": 0.6182,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1-2 gol",
+     0.4227
+    ],
+    [
+     "1X & 1-3 gol",
+     0.6182
+    ],
+    [
+     "1X & 2-3 gol",
+     0.4478
+    ],
+    [
+     "1X & 2-4 gol",
+     0.5767
+    ],
+    [
+     "12 & 1-2 gol",
+     0.3915
+    ],
+    [
+     "12 & 1-3 gol",
+     0.6033
+    ],
+    [
+     "12 & 2-3 gol",
+     0.3978
+    ],
+    [
+     "12 & 2-4 gol",
+     0.5133
+    ],
+    [
+     "X2 & 1-2 gol",
+     0.1161
+    ],
+    [
+     "X2 & 1-3 gol",
+     0.1324
+    ],
+    [
+     "X2 & 2-3 gol",
+     0.0974
+    ],
+    [
+     "X2 & 2-4 gol",
+     0.1154
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Doğru Skor",
+   "oneri": "1 veya 1-1",
+   "olasilik": 0.8329,
+   "adil_oran": 1.2,
+   "en_olasi": "1 veya 0-0",
+   "en_olasi_p": 0.8449,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 0-0",
+     0.8449
+    ],
+    [
+     "1 veya 1-1",
+     0.8329
+    ],
+    [
+     "X veya 2-0",
+     0.3554
+    ],
+    [
+     "X veya 1-0",
+     0.3471
+    ],
+    [
+     "X veya 3-0",
+     0.2984
+    ],
+    [
+     "X veya 2-1",
+     0.2505
+    ],
+    [
+     "2 veya 2-0",
+     0.2427
+    ],
+    [
+     "2 veya 1-0",
+     0.2344
+    ],
+    [
+     "2 veya 3-0",
+     0.1857
+    ],
+    [
+     "2 veya 0-0",
+     0.1497
+    ],
+    [
+     "2 veya 2-1",
+     0.1378
+    ],
+    [
+     "2 veya 1-1",
+     0.1376
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Her İki Yarı Toplam Gol Kombinasyonu",
+   "oneri": "İY Alt 1,5 & 2Y Alt 1,5",
+   "olasilik": 0.4192,
+   "adil_oran": 2.39,
+   "en_olasi": "İY Alt 1,5 & 2Y Alt 1,5",
+   "en_olasi_p": 0.4192,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Alt 1,5 & 2Y Alt 1,5",
+     0.4192
+    ],
+    [
+     "İY Alt 1,5 & 2Y Üst 1,5",
+     0.2842
+    ],
+    [
+     "İY Üst 1,5 & 2Y Alt 1,5",
+     0.1771
+    ],
+    [
+     "İY Üst 1,5 & 2Y Üst 1,5",
+     0.1194
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Farklı Kombineler",
+   "oneri": "1 & 2Y gol olur",
+   "olasilik": 0.6279,
+   "adil_oran": 1.59,
+   "en_olasi": "1 & 2Y gol olur",
+   "en_olasi_p": 0.6279,
+   "guven": "yüksek",
+   "not_": "Sitedeki kombinasyon içerikleri farklı olabilir",
+   "secimler": [
+    [
+     "1 & 2Y gol olur",
+     0.6279
+    ],
+    [
+     "2 & 2Y gol olur",
+     0.045
+    ],
+    [
+     "İzlanda her iki yarıda gol & 1",
+     0.3959
+    ],
+    [
+     "Lüksemburg her iki yarıda gol & 2",
+     0.0158
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans Kombo",
+   "oneri": "1X & 3,5 Alt",
+   "olasilik": 0.7038,
+   "adil_oran": 1.42,
+   "en_olasi": "1X & 3,5 Alt",
+   "en_olasi_p": 0.7038,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1,5 Üst",
+     0.6799
+    ],
+    [
+     "1X & 1,5 Alt",
+     0.2561
+    ],
+    [
+     "1X & 2,5 Üst",
+     0.4276
+    ],
+    [
+     "1X & 2,5 Alt",
+     0.5083
+    ],
+    [
+     "1X & 3,5 Üst",
+     0.2322
+    ],
+    [
+     "1X & 3,5 Alt",
+     0.7038
+    ],
+    [
+     "12 & 1,5 Üst",
+     0.6179
+    ],
+    [
+     "12 & 1,5 Alt",
+     0.2054
+    ],
+    [
+     "12 & 2,5 Üst",
+     0.4317
+    ],
+    [
+     "12 & 2,5 Alt",
+     0.3915
+    ],
+    [
+     "12 & 3,5 Üst",
+     0.22
+    ],
+    [
+     "12 & 3,5 Alt",
+     0.6033
+    ],
+    [
+     "X2 & 1,5 Üst",
+     0.1201
+    ],
+    [
+     "X2 & 1,5 Alt",
+     0.1207
+    ],
+    [
+     "X2 & 2,5 Üst",
+     0.0389
+    ],
+    [
+     "X2 & 2,5 Alt",
+     0.2018
+    ],
+    [
+     "X2 & 3,5 Üst",
+     0.0227
+    ],
+    [
+     "X2 & 3,5 Alt",
+     0.2181
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "İlk Yarı/Maç Sonucu ve Toplam Gol",
+   "oneri": "1/1 & 2,5 Üst",
+   "olasilik": 0.306,
+   "adil_oran": 3.27,
+   "en_olasi": "1/1 & 2,5 Üst",
+   "en_olasi_p": 0.306,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1 & 2,5 Üst",
+     0.306
+    ],
+    [
+     "1/1 & 2,5 Alt",
+     0.1971
+    ],
+    [
+     "1/X & 2,5 Üst",
+     0.0054
+    ],
+    [
+     "1/X & 2,5 Alt",
+     0.018
+    ],
+    [
+     "1/2 & 2,5 Üst",
+     0.0029
+    ],
+    [
+     "1/2 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "X/1 & 2,5 Üst",
+     0.0854
+    ],
+    [
+     "X/1 & 2,5 Alt",
+     0.1519
+    ],
+    [
+     "X/X & 2,5 Üst",
+     0.0066
+    ],
+    [
+     "X/X & 2,5 Alt",
+     0.1231
+    ],
+    [
+     "X/2 & 2,5 Üst",
+     0.0076
+    ],
+    [
+     "X/2 & 2,5 Alt",
+     0.0216
+    ],
+    [
+     "2/1 & 2,5 Üst",
+     0.0188
+    ],
+    [
+     "2/1 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "2/X & 2,5 Üst",
+     0.0055
+    ],
+    [
+     "2/X & 2,5 Alt",
+     0.0182
+    ],
+    [
+     "2/2 & 2,5 Üst",
+     0.011
+    ],
+    [
+     "2/2 & 2,5 Alt",
+     0.0209
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Her İki Yarıda Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.5029,
+   "adil_oran": 1.99,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5029,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4971
+    ],
+    [
+     "Hayır",
+     0.5029
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım",
+   "oneri": "İzlanda",
+   "olasilik": 0.7577,
+   "adil_oran": 1.32,
+   "en_olasi": "İzlanda",
+   "en_olasi_p": 0.7577,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda",
+     0.7577
+    ],
+    [
+     "Gol yok",
+     0.0857
+    ],
+    [
+     "Lüksemburg",
+     0.1567
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Son Golü Atacak Takım",
+   "oneri": "İzlanda",
+   "olasilik": 0.7577,
+   "adil_oran": 1.32,
+   "en_olasi": "İzlanda",
+   "en_olasi_p": 0.7577,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda",
+     0.7577
+    ],
+    [
+     "Gol yok",
+     0.0857
+    ],
+    [
+     "Lüksemburg",
+     0.1566
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golün Atılma Şekli",
+   "oneri": "Şut",
+   "olasilik": 0.6477,
+   "adil_oran": 1.54,
+   "en_olasi": "Şut",
+   "en_olasi_p": 0.6477,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şut",
+     0.6477
+    ],
+    [
+     "Kafa",
+     0.1384
+    ],
+    [
+     "Penaltı",
+     0.0683
+    ],
+    [
+     "Serbest vuruş",
+     0.0268
+    ],
+    [
+     "Kendi kalesine",
+     0.0331
+    ],
+    [
+     "Gol yok",
+     0.0857
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı",
+   "oneri": "28-90 dk",
+   "olasilik": 0.4714,
+   "adil_oran": 2.12,
+   "en_olasi": "28-90 dk",
+   "en_olasi_p": 0.4714,
+   "guven": "orta",
+   "not_": "Sınır 27. dk varsayıldı",
+   "secimler": [
+    [
+     "1-27 dk",
+     0.4429
+    ],
+    [
+     "28-90 dk",
+     0.4714
+    ],
+    [
+     "Gol yok",
+     0.0857
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İzlanda : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "1-10 dk",
+   "olasilik": 0.1577,
+   "adil_oran": 6.34,
+   "en_olasi": "1-10 dk",
+   "en_olasi_p": 0.1577,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.1577
+    ],
+    [
+     "11-20 dk",
+     0.1388
+    ],
+    [
+     "21-30 dk",
+     0.1216
+    ],
+    [
+     "31-40 dk",
+     0.1048
+    ],
+    [
+     "41-50 dk",
+     0.1036
+    ],
+    [
+     "51-60 dk",
+     0.0718
+    ],
+    [
+     "61-70 dk",
+     0.0603
+    ],
+    [
+     "71-80 dk",
+     0.0501
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0619
+    ],
+    [
+     "Gol yok",
+     0.1293
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Lüksemburg : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.6568,
+   "adil_oran": 1.52,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.6568,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.0352
+    ],
+    [
+     "11-20 dk",
+     0.0355
+    ],
+    [
+     "21-30 dk",
+     0.0365
+    ],
+    [
+     "31-40 dk",
+     0.0369
+    ],
+    [
+     "41-50 dk",
+     0.0432
+    ],
+    [
+     "51-60 dk",
+     0.0348
+    ],
+    [
+     "61-70 dk",
+     0.034
+    ],
+    [
+     "71-80 dk",
+     0.0348
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0521
+    ],
+    [
+     "Gol yok",
+     0.6568
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı (15 dk.)",
+   "oneri": "1-15 dk",
+   "olasilik": 0.2691,
+   "adil_oran": 3.72,
+   "en_olasi": "1-15 dk",
+   "en_olasi_p": 0.2691,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-15 dk",
+     0.2691
+    ],
+    [
+     "16-30 dk",
+     0.2115
+    ],
+    [
+     "31-45 (+uz.) dk",
+     0.1758
+    ],
+    [
+     "46-60 dk",
+     0.1088
+    ],
+    [
+     "61-75 dk",
+     0.0783
+    ],
+    [
+     "76-90 (+uz.) dk",
+     0.0709
+    ],
+    [
+     "Gol yok",
+     0.0857
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve Maç Sonucu",
+   "oneri": "İlk gol İzlanda & 1",
+   "olasilik": 0.7053,
+   "adil_oran": 1.42,
+   "en_olasi": "İlk gol İzlanda & 1",
+   "en_olasi_p": 0.7053,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol İzlanda & 1",
+     0.7053
+    ],
+    [
+     "İlk gol İzlanda & X",
+     0.0453
+    ],
+    [
+     "İlk gol İzlanda & 2",
+     0.0071
+    ],
+    [
+     "İlk gol Lüksemburg & 1",
+     0.054
+    ],
+    [
+     "İlk gol Lüksemburg & X",
+     0.0458
+    ],
+    [
+     "İlk gol Lüksemburg & 2",
+     0.0569
+    ],
+    [
+     "Gol yok",
+     0.0857
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 1. Yarı Sonucu",
+   "oneri": "İlk gol İzlanda & İY 1",
+   "olasilik": 0.5172,
+   "adil_oran": 1.93,
+   "en_olasi": "İlk gol İzlanda & İY 1",
+   "en_olasi_p": 0.5172,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol İzlanda & İY 1",
+     0.5172
+    ],
+    [
+     "İlk gol İzlanda & İY X",
+     0.2386
+    ],
+    [
+     "İlk gol İzlanda & İY 2",
+     0.0018
+    ],
+    [
+     "İlk gol Lüksemburg & İY 1",
+     0.0121
+    ],
+    [
+     "İlk gol Lüksemburg & İY X",
+     0.0719
+    ],
+    [
+     "İlk gol Lüksemburg & İY 2",
+     0.0726
+    ],
+    [
+     "Gol yok",
+     0.0857
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 2. Yarı Sonucu",
+   "oneri": "İlk gol İzlanda & 2Y 1",
+   "olasilik": 0.5263,
+   "adil_oran": 1.9,
+   "en_olasi": "İlk gol İzlanda & 2Y 1",
+   "en_olasi_p": 0.5263,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol İzlanda & 2Y 1",
+     0.5263
+    ],
+    [
+     "İlk gol İzlanda & 2Y X",
+     0.1885
+    ],
+    [
+     "İlk gol İzlanda & 2Y 2",
+     0.0428
+    ],
+    [
+     "İlk gol Lüksemburg & 2Y 1",
+     0.0754
+    ],
+    [
+     "İlk gol Lüksemburg & 2Y X",
+     0.0493
+    ],
+    [
+     "İlk gol Lüksemburg & 2Y 2",
+     0.032
+    ],
+    [
+     "Gol yok",
+     0.0857
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Doğru Skor",
+   "oneri": "2-0",
+   "olasilik": 0.1787,
+   "adil_oran": 5.6,
+   "en_olasi": "2-0",
+   "en_olasi_p": 0.1787,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "2-0",
+     0.1787
+    ],
+    [
+     "1-0",
+     0.1704
+    ],
+    [
+     "3-0",
+     0.1217
+    ],
+    [
+     "0-0",
+     0.0857
+    ],
+    [
+     "2-1",
+     0.0738
+    ],
+    [
+     "1-1",
+     0.0736
+    ],
+    [
+     "4-0",
+     0.0627
+    ],
+    [
+     "Diğer",
+     0.0576
+    ],
+    [
+     "3-1",
+     0.0505
+    ],
+    [
+     "0-1",
+     0.035
+    ],
+    [
+     "4-1",
+     0.0265
+    ],
+    [
+     "2-2",
+     0.0158
+    ],
+    [
+     "1-2",
+     0.0153
+    ],
+    [
+     "3-2",
+     0.0112
+    ],
+    [
+     "0-2",
+     0.0075
+    ],
+    [
+     "4-2",
+     0.0055
+    ],
+    [
+     "2-3",
+     0.0023
+    ],
+    [
+     "1-3",
+     0.0022
+    ],
+    [
+     "3-3",
+     0.0016
+    ],
+    [
+     "0-3",
+     0.001
+    ],
+    [
+     "4-3",
+     0.0008
+    ],
+    [
+     "1-4",
+     0.0002
+    ],
+    [
+     "2-4",
+     0.0002
+    ],
+    [
+     "3-4",
+     0.0002
+    ],
+    [
+     "0-4",
+     0.0001
+    ],
+    [
+     "4-4",
+     0.0001
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Herhangi Bir Zamanda Doğru Skor",
+   "oneri": "1-0 herhangi bir anda",
+   "olasilik": 0.7499,
+   "adil_oran": 1.33,
+   "en_olasi": "1-0 herhangi bir anda",
+   "en_olasi_p": 0.7499,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-0 herhangi bir anda",
+     0.7499
+    ],
+    [
+     "2-0 herhangi bir anda",
+     0.4822
+    ],
+    [
+     "3-0 herhangi bir anda",
+     0.2544
+    ],
+    [
+     "1-1 herhangi bir anda",
+     0.1977
+    ],
+    [
+     "2-1 herhangi bir anda",
+     0.1544
+    ],
+    [
+     "0-1 herhangi bir anda",
+     0.1531
+    ],
+    [
+     "3-1 herhangi bir anda",
+     0.0908
+    ],
+    [
+     "1-2 herhangi bir anda",
+     0.0319
+    ],
+    [
+     "2-2 herhangi bir anda",
+     0.0281
+    ],
+    [
+     "0-2 herhangi bir anda",
+     0.0201
+    ],
+    [
+     "3-2 herhangi bir anda",
+     0.0179
+    ],
+    [
+     "1-3 herhangi bir anda",
+     0.0038
+    ],
+    [
+     "2-3 herhangi bir anda",
+     0.0034
+    ],
+    [
+     "3-3 herhangi bir anda",
+     0.0023
+    ],
+    [
+     "0-3 herhangi bir anda",
+     0.0022
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Skor Kombinasyonları",
+   "oneri": "İzlanda 1-0/2-0/2-1",
+   "olasilik": 0.4228,
+   "adil_oran": 2.37,
+   "en_olasi": "İzlanda 1-0/2-0/2-1",
+   "en_olasi_p": 0.4228,
+   "guven": "yüksek",
+   "not_": "Sitedeki gruplar farklı olabilir",
+   "secimler": [
+    [
+     "İzlanda 1-0/2-0/2-1",
+     0.4228
+    ],
+    [
+     "İzlanda 3-0/3-1/4-0",
+     0.2349
+    ],
+    [
+     "0-0/1-1",
+     0.1593
+    ],
+    [
+     "Lüksemburg 0-1/0-2/1-2",
+     0.0578
+    ],
+    [
+     "Lüksemburg 0-3/1-3/0-4",
+     0.0033
+    ],
+    [
+     "2-2/3-3",
+     0.0174
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "1.Yarı/Maç Skoru",
+   "oneri": "İY 0-0 / MS 1-0",
+   "olasilik": 0.0954,
+   "adil_oran": 10.48,
+   "en_olasi": "İY 0-0 / MS 1-0",
+   "en_olasi_p": 0.0954,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 0-0 / MS 1-0",
+     0.0954
+    ],
+    [
+     "İY 1-0 / MS 2-0",
+     0.0884
+    ],
+    [
+     "İY 0-0 / MS 0-0",
+     0.0857
+    ],
+    [
+     "İY 1-0 / MS 1-0",
+     0.075
+    ],
+    [
+     "İY 0-0 / MS 2-0",
+     0.0565
+    ],
+    [
+     "İY 1-0 / MS 3-0",
+     0.0499
+    ],
+    [
+     "İY 2-0 / MS 3-0",
+     0.0392
+    ],
+    [
+     "İY 2-0 / MS 2-0",
+     0.0337
+    ],
+    [
+     "İY 0-0 / MS 1-1",
+     0.0228
+    ],
+    [
+     "İY 2-0 / MS 4-0",
+     0.0224
+    ],
+    [
+     "İY 0-0 / MS 3-0",
+     0.0218
+    ],
+    [
+     "İY 1-0 / MS 2-1",
+     0.0203
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Maç Skoru Beraberlik (0-0 hariç)",
+   "oneri": "Hayır",
+   "olasilik": 0.9089,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9089,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0911
+    ],
+    [
+     "Hayır",
+     0.9089
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "İzlanda Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.2563,
+   "adil_oran": 3.9,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2563,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2563
+    ],
+    [
+     "2 farkla",
+     0.235
+    ],
+    [
+     "3 farkla",
+     0.1505
+    ],
+    [
+     "4+ farkla",
+     0.1175
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Lüksemburg : Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.0528,
+   "adil_oran": 18.95,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.0528,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.0528
+    ],
+    [
+     "2 farkla",
+     0.0098
+    ],
+    [
+     "3 farkla",
+     0.0012
+    ],
+    [
+     "4+ farkla",
+     0.0002
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "İzlanda Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.2524,
+   "adil_oran": 3.96,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.2524,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.1704
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.2524
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.1834
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.153
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Lüksemburg Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 1 gol",
+   "olasilik": 0.035,
+   "adil_oran": 28.55,
+   "en_olasi": "Kazanır & 1 gol",
+   "en_olasi_p": 0.035,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.035
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.0228
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.0054
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.0008
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "İzlanda Gol Yemeden Kazanır",
+   "oneri": "Evet",
+   "olasilik": 0.5711,
+   "adil_oran": 1.75,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5711,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5711
+    ],
+    [
+     "Hayır",
+     0.4289
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Lüksemburg Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9564,
+   "adil_oran": 1.05,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9564,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0436
+    ],
+    [
+     "Hayır",
+     0.9564
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "İzlanda İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.6145,
+   "adil_oran": 1.63,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6145,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3855
+    ],
+    [
+     "Hayır",
+     0.6145
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Lüksemburg İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9889,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9889,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0111
+    ],
+    [
+     "Hayır",
+     0.9889
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "İzlanda Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.567,
+   "adil_oran": 1.76,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.567,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.433
+    ],
+    [
+     "Hayır",
+     0.567
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Lüksemburg Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.7705,
+   "adil_oran": 1.3,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7705,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2295
+    ],
+    [
+     "Hayır",
+     0.7705
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "İzlanda En Az Bir Yarıyı Kazanır",
+   "oneri": "Evet",
+   "olasilik": 0.8114,
+   "adil_oran": 1.23,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.8114,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.8114
+    ],
+    [
+     "Hayır",
+     0.1887
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Lüksemburg En Az Bir Yarıyı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8562,
+   "adil_oran": 1.17,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8562,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1438
+    ],
+    [
+     "Hayır",
+     0.8562
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "İzlanda İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.9738,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9738,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0262
+    ],
+    [
+     "Hayır",
+     0.9738
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Lüksemburg İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.9575,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9575,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0425
+    ],
+    [
+     "Hayır",
+     0.9575
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Sonucu",
+   "oneri": "1 (İzlanda)",
+   "olasilik": 0.5293,
+   "adil_oran": 1.89,
+   "en_olasi": "1 (İzlanda)",
+   "en_olasi_p": 0.5293,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (İzlanda)",
+     0.5293
+    ],
+    [
+     "X",
+     0.3962
+    ],
+    [
+     "2 (Lüksemburg)",
+     0.0745
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.6038,
+   "adil_oran": 1.66,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.9255,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.9255
+    ],
+    [
+     "12",
+     0.6038
+    ],
+    [
+     "X2",
+     0.4707
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.7035,
+   "adil_oran": 1.42,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.9011,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.6627
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.3373
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.2965
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.7035
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.0989
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.9011
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 1. Takım Toplam Gol",
+   "oneri": "İzlanda 1,5 Alt",
+   "olasilik": 0.7719,
+   "adil_oran": 1.3,
+   "en_olasi": "İzlanda 1,5 Alt",
+   "en_olasi_p": 0.7719,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda 0,5 Üst",
+     0.5941
+    ],
+    [
+     "İzlanda 0,5 Alt",
+     0.4059
+    ],
+    [
+     "İzlanda 1,5 Üst",
+     0.2281
+    ],
+    [
+     "İzlanda 1,5 Alt",
+     0.7719
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 2. Takım Toplam Gol",
+   "oneri": "Lüksemburg 0,5 Alt",
+   "olasilik": 0.8303,
+   "adil_oran": 1.2,
+   "en_olasi": "Lüksemburg 1,5 Alt",
+   "en_olasi_p": 0.9845,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Lüksemburg 0,5 Üst",
+     0.1697
+    ],
+    [
+     "Lüksemburg 0,5 Alt",
+     0.8303
+    ],
+    [
+     "Lüksemburg 1,5 Üst",
+     0.0155
+    ],
+    [
+     "Lüksemburg 1,5 Alt",
+     0.9845
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı İzlanda Toplam Gol Asya",
+   "oneri": "İzlanda Asya 1 Alt",
+   "olasilik": 0.6402,
+   "adil_oran": 1.56,
+   "en_olasi": "İzlanda Asya 1 Alt",
+   "en_olasi_p": 0.6402,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda Asya 0,5 Üst",
+     0.5941
+    ],
+    [
+     "İzlanda Asya 0,5 Alt",
+     0.4059
+    ],
+    [
+     "İzlanda Asya 0,75 Üst",
+     0.5031
+    ],
+    [
+     "İzlanda Asya 0,75 Alt",
+     0.4969
+    ],
+    [
+     "İzlanda Asya 1 Üst",
+     0.3598
+    ],
+    [
+     "İzlanda Asya 1 Alt",
+     0.6402
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Lüksemburg Toplam Gol Asya",
+   "oneri": "Lüksemburg Asya 0,5 Alt",
+   "olasilik": 0.8303,
+   "adil_oran": 1.2,
+   "en_olasi": "Lüksemburg Asya 0,5 Alt",
+   "en_olasi_p": 0.8303,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Lüksemburg Asya 0,25 Üst",
+     0.2902
+    ],
+    [
+     "Lüksemburg Asya 0,25 Alt",
+     0.7098
+    ],
+    [
+     "Lüksemburg Asya 0,5 Üst",
+     0.1697
+    ],
+    [
+     "Lüksemburg Asya 0,5 Alt",
+     0.8303
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8989,
+   "adil_oran": 1.11,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8989,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1011
+    ],
+    [
+     "Hayır",
+     0.8989
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı",
+   "oneri": "Lüksemburg +1,5",
+   "olasilik": 0.8004,
+   "adil_oran": 1.25,
+   "en_olasi": "İzlanda +1,5",
+   "en_olasi_p": 0.9933,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda -1,5",
+     0.1996
+    ],
+    [
+     "Lüksemburg +1,5",
+     0.8004
+    ],
+    [
+     "İzlanda -0,5",
+     0.5293
+    ],
+    [
+     "Lüksemburg +0,5",
+     0.4707
+    ],
+    [
+     "İzlanda +0,5",
+     0.9255
+    ],
+    [
+     "Lüksemburg -0,5",
+     0.0745
+    ],
+    [
+     "İzlanda +1,5",
+     0.9933
+    ],
+    [
+     "Lüksemburg -1,5",
+     0.0067
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Goller Asya Handikapı",
+   "oneri": "İzlanda Asya -0,25",
+   "olasilik": 0.6601,
+   "adil_oran": 1.51,
+   "en_olasi": "İzlanda Asya +0,5",
+   "en_olasi_p": 0.9256,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda Asya -1",
+     0.2977
+    ],
+    [
+     "Lüksemburg Asya -1",
+     0.0072
+    ],
+    [
+     "İzlanda Asya -0,75",
+     0.4364
+    ],
+    [
+     "Lüksemburg Asya -0,75",
+     0.042
+    ],
+    [
+     "İzlanda Asya -0,5",
+     0.5293
+    ],
+    [
+     "Lüksemburg Asya -0,5",
+     0.0744
+    ],
+    [
+     "İzlanda Asya -0,25",
+     0.6601
+    ],
+    [
+     "Lüksemburg Asya -0,25",
+     0.0928
+    ],
+    [
+     "İzlanda Asya 0",
+     0.8767
+    ],
+    [
+     "Lüksemburg Asya 0",
+     0.1233
+    ],
+    [
+     "İzlanda Asya +0,25",
+     0.9072
+    ],
+    [
+     "Lüksemburg Asya +0,25",
+     0.3399
+    ],
+    [
+     "İzlanda Asya +0,5",
+     0.9256
+    ],
+    [
+     "Lüksemburg Asya +0,5",
+     0.4707
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Lüksemburg (-2)",
+   "olasilik": 0.8004,
+   "adil_oran": 1.25,
+   "en_olasi": "İzlanda (+2)",
+   "en_olasi_p": 0.9933,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda (-2)",
+     0.0562
+    ],
+    [
+     "X (-2)",
+     0.1434
+    ],
+    [
+     "Lüksemburg (-2)",
+     0.8004
+    ],
+    [
+     "İzlanda (-1)",
+     0.1996
+    ],
+    [
+     "X (-1)",
+     0.3298
+    ],
+    [
+     "Lüksemburg (-1)",
+     0.4707
+    ],
+    [
+     "İzlanda (+1)",
+     0.9255
+    ],
+    [
+     "X (+1)",
+     0.0678
+    ],
+    [
+     "Lüksemburg (+1)",
+     0.0067
+    ],
+    [
+     "İzlanda (+2)",
+     0.9933
+    ],
+    [
+     "X (+2)",
+     0.0062
+    ],
+    [
+     "Lüksemburg (+2)",
+     0.0005
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Asya",
+   "oneri": "Toplam Asya 1,25 Alt",
+   "olasilik": 0.637,
+   "adil_oran": 1.57,
+   "en_olasi": "Toplam Asya 1,25 Alt",
+   "en_olasi_p": 0.637,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam Asya 0,75 Üst",
+     0.5871
+    ],
+    [
+     "Toplam Asya 0,75 Alt",
+     0.4129
+    ],
+    [
+     "Toplam Asya 1 Üst",
+     0.4678
+    ],
+    [
+     "Toplam Asya 1 Alt",
+     0.5322
+    ],
+    [
+     "Toplam Asya 1,25 Üst",
+     0.363
+    ],
+    [
+     "Toplam Asya 1,25 Alt",
+     0.637
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Toplam Gol (3-İhtimalli)",
+   "oneri": "Tam 1",
+   "olasilik": 0.3661,
+   "adil_oran": 2.73,
+   "en_olasi": "Tam 1",
+   "en_olasi_p": 0.3661,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.3373
+    ],
+    [
+     "Tam 1",
+     0.3661
+    ],
+    [
+     "1 Üst",
+     0.2965
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.4929,
+   "adil_oran": 2.03,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.4929,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0364
+    ],
+    [
+     "1 & KG Yok",
+     0.4929
+    ],
+    [
+     "X & KG Var",
+     0.0589
+    ],
+    [
+     "X & KG Yok",
+     0.3373
+    ],
+    [
+     "2 & KG Var",
+     0.0059
+    ],
+    [
+     "2 & KG Yok",
+     0.0686
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Aralığı",
+   "oneri": "1 gol",
+   "olasilik": 0.3661,
+   "adil_oran": 2.73,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3661,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3373
+    ],
+    [
+     "1 gol",
+     0.3661
+    ],
+    [
+     "2-3 gol",
+     0.2713
+    ],
+    [
+     "4+ gol",
+     0.0252
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı İzlanda Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.4059,
+   "adil_oran": 2.46,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4059,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4059
+    ],
+    [
+     "1 gol",
+     0.3659
+    ],
+    [
+     "2+ gol",
+     0.2281
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Lüksemburg Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.8303,
+   "adil_oran": 1.2,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.8303,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.8303
+    ],
+    [
+     "1 gol",
+     0.1542
+    ],
+    [
+     "2+ gol",
+     0.0155
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7035,
+   "adil_oran": 1.42,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7035,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.7035
+    ],
+    [
+     "1-2 gol",
+     0.5638
+    ],
+    [
+     "2-3 gol",
+     0.2713
+    ],
+    [
+     "3+ gol",
+     0.0989
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7719,
+   "adil_oran": 1.3,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7719,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4059
+    ],
+    [
+     "0-1 gol",
+     0.7719
+    ],
+    [
+     "1-2 gol",
+     0.5291
+    ],
+    [
+     "2+ gol",
+     0.2281
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.8303,
+   "adil_oran": 1.2,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.9845,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.8303
+    ],
+    [
+     "0-1 gol",
+     0.9845
+    ],
+    [
+     "1-2 gol",
+     0.1687
+    ],
+    [
+     "2+ gol",
+     0.0155
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3661,
+   "adil_oran": 2.73,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3661,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3373
+    ],
+    [
+     "1 gol",
+     0.3661
+    ],
+    [
+     "2 gol",
+     0.1977
+    ],
+    [
+     "3 gol",
+     0.0736
+    ],
+    [
+     "4+ gol",
+     0.0252
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı İzlanda Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.4059,
+   "adil_oran": 2.46,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4059,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4059
+    ],
+    [
+     "1 gol",
+     0.3659
+    ],
+    [
+     "2 gol",
+     0.1631
+    ],
+    [
+     "3+ gol",
+     0.065
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Lüksemburg Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.8303,
+   "adil_oran": 1.2,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.8303,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.8303
+    ],
+    [
+     "1 gol",
+     0.1542
+    ],
+    [
+     "2 gol",
+     0.0145
+    ],
+    [
+     "3+ gol",
+     0.001
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı İzlanda Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.3298,
+   "adil_oran": 3.03,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.3298,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.3298
+    ],
+    [
+     "2 farkla",
+     0.1434
+    ],
+    [
+     "3+ farkla",
+     0.0562
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Lüksemburg Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.0678,
+   "adil_oran": 14.76,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.0678,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.0678
+    ],
+    [
+     "2 farkla",
+     0.0062
+    ],
+    [
+     "3+ farkla",
+     0.0005
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı İzlanda Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.5071,
+   "adil_oran": 1.97,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5071,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4929
+    ],
+    [
+     "Hayır",
+     0.5071
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Lüksemburg Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9314,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9314,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0686
+    ],
+    [
+     "Hayır",
+     0.9314
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı İlk Golü Atacak Takım",
+   "oneri": "İzlanda",
+   "olasilik": 0.5494,
+   "adil_oran": 1.82,
+   "en_olasi": "İzlanda",
+   "en_olasi_p": 0.5494,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda",
+     0.5494
+    ],
+    [
+     "Gol yok",
+     0.3373
+    ],
+    [
+     "Lüksemburg",
+     0.1133
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Son Golü Atacak Takım",
+   "oneri": "İzlanda",
+   "olasilik": 0.5498,
+   "adil_oran": 1.82,
+   "en_olasi": "İzlanda",
+   "en_olasi_p": 0.5498,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda",
+     0.5498
+    ],
+    [
+     "Gol yok",
+     0.3373
+    ],
+    [
+     "Lüksemburg",
+     0.1128
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Doğru Skor",
+   "oneri": "0-0",
+   "olasilik": 0.3373,
+   "adil_oran": 2.96,
+   "en_olasi": "0-0",
+   "en_olasi_p": 0.3373,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-0",
+     0.3373
+    ],
+    [
+     "1-0",
+     0.3039
+    ],
+    [
+     "2-0",
+     0.1353
+    ],
+    [
+     "0-1",
+     0.0623
+    ],
+    [
+     "1-1",
+     0.0564
+    ],
+    [
+     "3-0",
+     0.0427
+    ],
+    [
+     "2-1",
+     0.0252
+    ],
+    [
+     "Diğer",
+     0.0137
+    ],
+    [
+     "3-1",
+     0.0079
+    ],
+    [
+     "0-2",
+     0.0059
+    ],
+    [
+     "1-2",
+     0.0053
+    ],
+    [
+     "2-2",
+     0.0024
+    ],
+    [
+     "3-2",
+     0.0007
+    ],
+    [
+     "0-3",
+     0.0004
+    ],
+    [
+     "1-3",
+     0.0003
+    ],
+    [
+     "2-3",
+     0.0002
+    ],
+    [
+     "3-3",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Sonucu",
+   "oneri": "1 (İzlanda)",
+   "olasilik": 0.6017,
+   "adil_oran": 1.66,
+   "en_olasi": "1 (İzlanda)",
+   "en_olasi_p": 0.6017,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (İzlanda)",
+     0.6017
+    ],
+    [
+     "X",
+     0.3235
+    ],
+    [
+     "2 (Lüksemburg)",
+     0.0748
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.6765,
+   "adil_oran": 1.48,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.9252,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.9252
+    ],
+    [
+     "12",
+     0.6765
+    ],
+    [
+     "X2",
+     0.3983
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.7488,
+   "adil_oran": 1.34,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.8367,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7488
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2512
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.4037
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.5963
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1633
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8367
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı İzlanda Toplam Gol",
+   "oneri": "İzlanda 0,5 Üst",
+   "olasilik": 0.683,
+   "adil_oran": 1.46,
+   "en_olasi": "İzlanda 0,5 Üst",
+   "en_olasi_p": 0.683,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda 0,5 Üst",
+     0.683
+    ],
+    [
+     "İzlanda 0,5 Alt",
+     0.317
+    ],
+    [
+     "İzlanda 1,5 Üst",
+     0.3201
+    ],
+    [
+     "İzlanda 1,5 Alt",
+     0.6799
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Lüksemburg Toplam Gol",
+   "oneri": "Lüksemburg 0,5 Alt",
+   "olasilik": 0.7906,
+   "adil_oran": 1.26,
+   "en_olasi": "Lüksemburg 1,5 Alt",
+   "en_olasi_p": 0.9761,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Lüksemburg 0,5 Üst",
+     0.2094
+    ],
+    [
+     "Lüksemburg 0,5 Alt",
+     0.7906
+    ],
+    [
+     "Lüksemburg 1,5 Üst",
+     0.0239
+    ],
+    [
+     "Lüksemburg 1,5 Alt",
+     0.9761
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8564,
+   "adil_oran": 1.17,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8564,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1436
+    ],
+    [
+     "Hayır",
+     0.8564
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı",
+   "oneri": "Lüksemburg +1,5",
+   "olasilik": 0.726,
+   "adil_oran": 1.38,
+   "en_olasi": "İzlanda +1,5",
+   "en_olasi_p": 0.9919,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda -1,5",
+     0.274
+    ],
+    [
+     "Lüksemburg +1,5",
+     0.726
+    ],
+    [
+     "İzlanda -0,5",
+     0.6017
+    ],
+    [
+     "Lüksemburg +0,5",
+     0.3983
+    ],
+    [
+     "İzlanda +0,5",
+     0.9252
+    ],
+    [
+     "Lüksemburg -0,5",
+     0.0748
+    ],
+    [
+     "İzlanda +1,5",
+     0.9919
+    ],
+    [
+     "Lüksemburg -1,5",
+     0.0081
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Lüksemburg (-2)",
+   "olasilik": 0.726,
+   "adil_oran": 1.38,
+   "en_olasi": "İzlanda (+2)",
+   "en_olasi_p": 0.9919,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda (-2)",
+     0.0924
+    ],
+    [
+     "X (-2)",
+     0.1816
+    ],
+    [
+     "Lüksemburg (-2)",
+     0.726
+    ],
+    [
+     "İzlanda (-1)",
+     0.274
+    ],
+    [
+     "X (-1)",
+     0.3277
+    ],
+    [
+     "Lüksemburg (-1)",
+     0.3983
+    ],
+    [
+     "İzlanda (+1)",
+     0.9252
+    ],
+    [
+     "X (+1)",
+     0.0667
+    ],
+    [
+     "Lüksemburg (+1)",
+     0.0081
+    ],
+    [
+     "İzlanda (+2)",
+     0.9919
+    ],
+    [
+     "X (+2)",
+     0.0075
+    ],
+    [
+     "Lüksemburg (+2)",
+     0.0006
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.5394,
+   "adil_oran": 1.85,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.5394,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0623
+    ],
+    [
+     "1 & KG Yok",
+     0.5394
+    ],
+    [
+     "X & KG Var",
+     0.0723
+    ],
+    [
+     "X & KG Yok",
+     0.2512
+    ],
+    [
+     "2 & KG Var",
+     0.0091
+    ],
+    [
+     "2 & KG Yok",
+     0.0658
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol Aralığı",
+   "oneri": "2-3 gol",
+   "olasilik": 0.3513,
+   "adil_oran": 2.85,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.3513,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2512
+    ],
+    [
+     "1 gol",
+     0.3451
+    ],
+    [
+     "2-3 gol",
+     0.3513
+    ],
+    [
+     "4+ gol",
+     0.0524
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı İzlanda Toplam Gol (Aralık)",
+   "oneri": "1 gol",
+   "olasilik": 0.3629,
+   "adil_oran": 2.76,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3629,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.317
+    ],
+    [
+     "1 gol",
+     0.3629
+    ],
+    [
+     "2+ gol",
+     0.3201
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Lüksemburg Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.7906,
+   "adil_oran": 1.26,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.7906,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.7906
+    ],
+    [
+     "1 gol",
+     0.1855
+    ],
+    [
+     "2+ gol",
+     0.0239
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.5963,
+   "adil_oran": 1.68,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.5963,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.5963
+    ],
+    [
+     "1-2 gol",
+     0.5855
+    ],
+    [
+     "2-3 gol",
+     0.3513
+    ],
+    [
+     "3+ gol",
+     0.1633
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.6799,
+   "adil_oran": 1.47,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.6799,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.317
+    ],
+    [
+     "0-1 gol",
+     0.6799
+    ],
+    [
+     "1-2 gol",
+     0.5729
+    ],
+    [
+     "2+ gol",
+     0.3201
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.7906,
+   "adil_oran": 1.26,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.9761,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.7906
+    ],
+    [
+     "0-1 gol",
+     0.9761
+    ],
+    [
+     "1-2 gol",
+     0.2076
+    ],
+    [
+     "2+ gol",
+     0.0239
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3451,
+   "adil_oran": 2.9,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3451,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2512
+    ],
+    [
+     "1 gol",
+     0.3451
+    ],
+    [
+     "2 gol",
+     0.2404
+    ],
+    [
+     "3 gol",
+     0.111
+    ],
+    [
+     "4+ gol",
+     0.0524
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı İzlanda Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3629,
+   "adil_oran": 2.76,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3629,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.317
+    ],
+    [
+     "1 gol",
+     0.3629
+    ],
+    [
+     "2 gol",
+     0.21
+    ],
+    [
+     "3+ gol",
+     0.1102
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Lüksemburg Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.7906,
+   "adil_oran": 1.26,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.7906,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.7906
+    ],
+    [
+     "1 gol",
+     0.1855
+    ],
+    [
+     "2 gol",
+     0.0221
+    ],
+    [
+     "3+ gol",
+     0.0018
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı İzlanda Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.3277,
+   "adil_oran": 3.05,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.3277,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.3277
+    ],
+    [
+     "2 farkla",
+     0.1816
+    ],
+    [
+     "3+ farkla",
+     0.0924
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Lüksemburg Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.0667,
+   "adil_oran": 14.99,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.0667,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.0667
+    ],
+    [
+     "2 farkla",
+     0.0075
+    ],
+    [
+     "3+ farkla",
+     0.0006
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı İzlanda Sıfıra Karşı Kazanır",
+   "oneri": "Evet",
+   "olasilik": 0.5394,
+   "adil_oran": 1.85,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5394,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5394
+    ],
+    [
+     "Hayır",
+     0.4606
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Lüksemburg Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9343,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9343,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0658
+    ],
+    [
+     "Hayır",
+     0.9343
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı İlk Golü Atacak Takım",
+   "oneri": "İzlanda",
+   "olasilik": 0.6214,
+   "adil_oran": 1.61,
+   "en_olasi": "İzlanda",
+   "en_olasi_p": 0.6214,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda",
+     0.6214
+    ],
+    [
+     "Gol yok",
+     0.2512
+    ],
+    [
+     "Lüksemburg",
+     0.1274
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Son Golü Atacak Takım",
+   "oneri": "İzlanda",
+   "olasilik": 0.6221,
+   "adil_oran": 1.61,
+   "en_olasi": "İzlanda",
+   "en_olasi_p": 0.6221,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda",
+     0.6221
+    ],
+    [
+     "Gol yok",
+     0.2512
+    ],
+    [
+     "Lüksemburg",
+     0.1266
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Doğru Skor",
+   "oneri": "1-0",
+   "olasilik": 0.2867,
+   "adil_oran": 3.49,
+   "en_olasi": "1-0",
+   "en_olasi_p": 0.2867,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-0",
+     0.2867
+    ],
+    [
+     "0-0",
+     0.2512
+    ],
+    [
+     "2-0",
+     0.166
+    ],
+    [
+     "1-1",
+     0.0675
+    ],
+    [
+     "3-0",
+     0.0635
+    ],
+    [
+     "0-1",
+     0.0583
+    ],
+    [
+     "2-1",
+     0.039
+    ],
+    [
+     "Diğer",
+     0.0296
+    ],
+    [
+     "3-1",
+     0.0151
+    ],
+    [
+     "1-2",
+     0.008
+    ],
+    [
+     "0-2",
+     0.0069
+    ],
+    [
+     "2-2",
+     0.0046
+    ],
+    [
+     "3-2",
+     0.0019
+    ],
+    [
+     "1-3",
+     0.0006
+    ],
+    [
+     "0-3",
+     0.0005
+    ],
+    [
+     "2-3",
+     0.0004
+    ],
+    [
+     "3-3",
+     0.0001
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Karşılıklı Gol",
+   "oneri": "İY Yok / 2Y Yok",
+   "olasilik": 0.7699,
+   "adil_oran": 1.3,
+   "en_olasi": "İY Yok / 2Y Yok",
+   "en_olasi_p": 0.7699,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Var / 2Y Var",
+     0.0147
+    ],
+    [
+     "İY Var / 2Y Yok",
+     0.0864
+    ],
+    [
+     "İY Yok / 2Y Var",
+     0.129
+    ],
+    [
+     "İY Yok / 2Y Yok",
+     0.7699
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı veya Maç Sonucu",
+   "oneri": "İY 1 veya MS 1",
+   "olasilik": 0.7855,
+   "adil_oran": 1.27,
+   "en_olasi": "İY 1 veya MS 1",
+   "en_olasi_p": 0.7855,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 1 veya MS 1",
+     0.7855
+    ],
+    [
+     "İY X veya MS X",
+     0.4433
+    ],
+    [
+     "İY 2 veya MS 2",
+     0.1066
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarı/Maç Sonucu",
+   "oneri": "1/1",
+   "olasilik": 0.5031,
+   "adil_oran": 1.99,
+   "en_olasi": "1/1",
+   "en_olasi_p": 0.5031,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.5031
+    ],
+    [
+     "1/X",
+     0.0233
+    ],
+    [
+     "1/2",
+     0.0029
+    ],
+    [
+     "X/1",
+     0.2373
+    ],
+    [
+     "X/X",
+     0.1297
+    ],
+    [
+     "X/2",
+     0.0292
+    ],
+    [
+     "2/1",
+     0.0188
+    ],
+    [
+     "2/X",
+     0.0237
+    ],
+    [
+     "2/2",
+     0.0319
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Sonucu",
+   "oneri": "1/1",
+   "olasilik": 0.3197,
+   "adil_oran": 3.13,
+   "en_olasi": "1/1",
+   "en_olasi_p": 0.3197,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.3197
+    ],
+    [
+     "1/X",
+     0.1696
+    ],
+    [
+     "1/2",
+     0.0401
+    ],
+    [
+     "X/1",
+     0.2373
+    ],
+    [
+     "X/X",
+     0.1297
+    ],
+    [
+     "X/2",
+     0.0292
+    ],
+    [
+     "2/1",
+     0.0447
+    ],
+    [
+     "2/X",
+     0.0243
+    ],
+    [
+     "2/2",
+     0.0055
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.4349,
+   "adil_oran": 2.3,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.4349,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2943
+    ],
+    [
+     "Eşit",
+     0.2707
+    ],
+    [
+     "2. Yarı",
+     0.4349
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı : Çifte Şans",
+   "oneri": "1. veya 2. Yarı",
+   "olasilik": 0.7293,
+   "adil_oran": 1.37,
+   "en_olasi": "1. veya 2. Yarı",
+   "en_olasi_p": 0.7293,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı veya Eşit",
+     0.5651
+    ],
+    [
+     "2. Yarı veya Eşit",
+     0.7057
+    ],
+    [
+     "1. veya 2. Yarı",
+     0.7293
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İzlanda : En Çok Gol Attığı Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.412,
+   "adil_oran": 2.43,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.412,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2855
+    ],
+    [
+     "Eşit",
+     0.3025
+    ],
+    [
+     "2. Yarı",
+     0.412
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Lüksemburg : En Çok Gol Attığı Yarı",
+   "oneri": "Eşit",
+   "olasilik": 0.6861,
+   "adil_oran": 1.46,
+   "en_olasi": "Eşit",
+   "en_olasi_p": 0.6861,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.1368
+    ],
+    [
+     "Eşit",
+     0.6861
+    ],
+    [
+     "2. Yarı",
+     0.1771
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İzlanda : Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.5937,
+   "adil_oran": 1.68,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5937,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4063
+    ],
+    [
+     "Hayır",
+     0.5937
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Lüksemburg Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.9641,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9641,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0359
+    ],
+    [
+     "Hayır",
+     0.9641
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İzlanda : İlk Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.5941,
+   "adil_oran": 1.68,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5941,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5941
+    ],
+    [
+     "Hayır",
+     0.4059
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Lüksemburg İlk Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8303,
+   "adil_oran": 1.2,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8303,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1697
+    ],
+    [
+     "Hayır",
+     0.8303
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İzlanda : İkinci Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.683,
+   "adil_oran": 1.46,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.683,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.683
+    ],
+    [
+     "Hayır",
+     0.317
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Lüksemburg İkinci Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.7906,
+   "adil_oran": 1.26,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7906,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2094
+    ],
+    [
+     "Hayır",
+     0.7906
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.6627,
+   "adil_oran": 1.51,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6627,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6627
+    ],
+    [
+     "Hayır",
+     0.3373
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İkinci Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.7488,
+   "adil_oran": 1.34,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7488,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7488
+    ],
+    [
+     "Hayır",
+     0.2512
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarıda da 1.5 Üst Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8806,
+   "adil_oran": 1.14,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8806,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1194
+    ],
+    [
+     "Hayır",
+     0.8806
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarı Goller 1.5 Alt",
+   "oneri": "Hayır",
+   "olasilik": 0.5808,
+   "adil_oran": 1.72,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5808,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4192
+    ],
+    [
+     "Hayır",
+     0.5808
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İzlanda : Gol Atar 1.Yarı/2.Yarı",
+   "oneri": "Evet/Evet",
+   "olasilik": 0.4063,
+   "adil_oran": 2.46,
+   "en_olasi": "Evet/Evet",
+   "en_olasi_p": 0.4063,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.4063
+    ],
+    [
+     "Evet/Hayır",
+     0.1877
+    ],
+    [
+     "Hayır/Evet",
+     0.2767
+    ],
+    [
+     "Hayır/Hayır",
+     0.1293
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Lüksemburg Gol Atar İlk Yarı/İkinci Yarı",
+   "oneri": "Hayır/Hayır",
+   "olasilik": 0.6568,
+   "adil_oran": 1.52,
+   "en_olasi": "Hayır/Hayır",
+   "en_olasi_p": 0.6568,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.0359
+    ],
+    [
+     "Evet/Hayır",
+     0.1338
+    ],
+    [
+     "Hayır/Evet",
+     0.1735
+    ],
+    [
+     "Hayır/Hayır",
+     0.6568
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarıları Farklı Takımlar Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9152,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9152,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0848
+    ],
+    [
+     "Hayır",
+     0.9152
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarılardan En Az Birinde Beraberlik",
+   "oneri": "Evet",
+   "olasilik": 0.5901,
+   "adil_oran": 1.69,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5901,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5901
+    ],
+    [
+     "Hayır",
+     0.4099
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1.Yarı Toplam Gol'e karşı 2. Yarı Toplam Gol Handikapı",
+   "oneri": "1. Yarı +1,5",
+   "olasilik": 0.7924,
+   "adil_oran": 1.26,
+   "en_olasi": "1. Yarı +1,5",
+   "en_olasi_p": 0.7924,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "2. Yarı -1,5",
+     0.2076
+    ],
+    [
+     "2. Yarı -0,5",
+     0.4349
+    ],
+    [
+     "2. Yarı +0,5",
+     0.7057
+    ],
+    [
+     "1. Yarı +1,5",
+     0.7924
+    ],
+    [
+     "1. Yarı +0,5",
+     0.5651
+    ],
+    [
+     "1. Yarı -0,5",
+     0.2943
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8096,
+   "adil_oran": 1.24,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8096,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1904
+    ],
+    [
+     "Hayır",
+     0.8096
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Köşe Vuruşu",
+   "oneri": "Evet",
+   "olasilik": 0.5203,
+   "adil_oran": 1.92,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5203,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5203
+    ],
+    [
+     "Hayır",
+     0.4797
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İzlanda : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "İzlanda 0,5 Alt",
+   "olasilik": 0.612,
+   "adil_oran": 1.63,
+   "en_olasi": "İzlanda 1,5 Alt",
+   "en_olasi_p": 0.9134,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda 0,5 Üst",
+     0.388
+    ],
+    [
+     "İzlanda 0,5 Alt",
+     0.612
+    ],
+    [
+     "İzlanda 1,5 Üst",
+     0.0866
+    ],
+    [
+     "İzlanda 1,5 Alt",
+     0.9134
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Lüksemburg : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Lüksemburg 0,5 Alt",
+   "olasilik": 0.7828,
+   "adil_oran": 1.28,
+   "en_olasi": "Lüksemburg 0,5 Alt",
+   "en_olasi_p": 0.7828,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Lüksemburg 0,5 Üst",
+     0.2172
+    ],
+    [
+     "Lüksemburg 0,5 Alt",
+     0.7828
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Sarı Kartlar",
+   "oneri": "Hayır",
+   "olasilik": 0.7931,
+   "adil_oran": 1.26,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7931,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2069
+    ],
+    [
+     "Hayır",
+     0.7931
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.7377,
+   "adil_oran": 1.36,
+   "en_olasi": "X",
+   "en_olasi_p": 0.7377,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (İzlanda)",
+     0.2215
+    ],
+    [
+     "X",
+     0.7377
+    ],
+    [
+     "2 (Lüksemburg)",
+     0.0408
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Gol Handikapı",
+   "oneri": "Lüksemburg (-1)",
+   "olasilik": 0.7785,
+   "adil_oran": 1.28,
+   "en_olasi": "İzlanda (+1)",
+   "en_olasi_p": 0.9592,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda (-1)",
+     0.0284
+    ],
+    [
+     "X (-1)",
+     0.1931
+    ],
+    [
+     "Lüksemburg (-1)",
+     0.7785
+    ],
+    [
+     "İzlanda (+1)",
+     0.9592
+    ],
+    [
+     "X (+1)",
+     0.0396
+    ],
+    [
+     "Lüksemburg (+1)",
+     0.0012
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.7268,
+   "adil_oran": 1.38,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9577,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.2732
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.7268
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0423
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9577
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. İzlanda Toplam Goller",
+   "oneri": "İzlanda 0,5 Alt",
+   "olasilik": 0.7673,
+   "adil_oran": 1.3,
+   "en_olasi": "İzlanda 1,5 Alt",
+   "en_olasi_p": 0.9701,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda 0,5 Üst",
+     0.2327
+    ],
+    [
+     "İzlanda 0,5 Alt",
+     0.7673
+    ],
+    [
+     "İzlanda 1,5 Üst",
+     0.0299
+    ],
+    [
+     "İzlanda 1,5 Alt",
+     0.9701
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Lüksemburg Toplam Goller",
+   "oneri": "Lüksemburg 0,5 Alt",
+   "olasilik": 0.9467,
+   "adil_oran": 1.06,
+   "en_olasi": "Lüksemburg 0,5 Alt",
+   "en_olasi_p": 0.9467,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Lüksemburg 0,5 Üst",
+     0.0532
+    ],
+    [
+     "Lüksemburg 0,5 Alt",
+     0.9467
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. İki Takım Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.9872,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9872,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0128
+    ],
+    [
+     "Hayır",
+     0.9872
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.5456,
+   "adil_oran": 1.83,
+   "en_olasi": "X",
+   "en_olasi_p": 0.5456,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (İzlanda)",
+     0.3908
+    ],
+    [
+     "X",
+     0.5456
+    ],
+    [
+     "2 (Lüksemburg)",
+     0.0637
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Gol Handikapı",
+   "oneri": "Lüksemburg (-1)",
+   "olasilik": 0.6092,
+   "adil_oran": 1.64,
+   "en_olasi": "İzlanda (+1)",
+   "en_olasi_p": 0.9363,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda (-1)",
+     0.0977
+    ],
+    [
+     "X (-1)",
+     0.293
+    ],
+    [
+     "Lüksemburg (-1)",
+     0.6092
+    ],
+    [
+     "İzlanda (+1)",
+     0.9363
+    ],
+    [
+     "X (+1)",
+     0.0601
+    ],
+    [
+     "Lüksemburg (+1)",
+     0.0036
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.5132,
+   "adil_oran": 1.95,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.8553,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.4868
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.5132
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.1447
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.8553
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. İzlanda Toplam Goller",
+   "oneri": "İzlanda 0,5 Alt",
+   "olasilik": 0.575,
+   "adil_oran": 1.74,
+   "en_olasi": "İzlanda 1,5 Alt",
+   "en_olasi_p": 0.8926,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda 0,5 Üst",
+     0.425
+    ],
+    [
+     "İzlanda 0,5 Alt",
+     0.575
+    ],
+    [
+     "İzlanda 1,5 Üst",
+     0.1074
+    ],
+    [
+     "İzlanda 1,5 Alt",
+     0.8926
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Lüksemburg Toplam Goller",
+   "oneri": "Lüksemburg 0,5 Alt",
+   "olasilik": 0.8926,
+   "adil_oran": 1.12,
+   "en_olasi": "Lüksemburg 0,5 Alt",
+   "en_olasi_p": 0.8926,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Lüksemburg 0,5 Üst",
+     0.1074
+    ],
+    [
+     "Lüksemburg 0,5 Alt",
+     0.8926
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Galibi",
+   "oneri": "1 (İzlanda)",
+   "olasilik": 0.6188,
+   "adil_oran": 1.62,
+   "en_olasi": "1 (İzlanda)",
+   "en_olasi_p": 0.6188,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (İzlanda)",
+     0.6188
+    ],
+    [
+     "X",
+     0.3055
+    ],
+    [
+     "2 (Lüksemburg)",
+     0.0757
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Gol Handikapı",
+   "oneri": "Lüksemburg +1,5",
+   "olasilik": 0.7057,
+   "adil_oran": 1.42,
+   "en_olasi": "İzlanda +0,5",
+   "en_olasi_p": 0.9243,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda -1,5",
+     0.2943
+    ],
+    [
+     "Lüksemburg +1,5",
+     0.7057
+    ],
+    [
+     "İzlanda -0,5",
+     0.6188
+    ],
+    [
+     "Lüksemburg +0,5",
+     0.3812
+    ],
+    [
+     "İzlanda +0,5",
+     0.9243
+    ],
+    [
+     "Lüksemburg -0,5",
+     0.0757
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Toplam Goller",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.8162,
+   "adil_oran": 1.23,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.8162,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7707
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2293
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.4327
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.5673
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1838
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8162
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. İzlanda Toplam Goller",
+   "oneri": "İzlanda 0,5 Üst",
+   "olasilik": 0.7052,
+   "adil_oran": 1.42,
+   "en_olasi": "İzlanda 0,5 Üst",
+   "en_olasi_p": 0.7052,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda 0,5 Üst",
+     0.7052
+    ],
+    [
+     "İzlanda 0,5 Alt",
+     0.2948
+    ],
+    [
+     "İzlanda 1,5 Üst",
+     0.3445
+    ],
+    [
+     "İzlanda 1,5 Alt",
+     0.6555
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Lüksemburg Toplam Goller",
+   "oneri": "Lüksemburg 0,5 Alt",
+   "olasilik": 0.7776,
+   "adil_oran": 1.29,
+   "en_olasi": "Lüksemburg 0,5 Alt",
+   "en_olasi_p": 0.7776,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Lüksemburg 0,5 Üst",
+     0.2224
+    ],
+    [
+     "Lüksemburg 0,5 Alt",
+     0.7776
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8431,
+   "adil_oran": 1.19,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8431,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1569
+    ],
+    [
+     "Hayır",
+     0.8431
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Galibi",
+   "oneri": "1 (İzlanda)",
+   "olasilik": 0.6878,
+   "adil_oran": 1.45,
+   "en_olasi": "1 (İzlanda)",
+   "en_olasi_p": 0.6878,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (İzlanda)",
+     0.6878
+    ],
+    [
+     "X",
+     0.2403
+    ],
+    [
+     "2 (Lüksemburg)",
+     0.0719
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Gol Handikapı",
+   "oneri": "İzlanda -0,5",
+   "olasilik": 0.6878,
+   "adil_oran": 1.45,
+   "en_olasi": "İzlanda +0,5",
+   "en_olasi_p": 0.9281,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda -1,5",
+     0.3872
+    ],
+    [
+     "Lüksemburg +1,5",
+     0.6128
+    ],
+    [
+     "İzlanda -0,5",
+     0.6878
+    ],
+    [
+     "Lüksemburg +0,5",
+     0.3122
+    ],
+    [
+     "İzlanda +0,5",
+     0.9281
+    ],
+    [
+     "Lüksemburg -0,5",
+     0.0719
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Toplam Goller",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.708,
+   "adil_oran": 1.41,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.847,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.847
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.153
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.5617
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.4382
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.292
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.708
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. İzlanda Toplam Goller",
+   "oneri": "İzlanda 0,5 Üst",
+   "olasilik": 0.7897,
+   "adil_oran": 1.27,
+   "en_olasi": "İzlanda 0,5 Üst",
+   "en_olasi_p": 0.7897,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda 0,5 Üst",
+     0.7897
+    ],
+    [
+     "İzlanda 0,5 Alt",
+     0.2102
+    ],
+    [
+     "İzlanda 1,5 Üst",
+     0.4627
+    ],
+    [
+     "İzlanda 1,5 Alt",
+     0.5373
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Lüksemburg Toplam Goller",
+   "oneri": "Lüksemburg 0,5 Alt",
+   "olasilik": 0.7261,
+   "adil_oran": 1.38,
+   "en_olasi": "Lüksemburg 0,5 Alt",
+   "en_olasi_p": 0.7261,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Lüksemburg 0,5 Üst",
+     0.2739
+    ],
+    [
+     "Lüksemburg 0,5 Alt",
+     0.7261
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7834,
+   "adil_oran": 1.28,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7834,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2166
+    ],
+    [
+     "Hayır",
+     0.7834
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kafa Golü Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.6895,
+   "adil_oran": 1.45,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6895,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3105
+    ],
+    [
+     "Hayır",
+     0.6895
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Frikikten Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9292,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9292,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0708
+    ],
+    [
+     "Hayır",
+     0.9292
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Rövaşata ile Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.9947,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9947,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0053
+    ],
+    [
+     "Hayır",
+     0.9947
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Ceza Sahası Dışından Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7652,
+   "adil_oran": 1.31,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7652,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2348
+    ],
+    [
+     "Hayır",
+     0.7652
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kendi Kalesine Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.9161,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9161,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0839
+    ],
+    [
+     "Hayır",
+     0.9161
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Oyuncu Hat-trick Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9792,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9792,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0208
+    ],
+    [
+     "Hayır",
+     0.9792
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Kaleci Asist Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9905,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9905,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0095
+    ],
+    [
+     "Hayır",
+     0.9905
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "VAR'lar: Toplam (Yalnızca Sahada İnceleme veya Video İnceleme İşareti (TV))",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.6944,
+   "adil_oran": 1.44,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9474,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.3056
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.6944
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0526
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9474
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Sonuç",
+   "oneri": "1 (İzlanda)",
+   "olasilik": 0.7747,
+   "adil_oran": 1.29,
+   "en_olasi": "1 (İzlanda)",
+   "en_olasi_p": 0.7747,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (İzlanda)",
+     0.7747
+    ],
+    [
+     "X",
+     0.0954
+    ],
+    [
+     "2 (Lüksemburg)",
+     0.1298
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam",
+   "oneri": "Toplam 9,5 Alt",
+   "olasilik": 0.7412,
+   "adil_oran": 1.35,
+   "en_olasi": "Toplam 11,5 Alt",
+   "en_olasi_p": 0.9023,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 7,5 Üst",
+     0.5192
+    ],
+    [
+     "Toplam 7,5 Alt",
+     0.4808
+    ],
+    [
+     "Toplam 8,5 Üst",
+     0.38
+    ],
+    [
+     "Toplam 8,5 Alt",
+     0.62
+    ],
+    [
+     "Toplam 9,5 Üst",
+     0.2588
+    ],
+    [
+     "Toplam 9,5 Alt",
+     0.7412
+    ],
+    [
+     "Toplam 10,5 Üst",
+     0.164
+    ],
+    [
+     "Toplam 10,5 Alt",
+     0.836
+    ],
+    [
+     "Toplam 11,5 Üst",
+     0.0977
+    ],
+    [
+     "Toplam 11,5 Alt",
+     0.9023
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : İzlanda",
+   "oneri": "İzlanda 3,5 Üst",
+   "olasilik": 0.7614,
+   "adil_oran": 1.31,
+   "en_olasi": "İzlanda 7,5 Alt",
+   "en_olasi_p": 0.8447,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda 3,5 Üst",
+     0.7614
+    ],
+    [
+     "İzlanda 3,5 Alt",
+     0.2386
+    ],
+    [
+     "İzlanda 4,5 Üst",
+     0.5925
+    ],
+    [
+     "İzlanda 4,5 Alt",
+     0.4075
+    ],
+    [
+     "İzlanda 5,5 Üst",
+     0.4164
+    ],
+    [
+     "İzlanda 5,5 Alt",
+     0.5836
+    ],
+    [
+     "İzlanda 6,5 Üst",
+     0.2663
+    ],
+    [
+     "İzlanda 6,5 Alt",
+     0.7337
+    ],
+    [
+     "İzlanda 7,5 Üst",
+     0.1553
+    ],
+    [
+     "İzlanda 7,5 Alt",
+     0.8447
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Lüksemburg",
+   "oneri": "Lüksemburg 3,5 Alt",
+   "olasilik": 0.7343,
+   "adil_oran": 1.36,
+   "en_olasi": "Lüksemburg 4,5 Alt",
+   "en_olasi_p": 0.8773,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Lüksemburg 1,5 Üst",
+     0.7327
+    ],
+    [
+     "Lüksemburg 1,5 Alt",
+     0.2673
+    ],
+    [
+     "Lüksemburg 2,5 Üst",
+     0.4822
+    ],
+    [
+     "Lüksemburg 2,5 Alt",
+     0.5178
+    ],
+    [
+     "Lüksemburg 3,5 Üst",
+     0.2657
+    ],
+    [
+     "Lüksemburg 3,5 Alt",
+     0.7343
+    ],
+    [
+     "Lüksemburg 4,5 Üst",
+     0.1227
+    ],
+    [
+     "Lüksemburg 4,5 Alt",
+     0.8773
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Handikap",
+   "oneri": "İzlanda -0,5",
+   "olasilik": 0.7747,
+   "adil_oran": 1.29,
+   "en_olasi": "İzlanda +2,5",
+   "en_olasi_p": 0.9693,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda -4,5",
+     0.24
+    ],
+    [
+     "Lüksemburg +4,5",
+     0.76
+    ],
+    [
+     "İzlanda -3,5",
+     0.3634
+    ],
+    [
+     "Lüksemburg +3,5",
+     0.6366
+    ],
+    [
+     "İzlanda -2,5",
+     0.5039
+    ],
+    [
+     "Lüksemburg +2,5",
+     0.4961
+    ],
+    [
+     "İzlanda -1,5",
+     0.6482
+    ],
+    [
+     "Lüksemburg +1,5",
+     0.3518
+    ],
+    [
+     "İzlanda -0,5",
+     0.7747
+    ],
+    [
+     "Lüksemburg +0,5",
+     0.2253
+    ],
+    [
+     "İzlanda +0,5",
+     0.8702
+    ],
+    [
+     "Lüksemburg -0,5",
+     0.1298
+    ],
+    [
+     "İzlanda +1,5",
+     0.9327
+    ],
+    [
+     "Lüksemburg -1,5",
+     0.0673
+    ],
+    [
+     "İzlanda +2,5",
+     0.9693
+    ],
+    [
+     "Lüksemburg -2,5",
+     0.0307
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (3-İhtimalli)",
+   "oneri": "10 Alt",
+   "olasilik": 0.7412,
+   "adil_oran": 1.35,
+   "en_olasi": "10 Alt",
+   "en_olasi_p": 0.7412,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "9 Alt",
+     0.62
+    ],
+    [
+     "10 Alt",
+     0.7412
+    ],
+    [
+     "Tam 9",
+     0.1212
+    ],
+    [
+     "Tam 10",
+     0.0949
+    ],
+    [
+     "9 Üst",
+     0.2588
+    ],
+    [
+     "10 Üst",
+     0.164
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (Aralık)",
+   "oneri": "0-8 korner",
+   "olasilik": 0.62,
+   "adil_oran": 1.61,
+   "en_olasi": "0-8 korner",
+   "en_olasi_p": 0.62,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "0-8 korner",
+     0.62
+    ],
+    [
+     "9-11 korner",
+     0.2823
+    ],
+    [
+     "12+ korner",
+     0.0977
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Tek/Çift",
+   "oneri": "Çift",
+   "olasilik": 0.5024,
+   "adil_oran": 1.99,
+   "en_olasi": "Çift",
+   "en_olasi_p": 0.5024,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.4976
+    ],
+    [
+     "Çift",
+     0.5024
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Korner Yarışı",
+   "oneri": "İlk 3 korner İzlanda",
+   "olasilik": 0.7449,
+   "adil_oran": 1.34,
+   "en_olasi": "9 kornere kimse ulaşamaz",
+   "en_olasi_p": 0.9168,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk 3 korner İzlanda",
+     0.7449
+    ],
+    [
+     "İlk 3 korner Lüksemburg",
+     0.1934
+    ],
+    [
+     "3 kornere kimse ulaşamaz",
+     0.0571
+    ],
+    [
+     "İlk 5 korner İzlanda",
+     0.5659
+    ],
+    [
+     "İlk 5 korner Lüksemburg",
+     0.0756
+    ],
+    [
+     "5 kornere kimse ulaşamaz",
+     0.3572
+    ],
+    [
+     "İlk 7 korner İzlanda",
+     0.2648
+    ],
+    [
+     "İlk 7 korner Lüksemburg",
+     0.0143
+    ],
+    [
+     "7 kornere kimse ulaşamaz",
+     0.7208
+    ],
+    [
+     "İlk 9 korner İzlanda",
+     0.0818
+    ],
+    [
+     "İlk 9 korner Lüksemburg",
+     0.0014
+    ],
+    [
+     "9 kornere kimse ulaşamaz",
+     0.9168
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Sonucu",
+   "oneri": "1 (İzlanda)",
+   "olasilik": 0.6435,
+   "adil_oran": 1.55,
+   "en_olasi": "1 (İzlanda)",
+   "en_olasi_p": 0.6435,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (İzlanda)",
+     0.6435
+    ],
+    [
+     "X",
+     0.1812
+    ],
+    [
+     "2 (Lüksemburg)",
+     0.1753
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Handikap",
+   "oneri": "İzlanda +0,5",
+   "olasilik": 0.8247,
+   "adil_oran": 1.21,
+   "en_olasi": "İzlanda +0,5",
+   "en_olasi_p": 0.8247,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda -2,5",
+     0.2383
+    ],
+    [
+     "Lüksemburg +2,5",
+     0.7617
+    ],
+    [
+     "İzlanda -1,5",
+     0.4277
+    ],
+    [
+     "Lüksemburg +1,5",
+     0.5723
+    ],
+    [
+     "İzlanda -0,5",
+     0.6435
+    ],
+    [
+     "Lüksemburg +0,5",
+     0.3565
+    ],
+    [
+     "İzlanda +0,5",
+     0.8247
+    ],
+    [
+     "Lüksemburg -0,5",
+     0.1753
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Toplam",
+   "oneri": "Toplam 4,5 Alt",
+   "olasilik": 0.6947,
+   "adil_oran": 1.44,
+   "en_olasi": "Toplam 5,5 Alt",
+   "en_olasi_p": 0.836,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 3,5 Üst",
+     0.4988
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.5012
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.3053
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.6947
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.164
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.836
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı İzlanda Toplam",
+   "oneri": "İzlanda 3,5 Alt",
+   "olasilik": 0.7696,
+   "adil_oran": 1.3,
+   "en_olasi": "İzlanda 3,5 Alt",
+   "en_olasi_p": 0.7696,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda 1,5 Üst",
+     0.7031
+    ],
+    [
+     "İzlanda 1,5 Alt",
+     0.2969
+    ],
+    [
+     "İzlanda 2,5 Üst",
+     0.4412
+    ],
+    [
+     "İzlanda 2,5 Alt",
+     0.5588
+    ],
+    [
+     "İzlanda 3,5 Üst",
+     0.2304
+    ],
+    [
+     "İzlanda 3,5 Alt",
+     0.7696
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Lüksemburg Toplam",
+   "oneri": "Lüksemburg 0,5 Üst",
+   "olasilik": 0.7064,
+   "adil_oran": 1.42,
+   "en_olasi": "Lüksemburg 0,5 Üst",
+   "en_olasi_p": 0.7064,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Lüksemburg 0,5 Üst",
+     0.7064
+    ],
+    [
+     "Lüksemburg 0,5 Alt",
+     0.2936
+    ],
+    [
+     "Lüksemburg 1,5 Üst",
+     0.3445
+    ],
+    [
+     "Lüksemburg 1,5 Alt",
+     0.6555
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : 2. Yarı",
+   "oneri": "Toplam 5,5 Alt",
+   "olasilik": 0.7644,
+   "adil_oran": 1.31,
+   "en_olasi": "Toplam 6,5 Alt",
+   "en_olasi_p": 0.8739,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 4,5 Üst",
+     0.3963
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.6037
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.2356
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.7644
+    ],
+    [
+     "Toplam 6,5 Üst",
+     0.1261
+    ],
+    [
+     "Toplam 6,5 Alt",
+     0.8739
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : İlk Korner",
+   "oneri": "İzlanda",
+   "olasilik": 0.6309,
+   "adil_oran": 1.58,
+   "en_olasi": "İzlanda",
+   "en_olasi_p": 0.6309,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda",
+     0.6309
+    ],
+    [
+     "Lüksemburg",
+     0.3687
+    ],
+    [
+     "Korner yok",
+     0.0004
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Son Korner",
+   "oneri": "İzlanda",
+   "olasilik": 0.6289,
+   "adil_oran": 1.59,
+   "en_olasi": "İzlanda",
+   "en_olasi_p": 0.6289,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda",
+     0.6289
+    ],
+    [
+     "Lüksemburg",
+     0.3707
+    ],
+    [
+     "Korner yok",
+     0.0004
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "En Fazla Korner Olan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.4916,
+   "adil_oran": 2.03,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.4916,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.3631
+    ],
+    [
+     "Eşit",
+     0.1452
+    ],
+    [
+     "2. Yarı",
+     0.4916
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan : Sonuç",
+   "oneri": "2 (Lüksemburg)",
+   "olasilik": 0.4988,
+   "adil_oran": 2.0,
+   "en_olasi": "2 (Lüksemburg)",
+   "en_olasi_p": 0.4988,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "1 (İzlanda)",
+     0.3176
+    ],
+    [
+     "X",
+     0.1836
+    ],
+    [
+     "2 (Lüksemburg)",
+     0.4988
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan Handikapı",
+   "oneri": "İzlanda +15,5",
+   "olasilik": 0.6956,
+   "adil_oran": 1.44,
+   "en_olasi": "Lüksemburg +15,5",
+   "en_olasi_p": 0.8397,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "İzlanda -15,5",
+     0.1603
+    ],
+    [
+     "Lüksemburg +15,5",
+     0.8397
+    ],
+    [
+     "İzlanda -5,5",
+     0.3095
+    ],
+    [
+     "Lüksemburg +5,5",
+     0.6905
+    ],
+    [
+     "İzlanda +5,5",
+     0.5079
+    ],
+    [
+     "Lüksemburg -5,5",
+     0.4921
+    ],
+    [
+     "İzlanda +15,5",
+     0.6956
+    ],
+    [
+     "Lüksemburg -15,5",
+     0.3044
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam Puan",
+   "oneri": "Toplam 55,5 Alt",
+   "olasilik": 0.7777,
+   "adil_oran": 1.29,
+   "en_olasi": "Toplam 55,5 Alt",
+   "en_olasi_p": 0.7777,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 25,5 Üst",
+     0.7472
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.2528
+    ],
+    [
+     "Toplam 35,5 Üst",
+     0.5549
+    ],
+    [
+     "Toplam 35,5 Alt",
+     0.4451
+    ],
+    [
+     "Toplam 45,5 Üst",
+     0.3697
+    ],
+    [
+     "Toplam 45,5 Alt",
+     0.6303
+    ],
+    [
+     "Toplam 55,5 Üst",
+     0.2223
+    ],
+    [
+     "Toplam 55,5 Alt",
+     0.7777
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : İzlanda : Toplam Kart Puanı",
+   "oneri": "İzlanda 5,5 Üst",
+   "olasilik": 0.8094,
+   "adil_oran": 1.24,
+   "en_olasi": "İzlanda 5,5 Üst",
+   "en_olasi_p": 0.8094,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "İzlanda 5,5 Üst",
+     0.8094
+    ],
+    [
+     "İzlanda 5,5 Alt",
+     0.1906
+    ],
+    [
+     "İzlanda 15,5 Üst",
+     0.5069
+    ],
+    [
+     "İzlanda 15,5 Alt",
+     0.4931
+    ],
+    [
+     "İzlanda 25,5 Üst",
+     0.2572
+    ],
+    [
+     "İzlanda 25,5 Alt",
+     0.7428
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Lüksemburg : Toplam Kart Puanı",
+   "oneri": "Lüksemburg 35,5 Alt",
+   "olasilik": 0.8036,
+   "adil_oran": 1.24,
+   "en_olasi": "Lüksemburg 5,5 Üst",
+   "en_olasi_p": 0.8855,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Lüksemburg 5,5 Üst",
+     0.8855
+    ],
+    [
+     "Lüksemburg 5,5 Alt",
+     0.1145
+    ],
+    [
+     "Lüksemburg 15,5 Üst",
+     0.6415
+    ],
+    [
+     "Lüksemburg 15,5 Alt",
+     0.3585
+    ],
+    [
+     "Lüksemburg 25,5 Üst",
+     0.3854
+    ],
+    [
+     "Lüksemburg 25,5 Alt",
+     0.6146
+    ],
+    [
+     "Lüksemburg 35,5 Üst",
+     0.1964
+    ],
+    [
+     "Lüksemburg 35,5 Alt",
+     0.8036
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam (Aralıklar)",
+   "oneri": "21-40 puan",
+   "olasilik": 0.364,
+   "adil_oran": 2.75,
+   "en_olasi": "21-40 puan",
+   "en_olasi_p": 0.364,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "0-20 puan",
+     0.2515
+    ],
+    [
+     "21-40 puan",
+     0.364
+    ],
+    [
+     "41-60 puan",
+     0.2386
+    ],
+    [
+     "61+ puan",
+     0.1321
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Toplam Kart Puanı",
+   "oneri": "Toplam 25,5 Alt",
+   "olasilik": 0.8222,
+   "adil_oran": 1.22,
+   "en_olasi": "Toplam 25,5 Alt",
+   "en_olasi_p": 0.8222,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 5,5 Üst",
+     0.7447
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.2553
+    ],
+    [
+     "Toplam 15,5 Üst",
+     0.4093
+    ],
+    [
+     "Toplam 15,5 Alt",
+     0.5907
+    ],
+    [
+     "Toplam 25,5 Üst",
+     0.1778
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.8222
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : İzlanda : Toplam Kart Puanı",
+   "oneri": "İzlanda 5,5 Alt",
+   "olasilik": 0.5516,
+   "adil_oran": 1.81,
+   "en_olasi": "İzlanda 15,5 Alt",
+   "en_olasi_p": 0.8661,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "İzlanda 5,5 Üst",
+     0.4484
+    ],
+    [
+     "İzlanda 5,5 Alt",
+     0.5516
+    ],
+    [
+     "İzlanda 15,5 Üst",
+     0.1339
+    ],
+    [
+     "İzlanda 15,5 Alt",
+     0.8661
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Lüksemburg : Toplam Kart Puanı",
+   "oneri": "Lüksemburg 15,5 Alt",
+   "olasilik": 0.8081,
+   "adil_oran": 1.24,
+   "en_olasi": "Lüksemburg 15,5 Alt",
+   "en_olasi_p": 0.8081,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Lüksemburg 5,5 Üst",
+     0.5381
+    ],
+    [
+     "Lüksemburg 5,5 Alt",
+     0.4619
+    ],
+    [
+     "Lüksemburg 15,5 Üst",
+     0.1919
+    ],
+    [
+     "Lüksemburg 15,5 Alt",
+     0.8081
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : İzlanda : Toplam Kart Puanı",
+   "oneri": "İzlanda 15,5 Alt",
+   "olasilik": 0.6977,
+   "adil_oran": 1.43,
+   "en_olasi": "İzlanda 15,5 Alt",
+   "en_olasi_p": 0.6977,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "İzlanda 5,5 Üst",
+     0.6537
+    ],
+    [
+     "İzlanda 5,5 Alt",
+     0.3463
+    ],
+    [
+     "İzlanda 15,5 Üst",
+     0.3023
+    ],
+    [
+     "İzlanda 15,5 Alt",
+     0.6977
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Lüksemburg : Toplam Kart Puanı",
+   "oneri": "Lüksemburg 25,5 Alt",
+   "olasilik": 0.8155,
+   "adil_oran": 1.23,
+   "en_olasi": "Lüksemburg 25,5 Alt",
+   "en_olasi_p": 0.8155,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Lüksemburg 5,5 Üst",
+     0.7497
+    ],
+    [
+     "Lüksemburg 5,5 Alt",
+     0.2503
+    ],
+    [
+     "Lüksemburg 15,5 Üst",
+     0.4122
+    ],
+    [
+     "Lüksemburg 15,5 Alt",
+     0.5878
+    ],
+    [
+     "Lüksemburg 25,5 Üst",
+     0.1845
+    ],
+    [
+     "Lüksemburg 25,5 Alt",
+     0.8155
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Direkt Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9338,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9338,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0662
+    ],
+    [
+     "Hayır",
+     0.9338
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Yarıda Kart Olur",
+   "oneri": "Evet",
+   "olasilik": 0.6804,
+   "adil_oran": 1.47,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6804,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6804
+    ],
+    [
+     "Hayır",
+     0.3196
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kırmızı Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.9961,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9961,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0039
+    ],
+    [
+     "Hayır",
+     0.9961
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kart Alır",
+   "oneri": "Evet",
+   "olasilik": 0.7167,
+   "adil_oran": 1.4,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7167,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7167
+    ],
+    [
+     "Hayır",
+     0.2833
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Kart Görür",
+   "oneri": "Hayır",
+   "olasilik": 0.6825,
+   "adil_oran": 1.47,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6825,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3175
+    ],
+    [
+     "Hayır",
+     0.6825
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Her İki Yarıda Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.8826,
+   "adil_oran": 1.13,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8826,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1174
+    ],
+    [
+     "Hayır",
+     0.8826
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İlk Kartı Görecek Takım",
+   "oneri": "Lüksemburg",
+   "olasilik": 0.5518,
+   "adil_oran": 1.81,
+   "en_olasi": "Lüksemburg",
+   "en_olasi_p": 0.5518,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda",
+     0.4264
+    ],
+    [
+     "Lüksemburg",
+     0.5518
+    ],
+    [
+     "Kart yok",
+     0.0218
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Son Kartı Görecek Takım",
+   "oneri": "Lüksemburg",
+   "olasilik": 0.5513,
+   "adil_oran": 1.81,
+   "en_olasi": "Lüksemburg",
+   "en_olasi_p": 0.5513,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda",
+     0.4269
+    ],
+    [
+     "Lüksemburg",
+     0.5513
+    ],
+    [
+     "Kart yok",
+     0.0218
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Maçta Penaltı, Kırmızı Kart ve Kendi Kalesine Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9978,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9978,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0022
+    ],
+    [
+     "Hayır",
+     0.9978
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarı Uzatma Dakikalarında Kart Gösterilir (90+ dak)",
+   "oneri": "Hayır",
+   "olasilik": 0.7432,
+   "adil_oran": 1.35,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7432,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2568
+    ],
+    [
+     "Hayır",
+     0.7432
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarının Uzatma Dakikalarında Kırmızı Kart veya Gol Olur (90+ dakika)",
+   "oneri": "Hayır",
+   "olasilik": 0.8502,
+   "adil_oran": 1.18,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8502,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1498
+    ],
+    [
+     "Hayır",
+     0.8502
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Toplam Kırmızı Kartlar",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.9922,
+   "adil_oran": 1.01,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9922,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.1204
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.8796
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0078
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9922
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İzlanda : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9379,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9379,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0621
+    ],
+    [
+     "Hayır",
+     0.9379
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Lüksemburg : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9379,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9379,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0621
+    ],
+    [
+     "Hayır",
+     0.9379
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "1. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.959,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.959,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.041
+    ],
+    [
+     "Hayır",
+     0.959
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "2. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9172,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9172,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0828
+    ],
+    [
+     "Hayır",
+     0.9172
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Sonuç",
+   "oneri": "2 (Lüksemburg)",
+   "olasilik": 0.4951,
+   "adil_oran": 2.02,
+   "en_olasi": "2 (Lüksemburg)",
+   "en_olasi_p": 0.4951,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (İzlanda)",
+     0.2991
+    ],
+    [
+     "X",
+     0.2059
+    ],
+    [
+     "2 (Lüksemburg)",
+     0.4951
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.7941,
+   "adil_oran": 1.26,
+   "en_olasi": "12",
+   "en_olasi_p": 0.7941,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.5049
+    ],
+    [
+     "12",
+     0.7941
+    ],
+    [
+     "X2",
+     0.7009
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Handikap",
+   "oneri": "İzlanda +1,5",
+   "olasilik": 0.7073,
+   "adil_oran": 1.41,
+   "en_olasi": "Lüksemburg +1,5",
+   "en_olasi_p": 0.8573,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda -1,5",
+     0.1427
+    ],
+    [
+     "Lüksemburg +1,5",
+     0.8573
+    ],
+    [
+     "İzlanda -0,5",
+     0.2991
+    ],
+    [
+     "Lüksemburg +0,5",
+     0.7009
+    ],
+    [
+     "İzlanda +0,5",
+     0.5049
+    ],
+    [
+     "Lüksemburg -0,5",
+     0.4951
+    ],
+    [
+     "İzlanda +1,5",
+     0.7073
+    ],
+    [
+     "Lüksemburg -1,5",
+     0.2927
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Toplam",
+   "oneri": "Toplam 5,5 Alt",
+   "olasilik": 0.824,
+   "adil_oran": 1.21,
+   "en_olasi": "Toplam 5,5 Alt",
+   "en_olasi_p": 0.824,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 2,5 Üst",
+     0.724
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.276
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.5153
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.4847
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.3207
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.6793
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.176
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.824
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : İzlanda : Toplam",
+   "oneri": "İzlanda 0,5 Üst",
+   "olasilik": 0.8025,
+   "adil_oran": 1.25,
+   "en_olasi": "İzlanda 0,5 Üst",
+   "en_olasi_p": 0.8025,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda 0,5 Üst",
+     0.8025
+    ],
+    [
+     "İzlanda 0,5 Alt",
+     0.1975
+    ],
+    [
+     "İzlanda 1,5 Üst",
+     0.4837
+    ],
+    [
+     "İzlanda 1,5 Alt",
+     0.5163
+    ],
+    [
+     "İzlanda 2,5 Üst",
+     0.2226
+    ],
+    [
+     "İzlanda 2,5 Alt",
+     0.7774
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Lüksemburg : Toplam",
+   "oneri": "Lüksemburg 3,5 Alt",
+   "olasilik": 0.8346,
+   "adil_oran": 1.2,
+   "en_olasi": "Lüksemburg 0,5 Üst",
+   "en_olasi_p": 0.8818,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Lüksemburg 0,5 Üst",
+     0.8818
+    ],
+    [
+     "Lüksemburg 0,5 Alt",
+     0.1182
+    ],
+    [
+     "Lüksemburg 1,5 Üst",
+     0.6252
+    ],
+    [
+     "Lüksemburg 1,5 Alt",
+     0.3748
+    ],
+    [
+     "Lüksemburg 2,5 Üst",
+     0.3567
+    ],
+    [
+     "Lüksemburg 2,5 Alt",
+     0.6433
+    ],
+    [
+     "Lüksemburg 3,5 Üst",
+     0.1654
+    ],
+    [
+     "Lüksemburg 3,5 Alt",
+     0.8346
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Sonucu",
+   "oneri": "X",
+   "olasilik": 0.3908,
+   "adil_oran": 2.56,
+   "en_olasi": "X",
+   "en_olasi_p": 0.3908,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (İzlanda)",
+     0.25
+    ],
+    [
+     "X",
+     0.3908
+    ],
+    [
+     "2 (Lüksemburg)",
+     0.3592
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Handikap",
+   "oneri": "Lüksemburg +0,5",
+   "olasilik": 0.75,
+   "adil_oran": 1.33,
+   "en_olasi": "Lüksemburg +0,5",
+   "en_olasi_p": 0.75,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda -0,5",
+     0.25
+    ],
+    [
+     "Lüksemburg +0,5",
+     0.75
+    ],
+    [
+     "İzlanda +0,5",
+     0.6408
+    ],
+    [
+     "Lüksemburg -0,5",
+     0.3592
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı : Toplam",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.7373,
+   "adil_oran": 1.36,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.8466,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7373
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2627
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.3889
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.6111
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1534
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8466
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı İzlanda Toplam",
+   "oneri": "İzlanda 0,5 Alt",
+   "olasilik": 0.5595,
+   "adil_oran": 1.79,
+   "en_olasi": "İzlanda 1,5 Alt",
+   "en_olasi_p": 0.8823,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda 0,5 Üst",
+     0.4405
+    ],
+    [
+     "İzlanda 0,5 Alt",
+     0.5595
+    ],
+    [
+     "İzlanda 1,5 Üst",
+     0.1177
+    ],
+    [
+     "İzlanda 1,5 Alt",
+     0.8823
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Lüksemburg Toplam",
+   "oneri": "Lüksemburg 1,5 Alt",
+   "olasilik": 0.8224,
+   "adil_oran": 1.22,
+   "en_olasi": "Lüksemburg 1,5 Alt",
+   "en_olasi_p": 0.8224,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Lüksemburg 0,5 Üst",
+     0.5321
+    ],
+    [
+     "Lüksemburg 0,5 Alt",
+     0.4679
+    ],
+    [
+     "Lüksemburg 1,5 Üst",
+     0.1776
+    ],
+    [
+     "Lüksemburg 1,5 Alt",
+     0.8224
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Sonuç",
+   "oneri": "2 (Lüksemburg)",
+   "olasilik": 0.4431,
+   "adil_oran": 2.26,
+   "en_olasi": "2 (Lüksemburg)",
+   "en_olasi_p": 0.4431,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (İzlanda)",
+     0.2878
+    ],
+    [
+     "X",
+     0.2691
+    ],
+    [
+     "2 (Lüksemburg)",
+     0.4431
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Handikap",
+   "oneri": "Lüksemburg +0,5",
+   "olasilik": 0.7122,
+   "adil_oran": 1.4,
+   "en_olasi": "Lüksemburg +0,5",
+   "en_olasi_p": 0.7122,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda -0,5",
+     0.2878
+    ],
+    [
+     "Lüksemburg +0,5",
+     0.7122
+    ],
+    [
+     "İzlanda +0,5",
+     0.5569
+    ],
+    [
+     "Lüksemburg -0,5",
+     0.4431
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Toplam",
+   "oneri": "Toplam 3,5 Alt",
+   "olasilik": 0.779,
+   "adil_oran": 1.28,
+   "en_olasi": "Toplam 3,5 Alt",
+   "en_olasi_p": 0.779,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 1,5 Üst",
+     0.6928
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.3072
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.4324
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.5676
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.221
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.779
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : İzlanda Toplam",
+   "oneri": "İzlanda 1,5 Alt",
+   "olasilik": 0.7205,
+   "adil_oran": 1.39,
+   "en_olasi": "İzlanda 1,5 Alt",
+   "en_olasi_p": 0.7205,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda 0,5 Üst",
+     0.6465
+    ],
+    [
+     "İzlanda 0,5 Alt",
+     0.3535
+    ],
+    [
+     "İzlanda 1,5 Üst",
+     0.2795
+    ],
+    [
+     "İzlanda 1,5 Alt",
+     0.7205
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : İlk Sarı Kartı Görür",
+   "oneri": "Lüksemburg",
+   "olasilik": 0.5529,
+   "adil_oran": 1.81,
+   "en_olasi": "Lüksemburg",
+   "en_olasi_p": 0.5529,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda",
+     0.4239
+    ],
+    [
+     "Lüksemburg",
+     0.5529
+    ],
+    [
+     "Sarı kart yok",
+     0.0232
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Son Sarı Kartı Görür",
+   "oneri": "Lüksemburg",
+   "olasilik": 0.552,
+   "adil_oran": 1.81,
+   "en_olasi": "Lüksemburg",
+   "en_olasi_p": 0.552,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "İzlanda",
+     0.4248
+    ],
+    [
+     "Lüksemburg",
+     0.552
+    ],
+    [
+     "Sarı kart yok",
+     0.0232
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7873,
+   "adil_oran": 1.27,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7873,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2127
+    ],
+    [
+     "Hayır",
+     0.7873
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "İzlanda : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.858,
+   "adil_oran": 1.17,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.858,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.142
+    ],
+    [
+     "Hayır",
+     0.858
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Lüksemburg : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9173,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9173,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0827
+    ],
+    [
+     "Hayır",
+     0.9173
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "İki Takım da Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9879,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9879,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0121
+    ],
+    [
+     "Hayır",
+     0.9879
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta İki Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9758,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9758,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0242
+    ],
+    [
+     "Hayır",
+     0.9758
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "1. Yarı : Penaltı",
+   "oneri": "Hayır",
+   "olasilik": 0.8996,
+   "adil_oran": 1.11,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8996,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1004
+    ],
+    [
+     "Hayır",
+     0.8996
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltıdan Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.832,
+   "adil_oran": 1.2,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.832,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.168
+    ],
+    [
+     "Hayır",
+     0.832
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı Kaçırır",
+   "oneri": "Hayır",
+   "olasilik": 0.9464,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9464,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0536
+    ],
+    [
+     "Hayır",
+     0.9464
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı ve Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9741,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9741,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0259
+    ],
+    [
+     "Hayır",
+     0.9741
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı veya Kırmızı Kart Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.6928,
+   "adil_oran": 1.44,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6928,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3072
+    ],
+    [
+     "Hayır",
+     0.6928
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Herhangi Bir Zamanda Gol Atar",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.3703,
+   "adil_oran": 2.7,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.3703,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.3703
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.2445
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.1398
+    ],
+    [
+     "Victor Pálsson",
+     0.0883
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İlk Golcü",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.1837,
+   "adil_oran": 5.44,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.1837,
+   "guven": "düşük",
+   "not_": "Takımın ilk golü × oyuncu payı",
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.1837
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.1102
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0588
+    ],
+    [
+     "Victor Pálsson",
+     0.0367
+    ],
+    [
+     "Gol yok",
+     0.0857
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İlk Golcü Çifte Şans",
+   "oneri": "Orri Óskarsson ilk golü veya ikinci golü",
+   "olasilik": 0.3409,
+   "adil_oran": 2.93,
+   "en_olasi": "Orri Óskarsson ilk golü veya ikinci golü",
+   "en_olasi_p": 0.3409,
+   "guven": "düşük",
+   "not_": "Yaklaşık",
+   "secimler": [
+    [
+     "Orri Óskarsson ilk golü veya ikinci golü",
+     0.3409
+    ],
+    [
+     "Andri Guðjohnsen ilk golü veya ikinci golü",
+     0.2046
+    ],
+    [
+     "Mikael Egill Ellertsson ilk golü veya ikinci golü",
+     0.1091
+    ],
+    [
+     "Victor Pálsson ilk golü veya ikinci golü",
+     0.0682
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Son Golcü",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.1837,
+   "adil_oran": 5.44,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.1837,
+   "guven": "düşük",
+   "not_": "Yaklaşık",
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.1837
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.1102
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0588
+    ],
+    [
+     "Victor Pálsson",
+     0.0367
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İzlanda : İlk Golü Atar",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.2177,
+   "adil_oran": 4.59,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.2177,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.2177
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.1306
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0697
+    ],
+    [
+     "Victor Pálsson",
+     0.0435
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Lüksemburg : İlk Golü Atar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İzlanda : Son Golcü",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.2177,
+   "adil_oran": 4.59,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.2177,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.2177
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.1306
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0697
+    ],
+    [
+     "Victor Pálsson",
+     0.0435
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Lüksemburg : Son Golü Atar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu En Az 2 Gol Atar",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.08,
+   "adil_oran": 12.49,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.08,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.08
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.0326
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0104
+    ],
+    [
+     "Victor Pálsson",
+     0.004
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu En Az 3 Gol Atar",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.0121,
+   "adil_oran": 82.76,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.0121,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.0121
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.0027
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0006
+    ],
+    [
+     "Victor Pálsson",
+     0.0001
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 4 veya Daha Çok Gol Atar",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.0013,
+   "adil_oran": 745.34,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.0013,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.0013
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.0002
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0
+    ],
+    [
+     "Victor Pálsson",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Herhangi Bir Zaman Gol Atar Çifte Şans",
+   "oneri": "Orri Óskarsson veya Andri Guðjohnsen",
+   "olasilik": 0.5241,
+   "adil_oran": 1.91,
+   "en_olasi": "Orri Óskarsson veya Andri Guðjohnsen",
+   "en_olasi_p": 0.5241,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson veya Andri Guðjohnsen",
+     0.5241
+    ],
+    [
+     "Orri Óskarsson veya Mikael Egill Ellertsson",
+     0.4584
+    ],
+    [
+     "Orri Óskarsson veya Victor Pálsson",
+     0.4262
+    ],
+    [
+     "Andri Guðjohnsen veya Mikael Egill Ellertsson",
+     0.3513
+    ],
+    [
+     "Andri Guðjohnsen veya Victor Pálsson",
+     0.3113
+    ],
+    [
+     "Mikael Egill Ellertsson veya Victor Pálsson",
+     0.2155
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar",
+   "oneri": "Orri Óskarsson ve Andri Guðjohnsen",
+   "olasilik": 0.0908,
+   "adil_oran": 11.02,
+   "en_olasi": "Orri Óskarsson ve Andri Guðjohnsen",
+   "en_olasi_p": 0.0908,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson ve Andri Guðjohnsen",
+     0.0908
+    ],
+    [
+     "Orri Óskarsson ve Mikael Egill Ellertsson",
+     0.0518
+    ],
+    [
+     "Andri Guðjohnsen ve Mikael Egill Ellertsson",
+     0.0331
+    ],
+    [
+     "Orri Óskarsson ve Victor Pálsson",
+     0.0324
+    ],
+    [
+     "Andri Guðjohnsen ve Victor Pálsson",
+     0.0216
+    ],
+    [
+     "Mikael Egill Ellertsson ve Victor Pálsson",
+     0.0127
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "2 Oyuncu Toplamda Üst 1.5 Gol Atar",
+   "oneri": "Orri Óskarsson + Andri Guðjohnsen",
+   "olasilik": 0.1711,
+   "adil_oran": 5.85,
+   "en_olasi": "Orri Óskarsson + Andri Guðjohnsen",
+   "en_olasi_p": 0.1711,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson + Andri Guðjohnsen",
+     0.1711
+    ],
+    [
+     "Orri Óskarsson + Mikael Egill Ellertsson",
+     0.1274
+    ],
+    [
+     "Orri Óskarsson + Victor Pálsson",
+     0.1078
+    ],
+    [
+     "Andri Guðjohnsen + Mikael Egill Ellertsson",
+     0.069
+    ],
+    [
+     "Andri Guðjohnsen + Victor Pálsson",
+     0.0543
+    ],
+    [
+     "Mikael Egill Ellertsson + Victor Pálsson",
+     0.0253
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "2 Oyuncu Toplamda Üst 2.5 Gol Atar",
+   "oneri": "Orri Óskarsson + Andri Guðjohnsen",
+   "olasilik": 0.0403,
+   "adil_oran": 24.83,
+   "en_olasi": "Orri Óskarsson + Andri Guðjohnsen",
+   "en_olasi_p": 0.0403,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson + Andri Guðjohnsen",
+     0.0403
+    ],
+    [
+     "Orri Óskarsson + Mikael Egill Ellertsson",
+     0.0249
+    ],
+    [
+     "Orri Óskarsson + Victor Pálsson",
+     0.0194
+    ],
+    [
+     "Andri Guðjohnsen + Mikael Egill Ellertsson",
+     0.0094
+    ],
+    [
+     "Andri Guðjohnsen + Victor Pálsson",
+     0.0063
+    ],
+    [
+     "Mikael Egill Ellertsson + Victor Pálsson",
+     0.0023
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "2 Oyuncu Toplamda Üst 3.5 Gol Atar",
+   "oneri": "Orri Óskarsson + Andri Guðjohnsen",
+   "olasilik": 0.0073,
+   "adil_oran": 137.14,
+   "en_olasi": "Orri Óskarsson + Andri Guðjohnsen",
+   "en_olasi_p": 0.0073,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson + Andri Guðjohnsen",
+     0.0073
+    ],
+    [
+     "Orri Óskarsson + Mikael Egill Ellertsson",
+     0.0037
+    ],
+    [
+     "Orri Óskarsson + Victor Pálsson",
+     0.0026
+    ],
+    [
+     "Andri Guðjohnsen + Mikael Egill Ellertsson",
+     0.001
+    ],
+    [
+     "Andri Guðjohnsen + Victor Pálsson",
+     0.0005
+    ],
+    [
+     "Mikael Egill Ellertsson + Victor Pálsson",
+     0.0001
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 1. Yarıda Gol Atar",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.1779,
+   "adil_oran": 5.62,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.1779,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.1779
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.1129
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0634
+    ],
+    [
+     "Victor Pálsson",
+     0.0391
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 2. Yarıda Gol Atar",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.2225,
+   "adil_oran": 4.49,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.2225,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.2225
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.1434
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0802
+    ],
+    [
+     "Victor Pálsson",
+     0.0506
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Her İki Yarıda da Gol Atar",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.0301,
+   "adil_oran": 33.22,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.0301,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.0301
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.0118
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0038
+    ],
+    [
+     "Victor Pálsson",
+     0.0013
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İlk 10 Dakikada Gol Atar",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.045,
+   "adil_oran": 22.21,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.045,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.045
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.0276
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0154
+    ],
+    [
+     "Victor Pálsson",
+     0.0094
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Penaltıdan Gol Atar",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.0,
+   "adil_oran": null,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.0,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.0
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.0
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0
+    ],
+    [
+     "Victor Pálsson",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Gol Atar",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.0544,
+   "adil_oran": 18.37,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.0544,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.0544
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.0328
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0178
+    ],
+    [
+     "Victor Pálsson",
+     0.0109
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kale Sahası İçinden Gol Atar",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.0877,
+   "adil_oran": 11.4,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.0877,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.0877
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.0553
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0301
+    ],
+    [
+     "Victor Pálsson",
+     0.0181
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kafa Golü Atar",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.0752,
+   "adil_oran": 13.3,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.0752,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.0752
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.0461
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0253
+    ],
+    [
+     "Victor Pálsson",
+     0.0152
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Serbest Vuruştan Gol Atar",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.014,
+   "adil_oran": 71.26,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.014,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.014
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.0083
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0047
+    ],
+    [
+     "Victor Pálsson",
+     0.0027
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sağ Ayağıyla Gol Atar",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.2262,
+   "adil_oran": 4.42,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.2262,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.2262
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.1425
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0798
+    ],
+    [
+     "Victor Pálsson",
+     0.0494
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Takımı Kazanır",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.3417,
+   "adil_oran": 2.93,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.3417,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.3417
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.2267
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.1302
+    ],
+    [
+     "Victor Pálsson",
+     0.0817
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Rakip Takım Kazanır",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.005,
+   "adil_oran": 201.01,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.005,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.005
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.0032
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0014
+    ],
+    [
+     "Victor Pálsson",
+     0.0012
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Maç Berabere Biter",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.0236,
+   "adil_oran": 42.37,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.0236,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.0236
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.0146
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0082
+    ],
+    [
+     "Victor Pálsson",
+     0.0055
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Asist Yapar",
+   "oneri": "Mikael Egill Ellertsson",
+   "olasilik": 0.1495,
+   "adil_oran": 6.69,
+   "en_olasi": "Mikael Egill Ellertsson",
+   "en_olasi_p": 0.1495,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Mikael Egill Ellertsson",
+     0.1495
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.1247
+    ],
+    [
+     "Orri Óskarsson",
+     0.1006
+    ],
+    [
+     "Victor Pálsson",
+     0.0518
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar veya Asist Yapar",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.4186,
+   "adil_oran": 2.39,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.4186,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.4186
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.3255
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.2586
+    ],
+    [
+     "Victor Pálsson",
+     0.1332
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar veya Asist Yapar (Çifte Şans)",
+   "oneri": "Orri Óskarsson veya Andri Guðjohnsen gol/asist",
+   "olasilik": 0.5871,
+   "adil_oran": 1.7,
+   "en_olasi": "Orri Óskarsson veya Andri Guðjohnsen gol/asist",
+   "en_olasi_p": 0.5871,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson veya Andri Guðjohnsen gol/asist",
+     0.5871
+    ],
+    [
+     "Orri Óskarsson veya Mikael Egill Ellertsson gol/asist",
+     0.5472
+    ],
+    [
+     "Orri Óskarsson veya Victor Pálsson gol/asist",
+     0.4874
+    ],
+    [
+     "Andri Guðjohnsen veya Mikael Egill Ellertsson gol/asist",
+     0.4823
+    ],
+    [
+     "Andri Guðjohnsen veya Victor Pálsson gol/asist",
+     0.4066
+    ],
+    [
+     "Mikael Egill Ellertsson veya Victor Pálsson gol/asist",
+     0.3495
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Asist Yapar",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.0523,
+   "adil_oran": 19.11,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.0523,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.0523
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.0438
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0308
+    ],
+    [
+     "Victor Pálsson",
+     0.0069
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Gol Asisti Yapar Çifte Şans",
+   "oneri": "Andri Guðjohnsen veya Mikael Egill Ellertsson asist",
+   "olasilik": 0.2555,
+   "adil_oran": 3.91,
+   "en_olasi": "Andri Guðjohnsen veya Mikael Egill Ellertsson asist",
+   "en_olasi_p": 0.2555,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Andri Guðjohnsen veya Mikael Egill Ellertsson asist",
+     0.2555
+    ],
+    [
+     "Orri Óskarsson veya Mikael Egill Ellertsson asist",
+     0.2351
+    ],
+    [
+     "Orri Óskarsson veya Andri Guðjohnsen asist",
+     0.2127
+    ],
+    [
+     "Mikael Egill Ellertsson veya Victor Pálsson asist",
+     0.1938
+    ],
+    [
+     "Andri Guðjohnsen veya Victor Pálsson asist",
+     0.17
+    ],
+    [
+     "Orri Óskarsson veya Victor Pálsson asist",
+     0.1473
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Penaltı Kaçırır",
+   "oneri": "Orri Óskarsson",
+   "olasilik": 0.0,
+   "adil_oran": null,
+   "en_olasi": "Orri Óskarsson",
+   "en_olasi_p": 0.0,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Orri Óskarsson",
+     0.0
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.0
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0
+    ],
+    [
+     "Victor Pálsson",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Penaltı Kazandıran Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu bazlı penaltı verisi yok",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kart Görür",
+   "oneri": "Victor Pálsson",
+   "olasilik": 0.1999,
+   "adil_oran": 5.0,
+   "en_olasi": "Victor Pálsson",
+   "en_olasi_p": 0.1999,
+   "guven": "düşük",
+   "not_": "Oyuncunun kart ihtimali girdiden",
+   "secimler": [
+    [
+     "Victor Pálsson",
+     0.1999
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.1203
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.1197
+    ],
+    [
+     "Orri Óskarsson",
+     0.1007
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kart Görür Çifte Şans",
+   "oneri": "Andri Guðjohnsen veya Victor Pálsson",
+   "olasilik": 0.2957,
+   "adil_oran": 3.38,
+   "en_olasi": "Andri Guðjohnsen veya Victor Pálsson",
+   "en_olasi_p": 0.2957,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Andri Guðjohnsen veya Victor Pálsson",
+     0.2957
+    ],
+    [
+     "Mikael Egill Ellertsson veya Victor Pálsson",
+     0.2956
+    ],
+    [
+     "Orri Óskarsson veya Victor Pálsson",
+     0.2803
+    ],
+    [
+     "Andri Guðjohnsen veya Mikael Egill Ellertsson",
+     0.2258
+    ],
+    [
+     "Orri Óskarsson veya Andri Guðjohnsen",
+     0.2087
+    ],
+    [
+     "Orri Óskarsson veya Mikael Egill Ellertsson",
+     0.208
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sarı Kart Görür",
+   "oneri": "Victor Pálsson",
+   "olasilik": 0.1999,
+   "adil_oran": 5.0,
+   "en_olasi": "Victor Pálsson",
+   "en_olasi_p": 0.1999,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Victor Pálsson",
+     0.1999
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.1203
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.1197
+    ],
+    [
+     "Orri Óskarsson",
+     0.1007
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Kart Görecek İlk Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu sıralaması için yeterli veri yok",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Son Kartı Görecek Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu sıralaması için yeterli veri yok",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyundan Uzaklaştırılır",
+   "oneri": "Victor Pálsson",
+   "olasilik": 0.01,
+   "adil_oran": 99.92,
+   "en_olasi": "Victor Pálsson",
+   "en_olasi_p": 0.01,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Victor Pálsson",
+     0.01
+    ],
+    [
+     "Mikael Egill Ellertsson",
+     0.0066
+    ],
+    [
+     "Andri Guðjohnsen",
+     0.0064
+    ],
+    [
+     "Orri Óskarsson",
+     0.005
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Şutları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pasları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pas Denemeleri",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncunun Yaptığı Fauller",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncuya Faul Yapılır",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Topa Müdahaleler",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ofsayta Düşer",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Kaleci Kurtarışları",
+   "oneri": "İzlanda kalecisi 1,5 Alt",
+   "olasilik": 0.7478,
+   "adil_oran": 1.34,
+   "en_olasi": "İzlanda kalecisi 4,5 Alt",
+   "en_olasi_p": 0.997,
+   "guven": "düşük",
+   "not_": "Rakibin beklenen golünden türetildi",
+   "secimler": [
+    [
+     "İzlanda kalecisi 1,5 Üst",
+     0.2522
+    ],
+    [
+     "İzlanda kalecisi 1,5 Alt",
+     0.7478
+    ],
+    [
+     "İzlanda kalecisi 2,5 Üst",
+     0.0745
+    ],
+    [
+     "İzlanda kalecisi 2,5 Alt",
+     0.9255
+    ],
+    [
+     "İzlanda kalecisi 3,5 Üst",
+     0.0169
+    ],
+    [
+     "İzlanda kalecisi 3,5 Alt",
+     0.9831
+    ],
+    [
+     "İzlanda kalecisi 4,5 Üst",
+     0.003
+    ],
+    [
+     "İzlanda kalecisi 4,5 Alt",
+     0.997
+    ],
+    [
+     "Lüksemburg kalecisi 1,5 Üst",
+     0.948
+    ],
+    [
+     "Lüksemburg kalecisi 1,5 Alt",
+     0.052
+    ],
+    [
+     "Lüksemburg kalecisi 2,5 Üst",
+     0.8471
+    ],
+    [
+     "Lüksemburg kalecisi 2,5 Alt",
+     0.1529
+    ],
+    [
+     "Lüksemburg kalecisi 3,5 Üst",
+     0.6905
+    ],
+    [
+     "Lüksemburg kalecisi 3,5 Alt",
+     0.3095
+    ],
+    [
+     "Lüksemburg kalecisi 4,5 Üst",
+     0.5084
+    ],
+    [
+     "Lüksemburg kalecisi 4,5 Alt",
+     0.4916
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Pas Veren Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Faul Yapan Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 1. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 2. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Her İki Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Çektiği Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kafayla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sağ Ayakla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  }
+ ],
+ "eksik": []
+}

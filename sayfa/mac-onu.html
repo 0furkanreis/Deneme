@@ -1,0 +1,307 @@
+<title>Maç Önü Analiz</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: maç seçici şerit → eşleşme bandı + ana öneri → üç kademe öneri sütunu → 338 pazarlık tam katalog tablosu */
+:root {
+  --bg: #eef1ec; --surface: #ffffff; --surface-2: #f4f6f2; --fg: #17201a; --muted: #5b685f; --line: #d5ddd6;
+  --pitch: #1f5b3a; --pitch-ink: #ffffff; --draw: #7f8a82;
+  --good: #2f8a4c; --warn: #b7791f; --bad: #c0392b; --home: #02529c; --away: #ef3340;
+  --font-display: "Barlow Condensed", "Arial Narrow", "Roboto Condensed", sans-serif;
+  --font-body: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-data: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f1511; --surface: #172019; --surface-2: #1d281f; --fg: #e6ece7; --muted: #96a49a; --line: #2b382e;
+    --pitch: #2c7a4f; --pitch-ink: #f2f7f3; --draw: #7d877f; --good: #4cb36b; --warn: #d79a3a; --bad: #e05a4b; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0f1511; --surface: #172019; --surface-2: #1d281f; --fg: #e6ece7; --muted: #96a49a; --line: #2b382e;
+  --pitch: #2c7a4f; --pitch-ink: #f2f7f3; --draw: #7d877f; --good: #4cb36b; --warn: #d79a3a; --bad: #e05a4b; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--fg); font-family: var(--font-body); font-size: 15px; line-height: 1.5; }
+.wrap { max-width: 1160px; margin: 0 auto; padding-block: 20px 64px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: grid; gap: 18px; }
+h1, h2, h3 { font-family: var(--font-display); margin: 0; text-wrap: balance; }
+h2 { font-size: 1.3rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; }
+.label { font-size: .72rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-weight: 600; }
+.num { font-family: var(--font-data); font-variant-numeric: tabular-nums; }
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--pitch); outline-offset: 2px; }
+a { color: var(--pitch); }
+
+.tabs { display: flex; gap: 8px; flex-wrap: wrap; }
+.tab { border: 1px solid var(--line); background: var(--surface); padding: 8px 14px; border-radius: 8px; cursor: pointer; display: grid; text-align: left; gap: 0; }
+.tab b { font-family: var(--font-display); font-size: 1.05rem; text-transform: uppercase; letter-spacing: .02em; }
+.tab span { font-size: .75rem; color: var(--muted); }
+.tab[aria-selected="true"] { background: var(--pitch); color: var(--pitch-ink); border-color: var(--pitch); }
+.tab[aria-selected="true"] span { color: var(--pitch-ink); opacity: .85; }
+
+.matchup { background: var(--pitch); color: var(--pitch-ink); border-radius: 12px; padding: 20px; display: grid; gap: 16px; position: relative; overflow: hidden; }
+.matchup::before { content: ""; position: absolute; inset: 0; opacity: .12; pointer-events: none;
+  background: linear-gradient(var(--pitch-ink), var(--pitch-ink)) center / 2px 100% no-repeat,
+  radial-gradient(circle at center, transparent 56px, var(--pitch-ink) 57px, var(--pitch-ink) 59px, transparent 60px); }
+.matchup > * { position: relative; }
+.meta { display: flex; gap: 6px 16px; flex-wrap: wrap; justify-content: center; font-size: .78rem; text-transform: uppercase; letter-spacing: .08em; opacity: .9; }
+.teams { display: grid; grid-template-columns: 1fr auto 1fr; gap: 12px; align-items: center; }
+.tn { font-family: var(--font-display); font-weight: 800; font-size: clamp(1.5rem, 5vw, 2.6rem); line-height: 1; text-transform: uppercase; overflow-wrap: anywhere; min-width: 0; }
+.tn.h { text-align: right; }
+.xg { text-align: center; } .xg .num { font-size: clamp(1.2rem, 3.6vw, 1.8rem); white-space: nowrap; } .xg .cap { font-size: .68rem; text-transform: uppercase; letter-spacing: .1em; opacity: .8; }
+.bar3 { display: flex; height: 36px; border-radius: 6px; overflow: hidden; }
+.bar3 div { display: flex; align-items: center; justify-content: center; font-family: var(--font-data); font-size: .85rem; color: #fff; min-width: 0; white-space: nowrap; }
+.bar-legend { display: flex; justify-content: space-between; font-size: .72rem; text-transform: uppercase; letter-spacing: .08em; opacity: .85; margin-top: 4px; }
+
+.grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: 18px; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 18px; display: grid; gap: 12px; align-content: start; min-width: 0; }
+.s5 { grid-column: span 5; } .s7 { grid-column: span 7; } .s4 { grid-column: span 4; } .s12 { grid-column: span 12; }
+@media (max-width: 900px) { .s5, .s7, .s4 { grid-column: span 12; } }
+.head { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+
+.main-pick { border: 2px solid var(--pitch); }
+.mp-sel { font-family: var(--font-display); font-size: 1.7rem; font-weight: 700; line-height: 1.1; }
+.mp-mkt { color: var(--muted); font-size: .9rem; }
+.mp-nums { display: flex; gap: 24px; flex-wrap: wrap; }
+.mp-nums div { display: grid; }
+.mp-nums .num { font-size: 1.5rem; }
+ul.plain { margin: 0; padding-left: 18px; display: grid; gap: 4px; font-size: .92rem; }
+.kv { display: grid; grid-template-columns: auto 1fr; gap: 4px 14px; font-size: .88rem; }
+.kv dt { color: var(--muted); } .kv dd { margin: 0; }
+
+.tier { display: grid; gap: 2px; }
+.tier-row { display: grid; grid-template-columns: 1fr auto; gap: 2px 10px; padding: 8px 0; border-bottom: 1px solid var(--line); align-items: baseline; }
+.tier-row:last-child { border-bottom: 0; }
+.tier-row .sel { font-weight: 600; font-size: .92rem; }
+.tier-row .mkt { grid-column: 1; font-size: .78rem; color: var(--muted); }
+.tier-row .pv { text-align: right; font-family: var(--font-data); font-size: .9rem; white-space: nowrap; }
+.tier-row .fo { text-align: right; font-family: var(--font-data); font-size: .75rem; color: var(--muted); }
+.tag { display: inline-block; padding: 1px 8px; border-radius: 999px; font-size: .68rem; font-weight: 600; text-transform: uppercase; letter-spacing: .05em; border: 1px solid currentColor; }
+.tag.g-yuksek { color: var(--good); } .tag.g-orta { color: var(--warn); } .tag.g-dusuk { color: var(--bad); }
+.tier-h { display: flex; align-items: center; gap: 8px; }
+.dot { width: 10px; height: 10px; border-radius: 50%; }
+
+.filters { display: flex; gap: 10px; flex-wrap: wrap; align-items: end; }
+.filters .f { display: grid; gap: 3px; min-width: 0; }
+.filters label { font-size: .75rem; color: var(--muted); }
+.filters input, .filters select { background: var(--surface-2); border: 1px solid var(--line); border-radius: 6px; padding: 7px 9px; min-width: 0; }
+.filters input[type="search"] { width: min(280px, 100%); }
+.count { font-size: .82rem; color: var(--muted); margin-left: auto; }
+.cat-h { font-family: var(--font-display); font-size: 1.05rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; padding: 14px 0 6px; border-bottom: 2px solid var(--fg); display: flex; justify-content: space-between; gap: 8px; }
+.cat-h span { font-family: var(--font-body); font-size: .75rem; color: var(--muted); font-weight: 500; text-transform: none; letter-spacing: 0; align-self: end; }
+details.mk { border-bottom: 1px solid var(--line); }
+details.mk > summary { list-style: none; cursor: pointer; display: grid; grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr) 64px 52px 74px; gap: 10px; padding: 9px 4px; align-items: center; font-size: .88rem; }
+details.mk > summary::-webkit-details-marker { display: none; }
+details.mk > summary:hover { background: var(--surface-2); }
+.mk .nm { overflow-wrap: anywhere; }
+.mk .rec { font-weight: 600; overflow-wrap: anywhere; }
+.mk .pp, .mk .oo { font-family: var(--font-data); text-align: right; font-variant-numeric: tabular-nums; }
+.mk .gg { text-align: right; }
+@media (max-width: 640px) {
+  details.mk > summary { grid-template-columns: minmax(0, 1fr) 56px 46px; }
+  .mk .rec { grid-column: 1 / -1; grid-row: 2; font-size: .84rem; color: var(--pitch); }
+  .mk .gg { display: none; }
+}
+.sels { padding: 4px 4px 14px; display: grid; gap: 5px; }
+.sel-row { display: grid; grid-template-columns: minmax(0, 1fr) 120px 58px 48px 74px 64px; gap: 8px; align-items: center; font-size: .84rem; }
+.sel-row .b { height: 7px; border-radius: 4px; background: var(--surface-2); overflow: hidden; }
+.sel-row .b i { display: block; height: 100%; background: var(--pitch); }
+.sel-row.best .l { font-weight: 600; }
+.sel-row input { width: 100%; background: var(--surface-2); border: 1px solid var(--line); border-radius: 5px; padding: 3px 6px; font-family: var(--font-data); font-size: .8rem; }
+.val { font-family: var(--font-data); font-size: .8rem; text-align: right; }
+.val.pos { color: var(--good); font-weight: 600; } .val.neg { color: var(--bad); }
+@media (max-width: 640px) { .sel-row { grid-template-columns: minmax(0, 1fr) 54px 44px 62px 56px; } .sel-row .b { display: none; } }
+.sel-head { font-size: .7rem; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
+.note { font-size: .78rem; color: var(--muted); }
+.empty { color: var(--muted); padding: 20px 0; }
+.foot { font-size: .8rem; color: var(--muted); max-width: 80ch; }
+.foot p { margin: 0 0 6px; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+  <div class="tabs" role="tablist" id="tabs" aria-label="Maçlar"></div>
+
+  <section class="matchup" id="matchup">
+    <div class="meta" id="meta"><span>Analiz yükleniyor…</span></div>
+    <div class="teams"><div class="tn h" id="tnH"></div><div class="xg"><div class="num" id="xg">– : –</div><div class="cap">Beklenen gol</div></div><div class="tn" id="tnA"></div></div>
+    <div><div class="bar3" id="bar3"></div><div class="bar-legend"><span>1 · Ev</span><span>X</span><span>2 · Deplasman</span></div></div>
+  </section>
+
+  <div class="grid">
+    <section class="card main-pick s7">
+      <div class="head"><h2>En mantıklı seçenek</h2><span class="tag g-yuksek">Ana öneri</span></div>
+      <div><div class="mp-sel" id="mpSel"></div><div class="mp-mkt" id="mpMkt"></div></div>
+      <div class="mp-nums"><div><span class="label">Model olasılığı</span><span class="num" id="mpP"></span></div><div><span class="label">Adil oran</span><span class="num" id="mpO"></span></div><div><span class="label">Değerli olduğu oran</span><span class="num" id="mpV"></span></div></div>
+      <ul class="plain" id="mpWhy"></ul>
+    </section>
+    <section class="card s5">
+      <div class="head"><h2>Riskler ve veri</h2></div>
+      <ul class="plain" id="risks"></ul>
+      <dl class="kv" id="kv"></dl>
+    </section>
+
+    <section class="card s4"><div class="tier-h"><span class="dot" style="background:var(--good)"></span><h2>Güvenli</h2><span class="label">%75–86</span></div><div class="tier" id="t1"></div></section>
+    <section class="card s4"><div class="tier-h"><span class="dot" style="background:var(--warn)"></span><h2>Dengeli</h2><span class="label">%55–75</span></div><div class="tier" id="t2"></div></section>
+    <section class="card s4"><div class="tier-h"><span class="dot" style="background:var(--bad)"></span><h2>Riskli, yüksek oran</h2><span class="label">%35–55</span></div><div class="tier" id="t3"></div></section>
+
+    <section class="card s12" aria-labelledby="allH">
+      <div class="head"><h2 id="allH">Tüm bahis seçenekleri</h2><span class="label" id="simInfo"></span></div>
+      <p class="note" style="margin:0">Her satır sitedeki bir pazardır. Açınca tüm seçimleri görürsünüz; sitedeki oranı yazarsanız değer hesaplanır (değer = olasılık × oran − 1, artı ise değerli). Öneri: adil oranı en az 1,20 olan seçimler içinde en olası olan.</p>
+      <div class="filters">
+        <div class="f"><label for="q">Ara</label><input type="search" id="q" placeholder="ör. korner, 2,5, Šeško"></div>
+        <div class="f"><label for="cat">Kategori</label><select id="cat"><option value="">Tümü</option></select></div>
+        <div class="f"><label for="conf">Güven</label><select id="conf"><option value="">Tümü</option><option value="yüksek">Yüksek</option><option value="orta">Orta</option><option value="düşük">Düşük</option></select></div>
+        <span class="count" id="count"></span>
+      </div>
+      <div id="list"></div>
+    </section>
+  </div>
+
+  <div class="foot" id="foot"></div>
+</div>
+
+<script>
+(function () {
+  const W = { gol: 1, "gol-yari": .95, "gol-zaman": .85, korner: .75, kart: .7, penalti: .6, ozel: .5, oyuncu: .55 };
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#39;" }[c]));
+  const pc = (p, d = 1) => "%" + (p * 100).toFixed(d).replace(".", ",");
+  const fo = p => p > 0.0005 ? (1 / p).toFixed(2).replace(".", ",") : "—";
+  const gcls = g => g === "yüksek" ? "g-yuksek" : g === "orta" ? "g-orta" : "g-dusuk";
+  const store = {
+    get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } },
+    set(k, v) { try { v ? localStorage.setItem(k, v) : localStorage.removeItem(k); } catch (e) {} }
+  };
+  let INDEX = [], CUR = null, DATA = {};
+
+  const pick = s => {
+    if (!s.length) return null;
+    const c = s.filter(x => x[1] <= 0.835);
+    const best = s.reduce((a, b) => b[1] > a[1] ? b : a);
+    const rec = c.length ? c.reduce((a, b) => b[1] > a[1] ? b : a) : best;
+    return rec[1] < 0.40 && best[1] > 0.835 ? best : rec;
+  };
+
+  function tiers(d) {
+    const seen = new Map(), out = [];
+    d.pazarlar.forEach(m => {
+      const yes = m.s.find(x => x[0] === "Evet");
+      m.s.forEach(([lab, p]) => {
+        if (lab === "Hayır" && yes && yes[1] < 0.3) return;               // önemsiz "olmaz" seçimleri
+        if (/^\d\+? (gol|korner|puan)$|^Tam \d|^Gol yok$|^Diğer$|Kazanamaz$/.test(lab) && p > 0.6) return;
+        const key = p.toFixed(4) + m.y;
+        if (seen.has(key)) { seen.get(key).same++; return; }
+        const r = { m, lab, p, same: 0, sc: p * W[m.y] * (m.g === "düşük" ? .82 : 1) };
+        seen.set(key, r); out.push(r);
+      });
+    });
+    const band = (lo, hi, n) => out.filter(r => r.p >= lo && r.p < hi).sort((a, b) => b.sc - a.sc).slice(0, n);
+    return [band(.75, .86, 8), band(.55, .75, 8), band(.35, .55, 8)];
+  }
+
+  function renderTabs() {
+    $("tabs").innerHTML = INDEX.map(m => `<button class="tab" role="tab" type="button" id="tab-${m.slug}" aria-selected="${CUR && CUR.slug === m.slug}" data-slug="${m.slug}"><b>${esc(m.ev)} – ${esc(m.dep)}</b><span>${esc(m.tarih)} · ${esc(m.saat)} · ${esc(m.organizasyon.split("·")[1] || "")}</span></button>`).join("");
+    $("tabs").querySelectorAll(".tab").forEach(b => b.addEventListener("click", () => { location.hash = b.dataset.slug; }));
+  }
+
+  async function load(slug) {
+    CUR = INDEX.find(m => m.slug === slug) || INDEX[0];
+    renderTabs();
+    if (!DATA[CUR.slug]) {
+      try { DATA[CUR.slug] = await (await fetch("veri/" + CUR.slug + ".json")).json(); }
+      catch (e) { $("list").innerHTML = `<p class="empty">Maç verisi yüklenemedi. Sayfayı yenileyin.</p>`; return; }
+    }
+    render();
+  }
+
+  function render() {
+    const m = CUR, d = DATA[m.slug];
+    document.documentElement.style.setProperty("--home", m.ev_renk);
+    document.documentElement.style.setProperty("--away", m.dep_renk);
+    $("meta").innerHTML = [m.organizasyon, m.tarih + " · " + m.saat + " TSİ", m.stadyum].map(x => `<span>${esc(x)}</span>`).join("");
+    $("tnH").textContent = m.ev; $("tnA").textContent = m.dep;
+    $("xg").textContent = d.beklenen_gol.map(x => x.toFixed(2).replace(".", ",")).join(" – ");
+    const ms = d.pazarlar.find(x => x.p === "Maç Sonucu").s;
+    $("bar3").innerHTML = ms.map(([l, p], i) => `<div style="flex-basis:${p * 100}%;background:${["var(--home)", "#6b736d", "var(--away)"][i]}">${p > .1 ? pc(p, 0) : ""}</div>`).join("");
+    $("bar3").setAttribute("aria-label", ms.map(([l, p]) => l + " " + pc(p, 0)).join(", "));
+
+    // ana öneri
+    const mk = d.pazarlar.find(x => x.p === m.ana_oneri.pazar.replace("{EV}", m.ev));
+    const sel = mk && mk.s.find(x => x[0] === m.ana_oneri.secim);
+    $("mpSel").textContent = m.ana_oneri.pazar + (m.ana_oneri.secim !== "Evet" ? " · " + m.ana_oneri.secim : "");
+    $("mpMkt").textContent = mk ? mk.k.toLowerCase().replace(/^./, c => c.toUpperCase()) + " kategorisi" : "";
+    $("mpP").textContent = sel ? pc(sel[1]) : "—"; $("mpO").textContent = sel ? fo(sel[1]) : "—";
+    $("mpV").textContent = sel ? (1.05 / sel[1]).toFixed(2).replace(".", ",") + " ve üzeri" : "—";
+    $("mpWhy").innerHTML = m.gerekce.map(x => `<li>${esc(x)}</li>`).join("");
+    $("risks").innerHTML = m.riskler.map(x => `<li>${esc(x)}</li>`).join("");
+    $("kv").innerHTML = Object.entries(m.veri).map(([k, v]) => `<dt>${esc(k)}</dt><dd class="num" style="font-size:.84rem">${esc(v)}</dd>`).join("");
+
+    // kademeler
+    const T = tiers(d);
+    ["t1", "t2", "t3"].forEach((id, i) => {
+      $(id).innerHTML = T[i].length ? T[i].map(r => `<div class="tier-row"><span class="sel">${esc(r.lab)}</span><span class="pv">${pc(r.p)}</span><span class="mkt">${esc(r.m.p)}${r.same ? ` · +${r.same} aynı olay` : ""} <span class="tag ${gcls(r.m.g)}">${esc(r.m.g)}</span></span><span class="fo">${fo(r.p)}</span></div>`).join("") : `<p class="empty">Bu aralıkta seçim yok.</p>`;
+    });
+
+    // filtreler
+    const cats = [...new Set(d.pazarlar.map(x => x.k))];
+    const cv = $("cat").value;
+    $("cat").innerHTML = `<option value="">Tümü (${cats.length})</option>` + cats.map(c => `<option${c === cv ? " selected" : ""}>${esc(c)}</option>`).join("");
+    $("simInfo").textContent = d.pazarlar.length + " pazar · " + d.simulasyon.toLocaleString("tr-TR") + " simülasyon";
+    renderList();
+    $("foot").innerHTML = `<p>Kaynaklar: ${m.kaynaklar.map(([t, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(t)}</a>`).join(" · ")}</p>
+      <p>Olasılıklar takımların gol, korner ve kart beklentilerinden yapılan Monte Carlo simülasyonundan gelir. Korner, kart, penaltı, özel ve oyuncu pazarlarında veri sınırlıdır; bu satırlar "düşük" güvenle işaretlidir. Kesin sonuç garantisi yoktur.</p>`;
+  }
+
+  function renderList() {
+    const d = DATA[CUR.slug], q = $("q").value.trim().toLocaleLowerCase("tr"), c = $("cat").value, g = $("conf").value;
+    const rows = d.pazarlar.filter(x => (!c || x.k === c) && (!g || x.g === g) &&
+      (!q || (x.p + " " + x.s.map(s => s[0]).join(" ")).toLocaleLowerCase("tr").includes(q)));
+    $("count").textContent = rows.length + " / " + d.pazarlar.length + " pazar";
+    let html = "", cur = null;
+    rows.forEach((x, i) => {
+      if (x.k !== cur) { cur = x.k; html += `<div class="cat-h">${esc(cur)}<span>${rows.filter(r => r.k === cur).length} pazar</span></div>`; }
+      const r = pick(x.s);
+      html += `<details class="mk" data-i="${d.pazarlar.indexOf(x)}"><summary>
+        <span class="nm">${esc(x.p)}</span><span class="rec">${r ? esc(r[0]) : "Değerlendirilmedi"}</span>
+        <span class="pp">${r ? pc(r[1]) : "—"}</span><span class="oo">${r ? fo(r[1]) : ""}</span>
+        <span class="gg"><span class="tag ${gcls(x.g)}">${esc(x.g)}</span></span></summary><div class="sels"></div></details>`;
+    });
+    $("list").innerHTML = html || `<p class="empty">Aramanızla eşleşen pazar yok. Filtreleri temizleyin.</p>`;
+    $("list").querySelectorAll("details.mk").forEach(el => el.addEventListener("toggle", () => { if (el.open && !el.dataset.done) fillSels(el); }));
+  }
+
+  function fillSels(el) {
+    const x = DATA[CUR.slug].pazarlar[+el.dataset.i];
+    el.dataset.done = 1;
+    const r = pick(x.s), box = el.querySelector(".sels");
+    if (!x.s.length) { box.innerHTML = `<p class="note">${esc(x.n || "Veri yok.")}</p>`; return; }
+    const sorted = [...x.s].sort((a, b) => b[1] - a[1]);
+    box.innerHTML = `<div class="sel-row sel-head"><span>Seçim</span><span class="hb"></span><span style="text-align:right">Olasılık</span><span style="text-align:right">Adil</span><span>Sitedeki oran</span><span style="text-align:right">Değer</span></div>` +
+      sorted.map(([l, p], j) => {
+        const k = CUR.slug + "|" + x.p + "|" + l, o = store.get(k) || "";
+        return `<div class="sel-row${r && l === r[0] ? " best" : ""}"><span class="l">${esc(l)}</span><span class="b"><i style="width:${(p * 100).toFixed(1)}%"></i></span>
+        <span class="num" style="text-align:right">${pc(p)}</span><span class="num" style="text-align:right">${fo(p)}</span>
+        <input inputmode="decimal" id="o-${el.dataset.i}-${j}" data-k="${esc(k)}" data-p="${p}" value="${esc(o)}" placeholder="oran" aria-label="${esc(l)} için sitedeki oran">
+        <span class="val"></span></div>`;
+      }).join("") + (x.n ? `<p class="note">${esc(x.n)}</p>` : "");
+    box.querySelectorAll("input").forEach(inp => { const f = () => value(inp); inp.addEventListener("input", () => { store.set(inp.dataset.k, inp.value.trim()); f(); }); f(); });
+  }
+  function value(inp) {
+    const o = parseFloat(inp.value.replace(",", ".")), p = +inp.dataset.p, out = inp.nextElementSibling;
+    if (!isFinite(o) || o <= 1) { out.textContent = ""; out.className = "val"; return; }
+    const v = p * o - 1;
+    out.textContent = (v >= 0 ? "+" : "") + (v * 100).toFixed(1).replace(".", ",") + "%";
+    out.className = "val " + (v > 0.02 ? "pos" : v < 0 ? "neg" : "");
+  }
+
+  ["q", "cat", "conf"].forEach(id => $(id).addEventListener("input", renderList));
+  window.addEventListener("hashchange", () => load(location.hash.slice(1)));
+  fetch("veri/maclar.json").then(r => r.json()).then(ix => { INDEX = ix; load(location.hash.slice(1)); })
+    .catch(() => { $("meta").innerHTML = "<span>Maç listesi yüklenemedi. Sayfayı yenileyin.</span>"; });
+})();
+</script>
