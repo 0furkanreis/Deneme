@@ -1,0 +1,8 @@
+{"organizasyon":"UEFA Uluslar Ligi B Ligi 2. Grup","tarih":"17 Kasım 2026, 22:45 TSİ","stadyum":"Puskás Aréna, Budapeşte","hakem":"Marco Guida",
+ "ilk_yari_gol_payi":0.43,"korner_guven":"düşük","kart_guven":"orta","var_ort":0.25,
+ "ev":{"ad":"Macaristan","beklenen_gol":1.20,"korner":5.4,"sari_kart":2.0,
+  "oyuncular":[{"ad":"Barnabás Varga","gol_payi":0.24,"asist_payi":0.08,"kart_ihtimali":0.12},
+               {"ad":"Dominik Szoboszlai","gol_payi":0.18,"asist_payi":0.20,"kart_ihtimali":0.16,"penaltici":true},
+               {"ad":"Roland Sallai","gol_payi":0.14,"asist_payi":0.15,"kart_ihtimali":0.14}]},
+ "dep":{"ad":"Kuzey İrlanda","beklenen_gol":0.72,"korner":3.6,"sari_kart":2.3,
+  "oyuncular":[{"ad":"Isaac Price","gol_payi":0.20,"asist_payi":0.12,"kart_ihtimali":0.12,"penaltici":true}]}}
