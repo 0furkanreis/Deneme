@@ -36,4 +36,6 @@ Beklenen gol İzlanda 2,05 – Lüksemburg 0,42 (Poisson, ilk yarı payı %44). 
 - Risk: İzlanda'ya beraberlik yetiyor, temkinli oynayabilir; eksik oyuncular var.
 
 ## Sonuç
-(maç sonrası eklenecek)
+**3-0 (İY 2-0)** — Willumsson 25', Guðjohnsen 37' (pen), Ellertsson 50'. Korner 9-3, kart 0-0, xG 3,26-0,08.
+- Ana öneri İzlanda Gol Yemeden Kazanır: **TUTTU**. MS 1 & 1,5 Üst, KG Yok, MS 1: tuttu.
+- Tam katalog: 283 kesin değerlendirilebilen önerinin 182'si tuttu (model beklentisi 175).

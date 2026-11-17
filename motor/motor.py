@@ -329,12 +329,13 @@ def build(ev):
     # ------ MAÇ SONUCU / TEMEL
     add("Maç Sonucu", ev.res3(H, A))
     add("Çifte Şans", [("1X", p(H >= A)), ("12", p(H != A)), ("X2", p(H <= A))])
+    sdiv = lambda a, b: a / b if b > 0 else float("nan")
     dn = p(H != A)
-    add("Beraberlikte İade", [(E, p(H > A) / dn), (D, p(H < A) / dn)], "Beraberlikte iade; olasılık iade hariç")
+    add("Beraberlikte İade", [(E, sdiv(p(H > A), dn)), (D, sdiv(p(H < A), dn))], "Beraberlikte iade; olasılık iade hariç")
     nd = p(H <= A)
-    add("{EV} : Bahis Yok", [("X", p(H == A) / nd), (D, p(H < A) / nd)], f"{E} kazanırsa iade")
+    add("{EV} : Bahis Yok", [("X", sdiv(p(H == A), nd)), (D, sdiv(p(H < A), nd))], f"{E} kazanırsa iade")
     nd2 = p(H >= A)
-    add("{DEP} : Bahis Yok", [(E, p(H > A) / nd2), ("X", p(H == A) / nd2)], f"{D} kazanırsa iade")
+    add("{DEP} : Bahis Yok", [(E, sdiv(p(H > A), nd2)), ("X", sdiv(p(H == A), nd2))], f"{D} kazanırsa iade")
     add("{EV} : Geriden Gelerek Kazanır", yn(trail_e & (H > A)))
     add("{DEP} : Geriden Kazanır", yn(trail_d & (A > H)))
     for key, x, y in (("{EV} : Kazanma Marjı", H, A), ("{DEP} : Kazanma Marjı", A, H)):

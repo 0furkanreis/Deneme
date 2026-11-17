@@ -32,4 +32,7 @@ Beklenen gol K. Makedonya 0,60 – Slovenya 1,40 (küçük örneklem nedeniyle o
 - Kaçın: 2,5/3,5 Üst, KG Var, Slovenya -1,5 handikap, ev sahibi lehine seçenekler, oyuncu ve özel bahisler.
 
 ## Sonuç
-(maç sonrası eklenecek)
+**0-3 (İY 0-1)** — Šturm 29', 90+1', Zec 66'. Korner 3-5, sarı 1-3, xG 0,59-2,22.
+- Ana öneri 2,5 Alt: **TUTMADI** (3. gol 90+1'de). Beraberlikte İade Slovenya, MS 2 & 3,5 Alt, MS 2: tuttu; X2 & 2,5 Alt tutmadı.
+- Ders: Slovenya'nın beklenen golü (1,40) fazla düşürüldü; gerçek xG 2,22. Kuzey Makedonya'nın 5 maçta 12 gol yemesi daha çok ağırlık almalıydı. Golcüler (Šturm, Zec) oyuncu listesinde yoktu.
+- Tam katalog: 287 önerinin 166'sı tuttu (model beklentisi 169).
