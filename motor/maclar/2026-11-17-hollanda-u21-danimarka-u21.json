@@ -1,9 +1,56 @@
-{"organizasyon":"U21 EURO Eleme Play-off, rövanş (ilk maç DAN 0-3 HOL)","tarih":"17 Kasım 2026, 20:30 TSİ","stadyum":"Yanmar Hanasaka Stadion",
- "ilk_yari_gol_payi":0.41,"korner_guven":"düşük","kart_guven":"düşük","var_ort":0.2,
- "ev":{"ad":"Hollanda U21","beklenen_gol":1.55,"korner":4.6,"sari_kart":1.7,
-  "oyuncular":[{"ad":"Thom van Bergen","gol_payi":0.18,"asist_payi":0.10,"kart_ihtimali":0.08},
-               {"ad":"Ro-Zangelo Daal","gol_payi":0.16,"asist_payi":0.10,"kart_ihtimali":0.08},
-               {"ad":"Don-Angelo Konadu","gol_payi":0.12,"asist_payi":0.15,"kart_ihtimali":0.10}]},
- "dep":{"ad":"Danimarka U21","beklenen_gol":1.05,"korner":5.0,"sari_kart":2.1,
-  "oyuncular":[{"ad":"Adam Daghim","gol_payi":0.20,"asist_payi":0.12,"kart_ihtimali":0.10},
-               {"ad":"Noah Nartey","gol_payi":0.12,"asist_payi":0.12,"kart_ihtimali":0.14}]}}
+{
+ "organizasyon": "U21 EURO Eleme Play-off, rövanş (ilk maç DAN 0-3 HOL)",
+ "tarih": "17 Kasım 2026, 20:30 TSİ",
+ "stadyum": "Yanmar Hanasaka Stadion",
+ "ilk_yari_gol_payi": 0.41,
+ "korner_guven": "düşük",
+ "kart_guven": "düşük",
+ "var_ort": 0.2,
+ "ev": {
+  "ad": "Hollanda U21",
+  "beklenen_gol": 1.9,
+  "korner": 5.0,
+  "sari_kart": 1.7,
+  "oyuncular": [
+   {
+    "ad": "Thom van Bergen",
+    "gol_payi": 0.18,
+    "asist_payi": 0.1,
+    "kart_ihtimali": 0.08
+   },
+   {
+    "ad": "Ro-Zangelo Daal",
+    "gol_payi": 0.16,
+    "asist_payi": 0.1,
+    "kart_ihtimali": 0.08
+   },
+   {
+    "ad": "Don-Angelo Konadu",
+    "gol_payi": 0.12,
+    "asist_payi": 0.15,
+    "kart_ihtimali": 0.1
+   }
+  ]
+ },
+ "dep": {
+  "ad": "Danimarka U21",
+  "beklenen_gol": 1.05,
+  "korner": 4.3,
+  "sari_kart": 2.0,
+  "oyuncular": [
+   {
+    "ad": "Adam Daghim",
+    "gol_payi": 0.2,
+    "asist_payi": 0.12,
+    "kart_ihtimali": 0.1
+   },
+   {
+    "ad": "Noah Nartey",
+    "gol_payi": 0.12,
+    "asist_payi": 0.12,
+    "kart_ihtimali": 0.14
+   }
+  ]
+ },
+ "not": "Lord Palace oranlarıyla harmanlanmış sürüm (piyasa λ 2,05–1,0; ilk model 1,55–1,05)"
+}
