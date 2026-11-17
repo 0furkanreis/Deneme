@@ -1,0 +1,10998 @@
+{
+ "mac": {
+  "organizasyon": "Hazırlık maçı",
+  "tarih": "18 Kasım 2026, 02:00 TSİ",
+  "stadyum": "Estadio Monumental David Arellano, Santiago",
+  "ilk_yari_gol_payi": 0.43,
+  "korner_guven": "orta",
+  "kart_guven": "orta",
+  "var_ort": 0.2,
+  "not": "Gol beklentisi geçmiş hatalar nedeniyle +%10 düzeltildi; site oranlarıyla yeniden ayarlanacak"
+ },
+ "ev": "Şili",
+ "dep": "Kolombiya",
+ "beklenen_gol": [
+  0.95,
+  1.25
+ ],
+ "simulasyon": 120000,
+ "pazarlar": [
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu",
+   "oneri": "2 (Kolombiya)",
+   "olasilik": 0.4323,
+   "adil_oran": 2.31,
+   "en_olasi": "2 (Kolombiya)",
+   "en_olasi_p": 0.4323,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Şili)",
+     0.2813
+    ],
+    [
+     "X",
+     0.2864
+    ],
+    [
+     "2 (Kolombiya)",
+     0.4323
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Çifte Şans",
+   "oneri": "X2",
+   "olasilik": 0.7187,
+   "adil_oran": 1.39,
+   "en_olasi": "X2",
+   "en_olasi_p": 0.7187,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.5677
+    ],
+    [
+     "12",
+     0.7136
+    ],
+    [
+     "X2",
+     0.7187
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Beraberlikte İade",
+   "oneri": "Kolombiya",
+   "olasilik": 0.6057,
+   "adil_oran": 1.65,
+   "en_olasi": "Kolombiya",
+   "en_olasi_p": 0.6057,
+   "guven": "yüksek",
+   "not_": "Beraberlikte iade; olasılık iade hariç",
+   "secimler": [
+    [
+     "Şili",
+     0.3943
+    ],
+    [
+     "Kolombiya",
+     0.6057
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Şili : Bahis Yok",
+   "oneri": "Kolombiya",
+   "olasilik": 0.6015,
+   "adil_oran": 1.66,
+   "en_olasi": "Kolombiya",
+   "en_olasi_p": 0.6015,
+   "guven": "yüksek",
+   "not_": "Şili kazanırsa iade",
+   "secimler": [
+    [
+     "X",
+     0.3985
+    ],
+    [
+     "Kolombiya",
+     0.6015
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Kolombiya : Bahis Yok",
+   "oneri": "X",
+   "olasilik": 0.5044,
+   "adil_oran": 1.98,
+   "en_olasi": "X",
+   "en_olasi_p": 0.5044,
+   "guven": "yüksek",
+   "not_": "Kolombiya kazanırsa iade",
+   "secimler": [
+    [
+     "Şili",
+     0.4956
+    ],
+    [
+     "X",
+     0.5044
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Şili : Geriden Gelerek Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9656,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9656,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0344
+    ],
+    [
+     "Hayır",
+     0.9656
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Kolombiya : Geriden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9487,
+   "adil_oran": 1.05,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9487,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0513
+    ],
+    [
+     "Hayır",
+     0.9487
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Şili : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.7187,
+   "adil_oran": 1.39,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.7187,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.1817
+    ],
+    [
+     "2 fark",
+     0.0729
+    ],
+    [
+     "3 fark",
+     0.0212
+    ],
+    [
+     "4+ fark",
+     0.0054
+    ],
+    [
+     "Kazanamaz",
+     0.7187
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Kolombiya : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.5677,
+   "adil_oran": 1.76,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.5677,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.2394
+    ],
+    [
+     "2 fark",
+     0.1258
+    ],
+    [
+     "3 fark",
+     0.0482
+    ],
+    [
+     "4+ fark",
+     0.0188
+    ],
+    [
+     "Kazanamaz",
+     0.5677
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller",
+   "oneri": "Toplam 3,5 Alt",
+   "olasilik": 0.8194,
+   "adil_oran": 1.22,
+   "en_olasi": "Toplam 5,5 Alt",
+   "en_olasi_p": 0.9747,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.89
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.11
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.6468
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.3532
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.378
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.622
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.1806
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.8194
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.0735
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.9265
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.0253
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.9747
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Şili : Toplam Gol",
+   "oneri": "Şili 1,5 Alt",
+   "olasilik": 0.7535,
+   "adil_oran": 1.33,
+   "en_olasi": "Şili 3,5 Alt",
+   "en_olasi_p": 0.9841,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili 0,5 Üst",
+     0.6139
+    ],
+    [
+     "Şili 0,5 Alt",
+     0.3861
+    ],
+    [
+     "Şili 1,5 Üst",
+     0.2465
+    ],
+    [
+     "Şili 1,5 Alt",
+     0.7535
+    ],
+    [
+     "Şili 2,5 Üst",
+     0.0713
+    ],
+    [
+     "Şili 2,5 Alt",
+     0.9287
+    ],
+    [
+     "Şili 3,5 Üst",
+     0.0159
+    ],
+    [
+     "Şili 3,5 Alt",
+     0.9841
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Kolombiya : Toplam Gol",
+   "oneri": "Kolombiya 0,5 Üst",
+   "olasilik": 0.7152,
+   "adil_oran": 1.4,
+   "en_olasi": "Kolombiya 3,5 Alt",
+   "en_olasi_p": 0.961,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kolombiya 0,5 Üst",
+     0.7152
+    ],
+    [
+     "Kolombiya 0,5 Alt",
+     0.2848
+    ],
+    [
+     "Kolombiya 1,5 Üst",
+     0.3557
+    ],
+    [
+     "Kolombiya 1,5 Alt",
+     0.6443
+    ],
+    [
+     "Kolombiya 2,5 Üst",
+     0.1316
+    ],
+    [
+     "Kolombiya 2,5 Alt",
+     0.8684
+    ],
+    [
+     "Kolombiya 3,5 Üst",
+     0.039
+    ],
+    [
+     "Kolombiya 3,5 Alt",
+     0.961
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller Asya",
+   "oneri": "Toplam Asya 3,25 Alt",
+   "olasilik": 0.7996,
+   "adil_oran": 1.25,
+   "en_olasi": "Toplam Asya 3,25 Alt",
+   "en_olasi_p": 0.7996,
+   "guven": "yüksek",
+   "not_": "Asya çizgisi: değer = 1/adil oran",
+   "secimler": [
+    [
+     "Toplam Asya 1,75 Üst",
+     0.5919
+    ],
+    [
+     "Toplam Asya 1,75 Alt",
+     0.4081
+    ],
+    [
+     "Toplam Asya 2 Üst",
+     0.5169
+    ],
+    [
+     "Toplam Asya 2 Alt",
+     0.4831
+    ],
+    [
+     "Toplam Asya 2,25 Üst",
+     0.4367
+    ],
+    [
+     "Toplam Asya 2,25 Alt",
+     0.5633
+    ],
+    [
+     "Toplam Asya 2,5 Üst",
+     0.378
+    ],
+    [
+     "Toplam Asya 2,5 Alt",
+     0.622
+    ],
+    [
+     "Toplam Asya 2,75 Üst",
+     0.3099
+    ],
+    [
+     "Toplam Asya 2,75 Alt",
+     0.6901
+    ],
+    [
+     "Toplam Asya 3 Üst",
+     0.225
+    ],
+    [
+     "Toplam Asya 3 Alt",
+     0.775
+    ],
+    [
+     "Toplam Asya 3,25 Üst",
+     0.2004
+    ],
+    [
+     "Toplam Asya 3,25 Alt",
+     0.7996
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Şili : Toplam Gol Asya",
+   "oneri": "Şili Asya 1,75 Alt",
+   "olasilik": 0.8258,
+   "adil_oran": 1.21,
+   "en_olasi": "Şili Asya 2,25 Alt",
+   "en_olasi_p": 0.9218,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili Asya 0,75 Üst",
+     0.527
+    ],
+    [
+     "Şili Asya 0,75 Alt",
+     0.473
+    ],
+    [
+     "Şili Asya 1 Üst",
+     0.3896
+    ],
+    [
+     "Şili Asya 1 Alt",
+     0.6104
+    ],
+    [
+     "Şili Asya 1,25 Üst",
+     0.302
+    ],
+    [
+     "Şili Asya 1,25 Alt",
+     0.698
+    ],
+    [
+     "Şili Asya 1,5 Üst",
+     0.2465
+    ],
+    [
+     "Şili Asya 1,5 Alt",
+     0.7535
+    ],
+    [
+     "Şili Asya 1,75 Üst",
+     0.1742
+    ],
+    [
+     "Şili Asya 1,75 Alt",
+     0.8258
+    ],
+    [
+     "Şili Asya 2 Üst",
+     0.0865
+    ],
+    [
+     "Şili Asya 2 Alt",
+     0.9135
+    ],
+    [
+     "Şili Asya 2,25 Üst",
+     0.0782
+    ],
+    [
+     "Şili Asya 2,25 Alt",
+     0.9218
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Kolombiya : Toplam Gol Asya",
+   "oneri": "Kolombiya Asya 0,25 Üst",
+   "olasilik": 0.834,
+   "adil_oran": 1.2,
+   "en_olasi": "Kolombiya Asya 0,25 Üst",
+   "en_olasi_p": 0.834,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kolombiya Asya 0,25 Üst",
+     0.834
+    ],
+    [
+     "Kolombiya Asya 0,25 Alt",
+     0.166
+    ],
+    [
+     "Kolombiya Asya 0,5 Üst",
+     0.7152
+    ],
+    [
+     "Kolombiya Asya 0,5 Alt",
+     0.2848
+    ],
+    [
+     "Kolombiya Asya 0,75 Üst",
+     0.6528
+    ],
+    [
+     "Kolombiya Asya 0,75 Alt",
+     0.3472
+    ],
+    [
+     "Kolombiya Asya 1 Üst",
+     0.5553
+    ],
+    [
+     "Kolombiya Asya 1 Alt",
+     0.4447
+    ],
+    [
+     "Kolombiya Asya 1,25 Üst",
+     0.4336
+    ],
+    [
+     "Kolombiya Asya 1,25 Alt",
+     0.5664
+    ],
+    [
+     "Kolombiya Asya 1,5 Üst",
+     0.3557
+    ],
+    [
+     "Kolombiya Asya 1,5 Alt",
+     0.6443
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (3-İhtimalli)",
+   "oneri": "4 Alt",
+   "olasilik": 0.8194,
+   "adil_oran": 1.22,
+   "en_olasi": "4 Alt",
+   "en_olasi_p": 0.8194,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.11
+    ],
+    [
+     "Tam 1",
+     0.2432
+    ],
+    [
+     "1 Üst",
+     0.6468
+    ],
+    [
+     "2 Alt",
+     0.3532
+    ],
+    [
+     "Tam 2",
+     0.2688
+    ],
+    [
+     "2 Üst",
+     0.378
+    ],
+    [
+     "3 Alt",
+     0.622
+    ],
+    [
+     "Tam 3",
+     0.1974
+    ],
+    [
+     "3 Üst",
+     0.1806
+    ],
+    [
+     "4 Alt",
+     0.8194
+    ],
+    [
+     "Tam 4",
+     0.1071
+    ],
+    [
+     "4 Üst",
+     0.0735
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol Tek/Çift",
+   "oneri": "Çift",
+   "olasilik": 0.5051,
+   "adil_oran": 1.98,
+   "en_olasi": "Çift",
+   "en_olasi_p": 0.5051,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.4949
+    ],
+    [
+     "Çift",
+     0.5051
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Kesin)",
+   "oneri": "2 gol",
+   "olasilik": 0.2688,
+   "adil_oran": 3.72,
+   "en_olasi": "2 gol",
+   "en_olasi_p": 0.2688,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.11
+    ],
+    [
+     "1 gol",
+     0.2432
+    ],
+    [
+     "2 gol",
+     0.2688
+    ],
+    [
+     "3 gol",
+     0.1974
+    ],
+    [
+     "4 gol",
+     0.1071
+    ],
+    [
+     "5 gol",
+     0.0483
+    ],
+    [
+     "6+ gol",
+     0.0253
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Şili : Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.3861,
+   "adil_oran": 2.59,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.3861,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3861
+    ],
+    [
+     "1 gol",
+     0.3674
+    ],
+    [
+     "2 gol",
+     0.1752
+    ],
+    [
+     "3 gol",
+     0.0555
+    ],
+    [
+     "4+ gol",
+     0.0159
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Kolombiya : Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3596,
+   "adil_oran": 2.78,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3596,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2848
+    ],
+    [
+     "1 gol",
+     0.3596
+    ],
+    [
+     "2 gol",
+     0.2241
+    ],
+    [
+     "3 gol",
+     0.0926
+    ],
+    [
+     "4+ gol",
+     0.039
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Aralık)",
+   "oneri": "2-3 gol",
+   "olasilik": 0.4662,
+   "adil_oran": 2.15,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.4662,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.3532
+    ],
+    [
+     "2-3 gol",
+     0.4662
+    ],
+    [
+     "4-5 gol",
+     0.1553
+    ],
+    [
+     "6+ gol",
+     0.0253
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Şili : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5426,
+   "adil_oran": 1.84,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5426,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3861
+    ],
+    [
+     "1-2 gol",
+     0.5426
+    ],
+    [
+     "3+ gol",
+     0.0713
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Kolombiya : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5836,
+   "adil_oran": 1.71,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5836,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2848
+    ],
+    [
+     "1-2 gol",
+     0.5836
+    ],
+    [
+     "3+ gol",
+     0.1316
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Genişletilmiş Gol Aralığı)",
+   "oneri": "1-3 gol",
+   "olasilik": 0.7094,
+   "adil_oran": 1.41,
+   "en_olasi": "1-3 gol",
+   "en_olasi_p": 0.7094,
+   "guven": "yüksek",
+   "not_": "Sitedeki aralıklar farklı olabilir",
+   "secimler": [
+    [
+     "0 gol",
+     0.11
+    ],
+    [
+     "1-2 gol",
+     0.512
+    ],
+    [
+     "1-3 gol",
+     0.7094
+    ],
+    [
+     "2-3 gol",
+     0.4662
+    ],
+    [
+     "2-4 gol",
+     0.5733
+    ],
+    [
+     "3-4 gol",
+     0.3045
+    ],
+    [
+     "3-5 gol",
+     0.3527
+    ],
+    [
+     "4-6 gol",
+     0.1732
+    ],
+    [
+     "5+ gol",
+     0.0735
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Şili : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7535,
+   "adil_oran": 1.33,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7535,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.7535
+    ],
+    [
+     "1-2 gol",
+     0.5426
+    ],
+    [
+     "2-3 gol",
+     0.2306
+    ],
+    [
+     "3+ gol",
+     0.0713
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Kolombiya : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.6443,
+   "adil_oran": 1.55,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.6443,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.6443
+    ],
+    [
+     "1-2 gol",
+     0.5836
+    ],
+    [
+     "2-3 gol",
+     0.3167
+    ],
+    [
+     "3+ gol",
+     0.1316
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Kesin Gol Sayısı",
+   "oneri": "2 gol",
+   "olasilik": 0.2688,
+   "adil_oran": 3.72,
+   "en_olasi": "2 gol",
+   "en_olasi_p": 0.2688,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.11
+    ],
+    [
+     "1 gol",
+     0.2432
+    ],
+    [
+     "2 gol",
+     0.2688
+    ],
+    [
+     "3 gol",
+     0.1974
+    ],
+    [
+     "4 gol",
+     0.1071
+    ],
+    [
+     "5 gol",
+     0.0483
+    ],
+    [
+     "6 gol",
+     0.0178
+    ],
+    [
+     "7+ gol",
+     0.0074
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 1 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7568,
+   "adil_oran": 1.32,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7568,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2432
+    ],
+    [
+     "Hayır",
+     0.7568
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 2 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7312,
+   "adil_oran": 1.37,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7312,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2688
+    ],
+    [
+     "Hayır",
+     0.7312
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 3 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8026,
+   "adil_oran": 1.25,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8026,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1974
+    ],
+    [
+     "Hayır",
+     0.8026
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 4 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8929,
+   "adil_oran": 1.12,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8929,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1071
+    ],
+    [
+     "Hayır",
+     0.8929
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "En Az Bir Takım Üst Gol Atar",
+   "oneri": "En az bir takım 1,5 Üst",
+   "olasilik": 0.5146,
+   "adil_oran": 1.94,
+   "en_olasi": "En az bir takım 0,5 Üst",
+   "en_olasi_p": 0.89,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "En az bir takım 0,5 Üst",
+     0.89
+    ],
+    [
+     "En az bir takım 1,5 Üst",
+     0.5146
+    ],
+    [
+     "En az bir takım 2,5 Üst",
+     0.1935
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Şili : Asist Yapar. Toplam",
+   "oneri": "Şili asist 0,5 Alt",
+   "olasilik": 0.5482,
+   "adil_oran": 1.82,
+   "en_olasi": "Şili asist 2,5 Alt",
+   "en_olasi_p": 0.9766,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili asist 0,5 Üst",
+     0.4518
+    ],
+    [
+     "Şili asist 0,5 Alt",
+     0.5482
+    ],
+    [
+     "Şili asist 1,5 Üst",
+     0.1234
+    ],
+    [
+     "Şili asist 1,5 Alt",
+     0.8766
+    ],
+    [
+     "Şili asist 2,5 Üst",
+     0.0234
+    ],
+    [
+     "Şili asist 2,5 Alt",
+     0.9766
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Kolombiya : Asist Yapar. Toplam",
+   "oneri": "Kolombiya asist 1,5 Alt",
+   "olasilik": 0.8065,
+   "adil_oran": 1.24,
+   "en_olasi": "Kolombiya asist 1,5 Alt",
+   "en_olasi_p": 0.8065,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kolombiya asist 0,5 Üst",
+     0.5521
+    ],
+    [
+     "Kolombiya asist 0,5 Alt",
+     0.4479
+    ],
+    [
+     "Kolombiya asist 1,5 Üst",
+     0.1935
+    ],
+    [
+     "Kolombiya asist 1,5 Alt",
+     0.8065
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takımda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.5609,
+   "adil_oran": 1.78,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5609,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4391
+    ],
+    [
+     "Hayır",
+     0.5609
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.9124,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9124,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0876
+    ],
+    [
+     "Hayır",
+     0.9124
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Şili : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.6139,
+   "adil_oran": 1.63,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6139,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6139
+    ],
+    [
+     "Hayır",
+     0.3861
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Kolombiya : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.7152,
+   "adil_oran": 1.4,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7152,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7152
+    ],
+    [
+     "Hayır",
+     0.2848
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Karşılıklı Gol ve Toplam Goller 2.5",
+   "oneri": "KG Yok & Alt",
+   "olasilik": 0.4898,
+   "adil_oran": 2.04,
+   "en_olasi": "KG Yok & Alt",
+   "en_olasi_p": 0.4898,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "KG Var & Üst",
+     0.3069
+    ],
+    [
+     "KG Var & Alt",
+     0.1322
+    ],
+    [
+     "KG Yok & Üst",
+     0.0711
+    ],
+    [
+     "KG Yok & Alt",
+     0.4898
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Yarıda da Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.9699,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9699,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0301
+    ],
+    [
+     "Hayır",
+     0.9699
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı",
+   "oneri": "Şili +1,5",
+   "olasilik": 0.8072,
+   "adil_oran": 1.24,
+   "en_olasi": "Kolombiya +2,5",
+   "en_olasi_p": 0.9733,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili -2,5",
+     0.0267
+    ],
+    [
+     "Kolombiya +2,5",
+     0.9733
+    ],
+    [
+     "Şili -1,5",
+     0.0996
+    ],
+    [
+     "Kolombiya +1,5",
+     0.9004
+    ],
+    [
+     "Şili -0,5",
+     0.2813
+    ],
+    [
+     "Kolombiya +0,5",
+     0.7187
+    ],
+    [
+     "Şili +0,5",
+     0.5677
+    ],
+    [
+     "Kolombiya -0,5",
+     0.4323
+    ],
+    [
+     "Şili +1,5",
+     0.8072
+    ],
+    [
+     "Kolombiya -1,5",
+     0.1928
+    ],
+    [
+     "Şili +2,5",
+     0.933
+    ],
+    [
+     "Kolombiya -2,5",
+     0.067
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Goller Asya Handikapı",
+   "oneri": "Şili Asya +1,5",
+   "olasilik": 0.8072,
+   "adil_oran": 1.24,
+   "en_olasi": "Kolombiya Asya +1,5",
+   "en_olasi_p": 0.9004,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili Asya -2",
+     0.0288
+    ],
+    [
+     "Kolombiya Asya -2",
+     0.0766
+    ],
+    [
+     "Şili Asya -1,75",
+     0.0655
+    ],
+    [
+     "Kolombiya Asya -1,75",
+     0.1386
+    ],
+    [
+     "Şili Asya -1,5",
+     0.0996
+    ],
+    [
+     "Kolombiya Asya -1,5",
+     0.1928
+    ],
+    [
+     "Şili Asya -1,25",
+     0.1096
+    ],
+    [
+     "Kolombiya Asya -1,25",
+     0.2191
+    ],
+    [
+     "Şili Asya -1",
+     0.1217
+    ],
+    [
+     "Kolombiya Asya -1",
+     0.2535
+    ],
+    [
+     "Şili Asya -0,75",
+     0.2095
+    ],
+    [
+     "Kolombiya Asya -0,75",
+     0.355
+    ],
+    [
+     "Şili Asya -0,5",
+     0.2814
+    ],
+    [
+     "Kolombiya Asya -0,5",
+     0.4322
+    ],
+    [
+     "Şili Asya -0,25",
+     0.3284
+    ],
+    [
+     "Kolombiya Asya -0,25",
+     0.5045
+    ],
+    [
+     "Şili Asya 0",
+     0.3943
+    ],
+    [
+     "Kolombiya Asya 0",
+     0.6057
+    ],
+    [
+     "Şili Asya +0,25",
+     0.4955
+    ],
+    [
+     "Kolombiya Asya +0,25",
+     0.6716
+    ],
+    [
+     "Şili Asya +0,5",
+     0.5678
+    ],
+    [
+     "Kolombiya Asya +0,5",
+     0.7186
+    ],
+    [
+     "Şili Asya +0,75",
+     0.645
+    ],
+    [
+     "Kolombiya Asya +0,75",
+     0.7905
+    ],
+    [
+     "Şili Asya +1",
+     0.7465
+    ],
+    [
+     "Kolombiya Asya +1",
+     0.8783
+    ],
+    [
+     "Şili Asya +1,25",
+     0.7809
+    ],
+    [
+     "Kolombiya Asya +1,25",
+     0.8904
+    ],
+    [
+     "Şili Asya +1,5",
+     0.8072
+    ],
+    [
+     "Kolombiya Asya +1,5",
+     0.9004
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı (3-İhtimalli)",
+   "oneri": "Şili (+2)",
+   "olasilik": 0.8072,
+   "adil_oran": 1.24,
+   "en_olasi": "Kolombiya (-3)",
+   "en_olasi_p": 0.9733,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili (-3)",
+     0.0054
+    ],
+    [
+     "X (-3)",
+     0.0212
+    ],
+    [
+     "Kolombiya (-3)",
+     0.9733
+    ],
+    [
+     "Şili (-2)",
+     0.0267
+    ],
+    [
+     "X (-2)",
+     0.0729
+    ],
+    [
+     "Kolombiya (-2)",
+     0.9004
+    ],
+    [
+     "Şili (-1)",
+     0.0996
+    ],
+    [
+     "X (-1)",
+     0.1817
+    ],
+    [
+     "Kolombiya (-1)",
+     0.7187
+    ],
+    [
+     "Şili (+1)",
+     0.5677
+    ],
+    [
+     "X (+1)",
+     0.2394
+    ],
+    [
+     "Kolombiya (+1)",
+     0.1928
+    ],
+    [
+     "Şili (+2)",
+     0.8072
+    ],
+    [
+     "X (+2)",
+     0.1258
+    ],
+    [
+     "Kolombiya (+2)",
+     0.067
+    ],
+    [
+     "Şili (+3)",
+     0.933
+    ],
+    [
+     "X (+3)",
+     0.0482
+    ],
+    [
+     "Kolombiya (+3)",
+     0.0188
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Şili Gol Atar ve Maç Sonucu",
+   "oneri": "1 & Şili gol atar",
+   "olasilik": 0.2813,
+   "adil_oran": 3.55,
+   "en_olasi": "1 & Şili gol atar",
+   "en_olasi_p": 0.2813,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Şili gol atar",
+     0.2813
+    ],
+    [
+     "1 & Şili gol atamaz",
+     0.0
+    ],
+    [
+     "X & Şili gol atar",
+     0.1764
+    ],
+    [
+     "X & Şili gol atamaz",
+     0.11
+    ],
+    [
+     "2 & Şili gol atar",
+     0.1561
+    ],
+    [
+     "2 & Şili gol atamaz",
+     0.2761
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Kolombiya Gol Atar ve Maç Sonucu",
+   "oneri": "2 & Kolombiya gol atar",
+   "olasilik": 0.4323,
+   "adil_oran": 2.31,
+   "en_olasi": "2 & Kolombiya gol atar",
+   "en_olasi_p": 0.4323,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Kolombiya gol atar",
+     0.1066
+    ],
+    [
+     "1 & Kolombiya gol atamaz",
+     0.1748
+    ],
+    [
+     "X & Kolombiya gol atar",
+     0.1764
+    ],
+    [
+     "X & Kolombiya gol atamaz",
+     0.11
+    ],
+    [
+     "2 & Kolombiya gol atar",
+     0.4323
+    ],
+    [
+     "2 & Kolombiya gol atamaz",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Karşılıklı Gol",
+   "oneri": "2 & KG Yok",
+   "olasilik": 0.2761,
+   "adil_oran": 3.62,
+   "en_olasi": "2 & KG Yok",
+   "en_olasi_p": 0.2761,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.1066
+    ],
+    [
+     "1 & KG Yok",
+     0.1748
+    ],
+    [
+     "X & KG Var",
+     0.1764
+    ],
+    [
+     "X & KG Yok",
+     0.11
+    ],
+    [
+     "2 & KG Var",
+     0.1561
+    ],
+    [
+     "2 & KG Yok",
+     0.2761
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Karşılıklı Gol",
+   "oneri": "12 & KG Yok",
+   "olasilik": 0.4509,
+   "adil_oran": 2.22,
+   "en_olasi": "12 & KG Yok",
+   "en_olasi_p": 0.4509,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & KG Var",
+     0.283
+    ],
+    [
+     "1X & KG Yok",
+     0.2848
+    ],
+    [
+     "12 & KG Var",
+     0.2627
+    ],
+    [
+     "12 & KG Yok",
+     0.4509
+    ],
+    [
+     "X2 & KG Var",
+     0.3325
+    ],
+    [
+     "X2 & KG Yok",
+     0.3861
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 1.5",
+   "oneri": "2 & 1,5 Üst",
+   "olasilik": 0.2938,
+   "adil_oran": 3.4,
+   "en_olasi": "2 & 1,5 Üst",
+   "en_olasi_p": 0.2938,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1,5 Üst",
+     0.1766
+    ],
+    [
+     "1 & 1,5 Alt",
+     0.1047
+    ],
+    [
+     "X & 1,5 Üst",
+     0.1764
+    ],
+    [
+     "X & 1,5 Alt",
+     0.11
+    ],
+    [
+     "2 & 1,5 Üst",
+     0.2938
+    ],
+    [
+     "2 & 1,5 Alt",
+     0.1385
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 2.5",
+   "oneri": "X & 2,5 Alt",
+   "olasilik": 0.2422,
+   "adil_oran": 4.13,
+   "en_olasi": "X & 2,5 Alt",
+   "en_olasi_p": 0.2422,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 2,5 Üst",
+     0.1267
+    ],
+    [
+     "1 & 2,5 Alt",
+     0.1547
+    ],
+    [
+     "X & 2,5 Üst",
+     0.0442
+    ],
+    [
+     "X & 2,5 Alt",
+     0.2422
+    ],
+    [
+     "2 & 2,5 Üst",
+     0.2071
+    ],
+    [
+     "2 & 2,5 Alt",
+     0.2252
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 3.5",
+   "oneri": "2 & 3,5 Alt",
+   "olasilik": 0.3436,
+   "adil_oran": 2.91,
+   "en_olasi": "2 & 3,5 Alt",
+   "en_olasi_p": 0.3436,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 3,5 Üst",
+     0.0477
+    ],
+    [
+     "1 & 3,5 Alt",
+     0.2337
+    ],
+    [
+     "X & 3,5 Üst",
+     0.0442
+    ],
+    [
+     "X & 3,5 Alt",
+     0.2422
+    ],
+    [
+     "2 & 3,5 Üst",
+     0.0887
+    ],
+    [
+     "2 & 3,5 Alt",
+     0.3436
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 4.5",
+   "oneri": "2 & 4,5 Alt",
+   "olasilik": 0.3886,
+   "adil_oran": 2.57,
+   "en_olasi": "2 & 4,5 Alt",
+   "en_olasi_p": 0.3886,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 4,5 Üst",
+     0.0243
+    ],
+    [
+     "1 & 4,5 Alt",
+     0.257
+    ],
+    [
+     "X & 4,5 Üst",
+     0.0056
+    ],
+    [
+     "X & 4,5 Alt",
+     0.2808
+    ],
+    [
+     "2 & 4,5 Üst",
+     0.0436
+    ],
+    [
+     "2 & 4,5 Alt",
+     0.3886
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Şili : Toplam Gol",
+   "oneri": "2 & Şili 1,5 Alt",
+   "olasilik": 0.4066,
+   "adil_oran": 2.46,
+   "en_olasi": "2 & Şili 1,5 Alt",
+   "en_olasi_p": 0.4066,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Şili 1,5 Üst",
+     0.1766
+    ],
+    [
+     "1 & Şili 1,5 Alt",
+     0.1047
+    ],
+    [
+     "X & Şili 1,5 Üst",
+     0.0442
+    ],
+    [
+     "X & Şili 1,5 Alt",
+     0.2422
+    ],
+    [
+     "2 & Şili 1,5 Üst",
+     0.0256
+    ],
+    [
+     "2 & Şili 1,5 Alt",
+     0.4066
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Kolombiya : Toplam Gol",
+   "oneri": "2 & Kolombiya 0,5 Üst",
+   "olasilik": 0.4323,
+   "adil_oran": 2.31,
+   "en_olasi": "2 & Kolombiya 0,5 Üst",
+   "en_olasi_p": 0.4323,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Kolombiya 0,5 Üst",
+     0.1066
+    ],
+    [
+     "1 & Kolombiya 0,5 Alt",
+     0.1748
+    ],
+    [
+     "X & Kolombiya 0,5 Üst",
+     0.1764
+    ],
+    [
+     "X & Kolombiya 0,5 Alt",
+     0.11
+    ],
+    [
+     "2 & Kolombiya 0,5 Üst",
+     0.4323
+    ],
+    [
+     "2 & Kolombiya 0,5 Alt",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Toplam Gol",
+   "oneri": "2 veya 2,5 Alt",
+   "olasilik": 0.8291,
+   "adil_oran": 1.21,
+   "en_olasi": "2 veya 2,5 Alt",
+   "en_olasi_p": 0.8291,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 2,5 Üst",
+     0.5327
+    ],
+    [
+     "1 veya 2,5 Alt",
+     0.7487
+    ],
+    [
+     "X veya 2,5 Üst",
+     0.6201
+    ],
+    [
+     "X veya 2,5 Alt",
+     0.6663
+    ],
+    [
+     "2 veya 2,5 Üst",
+     0.6032
+    ],
+    [
+     "2 veya 2,5 Alt",
+     0.8291
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol (Kesin)",
+   "oneri": "2 & 1 gol",
+   "olasilik": 0.1385,
+   "adil_oran": 7.22,
+   "en_olasi": "2 & 1 gol",
+   "en_olasi_p": 0.1385,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 0 gol",
+     0.0
+    ],
+    [
+     "1 & 1 gol",
+     0.1047
+    ],
+    [
+     "1 & 2 gol",
+     0.0499
+    ],
+    [
+     "1 & 3 gol",
+     0.079
+    ],
+    [
+     "1 & 4 gol",
+     0.0234
+    ],
+    [
+     "1 & 5 gol",
+     0.0179
+    ],
+    [
+     "X & 0 gol",
+     0.11
+    ],
+    [
+     "X & 1 gol",
+     0.0
+    ],
+    [
+     "X & 2 gol",
+     0.1322
+    ],
+    [
+     "X & 3 gol",
+     0.0
+    ],
+    [
+     "X & 4 gol",
+     0.0386
+    ],
+    [
+     "X & 5 gol",
+     0.0
+    ],
+    [
+     "2 & 0 gol",
+     0.0
+    ],
+    [
+     "2 & 1 gol",
+     0.1385
+    ],
+    [
+     "2 & 2 gol",
+     0.0867
+    ],
+    [
+     "2 & 3 gol",
+     0.1184
+    ],
+    [
+     "2 & 4 gol",
+     0.0451
+    ],
+    [
+     "2 & 5 gol",
+     0.0303
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "2 & 1-3 gol",
+   "olasilik": 0.3436,
+   "adil_oran": 2.91,
+   "en_olasi": "2 & 1-3 gol",
+   "en_olasi_p": 0.3436,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1-2 gol",
+     0.1547
+    ],
+    [
+     "1 & 1-3 gol",
+     0.2337
+    ],
+    [
+     "1 & 2-3 gol",
+     0.1289
+    ],
+    [
+     "1 & 2-4 gol",
+     0.1523
+    ],
+    [
+     "1 & 3-4 gol",
+     0.1024
+    ],
+    [
+     "1 & 3-5 gol",
+     0.1203
+    ],
+    [
+     "X & 1-2 gol",
+     0.1322
+    ],
+    [
+     "X & 1-3 gol",
+     0.1322
+    ],
+    [
+     "X & 2-3 gol",
+     0.1322
+    ],
+    [
+     "X & 2-4 gol",
+     0.1708
+    ],
+    [
+     "X & 3-4 gol",
+     0.0386
+    ],
+    [
+     "X & 3-5 gol",
+     0.0386
+    ],
+    [
+     "2 & 1-2 gol",
+     0.2252
+    ],
+    [
+     "2 & 1-3 gol",
+     0.3436
+    ],
+    [
+     "2 & 2-3 gol",
+     0.2051
+    ],
+    [
+     "2 & 2-4 gol",
+     0.2501
+    ],
+    [
+     "2 & 3-4 gol",
+     0.1635
+    ],
+    [
+     "2 & 3-5 gol",
+     0.1938
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "12 & 1-3 gol",
+   "olasilik": 0.5772,
+   "adil_oran": 1.73,
+   "en_olasi": "12 & 1-3 gol",
+   "en_olasi_p": 0.5772,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1-2 gol",
+     0.2869
+    ],
+    [
+     "1X & 1-3 gol",
+     0.3659
+    ],
+    [
+     "1X & 2-3 gol",
+     0.2611
+    ],
+    [
+     "1X & 2-4 gol",
+     0.3231
+    ],
+    [
+     "12 & 1-2 gol",
+     0.3799
+    ],
+    [
+     "12 & 1-3 gol",
+     0.5772
+    ],
+    [
+     "12 & 2-3 gol",
+     0.334
+    ],
+    [
+     "12 & 2-4 gol",
+     0.4024
+    ],
+    [
+     "X2 & 1-2 gol",
+     0.3573
+    ],
+    [
+     "X2 & 1-3 gol",
+     0.4757
+    ],
+    [
+     "X2 & 2-3 gol",
+     0.3372
+    ],
+    [
+     "X2 & 2-4 gol",
+     0.4209
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Doğru Skor",
+   "oneri": "2 veya 1-1",
+   "olasilik": 0.5644,
+   "adil_oran": 1.77,
+   "en_olasi": "2 veya 1-1",
+   "en_olasi_p": 0.5644,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 0-1",
+     0.4199
+    ],
+    [
+     "1 veya 1-1",
+     0.4135
+    ],
+    [
+     "1 veya 0-0",
+     0.3913
+    ],
+    [
+     "1 veya 0-2",
+     0.368
+    ],
+    [
+     "1 veya 1-2",
+     0.3639
+    ],
+    [
+     "X veya 0-1",
+     0.4249
+    ],
+    [
+     "X veya 1-0",
+     0.3911
+    ],
+    [
+     "X veya 0-2",
+     0.3731
+    ],
+    [
+     "X veya 1-2",
+     0.369
+    ],
+    [
+     "2 veya 1-1",
+     0.5644
+    ],
+    [
+     "2 veya 0-0",
+     0.5422
+    ],
+    [
+     "2 veya 1-0",
+     0.537
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Her İki Yarı Toplam Gol Kombinasyonu",
+   "oneri": "İY Alt 1,5 & 2Y Alt 1,5",
+   "olasilik": 0.4852,
+   "adil_oran": 2.06,
+   "en_olasi": "İY Alt 1,5 & 2Y Alt 1,5",
+   "en_olasi_p": 0.4852,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Alt 1,5 & 2Y Alt 1,5",
+     0.4852
+    ],
+    [
+     "İY Alt 1,5 & 2Y Üst 1,5",
+     0.2699
+    ],
+    [
+     "İY Üst 1,5 & 2Y Alt 1,5",
+     0.1577
+    ],
+    [
+     "İY Üst 1,5 & 2Y Üst 1,5",
+     0.0872
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Farklı Kombineler",
+   "oneri": "2 & 2Y gol olur",
+   "olasilik": 0.3454,
+   "adil_oran": 2.9,
+   "en_olasi": "2 & 2Y gol olur",
+   "en_olasi_p": 0.3454,
+   "guven": "yüksek",
+   "not_": "Sitedeki kombinasyon içerikleri farklı olabilir",
+   "secimler": [
+    [
+     "1 & 2Y gol olur",
+     0.2195
+    ],
+    [
+     "2 & 2Y gol olur",
+     0.3454
+    ],
+    [
+     "Şili her iki yarıda gol & 1",
+     0.1045
+    ],
+    [
+     "Kolombiya her iki yarıda gol & 2",
+     0.1792
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans Kombo",
+   "oneri": "X2 & 3,5 Alt",
+   "olasilik": 0.5857,
+   "adil_oran": 1.71,
+   "en_olasi": "X2 & 3,5 Alt",
+   "en_olasi_p": 0.5857,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1,5 Üst",
+     0.353
+    ],
+    [
+     "1X & 1,5 Alt",
+     0.2147
+    ],
+    [
+     "1X & 2,5 Üst",
+     0.1709
+    ],
+    [
+     "1X & 2,5 Alt",
+     0.3968
+    ],
+    [
+     "1X & 3,5 Üst",
+     0.0919
+    ],
+    [
+     "1X & 3,5 Alt",
+     0.4758
+    ],
+    [
+     "12 & 1,5 Üst",
+     0.4704
+    ],
+    [
+     "12 & 1,5 Alt",
+     0.2432
+    ],
+    [
+     "12 & 2,5 Üst",
+     0.3337
+    ],
+    [
+     "12 & 2,5 Alt",
+     0.3799
+    ],
+    [
+     "12 & 3,5 Üst",
+     0.1364
+    ],
+    [
+     "12 & 3,5 Alt",
+     0.5772
+    ],
+    [
+     "X2 & 1,5 Üst",
+     0.4702
+    ],
+    [
+     "X2 & 1,5 Alt",
+     0.2485
+    ],
+    [
+     "X2 & 2,5 Üst",
+     0.2513
+    ],
+    [
+     "X2 & 2,5 Alt",
+     0.4673
+    ],
+    [
+     "X2 & 3,5 Üst",
+     0.1329
+    ],
+    [
+     "X2 & 3,5 Alt",
+     0.5857
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "İlk Yarı/Maç Sonucu ve Toplam Gol",
+   "oneri": "X/X & 2,5 Alt",
+   "olasilik": 0.1772,
+   "adil_oran": 5.64,
+   "en_olasi": "X/X & 2,5 Alt",
+   "en_olasi_p": 0.1772,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1 & 2,5 Üst",
+     0.0725
+    ],
+    [
+     "1/1 & 2,5 Alt",
+     0.0789
+    ],
+    [
+     "1/X & 2,5 Üst",
+     0.0143
+    ],
+    [
+     "1/X & 2,5 Alt",
+     0.0332
+    ],
+    [
+     "1/2 & 2,5 Üst",
+     0.0203
+    ],
+    [
+     "1/2 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "X/1 & 2,5 Üst",
+     0.0406
+    ],
+    [
+     "X/1 & 2,5 Alt",
+     0.0758
+    ],
+    [
+     "X/X & 2,5 Üst",
+     0.0168
+    ],
+    [
+     "X/X & 2,5 Alt",
+     0.1772
+    ],
+    [
+     "X/2 & 2,5 Üst",
+     0.0602
+    ],
+    [
+     "X/2 & 2,5 Alt",
+     0.1072
+    ],
+    [
+     "2/1 & 2,5 Üst",
+     0.0135
+    ],
+    [
+     "2/1 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "2/X & 2,5 Üst",
+     0.0132
+    ],
+    [
+     "2/X & 2,5 Alt",
+     0.0318
+    ],
+    [
+     "2/2 & 2,5 Üst",
+     0.1265
+    ],
+    [
+     "2/2 & 2,5 Alt",
+     0.1179
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Her İki Yarıda Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.5613,
+   "adil_oran": 1.78,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5613,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4387
+    ],
+    [
+     "Hayır",
+     0.5613
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım",
+   "oneri": "Kolombiya",
+   "olasilik": 0.503,
+   "adil_oran": 1.99,
+   "en_olasi": "Kolombiya",
+   "en_olasi_p": 0.503,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili",
+     0.3871
+    ],
+    [
+     "Gol yok",
+     0.11
+    ],
+    [
+     "Kolombiya",
+     0.503
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Son Golü Atacak Takım",
+   "oneri": "Kolombiya",
+   "olasilik": 0.5068,
+   "adil_oran": 1.97,
+   "en_olasi": "Kolombiya",
+   "en_olasi_p": 0.5068,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili",
+     0.3833
+    ],
+    [
+     "Gol yok",
+     0.11
+    ],
+    [
+     "Kolombiya",
+     0.5068
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golün Atılma Şekli",
+   "oneri": "Şut",
+   "olasilik": 0.6263,
+   "adil_oran": 1.6,
+   "en_olasi": "Şut",
+   "en_olasi_p": 0.6263,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şut",
+     0.6263
+    ],
+    [
+     "Kafa",
+     0.1348
+    ],
+    [
+     "Penaltı",
+     0.0719
+    ],
+    [
+     "Serbest vuruş",
+     0.0257
+    ],
+    [
+     "Kendi kalesine",
+     0.0314
+    ],
+    [
+     "Gol yok",
+     0.11
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı",
+   "oneri": "28-90 dk",
+   "olasilik": 0.4873,
+   "adil_oran": 2.05,
+   "en_olasi": "28-90 dk",
+   "en_olasi_p": 0.4873,
+   "guven": "orta",
+   "not_": "Sınır 27. dk varsayıldı",
+   "secimler": [
+    [
+     "1-27 dk",
+     0.4027
+    ],
+    [
+     "28-90 dk",
+     0.4873
+    ],
+    [
+     "Gol yok",
+     0.11
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Şili : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.3861,
+   "adil_oran": 2.59,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.3861,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.0771
+    ],
+    [
+     "11-20 dk",
+     0.0735
+    ],
+    [
+     "21-30 dk",
+     0.072
+    ],
+    [
+     "31-40 dk",
+     0.0685
+    ],
+    [
+     "41-50 dk",
+     0.0773
+    ],
+    [
+     "51-60 dk",
+     0.0602
+    ],
+    [
+     "61-70 dk",
+     0.0577
+    ],
+    [
+     "71-80 dk",
+     0.0542
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0736
+    ],
+    [
+     "Gol yok",
+     0.3861
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Kolombiya : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.2848,
+   "adil_oran": 3.51,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.2848,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.0972
+    ],
+    [
+     "11-20 dk",
+     0.0925
+    ],
+    [
+     "21-30 dk",
+     0.0881
+    ],
+    [
+     "31-40 dk",
+     0.0802
+    ],
+    [
+     "41-50 dk",
+     0.0911
+    ],
+    [
+     "51-60 dk",
+     0.069
+    ],
+    [
+     "61-70 dk",
+     0.0633
+    ],
+    [
+     "71-80 dk",
+     0.0573
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0764
+    ],
+    [
+     "Gol yok",
+     0.2848
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı (15 dk.)",
+   "oneri": "1-15 dk",
+   "olasilik": 0.2411,
+   "adil_oran": 4.15,
+   "en_olasi": "1-15 dk",
+   "en_olasi_p": 0.2411,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-15 dk",
+     0.2411
+    ],
+    [
+     "16-30 dk",
+     0.1973
+    ],
+    [
+     "31-45 (+uz.) dk",
+     0.1723
+    ],
+    [
+     "46-60 dk",
+     0.1142
+    ],
+    [
+     "61-75 dk",
+     0.0871
+    ],
+    [
+     "76-90 (+uz.) dk",
+     0.078
+    ],
+    [
+     "Gol yok",
+     0.11
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve Maç Sonucu",
+   "oneri": "İlk gol Kolombiya & 2",
+   "olasilik": 0.382,
+   "adil_oran": 2.62,
+   "en_olasi": "İlk gol Kolombiya & 2",
+   "en_olasi_p": 0.382,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Şili & 1",
+     0.2476
+    ],
+    [
+     "İlk gol Şili & X",
+     0.0892
+    ],
+    [
+     "İlk gol Şili & 2",
+     0.0502
+    ],
+    [
+     "İlk gol Kolombiya & 1",
+     0.0338
+    ],
+    [
+     "İlk gol Kolombiya & X",
+     0.0872
+    ],
+    [
+     "İlk gol Kolombiya & 2",
+     0.382
+    ],
+    [
+     "Gol yok",
+     0.11
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 1. Yarı Sonucu",
+   "oneri": "İlk gol Kolombiya & İY 2",
+   "olasilik": 0.2931,
+   "adil_oran": 3.41,
+   "en_olasi": "İlk gol Kolombiya & İY 2",
+   "en_olasi_p": 0.2931,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Şili & İY 1",
+     0.212
+    ],
+    [
+     "İlk gol Şili & İY X",
+     0.1653
+    ],
+    [
+     "İlk gol Şili & İY 2",
+     0.0098
+    ],
+    [
+     "İlk gol Kolombiya & İY 1",
+     0.0072
+    ],
+    [
+     "İlk gol Kolombiya & İY X",
+     0.2026
+    ],
+    [
+     "İlk gol Kolombiya & İY 2",
+     0.2931
+    ],
+    [
+     "Gol yok",
+     0.11
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 2. Yarı Sonucu",
+   "oneri": "İlk gol Kolombiya & 2Y 2",
+   "olasilik": 0.2507,
+   "adil_oran": 3.99,
+   "en_olasi": "İlk gol Kolombiya & 2Y 2",
+   "en_olasi_p": 0.2507,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Şili & 2Y 1",
+     0.1533
+    ],
+    [
+     "İlk gol Şili & 2Y X",
+     0.1316
+    ],
+    [
+     "İlk gol Şili & 2Y 2",
+     0.1022
+    ],
+    [
+     "İlk gol Kolombiya & 2Y 1",
+     0.0883
+    ],
+    [
+     "İlk gol Kolombiya & 2Y X",
+     0.164
+    ],
+    [
+     "İlk gol Kolombiya & 2Y 2",
+     0.2507
+    ],
+    [
+     "Gol yok",
+     0.11
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Doğru Skor",
+   "oneri": "0-1",
+   "olasilik": 0.1385,
+   "adil_oran": 7.22,
+   "en_olasi": "0-1",
+   "en_olasi_p": 0.1385,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1",
+     0.1385
+    ],
+    [
+     "1-1",
+     0.1322
+    ],
+    [
+     "0-0",
+     0.11
+    ],
+    [
+     "1-0",
+     0.1047
+    ],
+    [
+     "0-2",
+     0.0867
+    ],
+    [
+     "1-2",
+     0.0826
+    ],
+    [
+     "2-1",
+     0.0633
+    ],
+    [
+     "2-0",
+     0.0499
+    ],
+    [
+     "2-2",
+     0.0386
+    ],
+    [
+     "0-3",
+     0.0358
+    ],
+    [
+     "1-3",
+     0.0336
+    ],
+    [
+     "3-1",
+     0.0198
+    ],
+    [
+     "2-3",
+     0.0165
+    ],
+    [
+     "3-0",
+     0.0157
+    ],
+    [
+     "3-2",
+     0.0124
+    ],
+    [
+     "Diğer",
+     0.012
+    ],
+    [
+     "0-4",
+     0.0115
+    ],
+    [
+     "1-4",
+     0.011
+    ],
+    [
+     "3-3",
+     0.0053
+    ],
+    [
+     "2-4",
+     0.0052
+    ],
+    [
+     "4-1",
+     0.0049
+    ],
+    [
+     "4-0",
+     0.0036
+    ],
+    [
+     "4-2",
+     0.003
+    ],
+    [
+     "3-4",
+     0.0017
+    ],
+    [
+     "4-3",
+     0.0012
+    ],
+    [
+     "4-4",
+     0.0003
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Herhangi Bir Zamanda Doğru Skor",
+   "oneri": "0-1 herhangi bir anda",
+   "olasilik": 0.4979,
+   "adil_oran": 2.01,
+   "en_olasi": "0-1 herhangi bir anda",
+   "en_olasi_p": 0.4979,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 herhangi bir anda",
+     0.4979
+    ],
+    [
+     "1-0 herhangi bir anda",
+     0.3826
+    ],
+    [
+     "1-1 herhangi bir anda",
+     0.3147
+    ],
+    [
+     "0-2 herhangi bir anda",
+     0.2053
+    ],
+    [
+     "1-2 herhangi bir anda",
+     0.1553
+    ],
+    [
+     "2-1 herhangi bir anda",
+     0.1202
+    ],
+    [
+     "2-0 herhangi bir anda",
+     0.1189
+    ],
+    [
+     "0-3 herhangi bir anda",
+     0.068
+    ],
+    [
+     "2-2 herhangi bir anda",
+     0.0644
+    ],
+    [
+     "1-3 herhangi bir anda",
+     0.0558
+    ],
+    [
+     "3-1 herhangi bir anda",
+     0.033
+    ],
+    [
+     "3-0 herhangi bir anda",
+     0.0296
+    ],
+    [
+     "2-3 herhangi bir anda",
+     0.0248
+    ],
+    [
+     "3-2 herhangi bir anda",
+     0.0188
+    ],
+    [
+     "3-3 herhangi bir anda",
+     0.0074
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Skor Kombinasyonları",
+   "oneri": "Kolombiya 0-1/0-2/1-2",
+   "olasilik": 0.3078,
+   "adil_oran": 3.25,
+   "en_olasi": "Kolombiya 0-1/0-2/1-2",
+   "en_olasi_p": 0.3078,
+   "guven": "yüksek",
+   "not_": "Sitedeki gruplar farklı olabilir",
+   "secimler": [
+    [
+     "Şili 1-0/2-0/2-1",
+     0.218
+    ],
+    [
+     "Şili 3-0/3-1/4-0",
+     0.0391
+    ],
+    [
+     "0-0/1-1",
+     0.2422
+    ],
+    [
+     "Kolombiya 0-1/0-2/1-2",
+     0.3078
+    ],
+    [
+     "Kolombiya 0-3/1-3/0-4",
+     0.0809
+    ],
+    [
+     "2-2/3-3",
+     0.0439
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "1.Yarı/Maç Skoru",
+   "oneri": "İY 0-0 / MS 0-0",
+   "olasilik": 0.11,
+   "adil_oran": 9.09,
+   "en_olasi": "İY 0-0 / MS 0-0",
+   "en_olasi_p": 0.11,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 0-0 / MS 0-0",
+     0.11
+    ],
+    [
+     "İY 0-0 / MS 0-1",
+     0.0795
+    ],
+    [
+     "İY 0-0 / MS 1-0",
+     0.0594
+    ],
+    [
+     "İY 0-1 / MS 0-1",
+     0.059
+    ],
+    [
+     "İY 1-0 / MS 1-0",
+     0.0454
+    ],
+    [
+     "İY 0-0 / MS 1-1",
+     0.0432
+    ],
+    [
+     "İY 0-1 / MS 0-2",
+     0.0428
+    ],
+    [
+     "İY 1-0 / MS 1-1",
+     0.0332
+    ],
+    [
+     "İY 0-1 / MS 1-1",
+     0.0318
+    ],
+    [
+     "İY 0-0 / MS 0-2",
+     0.0278
+    ],
+    [
+     "İY 1-0 / MS 2-0",
+     0.0242
+    ],
+    [
+     "İY 1-1 / MS 1-1",
+     0.024
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Maç Skoru Beraberlik (0-0 hariç)",
+   "oneri": "Hayır",
+   "olasilik": 0.8236,
+   "adil_oran": 1.21,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8236,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1764
+    ],
+    [
+     "Hayır",
+     0.8236
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Şili Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.1817,
+   "adil_oran": 5.5,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1817,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1817
+    ],
+    [
+     "2 farkla",
+     0.0729
+    ],
+    [
+     "3 farkla",
+     0.0212
+    ],
+    [
+     "4+ farkla",
+     0.0054
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Kolombiya : Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.2394,
+   "adil_oran": 4.18,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2394,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2394
+    ],
+    [
+     "2 farkla",
+     0.1258
+    ],
+    [
+     "3 farkla",
+     0.0482
+    ],
+    [
+     "4+ farkla",
+     0.0188
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Şili Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.1132,
+   "adil_oran": 8.83,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.1132,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.1047
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.1132
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.0479
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.0154
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Kolombiya Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.1693,
+   "adil_oran": 5.91,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.1693,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.1385
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.1693
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.0859
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.0386
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Şili Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8252,
+   "adil_oran": 1.21,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8252,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1748
+    ],
+    [
+     "Hayır",
+     0.8252
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Kolombiya Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7239,
+   "adil_oran": 1.38,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7239,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2761
+    ],
+    [
+     "Hayır",
+     0.7239
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Şili İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9058,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9058,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0942
+    ],
+    [
+     "Hayır",
+     0.9058
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Kolombiya İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.826,
+   "adil_oran": 1.21,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.826,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.174
+    ],
+    [
+     "Hayır",
+     0.826
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Şili Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.5319,
+   "adil_oran": 1.88,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5319,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4682
+    ],
+    [
+     "Hayır",
+     0.5319
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Kolombiya Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Evet",
+   "olasilik": 0.5258,
+   "adil_oran": 1.9,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5258,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5258
+    ],
+    [
+     "Hayır",
+     0.4742
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Şili En Az Bir Yarıyı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.5915,
+   "adil_oran": 1.69,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5915,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4085
+    ],
+    [
+     "Hayır",
+     0.5915
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Kolombiya En Az Bir Yarıyı Kazanır",
+   "oneri": "Evet",
+   "olasilik": 0.5489,
+   "adil_oran": 1.82,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5489,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5489
+    ],
+    [
+     "Hayır",
+     0.4511
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Şili İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.9322,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9322,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0678
+    ],
+    [
+     "Hayır",
+     0.9322
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Kolombiya İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.9415,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9415,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0585
+    ],
+    [
+     "Hayır",
+     0.9415
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Sonucu",
+   "oneri": "X",
+   "olasilik": 0.4778,
+   "adil_oran": 2.09,
+   "en_olasi": "X",
+   "en_olasi_p": 0.4778,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Şili)",
+     0.2192
+    ],
+    [
+     "X",
+     0.4778
+    ],
+    [
+     "2 (Kolombiya)",
+     0.3029
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Çifte Şans",
+   "oneri": "X2",
+   "olasilik": 0.7808,
+   "adil_oran": 1.28,
+   "en_olasi": "X2",
+   "en_olasi_p": 0.7808,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.6971
+    ],
+    [
+     "12",
+     0.5222
+    ],
+    [
+     "X2",
+     0.7808
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.7551,
+   "adil_oran": 1.32,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.9293,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.6127
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.3873
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.2449
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.7551
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.0707
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.9293
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 1. Takım Toplam Gol",
+   "oneri": "Şili 0,5 Alt",
+   "olasilik": 0.6621,
+   "adil_oran": 1.51,
+   "en_olasi": "Şili 1,5 Alt",
+   "en_olasi_p": 0.935,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili 0,5 Üst",
+     0.3379
+    ],
+    [
+     "Şili 0,5 Alt",
+     0.6621
+    ],
+    [
+     "Şili 1,5 Üst",
+     0.065
+    ],
+    [
+     "Şili 1,5 Alt",
+     0.935
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 2. Takım Toplam Gol",
+   "oneri": "Kolombiya 0,5 Alt",
+   "olasilik": 0.5853,
+   "adil_oran": 1.71,
+   "en_olasi": "Kolombiya 1,5 Alt",
+   "en_olasi_p": 0.899,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kolombiya 0,5 Üst",
+     0.4147
+    ],
+    [
+     "Kolombiya 0,5 Alt",
+     0.5853
+    ],
+    [
+     "Kolombiya 1,5 Üst",
+     0.101
+    ],
+    [
+     "Kolombiya 1,5 Alt",
+     0.899
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Şili Toplam Gol Asya",
+   "oneri": "Şili Asya 0,75 Alt",
+   "olasilik": 0.7668,
+   "adil_oran": 1.3,
+   "en_olasi": "Şili Asya 1 Alt",
+   "en_olasi_p": 0.9106,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili Asya 0,5 Üst",
+     0.3379
+    ],
+    [
+     "Şili Asya 0,5 Alt",
+     0.6621
+    ],
+    [
+     "Şili Asya 0,75 Üst",
+     0.2332
+    ],
+    [
+     "Şili Asya 0,75 Alt",
+     0.7668
+    ],
+    [
+     "Şili Asya 1 Üst",
+     0.0894
+    ],
+    [
+     "Şili Asya 1 Alt",
+     0.9106
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Kolombiya Toplam Gol Asya",
+   "oneri": "Kolombiya Asya 0,25 Üst",
+   "olasilik": 0.5863,
+   "adil_oran": 1.71,
+   "en_olasi": "Kolombiya Asya 0,25 Üst",
+   "en_olasi_p": 0.5863,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kolombiya Asya 0,25 Üst",
+     0.5863
+    ],
+    [
+     "Kolombiya Asya 0,25 Alt",
+     0.4137
+    ],
+    [
+     "Kolombiya Asya 0,5 Üst",
+     0.4147
+    ],
+    [
+     "Kolombiya Asya 0,5 Alt",
+     0.5853
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8602,
+   "adil_oran": 1.16,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8602,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1398
+    ],
+    [
+     "Hayır",
+     0.8602
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı",
+   "oneri": "Kolombiya +0,5",
+   "olasilik": 0.7808,
+   "adil_oran": 1.28,
+   "en_olasi": "Kolombiya +1,5",
+   "en_olasi_p": 0.9596,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili -1,5",
+     0.0404
+    ],
+    [
+     "Kolombiya +1,5",
+     0.9596
+    ],
+    [
+     "Şili -0,5",
+     0.2192
+    ],
+    [
+     "Kolombiya +0,5",
+     0.7808
+    ],
+    [
+     "Şili +0,5",
+     0.6971
+    ],
+    [
+     "Kolombiya -0,5",
+     0.3029
+    ],
+    [
+     "Şili +1,5",
+     0.9275
+    ],
+    [
+     "Kolombiya -1,5",
+     0.0725
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Goller Asya Handikapı",
+   "oneri": "Kolombiya Asya +0,5",
+   "olasilik": 0.7808,
+   "adil_oran": 1.28,
+   "en_olasi": "Kolombiya Asya +0,5",
+   "en_olasi_p": 0.7808,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili Asya -1",
+     0.0492
+    ],
+    [
+     "Kolombiya Asya -1",
+     0.0942
+    ],
+    [
+     "Şili Asya -0,75",
+     0.1426
+    ],
+    [
+     "Kolombiya Asya -0,75",
+     0.2122
+    ],
+    [
+     "Şili Asya -0,5",
+     0.2192
+    ],
+    [
+     "Kolombiya Asya -0,5",
+     0.3029
+    ],
+    [
+     "Şili Asya -0,25",
+     0.2881
+    ],
+    [
+     "Kolombiya Asya -0,25",
+     0.398
+    ],
+    [
+     "Şili Asya 0",
+     0.4199
+    ],
+    [
+     "Kolombiya Asya 0",
+     0.5801
+    ],
+    [
+     "Şili Asya +0,25",
+     0.602
+    ],
+    [
+     "Kolombiya Asya +0,25",
+     0.7119
+    ],
+    [
+     "Şili Asya +0,5",
+     0.6971
+    ],
+    [
+     "Kolombiya Asya +0,5",
+     0.7808
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Kolombiya (-1)",
+   "olasilik": 0.7808,
+   "adil_oran": 1.28,
+   "en_olasi": "Kolombiya (-2)",
+   "en_olasi_p": 0.9596,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili (-2)",
+     0.0052
+    ],
+    [
+     "X (-2)",
+     0.0352
+    ],
+    [
+     "Kolombiya (-2)",
+     0.9596
+    ],
+    [
+     "Şili (-1)",
+     0.0404
+    ],
+    [
+     "X (-1)",
+     0.1788
+    ],
+    [
+     "Kolombiya (-1)",
+     0.7808
+    ],
+    [
+     "Şili (+1)",
+     0.6971
+    ],
+    [
+     "X (+1)",
+     0.2304
+    ],
+    [
+     "Kolombiya (+1)",
+     0.0725
+    ],
+    [
+     "Şili (+2)",
+     0.9275
+    ],
+    [
+     "X (+2)",
+     0.0601
+    ],
+    [
+     "Kolombiya (+2)",
+     0.0124
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Asya",
+   "oneri": "Toplam Asya 1,25 Alt",
+   "olasilik": 0.6999,
+   "adil_oran": 1.43,
+   "en_olasi": "Toplam Asya 1,25 Alt",
+   "en_olasi_p": 0.6999,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam Asya 0,75 Üst",
+     0.5255
+    ],
+    [
+     "Toplam Asya 0,75 Alt",
+     0.4745
+    ],
+    [
+     "Toplam Asya 1 Üst",
+     0.3874
+    ],
+    [
+     "Toplam Asya 1 Alt",
+     0.6126
+    ],
+    [
+     "Toplam Asya 1,25 Üst",
+     0.3001
+    ],
+    [
+     "Toplam Asya 1,25 Alt",
+     0.6999
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Toplam Gol (3-İhtimalli)",
+   "oneri": "1 Alt",
+   "olasilik": 0.3873,
+   "adil_oran": 2.58,
+   "en_olasi": "1 Alt",
+   "en_olasi_p": 0.3873,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.3873
+    ],
+    [
+     "Tam 1",
+     0.3678
+    ],
+    [
+     "1 Üst",
+     0.2449
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "X & KG Yok",
+   "olasilik": 0.3873,
+   "adil_oran": 2.58,
+   "en_olasi": "X & KG Yok",
+   "en_olasi_p": 0.3873,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0212
+    ],
+    [
+     "1 & KG Yok",
+     0.198
+    ],
+    [
+     "X & KG Var",
+     0.0906
+    ],
+    [
+     "X & KG Yok",
+     0.3873
+    ],
+    [
+     "2 & KG Var",
+     0.028
+    ],
+    [
+     "2 & KG Yok",
+     0.2749
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Aralığı",
+   "oneri": "0 gol",
+   "olasilik": 0.3873,
+   "adil_oran": 2.58,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.3873,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3873
+    ],
+    [
+     "1 gol",
+     0.3678
+    ],
+    [
+     "2-3 gol",
+     0.2285
+    ],
+    [
+     "4+ gol",
+     0.0164
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Şili Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.6621,
+   "adil_oran": 1.51,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.6621,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6621
+    ],
+    [
+     "1 gol",
+     0.2729
+    ],
+    [
+     "2+ gol",
+     0.065
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Kolombiya Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.5853,
+   "adil_oran": 1.71,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5853,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5853
+    ],
+    [
+     "1 gol",
+     0.3137
+    ],
+    [
+     "2+ gol",
+     0.101
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7551,
+   "adil_oran": 1.32,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7551,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.7551
+    ],
+    [
+     "1-2 gol",
+     0.542
+    ],
+    [
+     "2-3 gol",
+     0.2285
+    ],
+    [
+     "3+ gol",
+     0.0707
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.6621,
+   "adil_oran": 1.51,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.935,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6621
+    ],
+    [
+     "0-1 gol",
+     0.935
+    ],
+    [
+     "1-2 gol",
+     0.3295
+    ],
+    [
+     "2+ gol",
+     0.065
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.5853,
+   "adil_oran": 1.71,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.899,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5853
+    ],
+    [
+     "0-1 gol",
+     0.899
+    ],
+    [
+     "1-2 gol",
+     0.3967
+    ],
+    [
+     "2+ gol",
+     0.101
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.3873,
+   "adil_oran": 2.58,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.3873,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3873
+    ],
+    [
+     "1 gol",
+     0.3678
+    ],
+    [
+     "2 gol",
+     0.1742
+    ],
+    [
+     "3 gol",
+     0.0543
+    ],
+    [
+     "4+ gol",
+     0.0164
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Şili Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.6621,
+   "adil_oran": 1.51,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.6621,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6621
+    ],
+    [
+     "1 gol",
+     0.2729
+    ],
+    [
+     "2 gol",
+     0.0566
+    ],
+    [
+     "3+ gol",
+     0.0084
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Kolombiya Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.5853,
+   "adil_oran": 1.71,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5853,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5853
+    ],
+    [
+     "1 gol",
+     0.3137
+    ],
+    [
+     "2 gol",
+     0.083
+    ],
+    [
+     "3+ gol",
+     0.018
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Şili Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.1788,
+   "adil_oran": 5.59,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1788,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1788
+    ],
+    [
+     "2 farkla",
+     0.0352
+    ],
+    [
+     "3+ farkla",
+     0.0052
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Kolombiya Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.2304,
+   "adil_oran": 4.34,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2304,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2304
+    ],
+    [
+     "2 farkla",
+     0.0601
+    ],
+    [
+     "3+ farkla",
+     0.0124
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Şili Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.802,
+   "adil_oran": 1.25,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.802,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.198
+    ],
+    [
+     "Hayır",
+     0.802
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Kolombiya Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7251,
+   "adil_oran": 1.38,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7251,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2749
+    ],
+    [
+     "Hayır",
+     0.7251
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı İlk Golü Atacak Takım",
+   "oneri": "Gol yok",
+   "olasilik": 0.3873,
+   "adil_oran": 2.58,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.3873,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili",
+     0.2676
+    ],
+    [
+     "Gol yok",
+     0.3873
+    ],
+    [
+     "Kolombiya",
+     0.3452
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Son Golü Atacak Takım",
+   "oneri": "Gol yok",
+   "olasilik": 0.3873,
+   "adil_oran": 2.58,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.3873,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili",
+     0.2659
+    ],
+    [
+     "Gol yok",
+     0.3873
+    ],
+    [
+     "Kolombiya",
+     0.3469
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Doğru Skor",
+   "oneri": "0-0",
+   "olasilik": 0.3873,
+   "adil_oran": 2.58,
+   "en_olasi": "0-0",
+   "en_olasi_p": 0.3873,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-0",
+     0.3873
+    ],
+    [
+     "0-1",
+     0.2075
+    ],
+    [
+     "1-0",
+     0.1603
+    ],
+    [
+     "1-1",
+     0.0857
+    ],
+    [
+     "0-2",
+     0.0556
+    ],
+    [
+     "2-0",
+     0.0328
+    ],
+    [
+     "1-2",
+     0.0219
+    ],
+    [
+     "2-1",
+     0.0178
+    ],
+    [
+     "0-3",
+     0.0101
+    ],
+    [
+     "2-2",
+     0.0048
+    ],
+    [
+     "3-0",
+     0.0044
+    ],
+    [
+     "1-3",
+     0.0043
+    ],
+    [
+     "Diğer",
+     0.0033
+    ],
+    [
+     "3-1",
+     0.0023
+    ],
+    [
+     "2-3",
+     0.001
+    ],
+    [
+     "3-2",
+     0.0006
+    ],
+    [
+     "3-3",
+     0.0001
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Sonucu",
+   "oneri": "X",
+   "olasilik": 0.4055,
+   "adil_oran": 2.47,
+   "en_olasi": "X",
+   "en_olasi_p": 0.4055,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Şili)",
+     0.2416
+    ],
+    [
+     "X",
+     0.4055
+    ],
+    [
+     "2 (Kolombiya)",
+     0.3529
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Çifte Şans",
+   "oneri": "X2",
+   "olasilik": 0.7584,
+   "adil_oran": 1.32,
+   "en_olasi": "X2",
+   "en_olasi_p": 0.7584,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.6471
+    ],
+    [
+     "12",
+     0.5945
+    ],
+    [
+     "X2",
+     0.7584
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.716,
+   "adil_oran": 1.4,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.8677,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.716
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.284
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.3571
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.6429
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1323
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8677
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Şili Toplam Gol",
+   "oneri": "Şili 0,5 Alt",
+   "olasilik": 0.5827,
+   "adil_oran": 1.72,
+   "en_olasi": "Şili 1,5 Alt",
+   "en_olasi_p": 0.8982,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili 0,5 Üst",
+     0.4173
+    ],
+    [
+     "Şili 0,5 Alt",
+     0.5827
+    ],
+    [
+     "Şili 1,5 Üst",
+     0.1018
+    ],
+    [
+     "Şili 1,5 Alt",
+     0.8982
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Kolombiya Toplam Gol",
+   "oneri": "Kolombiya 0,5 Üst",
+   "olasilik": 0.512,
+   "adil_oran": 1.95,
+   "en_olasi": "Kolombiya 1,5 Alt",
+   "en_olasi_p": 0.8389,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kolombiya 0,5 Üst",
+     0.512
+    ],
+    [
+     "Kolombiya 0,5 Alt",
+     0.488
+    ],
+    [
+     "Kolombiya 1,5 Üst",
+     0.161
+    ],
+    [
+     "Kolombiya 1,5 Alt",
+     0.8389
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7867,
+   "adil_oran": 1.27,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7867,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2133
+    ],
+    [
+     "Hayır",
+     0.7867
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı",
+   "oneri": "Kolombiya +0,5",
+   "olasilik": 0.7584,
+   "adil_oran": 1.32,
+   "en_olasi": "Kolombiya +1,5",
+   "en_olasi_p": 0.9439,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili -1,5",
+     0.0561
+    ],
+    [
+     "Kolombiya +1,5",
+     0.9439
+    ],
+    [
+     "Şili -0,5",
+     0.2416
+    ],
+    [
+     "Kolombiya +0,5",
+     0.7584
+    ],
+    [
+     "Şili +0,5",
+     0.6471
+    ],
+    [
+     "Kolombiya -0,5",
+     0.3529
+    ],
+    [
+     "Şili +1,5",
+     0.894
+    ],
+    [
+     "Kolombiya -1,5",
+     0.106
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Kolombiya (-1)",
+   "olasilik": 0.7584,
+   "adil_oran": 1.32,
+   "en_olasi": "Kolombiya (-2)",
+   "en_olasi_p": 0.9439,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili (-2)",
+     0.0096
+    ],
+    [
+     "X (-2)",
+     0.0465
+    ],
+    [
+     "Kolombiya (-2)",
+     0.9439
+    ],
+    [
+     "Şili (-1)",
+     0.0561
+    ],
+    [
+     "X (-1)",
+     0.1855
+    ],
+    [
+     "Kolombiya (-1)",
+     0.7584
+    ],
+    [
+     "Şili (+1)",
+     0.6471
+    ],
+    [
+     "X (+1)",
+     0.2469
+    ],
+    [
+     "Kolombiya (+1)",
+     0.106
+    ],
+    [
+     "Şili (+2)",
+     0.894
+    ],
+    [
+     "X (+2)",
+     0.0828
+    ],
+    [
+     "Kolombiya (+2)",
+     0.0232
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "2 & KG Yok",
+   "olasilik": 0.2987,
+   "adil_oran": 3.35,
+   "en_olasi": "2 & KG Yok",
+   "en_olasi_p": 0.2987,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0376
+    ],
+    [
+     "1 & KG Yok",
+     0.204
+    ],
+    [
+     "X & KG Var",
+     0.1216
+    ],
+    [
+     "X & KG Yok",
+     0.284
+    ],
+    [
+     "2 & KG Var",
+     0.0542
+    ],
+    [
+     "2 & KG Yok",
+     0.2987
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol Aralığı",
+   "oneri": "1 gol",
+   "olasilik": 0.3589,
+   "adil_oran": 2.79,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3589,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.284
+    ],
+    [
+     "1 gol",
+     0.3589
+    ],
+    [
+     "2-3 gol",
+     0.3189
+    ],
+    [
+     "4+ gol",
+     0.0382
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Şili Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.5827,
+   "adil_oran": 1.72,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5827,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5827
+    ],
+    [
+     "1 gol",
+     0.3155
+    ],
+    [
+     "2+ gol",
+     0.1018
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Kolombiya Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.488,
+   "adil_oran": 2.05,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.488,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.488
+    ],
+    [
+     "1 gol",
+     0.351
+    ],
+    [
+     "2+ gol",
+     0.161
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.6429,
+   "adil_oran": 1.56,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.6429,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.6429
+    ],
+    [
+     "1-2 gol",
+     0.5837
+    ],
+    [
+     "2-3 gol",
+     0.3189
+    ],
+    [
+     "3+ gol",
+     0.1323
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.5827,
+   "adil_oran": 1.72,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.8982,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5827
+    ],
+    [
+     "0-1 gol",
+     0.8982
+    ],
+    [
+     "1-2 gol",
+     0.4002
+    ],
+    [
+     "2+ gol",
+     0.1018
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.488,
+   "adil_oran": 2.05,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.8389,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.488
+    ],
+    [
+     "0-1 gol",
+     0.8389
+    ],
+    [
+     "1-2 gol",
+     0.4757
+    ],
+    [
+     "2+ gol",
+     0.161
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3589,
+   "adil_oran": 2.79,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3589,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.284
+    ],
+    [
+     "1 gol",
+     0.3589
+    ],
+    [
+     "2 gol",
+     0.2248
+    ],
+    [
+     "3 gol",
+     0.0942
+    ],
+    [
+     "4+ gol",
+     0.0382
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Şili Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.5827,
+   "adil_oran": 1.72,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5827,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5827
+    ],
+    [
+     "1 gol",
+     0.3155
+    ],
+    [
+     "2 gol",
+     0.0847
+    ],
+    [
+     "3+ gol",
+     0.0171
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Kolombiya Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.488,
+   "adil_oran": 2.05,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.488,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.488
+    ],
+    [
+     "1 gol",
+     0.351
+    ],
+    [
+     "2 gol",
+     0.1247
+    ],
+    [
+     "3+ gol",
+     0.0363
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Şili Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.1855,
+   "adil_oran": 5.39,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1855,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1855
+    ],
+    [
+     "2 farkla",
+     0.0465
+    ],
+    [
+     "3+ farkla",
+     0.0096
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Kolombiya Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.2469,
+   "adil_oran": 4.05,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2469,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2469
+    ],
+    [
+     "2 farkla",
+     0.0828
+    ],
+    [
+     "3+ farkla",
+     0.0232
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Şili Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.796,
+   "adil_oran": 1.26,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.796,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.204
+    ],
+    [
+     "Hayır",
+     0.796
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Kolombiya Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7013,
+   "adil_oran": 1.43,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7013,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2987
+    ],
+    [
+     "Hayır",
+     0.7013
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı İlk Golü Atacak Takım",
+   "oneri": "Kolombiya",
+   "olasilik": 0.4094,
+   "adil_oran": 2.44,
+   "en_olasi": "Kolombiya",
+   "en_olasi_p": 0.4094,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili",
+     0.3066
+    ],
+    [
+     "Gol yok",
+     0.284
+    ],
+    [
+     "Kolombiya",
+     0.4094
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Son Golü Atacak Takım",
+   "oneri": "Kolombiya",
+   "olasilik": 0.4082,
+   "adil_oran": 2.45,
+   "en_olasi": "Kolombiya",
+   "en_olasi_p": 0.4082,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili",
+     0.3078
+    ],
+    [
+     "Gol yok",
+     0.284
+    ],
+    [
+     "Kolombiya",
+     0.4082
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Doğru Skor",
+   "oneri": "0-0",
+   "olasilik": 0.284,
+   "adil_oran": 3.52,
+   "en_olasi": "0-0",
+   "en_olasi_p": 0.284,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-0",
+     0.284
+    ],
+    [
+     "0-1",
+     0.2049
+    ],
+    [
+     "1-0",
+     0.154
+    ],
+    [
+     "1-1",
+     0.1106
+    ],
+    [
+     "0-2",
+     0.0729
+    ],
+    [
+     "2-0",
+     0.0412
+    ],
+    [
+     "1-2",
+     0.0392
+    ],
+    [
+     "2-1",
+     0.0297
+    ],
+    [
+     "0-3",
+     0.0175
+    ],
+    [
+     "2-2",
+     0.0105
+    ],
+    [
+     "1-3",
+     0.0094
+    ],
+    [
+     "Diğer",
+     0.0086
+    ],
+    [
+     "3-0",
+     0.0077
+    ],
+    [
+     "3-1",
+     0.0049
+    ],
+    [
+     "2-3",
+     0.0027
+    ],
+    [
+     "3-2",
+     0.0017
+    ],
+    [
+     "3-3",
+     0.0004
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Karşılıklı Gol",
+   "oneri": "İY Yok / 2Y Yok",
+   "olasilik": 0.677,
+   "adil_oran": 1.48,
+   "en_olasi": "İY Yok / 2Y Yok",
+   "en_olasi_p": 0.677,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Var / 2Y Var",
+     0.0301
+    ],
+    [
+     "İY Var / 2Y Yok",
+     0.1097
+    ],
+    [
+     "İY Yok / 2Y Var",
+     0.1832
+    ],
+    [
+     "İY Yok / 2Y Yok",
+     0.677
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı veya Maç Sonucu",
+   "oneri": "İY X veya MS X",
+   "olasilik": 0.5703,
+   "adil_oran": 1.75,
+   "en_olasi": "İY X veya MS X",
+   "en_olasi_p": 0.5703,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 1 veya MS 1",
+     0.3492
+    ],
+    [
+     "İY X veya MS X",
+     0.5703
+    ],
+    [
+     "İY 2 veya MS 2",
+     0.4907
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarı/Maç Sonucu",
+   "oneri": "2/2",
+   "olasilik": 0.2444,
+   "adil_oran": 4.09,
+   "en_olasi": "2/2",
+   "en_olasi_p": 0.2444,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.1514
+    ],
+    [
+     "1/X",
+     0.0475
+    ],
+    [
+     "1/2",
+     0.0203
+    ],
+    [
+     "X/1",
+     0.1164
+    ],
+    [
+     "X/X",
+     0.194
+    ],
+    [
+     "X/2",
+     0.1675
+    ],
+    [
+     "2/1",
+     0.0135
+    ],
+    [
+     "2/X",
+     0.0449
+    ],
+    [
+     "2/2",
+     0.2444
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Sonucu",
+   "oneri": "X/X",
+   "olasilik": 0.194,
+   "adil_oran": 5.16,
+   "en_olasi": "X/X",
+   "en_olasi_p": 0.194,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.0523
+    ],
+    [
+     "1/X",
+     0.0884
+    ],
+    [
+     "1/2",
+     0.0785
+    ],
+    [
+     "X/1",
+     0.1164
+    ],
+    [
+     "X/X",
+     0.194
+    ],
+    [
+     "X/2",
+     0.1675
+    ],
+    [
+     "2/1",
+     0.0729
+    ],
+    [
+     "2/X",
+     0.1231
+    ],
+    [
+     "2/2",
+     0.1069
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.4338,
+   "adil_oran": 2.31,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.4338,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2794
+    ],
+    [
+     "Eşit",
+     0.2867
+    ],
+    [
+     "2. Yarı",
+     0.4338
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı : Çifte Şans",
+   "oneri": "2. Yarı veya Eşit",
+   "olasilik": 0.7206,
+   "adil_oran": 1.39,
+   "en_olasi": "2. Yarı veya Eşit",
+   "en_olasi_p": 0.7206,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı veya Eşit",
+     0.5662
+    ],
+    [
+     "2. Yarı veya Eşit",
+     0.7206
+    ],
+    [
+     "1. veya 2. Yarı",
+     0.7133
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Şili : En Çok Gol Attığı Yarı",
+   "oneri": "Eşit",
+   "olasilik": 0.477,
+   "adil_oran": 2.1,
+   "en_olasi": "Eşit",
+   "en_olasi_p": 0.477,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2181
+    ],
+    [
+     "Eşit",
+     0.477
+    ],
+    [
+     "2. Yarı",
+     0.3048
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Kolombiya : En Çok Gol Attığı Yarı",
+   "oneri": "Eşit",
+   "olasilik": 0.4057,
+   "adil_oran": 2.46,
+   "en_olasi": "Eşit",
+   "en_olasi_p": 0.4057,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2403
+    ],
+    [
+     "Eşit",
+     0.4057
+    ],
+    [
+     "2. Yarı",
+     0.3539
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Şili : Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8587,
+   "adil_oran": 1.16,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8587,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1413
+    ],
+    [
+     "Hayır",
+     0.8587
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Kolombiya Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.7885,
+   "adil_oran": 1.27,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7885,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2115
+    ],
+    [
+     "Hayır",
+     0.7885
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Şili : İlk Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.6621,
+   "adil_oran": 1.51,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6621,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3379
+    ],
+    [
+     "Hayır",
+     0.6621
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Kolombiya İlk Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.5853,
+   "adil_oran": 1.71,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5853,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4147
+    ],
+    [
+     "Hayır",
+     0.5853
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Şili : İkinci Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.5827,
+   "adil_oran": 1.72,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5827,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4173
+    ],
+    [
+     "Hayır",
+     0.5827
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Kolombiya İkinci Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.512,
+   "adil_oran": 1.95,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.512,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.512
+    ],
+    [
+     "Hayır",
+     0.488
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.6127,
+   "adil_oran": 1.63,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6127,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6127
+    ],
+    [
+     "Hayır",
+     0.3873
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İkinci Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.716,
+   "adil_oran": 1.4,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.716,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.716
+    ],
+    [
+     "Hayır",
+     0.284
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarıda da 1.5 Üst Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.9128,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9128,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0872
+    ],
+    [
+     "Hayır",
+     0.9128
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarı Goller 1.5 Alt",
+   "oneri": "Hayır",
+   "olasilik": 0.5148,
+   "adil_oran": 1.94,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5148,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4852
+    ],
+    [
+     "Hayır",
+     0.5148
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Şili : Gol Atar 1.Yarı/2.Yarı",
+   "oneri": "Hayır/Hayır",
+   "olasilik": 0.3861,
+   "adil_oran": 2.59,
+   "en_olasi": "Hayır/Hayır",
+   "en_olasi_p": 0.3861,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.1413
+    ],
+    [
+     "Evet/Hayır",
+     0.1966
+    ],
+    [
+     "Hayır/Evet",
+     0.276
+    ],
+    [
+     "Hayır/Hayır",
+     0.3861
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Kolombiya Gol Atar İlk Yarı/İkinci Yarı",
+   "oneri": "Hayır/Evet",
+   "olasilik": 0.3005,
+   "adil_oran": 3.33,
+   "en_olasi": "Hayır/Evet",
+   "en_olasi_p": 0.3005,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.2115
+    ],
+    [
+     "Evet/Hayır",
+     0.2032
+    ],
+    [
+     "Hayır/Evet",
+     0.3005
+    ],
+    [
+     "Hayır/Hayır",
+     0.2848
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarıları Farklı Takımlar Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8487,
+   "adil_oran": 1.18,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8487,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1513
+    ],
+    [
+     "Hayır",
+     0.8487
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarılardan En Az Birinde Beraberlik",
+   "oneri": "Evet",
+   "olasilik": 0.6894,
+   "adil_oran": 1.45,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6894,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6894
+    ],
+    [
+     "Hayır",
+     0.3106
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1.Yarı Toplam Gol'e karşı 2. Yarı Toplam Gol Handikapı",
+   "oneri": "1. Yarı +1,5",
+   "olasilik": 0.8059,
+   "adil_oran": 1.24,
+   "en_olasi": "1. Yarı +1,5",
+   "en_olasi_p": 0.8059,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "2. Yarı -1,5",
+     0.1941
+    ],
+    [
+     "2. Yarı -0,5",
+     0.4338
+    ],
+    [
+     "2. Yarı +0,5",
+     0.7206
+    ],
+    [
+     "1. Yarı +1,5",
+     0.8059
+    ],
+    [
+     "1. Yarı +0,5",
+     0.5662
+    ],
+    [
+     "1. Yarı -0,5",
+     0.2794
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8322,
+   "adil_oran": 1.2,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8322,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1678
+    ],
+    [
+     "Hayır",
+     0.8322
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Köşe Vuruşu",
+   "oneri": "Evet",
+   "olasilik": 0.5554,
+   "adil_oran": 1.8,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5554,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5554
+    ],
+    [
+     "Hayır",
+     0.4446
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Şili : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Şili 0,5 Alt",
+   "olasilik": 0.6489,
+   "adil_oran": 1.54,
+   "en_olasi": "Şili 1,5 Alt",
+   "en_olasi_p": 0.9302,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili 0,5 Üst",
+     0.3511
+    ],
+    [
+     "Şili 0,5 Alt",
+     0.6489
+    ],
+    [
+     "Şili 1,5 Üst",
+     0.0698
+    ],
+    [
+     "Şili 1,5 Alt",
+     0.9302
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Kolombiya : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Kolombiya 0,5 Alt",
+   "olasilik": 0.6852,
+   "adil_oran": 1.46,
+   "en_olasi": "Kolombiya 0,5 Alt",
+   "en_olasi_p": 0.6852,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Kolombiya 0,5 Üst",
+     0.3148
+    ],
+    [
+     "Kolombiya 0,5 Alt",
+     0.6852
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Sarı Kartlar",
+   "oneri": "Hayır",
+   "olasilik": 0.7662,
+   "adil_oran": 1.31,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7662,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2338
+    ],
+    [
+     "Hayır",
+     0.7662
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.7717,
+   "adil_oran": 1.3,
+   "en_olasi": "X",
+   "en_olasi_p": 0.7717,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Şili)",
+     0.0986
+    ],
+    [
+     "X",
+     0.7717
+    ],
+    [
+     "2 (Kolombiya)",
+     0.1297
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Gol Handikapı",
+   "oneri": "Kolombiya (-1)",
+   "olasilik": 0.9014,
+   "adil_oran": 1.11,
+   "en_olasi": "Kolombiya (-1)",
+   "en_olasi_p": 0.9014,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili (-1)",
+     0.0056
+    ],
+    [
+     "X (-1)",
+     0.093
+    ],
+    [
+     "Kolombiya (-1)",
+     0.9014
+    ],
+    [
+     "Şili (+1)",
+     0.8703
+    ],
+    [
+     "X (+1)",
+     0.1197
+    ],
+    [
+     "Kolombiya (+1)",
+     0.01
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.7575,
+   "adil_oran": 1.32,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.968,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.2425
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.7575
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.032
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.968
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Şili Toplam Goller",
+   "oneri": "Şili 1,5 Alt",
+   "olasilik": 0.9933,
+   "adil_oran": 1.01,
+   "en_olasi": "Şili 1,5 Alt",
+   "en_olasi_p": 0.9933,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili 0,5 Üst",
+     0.1139
+    ],
+    [
+     "Şili 0,5 Alt",
+     0.8861
+    ],
+    [
+     "Şili 1,5 Üst",
+     0.0067
+    ],
+    [
+     "Şili 1,5 Alt",
+     0.9933
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Kolombiya Toplam Goller",
+   "oneri": "Kolombiya 0,5 Alt",
+   "olasilik": 0.855,
+   "adil_oran": 1.17,
+   "en_olasi": "Kolombiya 0,5 Alt",
+   "en_olasi_p": 0.855,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Kolombiya 0,5 Üst",
+     0.145
+    ],
+    [
+     "Kolombiya 0,5 Alt",
+     0.855
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. İki Takım Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.9835,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9835,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0165
+    ],
+    [
+     "Hayır",
+     0.9835
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.6071,
+   "adil_oran": 1.65,
+   "en_olasi": "X",
+   "en_olasi_p": 0.6071,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Şili)",
+     0.1671
+    ],
+    [
+     "X",
+     0.6071
+    ],
+    [
+     "2 (Kolombiya)",
+     0.2257
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Gol Handikapı",
+   "oneri": "Kolombiya (-1)",
+   "olasilik": 0.8329,
+   "adil_oran": 1.2,
+   "en_olasi": "Kolombiya (-1)",
+   "en_olasi_p": 0.8329,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili (-1)",
+     0.0196
+    ],
+    [
+     "X (-1)",
+     0.1475
+    ],
+    [
+     "Kolombiya (-1)",
+     0.8329
+    ],
+    [
+     "Şili (+1)",
+     0.7743
+    ],
+    [
+     "X (+1)",
+     0.1914
+    ],
+    [
+     "Kolombiya (+1)",
+     0.0344
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.5596,
+   "adil_oran": 1.79,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.8848,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.4404
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.5596
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.1152
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.8848
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Şili Toplam Goller",
+   "oneri": "Şili 0,5 Alt",
+   "olasilik": 0.7768,
+   "adil_oran": 1.29,
+   "en_olasi": "Şili 1,5 Alt",
+   "en_olasi_p": 0.9734,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili 0,5 Üst",
+     0.2233
+    ],
+    [
+     "Şili 0,5 Alt",
+     0.7768
+    ],
+    [
+     "Şili 1,5 Üst",
+     0.0266
+    ],
+    [
+     "Şili 1,5 Alt",
+     0.9734
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Kolombiya Toplam Goller",
+   "oneri": "Kolombiya 0,5 Alt",
+   "olasilik": 0.7202,
+   "adil_oran": 1.39,
+   "en_olasi": "Kolombiya 0,5 Alt",
+   "en_olasi_p": 0.7202,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Kolombiya 0,5 Üst",
+     0.2798
+    ],
+    [
+     "Kolombiya 0,5 Alt",
+     0.7202
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.399,
+   "adil_oran": 2.51,
+   "en_olasi": "X",
+   "en_olasi_p": 0.399,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Şili)",
+     0.2476
+    ],
+    [
+     "X",
+     0.399
+    ],
+    [
+     "2 (Kolombiya)",
+     0.3535
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Gol Handikapı",
+   "oneri": "Kolombiya +0,5",
+   "olasilik": 0.7524,
+   "adil_oran": 1.33,
+   "en_olasi": "Kolombiya +1,5",
+   "en_olasi_p": 0.9416,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili -1,5",
+     0.0584
+    ],
+    [
+     "Kolombiya +1,5",
+     0.9416
+    ],
+    [
+     "Şili -0,5",
+     0.2476
+    ],
+    [
+     "Kolombiya +0,5",
+     0.7524
+    ],
+    [
+     "Şili +0,5",
+     0.6465
+    ],
+    [
+     "Kolombiya -0,5",
+     0.3535
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.7265,
+   "adil_oran": 1.38,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.8582,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7265
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2735
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.371
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.629
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1418
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8582
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Şili Toplam Goller",
+   "oneri": "Şili 0,5 Alt",
+   "olasilik": 0.5708,
+   "adil_oran": 1.75,
+   "en_olasi": "Şili 1,5 Alt",
+   "en_olasi_p": 0.8913,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili 0,5 Üst",
+     0.4292
+    ],
+    [
+     "Şili 0,5 Alt",
+     0.5708
+    ],
+    [
+     "Şili 1,5 Üst",
+     0.1087
+    ],
+    [
+     "Şili 1,5 Alt",
+     0.8913
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Kolombiya Toplam Goller",
+   "oneri": "Kolombiya 0,5 Üst",
+   "olasilik": 0.5204,
+   "adil_oran": 1.92,
+   "en_olasi": "Kolombiya 0,5 Üst",
+   "en_olasi_p": 0.5204,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Kolombiya 0,5 Üst",
+     0.5204
+    ],
+    [
+     "Kolombiya 0,5 Alt",
+     0.4796
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7768,
+   "adil_oran": 1.29,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7768,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2232
+    ],
+    [
+     "Hayır",
+     0.7768
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Galibi",
+   "oneri": "2 (Kolombiya)",
+   "olasilik": 0.3936,
+   "adil_oran": 2.54,
+   "en_olasi": "2 (Kolombiya)",
+   "en_olasi_p": 0.3936,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Şili)",
+     0.2667
+    ],
+    [
+     "X",
+     0.3397
+    ],
+    [
+     "2 (Kolombiya)",
+     0.3936
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Gol Handikapı",
+   "oneri": "Kolombiya +0,5",
+   "olasilik": 0.7333,
+   "adil_oran": 1.36,
+   "en_olasi": "Kolombiya +1,5",
+   "en_olasi_p": 0.9215,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili -1,5",
+     0.0785
+    ],
+    [
+     "Kolombiya +1,5",
+     0.9215
+    ],
+    [
+     "Şili -0,5",
+     0.2667
+    ],
+    [
+     "Kolombiya +0,5",
+     0.7333
+    ],
+    [
+     "Şili +0,5",
+     0.6064
+    ],
+    [
+     "Kolombiya -0,5",
+     0.3936
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.8129,
+   "adil_oran": 1.23,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.8129,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.8129
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.1871
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.497
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.503
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.2344
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.7656
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Şili Toplam Goller",
+   "oneri": "Şili 0,5 Üst",
+   "olasilik": 0.5147,
+   "adil_oran": 1.94,
+   "en_olasi": "Şili 1,5 Alt",
+   "en_olasi_p": 0.8366,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili 0,5 Üst",
+     0.5147
+    ],
+    [
+     "Şili 0,5 Alt",
+     0.4853
+    ],
+    [
+     "Şili 1,5 Üst",
+     0.1634
+    ],
+    [
+     "Şili 1,5 Alt",
+     0.8366
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Kolombiya Toplam Goller",
+   "oneri": "Kolombiya 0,5 Üst",
+   "olasilik": 0.6128,
+   "adil_oran": 1.63,
+   "en_olasi": "Kolombiya 0,5 Üst",
+   "en_olasi_p": 0.6128,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Kolombiya 0,5 Üst",
+     0.6128
+    ],
+    [
+     "Kolombiya 0,5 Alt",
+     0.3872
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.6855,
+   "adil_oran": 1.46,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6855,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3145
+    ],
+    [
+     "Hayır",
+     0.6855
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kafa Golü Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7153,
+   "adil_oran": 1.4,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7153,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2847
+    ],
+    [
+     "Hayır",
+     0.7153
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Frikikten Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9374,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9374,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0626
+    ],
+    [
+     "Hayır",
+     0.9374
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Rövaşata ile Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.9957,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9957,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0043
+    ],
+    [
+     "Hayır",
+     0.9957
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Ceza Sahası Dışından Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7906,
+   "adil_oran": 1.26,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7906,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2094
+    ],
+    [
+     "Hayır",
+     0.7906
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kendi Kalesine Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.9254,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9254,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0746
+    ],
+    [
+     "Hayır",
+     0.9254
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Oyuncu Hat-trick Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9902,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9902,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0098
+    ],
+    [
+     "Hayır",
+     0.9902
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Kaleci Asist Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9915,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9915,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0085
+    ],
+    [
+     "Hayır",
+     0.9915
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "VAR'lar: Toplam (Yalnızca Sahada İnceleme veya Video İnceleme İşareti (TV))",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.6963,
+   "adil_oran": 1.44,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9486,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.3037
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.6963
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0514
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9486
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Sonuç",
+   "oneri": "1 (Şili)",
+   "olasilik": 0.5112,
+   "adil_oran": 1.96,
+   "en_olasi": "1 (Şili)",
+   "en_olasi_p": 0.5112,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Şili)",
+     0.5112
+    ],
+    [
+     "X",
+     0.1358
+    ],
+    [
+     "2 (Kolombiya)",
+     0.353
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam",
+   "oneri": "Toplam 10,5 Alt",
+   "olasilik": 0.7528,
+   "adil_oran": 1.33,
+   "en_olasi": "Toplam 11,5 Alt",
+   "en_olasi_p": 0.8408,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 7,5 Üst",
+     0.6267
+    ],
+    [
+     "Toplam 7,5 Alt",
+     0.3733
+    ],
+    [
+     "Toplam 8,5 Üst",
+     0.4902
+    ],
+    [
+     "Toplam 8,5 Alt",
+     0.5098
+    ],
+    [
+     "Toplam 9,5 Üst",
+     0.3612
+    ],
+    [
+     "Toplam 9,5 Alt",
+     0.6388
+    ],
+    [
+     "Toplam 10,5 Üst",
+     0.2472
+    ],
+    [
+     "Toplam 10,5 Alt",
+     0.7528
+    ],
+    [
+     "Toplam 11,5 Üst",
+     0.1592
+    ],
+    [
+     "Toplam 11,5 Alt",
+     0.8408
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Şili",
+   "oneri": "Şili 6,5 Alt",
+   "olasilik": 0.8194,
+   "adil_oran": 1.22,
+   "en_olasi": "Şili 7,5 Alt",
+   "en_olasi_p": 0.9065,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili 3,5 Üst",
+     0.6732
+    ],
+    [
+     "Şili 3,5 Alt",
+     0.3268
+    ],
+    [
+     "Şili 4,5 Üst",
+     0.4858
+    ],
+    [
+     "Şili 4,5 Alt",
+     0.5142
+    ],
+    [
+     "Şili 5,5 Üst",
+     0.3142
+    ],
+    [
+     "Şili 5,5 Alt",
+     0.6858
+    ],
+    [
+     "Şili 6,5 Üst",
+     0.1806
+    ],
+    [
+     "Şili 6,5 Alt",
+     0.8194
+    ],
+    [
+     "Şili 7,5 Üst",
+     0.0935
+    ],
+    [
+     "Şili 7,5 Alt",
+     0.9065
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Kolombiya",
+   "oneri": "Kolombiya 2,5 Üst",
+   "olasilik": 0.7627,
+   "adil_oran": 1.31,
+   "en_olasi": "Kolombiya 1,5 Üst",
+   "en_olasi_p": 0.9085,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Kolombiya 1,5 Üst",
+     0.9085
+    ],
+    [
+     "Kolombiya 1,5 Alt",
+     0.0915
+    ],
+    [
+     "Kolombiya 2,5 Üst",
+     0.7627
+    ],
+    [
+     "Kolombiya 2,5 Alt",
+     0.2373
+    ],
+    [
+     "Kolombiya 3,5 Üst",
+     0.5673
+    ],
+    [
+     "Kolombiya 3,5 Alt",
+     0.4327
+    ],
+    [
+     "Kolombiya 4,5 Üst",
+     0.3717
+    ],
+    [
+     "Kolombiya 4,5 Alt",
+     0.6283
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Handikap",
+   "oneri": "Şili +1,5",
+   "olasilik": 0.7649,
+   "adil_oran": 1.31,
+   "en_olasi": "Kolombiya +4,5",
+   "en_olasi_p": 0.9109,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili -4,5",
+     0.0891
+    ],
+    [
+     "Kolombiya +4,5",
+     0.9109
+    ],
+    [
+     "Şili -3,5",
+     0.1575
+    ],
+    [
+     "Kolombiya +3,5",
+     0.8425
+    ],
+    [
+     "Şili -2,5",
+     0.2533
+    ],
+    [
+     "Kolombiya +2,5",
+     0.7467
+    ],
+    [
+     "Şili -1,5",
+     0.3751
+    ],
+    [
+     "Kolombiya +1,5",
+     0.6249
+    ],
+    [
+     "Şili -0,5",
+     0.5112
+    ],
+    [
+     "Kolombiya +0,5",
+     0.4888
+    ],
+    [
+     "Şili +0,5",
+     0.647
+    ],
+    [
+     "Kolombiya -0,5",
+     0.353
+    ],
+    [
+     "Şili +1,5",
+     0.7649
+    ],
+    [
+     "Kolombiya -1,5",
+     0.2351
+    ],
+    [
+     "Şili +2,5",
+     0.8576
+    ],
+    [
+     "Kolombiya -2,5",
+     0.1424
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (3-İhtimalli)",
+   "oneri": "10 Alt",
+   "olasilik": 0.6388,
+   "adil_oran": 1.57,
+   "en_olasi": "10 Alt",
+   "en_olasi_p": 0.6388,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "9 Alt",
+     0.5098
+    ],
+    [
+     "10 Alt",
+     0.6388
+    ],
+    [
+     "Tam 9",
+     0.129
+    ],
+    [
+     "Tam 10",
+     0.114
+    ],
+    [
+     "9 Üst",
+     0.3612
+    ],
+    [
+     "10 Üst",
+     0.2472
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (Aralık)",
+   "oneri": "0-8 korner",
+   "olasilik": 0.5098,
+   "adil_oran": 1.96,
+   "en_olasi": "0-8 korner",
+   "en_olasi_p": 0.5098,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "0-8 korner",
+     0.5098
+    ],
+    [
+     "9-11 korner",
+     0.3311
+    ],
+    [
+     "12+ korner",
+     0.1592
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Tek/Çift",
+   "oneri": "Çift",
+   "olasilik": 0.5022,
+   "adil_oran": 1.99,
+   "en_olasi": "Çift",
+   "en_olasi_p": 0.5022,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.4978
+    ],
+    [
+     "Çift",
+     0.5022
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Korner Yarışı",
+   "oneri": "7 kornere kimse ulaşamaz",
+   "olasilik": 0.7286,
+   "adil_oran": 1.37,
+   "en_olasi": "9 kornere kimse ulaşamaz",
+   "en_olasi_p": 0.9351,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk 3 korner Şili",
+     0.541
+    ],
+    [
+     "İlk 3 korner Kolombiya",
+     0.413
+    ],
+    [
+     "3 kornere kimse ulaşamaz",
+     0.0384
+    ],
+    [
+     "İlk 5 korner Şili",
+     0.4005
+    ],
+    [
+     "İlk 5 korner Kolombiya",
+     0.2741
+    ],
+    [
+     "5 kornere kimse ulaşamaz",
+     0.3227
+    ],
+    [
+     "İlk 7 korner Şili",
+     0.1716
+    ],
+    [
+     "İlk 7 korner Kolombiya",
+     0.0992
+    ],
+    [
+     "7 kornere kimse ulaşamaz",
+     0.7286
+    ],
+    [
+     "İlk 9 korner Şili",
+     0.0438
+    ],
+    [
+     "İlk 9 korner Kolombiya",
+     0.021
+    ],
+    [
+     "9 kornere kimse ulaşamaz",
+     0.9351
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Sonucu",
+   "oneri": "1 (Şili)",
+   "olasilik": 0.4519,
+   "adil_oran": 2.21,
+   "en_olasi": "1 (Şili)",
+   "en_olasi_p": 0.4519,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Şili)",
+     0.4519
+    ],
+    [
+     "X",
+     0.2047
+    ],
+    [
+     "2 (Kolombiya)",
+     0.3433
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Handikap",
+   "oneri": "Kolombiya +1,5",
+   "olasilik": 0.7374,
+   "adil_oran": 1.36,
+   "en_olasi": "Kolombiya +2,5",
+   "en_olasi_p": 0.8724,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili -2,5",
+     0.1276
+    ],
+    [
+     "Kolombiya +2,5",
+     0.8724
+    ],
+    [
+     "Şili -1,5",
+     0.2626
+    ],
+    [
+     "Kolombiya +1,5",
+     0.7374
+    ],
+    [
+     "Şili -0,5",
+     0.4519
+    ],
+    [
+     "Kolombiya +0,5",
+     0.5481
+    ],
+    [
+     "Şili +0,5",
+     0.6567
+    ],
+    [
+     "Kolombiya -0,5",
+     0.3433
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Toplam",
+   "oneri": "Toplam 5,5 Alt",
+   "olasilik": 0.7783,
+   "adil_oran": 1.28,
+   "en_olasi": "Toplam 5,5 Alt",
+   "en_olasi_p": 0.7783,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 3,5 Üst",
+     0.5737
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.4263
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.3794
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.6206
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.2217
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.7783
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Şili Toplam",
+   "oneri": "Şili 3,5 Alt",
+   "olasilik": 0.8272,
+   "adil_oran": 1.21,
+   "en_olasi": "Şili 3,5 Alt",
+   "en_olasi_p": 0.8272,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili 1,5 Üst",
+     0.6353
+    ],
+    [
+     "Şili 1,5 Alt",
+     0.3647
+    ],
+    [
+     "Şili 2,5 Üst",
+     0.3677
+    ],
+    [
+     "Şili 2,5 Alt",
+     0.6323
+    ],
+    [
+     "Şili 3,5 Üst",
+     0.1728
+    ],
+    [
+     "Şili 3,5 Alt",
+     0.8272
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Kolombiya Toplam",
+   "oneri": "Kolombiya 1,5 Üst",
+   "olasilik": 0.5608,
+   "adil_oran": 1.78,
+   "en_olasi": "Kolombiya 0,5 Üst",
+   "en_olasi_p": 0.8477,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Kolombiya 0,5 Üst",
+     0.8477
+    ],
+    [
+     "Kolombiya 0,5 Alt",
+     0.1523
+    ],
+    [
+     "Kolombiya 1,5 Üst",
+     0.5608
+    ],
+    [
+     "Kolombiya 1,5 Alt",
+     0.4392
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : 2. Yarı",
+   "oneri": "Toplam 6,5 Alt",
+   "olasilik": 0.824,
+   "adil_oran": 1.21,
+   "en_olasi": "Toplam 6,5 Alt",
+   "en_olasi_p": 0.824,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 4,5 Üst",
+     0.4779
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.5221
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.307
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.693
+    ],
+    [
+     "Toplam 6,5 Üst",
+     0.176
+    ],
+    [
+     "Toplam 6,5 Alt",
+     0.824
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : İlk Korner",
+   "oneri": "Şili",
+   "olasilik": 0.5239,
+   "adil_oran": 1.91,
+   "en_olasi": "Şili",
+   "en_olasi_p": 0.5239,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili",
+     0.5239
+    ],
+    [
+     "Kolombiya",
+     0.4759
+    ],
+    [
+     "Korner yok",
+     0.0002
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Son Korner",
+   "oneri": "Şili",
+   "olasilik": 0.5256,
+   "adil_oran": 1.9,
+   "en_olasi": "Şili",
+   "en_olasi_p": 0.5256,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili",
+     0.5256
+    ],
+    [
+     "Kolombiya",
+     0.4742
+    ],
+    [
+     "Korner yok",
+     0.0002
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "En Fazla Korner Olan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.5007,
+   "adil_oran": 2.0,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.5007,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.3631
+    ],
+    [
+     "Eşit",
+     0.1362
+    ],
+    [
+     "2. Yarı",
+     0.5007
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan : Sonuç",
+   "oneri": "2 (Kolombiya)",
+   "olasilik": 0.4479,
+   "adil_oran": 2.23,
+   "en_olasi": "2 (Kolombiya)",
+   "en_olasi_p": 0.4479,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "1 (Şili)",
+     0.3762
+    ],
+    [
+     "X",
+     0.176
+    ],
+    [
+     "2 (Kolombiya)",
+     0.4479
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan Handikapı",
+   "oneri": "Kolombiya +15,5",
+   "olasilik": 0.788,
+   "adil_oran": 1.27,
+   "en_olasi": "Kolombiya +15,5",
+   "en_olasi_p": 0.788,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Şili -15,5",
+     0.212
+    ],
+    [
+     "Kolombiya +15,5",
+     0.788
+    ],
+    [
+     "Şili -5,5",
+     0.3679
+    ],
+    [
+     "Kolombiya +5,5",
+     0.6321
+    ],
+    [
+     "Şili +5,5",
+     0.5599
+    ],
+    [
+     "Kolombiya -5,5",
+     0.44
+    ],
+    [
+     "Şili +15,5",
+     0.7321
+    ],
+    [
+     "Kolombiya -15,5",
+     0.2679
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam Puan",
+   "oneri": "Toplam 25,5 Üst",
+   "olasilik": 0.8136,
+   "adil_oran": 1.23,
+   "en_olasi": "Toplam 25,5 Üst",
+   "en_olasi_p": 0.8136,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 25,5 Üst",
+     0.8136
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.1864
+    ],
+    [
+     "Toplam 35,5 Üst",
+     0.6448
+    ],
+    [
+     "Toplam 35,5 Alt",
+     0.3552
+    ],
+    [
+     "Toplam 45,5 Üst",
+     0.4625
+    ],
+    [
+     "Toplam 45,5 Alt",
+     0.5375
+    ],
+    [
+     "Toplam 55,5 Üst",
+     0.3013
+    ],
+    [
+     "Toplam 55,5 Alt",
+     0.6987
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Şili : Toplam Kart Puanı",
+   "oneri": "Şili 25,5 Alt",
+   "olasilik": 0.6415,
+   "adil_oran": 1.56,
+   "en_olasi": "Şili 5,5 Üst",
+   "en_olasi_p": 0.8715,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Şili 5,5 Üst",
+     0.8715
+    ],
+    [
+     "Şili 5,5 Alt",
+     0.1285
+    ],
+    [
+     "Şili 15,5 Üst",
+     0.6173
+    ],
+    [
+     "Şili 15,5 Alt",
+     0.3827
+    ],
+    [
+     "Şili 25,5 Üst",
+     0.3585
+    ],
+    [
+     "Şili 25,5 Alt",
+     0.6415
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Kolombiya : Toplam Kart Puanı",
+   "oneri": "Kolombiya 35,5 Alt",
+   "olasilik": 0.7836,
+   "adil_oran": 1.28,
+   "en_olasi": "Kolombiya 5,5 Üst",
+   "en_olasi_p": 0.8953,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Kolombiya 5,5 Üst",
+     0.8953
+    ],
+    [
+     "Kolombiya 5,5 Alt",
+     0.1047
+    ],
+    [
+     "Kolombiya 15,5 Üst",
+     0.6671
+    ],
+    [
+     "Kolombiya 15,5 Alt",
+     0.3329
+    ],
+    [
+     "Kolombiya 25,5 Üst",
+     0.4133
+    ],
+    [
+     "Kolombiya 25,5 Alt",
+     0.5867
+    ],
+    [
+     "Kolombiya 35,5 Üst",
+     0.2164
+    ],
+    [
+     "Kolombiya 35,5 Alt",
+     0.7836
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam (Aralıklar)",
+   "oneri": "21-40 puan",
+   "olasilik": 0.3403,
+   "adil_oran": 2.94,
+   "en_olasi": "21-40 puan",
+   "en_olasi_p": 0.3403,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "0-20 puan",
+     0.1854
+    ],
+    [
+     "21-40 puan",
+     0.3403
+    ],
+    [
+     "41-60 puan",
+     0.2739
+    ],
+    [
+     "61+ puan",
+     0.1755
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Toplam Kart Puanı",
+   "oneri": "Toplam 5,5 Üst",
+   "olasilik": 0.787,
+   "adil_oran": 1.27,
+   "en_olasi": "Toplam 5,5 Üst",
+   "en_olasi_p": 0.787,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 5,5 Üst",
+     0.787
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.213
+    ],
+    [
+     "Toplam 15,5 Üst",
+     0.4693
+    ],
+    [
+     "Toplam 15,5 Alt",
+     0.5307
+    ],
+    [
+     "Toplam 25,5 Üst",
+     0.2201
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.7799
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Şili : Toplam Kart Puanı",
+   "oneri": "Şili 15,5 Alt",
+   "olasilik": 0.8194,
+   "adil_oran": 1.22,
+   "en_olasi": "Şili 15,5 Alt",
+   "en_olasi_p": 0.8194,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Şili 5,5 Üst",
+     0.5204
+    ],
+    [
+     "Şili 5,5 Alt",
+     0.4796
+    ],
+    [
+     "Şili 15,5 Üst",
+     0.1806
+    ],
+    [
+     "Şili 15,5 Alt",
+     0.8194
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Kolombiya : Toplam Kart Puanı",
+   "oneri": "Kolombiya 15,5 Alt",
+   "olasilik": 0.7948,
+   "adil_oran": 1.26,
+   "en_olasi": "Kolombiya 15,5 Alt",
+   "en_olasi_p": 0.7948,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Kolombiya 5,5 Üst",
+     0.5556
+    ],
+    [
+     "Kolombiya 5,5 Alt",
+     0.4444
+    ],
+    [
+     "Kolombiya 15,5 Üst",
+     0.2052
+    ],
+    [
+     "Kolombiya 15,5 Alt",
+     0.7948
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Şili : Toplam Kart Puanı",
+   "oneri": "Şili 5,5 Üst",
+   "olasilik": 0.732,
+   "adil_oran": 1.37,
+   "en_olasi": "Şili 5,5 Üst",
+   "en_olasi_p": 0.732,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Şili 5,5 Üst",
+     0.732
+    ],
+    [
+     "Şili 5,5 Alt",
+     0.268
+    ],
+    [
+     "Şili 15,5 Üst",
+     0.3919
+    ],
+    [
+     "Şili 15,5 Alt",
+     0.6081
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Kolombiya : Toplam Kart Puanı",
+   "oneri": "Kolombiya 25,5 Alt",
+   "olasilik": 0.8026,
+   "adil_oran": 1.25,
+   "en_olasi": "Kolombiya 25,5 Alt",
+   "en_olasi_p": 0.8026,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Kolombiya 5,5 Üst",
+     0.7648
+    ],
+    [
+     "Kolombiya 5,5 Alt",
+     0.2352
+    ],
+    [
+     "Kolombiya 15,5 Üst",
+     0.4367
+    ],
+    [
+     "Kolombiya 15,5 Alt",
+     0.5633
+    ],
+    [
+     "Kolombiya 25,5 Üst",
+     0.1974
+    ],
+    [
+     "Kolombiya 25,5 Alt",
+     0.8026
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Direkt Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9336,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9336,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0664
+    ],
+    [
+     "Hayır",
+     0.9336
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Yarıda Kart Olur",
+   "oneri": "Evet",
+   "olasilik": 0.7378,
+   "adil_oran": 1.36,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7378,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7378
+    ],
+    [
+     "Hayır",
+     0.2622
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kırmızı Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.996,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.996,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.004
+    ],
+    [
+     "Hayır",
+     0.996
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kart Alır",
+   "oneri": "Evet",
+   "olasilik": 0.7804,
+   "adil_oran": 1.28,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7804,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7804
+    ],
+    [
+     "Hayır",
+     0.2196
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Kart Görür",
+   "oneri": "Hayır",
+   "olasilik": 0.5938,
+   "adil_oran": 1.68,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5938,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4062
+    ],
+    [
+     "Hayır",
+     0.5938
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Her İki Yarıda Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.838,
+   "adil_oran": 1.19,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.838,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.162
+    ],
+    [
+     "Hayır",
+     0.838
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İlk Kartı Görecek Takım",
+   "oneri": "Kolombiya",
+   "olasilik": 0.5161,
+   "adil_oran": 1.94,
+   "en_olasi": "Kolombiya",
+   "en_olasi_p": 0.5161,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili",
+     0.4704
+    ],
+    [
+     "Kolombiya",
+     0.5161
+    ],
+    [
+     "Kart yok",
+     0.0136
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Son Kartı Görecek Takım",
+   "oneri": "Kolombiya",
+   "olasilik": 0.5166,
+   "adil_oran": 1.94,
+   "en_olasi": "Kolombiya",
+   "en_olasi_p": 0.5166,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili",
+     0.4698
+    ],
+    [
+     "Kolombiya",
+     0.5166
+    ],
+    [
+     "Kart yok",
+     0.0136
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Maçta Penaltı, Kırmızı Kart ve Kendi Kalesine Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9982,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9982,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0018
+    ],
+    [
+     "Hayır",
+     0.9982
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarı Uzatma Dakikalarında Kart Gösterilir (90+ dak)",
+   "oneri": "Hayır",
+   "olasilik": 0.7159,
+   "adil_oran": 1.4,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7159,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2841
+    ],
+    [
+     "Hayır",
+     0.7159
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarının Uzatma Dakikalarında Kırmızı Kart veya Gol Olur (90+ dakika)",
+   "oneri": "Hayır",
+   "olasilik": 0.8628,
+   "adil_oran": 1.16,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8628,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1372
+    ],
+    [
+     "Hayır",
+     0.8628
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Toplam Kırmızı Kartlar",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.9922,
+   "adil_oran": 1.01,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9922,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.1209
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.8791
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0078
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9922
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Şili : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9376,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9376,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0624
+    ],
+    [
+     "Hayır",
+     0.9376
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Kolombiya : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9375,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9375,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0625
+    ],
+    [
+     "Hayır",
+     0.9375
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "1. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9575,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9575,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0425
+    ],
+    [
+     "Hayır",
+     0.9575
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "2. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9181,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9181,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0819
+    ],
+    [
+     "Hayır",
+     0.9181
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Sonuç",
+   "oneri": "2 (Kolombiya)",
+   "olasilik": 0.4396,
+   "adil_oran": 2.27,
+   "en_olasi": "2 (Kolombiya)",
+   "en_olasi_p": 0.4396,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Şili)",
+     0.362
+    ],
+    [
+     "X",
+     0.1984
+    ],
+    [
+     "2 (Kolombiya)",
+     0.4396
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.8016,
+   "adil_oran": 1.25,
+   "en_olasi": "12",
+   "en_olasi_p": 0.8016,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.5604
+    ],
+    [
+     "12",
+     0.8016
+    ],
+    [
+     "X2",
+     0.638
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Handikap",
+   "oneri": "Kolombiya +1,5",
+   "olasilik": 0.8026,
+   "adil_oran": 1.25,
+   "en_olasi": "Kolombiya +1,5",
+   "en_olasi_p": 0.8026,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili -1,5",
+     0.1974
+    ],
+    [
+     "Kolombiya +1,5",
+     0.8026
+    ],
+    [
+     "Şili -0,5",
+     0.362
+    ],
+    [
+     "Kolombiya +0,5",
+     0.638
+    ],
+    [
+     "Şili +0,5",
+     0.5604
+    ],
+    [
+     "Kolombiya -0,5",
+     0.4396
+    ],
+    [
+     "Şili +1,5",
+     0.7439
+    ],
+    [
+     "Kolombiya -1,5",
+     0.2561
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Toplam",
+   "oneri": "Toplam 2,5 Üst",
+   "olasilik": 0.7965,
+   "adil_oran": 1.26,
+   "en_olasi": "Toplam 2,5 Üst",
+   "en_olasi_p": 0.7965,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 2,5 Üst",
+     0.7965
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.2035
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.6127
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.3873
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.4194
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.5806
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.2561
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.7439
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Şili : Toplam",
+   "oneri": "Şili 2,5 Alt",
+   "olasilik": 0.6711,
+   "adil_oran": 1.49,
+   "en_olasi": "Şili 0,5 Üst",
+   "en_olasi_p": 0.8669,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili 0,5 Üst",
+     0.8669
+    ],
+    [
+     "Şili 0,5 Alt",
+     0.1331
+    ],
+    [
+     "Şili 1,5 Üst",
+     0.6001
+    ],
+    [
+     "Şili 1,5 Alt",
+     0.3999
+    ],
+    [
+     "Şili 2,5 Üst",
+     0.329
+    ],
+    [
+     "Şili 2,5 Alt",
+     0.6711
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Kolombiya : Toplam",
+   "oneri": "Kolombiya 3,5 Alt",
+   "olasilik": 0.8142,
+   "adil_oran": 1.23,
+   "en_olasi": "Kolombiya 0,5 Üst",
+   "en_olasi_p": 0.8918,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Kolombiya 0,5 Üst",
+     0.8918
+    ],
+    [
+     "Kolombiya 0,5 Alt",
+     0.1082
+    ],
+    [
+     "Kolombiya 1,5 Üst",
+     0.6521
+    ],
+    [
+     "Kolombiya 1,5 Alt",
+     0.3479
+    ],
+    [
+     "Kolombiya 2,5 Üst",
+     0.3861
+    ],
+    [
+     "Kolombiya 2,5 Alt",
+     0.6139
+    ],
+    [
+     "Kolombiya 3,5 Üst",
+     0.1858
+    ],
+    [
+     "Kolombiya 3,5 Alt",
+     0.8142
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Sonucu",
+   "oneri": "X",
+   "olasilik": 0.3643,
+   "adil_oran": 2.74,
+   "en_olasi": "X",
+   "en_olasi_p": 0.3643,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Şili)",
+     0.2962
+    ],
+    [
+     "X",
+     0.3643
+    ],
+    [
+     "2 (Kolombiya)",
+     0.3395
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Handikap",
+   "oneri": "Kolombiya +0,5",
+   "olasilik": 0.7038,
+   "adil_oran": 1.42,
+   "en_olasi": "Kolombiya +0,5",
+   "en_olasi_p": 0.7038,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili -0,5",
+     0.2962
+    ],
+    [
+     "Kolombiya +0,5",
+     0.7038
+    ],
+    [
+     "Şili +0,5",
+     0.6605
+    ],
+    [
+     "Kolombiya -0,5",
+     0.3395
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı : Toplam",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.804,
+   "adil_oran": 1.24,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.804,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7806
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2193
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.4506
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.5494
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.196
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.804
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Şili Toplam",
+   "oneri": "Şili 1,5 Alt",
+   "olasilik": 0.8347,
+   "adil_oran": 1.2,
+   "en_olasi": "Şili 1,5 Alt",
+   "en_olasi_p": 0.8347,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili 0,5 Üst",
+     0.5134
+    ],
+    [
+     "Şili 0,5 Alt",
+     0.4866
+    ],
+    [
+     "Şili 1,5 Üst",
+     0.1653
+    ],
+    [
+     "Şili 1,5 Alt",
+     0.8347
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Kolombiya Toplam",
+   "oneri": "Kolombiya 1,5 Alt",
+   "olasilik": 0.8091,
+   "adil_oran": 1.24,
+   "en_olasi": "Kolombiya 1,5 Alt",
+   "en_olasi_p": 0.8091,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Kolombiya 0,5 Üst",
+     0.5492
+    ],
+    [
+     "Kolombiya 0,5 Alt",
+     0.4508
+    ],
+    [
+     "Kolombiya 1,5 Üst",
+     0.1909
+    ],
+    [
+     "Kolombiya 1,5 Alt",
+     0.8091
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Sonuç",
+   "oneri": "2 (Kolombiya)",
+   "olasilik": 0.4029,
+   "adil_oran": 2.48,
+   "en_olasi": "2 (Kolombiya)",
+   "en_olasi_p": 0.4029,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Şili)",
+     0.3432
+    ],
+    [
+     "X",
+     0.2538
+    ],
+    [
+     "2 (Kolombiya)",
+     0.4029
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Handikap",
+   "oneri": "Kolombiya +0,5",
+   "olasilik": 0.6568,
+   "adil_oran": 1.52,
+   "en_olasi": "Kolombiya +0,5",
+   "en_olasi_p": 0.6568,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili -0,5",
+     0.3432
+    ],
+    [
+     "Kolombiya +0,5",
+     0.6568
+    ],
+    [
+     "Şili +0,5",
+     0.5971
+    ],
+    [
+     "Kolombiya -0,5",
+     0.4029
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Toplam",
+   "oneri": "Toplam 1,5 Üst",
+   "olasilik": 0.7565,
+   "adil_oran": 1.32,
+   "en_olasi": "Toplam 1,5 Üst",
+   "en_olasi_p": 0.7565,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 1,5 Üst",
+     0.7565
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.2435
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.5141
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.4859
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.2914
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.7086
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Şili Toplam",
+   "oneri": "Şili 0,5 Üst",
+   "olasilik": 0.7265,
+   "adil_oran": 1.38,
+   "en_olasi": "Şili 0,5 Üst",
+   "en_olasi_p": 0.7265,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili 0,5 Üst",
+     0.7265
+    ],
+    [
+     "Şili 0,5 Alt",
+     0.2735
+    ],
+    [
+     "Şili 1,5 Üst",
+     0.3734
+    ],
+    [
+     "Şili 1,5 Alt",
+     0.6266
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : İlk Sarı Kartı Görür",
+   "oneri": "Kolombiya",
+   "olasilik": 0.5164,
+   "adil_oran": 1.94,
+   "en_olasi": "Kolombiya",
+   "en_olasi_p": 0.5164,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili",
+     0.469
+    ],
+    [
+     "Kolombiya",
+     0.5164
+    ],
+    [
+     "Sarı kart yok",
+     0.0146
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Son Sarı Kartı Görür",
+   "oneri": "Kolombiya",
+   "olasilik": 0.5168,
+   "adil_oran": 1.94,
+   "en_olasi": "Kolombiya",
+   "en_olasi_p": 0.5168,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şili",
+     0.4687
+    ],
+    [
+     "Kolombiya",
+     0.5168
+    ],
+    [
+     "Sarı kart yok",
+     0.0146
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7958,
+   "adil_oran": 1.26,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7958,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2042
+    ],
+    [
+     "Hayır",
+     0.7958
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Şili : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8972,
+   "adil_oran": 1.11,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8972,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1028
+    ],
+    [
+     "Hayır",
+     0.8972
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Kolombiya : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8871,
+   "adil_oran": 1.13,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8871,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1129
+    ],
+    [
+     "Hayır",
+     0.8871
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "İki Takım da Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9885,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9885,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0115
+    ],
+    [
+     "Hayır",
+     0.9885
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta İki Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9777,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9777,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0223
+    ],
+    [
+     "Hayır",
+     0.9777
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "1. Yarı : Penaltı",
+   "oneri": "Hayır",
+   "olasilik": 0.9057,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9057,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0943
+    ],
+    [
+     "Hayır",
+     0.9057
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltıdan Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8393,
+   "adil_oran": 1.19,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8393,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1607
+    ],
+    [
+     "Hayır",
+     0.8393
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı Kaçırır",
+   "oneri": "Hayır",
+   "olasilik": 0.9481,
+   "adil_oran": 1.05,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9481,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0519
+    ],
+    [
+     "Hayır",
+     0.9481
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı ve Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9751,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9751,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0249
+    ],
+    [
+     "Hayır",
+     0.9751
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı veya Kırmızı Kart Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.6998,
+   "adil_oran": 1.43,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6998,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3002
+    ],
+    [
+     "Hayır",
+     0.6998
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Herhangi Bir Zamanda Gol Atar",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.3019,
+   "adil_oran": 3.31,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.3019,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.3019
+    ],
+    [
+     "Jhon Arias",
+     0.1447
+    ],
+    [
+     "Darío Osorio",
+     0.1399
+    ],
+    [
+     "Gonzalo Tapia",
+     0.1172
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.1094
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İlk Golcü",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.1171,
+   "adil_oran": 8.54,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.1171,
+   "guven": "düşük",
+   "not_": "Takımın ilk golü × oyuncu payı",
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.1171
+    ],
+    [
+     "Jhon Arias",
+     0.0683
+    ],
+    [
+     "Darío Osorio",
+     0.0676
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0563
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0526
+    ],
+    [
+     "Gol yok",
+     0.11
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İlk Golcü Çifte Şans",
+   "oneri": "Luis Suárez ilk golü veya ikinci golü",
+   "olasilik": 0.2173,
+   "adil_oran": 4.6,
+   "en_olasi": "Luis Suárez ilk golü veya ikinci golü",
+   "en_olasi_p": 0.2173,
+   "guven": "düşük",
+   "not_": "Yaklaşık",
+   "secimler": [
+    [
+     "Luis Suárez ilk golü veya ikinci golü",
+     0.2173
+    ],
+    [
+     "Jhon Arias ilk golü veya ikinci golü",
+     0.1267
+    ],
+    [
+     "Darío Osorio ilk golü veya ikinci golü",
+     0.1254
+    ],
+    [
+     "Gonzalo Tapia ilk golü veya ikinci golü",
+     0.1045
+    ],
+    [
+     "Maximiliano Gutiérrez ilk golü veya ikinci golü",
+     0.0975
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Son Golcü",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.118,
+   "adil_oran": 8.48,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.118,
+   "guven": "düşük",
+   "not_": "Yaklaşık",
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.118
+    ],
+    [
+     "Jhon Arias",
+     0.0688
+    ],
+    [
+     "Darío Osorio",
+     0.0669
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0558
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.052
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Şili : İlk Golü Atar",
+   "oneri": "Darío Osorio",
+   "olasilik": 0.1105,
+   "adil_oran": 9.05,
+   "en_olasi": "Darío Osorio",
+   "en_olasi_p": 0.1105,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Darío Osorio",
+     0.1105
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0921
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0859
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Kolombiya : İlk Golü Atar",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.1717,
+   "adil_oran": 5.83,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.1717,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.1717
+    ],
+    [
+     "Jhon Arias",
+     0.1001
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Şili : Son Golcü",
+   "oneri": "Darío Osorio",
+   "olasilik": 0.1105,
+   "adil_oran": 9.05,
+   "en_olasi": "Darío Osorio",
+   "en_olasi_p": 0.1105,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Darío Osorio",
+     0.1105
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0921
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0859
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Kolombiya : Son Golü Atar",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.1717,
+   "adil_oran": 5.83,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.1717,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.1717
+    ],
+    [
+     "Jhon Arias",
+     0.1001
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu En Az 2 Gol Atar",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.0505,
+   "adil_oran": 19.8,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.0505,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.0505
+    ],
+    [
+     "Jhon Arias",
+     0.0107
+    ],
+    [
+     "Darío Osorio",
+     0.0106
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0072
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0062
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu En Az 3 Gol Atar",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.006,
+   "adil_oran": 166.67,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.006,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.006
+    ],
+    [
+     "Darío Osorio",
+     0.0005
+    ],
+    [
+     "Jhon Arias",
+     0.0005
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0003
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0002
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 4 veya Daha Çok Gol Atar",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.0004,
+   "adil_oran": 2222.22,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.0004,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.0004
+    ],
+    [
+     "Darío Osorio",
+     0.0
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0
+    ],
+    [
+     "Jhon Arias",
+     0.0
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Herhangi Bir Zaman Gol Atar Çifte Şans",
+   "oneri": "Luis Suárez veya Jhon Arias",
+   "olasilik": 0.4033,
+   "adil_oran": 2.48,
+   "en_olasi": "Luis Suárez veya Jhon Arias",
+   "en_olasi_p": 0.4033,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez veya Jhon Arias",
+     0.4033
+    ],
+    [
+     "Darío Osorio veya Luis Suárez",
+     0.3991
+    ],
+    [
+     "Gonzalo Tapia veya Luis Suárez",
+     0.384
+    ],
+    [
+     "Maximiliano Gutiérrez veya Luis Suárez",
+     0.3783
+    ],
+    [
+     "Darío Osorio veya Jhon Arias",
+     0.2645
+    ],
+    [
+     "Gonzalo Tapia veya Jhon Arias",
+     0.2455
+    ],
+    [
+     "Darío Osorio veya Gonzalo Tapia",
+     0.2407
+    ],
+    [
+     "Maximiliano Gutiérrez veya Jhon Arias",
+     0.2384
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar",
+   "oneri": "Luis Suárez ve Jhon Arias",
+   "olasilik": 0.0433,
+   "adil_oran": 23.07,
+   "en_olasi": "Luis Suárez ve Jhon Arias",
+   "en_olasi_p": 0.0433,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez ve Jhon Arias",
+     0.0433
+    ],
+    [
+     "Darío Osorio ve Luis Suárez",
+     0.0428
+    ],
+    [
+     "Gonzalo Tapia ve Luis Suárez",
+     0.0351
+    ],
+    [
+     "Maximiliano Gutiérrez ve Luis Suárez",
+     0.033
+    ],
+    [
+     "Darío Osorio ve Jhon Arias",
+     0.0202
+    ],
+    [
+     "Darío Osorio ve Gonzalo Tapia",
+     0.0164
+    ],
+    [
+     "Gonzalo Tapia ve Jhon Arias",
+     0.0164
+    ],
+    [
+     "Maximiliano Gutiérrez ve Jhon Arias",
+     0.0157
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "2 Oyuncu Toplamda Üst 1.5 Gol Atar",
+   "oneri": "Luis Suárez + Jhon Arias",
+   "olasilik": 0.0941,
+   "adil_oran": 10.63,
+   "en_olasi": "Luis Suárez + Jhon Arias",
+   "en_olasi_p": 0.0941,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez + Jhon Arias",
+     0.0941
+    ],
+    [
+     "Darío Osorio + Luis Suárez",
+     0.0934
+    ],
+    [
+     "Gonzalo Tapia + Luis Suárez",
+     0.0848
+    ],
+    [
+     "Maximiliano Gutiérrez + Luis Suárez",
+     0.0828
+    ],
+    [
+     "Darío Osorio + Jhon Arias",
+     0.0387
+    ],
+    [
+     "Gonzalo Tapia + Jhon Arias",
+     0.0323
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "2 Oyuncu Toplamda Üst 2.5 Gol Atar",
+   "oneri": "Darío Osorio + Luis Suárez",
+   "olasilik": 0.0155,
+   "adil_oran": 64.72,
+   "en_olasi": "Darío Osorio + Luis Suárez",
+   "en_olasi_p": 0.0155,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Darío Osorio + Luis Suárez",
+     0.0155
+    ],
+    [
+     "Luis Suárez + Jhon Arias",
+     0.0152
+    ],
+    [
+     "Gonzalo Tapia + Luis Suárez",
+     0.013
+    ],
+    [
+     "Maximiliano Gutiérrez + Luis Suárez",
+     0.0122
+    ],
+    [
+     "Darío Osorio + Jhon Arias",
+     0.0036
+    ],
+    [
+     "Darío Osorio + Gonzalo Tapia",
+     0.0031
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "2 Oyuncu Toplamda Üst 3.5 Gol Atar",
+   "oneri": "Luis Suárez + Jhon Arias",
+   "olasilik": 0.0021,
+   "adil_oran": 478.09,
+   "en_olasi": "Luis Suárez + Jhon Arias",
+   "en_olasi_p": 0.0021,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez + Jhon Arias",
+     0.0021
+    ],
+    [
+     "Darío Osorio + Luis Suárez",
+     0.0018
+    ],
+    [
+     "Gonzalo Tapia + Luis Suárez",
+     0.0016
+    ],
+    [
+     "Maximiliano Gutiérrez + Luis Suárez",
+     0.0014
+    ],
+    [
+     "Darío Osorio + Jhon Arias",
+     0.0003
+    ],
+    [
+     "Gonzalo Tapia + Jhon Arias",
+     0.0002
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 1. Yarıda Gol Atar",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.1384,
+   "adil_oran": 7.23,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.1384,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.1384
+    ],
+    [
+     "Jhon Arias",
+     0.0635
+    ],
+    [
+     "Darío Osorio",
+     0.0618
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0513
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.049
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 2. Yarıda Gol Atar",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.1807,
+   "adil_oran": 5.53,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.1807,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.1807
+    ],
+    [
+     "Jhon Arias",
+     0.0847
+    ],
+    [
+     "Darío Osorio",
+     0.0817
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0682
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0624
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Her İki Yarıda da Gol Atar",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.0172,
+   "adil_oran": 58.17,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.0172,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.0172
+    ],
+    [
+     "Darío Osorio",
+     0.0035
+    ],
+    [
+     "Jhon Arias",
+     0.0034
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0023
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.002
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İlk 10 Dakikada Gol Atar",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.0351,
+   "adil_oran": 28.46,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.0351,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.0351
+    ],
+    [
+     "Jhon Arias",
+     0.0158
+    ],
+    [
+     "Darío Osorio",
+     0.015
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0126
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0114
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Penaltıdan Gol Atar",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.0877,
+   "adil_oran": 11.41,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.0877,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.0877
+    ],
+    [
+     "Darío Osorio",
+     0.0
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0
+    ],
+    [
+     "Jhon Arias",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Gol Atar",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.0416,
+   "adil_oran": 24.01,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.0416,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.0416
+    ],
+    [
+     "Jhon Arias",
+     0.0185
+    ],
+    [
+     "Darío Osorio",
+     0.0179
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0153
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0137
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kale Sahası İçinden Gol Atar",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.0691,
+   "adil_oran": 14.47,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.0691,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.0691
+    ],
+    [
+     "Jhon Arias",
+     0.0312
+    ],
+    [
+     "Darío Osorio",
+     0.0292
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0246
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0229
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kafa Golü Atar",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.0597,
+   "adil_oran": 16.75,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.0597,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.0597
+    ],
+    [
+     "Jhon Arias",
+     0.026
+    ],
+    [
+     "Darío Osorio",
+     0.0259
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0207
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0195
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Serbest Vuruştan Gol Atar",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.0106,
+   "adil_oran": 94.12,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.0106,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.0106
+    ],
+    [
+     "Jhon Arias",
+     0.0047
+    ],
+    [
+     "Darío Osorio",
+     0.0043
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0038
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0035
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sağ Ayağıyla Gol Atar",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.1794,
+   "adil_oran": 5.57,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.1794,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.1794
+    ],
+    [
+     "Jhon Arias",
+     0.0826
+    ],
+    [
+     "Darío Osorio",
+     0.0798
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0663
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0619
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Takımı Kazanır",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.2068,
+   "adil_oran": 4.84,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.2068,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.2068
+    ],
+    [
+     "Jhon Arias",
+     0.1018
+    ],
+    [
+     "Darío Osorio",
+     0.0767
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0649
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0606
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Rakip Takım Kazanır",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.0343,
+   "adil_oran": 29.14,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.0343,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.0343
+    ],
+    [
+     "Darío Osorio",
+     0.0288
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0236
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0213
+    ],
+    [
+     "Jhon Arias",
+     0.0157
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Maç Berabere Biter",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.0608,
+   "adil_oran": 16.45,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.0608,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.0608
+    ],
+    [
+     "Darío Osorio",
+     0.0344
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0286
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0275
+    ],
+    [
+     "Jhon Arias",
+     0.0273
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Asist Yapar",
+   "oneri": "Jhon Arias",
+   "olasilik": 0.135,
+   "adil_oran": 7.41,
+   "en_olasi": "Jhon Arias",
+   "en_olasi_p": 0.135,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Jhon Arias",
+     0.135
+    ],
+    [
+     "Darío Osorio",
+     0.0698
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0584
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0578
+    ],
+    [
+     "Luis Suárez",
+     0.0473
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar veya Asist Yapar",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.3271,
+   "adil_oran": 3.06,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.3271,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.3271
+    ],
+    [
+     "Jhon Arias",
+     0.2449
+    ],
+    [
+     "Darío Osorio",
+     0.1897
+    ],
+    [
+     "Gonzalo Tapia",
+     0.1609
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.1537
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar veya Asist Yapar (Çifte Şans)",
+   "oneri": "Luis Suárez veya Jhon Arias gol/asist",
+   "olasilik": 0.4708,
+   "adil_oran": 2.12,
+   "en_olasi": "Luis Suárez veya Jhon Arias gol/asist",
+   "en_olasi_p": 0.4708,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez veya Jhon Arias gol/asist",
+     0.4708
+    ],
+    [
+     "Darío Osorio veya Luis Suárez gol/asist",
+     0.4544
+    ],
+    [
+     "Gonzalo Tapia veya Luis Suárez gol/asist",
+     0.4357
+    ],
+    [
+     "Maximiliano Gutiérrez veya Luis Suárez gol/asist",
+     0.4305
+    ],
+    [
+     "Darío Osorio veya Jhon Arias gol/asist",
+     0.3886
+    ],
+    [
+     "Gonzalo Tapia veya Jhon Arias gol/asist",
+     0.3665
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Asist Yapar",
+   "oneri": "Jhon Arias",
+   "olasilik": 0.0348,
+   "adil_oran": 28.74,
+   "en_olasi": "Jhon Arias",
+   "en_olasi_p": 0.0348,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Jhon Arias",
+     0.0348
+    ],
+    [
+     "Luis Suárez",
+     0.022
+    ],
+    [
+     "Darío Osorio",
+     0.02
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0147
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0134
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Gol Asisti Yapar Çifte Şans",
+   "oneri": "Darío Osorio veya Jhon Arias asist",
+   "olasilik": 0.1957,
+   "adil_oran": 5.11,
+   "en_olasi": "Darío Osorio veya Jhon Arias asist",
+   "en_olasi_p": 0.1957,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Darío Osorio veya Jhon Arias asist",
+     0.1957
+    ],
+    [
+     "Gonzalo Tapia veya Jhon Arias asist",
+     0.1856
+    ],
+    [
+     "Maximiliano Gutiérrez veya Jhon Arias asist",
+     0.185
+    ],
+    [
+     "Luis Suárez veya Jhon Arias asist",
+     0.1755
+    ],
+    [
+     "Darío Osorio veya Gonzalo Tapia asist",
+     0.124
+    ],
+    [
+     "Darío Osorio veya Maximiliano Gutiérrez asist",
+     0.1234
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Penaltı Kaçırır",
+   "oneri": "Luis Suárez",
+   "olasilik": 0.0277,
+   "adil_oran": 36.17,
+   "en_olasi": "Luis Suárez",
+   "en_olasi_p": 0.0277,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Luis Suárez",
+     0.0277
+    ],
+    [
+     "Darío Osorio",
+     0.0
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0
+    ],
+    [
+     "Jhon Arias",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Penaltı Kazandıran Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu bazlı penaltı verisi yok",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kart Görür",
+   "oneri": "Darío Osorio",
+   "olasilik": 0.1209,
+   "adil_oran": 8.27,
+   "en_olasi": "Darío Osorio",
+   "en_olasi_p": 0.1209,
+   "guven": "düşük",
+   "not_": "Oyuncunun kart ihtimali girdiden",
+   "secimler": [
+    [
+     "Darío Osorio",
+     0.1209
+    ],
+    [
+     "Jhon Arias",
+     0.1196
+    ],
+    [
+     "Gonzalo Tapia",
+     0.1003
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.1001
+    ],
+    [
+     "Luis Suárez",
+     0.099
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kart Görür Çifte Şans",
+   "oneri": "Darío Osorio veya Jhon Arias",
+   "olasilik": 0.2263,
+   "adil_oran": 4.42,
+   "en_olasi": "Darío Osorio veya Jhon Arias",
+   "en_olasi_p": 0.2263,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Darío Osorio veya Jhon Arias",
+     0.2263
+    ],
+    [
+     "Darío Osorio veya Maximiliano Gutiérrez",
+     0.2092
+    ],
+    [
+     "Darío Osorio veya Gonzalo Tapia",
+     0.2092
+    ],
+    [
+     "Maximiliano Gutiérrez veya Jhon Arias",
+     0.2083
+    ],
+    [
+     "Darío Osorio veya Luis Suárez",
+     0.2079
+    ],
+    [
+     "Gonzalo Tapia veya Jhon Arias",
+     0.2076
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sarı Kart Görür",
+   "oneri": "Darío Osorio",
+   "olasilik": 0.1209,
+   "adil_oran": 8.27,
+   "en_olasi": "Darío Osorio",
+   "en_olasi_p": 0.1209,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Darío Osorio",
+     0.1209
+    ],
+    [
+     "Jhon Arias",
+     0.1196
+    ],
+    [
+     "Gonzalo Tapia",
+     0.1003
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.1001
+    ],
+    [
+     "Luis Suárez",
+     0.099
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Kart Görecek İlk Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu sıralaması için yeterli veri yok",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Son Kartı Görecek Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu sıralaması için yeterli veri yok",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyundan Uzaklaştırılır",
+   "oneri": "Darío Osorio",
+   "olasilik": 0.0063,
+   "adil_oran": 158.94,
+   "en_olasi": "Darío Osorio",
+   "en_olasi_p": 0.0063,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Darío Osorio",
+     0.0063
+    ],
+    [
+     "Jhon Arias",
+     0.0055
+    ],
+    [
+     "Maximiliano Gutiérrez",
+     0.0051
+    ],
+    [
+     "Luis Suárez",
+     0.005
+    ],
+    [
+     "Gonzalo Tapia",
+     0.0049
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Şutları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pasları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pas Denemeleri",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncunun Yaptığı Fauller",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncuya Faul Yapılır",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Topa Müdahaleler",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ofsayta Düşer",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Kaleci Kurtarışları",
+   "oneri": "Kolombiya kalecisi 3,5 Alt",
+   "olasilik": 0.8212,
+   "adil_oran": 1.22,
+   "en_olasi": "Kolombiya kalecisi 4,5 Alt",
+   "en_olasi_p": 0.9276,
+   "guven": "düşük",
+   "not_": "Rakibin beklenen golünden türetildi",
+   "secimler": [
+    [
+     "Şili kalecisi 1,5 Üst",
+     0.7799
+    ],
+    [
+     "Şili kalecisi 1,5 Alt",
+     0.2201
+    ],
+    [
+     "Şili kalecisi 2,5 Üst",
+     0.5466
+    ],
+    [
+     "Şili kalecisi 2,5 Alt",
+     0.4534
+    ],
+    [
+     "Şili kalecisi 3,5 Üst",
+     0.3252
+    ],
+    [
+     "Şili kalecisi 3,5 Alt",
+     0.6748
+    ],
+    [
+     "Şili kalecisi 4,5 Üst",
+     0.1639
+    ],
+    [
+     "Şili kalecisi 4,5 Alt",
+     0.8361
+    ],
+    [
+     "Kolombiya kalecisi 1,5 Üst",
+     0.643
+    ],
+    [
+     "Kolombiya kalecisi 1,5 Alt",
+     0.357
+    ],
+    [
+     "Kolombiya kalecisi 2,5 Üst",
+     0.3746
+    ],
+    [
+     "Kolombiya kalecisi 2,5 Alt",
+     0.6254
+    ],
+    [
+     "Kolombiya kalecisi 3,5 Üst",
+     0.1788
+    ],
+    [
+     "Kolombiya kalecisi 3,5 Alt",
+     0.8212
+    ],
+    [
+     "Kolombiya kalecisi 4,5 Üst",
+     0.0724
+    ],
+    [
+     "Kolombiya kalecisi 4,5 Alt",
+     0.9276
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Pas Veren Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Faul Yapan Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 1. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 2. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Her İki Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Çektiği Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kafayla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sağ Ayakla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  }
+ ],
+ "eksik": []
+}
