@@ -1,0 +1,10997 @@
+{
+ "mac": {
+  "organizasyon": "U21 EURO Eleme Play-off, rövanş (ilk maç DAN 0-3 HOL)",
+  "tarih": "17 Kasım 2026, 20:30 TSİ",
+  "stadyum": "Yanmar Hanasaka Stadion",
+  "ilk_yari_gol_payi": 0.41,
+  "korner_guven": "düşük",
+  "kart_guven": "düşük",
+  "var_ort": 0.2
+ },
+ "ev": "Hollanda U21",
+ "dep": "Danimarka U21",
+ "beklenen_gol": [
+  1.55,
+  1.05
+ ],
+ "simulasyon": 120000,
+ "pazarlar": [
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu",
+   "oneri": "1 (Hollanda U21)",
+   "olasilik": 0.489,
+   "adil_oran": 2.05,
+   "en_olasi": "1 (Hollanda U21)",
+   "en_olasi_p": 0.489,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Hollanda U21)",
+     0.489
+    ],
+    [
+     "X",
+     0.2539
+    ],
+    [
+     "2 (Danimarka U21)",
+     0.2571
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.7461,
+   "adil_oran": 1.34,
+   "en_olasi": "12",
+   "en_olasi_p": 0.7461,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.7429
+    ],
+    [
+     "12",
+     0.7461
+    ],
+    [
+     "X2",
+     0.511
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Beraberlikte İade",
+   "oneri": "Hollanda U21",
+   "olasilik": 0.6554,
+   "adil_oran": 1.53,
+   "en_olasi": "Hollanda U21",
+   "en_olasi_p": 0.6554,
+   "guven": "yüksek",
+   "not_": "Beraberlikte iade; olasılık iade hariç",
+   "secimler": [
+    [
+     "Hollanda U21",
+     0.6554
+    ],
+    [
+     "Danimarka U21",
+     0.3446
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Hollanda U21 : Bahis Yok",
+   "oneri": "Danimarka U21",
+   "olasilik": 0.5032,
+   "adil_oran": 1.99,
+   "en_olasi": "Danimarka U21",
+   "en_olasi_p": 0.5032,
+   "guven": "yüksek",
+   "not_": "Hollanda U21 kazanırsa iade",
+   "secimler": [
+    [
+     "X",
+     0.4968
+    ],
+    [
+     "Danimarka U21",
+     0.5032
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Danimarka U21 : Bahis Yok",
+   "oneri": "Hollanda U21",
+   "olasilik": 0.6582,
+   "adil_oran": 1.52,
+   "en_olasi": "Hollanda U21",
+   "en_olasi_p": 0.6582,
+   "guven": "yüksek",
+   "not_": "Danimarka U21 kazanırsa iade",
+   "secimler": [
+    [
+     "Hollanda U21",
+     0.6582
+    ],
+    [
+     "X",
+     0.3418
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Hollanda U21 : Geriden Gelerek Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9322,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9322,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0678
+    ],
+    [
+     "Hayır",
+     0.9322
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Danimarka U21 : Geriden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9591,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9591,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0408
+    ],
+    [
+     "Hayır",
+     0.9591
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Hollanda U21 : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.511,
+   "adil_oran": 1.96,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.511,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.2376
+    ],
+    [
+     "2 fark",
+     0.1495
+    ],
+    [
+     "3 fark",
+     0.0685
+    ],
+    [
+     "4+ fark",
+     0.0334
+    ],
+    [
+     "Kazanamaz",
+     0.511
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Danimarka U21 : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.7429,
+   "adil_oran": 1.35,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.7429,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.1609
+    ],
+    [
+     "2 fark",
+     0.0691
+    ],
+    [
+     "3 fark",
+     0.0208
+    ],
+    [
+     "4+ fark",
+     0.0063
+    ],
+    [
+     "Kazanamaz",
+     0.7429
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller",
+   "oneri": "Toplam 1,5 Üst",
+   "olasilik": 0.7338,
+   "adil_oran": 1.36,
+   "en_olasi": "Toplam 5,5 Alt",
+   "en_olasi_p": 0.9507,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.9255
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.0745
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.7338
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.2662
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.4836
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.5164
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.2662
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.7338
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.1229
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.8771
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.0493
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.9507
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Hollanda U21 : Toplam Gol",
+   "oneri": "Hollanda U21 2,5 Alt",
+   "olasilik": 0.7957,
+   "adil_oran": 1.26,
+   "en_olasi": "Hollanda U21 3,5 Alt",
+   "en_olasi_p": 0.928,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 0,5 Üst",
+     0.7892
+    ],
+    [
+     "Hollanda U21 0,5 Alt",
+     0.2108
+    ],
+    [
+     "Hollanda U21 1,5 Üst",
+     0.4605
+    ],
+    [
+     "Hollanda U21 1,5 Alt",
+     0.5395
+    ],
+    [
+     "Hollanda U21 2,5 Üst",
+     0.2043
+    ],
+    [
+     "Hollanda U21 2,5 Alt",
+     0.7957
+    ],
+    [
+     "Hollanda U21 3,5 Üst",
+     0.072
+    ],
+    [
+     "Hollanda U21 3,5 Alt",
+     0.928
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Danimarka U21 : Toplam Gol",
+   "oneri": "Danimarka U21 1,5 Alt",
+   "olasilik": 0.7157,
+   "adil_oran": 1.4,
+   "en_olasi": "Danimarka U21 3,5 Alt",
+   "en_olasi_p": 0.9777,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Danimarka U21 0,5 Üst",
+     0.6503
+    ],
+    [
+     "Danimarka U21 0,5 Alt",
+     0.3497
+    ],
+    [
+     "Danimarka U21 1,5 Üst",
+     0.2843
+    ],
+    [
+     "Danimarka U21 1,5 Alt",
+     0.7157
+    ],
+    [
+     "Danimarka U21 2,5 Üst",
+     0.091
+    ],
+    [
+     "Danimarka U21 2,5 Alt",
+     0.909
+    ],
+    [
+     "Danimarka U21 3,5 Üst",
+     0.0223
+    ],
+    [
+     "Danimarka U21 3,5 Alt",
+     0.9777
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller Asya",
+   "oneri": "Toplam Asya 3,25 Alt",
+   "olasilik": 0.7013,
+   "adil_oran": 1.43,
+   "en_olasi": "Toplam Asya 3,25 Alt",
+   "en_olasi_p": 0.7013,
+   "guven": "yüksek",
+   "not_": "Asya çizgisi: değer = 1/adil oran",
+   "secimler": [
+    [
+     "Toplam Asya 1,75 Üst",
+     0.6958
+    ],
+    [
+     "Toplam Asya 1,75 Alt",
+     0.3042
+    ],
+    [
+     "Toplam Asya 2 Üst",
+     0.645
+    ],
+    [
+     "Toplam Asya 2 Alt",
+     0.355
+    ],
+    [
+     "Toplam Asya 2,25 Üst",
+     0.5528
+    ],
+    [
+     "Toplam Asya 2,25 Alt",
+     0.4472
+    ],
+    [
+     "Toplam Asya 2,5 Üst",
+     0.4836
+    ],
+    [
+     "Toplam Asya 2,5 Alt",
+     0.5164
+    ],
+    [
+     "Toplam Asya 2,75 Üst",
+     0.4207
+    ],
+    [
+     "Toplam Asya 2,75 Alt",
+     0.5793
+    ],
+    [
+     "Toplam Asya 3 Üst",
+     0.3402
+    ],
+    [
+     "Toplam Asya 3 Alt",
+     0.6598
+    ],
+    [
+     "Toplam Asya 3,25 Üst",
+     0.2987
+    ],
+    [
+     "Toplam Asya 3,25 Alt",
+     0.7013
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Hollanda U21 : Toplam Gol Asya",
+   "oneri": "Hollanda U21 Asya 2,25 Alt",
+   "olasilik": 0.7657,
+   "adil_oran": 1.31,
+   "en_olasi": "Hollanda U21 Asya 2,25 Alt",
+   "en_olasi_p": 0.7657,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 Asya 0,75 Üst",
+     0.7477
+    ],
+    [
+     "Hollanda U21 Asya 0,75 Alt",
+     0.2523
+    ],
+    [
+     "Hollanda U21 Asya 1 Üst",
+     0.6859
+    ],
+    [
+     "Hollanda U21 Asya 1 Alt",
+     0.3141
+    ],
+    [
+     "Hollanda U21 Asya 1,25 Üst",
+     0.551
+    ],
+    [
+     "Hollanda U21 Asya 1,25 Alt",
+     0.449
+    ],
+    [
+     "Hollanda U21 Asya 1,5 Üst",
+     0.4605
+    ],
+    [
+     "Hollanda U21 Asya 1,5 Alt",
+     0.5395
+    ],
+    [
+     "Hollanda U21 Asya 1,75 Üst",
+     0.3812
+    ],
+    [
+     "Hollanda U21 Asya 1,75 Alt",
+     0.6188
+    ],
+    [
+     "Hollanda U21 Asya 2 Üst",
+     0.2747
+    ],
+    [
+     "Hollanda U21 Asya 2 Alt",
+     0.7253
+    ],
+    [
+     "Hollanda U21 Asya 2,25 Üst",
+     0.2343
+    ],
+    [
+     "Hollanda U21 Asya 2,25 Alt",
+     0.7657
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Danimarka U21 : Toplam Gol Asya",
+   "oneri": "Danimarka U21 Asya 0,25 Üst",
+   "olasilik": 0.7881,
+   "adil_oran": 1.27,
+   "en_olasi": "Danimarka U21 Asya 0,25 Üst",
+   "en_olasi_p": 0.7881,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Danimarka U21 Asya 0,25 Üst",
+     0.7881
+    ],
+    [
+     "Danimarka U21 Asya 0,25 Alt",
+     0.2119
+    ],
+    [
+     "Danimarka U21 Asya 0,5 Üst",
+     0.6503
+    ],
+    [
+     "Danimarka U21 Asya 0,5 Alt",
+     0.3497
+    ],
+    [
+     "Danimarka U21 Asya 0,75 Üst",
+     0.572
+    ],
+    [
+     "Danimarka U21 Asya 0,75 Alt",
+     0.428
+    ],
+    [
+     "Danimarka U21 Asya 1 Üst",
+     0.4484
+    ],
+    [
+     "Danimarka U21 Asya 1 Alt",
+     0.5516
+    ],
+    [
+     "Danimarka U21 Asya 1,25 Üst",
+     0.348
+    ],
+    [
+     "Danimarka U21 Asya 1,25 Alt",
+     0.652
+    ],
+    [
+     "Danimarka U21 Asya 1,5 Üst",
+     0.2843
+    ],
+    [
+     "Danimarka U21 Asya 1,5 Alt",
+     0.7157
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (3-İhtimalli)",
+   "oneri": "1 Üst",
+   "olasilik": 0.7338,
+   "adil_oran": 1.36,
+   "en_olasi": "1 Üst",
+   "en_olasi_p": 0.7338,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.0745
+    ],
+    [
+     "Tam 1",
+     0.1917
+    ],
+    [
+     "1 Üst",
+     0.7338
+    ],
+    [
+     "2 Alt",
+     0.2662
+    ],
+    [
+     "Tam 2",
+     0.2502
+    ],
+    [
+     "2 Üst",
+     0.4836
+    ],
+    [
+     "3 Alt",
+     0.5164
+    ],
+    [
+     "Tam 3",
+     0.2174
+    ],
+    [
+     "3 Üst",
+     0.2662
+    ],
+    [
+     "4 Alt",
+     0.7338
+    ],
+    [
+     "Tam 4",
+     0.1434
+    ],
+    [
+     "4 Üst",
+     0.1229
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol Tek/Çift",
+   "oneri": "Çift",
+   "olasilik": 0.504,
+   "adil_oran": 1.98,
+   "en_olasi": "Çift",
+   "en_olasi_p": 0.504,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.496
+    ],
+    [
+     "Çift",
+     0.504
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Kesin)",
+   "oneri": "2 gol",
+   "olasilik": 0.2502,
+   "adil_oran": 4.0,
+   "en_olasi": "2 gol",
+   "en_olasi_p": 0.2502,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0745
+    ],
+    [
+     "1 gol",
+     0.1917
+    ],
+    [
+     "2 gol",
+     0.2502
+    ],
+    [
+     "3 gol",
+     0.2174
+    ],
+    [
+     "4 gol",
+     0.1434
+    ],
+    [
+     "5 gol",
+     0.0736
+    ],
+    [
+     "6+ gol",
+     0.0493
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Hollanda U21 : Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3287,
+   "adil_oran": 3.04,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3287,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2108
+    ],
+    [
+     "1 gol",
+     0.3287
+    ],
+    [
+     "2 gol",
+     0.2562
+    ],
+    [
+     "3 gol",
+     0.1323
+    ],
+    [
+     "4+ gol",
+     0.072
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Danimarka U21 : Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3661,
+   "adil_oran": 2.73,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3661,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3497
+    ],
+    [
+     "1 gol",
+     0.3661
+    ],
+    [
+     "2 gol",
+     0.1933
+    ],
+    [
+     "3 gol",
+     0.0686
+    ],
+    [
+     "4+ gol",
+     0.0223
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Aralık)",
+   "oneri": "2-3 gol",
+   "olasilik": 0.4676,
+   "adil_oran": 2.14,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.4676,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.2662
+    ],
+    [
+     "2-3 gol",
+     0.4676
+    ],
+    [
+     "4-5 gol",
+     0.2169
+    ],
+    [
+     "6+ gol",
+     0.0493
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Hollanda U21 : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5849,
+   "adil_oran": 1.71,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5849,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2108
+    ],
+    [
+     "1-2 gol",
+     0.5849
+    ],
+    [
+     "3+ gol",
+     0.2043
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Danimarka U21 : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5594,
+   "adil_oran": 1.79,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5594,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3497
+    ],
+    [
+     "1-2 gol",
+     0.5594
+    ],
+    [
+     "3+ gol",
+     0.091
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Genişletilmiş Gol Aralığı)",
+   "oneri": "1-3 gol",
+   "olasilik": 0.6593,
+   "adil_oran": 1.52,
+   "en_olasi": "1-3 gol",
+   "en_olasi_p": 0.6593,
+   "guven": "yüksek",
+   "not_": "Sitedeki aralıklar farklı olabilir",
+   "secimler": [
+    [
+     "0 gol",
+     0.0745
+    ],
+    [
+     "1-2 gol",
+     0.4419
+    ],
+    [
+     "1-3 gol",
+     0.6593
+    ],
+    [
+     "2-3 gol",
+     0.4676
+    ],
+    [
+     "2-4 gol",
+     0.611
+    ],
+    [
+     "3-4 gol",
+     0.3608
+    ],
+    [
+     "3-5 gol",
+     0.4344
+    ],
+    [
+     "4-6 gol",
+     0.249
+    ],
+    [
+     "5+ gol",
+     0.1229
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Hollanda U21 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5849,
+   "adil_oran": 1.71,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5849,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.5395
+    ],
+    [
+     "1-2 gol",
+     0.5849
+    ],
+    [
+     "2-3 gol",
+     0.3885
+    ],
+    [
+     "3+ gol",
+     0.2043
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Danimarka U21 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7157,
+   "adil_oran": 1.4,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7157,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.7157
+    ],
+    [
+     "1-2 gol",
+     0.5594
+    ],
+    [
+     "2-3 gol",
+     0.2619
+    ],
+    [
+     "3+ gol",
+     0.091
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Kesin Gol Sayısı",
+   "oneri": "2 gol",
+   "olasilik": 0.2502,
+   "adil_oran": 4.0,
+   "en_olasi": "2 gol",
+   "en_olasi_p": 0.2502,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0745
+    ],
+    [
+     "1 gol",
+     0.1917
+    ],
+    [
+     "2 gol",
+     0.2502
+    ],
+    [
+     "3 gol",
+     0.2174
+    ],
+    [
+     "4 gol",
+     0.1434
+    ],
+    [
+     "5 gol",
+     0.0736
+    ],
+    [
+     "6 gol",
+     0.032
+    ],
+    [
+     "7+ gol",
+     0.0173
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 1 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8083,
+   "adil_oran": 1.24,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8083,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1917
+    ],
+    [
+     "Hayır",
+     0.8083
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 2 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7498,
+   "adil_oran": 1.33,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7498,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2502
+    ],
+    [
+     "Hayır",
+     0.7498
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 3 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7826,
+   "adil_oran": 1.28,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7826,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2174
+    ],
+    [
+     "Hayır",
+     0.7826
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 4 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8567,
+   "adil_oran": 1.17,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8567,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1434
+    ],
+    [
+     "Hayır",
+     0.8567
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "En Az Bir Takım Üst Gol Atar",
+   "oneri": "En az bir takım 1,5 Üst",
+   "olasilik": 0.6139,
+   "adil_oran": 1.63,
+   "en_olasi": "En az bir takım 0,5 Üst",
+   "en_olasi_p": 0.9255,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "En az bir takım 0,5 Üst",
+     0.9255
+    ],
+    [
+     "En az bir takım 1,5 Üst",
+     0.6139
+    ],
+    [
+     "En az bir takım 2,5 Üst",
+     0.2766
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Hollanda U21 : Asist Yapar. Toplam",
+   "oneri": "Hollanda U21 asist 1,5 Alt",
+   "olasilik": 0.7343,
+   "adil_oran": 1.36,
+   "en_olasi": "Hollanda U21 asist 2,5 Alt",
+   "en_olasi_p": 0.9196,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 asist 0,5 Üst",
+     0.6334
+    ],
+    [
+     "Hollanda U21 asist 0,5 Alt",
+     0.3666
+    ],
+    [
+     "Hollanda U21 asist 1,5 Üst",
+     0.2657
+    ],
+    [
+     "Hollanda U21 asist 1,5 Alt",
+     0.7343
+    ],
+    [
+     "Hollanda U21 asist 2,5 Üst",
+     0.0804
+    ],
+    [
+     "Hollanda U21 asist 2,5 Alt",
+     0.9196
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Danimarka U21 : Asist Yapar. Toplam",
+   "oneri": "Danimarka U21 asist 0,5 Alt",
+   "olasilik": 0.5109,
+   "adil_oran": 1.96,
+   "en_olasi": "Danimarka U21 asist 1,5 Alt",
+   "en_olasi_p": 0.8534,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Danimarka U21 asist 0,5 Üst",
+     0.4891
+    ],
+    [
+     "Danimarka U21 asist 0,5 Alt",
+     0.5109
+    ],
+    [
+     "Danimarka U21 asist 1,5 Üst",
+     0.1466
+    ],
+    [
+     "Danimarka U21 asist 1,5 Alt",
+     0.8534
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takımda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.514,
+   "adil_oran": 1.95,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.514,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.514
+    ],
+    [
+     "Hayır",
+     0.486
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8692,
+   "adil_oran": 1.15,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8692,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1308
+    ],
+    [
+     "Hayır",
+     0.8692
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Hollanda U21 : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.7892,
+   "adil_oran": 1.27,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7892,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7892
+    ],
+    [
+     "Hayır",
+     0.2108
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Danimarka U21 : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.6503,
+   "adil_oran": 1.54,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6503,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6503
+    ],
+    [
+     "Hayır",
+     0.3497
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Karşılıklı Gol ve Toplam Goller 2.5",
+   "oneri": "KG Yok & Alt",
+   "olasilik": 0.3965,
+   "adil_oran": 2.52,
+   "en_olasi": "KG Yok & Alt",
+   "en_olasi_p": 0.3965,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "KG Var & Üst",
+     0.3941
+    ],
+    [
+     "KG Var & Alt",
+     0.1199
+    ],
+    [
+     "KG Yok & Üst",
+     0.0896
+    ],
+    [
+     "KG Yok & Alt",
+     0.3965
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Yarıda da Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.9541,
+   "adil_oran": 1.05,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9541,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0459
+    ],
+    [
+     "Hayır",
+     0.9541
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı",
+   "oneri": "Danimarka U21 +1,5",
+   "olasilik": 0.7486,
+   "adil_oran": 1.34,
+   "en_olasi": "Hollanda U21 +2,5",
+   "en_olasi_p": 0.9729,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 -2,5",
+     0.102
+    ],
+    [
+     "Danimarka U21 +2,5",
+     0.898
+    ],
+    [
+     "Hollanda U21 -1,5",
+     0.2514
+    ],
+    [
+     "Danimarka U21 +1,5",
+     0.7486
+    ],
+    [
+     "Hollanda U21 -0,5",
+     0.489
+    ],
+    [
+     "Danimarka U21 +0,5",
+     0.511
+    ],
+    [
+     "Hollanda U21 +0,5",
+     0.7429
+    ],
+    [
+     "Danimarka U21 -0,5",
+     0.2571
+    ],
+    [
+     "Hollanda U21 +1,5",
+     0.9038
+    ],
+    [
+     "Danimarka U21 -1,5",
+     0.0962
+    ],
+    [
+     "Hollanda U21 +2,5",
+     0.9729
+    ],
+    [
+     "Danimarka U21 -2,5",
+     0.0271
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Goller Asya Handikapı",
+   "oneri": "Hollanda U21 Asya +0,75",
+   "olasilik": 0.8079,
+   "adil_oran": 1.24,
+   "en_olasi": "Hollanda U21 Asya +1,5",
+   "en_olasi_p": 0.9038,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 Asya -2",
+     0.1199
+    ],
+    [
+     "Danimarka U21 Asya -2",
+     0.0291
+    ],
+    [
+     "Hollanda U21 Asya -1,75",
+     0.191
+    ],
+    [
+     "Danimarka U21 Asya -1,75",
+     0.0639
+    ],
+    [
+     "Hollanda U21 Asya -1,5",
+     0.2514
+    ],
+    [
+     "Danimarka U21 Asya -1,5",
+     0.0962
+    ],
+    [
+     "Hollanda U21 Asya -1,25",
+     0.2853
+    ],
+    [
+     "Danimarka U21 Asya -1,25",
+     0.1046
+    ],
+    [
+     "Hollanda U21 Asya -1",
+     0.3298
+    ],
+    [
+     "Danimarka U21 Asya -1",
+     0.1147
+    ],
+    [
+     "Hollanda U21 Asya -0,75",
+     0.4201
+    ],
+    [
+     "Danimarka U21 Asya -0,75",
+     0.1921
+    ],
+    [
+     "Hollanda U21 Asya -0,5",
+     0.489
+    ],
+    [
+     "Danimarka U21 Asya -0,5",
+     0.2571
+    ],
+    [
+     "Hollanda U21 Asya -0,25",
+     0.5601
+    ],
+    [
+     "Danimarka U21 Asya -0,25",
+     0.2945
+    ],
+    [
+     "Hollanda U21 Asya 0",
+     0.6554
+    ],
+    [
+     "Danimarka U21 Asya 0",
+     0.3446
+    ],
+    [
+     "Hollanda U21 Asya +0,25",
+     0.7055
+    ],
+    [
+     "Danimarka U21 Asya +0,25",
+     0.4399
+    ],
+    [
+     "Hollanda U21 Asya +0,5",
+     0.7429
+    ],
+    [
+     "Danimarka U21 Asya +0,5",
+     0.511
+    ],
+    [
+     "Hollanda U21 Asya +0,75",
+     0.8079
+    ],
+    [
+     "Danimarka U21 Asya +0,75",
+     0.5799
+    ],
+    [
+     "Hollanda U21 Asya +1",
+     0.8853
+    ],
+    [
+     "Danimarka U21 Asya +1",
+     0.6702
+    ],
+    [
+     "Hollanda U21 Asya +1,25",
+     0.8954
+    ],
+    [
+     "Danimarka U21 Asya +1,25",
+     0.7147
+    ],
+    [
+     "Hollanda U21 Asya +1,5",
+     0.9038
+    ],
+    [
+     "Danimarka U21 Asya +1,5",
+     0.7486
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı (3-İhtimalli)",
+   "oneri": "Danimarka U21 (-2)",
+   "olasilik": 0.7486,
+   "adil_oran": 1.34,
+   "en_olasi": "Hollanda U21 (+3)",
+   "en_olasi_p": 0.9729,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 (-3)",
+     0.0334
+    ],
+    [
+     "X (-3)",
+     0.0685
+    ],
+    [
+     "Danimarka U21 (-3)",
+     0.898
+    ],
+    [
+     "Hollanda U21 (-2)",
+     0.102
+    ],
+    [
+     "X (-2)",
+     0.1495
+    ],
+    [
+     "Danimarka U21 (-2)",
+     0.7486
+    ],
+    [
+     "Hollanda U21 (-1)",
+     0.2514
+    ],
+    [
+     "X (-1)",
+     0.2376
+    ],
+    [
+     "Danimarka U21 (-1)",
+     0.511
+    ],
+    [
+     "Hollanda U21 (+1)",
+     0.7429
+    ],
+    [
+     "X (+1)",
+     0.1609
+    ],
+    [
+     "Danimarka U21 (+1)",
+     0.0962
+    ],
+    [
+     "Hollanda U21 (+2)",
+     0.9038
+    ],
+    [
+     "X (+2)",
+     0.0691
+    ],
+    [
+     "Danimarka U21 (+2)",
+     0.0271
+    ],
+    [
+     "Hollanda U21 (+3)",
+     0.9729
+    ],
+    [
+     "X (+3)",
+     0.0208
+    ],
+    [
+     "Danimarka U21 (+3)",
+     0.0063
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Hollanda U21 Gol Atar ve Maç Sonucu",
+   "oneri": "1 & Hollanda U21 gol atar",
+   "olasilik": 0.489,
+   "adil_oran": 2.05,
+   "en_olasi": "1 & Hollanda U21 gol atar",
+   "en_olasi_p": 0.489,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Hollanda U21 gol atar",
+     0.489
+    ],
+    [
+     "1 & Hollanda U21 gol atamaz",
+     0.0
+    ],
+    [
+     "X & Hollanda U21 gol atar",
+     0.1794
+    ],
+    [
+     "X & Hollanda U21 gol atamaz",
+     0.0745
+    ],
+    [
+     "2 & Hollanda U21 gol atar",
+     0.1208
+    ],
+    [
+     "2 & Hollanda U21 gol atamaz",
+     0.1364
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Danimarka U21 Gol Atar ve Maç Sonucu",
+   "oneri": "1 & Danimarka U21 gol atamaz",
+   "olasilik": 0.2752,
+   "adil_oran": 3.63,
+   "en_olasi": "1 & Danimarka U21 gol atamaz",
+   "en_olasi_p": 0.2752,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Danimarka U21 gol atar",
+     0.2138
+    ],
+    [
+     "1 & Danimarka U21 gol atamaz",
+     0.2752
+    ],
+    [
+     "X & Danimarka U21 gol atar",
+     0.1794
+    ],
+    [
+     "X & Danimarka U21 gol atamaz",
+     0.0745
+    ],
+    [
+     "2 & Danimarka U21 gol atar",
+     0.2571
+    ],
+    [
+     "2 & Danimarka U21 gol atamaz",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Karşılıklı Gol",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.2752,
+   "adil_oran": 3.63,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.2752,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.2138
+    ],
+    [
+     "1 & KG Yok",
+     0.2752
+    ],
+    [
+     "X & KG Var",
+     0.1794
+    ],
+    [
+     "X & KG Yok",
+     0.0745
+    ],
+    [
+     "2 & KG Var",
+     0.1208
+    ],
+    [
+     "2 & KG Yok",
+     0.1364
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Karşılıklı Gol",
+   "oneri": "12 & KG Yok",
+   "olasilik": 0.4116,
+   "adil_oran": 2.43,
+   "en_olasi": "12 & KG Yok",
+   "en_olasi_p": 0.4116,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & KG Var",
+     0.3932
+    ],
+    [
+     "1X & KG Yok",
+     0.3497
+    ],
+    [
+     "12 & KG Var",
+     0.3345
+    ],
+    [
+     "12 & KG Yok",
+     0.4116
+    ],
+    [
+     "X2 & KG Var",
+     0.3002
+    ],
+    [
+     "X2 & KG Yok",
+     0.2108
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 1.5",
+   "oneri": "1 & 1,5 Üst",
+   "olasilik": 0.3739,
+   "adil_oran": 2.67,
+   "en_olasi": "1 & 1,5 Üst",
+   "en_olasi_p": 0.3739,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1,5 Üst",
+     0.3739
+    ],
+    [
+     "1 & 1,5 Alt",
+     0.115
+    ],
+    [
+     "X & 1,5 Üst",
+     0.1794
+    ],
+    [
+     "X & 1,5 Alt",
+     0.0745
+    ],
+    [
+     "2 & 1,5 Üst",
+     0.1805
+    ],
+    [
+     "2 & 1,5 Alt",
+     0.0767
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 2.5",
+   "oneri": "1 & 2,5 Üst",
+   "olasilik": 0.2844,
+   "adil_oran": 3.52,
+   "en_olasi": "1 & 2,5 Üst",
+   "en_olasi_p": 0.2844,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 2,5 Üst",
+     0.2844
+    ],
+    [
+     "1 & 2,5 Alt",
+     0.2046
+    ],
+    [
+     "X & 2,5 Üst",
+     0.0595
+    ],
+    [
+     "X & 2,5 Alt",
+     0.1943
+    ],
+    [
+     "2 & 2,5 Üst",
+     0.1397
+    ],
+    [
+     "2 & 2,5 Alt",
+     0.1174
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 3.5",
+   "oneri": "1 & 3,5 Alt",
+   "olasilik": 0.3439,
+   "adil_oran": 2.91,
+   "en_olasi": "1 & 3,5 Alt",
+   "en_olasi_p": 0.3439,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 3,5 Üst",
+     0.1451
+    ],
+    [
+     "1 & 3,5 Alt",
+     0.3439
+    ],
+    [
+     "X & 3,5 Üst",
+     0.0595
+    ],
+    [
+     "X & 3,5 Alt",
+     0.1943
+    ],
+    [
+     "2 & 3,5 Üst",
+     0.0616
+    ],
+    [
+     "2 & 3,5 Alt",
+     0.1956
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 4.5",
+   "oneri": "1 & 4,5 Alt",
+   "olasilik": 0.4109,
+   "adil_oran": 2.43,
+   "en_olasi": "1 & 4,5 Alt",
+   "en_olasi_p": 0.4109,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 4,5 Üst",
+     0.078
+    ],
+    [
+     "1 & 4,5 Alt",
+     0.4109
+    ],
+    [
+     "X & 4,5 Üst",
+     0.01
+    ],
+    [
+     "X & 4,5 Alt",
+     0.2439
+    ],
+    [
+     "2 & 4,5 Üst",
+     0.0348
+    ],
+    [
+     "2 & 4,5 Alt",
+     0.2223
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Hollanda U21 : Toplam Gol",
+   "oneri": "1 & Hollanda U21 1,5 Üst",
+   "olasilik": 0.3739,
+   "adil_oran": 2.67,
+   "en_olasi": "1 & Hollanda U21 1,5 Üst",
+   "en_olasi_p": 0.3739,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Hollanda U21 1,5 Üst",
+     0.3739
+    ],
+    [
+     "1 & Hollanda U21 1,5 Alt",
+     0.115
+    ],
+    [
+     "X & Hollanda U21 1,5 Üst",
+     0.0595
+    ],
+    [
+     "X & Hollanda U21 1,5 Alt",
+     0.1943
+    ],
+    [
+     "2 & Hollanda U21 1,5 Üst",
+     0.027
+    ],
+    [
+     "2 & Hollanda U21 1,5 Alt",
+     0.2301
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Danimarka U21 : Toplam Gol",
+   "oneri": "1 & Danimarka U21 0,5 Alt",
+   "olasilik": 0.2752,
+   "adil_oran": 3.63,
+   "en_olasi": "1 & Danimarka U21 0,5 Alt",
+   "en_olasi_p": 0.2752,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Danimarka U21 0,5 Üst",
+     0.2138
+    ],
+    [
+     "1 & Danimarka U21 0,5 Alt",
+     0.2752
+    ],
+    [
+     "X & Danimarka U21 0,5 Üst",
+     0.1794
+    ],
+    [
+     "X & Danimarka U21 0,5 Alt",
+     0.0745
+    ],
+    [
+     "2 & Danimarka U21 0,5 Üst",
+     0.2571
+    ],
+    [
+     "2 & Danimarka U21 0,5 Alt",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Toplam Gol",
+   "oneri": "1 veya 2,5 Alt",
+   "olasilik": 0.8007,
+   "adil_oran": 1.25,
+   "en_olasi": "1 veya 2,5 Alt",
+   "en_olasi_p": 0.8007,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 2,5 Üst",
+     0.6883
+    ],
+    [
+     "1 veya 2,5 Alt",
+     0.8007
+    ],
+    [
+     "X veya 2,5 Üst",
+     0.678
+    ],
+    [
+     "X veya 2,5 Alt",
+     0.5759
+    ],
+    [
+     "2 veya 2,5 Üst",
+     0.601
+    ],
+    [
+     "2 veya 2,5 Alt",
+     0.6561
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol (Kesin)",
+   "oneri": "1 & 3 gol",
+   "olasilik": 0.1393,
+   "adil_oran": 7.18,
+   "en_olasi": "1 & 3 gol",
+   "en_olasi_p": 0.1393,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 0 gol",
+     0.0
+    ],
+    [
+     "1 & 1 gol",
+     0.115
+    ],
+    [
+     "1 & 2 gol",
+     0.0896
+    ],
+    [
+     "1 & 3 gol",
+     0.1393
+    ],
+    [
+     "1 & 4 gol",
+     0.067
+    ],
+    [
+     "1 & 5 gol",
+     0.0497
+    ],
+    [
+     "X & 0 gol",
+     0.0745
+    ],
+    [
+     "X & 1 gol",
+     0.0
+    ],
+    [
+     "X & 2 gol",
+     0.1199
+    ],
+    [
+     "X & 3 gol",
+     0.0
+    ],
+    [
+     "X & 4 gol",
+     0.0496
+    ],
+    [
+     "X & 5 gol",
+     0.0
+    ],
+    [
+     "2 & 0 gol",
+     0.0
+    ],
+    [
+     "2 & 1 gol",
+     0.0767
+    ],
+    [
+     "2 & 2 gol",
+     0.0407
+    ],
+    [
+     "2 & 3 gol",
+     0.0781
+    ],
+    [
+     "2 & 4 gol",
+     0.0267
+    ],
+    [
+     "2 & 5 gol",
+     0.0238
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "1 & 1-3 gol",
+   "olasilik": 0.3439,
+   "adil_oran": 2.91,
+   "en_olasi": "1 & 1-3 gol",
+   "en_olasi_p": 0.3439,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1-2 gol",
+     0.2046
+    ],
+    [
+     "1 & 1-3 gol",
+     0.3439
+    ],
+    [
+     "1 & 2-3 gol",
+     0.2289
+    ],
+    [
+     "1 & 2-4 gol",
+     0.2959
+    ],
+    [
+     "1 & 3-4 gol",
+     0.2063
+    ],
+    [
+     "1 & 3-5 gol",
+     0.256
+    ],
+    [
+     "X & 1-2 gol",
+     0.1199
+    ],
+    [
+     "X & 1-3 gol",
+     0.1199
+    ],
+    [
+     "X & 2-3 gol",
+     0.1199
+    ],
+    [
+     "X & 2-4 gol",
+     0.1695
+    ],
+    [
+     "X & 3-4 gol",
+     0.0496
+    ],
+    [
+     "X & 3-5 gol",
+     0.0496
+    ],
+    [
+     "2 & 1-2 gol",
+     0.1174
+    ],
+    [
+     "2 & 1-3 gol",
+     0.1956
+    ],
+    [
+     "2 & 2-3 gol",
+     0.1189
+    ],
+    [
+     "2 & 2-4 gol",
+     0.1456
+    ],
+    [
+     "2 & 3-4 gol",
+     0.1049
+    ],
+    [
+     "2 & 3-5 gol",
+     0.1287
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "12 & 1-3 gol",
+   "olasilik": 0.5395,
+   "adil_oran": 1.85,
+   "en_olasi": "12 & 1-3 gol",
+   "en_olasi_p": 0.5395,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1-2 gol",
+     0.3245
+    ],
+    [
+     "1X & 1-3 gol",
+     0.4638
+    ],
+    [
+     "1X & 2-3 gol",
+     0.3488
+    ],
+    [
+     "1X & 2-4 gol",
+     0.4653
+    ],
+    [
+     "12 & 1-2 gol",
+     0.322
+    ],
+    [
+     "12 & 1-3 gol",
+     0.5395
+    ],
+    [
+     "12 & 2-3 gol",
+     0.3478
+    ],
+    [
+     "12 & 2-4 gol",
+     0.4415
+    ],
+    [
+     "X2 & 1-2 gol",
+     0.2373
+    ],
+    [
+     "X2 & 1-3 gol",
+     0.3154
+    ],
+    [
+     "X2 & 2-3 gol",
+     0.2388
+    ],
+    [
+     "X2 & 2-4 gol",
+     0.3151
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Doğru Skor",
+   "oneri": "1 veya 1-1",
+   "olasilik": 0.6089,
+   "adil_oran": 1.64,
+   "en_olasi": "1 veya 1-1",
+   "en_olasi_p": 0.6089,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 1-1",
+     0.6089
+    ],
+    [
+     "1 veya 0-1",
+     0.5656
+    ],
+    [
+     "1 veya 0-0",
+     0.5634
+    ],
+    [
+     "X veya 1-0",
+     0.3689
+    ],
+    [
+     "X veya 2-1",
+     0.3474
+    ],
+    [
+     "X veya 2-0",
+     0.3434
+    ],
+    [
+     "X veya 0-1",
+     0.3306
+    ],
+    [
+     "2 veya 1-1",
+     0.377
+    ],
+    [
+     "2 veya 1-0",
+     0.3722
+    ],
+    [
+     "2 veya 2-1",
+     0.3507
+    ],
+    [
+     "2 veya 2-0",
+     0.3467
+    ],
+    [
+     "2 veya 0-0",
+     0.3316
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Her İki Yarı Toplam Gol Kombinasyonu",
+   "oneri": "İY Alt 1,5 & 2Y Alt 1,5",
+   "olasilik": 0.3861,
+   "adil_oran": 2.59,
+   "en_olasi": "İY Alt 1,5 & 2Y Alt 1,5",
+   "en_olasi_p": 0.3861,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Alt 1,5 & 2Y Alt 1,5",
+     0.3861
+    ],
+    [
+     "İY Alt 1,5 & 2Y Üst 1,5",
+     0.3236
+    ],
+    [
+     "İY Üst 1,5 & 2Y Alt 1,5",
+     0.1582
+    ],
+    [
+     "İY Üst 1,5 & 2Y Üst 1,5",
+     0.1321
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Farklı Kombineler",
+   "oneri": "1 & 2Y gol olur",
+   "olasilik": 0.4148,
+   "adil_oran": 2.41,
+   "en_olasi": "1 & 2Y gol olur",
+   "en_olasi_p": 0.4148,
+   "guven": "yüksek",
+   "not_": "Sitedeki kombinasyon içerikleri farklı olabilir",
+   "secimler": [
+    [
+     "1 & 2Y gol olur",
+     0.4148
+    ],
+    [
+     "2 & 2Y gol olur",
+     0.2125
+    ],
+    [
+     "Hollanda U21 her iki yarıda gol & 1",
+     0.2367
+    ],
+    [
+     "Danimarka U21 her iki yarıda gol & 2",
+     0.1077
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans Kombo",
+   "oneri": "12 & 1,5 Üst",
+   "olasilik": 0.5544,
+   "adil_oran": 1.8,
+   "en_olasi": "12 & 1,5 Üst",
+   "en_olasi_p": 0.5544,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1,5 Üst",
+     0.5534
+    ],
+    [
+     "1X & 1,5 Alt",
+     0.1895
+    ],
+    [
+     "1X & 2,5 Üst",
+     0.3439
+    ],
+    [
+     "1X & 2,5 Alt",
+     0.399
+    ],
+    [
+     "1X & 3,5 Üst",
+     0.2046
+    ],
+    [
+     "1X & 3,5 Alt",
+     0.5383
+    ],
+    [
+     "12 & 1,5 Üst",
+     0.5544
+    ],
+    [
+     "12 & 1,5 Alt",
+     0.1917
+    ],
+    [
+     "12 & 2,5 Üst",
+     0.4241
+    ],
+    [
+     "12 & 2,5 Alt",
+     0.322
+    ],
+    [
+     "12 & 3,5 Üst",
+     0.2067
+    ],
+    [
+     "12 & 3,5 Alt",
+     0.5395
+    ],
+    [
+     "X2 & 1,5 Üst",
+     0.3599
+    ],
+    [
+     "X2 & 1,5 Alt",
+     0.1511
+    ],
+    [
+     "X2 & 2,5 Üst",
+     0.1993
+    ],
+    [
+     "X2 & 2,5 Alt",
+     0.3117
+    ],
+    [
+     "X2 & 3,5 Üst",
+     0.1211
+    ],
+    [
+     "X2 & 3,5 Alt",
+     0.3899
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "İlk Yarı/Maç Sonucu ve Toplam Gol",
+   "oneri": "1/1 & 2,5 Üst",
+   "olasilik": 0.1759,
+   "adil_oran": 5.69,
+   "en_olasi": "1/1 & 2,5 Üst",
+   "en_olasi_p": 0.1759,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1 & 2,5 Üst",
+     0.1759
+    ],
+    [
+     "1/1 & 2,5 Alt",
+     0.1049
+    ],
+    [
+     "1/X & 2,5 Üst",
+     0.0186
+    ],
+    [
+     "1/X & 2,5 Alt",
+     0.0291
+    ],
+    [
+     "1/2 & 2,5 Üst",
+     0.0167
+    ],
+    [
+     "1/2 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "X/1 & 2,5 Üst",
+     0.0822
+    ],
+    [
+     "X/1 & 2,5 Alt",
+     0.0997
+    ],
+    [
+     "X/X & 2,5 Üst",
+     0.0224
+    ],
+    [
+     "X/X & 2,5 Alt",
+     0.1367
+    ],
+    [
+     "X/2 & 2,5 Üst",
+     0.0461
+    ],
+    [
+     "X/2 & 2,5 Alt",
+     0.0598
+    ],
+    [
+     "2/1 & 2,5 Üst",
+     0.0262
+    ],
+    [
+     "2/1 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "2/X & 2,5 Üst",
+     0.0186
+    ],
+    [
+     "2/X & 2,5 Alt",
+     0.0285
+    ],
+    [
+     "2/2 & 2,5 Üst",
+     0.077
+    ],
+    [
+     "2/2 & 2,5 Alt",
+     0.0576
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Her İki Yarıda Gol Olur",
+   "oneri": "Evet",
+   "olasilik": 0.5139,
+   "adil_oran": 1.95,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5139,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5139
+    ],
+    [
+     "Hayır",
+     0.4861
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım",
+   "oneri": "Hollanda U21",
+   "olasilik": 0.5522,
+   "adil_oran": 1.81,
+   "en_olasi": "Hollanda U21",
+   "en_olasi_p": 0.5522,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21",
+     0.5522
+    ],
+    [
+     "Gol yok",
+     0.0745
+    ],
+    [
+     "Danimarka U21",
+     0.3734
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Son Golü Atacak Takım",
+   "oneri": "Hollanda U21",
+   "olasilik": 0.5512,
+   "adil_oran": 1.81,
+   "en_olasi": "Hollanda U21",
+   "en_olasi_p": 0.5512,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21",
+     0.5512
+    ],
+    [
+     "Gol yok",
+     0.0745
+    ],
+    [
+     "Danimarka U21",
+     0.3744
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golün Atılma Şekli",
+   "oneri": "Şut",
+   "olasilik": 0.658,
+   "adil_oran": 1.52,
+   "en_olasi": "Şut",
+   "en_olasi_p": 0.658,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şut",
+     0.658
+    ],
+    [
+     "Kafa",
+     0.1414
+    ],
+    [
+     "Penaltı",
+     0.0666
+    ],
+    [
+     "Serbest vuruş",
+     0.0274
+    ],
+    [
+     "Kendi kalesine",
+     0.0321
+    ],
+    [
+     "Gol yok",
+     0.0745
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı",
+   "oneri": "28-90 dk",
+   "olasilik": 0.4869,
+   "adil_oran": 2.05,
+   "en_olasi": "28-90 dk",
+   "en_olasi_p": 0.4869,
+   "guven": "orta",
+   "not_": "Sınır 27. dk varsayıldı",
+   "secimler": [
+    [
+     "1-27 dk",
+     0.4387
+    ],
+    [
+     "28-90 dk",
+     0.4869
+    ],
+    [
+     "Gol yok",
+     0.0745
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Hollanda U21 : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.2108,
+   "adil_oran": 4.74,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.2108,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.1154
+    ],
+    [
+     "11-20 dk",
+     0.1056
+    ],
+    [
+     "21-30 dk",
+     0.0996
+    ],
+    [
+     "31-40 dk",
+     0.089
+    ],
+    [
+     "41-50 dk",
+     0.1001
+    ],
+    [
+     "51-60 dk",
+     0.0758
+    ],
+    [
+     "61-70 dk",
+     0.0689
+    ],
+    [
+     "71-80 dk",
+     0.059
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0757
+    ],
+    [
+     "Gol yok",
+     0.2108
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Danimarka U21 : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.3497,
+   "adil_oran": 2.86,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.3497,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.0797
+    ],
+    [
+     "11-20 dk",
+     0.077
+    ],
+    [
+     "21-30 dk",
+     0.0735
+    ],
+    [
+     "31-40 dk",
+     0.0707
+    ],
+    [
+     "41-50 dk",
+     0.0824
+    ],
+    [
+     "51-60 dk",
+     0.0677
+    ],
+    [
+     "61-70 dk",
+     0.0634
+    ],
+    [
+     "71-80 dk",
+     0.058
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.078
+    ],
+    [
+     "Gol yok",
+     0.3497
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı (15 dk.)",
+   "oneri": "1-15 dk",
+   "olasilik": 0.2678,
+   "adil_oran": 3.73,
+   "en_olasi": "1-15 dk",
+   "en_olasi_p": 0.2678,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-15 dk",
+     0.2678
+    ],
+    [
+     "16-30 dk",
+     0.2095
+    ],
+    [
+     "31-45 (+uz.) dk",
+     0.1741
+    ],
+    [
+     "46-60 dk",
+     0.1204
+    ],
+    [
+     "61-75 dk",
+     0.0838
+    ],
+    [
+     "76-90 (+uz.) dk",
+     0.0701
+    ],
+    [
+     "Gol yok",
+     0.0745
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve Maç Sonucu",
+   "oneri": "İlk gol Hollanda U21 & 1",
+   "olasilik": 0.4228,
+   "adil_oran": 2.37,
+   "en_olasi": "İlk gol Hollanda U21 & 1",
+   "en_olasi_p": 0.4228,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Hollanda U21 & 1",
+     0.4228
+    ],
+    [
+     "İlk gol Hollanda U21 & X",
+     0.0899
+    ],
+    [
+     "İlk gol Hollanda U21 & 2",
+     0.0395
+    ],
+    [
+     "İlk gol Danimarka U21 & 1",
+     0.0662
+    ],
+    [
+     "İlk gol Danimarka U21 & X",
+     0.0896
+    ],
+    [
+     "İlk gol Danimarka U21 & 2",
+     0.2176
+    ],
+    [
+     "Gol yok",
+     0.0745
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 1. Yarı Sonucu",
+   "oneri": "İlk gol Hollanda U21 & İY 1",
+   "olasilik": 0.332,
+   "adil_oran": 3.01,
+   "en_olasi": "İlk gol Hollanda U21 & İY 1",
+   "en_olasi_p": 0.332,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Hollanda U21 & İY 1",
+     0.332
+    ],
+    [
+     "İlk gol Hollanda U21 & İY X",
+     0.2119
+    ],
+    [
+     "İlk gol Hollanda U21 & İY 2",
+     0.0083
+    ],
+    [
+     "İlk gol Danimarka U21 & İY 1",
+     0.0132
+    ],
+    [
+     "İlk gol Danimarka U21 & İY X",
+     0.1605
+    ],
+    [
+     "İlk gol Danimarka U21 & İY 2",
+     0.1996
+    ],
+    [
+     "Gol yok",
+     0.0745
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 2. Yarı Sonucu",
+   "oneri": "İlk gol Hollanda U21 & 2Y 1",
+   "olasilik": 0.2887,
+   "adil_oran": 3.46,
+   "en_olasi": "İlk gol Hollanda U21 & 2Y 1",
+   "en_olasi_p": 0.2887,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Hollanda U21 & 2Y 1",
+     0.2887
+    ],
+    [
+     "İlk gol Hollanda U21 & 2Y X",
+     0.1637
+    ],
+    [
+     "İlk gol Hollanda U21 & 2Y 2",
+     0.0998
+    ],
+    [
+     "İlk gol Danimarka U21 & 2Y 1",
+     0.1171
+    ],
+    [
+     "İlk gol Danimarka U21 & 2Y X",
+     0.1188
+    ],
+    [
+     "İlk gol Danimarka U21 & 2Y 2",
+     0.1374
+    ],
+    [
+     "Gol yok",
+     0.0745
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Doğru Skor",
+   "oneri": "1-1",
+   "olasilik": 0.1199,
+   "adil_oran": 8.34,
+   "en_olasi": "1-1",
+   "en_olasi_p": 0.1199,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-1",
+     0.1199
+    ],
+    [
+     "1-0",
+     0.115
+    ],
+    [
+     "2-1",
+     0.0935
+    ],
+    [
+     "2-0",
+     0.0896
+    ],
+    [
+     "0-1",
+     0.0767
+    ],
+    [
+     "0-0",
+     0.0745
+    ],
+    [
+     "1-2",
+     0.0639
+    ],
+    [
+     "2-2",
+     0.0496
+    ],
+    [
+     "3-1",
+     0.0491
+    ],
+    [
+     "3-0",
+     0.0457
+    ],
+    [
+     "0-2",
+     0.0407
+    ],
+    [
+     "3-2",
+     0.0252
+    ],
+    [
+     "Diğer",
+     0.0245
+    ],
+    [
+     "1-3",
+     0.023
+    ],
+    [
+     "4-1",
+     0.0194
+    ],
+    [
+     "4-0",
+     0.0179
+    ],
+    [
+     "2-3",
+     0.0175
+    ],
+    [
+     "0-3",
+     0.0143
+    ],
+    [
+     "4-2",
+     0.0098
+    ],
+    [
+     "3-3",
+     0.009
+    ],
+    [
+     "1-4",
+     0.0055
+    ],
+    [
+     "2-4",
+     0.0048
+    ],
+    [
+     "0-4",
+     0.0038
+    ],
+    [
+     "4-3",
+     0.0035
+    ],
+    [
+     "3-4",
+     0.0026
+    ],
+    [
+     "4-4",
+     0.0008
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Herhangi Bir Zamanda Doğru Skor",
+   "oneri": "1-0 herhangi bir anda",
+   "olasilik": 0.546,
+   "adil_oran": 1.83,
+   "en_olasi": "1-0 herhangi bir anda",
+   "en_olasi_p": 0.546,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-0 herhangi bir anda",
+     0.546
+    ],
+    [
+     "0-1 herhangi bir anda",
+     0.3676
+    ],
+    [
+     "1-1 herhangi bir anda",
+     0.3479
+    ],
+    [
+     "2-0 herhangi bir anda",
+     0.2577
+    ],
+    [
+     "2-1 herhangi bir anda",
+     0.2059
+    ],
+    [
+     "1-2 herhangi bir anda",
+     0.1399
+    ],
+    [
+     "0-2 herhangi bir anda",
+     0.1179
+    ],
+    [
+     "3-0 herhangi bir anda",
+     0.1
+    ],
+    [
+     "2-2 herhangi bir anda",
+     0.0913
+    ],
+    [
+     "3-1 herhangi bir anda",
+     0.0895
+    ],
+    [
+     "1-3 herhangi bir anda",
+     0.0417
+    ],
+    [
+     "3-2 herhangi bir anda",
+     0.0417
+    ],
+    [
+     "0-3 herhangi bir anda",
+     0.031
+    ],
+    [
+     "2-3 herhangi bir anda",
+     0.0289
+    ],
+    [
+     "3-3 herhangi bir anda",
+     0.0139
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Skor Kombinasyonları",
+   "oneri": "Hollanda U21 1-0/2-0/2-1",
+   "olasilik": 0.2982,
+   "adil_oran": 3.35,
+   "en_olasi": "Hollanda U21 1-0/2-0/2-1",
+   "en_olasi_p": 0.2982,
+   "guven": "yüksek",
+   "not_": "Sitedeki gruplar farklı olabilir",
+   "secimler": [
+    [
+     "Hollanda U21 1-0/2-0/2-1",
+     0.2982
+    ],
+    [
+     "Hollanda U21 3-0/3-1/4-0",
+     0.1128
+    ],
+    [
+     "0-0/1-1",
+     0.1943
+    ],
+    [
+     "Danimarka U21 0-1/0-2/1-2",
+     0.1813
+    ],
+    [
+     "Danimarka U21 0-3/1-3/0-4",
+     0.041
+    ],
+    [
+     "2-2/3-3",
+     0.0586
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "1.Yarı/Maç Skoru",
+   "oneri": "İY 0-0 / MS 0-0",
+   "olasilik": 0.0745,
+   "adil_oran": 13.43,
+   "en_olasi": "İY 0-0 / MS 0-0",
+   "en_olasi_p": 0.0745,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 0-0 / MS 0-0",
+     0.0745
+    ],
+    [
+     "İY 0-0 / MS 1-0",
+     0.0684
+    ],
+    [
+     "İY 1-0 / MS 1-0",
+     0.0466
+    ],
+    [
+     "İY 0-0 / MS 0-1",
+     0.0454
+    ],
+    [
+     "İY 1-0 / MS 2-0",
+     0.0429
+    ],
+    [
+     "İY 0-0 / MS 1-1",
+     0.0422
+    ],
+    [
+     "İY 0-1 / MS 0-1",
+     0.0313
+    ],
+    [
+     "İY 0-0 / MS 2-0",
+     0.0312
+    ],
+    [
+     "İY 1-0 / MS 1-1",
+     0.0291
+    ],
+    [
+     "İY 0-1 / MS 1-1",
+     0.0285
+    ],
+    [
+     "İY 1-0 / MS 2-1",
+     0.0268
+    ],
+    [
+     "İY 1-1 / MS 1-1",
+     0.0201
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Maç Skoru Beraberlik (0-0 hariç)",
+   "oneri": "Hayır",
+   "olasilik": 0.8206,
+   "adil_oran": 1.22,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8206,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1794
+    ],
+    [
+     "Hayır",
+     0.8206
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Hollanda U21 Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.2376,
+   "adil_oran": 4.21,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2376,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2376
+    ],
+    [
+     "2 farkla",
+     0.1495
+    ],
+    [
+     "3 farkla",
+     0.0685
+    ],
+    [
+     "4+ farkla",
+     0.0334
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Danimarka U21 : Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.1609,
+   "adil_oran": 6.21,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1609,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1609
+    ],
+    [
+     "2 farkla",
+     0.0691
+    ],
+    [
+     "3 farkla",
+     0.0208
+    ],
+    [
+     "4+ farkla",
+     0.0063
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Hollanda U21 Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.1831,
+   "adil_oran": 5.46,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.1831,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.115
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.1831
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.12
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.0708
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Danimarka U21 Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.1046,
+   "adil_oran": 9.56,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.1046,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.0767
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.1046
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.0548
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.0211
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Hollanda U21 Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7248,
+   "adil_oran": 1.38,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7248,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2752
+    ],
+    [
+     "Hayır",
+     0.7248
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Danimarka U21 Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8636,
+   "adil_oran": 1.16,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8636,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1364
+    ],
+    [
+     "Hayır",
+     0.8636
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Hollanda U21 İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.782,
+   "adil_oran": 1.28,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.782,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.218
+    ],
+    [
+     "Hayır",
+     0.782
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Danimarka U21 İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9101,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9101,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0899
+    ],
+    [
+     "Hayır",
+     0.9101
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Hollanda U21 Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.5086,
+   "adil_oran": 1.97,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5086,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4914
+    ],
+    [
+     "Hayır",
+     0.5086
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Danimarka U21 Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.5852,
+   "adil_oran": 1.71,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5852,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4148
+    ],
+    [
+     "Hayır",
+     0.5852
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Hollanda U21 En Az Bir Yarıyı Kazanır",
+   "oneri": "Evet",
+   "olasilik": 0.6118,
+   "adil_oran": 1.63,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6118,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6118
+    ],
+    [
+     "Hayır",
+     0.3882
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Danimarka U21 En Az Bir Yarıyı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.6038,
+   "adil_oran": 1.66,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6038,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3962
+    ],
+    [
+     "Hayır",
+     0.6038
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Hollanda U21 İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.9356,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9356,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0644
+    ],
+    [
+     "Hayır",
+     0.9356
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Danimarka U21 İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.9267,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9267,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0733
+    ],
+    [
+     "Hayır",
+     0.9267
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Sonucu",
+   "oneri": "X",
+   "olasilik": 0.4469,
+   "adil_oran": 2.24,
+   "en_olasi": "X",
+   "en_olasi_p": 0.4469,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Hollanda U21)",
+     0.3452
+    ],
+    [
+     "X",
+     0.4469
+    ],
+    [
+     "2 (Danimarka U21)",
+     0.2079
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Çifte Şans",
+   "oneri": "1X",
+   "olasilik": 0.7921,
+   "adil_oran": 1.26,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.7921,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.7921
+    ],
+    [
+     "12",
+     0.5531
+    ],
+    [
+     "X2",
+     0.6548
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.7097,
+   "adil_oran": 1.41,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.9073,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.6543
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.3457
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.2903
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.7097
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.0927
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.9073
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 1. Takım Toplam Gol",
+   "oneri": "Hollanda U21 0,5 Alt",
+   "olasilik": 0.5291,
+   "adil_oran": 1.89,
+   "en_olasi": "Hollanda U21 1,5 Alt",
+   "en_olasi_p": 0.8647,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 0,5 Üst",
+     0.4709
+    ],
+    [
+     "Hollanda U21 0,5 Alt",
+     0.5291
+    ],
+    [
+     "Hollanda U21 1,5 Üst",
+     0.1353
+    ],
+    [
+     "Hollanda U21 1,5 Alt",
+     0.8647
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 2. Takım Toplam Gol",
+   "oneri": "Danimarka U21 0,5 Alt",
+   "olasilik": 0.652,
+   "adil_oran": 1.53,
+   "en_olasi": "Danimarka U21 1,5 Alt",
+   "en_olasi_p": 0.9292,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Danimarka U21 0,5 Üst",
+     0.348
+    ],
+    [
+     "Danimarka U21 0,5 Alt",
+     0.652
+    ],
+    [
+     "Danimarka U21 1,5 Üst",
+     0.0708
+    ],
+    [
+     "Danimarka U21 1,5 Alt",
+     0.9292
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Hollanda U21 Toplam Gol Asya",
+   "oneri": "Hollanda U21 Asya 1 Alt",
+   "olasilik": 0.7963,
+   "adil_oran": 1.26,
+   "en_olasi": "Hollanda U21 Asya 1 Alt",
+   "en_olasi_p": 0.7963,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 Asya 0,5 Üst",
+     0.4709
+    ],
+    [
+     "Hollanda U21 Asya 0,5 Alt",
+     0.5291
+    ],
+    [
+     "Hollanda U21 Asya 0,75 Üst",
+     0.3642
+    ],
+    [
+     "Hollanda U21 Asya 0,75 Alt",
+     0.6358
+    ],
+    [
+     "Hollanda U21 Asya 1 Üst",
+     0.2037
+    ],
+    [
+     "Hollanda U21 Asya 1 Alt",
+     0.7963
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Danimarka U21 Toplam Gol Asya",
+   "oneri": "Danimarka U21 Asya 0,5 Alt",
+   "olasilik": 0.652,
+   "adil_oran": 1.53,
+   "en_olasi": "Danimarka U21 Asya 0,5 Alt",
+   "en_olasi_p": 0.652,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Danimarka U21 Asya 0,25 Üst",
+     0.5163
+    ],
+    [
+     "Danimarka U21 Asya 0,25 Alt",
+     0.4837
+    ],
+    [
+     "Danimarka U21 Asya 0,5 Üst",
+     0.348
+    ],
+    [
+     "Danimarka U21 Asya 0,5 Alt",
+     0.652
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8354,
+   "adil_oran": 1.2,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8354,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1646
+    ],
+    [
+     "Hayır",
+     0.8354
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı",
+   "oneri": "Hollanda U21 +0,5",
+   "olasilik": 0.7921,
+   "adil_oran": 1.26,
+   "en_olasi": "Hollanda U21 +1,5",
+   "en_olasi_p": 0.9589,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 -1,5",
+     0.096
+    ],
+    [
+     "Danimarka U21 +1,5",
+     0.904
+    ],
+    [
+     "Hollanda U21 -0,5",
+     0.3452
+    ],
+    [
+     "Danimarka U21 +0,5",
+     0.6548
+    ],
+    [
+     "Hollanda U21 +0,5",
+     0.7921
+    ],
+    [
+     "Danimarka U21 -0,5",
+     0.2079
+    ],
+    [
+     "Hollanda U21 +1,5",
+     0.9589
+    ],
+    [
+     "Danimarka U21 -1,5",
+     0.0411
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Goller Asya Handikapı",
+   "oneri": "Hollanda U21 Asya +0,5",
+   "olasilik": 0.7921,
+   "adil_oran": 1.26,
+   "en_olasi": "Hollanda U21 Asya +0,5",
+   "en_olasi_p": 0.7921,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 Asya -1",
+     0.1278
+    ],
+    [
+     "Danimarka U21 Asya -1",
+     0.0493
+    ],
+    [
+     "Hollanda U21 Asya -0,75",
+     0.252
+    ],
+    [
+     "Danimarka U21 Asya -0,75",
+     0.1358
+    ],
+    [
+     "Hollanda U21 Asya -0,5",
+     0.3452
+    ],
+    [
+     "Danimarka U21 Asya -0,5",
+     0.2079
+    ],
+    [
+     "Hollanda U21 Asya -0,25",
+     0.4445
+    ],
+    [
+     "Danimarka U21 Asya -0,25",
+     0.2677
+    ],
+    [
+     "Hollanda U21 Asya 0",
+     0.6241
+    ],
+    [
+     "Danimarka U21 Asya 0",
+     0.3759
+    ],
+    [
+     "Hollanda U21 Asya +0,25",
+     0.7323
+    ],
+    [
+     "Danimarka U21 Asya +0,25",
+     0.5555
+    ],
+    [
+     "Hollanda U21 Asya +0,5",
+     0.7921
+    ],
+    [
+     "Danimarka U21 Asya +0,5",
+     0.6548
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Hollanda U21 (+1)",
+   "olasilik": 0.7921,
+   "adil_oran": 1.26,
+   "en_olasi": "Hollanda U21 (+2)",
+   "en_olasi_p": 0.9589,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 (-2)",
+     0.0184
+    ],
+    [
+     "X (-2)",
+     0.0775
+    ],
+    [
+     "Danimarka U21 (-2)",
+     0.904
+    ],
+    [
+     "Hollanda U21 (-1)",
+     0.096
+    ],
+    [
+     "X (-1)",
+     0.2492
+    ],
+    [
+     "Danimarka U21 (-1)",
+     0.6548
+    ],
+    [
+     "Hollanda U21 (+1)",
+     0.7921
+    ],
+    [
+     "X (+1)",
+     0.1669
+    ],
+    [
+     "Danimarka U21 (+1)",
+     0.0411
+    ],
+    [
+     "Hollanda U21 (+2)",
+     0.9589
+    ],
+    [
+     "X (+2)",
+     0.0356
+    ],
+    [
+     "Danimarka U21 (+2)",
+     0.0054
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Asya",
+   "oneri": "Toplam Asya 1,25 Alt",
+   "olasilik": 0.6451,
+   "adil_oran": 1.55,
+   "en_olasi": "Toplam Asya 1,25 Alt",
+   "en_olasi_p": 0.6451,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam Asya 0,75 Üst",
+     0.5774
+    ],
+    [
+     "Toplam Asya 0,75 Alt",
+     0.4226
+    ],
+    [
+     "Toplam Asya 1 Üst",
+     0.4564
+    ],
+    [
+     "Toplam Asya 1 Alt",
+     0.5436
+    ],
+    [
+     "Toplam Asya 1,25 Üst",
+     0.3549
+    ],
+    [
+     "Toplam Asya 1,25 Alt",
+     0.6451
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Toplam Gol (3-İhtimalli)",
+   "oneri": "Tam 1",
+   "olasilik": 0.3641,
+   "adil_oran": 2.75,
+   "en_olasi": "Tam 1",
+   "en_olasi_p": 0.3641,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.3457
+    ],
+    [
+     "Tam 1",
+     0.3641
+    ],
+    [
+     "1 Üst",
+     0.2903
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "X & KG Yok",
+   "olasilik": 0.3457,
+   "adil_oran": 2.89,
+   "en_olasi": "X & KG Yok",
+   "en_olasi_p": 0.3457,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0389
+    ],
+    [
+     "1 & KG Yok",
+     0.3064
+    ],
+    [
+     "X & KG Var",
+     0.1012
+    ],
+    [
+     "X & KG Yok",
+     0.3457
+    ],
+    [
+     "2 & KG Var",
+     0.0245
+    ],
+    [
+     "2 & KG Yok",
+     0.1834
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Aralığı",
+   "oneri": "1 gol",
+   "olasilik": 0.3641,
+   "adil_oran": 2.75,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3641,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3457
+    ],
+    [
+     "1 gol",
+     0.3641
+    ],
+    [
+     "2-3 gol",
+     0.2663
+    ],
+    [
+     "4+ gol",
+     0.024
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Hollanda U21 Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.5291,
+   "adil_oran": 1.89,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5291,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5291
+    ],
+    [
+     "1 gol",
+     0.3356
+    ],
+    [
+     "2+ gol",
+     0.1353
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Danimarka U21 Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.652,
+   "adil_oran": 1.53,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.652,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.652
+    ],
+    [
+     "1 gol",
+     0.2772
+    ],
+    [
+     "2+ gol",
+     0.0708
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7097,
+   "adil_oran": 1.41,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7097,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.7097
+    ],
+    [
+     "1-2 gol",
+     0.5616
+    ],
+    [
+     "2-3 gol",
+     0.2663
+    ],
+    [
+     "3+ gol",
+     0.0927
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.5291,
+   "adil_oran": 1.89,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.8647,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5291
+    ],
+    [
+     "0-1 gol",
+     0.8647
+    ],
+    [
+     "1-2 gol",
+     0.4443
+    ],
+    [
+     "2+ gol",
+     0.1353
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.652,
+   "adil_oran": 1.53,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.9292,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.652
+    ],
+    [
+     "0-1 gol",
+     0.9292
+    ],
+    [
+     "1-2 gol",
+     0.3381
+    ],
+    [
+     "2+ gol",
+     0.0708
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3641,
+   "adil_oran": 2.75,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3641,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3457
+    ],
+    [
+     "1 gol",
+     0.3641
+    ],
+    [
+     "2 gol",
+     0.1975
+    ],
+    [
+     "3 gol",
+     0.0688
+    ],
+    [
+     "4+ gol",
+     0.024
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Hollanda U21 Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.5291,
+   "adil_oran": 1.89,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5291,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5291
+    ],
+    [
+     "1 gol",
+     0.3356
+    ],
+    [
+     "2 gol",
+     0.1087
+    ],
+    [
+     "3+ gol",
+     0.0266
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Danimarka U21 Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.652,
+   "adil_oran": 1.53,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.652,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.652
+    ],
+    [
+     "1 gol",
+     0.2772
+    ],
+    [
+     "2 gol",
+     0.0609
+    ],
+    [
+     "3+ gol",
+     0.0099
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Hollanda U21 Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.2492,
+   "adil_oran": 4.01,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2492,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2492
+    ],
+    [
+     "2 farkla",
+     0.0775
+    ],
+    [
+     "3+ farkla",
+     0.0184
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Danimarka U21 Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.1669,
+   "adil_oran": 5.99,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1669,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1669
+    ],
+    [
+     "2 farkla",
+     0.0356
+    ],
+    [
+     "3+ farkla",
+     0.0054
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Hollanda U21 Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.6936,
+   "adil_oran": 1.44,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6936,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3064
+    ],
+    [
+     "Hayır",
+     0.6936
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Danimarka U21 Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8166,
+   "adil_oran": 1.22,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8166,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1834
+    ],
+    [
+     "Hayır",
+     0.8166
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı İlk Golü Atacak Takım",
+   "oneri": "Hollanda U21",
+   "olasilik": 0.3914,
+   "adil_oran": 2.56,
+   "en_olasi": "Hollanda U21",
+   "en_olasi_p": 0.3914,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21",
+     0.3914
+    ],
+    [
+     "Gol yok",
+     0.3457
+    ],
+    [
+     "Danimarka U21",
+     0.263
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Son Golü Atacak Takım",
+   "oneri": "Hollanda U21",
+   "olasilik": 0.391,
+   "adil_oran": 2.56,
+   "en_olasi": "Hollanda U21",
+   "en_olasi_p": 0.391,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21",
+     0.391
+    ],
+    [
+     "Gol yok",
+     0.3457
+    ],
+    [
+     "Danimarka U21",
+     0.2633
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Doğru Skor",
+   "oneri": "0-0",
+   "olasilik": 0.3457,
+   "adil_oran": 2.89,
+   "en_olasi": "0-0",
+   "en_olasi_p": 0.3457,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-0",
+     0.3457
+    ],
+    [
+     "1-0",
+     0.2181
+    ],
+    [
+     "0-1",
+     0.146
+    ],
+    [
+     "1-1",
+     0.0941
+    ],
+    [
+     "2-0",
+     0.0711
+    ],
+    [
+     "0-2",
+     0.0323
+    ],
+    [
+     "2-1",
+     0.0296
+    ],
+    [
+     "1-2",
+     0.0199
+    ],
+    [
+     "3-0",
+     0.0147
+    ],
+    [
+     "2-2",
+     0.0069
+    ],
+    [
+     "3-1",
+     0.0063
+    ],
+    [
+     "Diğer",
+     0.005
+    ],
+    [
+     "0-3",
+     0.0046
+    ],
+    [
+     "1-3",
+     0.0032
+    ],
+    [
+     "3-2",
+     0.0015
+    ],
+    [
+     "2-3",
+     0.0009
+    ],
+    [
+     "3-3",
+     0.0002
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Sonucu",
+   "oneri": "1 (Hollanda U21)",
+   "olasilik": 0.4059,
+   "adil_oran": 2.46,
+   "en_olasi": "1 (Hollanda U21)",
+   "en_olasi_p": 0.4059,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Hollanda U21)",
+     0.4059
+    ],
+    [
+     "X",
+     0.3569
+    ],
+    [
+     "2 (Danimarka U21)",
+     0.2372
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Çifte Şans",
+   "oneri": "1X",
+   "olasilik": 0.7628,
+   "adil_oran": 1.31,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.7628,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.7628
+    ],
+    [
+     "12",
+     0.6431
+    ],
+    [
+     "X2",
+     0.5941
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.7987,
+   "adil_oran": 1.25,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.7987,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7851
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2149
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.4557
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.5443
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.2013
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.7987
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Hollanda U21 Toplam Gol",
+   "oneri": "Hollanda U21 1,5 Alt",
+   "olasilik": 0.7669,
+   "adil_oran": 1.3,
+   "en_olasi": "Hollanda U21 1,5 Alt",
+   "en_olasi_p": 0.7669,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 0,5 Üst",
+     0.6
+    ],
+    [
+     "Hollanda U21 0,5 Alt",
+     0.4
+    ],
+    [
+     "Hollanda U21 1,5 Üst",
+     0.2331
+    ],
+    [
+     "Hollanda U21 1,5 Alt",
+     0.7669
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Danimarka U21 Toplam Gol",
+   "oneri": "Danimarka U21 0,5 Alt",
+   "olasilik": 0.5364,
+   "adil_oran": 1.86,
+   "en_olasi": "Danimarka U21 1,5 Alt",
+   "en_olasi_p": 0.87,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Danimarka U21 0,5 Üst",
+     0.4636
+    ],
+    [
+     "Danimarka U21 0,5 Alt",
+     0.5364
+    ],
+    [
+     "Danimarka U21 1,5 Üst",
+     0.13
+    ],
+    [
+     "Danimarka U21 1,5 Alt",
+     0.87
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7215,
+   "adil_oran": 1.39,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7215,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2785
+    ],
+    [
+     "Hayır",
+     0.7215
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı",
+   "oneri": "Hollanda U21 +0,5",
+   "olasilik": 0.7628,
+   "adil_oran": 1.31,
+   "en_olasi": "Hollanda U21 +1,5",
+   "en_olasi_p": 0.9378,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 -1,5",
+     0.1479
+    ],
+    [
+     "Danimarka U21 +1,5",
+     0.8521
+    ],
+    [
+     "Hollanda U21 -0,5",
+     0.4059
+    ],
+    [
+     "Danimarka U21 +0,5",
+     0.5941
+    ],
+    [
+     "Hollanda U21 +0,5",
+     0.7628
+    ],
+    [
+     "Danimarka U21 -0,5",
+     0.2372
+    ],
+    [
+     "Hollanda U21 +1,5",
+     0.9378
+    ],
+    [
+     "Danimarka U21 -1,5",
+     0.0622
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Hollanda U21 (+1)",
+   "olasilik": 0.7628,
+   "adil_oran": 1.31,
+   "en_olasi": "Hollanda U21 (+2)",
+   "en_olasi_p": 0.9378,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 (-2)",
+     0.0404
+    ],
+    [
+     "X (-2)",
+     0.1075
+    ],
+    [
+     "Danimarka U21 (-2)",
+     0.8521
+    ],
+    [
+     "Hollanda U21 (-1)",
+     0.1479
+    ],
+    [
+     "X (-1)",
+     0.2579
+    ],
+    [
+     "Danimarka U21 (-1)",
+     0.5941
+    ],
+    [
+     "Hollanda U21 (+1)",
+     0.7628
+    ],
+    [
+     "X (+1)",
+     0.175
+    ],
+    [
+     "Danimarka U21 (+1)",
+     0.0622
+    ],
+    [
+     "Hollanda U21 (+2)",
+     0.9378
+    ],
+    [
+     "X (+2)",
+     0.0507
+    ],
+    [
+     "Danimarka U21 (+2)",
+     0.0115
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.3215,
+   "adil_oran": 3.11,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.3215,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0844
+    ],
+    [
+     "1 & KG Yok",
+     0.3215
+    ],
+    [
+     "X & KG Var",
+     0.142
+    ],
+    [
+     "X & KG Yok",
+     0.2149
+    ],
+    [
+     "2 & KG Var",
+     0.0521
+    ],
+    [
+     "2 & KG Yok",
+     0.1851
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol Aralığı",
+   "oneri": "2-3 gol",
+   "olasilik": 0.3852,
+   "adil_oran": 2.6,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.3852,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2149
+    ],
+    [
+     "1 gol",
+     0.3294
+    ],
+    [
+     "2-3 gol",
+     0.3852
+    ],
+    [
+     "4+ gol",
+     0.0705
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Hollanda U21 Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.4,
+   "adil_oran": 2.5,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4
+    ],
+    [
+     "1 gol",
+     0.3669
+    ],
+    [
+     "2+ gol",
+     0.2331
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Danimarka U21 Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.5364,
+   "adil_oran": 1.86,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5364,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5364
+    ],
+    [
+     "1 gol",
+     0.3336
+    ],
+    [
+     "2+ gol",
+     0.13
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5838,
+   "adil_oran": 1.71,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5838,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.5443
+    ],
+    [
+     "1-2 gol",
+     0.5838
+    ],
+    [
+     "2-3 gol",
+     0.3852
+    ],
+    [
+     "3+ gol",
+     0.2013
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7669,
+   "adil_oran": 1.3,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7669,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4
+    ],
+    [
+     "0-1 gol",
+     0.7669
+    ],
+    [
+     "1-2 gol",
+     0.5349
+    ],
+    [
+     "2+ gol",
+     0.2331
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.5364,
+   "adil_oran": 1.86,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.87,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5364
+    ],
+    [
+     "0-1 gol",
+     0.87
+    ],
+    [
+     "1-2 gol",
+     0.4382
+    ],
+    [
+     "2+ gol",
+     0.13
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3294,
+   "adil_oran": 3.04,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3294,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2149
+    ],
+    [
+     "1 gol",
+     0.3294
+    ],
+    [
+     "2 gol",
+     0.2544
+    ],
+    [
+     "3 gol",
+     0.1308
+    ],
+    [
+     "4+ gol",
+     0.0705
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Hollanda U21 Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.4,
+   "adil_oran": 2.5,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4
+    ],
+    [
+     "1 gol",
+     0.3669
+    ],
+    [
+     "2 gol",
+     0.1681
+    ],
+    [
+     "3+ gol",
+     0.0651
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Danimarka U21 Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.5364,
+   "adil_oran": 1.86,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5364,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5364
+    ],
+    [
+     "1 gol",
+     0.3336
+    ],
+    [
+     "2 gol",
+     0.1046
+    ],
+    [
+     "3+ gol",
+     0.0254
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Hollanda U21 Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.2579,
+   "adil_oran": 3.88,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2579,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2579
+    ],
+    [
+     "2 farkla",
+     0.1075
+    ],
+    [
+     "3+ farkla",
+     0.0404
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Danimarka U21 Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.175,
+   "adil_oran": 5.71,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.175,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.175
+    ],
+    [
+     "2 farkla",
+     0.0507
+    ],
+    [
+     "3+ farkla",
+     0.0115
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Hollanda U21 Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.6785,
+   "adil_oran": 1.47,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6785,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3215
+    ],
+    [
+     "Hayır",
+     0.6785
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Danimarka U21 Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8149,
+   "adil_oran": 1.23,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8149,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1851
+    ],
+    [
+     "Hayır",
+     0.8149
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı İlk Golü Atacak Takım",
+   "oneri": "Hollanda U21",
+   "olasilik": 0.4662,
+   "adil_oran": 2.15,
+   "en_olasi": "Hollanda U21",
+   "en_olasi_p": 0.4662,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21",
+     0.4662
+    ],
+    [
+     "Gol yok",
+     0.2149
+    ],
+    [
+     "Danimarka U21",
+     0.319
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Son Golü Atacak Takım",
+   "oneri": "Hollanda U21",
+   "olasilik": 0.4678,
+   "adil_oran": 2.14,
+   "en_olasi": "Hollanda U21",
+   "en_olasi_p": 0.4678,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21",
+     0.4678
+    ],
+    [
+     "Gol yok",
+     0.2149
+    ],
+    [
+     "Danimarka U21",
+     0.3173
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Doğru Skor",
+   "oneri": "0-0",
+   "olasilik": 0.2149,
+   "adil_oran": 4.65,
+   "en_olasi": "0-0",
+   "en_olasi_p": 0.2149,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-0",
+     0.2149
+    ],
+    [
+     "1-0",
+     0.1964
+    ],
+    [
+     "0-1",
+     0.133
+    ],
+    [
+     "1-1",
+     0.1228
+    ],
+    [
+     "2-0",
+     0.0895
+    ],
+    [
+     "2-1",
+     0.0563
+    ],
+    [
+     "0-2",
+     0.0421
+    ],
+    [
+     "1-2",
+     0.0382
+    ],
+    [
+     "3-0",
+     0.0278
+    ],
+    [
+     "2-2",
+     0.018
+    ],
+    [
+     "Diğer",
+     0.0177
+    ],
+    [
+     "3-1",
+     0.0169
+    ],
+    [
+     "0-3",
+     0.0085
+    ],
+    [
+     "1-3",
+     0.0081
+    ],
+    [
+     "3-2",
+     0.005
+    ],
+    [
+     "2-3",
+     0.0037
+    ],
+    [
+     "3-3",
+     0.0012
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Karşılıklı Gol",
+   "oneri": "İY Yok / 2Y Yok",
+   "olasilik": 0.6028,
+   "adil_oran": 1.66,
+   "en_olasi": "İY Yok / 2Y Yok",
+   "en_olasi_p": 0.6028,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Var / 2Y Var",
+     0.0459
+    ],
+    [
+     "İY Var / 2Y Yok",
+     0.1187
+    ],
+    [
+     "İY Yok / 2Y Var",
+     0.2327
+    ],
+    [
+     "İY Yok / 2Y Yok",
+     0.6028
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı veya Maç Sonucu",
+   "oneri": "İY 1 veya MS 1",
+   "olasilik": 0.5534,
+   "adil_oran": 1.81,
+   "en_olasi": "İY 1 veya MS 1",
+   "en_olasi_p": 0.5534,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 1 veya MS 1",
+     0.5534
+    ],
+    [
+     "İY X veya MS X",
+     0.5416
+    ],
+    [
+     "İY 2 veya MS 2",
+     0.3305
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarı/Maç Sonucu",
+   "oneri": "1/1",
+   "olasilik": 0.2808,
+   "adil_oran": 3.56,
+   "en_olasi": "1/1",
+   "en_olasi_p": 0.2808,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.2808
+    ],
+    [
+     "1/X",
+     0.0477
+    ],
+    [
+     "1/2",
+     0.0167
+    ],
+    [
+     "X/1",
+     0.1819
+    ],
+    [
+     "X/X",
+     0.1591
+    ],
+    [
+     "X/2",
+     0.1058
+    ],
+    [
+     "2/1",
+     0.0262
+    ],
+    [
+     "2/X",
+     0.0471
+    ],
+    [
+     "2/2",
+     0.1346
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Sonucu",
+   "oneri": "X/1",
+   "olasilik": 0.1819,
+   "adil_oran": 5.5,
+   "en_olasi": "X/1",
+   "en_olasi_p": 0.1819,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.1393
+    ],
+    [
+     "1/X",
+     0.1235
+    ],
+    [
+     "1/2",
+     0.0824
+    ],
+    [
+     "X/1",
+     0.1819
+    ],
+    [
+     "X/X",
+     0.1591
+    ],
+    [
+     "X/2",
+     0.1058
+    ],
+    [
+     "2/1",
+     0.0847
+    ],
+    [
+     "2/X",
+     0.0743
+    ],
+    [
+     "2/2",
+     0.049
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.4826,
+   "adil_oran": 2.07,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.4826,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.263
+    ],
+    [
+     "Eşit",
+     0.2544
+    ],
+    [
+     "2. Yarı",
+     0.4826
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı : Çifte Şans",
+   "oneri": "1. veya 2. Yarı",
+   "olasilik": 0.7456,
+   "adil_oran": 1.34,
+   "en_olasi": "1. veya 2. Yarı",
+   "en_olasi_p": 0.7456,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı veya Eşit",
+     0.5174
+    ],
+    [
+     "2. Yarı veya Eşit",
+     0.737
+    ],
+    [
+     "1. veya 2. Yarı",
+     0.7456
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Hollanda U21 : En Çok Gol Attığı Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.4035,
+   "adil_oran": 2.48,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.4035,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2434
+    ],
+    [
+     "Eşit",
+     0.3531
+    ],
+    [
+     "2. Yarı",
+     0.4035
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Danimarka U21 : En Çok Gol Attığı Yarı",
+   "oneri": "Eşit",
+   "olasilik": 0.4482,
+   "adil_oran": 2.23,
+   "en_olasi": "Eşit",
+   "en_olasi_p": 0.4482,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2115
+    ],
+    [
+     "Eşit",
+     0.4482
+    ],
+    [
+     "2. Yarı",
+     0.3403
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Hollanda U21 : Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.7183,
+   "adil_oran": 1.39,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7183,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2817
+    ],
+    [
+     "Hayır",
+     0.7183
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Danimarka U21 Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8387,
+   "adil_oran": 1.19,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8387,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1613
+    ],
+    [
+     "Hayır",
+     0.8387
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Hollanda U21 : İlk Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.5291,
+   "adil_oran": 1.89,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5291,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4709
+    ],
+    [
+     "Hayır",
+     0.5291
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Danimarka U21 İlk Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.652,
+   "adil_oran": 1.53,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.652,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.348
+    ],
+    [
+     "Hayır",
+     0.652
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Hollanda U21 : İkinci Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.6,
+   "adil_oran": 1.67,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6
+    ],
+    [
+     "Hayır",
+     0.4
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Danimarka U21 İkinci Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.5364,
+   "adil_oran": 1.86,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5364,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4636
+    ],
+    [
+     "Hayır",
+     0.5364
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.6543,
+   "adil_oran": 1.53,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6543,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6543
+    ],
+    [
+     "Hayır",
+     0.3457
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İkinci Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.7851,
+   "adil_oran": 1.27,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7851,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7851
+    ],
+    [
+     "Hayır",
+     0.2149
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarıda da 1.5 Üst Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8679,
+   "adil_oran": 1.15,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8679,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1321
+    ],
+    [
+     "Hayır",
+     0.8679
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarı Goller 1.5 Alt",
+   "oneri": "Hayır",
+   "olasilik": 0.6139,
+   "adil_oran": 1.63,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6139,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3861
+    ],
+    [
+     "Hayır",
+     0.6139
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Hollanda U21 : Gol Atar 1.Yarı/2.Yarı",
+   "oneri": "Hayır/Evet",
+   "olasilik": 0.3183,
+   "adil_oran": 3.14,
+   "en_olasi": "Hayır/Evet",
+   "en_olasi_p": 0.3183,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.2817
+    ],
+    [
+     "Evet/Hayır",
+     0.1892
+    ],
+    [
+     "Hayır/Evet",
+     0.3183
+    ],
+    [
+     "Hayır/Hayır",
+     0.2108
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Danimarka U21 Gol Atar İlk Yarı/İkinci Yarı",
+   "oneri": "Hayır/Hayır",
+   "olasilik": 0.3497,
+   "adil_oran": 2.86,
+   "en_olasi": "Hayır/Hayır",
+   "en_olasi_p": 0.3497,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.1613
+    ],
+    [
+     "Evet/Hayır",
+     0.1867
+    ],
+    [
+     "Hayır/Evet",
+     0.3023
+    ],
+    [
+     "Hayır/Hayır",
+     0.3497
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarıları Farklı Takımlar Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8329,
+   "adil_oran": 1.2,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8329,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1671
+    ],
+    [
+     "Hayır",
+     0.8329
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarılardan En Az Birinde Beraberlik",
+   "oneri": "Evet",
+   "olasilik": 0.6447,
+   "adil_oran": 1.55,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6447,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6447
+    ],
+    [
+     "Hayır",
+     0.3553
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1.Yarı Toplam Gol'e karşı 2. Yarı Toplam Gol Handikapı",
+   "oneri": "1. Yarı +1,5",
+   "olasilik": 0.7536,
+   "adil_oran": 1.33,
+   "en_olasi": "1. Yarı +1,5",
+   "en_olasi_p": 0.7536,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "2. Yarı -1,5",
+     0.2464
+    ],
+    [
+     "2. Yarı -0,5",
+     0.4826
+    ],
+    [
+     "2. Yarı +0,5",
+     0.737
+    ],
+    [
+     "1. Yarı +1,5",
+     0.7536
+    ],
+    [
+     "1. Yarı +0,5",
+     0.5174
+    ],
+    [
+     "1. Yarı -0,5",
+     0.263
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8124,
+   "adil_oran": 1.23,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8124,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1876
+    ],
+    [
+     "Hayır",
+     0.8124
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Köşe Vuruşu",
+   "oneri": "Evet",
+   "olasilik": 0.5956,
+   "adil_oran": 1.68,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5956,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5956
+    ],
+    [
+     "Hayır",
+     0.4044
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Hollanda U21 : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Hollanda U21 0,5 Alt",
+   "olasilik": 0.6489,
+   "adil_oran": 1.54,
+   "en_olasi": "Hollanda U21 1,5 Alt",
+   "en_olasi_p": 0.9303,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 0,5 Üst",
+     0.3511
+    ],
+    [
+     "Hollanda U21 0,5 Alt",
+     0.6489
+    ],
+    [
+     "Hollanda U21 1,5 Üst",
+     0.0697
+    ],
+    [
+     "Hollanda U21 1,5 Alt",
+     0.9303
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Danimarka U21 : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Danimarka U21 0,5 Alt",
+   "olasilik": 0.624,
+   "adil_oran": 1.6,
+   "en_olasi": "Danimarka U21 0,5 Alt",
+   "en_olasi_p": 0.624,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Danimarka U21 0,5 Üst",
+     0.376
+    ],
+    [
+     "Danimarka U21 0,5 Alt",
+     0.624
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Sarı Kartlar",
+   "oneri": "Hayır",
+   "olasilik": 0.7884,
+   "adil_oran": 1.27,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7884,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2115
+    ],
+    [
+     "Hayır",
+     0.7884
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.7477,
+   "adil_oran": 1.34,
+   "en_olasi": "X",
+   "en_olasi_p": 0.7477,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Hollanda U21)",
+     0.1523
+    ],
+    [
+     "X",
+     0.7477
+    ],
+    [
+     "2 (Danimarka U21)",
+     0.1001
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Gol Handikapı",
+   "oneri": "Hollanda U21 (+1)",
+   "olasilik": 0.8999,
+   "adil_oran": 1.11,
+   "en_olasi": "Hollanda U21 (+1)",
+   "en_olasi_p": 0.8999,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 (-1)",
+     0.0137
+    ],
+    [
+     "X (-1)",
+     0.1386
+    ],
+    [
+     "Danimarka U21 (-1)",
+     0.8477
+    ],
+    [
+     "Hollanda U21 (+1)",
+     0.8999
+    ],
+    [
+     "X (+1)",
+     0.094
+    ],
+    [
+     "Danimarka U21 (+1)",
+     0.0061
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.7302,
+   "adil_oran": 1.37,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.96,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.2698
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.7302
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.04
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.96
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Hollanda U21 Toplam Goller",
+   "oneri": "Hollanda U21 0,5 Alt",
+   "olasilik": 0.829,
+   "adil_oran": 1.21,
+   "en_olasi": "Hollanda U21 1,5 Alt",
+   "en_olasi_p": 0.9846,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 0,5 Üst",
+     0.1709
+    ],
+    [
+     "Hollanda U21 0,5 Alt",
+     0.829
+    ],
+    [
+     "Hollanda U21 1,5 Üst",
+     0.0154
+    ],
+    [
+     "Hollanda U21 1,5 Alt",
+     0.9846
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Danimarka U21 Toplam Goller",
+   "oneri": "Danimarka U21 0,5 Alt",
+   "olasilik": 0.8807,
+   "adil_oran": 1.14,
+   "en_olasi": "Danimarka U21 0,5 Alt",
+   "en_olasi_p": 0.8807,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Danimarka U21 0,5 Üst",
+     0.1193
+    ],
+    [
+     "Danimarka U21 0,5 Alt",
+     0.8807
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. İki Takım Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.9796,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9796,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0204
+    ],
+    [
+     "Hayır",
+     0.9796
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.5742,
+   "adil_oran": 1.74,
+   "en_olasi": "X",
+   "en_olasi_p": 0.5742,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Hollanda U21)",
+     0.2612
+    ],
+    [
+     "X",
+     0.5742
+    ],
+    [
+     "2 (Danimarka U21)",
+     0.1646
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Gol Handikapı",
+   "oneri": "Danimarka U21 (-1)",
+   "olasilik": 0.7388,
+   "adil_oran": 1.35,
+   "en_olasi": "Hollanda U21 (+1)",
+   "en_olasi_p": 0.8354,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 (-1)",
+     0.0468
+    ],
+    [
+     "X (-1)",
+     0.2144
+    ],
+    [
+     "Danimarka U21 (-1)",
+     0.7388
+    ],
+    [
+     "Hollanda U21 (+1)",
+     0.8354
+    ],
+    [
+     "X (+1)",
+     0.1441
+    ],
+    [
+     "Danimarka U21 (+1)",
+     0.0205
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.5197,
+   "adil_oran": 1.92,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.8605,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.4803
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.5197
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.1395
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.8605
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Hollanda U21 Toplam Goller",
+   "oneri": "Hollanda U21 0,5 Alt",
+   "olasilik": 0.6764,
+   "adil_oran": 1.48,
+   "en_olasi": "Hollanda U21 1,5 Alt",
+   "en_olasi_p": 0.941,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 0,5 Üst",
+     0.3236
+    ],
+    [
+     "Hollanda U21 0,5 Alt",
+     0.6764
+    ],
+    [
+     "Hollanda U21 1,5 Üst",
+     0.059
+    ],
+    [
+     "Hollanda U21 1,5 Alt",
+     0.941
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Danimarka U21 Toplam Goller",
+   "oneri": "Danimarka U21 0,5 Alt",
+   "olasilik": 0.7687,
+   "adil_oran": 1.3,
+   "en_olasi": "Danimarka U21 0,5 Alt",
+   "en_olasi_p": 0.7687,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Danimarka U21 0,5 Üst",
+     0.2313
+    ],
+    [
+     "Danimarka U21 0,5 Alt",
+     0.7687
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Galibi",
+   "oneri": "1 (Hollanda U21)",
+   "olasilik": 0.4024,
+   "adil_oran": 2.49,
+   "en_olasi": "1 (Hollanda U21)",
+   "en_olasi_p": 0.4024,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Hollanda U21)",
+     0.4024
+    ],
+    [
+     "X",
+     0.3633
+    ],
+    [
+     "2 (Danimarka U21)",
+     0.2343
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Gol Handikapı",
+   "oneri": "Hollanda U21 +0,5",
+   "olasilik": 0.7657,
+   "adil_oran": 1.31,
+   "en_olasi": "Danimarka U21 +1,5",
+   "en_olasi_p": 0.856,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 -1,5",
+     0.1439
+    ],
+    [
+     "Danimarka U21 +1,5",
+     0.856
+    ],
+    [
+     "Hollanda U21 -0,5",
+     0.4024
+    ],
+    [
+     "Danimarka U21 +0,5",
+     0.5976
+    ],
+    [
+     "Hollanda U21 +0,5",
+     0.7657
+    ],
+    [
+     "Danimarka U21 -0,5",
+     0.2343
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Toplam Goller",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.8098,
+   "adil_oran": 1.23,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.8098,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7741
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2259
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.4404
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.5596
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1902
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8098
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Hollanda U21 Toplam Goller",
+   "oneri": "Hollanda U21 1,5 Alt",
+   "olasilik": 0.7747,
+   "adil_oran": 1.29,
+   "en_olasi": "Hollanda U21 1,5 Alt",
+   "en_olasi_p": 0.7747,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 0,5 Üst",
+     0.589
+    ],
+    [
+     "Hollanda U21 0,5 Alt",
+     0.411
+    ],
+    [
+     "Hollanda U21 1,5 Üst",
+     0.2253
+    ],
+    [
+     "Hollanda U21 1,5 Alt",
+     0.7747
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Danimarka U21 Toplam Goller",
+   "oneri": "Danimarka U21 0,5 Alt",
+   "olasilik": 0.5478,
+   "adil_oran": 1.83,
+   "en_olasi": "Danimarka U21 0,5 Alt",
+   "en_olasi_p": 0.5478,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Danimarka U21 0,5 Üst",
+     0.4522
+    ],
+    [
+     "Danimarka U21 0,5 Alt",
+     0.5478
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7329,
+   "adil_oran": 1.36,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7329,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2671
+    ],
+    [
+     "Hayır",
+     0.7329
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Galibi",
+   "oneri": "1 (Hollanda U21)",
+   "olasilik": 0.4452,
+   "adil_oran": 2.25,
+   "en_olasi": "1 (Hollanda U21)",
+   "en_olasi_p": 0.4452,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Hollanda U21)",
+     0.4452
+    ],
+    [
+     "X",
+     0.3067
+    ],
+    [
+     "2 (Danimarka U21)",
+     0.2481
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Gol Handikapı",
+   "oneri": "Danimarka U21 +1,5",
+   "olasilik": 0.8087,
+   "adil_oran": 1.24,
+   "en_olasi": "Danimarka U21 +1,5",
+   "en_olasi_p": 0.8087,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 -1,5",
+     0.1913
+    ],
+    [
+     "Danimarka U21 +1,5",
+     0.8087
+    ],
+    [
+     "Hollanda U21 -0,5",
+     0.4452
+    ],
+    [
+     "Danimarka U21 +0,5",
+     0.5548
+    ],
+    [
+     "Hollanda U21 +0,5",
+     0.7519
+    ],
+    [
+     "Danimarka U21 -0,5",
+     0.2481
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Toplam Goller",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.6899,
+   "adil_oran": 1.45,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.857,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.857
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.143
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.5799
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.4201
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.3101
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.6899
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Hollanda U21 Toplam Goller",
+   "oneri": "Hollanda U21 0,5 Üst",
+   "olasilik": 0.6872,
+   "adil_oran": 1.46,
+   "en_olasi": "Hollanda U21 0,5 Üst",
+   "en_olasi_p": 0.6872,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 0,5 Üst",
+     0.6872
+    ],
+    [
+     "Hollanda U21 0,5 Alt",
+     0.3128
+    ],
+    [
+     "Hollanda U21 1,5 Üst",
+     0.3238
+    ],
+    [
+     "Hollanda U21 1,5 Alt",
+     0.6762
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Danimarka U21 Toplam Goller",
+   "oneri": "Danimarka U21 0,5 Üst",
+   "olasilik": 0.5446,
+   "adil_oran": 1.84,
+   "en_olasi": "Danimarka U21 0,5 Üst",
+   "en_olasi_p": 0.5446,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Danimarka U21 0,5 Üst",
+     0.5446
+    ],
+    [
+     "Danimarka U21 0,5 Alt",
+     0.4554
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.6253,
+   "adil_oran": 1.6,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6253,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3747
+    ],
+    [
+     "Hayır",
+     0.6253
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kafa Golü Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.6751,
+   "adil_oran": 1.48,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6751,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3249
+    ],
+    [
+     "Hayır",
+     0.6751
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Frikikten Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9242,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9242,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0758
+    ],
+    [
+     "Hayır",
+     0.9242
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Rövaşata ile Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.9942,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9942,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0058
+    ],
+    [
+     "Hayır",
+     0.9942
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Ceza Sahası Dışından Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7538,
+   "adil_oran": 1.33,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7538,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2462
+    ],
+    [
+     "Hayır",
+     0.7538
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kendi Kalesine Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.9125,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9125,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0875
+    ],
+    [
+     "Hayır",
+     0.9125
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Oyuncu Hat-trick Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9896,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9896,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0104
+    ],
+    [
+     "Hayır",
+     0.9896
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Kaleci Asist Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9897,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9897,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0103
+    ],
+    [
+     "Hayır",
+     0.9897
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "VAR'lar: Toplam (Yalnızca Sahada İnceleme veya Video İnceleme İşareti (TV))",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.6925,
+   "adil_oran": 1.44,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.946,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.3075
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.6925
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.054
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.946
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Sonuç",
+   "oneri": "2 (Danimarka U21)",
+   "olasilik": 0.4867,
+   "adil_oran": 2.05,
+   "en_olasi": "2 (Danimarka U21)",
+   "en_olasi_p": 0.4867,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Hollanda U21)",
+     0.3832
+    ],
+    [
+     "X",
+     0.1301
+    ],
+    [
+     "2 (Danimarka U21)",
+     0.4867
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam",
+   "oneri": "Toplam 11,5 Alt",
+   "olasilik": 0.7413,
+   "adil_oran": 1.35,
+   "en_olasi": "Toplam 11,5 Alt",
+   "en_olasi_p": 0.7413,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 7,5 Üst",
+     0.7401
+    ],
+    [
+     "Toplam 7,5 Alt",
+     0.2599
+    ],
+    [
+     "Toplam 8,5 Üst",
+     0.6195
+    ],
+    [
+     "Toplam 8,5 Alt",
+     0.3805
+    ],
+    [
+     "Toplam 9,5 Üst",
+     0.4897
+    ],
+    [
+     "Toplam 9,5 Alt",
+     0.5103
+    ],
+    [
+     "Toplam 10,5 Üst",
+     0.3671
+    ],
+    [
+     "Toplam 10,5 Alt",
+     0.6329
+    ],
+    [
+     "Toplam 11,5 Üst",
+     0.2586
+    ],
+    [
+     "Toplam 11,5 Alt",
+     0.7413
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Hollanda U21",
+   "oneri": "Hollanda U21 6,5 Alt",
+   "olasilik": 0.8194,
+   "adil_oran": 1.22,
+   "en_olasi": "Hollanda U21 7,5 Alt",
+   "en_olasi_p": 0.9067,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 3,5 Üst",
+     0.673
+    ],
+    [
+     "Hollanda U21 3,5 Alt",
+     0.327
+    ],
+    [
+     "Hollanda U21 4,5 Üst",
+     0.4858
+    ],
+    [
+     "Hollanda U21 4,5 Alt",
+     0.5142
+    ],
+    [
+     "Hollanda U21 5,5 Üst",
+     0.3144
+    ],
+    [
+     "Hollanda U21 5,5 Alt",
+     0.6856
+    ],
+    [
+     "Hollanda U21 6,5 Üst",
+     0.1806
+    ],
+    [
+     "Hollanda U21 6,5 Alt",
+     0.8194
+    ],
+    [
+     "Hollanda U21 7,5 Üst",
+     0.0933
+    ],
+    [
+     "Hollanda U21 7,5 Alt",
+     0.9067
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Danimarka U21",
+   "oneri": "Danimarka U21 3,5 Üst",
+   "olasilik": 0.7326,
+   "adil_oran": 1.37,
+   "en_olasi": "Danimarka U21 1,5 Üst",
+   "en_olasi_p": 0.9602,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Danimarka U21 1,5 Üst",
+     0.9602
+    ],
+    [
+     "Danimarka U21 1,5 Alt",
+     0.0398
+    ],
+    [
+     "Danimarka U21 2,5 Üst",
+     0.8757
+    ],
+    [
+     "Danimarka U21 2,5 Alt",
+     0.1243
+    ],
+    [
+     "Danimarka U21 3,5 Üst",
+     0.7326
+    ],
+    [
+     "Danimarka U21 3,5 Alt",
+     0.2674
+    ],
+    [
+     "Danimarka U21 4,5 Üst",
+     0.5579
+    ],
+    [
+     "Danimarka U21 4,5 Alt",
+     0.4421
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Handikap",
+   "oneri": "Danimarka U21 +2,5",
+   "olasilik": 0.829,
+   "adil_oran": 1.21,
+   "en_olasi": "Danimarka U21 +4,5",
+   "en_olasi_p": 0.9461,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 -4,5",
+     0.0539
+    ],
+    [
+     "Danimarka U21 +4,5",
+     0.9461
+    ],
+    [
+     "Hollanda U21 -3,5",
+     0.1
+    ],
+    [
+     "Danimarka U21 +3,5",
+     0.9
+    ],
+    [
+     "Hollanda U21 -2,5",
+     0.171
+    ],
+    [
+     "Danimarka U21 +2,5",
+     0.829
+    ],
+    [
+     "Hollanda U21 -1,5",
+     0.2661
+    ],
+    [
+     "Danimarka U21 +1,5",
+     0.7339
+    ],
+    [
+     "Hollanda U21 -0,5",
+     0.3832
+    ],
+    [
+     "Danimarka U21 +0,5",
+     0.6168
+    ],
+    [
+     "Hollanda U21 +0,5",
+     0.5133
+    ],
+    [
+     "Danimarka U21 -0,5",
+     0.4867
+    ],
+    [
+     "Hollanda U21 +1,5",
+     0.6425
+    ],
+    [
+     "Danimarka U21 -1,5",
+     0.3575
+    ],
+    [
+     "Hollanda U21 +2,5",
+     0.7553
+    ],
+    [
+     "Danimarka U21 -2,5",
+     0.2447
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (3-İhtimalli)",
+   "oneri": "10 Alt",
+   "olasilik": 0.5103,
+   "adil_oran": 1.96,
+   "en_olasi": "10 Alt",
+   "en_olasi_p": 0.5103,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "9 Alt",
+     0.3805
+    ],
+    [
+     "10 Alt",
+     0.5103
+    ],
+    [
+     "Tam 9",
+     0.1298
+    ],
+    [
+     "Tam 10",
+     0.1227
+    ],
+    [
+     "9 Üst",
+     0.4897
+    ],
+    [
+     "10 Üst",
+     0.3671
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (Aralık)",
+   "oneri": "0-8 korner",
+   "olasilik": 0.3805,
+   "adil_oran": 2.63,
+   "en_olasi": "0-8 korner",
+   "en_olasi_p": 0.3805,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "0-8 korner",
+     0.3805
+    ],
+    [
+     "9-11 korner",
+     0.3608
+    ],
+    [
+     "12+ korner",
+     0.2586
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Tek/Çift",
+   "oneri": "Tek",
+   "olasilik": 0.5014,
+   "adil_oran": 1.99,
+   "en_olasi": "Tek",
+   "en_olasi_p": 0.5014,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.5014
+    ],
+    [
+     "Çift",
+     0.4986
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Korner Yarışı",
+   "oneri": "7 kornere kimse ulaşamaz",
+   "olasilik": 0.6238,
+   "adil_oran": 1.6,
+   "en_olasi": "9 kornere kimse ulaşamaz",
+   "en_olasi_p": 0.8904,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk 3 korner Hollanda U21",
+     0.4466
+    ],
+    [
+     "İlk 3 korner Danimarka U21",
+     0.524
+    ],
+    [
+     "3 kornere kimse ulaşamaz",
+     0.0206
+    ],
+    [
+     "İlk 5 korner Hollanda U21",
+     0.341
+    ],
+    [
+     "İlk 5 korner Danimarka U21",
+     0.4264
+    ],
+    [
+     "5 kornere kimse ulaşamaz",
+     0.2283
+    ],
+    [
+     "İlk 7 korner Hollanda U21",
+     0.158
+    ],
+    [
+     "İlk 7 korner Danimarka U21",
+     0.2173
+    ],
+    [
+     "7 kornere kimse ulaşamaz",
+     0.6238
+    ],
+    [
+     "İlk 9 korner Hollanda U21",
+     0.0425
+    ],
+    [
+     "İlk 9 korner Danimarka U21",
+     0.067
+    ],
+    [
+     "9 kornere kimse ulaşamaz",
+     0.8904
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Sonucu",
+   "oneri": "2 (Danimarka U21)",
+   "olasilik": 0.439,
+   "adil_oran": 2.28,
+   "en_olasi": "2 (Danimarka U21)",
+   "en_olasi_p": 0.439,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Hollanda U21)",
+     0.3676
+    ],
+    [
+     "X",
+     0.1935
+    ],
+    [
+     "2 (Danimarka U21)",
+     0.439
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Handikap",
+   "oneri": "Danimarka U21 +1,5",
+   "olasilik": 0.7953,
+   "adil_oran": 1.26,
+   "en_olasi": "Danimarka U21 +2,5",
+   "en_olasi_p": 0.9021,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 -2,5",
+     0.0979
+    ],
+    [
+     "Danimarka U21 +2,5",
+     0.9021
+    ],
+    [
+     "Hollanda U21 -1,5",
+     0.2047
+    ],
+    [
+     "Danimarka U21 +1,5",
+     0.7953
+    ],
+    [
+     "Hollanda U21 -0,5",
+     0.3676
+    ],
+    [
+     "Danimarka U21 +0,5",
+     0.6324
+    ],
+    [
+     "Hollanda U21 +0,5",
+     0.561
+    ],
+    [
+     "Danimarka U21 -0,5",
+     0.439
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Toplam",
+   "oneri": "Toplam 5,5 Alt",
+   "olasilik": 0.7006,
+   "adil_oran": 1.43,
+   "en_olasi": "Toplam 5,5 Alt",
+   "en_olasi_p": 0.7006,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 3,5 Üst",
+     0.6581
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.3419
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.4694
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.5306
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.2994
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.7006
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Hollanda U21 Toplam",
+   "oneri": "Hollanda U21 3,5 Alt",
+   "olasilik": 0.8271,
+   "adil_oran": 1.21,
+   "en_olasi": "Hollanda U21 3,5 Alt",
+   "en_olasi_p": 0.8271,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 1,5 Üst",
+     0.6351
+    ],
+    [
+     "Hollanda U21 1,5 Alt",
+     0.3649
+    ],
+    [
+     "Hollanda U21 2,5 Üst",
+     0.3677
+    ],
+    [
+     "Hollanda U21 2,5 Alt",
+     0.6323
+    ],
+    [
+     "Hollanda U21 3,5 Üst",
+     0.1729
+    ],
+    [
+     "Hollanda U21 3,5 Alt",
+     0.8271
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Danimarka U21 Toplam",
+   "oneri": "Danimarka U21 1,5 Üst",
+   "olasilik": 0.6803,
+   "adil_oran": 1.47,
+   "en_olasi": "Danimarka U21 0,5 Üst",
+   "en_olasi_p": 0.9047,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Danimarka U21 0,5 Üst",
+     0.9047
+    ],
+    [
+     "Danimarka U21 0,5 Alt",
+     0.0953
+    ],
+    [
+     "Danimarka U21 1,5 Üst",
+     0.6803
+    ],
+    [
+     "Danimarka U21 1,5 Alt",
+     0.3197
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : 2. Yarı",
+   "oneri": "Toplam 6,5 Alt",
+   "olasilik": 0.7512,
+   "adil_oran": 1.33,
+   "en_olasi": "Toplam 6,5 Alt",
+   "en_olasi_p": 0.7512,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 4,5 Üst",
+     0.5738
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.4262
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.3984
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.6016
+    ],
+    [
+     "Toplam 6,5 Üst",
+     0.2488
+    ],
+    [
+     "Toplam 6,5 Alt",
+     0.7512
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : İlk Korner",
+   "oneri": "Danimarka U21",
+   "olasilik": 0.5131,
+   "adil_oran": 1.95,
+   "en_olasi": "Danimarka U21",
+   "en_olasi_p": 0.5131,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21",
+     0.4868
+    ],
+    [
+     "Danimarka U21",
+     0.5131
+    ],
+    [
+     "Korner yok",
+     0.0001
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Son Korner",
+   "oneri": "Danimarka U21",
+   "olasilik": 0.5111,
+   "adil_oran": 1.96,
+   "en_olasi": "Danimarka U21",
+   "en_olasi_p": 0.5111,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21",
+     0.4889
+    ],
+    [
+     "Danimarka U21",
+     0.5111
+    ],
+    [
+     "Korner yok",
+     0.0001
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "En Fazla Korner Olan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.5088,
+   "adil_oran": 1.97,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.5088,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.3633
+    ],
+    [
+     "Eşit",
+     0.1279
+    ],
+    [
+     "2. Yarı",
+     0.5088
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan : Sonuç",
+   "oneri": "2 (Danimarka U21)",
+   "olasilik": 0.4796,
+   "adil_oran": 2.09,
+   "en_olasi": "2 (Danimarka U21)",
+   "en_olasi_p": 0.4796,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "1 (Hollanda U21)",
+     0.3355
+    ],
+    [
+     "X",
+     0.1849
+    ],
+    [
+     "2 (Danimarka U21)",
+     0.4796
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan Handikapı",
+   "oneri": "Danimarka U21 +15,5",
+   "olasilik": 0.8257,
+   "adil_oran": 1.21,
+   "en_olasi": "Danimarka U21 +15,5",
+   "en_olasi_p": 0.8257,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Hollanda U21 -15,5",
+     0.1743
+    ],
+    [
+     "Danimarka U21 +15,5",
+     0.8257
+    ],
+    [
+     "Hollanda U21 -5,5",
+     0.3274
+    ],
+    [
+     "Danimarka U21 +5,5",
+     0.6726
+    ],
+    [
+     "Hollanda U21 +5,5",
+     0.528
+    ],
+    [
+     "Danimarka U21 -5,5",
+     0.472
+    ],
+    [
+     "Hollanda U21 +15,5",
+     0.7119
+    ],
+    [
+     "Danimarka U21 -15,5",
+     0.2881
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam Puan",
+   "oneri": "Toplam 55,5 Alt",
+   "olasilik": 0.7606,
+   "adil_oran": 1.31,
+   "en_olasi": "Toplam 55,5 Alt",
+   "en_olasi_p": 0.7606,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 25,5 Üst",
+     0.76
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.2401
+    ],
+    [
+     "Toplam 35,5 Üst",
+     0.5743
+    ],
+    [
+     "Toplam 35,5 Alt",
+     0.4257
+    ],
+    [
+     "Toplam 45,5 Üst",
+     0.3893
+    ],
+    [
+     "Toplam 45,5 Alt",
+     0.6107
+    ],
+    [
+     "Toplam 55,5 Üst",
+     0.2394
+    ],
+    [
+     "Toplam 55,5 Alt",
+     0.7606
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Hollanda U21 : Toplam Kart Puanı",
+   "oneri": "Hollanda U21 5,5 Üst",
+   "olasilik": 0.827,
+   "adil_oran": 1.21,
+   "en_olasi": "Hollanda U21 5,5 Üst",
+   "en_olasi_p": 0.827,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Hollanda U21 5,5 Üst",
+     0.827
+    ],
+    [
+     "Hollanda U21 5,5 Alt",
+     0.173
+    ],
+    [
+     "Hollanda U21 15,5 Üst",
+     0.535
+    ],
+    [
+     "Hollanda U21 15,5 Alt",
+     0.465
+    ],
+    [
+     "Hollanda U21 25,5 Üst",
+     0.2833
+    ],
+    [
+     "Hollanda U21 25,5 Alt",
+     0.7167
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Danimarka U21 : Toplam Kart Puanı",
+   "oneri": "Danimarka U21 35,5 Alt",
+   "olasilik": 0.8026,
+   "adil_oran": 1.25,
+   "en_olasi": "Danimarka U21 5,5 Üst",
+   "en_olasi_p": 0.8851,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Danimarka U21 5,5 Üst",
+     0.8851
+    ],
+    [
+     "Danimarka U21 5,5 Alt",
+     0.1149
+    ],
+    [
+     "Danimarka U21 15,5 Üst",
+     0.6417
+    ],
+    [
+     "Danimarka U21 15,5 Alt",
+     0.3583
+    ],
+    [
+     "Danimarka U21 25,5 Üst",
+     0.3859
+    ],
+    [
+     "Danimarka U21 25,5 Alt",
+     0.6141
+    ],
+    [
+     "Danimarka U21 35,5 Üst",
+     0.1974
+    ],
+    [
+     "Danimarka U21 35,5 Alt",
+     0.8026
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam (Aralıklar)",
+   "oneri": "21-40 puan",
+   "olasilik": 0.3574,
+   "adil_oran": 2.8,
+   "en_olasi": "21-40 puan",
+   "en_olasi_p": 0.3574,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "0-20 puan",
+     0.2387
+    ],
+    [
+     "21-40 puan",
+     0.3574
+    ],
+    [
+     "41-60 puan",
+     0.2469
+    ],
+    [
+     "61+ puan",
+     0.1408
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Toplam Kart Puanı",
+   "oneri": "Toplam 25,5 Alt",
+   "olasilik": 0.8131,
+   "adil_oran": 1.23,
+   "en_olasi": "Toplam 25,5 Alt",
+   "en_olasi_p": 0.8131,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 5,5 Üst",
+     0.7538
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.2462
+    ],
+    [
+     "Toplam 15,5 Üst",
+     0.4204
+    ],
+    [
+     "Toplam 15,5 Alt",
+     0.5796
+    ],
+    [
+     "Toplam 25,5 Üst",
+     0.1869
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.8131
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Hollanda U21 : Toplam Kart Puanı",
+   "oneri": "Hollanda U21 5,5 Alt",
+   "olasilik": 0.532,
+   "adil_oran": 1.88,
+   "en_olasi": "Hollanda U21 15,5 Alt",
+   "en_olasi_p": 0.856,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Hollanda U21 5,5 Üst",
+     0.468
+    ],
+    [
+     "Hollanda U21 5,5 Alt",
+     0.532
+    ],
+    [
+     "Hollanda U21 15,5 Üst",
+     0.144
+    ],
+    [
+     "Hollanda U21 15,5 Alt",
+     0.856
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Danimarka U21 : Toplam Kart Puanı",
+   "oneri": "Danimarka U21 15,5 Alt",
+   "olasilik": 0.807,
+   "adil_oran": 1.24,
+   "en_olasi": "Danimarka U21 15,5 Alt",
+   "en_olasi_p": 0.807,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Danimarka U21 5,5 Üst",
+     0.5385
+    ],
+    [
+     "Danimarka U21 5,5 Alt",
+     0.4615
+    ],
+    [
+     "Danimarka U21 15,5 Üst",
+     0.193
+    ],
+    [
+     "Danimarka U21 15,5 Alt",
+     0.807
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Hollanda U21 : Toplam Kart Puanı",
+   "oneri": "Hollanda U21 15,5 Alt",
+   "olasilik": 0.6759,
+   "adil_oran": 1.48,
+   "en_olasi": "Hollanda U21 15,5 Alt",
+   "en_olasi_p": 0.6759,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Hollanda U21 5,5 Üst",
+     0.6756
+    ],
+    [
+     "Hollanda U21 5,5 Alt",
+     0.3244
+    ],
+    [
+     "Hollanda U21 15,5 Üst",
+     0.3241
+    ],
+    [
+     "Hollanda U21 15,5 Alt",
+     0.6759
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Danimarka U21 : Toplam Kart Puanı",
+   "oneri": "Danimarka U21 25,5 Alt",
+   "olasilik": 0.8164,
+   "adil_oran": 1.22,
+   "en_olasi": "Danimarka U21 25,5 Alt",
+   "en_olasi_p": 0.8164,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Danimarka U21 5,5 Üst",
+     0.7498
+    ],
+    [
+     "Danimarka U21 5,5 Alt",
+     0.2502
+    ],
+    [
+     "Danimarka U21 15,5 Üst",
+     0.4125
+    ],
+    [
+     "Danimarka U21 15,5 Alt",
+     0.5875
+    ],
+    [
+     "Danimarka U21 25,5 Üst",
+     0.1836
+    ],
+    [
+     "Danimarka U21 25,5 Alt",
+     0.8164
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Direkt Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9335,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9335,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0665
+    ],
+    [
+     "Hayır",
+     0.9335
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Yarıda Kart Olur",
+   "oneri": "Evet",
+   "olasilik": 0.6914,
+   "adil_oran": 1.45,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6914,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6914
+    ],
+    [
+     "Hayır",
+     0.3086
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kırmızı Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.9962,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9962,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0038
+    ],
+    [
+     "Hayır",
+     0.9962
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kart Alır",
+   "oneri": "Evet",
+   "olasilik": 0.7322,
+   "adil_oran": 1.37,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7322,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7322
+    ],
+    [
+     "Hayır",
+     0.2678
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Kart Görür",
+   "oneri": "Hayır",
+   "olasilik": 0.6621,
+   "adil_oran": 1.51,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6621,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3379
+    ],
+    [
+     "Hayır",
+     0.6621
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Her İki Yarıda Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.8719,
+   "adil_oran": 1.15,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8719,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1281
+    ],
+    [
+     "Hayır",
+     0.8719
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İlk Kartı Görecek Takım",
+   "oneri": "Danimarka U21",
+   "olasilik": 0.5407,
+   "adil_oran": 1.85,
+   "en_olasi": "Danimarka U21",
+   "en_olasi_p": 0.5407,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21",
+     0.4391
+    ],
+    [
+     "Danimarka U21",
+     0.5407
+    ],
+    [
+     "Kart yok",
+     0.0201
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Son Kartı Görecek Takım",
+   "oneri": "Danimarka U21",
+   "olasilik": 0.539,
+   "adil_oran": 1.86,
+   "en_olasi": "Danimarka U21",
+   "en_olasi_p": 0.539,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21",
+     0.4409
+    ],
+    [
+     "Danimarka U21",
+     0.539
+    ],
+    [
+     "Kart yok",
+     0.0201
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Maçta Penaltı, Kırmızı Kart ve Kendi Kalesine Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9978,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9978,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0022
+    ],
+    [
+     "Hayır",
+     0.9978
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarı Uzatma Dakikalarında Kart Gösterilir (90+ dak)",
+   "oneri": "Hayır",
+   "olasilik": 0.737,
+   "adil_oran": 1.36,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.737,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.263
+    ],
+    [
+     "Hayır",
+     0.737
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarının Uzatma Dakikalarında Kırmızı Kart veya Gol Olur (90+ dakika)",
+   "oneri": "Hayır",
+   "olasilik": 0.8356,
+   "adil_oran": 1.2,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8356,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1644
+    ],
+    [
+     "Hayır",
+     0.8356
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Toplam Kırmızı Kartlar",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.9925,
+   "adil_oran": 1.01,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9925,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.1215
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.8785
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0075
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9925
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Hollanda U21 : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9374,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9374,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0626
+    ],
+    [
+     "Hayır",
+     0.9374
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Danimarka U21 : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9373,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9373,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0627
+    ],
+    [
+     "Hayır",
+     0.9373
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "1. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.958,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.958,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.042
+    ],
+    [
+     "Hayır",
+     0.958
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "2. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9172,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9172,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0828
+    ],
+    [
+     "Hayır",
+     0.9172
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Sonuç",
+   "oneri": "2 (Danimarka U21)",
+   "olasilik": 0.474,
+   "adil_oran": 2.11,
+   "en_olasi": "2 (Danimarka U21)",
+   "en_olasi_p": 0.474,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Hollanda U21)",
+     0.3179
+    ],
+    [
+     "X",
+     0.2082
+    ],
+    [
+     "2 (Danimarka U21)",
+     0.474
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.7919,
+   "adil_oran": 1.26,
+   "en_olasi": "12",
+   "en_olasi_p": 0.7919,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.526
+    ],
+    [
+     "12",
+     0.7919
+    ],
+    [
+     "X2",
+     0.6821
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Handikap",
+   "oneri": "Hollanda U21 +1,5",
+   "olasilik": 0.7235,
+   "adil_oran": 1.38,
+   "en_olasi": "Danimarka U21 +1,5",
+   "en_olasi_p": 0.8427,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 -1,5",
+     0.1573
+    ],
+    [
+     "Danimarka U21 +1,5",
+     0.8427
+    ],
+    [
+     "Hollanda U21 -0,5",
+     0.3179
+    ],
+    [
+     "Danimarka U21 +0,5",
+     0.6821
+    ],
+    [
+     "Hollanda U21 +0,5",
+     0.526
+    ],
+    [
+     "Danimarka U21 -0,5",
+     0.474
+    ],
+    [
+     "Hollanda U21 +1,5",
+     0.7235
+    ],
+    [
+     "Danimarka U21 -1,5",
+     0.2765
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Toplam",
+   "oneri": "Toplam 5,5 Alt",
+   "olasilik": 0.8074,
+   "adil_oran": 1.24,
+   "en_olasi": "Toplam 5,5 Alt",
+   "en_olasi_p": 0.8074,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 2,5 Üst",
+     0.738
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.262
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.5366
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.4633
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.3423
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.6577
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.1926
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.8074
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Hollanda U21 : Toplam",
+   "oneri": "Hollanda U21 0,5 Üst",
+   "olasilik": 0.8208,
+   "adil_oran": 1.22,
+   "en_olasi": "Hollanda U21 0,5 Üst",
+   "en_olasi_p": 0.8208,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 0,5 Üst",
+     0.8208
+    ],
+    [
+     "Hollanda U21 0,5 Alt",
+     0.1792
+    ],
+    [
+     "Hollanda U21 1,5 Üst",
+     0.5133
+    ],
+    [
+     "Hollanda U21 1,5 Alt",
+     0.4867
+    ],
+    [
+     "Hollanda U21 2,5 Üst",
+     0.2498
+    ],
+    [
+     "Hollanda U21 2,5 Alt",
+     0.7502
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Danimarka U21 : Toplam",
+   "oneri": "Danimarka U21 3,5 Alt",
+   "olasilik": 0.8339,
+   "adil_oran": 1.2,
+   "en_olasi": "Danimarka U21 0,5 Üst",
+   "en_olasi_p": 0.8812,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Danimarka U21 0,5 Üst",
+     0.8812
+    ],
+    [
+     "Danimarka U21 0,5 Alt",
+     0.1188
+    ],
+    [
+     "Danimarka U21 1,5 Üst",
+     0.6258
+    ],
+    [
+     "Danimarka U21 1,5 Alt",
+     0.3742
+    ],
+    [
+     "Danimarka U21 2,5 Üst",
+     0.3567
+    ],
+    [
+     "Danimarka U21 2,5 Alt",
+     0.6433
+    ],
+    [
+     "Danimarka U21 3,5 Üst",
+     0.1661
+    ],
+    [
+     "Danimarka U21 3,5 Alt",
+     0.8339
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Sonucu",
+   "oneri": "X",
+   "olasilik": 0.3859,
+   "adil_oran": 2.59,
+   "en_olasi": "X",
+   "en_olasi_p": 0.3859,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Hollanda U21)",
+     0.2641
+    ],
+    [
+     "X",
+     0.3859
+    ],
+    [
+     "2 (Danimarka U21)",
+     0.35
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Handikap",
+   "oneri": "Danimarka U21 +0,5",
+   "olasilik": 0.7359,
+   "adil_oran": 1.36,
+   "en_olasi": "Danimarka U21 +0,5",
+   "en_olasi_p": 0.7359,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 -0,5",
+     0.2641
+    ],
+    [
+     "Danimarka U21 +0,5",
+     0.7359
+    ],
+    [
+     "Hollanda U21 +0,5",
+     0.65
+    ],
+    [
+     "Danimarka U21 -0,5",
+     0.35
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı : Toplam",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.7468,
+   "adil_oran": 1.34,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.8377,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7468
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2532
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.4005
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.5995
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1623
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8377
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Hollanda U21 Toplam",
+   "oneri": "Hollanda U21 0,5 Alt",
+   "olasilik": 0.5393,
+   "adil_oran": 1.85,
+   "en_olasi": "Hollanda U21 1,5 Alt",
+   "en_olasi_p": 0.8717,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 0,5 Üst",
+     0.4607
+    ],
+    [
+     "Hollanda U21 0,5 Alt",
+     0.5393
+    ],
+    [
+     "Hollanda U21 1,5 Üst",
+     0.1283
+    ],
+    [
+     "Hollanda U21 1,5 Alt",
+     0.8717
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Danimarka U21 Toplam",
+   "oneri": "Danimarka U21 1,5 Alt",
+   "olasilik": 0.8218,
+   "adil_oran": 1.22,
+   "en_olasi": "Danimarka U21 1,5 Alt",
+   "en_olasi_p": 0.8218,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Danimarka U21 0,5 Üst",
+     0.5319
+    ],
+    [
+     "Danimarka U21 0,5 Alt",
+     0.4681
+    ],
+    [
+     "Danimarka U21 1,5 Üst",
+     0.1782
+    ],
+    [
+     "Danimarka U21 1,5 Alt",
+     0.8218
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Sonuç",
+   "oneri": "2 (Danimarka U21)",
+   "olasilik": 0.4259,
+   "adil_oran": 2.35,
+   "en_olasi": "2 (Danimarka U21)",
+   "en_olasi_p": 0.4259,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Hollanda U21)",
+     0.3023
+    ],
+    [
+     "X",
+     0.2717
+    ],
+    [
+     "2 (Danimarka U21)",
+     0.4259
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Handikap",
+   "oneri": "Danimarka U21 +0,5",
+   "olasilik": 0.6977,
+   "adil_oran": 1.43,
+   "en_olasi": "Danimarka U21 +0,5",
+   "en_olasi_p": 0.6977,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 -0,5",
+     0.3023
+    ],
+    [
+     "Danimarka U21 +0,5",
+     0.6977
+    ],
+    [
+     "Hollanda U21 +0,5",
+     0.5741
+    ],
+    [
+     "Danimarka U21 -0,5",
+     0.4259
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Toplam",
+   "oneri": "Toplam 3,5 Alt",
+   "olasilik": 0.7628,
+   "adil_oran": 1.31,
+   "en_olasi": "Toplam 3,5 Alt",
+   "en_olasi_p": 0.7628,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 1,5 Üst",
+     0.7062
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.2938
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.4485
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.5515
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.2372
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.7628
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Hollanda U21 Toplam",
+   "oneri": "Hollanda U21 1,5 Alt",
+   "olasilik": 0.6976,
+   "adil_oran": 1.43,
+   "en_olasi": "Hollanda U21 1,5 Alt",
+   "en_olasi_p": 0.6976,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21 0,5 Üst",
+     0.6686
+    ],
+    [
+     "Hollanda U21 0,5 Alt",
+     0.3314
+    ],
+    [
+     "Hollanda U21 1,5 Üst",
+     0.3024
+    ],
+    [
+     "Hollanda U21 1,5 Alt",
+     0.6976
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : İlk Sarı Kartı Görür",
+   "oneri": "Danimarka U21",
+   "olasilik": 0.5408,
+   "adil_oran": 1.85,
+   "en_olasi": "Danimarka U21",
+   "en_olasi_p": 0.5408,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21",
+     0.4377
+    ],
+    [
+     "Danimarka U21",
+     0.5408
+    ],
+    [
+     "Sarı kart yok",
+     0.0215
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Son Sarı Kartı Görür",
+   "oneri": "Danimarka U21",
+   "olasilik": 0.5387,
+   "adil_oran": 1.86,
+   "en_olasi": "Danimarka U21",
+   "en_olasi_p": 0.5387,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Hollanda U21",
+     0.4398
+    ],
+    [
+     "Danimarka U21",
+     0.5387
+    ],
+    [
+     "Sarı kart yok",
+     0.0215
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.783,
+   "adil_oran": 1.28,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.783,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.217
+    ],
+    [
+     "Hayır",
+     0.783
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Hollanda U21 : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8752,
+   "adil_oran": 1.14,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8752,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1248
+    ],
+    [
+     "Hayır",
+     0.8752
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Danimarka U21 : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8945,
+   "adil_oran": 1.12,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8945,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1055
+    ],
+    [
+     "Hayır",
+     0.8945
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "İki Takım da Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9867,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9867,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0133
+    ],
+    [
+     "Hayır",
+     0.9867
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta İki Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9749,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9749,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0251
+    ],
+    [
+     "Hayır",
+     0.9749
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "1. Yarı : Penaltı",
+   "oneri": "Hayır",
+   "olasilik": 0.905,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.905,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.095
+    ],
+    [
+     "Hayır",
+     0.905
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltıdan Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8282,
+   "adil_oran": 1.21,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8282,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1718
+    ],
+    [
+     "Hayır",
+     0.8282
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı Kaçırır",
+   "oneri": "Hayır",
+   "olasilik": 0.9453,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9453,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0547
+    ],
+    [
+     "Hayır",
+     0.9453
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı ve Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9735,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9735,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0265
+    ],
+    [
+     "Hayır",
+     0.9735
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı veya Kırmızı Kart Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.6881,
+   "adil_oran": 1.45,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6881,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3119
+    ],
+    [
+     "Hayır",
+     0.6881
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Herhangi Bir Zamanda Gol Atar",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.223,
+   "adil_oran": 4.48,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.223,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.223
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.1992
+    ],
+    [
+     "Adam Daghim",
+     0.1706
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.1531
+    ],
+    [
+     "Noah Nartey",
+     0.1042
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İlk Golcü",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.0964,
+   "adil_oran": 10.37,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.0964,
+   "guven": "düşük",
+   "not_": "Takımın ilk golü × oyuncu payı",
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.0964
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0857
+    ],
+    [
+     "Adam Daghim",
+     0.0724
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0643
+    ],
+    [
+     "Noah Nartey",
+     0.0435
+    ],
+    [
+     "Gol yok",
+     0.0745
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İlk Golcü Çifte Şans",
+   "oneri": "Thom van Bergen ilk golü veya ikinci golü",
+   "olasilik": 0.1789,
+   "adil_oran": 5.59,
+   "en_olasi": "Thom van Bergen ilk golü veya ikinci golü",
+   "en_olasi_p": 0.1789,
+   "guven": "düşük",
+   "not_": "Yaklaşık",
+   "secimler": [
+    [
+     "Thom van Bergen ilk golü veya ikinci golü",
+     0.1789
+    ],
+    [
+     "Ro-Zangelo Daal ilk golü veya ikinci golü",
+     0.159
+    ],
+    [
+     "Adam Daghim ilk golü veya ikinci golü",
+     0.1344
+    ],
+    [
+     "Don-Angelo Konadu ilk golü veya ikinci golü",
+     0.1193
+    ],
+    [
+     "Noah Nartey ilk golü veya ikinci golü",
+     0.0806
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Son Golcü",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.0962,
+   "adil_oran": 10.39,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.0962,
+   "guven": "düşük",
+   "not_": "Yaklaşık",
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.0962
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0855
+    ],
+    [
+     "Adam Daghim",
+     0.0726
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0642
+    ],
+    [
+     "Noah Nartey",
+     0.0436
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Hollanda U21 : İlk Golü Atar",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.1421,
+   "adil_oran": 7.04,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.1421,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.1421
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.1263
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0947
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Danimarka U21 : İlk Golü Atar",
+   "oneri": "Adam Daghim",
+   "olasilik": 0.1301,
+   "adil_oran": 7.69,
+   "en_olasi": "Adam Daghim",
+   "en_olasi_p": 0.1301,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Adam Daghim",
+     0.1301
+    ],
+    [
+     "Noah Nartey",
+     0.078
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Hollanda U21 : Son Golcü",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.1421,
+   "adil_oran": 7.04,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.1421,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.1421
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.1263
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0947
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Danimarka U21 : Son Golü Atar",
+   "oneri": "Adam Daghim",
+   "olasilik": 0.1301,
+   "adil_oran": 7.69,
+   "en_olasi": "Adam Daghim",
+   "en_olasi_p": 0.1301,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Adam Daghim",
+     0.1301
+    ],
+    [
+     "Noah Nartey",
+     0.078
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu En Az 2 Gol Atar",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.0271,
+   "adil_oran": 36.87,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.0271,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.0271
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0211
+    ],
+    [
+     "Adam Daghim",
+     0.0152
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0131
+    ],
+    [
+     "Noah Nartey",
+     0.0058
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu En Az 3 Gol Atar",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.0023,
+   "adil_oran": 434.78,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.0023,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.0023
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0015
+    ],
+    [
+     "Adam Daghim",
+     0.0009
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0007
+    ],
+    [
+     "Noah Nartey",
+     0.0003
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 4 veya Daha Çok Gol Atar",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.0002,
+   "adil_oran": 6315.79,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.0002,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.0002
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0001
+    ],
+    [
+     "Adam Daghim",
+     0.0001
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0
+    ],
+    [
+     "Noah Nartey",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Herhangi Bir Zaman Gol Atar Çifte Şans",
+   "oneri": "Thom van Bergen veya Ro-Zangelo Daal",
+   "olasilik": 0.3777,
+   "adil_oran": 2.65,
+   "en_olasi": "Thom van Bergen veya Ro-Zangelo Daal",
+   "en_olasi_p": 0.3777,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen veya Ro-Zangelo Daal",
+     0.3777
+    ],
+    [
+     "Thom van Bergen veya Adam Daghim",
+     0.3553
+    ],
+    [
+     "Thom van Bergen veya Don-Angelo Konadu",
+     0.3423
+    ],
+    [
+     "Ro-Zangelo Daal veya Adam Daghim",
+     0.3355
+    ],
+    [
+     "Ro-Zangelo Daal veya Don-Angelo Konadu",
+     0.3223
+    ],
+    [
+     "Thom van Bergen veya Noah Nartey",
+     0.3045
+    ],
+    [
+     "Don-Angelo Konadu veya Adam Daghim",
+     0.2979
+    ],
+    [
+     "Ro-Zangelo Daal veya Noah Nartey",
+     0.2825
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar",
+   "oneri": "Thom van Bergen ve Ro-Zangelo Daal",
+   "olasilik": 0.0445,
+   "adil_oran": 22.48,
+   "en_olasi": "Thom van Bergen ve Ro-Zangelo Daal",
+   "en_olasi_p": 0.0445,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen ve Ro-Zangelo Daal",
+     0.0445
+    ],
+    [
+     "Thom van Bergen ve Adam Daghim",
+     0.0382
+    ],
+    [
+     "Ro-Zangelo Daal ve Adam Daghim",
+     0.0343
+    ],
+    [
+     "Thom van Bergen ve Don-Angelo Konadu",
+     0.0337
+    ],
+    [
+     "Ro-Zangelo Daal ve Don-Angelo Konadu",
+     0.03
+    ],
+    [
+     "Don-Angelo Konadu ve Adam Daghim",
+     0.0258
+    ],
+    [
+     "Thom van Bergen ve Noah Nartey",
+     0.0226
+    ],
+    [
+     "Ro-Zangelo Daal ve Noah Nartey",
+     0.0208
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "2 Oyuncu Toplamda Üst 1.5 Gol Atar",
+   "oneri": "Thom van Bergen + Ro-Zangelo Daal",
+   "olasilik": 0.0827,
+   "adil_oran": 12.1,
+   "en_olasi": "Thom van Bergen + Ro-Zangelo Daal",
+   "en_olasi_p": 0.0827,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen + Ro-Zangelo Daal",
+     0.0827
+    ],
+    [
+     "Thom van Bergen + Adam Daghim",
+     0.072
+    ],
+    [
+     "Thom van Bergen + Don-Angelo Konadu",
+     0.0672
+    ],
+    [
+     "Ro-Zangelo Daal + Adam Daghim",
+     0.0642
+    ],
+    [
+     "Ro-Zangelo Daal + Don-Angelo Konadu",
+     0.0583
+    ],
+    [
+     "Thom van Bergen + Noah Nartey",
+     0.0518
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "2 Oyuncu Toplamda Üst 2.5 Gol Atar",
+   "oneri": "Thom van Bergen + Ro-Zangelo Daal",
+   "olasilik": 0.0124,
+   "adil_oran": 80.59,
+   "en_olasi": "Thom van Bergen + Ro-Zangelo Daal",
+   "en_olasi_p": 0.0124,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen + Ro-Zangelo Daal",
+     0.0124
+    ],
+    [
+     "Thom van Bergen + Adam Daghim",
+     0.0106
+    ],
+    [
+     "Thom van Bergen + Don-Angelo Konadu",
+     0.0089
+    ],
+    [
+     "Ro-Zangelo Daal + Adam Daghim",
+     0.0079
+    ],
+    [
+     "Ro-Zangelo Daal + Don-Angelo Konadu",
+     0.0073
+    ],
+    [
+     "Thom van Bergen + Noah Nartey",
+     0.0058
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "2 Oyuncu Toplamda Üst 3.5 Gol Atar",
+   "oneri": "Thom van Bergen + Ro-Zangelo Daal",
+   "olasilik": 0.0015,
+   "adil_oran": 666.67,
+   "en_olasi": "Thom van Bergen + Ro-Zangelo Daal",
+   "en_olasi_p": 0.0015,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen + Ro-Zangelo Daal",
+     0.0015
+    ],
+    [
+     "Thom van Bergen + Adam Daghim",
+     0.0014
+    ],
+    [
+     "Ro-Zangelo Daal + Adam Daghim",
+     0.001
+    ],
+    [
+     "Thom van Bergen + Don-Angelo Konadu",
+     0.0009
+    ],
+    [
+     "Ro-Zangelo Daal + Don-Angelo Konadu",
+     0.0007
+    ],
+    [
+     "Thom van Bergen + Noah Nartey",
+     0.0006
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 1. Yarıda Gol Atar",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.097,
+   "adil_oran": 10.31,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.097,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.097
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0854
+    ],
+    [
+     "Adam Daghim",
+     0.0723
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.066
+    ],
+    [
+     "Noah Nartey",
+     0.0436
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 2. Yarıda Gol Atar",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.1352,
+   "adil_oran": 7.4,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.1352,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.1352
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.1209
+    ],
+    [
+     "Adam Daghim",
+     0.103
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0915
+    ],
+    [
+     "Noah Nartey",
+     0.0623
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Her İki Yarıda da Gol Atar",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.0092,
+   "adil_oran": 108.4,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.0092,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.0092
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0071
+    ],
+    [
+     "Adam Daghim",
+     0.0047
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0044
+    ],
+    [
+     "Noah Nartey",
+     0.0018
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İlk 10 Dakikada Gol Atar",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.025,
+   "adil_oran": 39.96,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.025,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.025
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0219
+    ],
+    [
+     "Adam Daghim",
+     0.0174
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0171
+    ],
+    [
+     "Noah Nartey",
+     0.0111
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Penaltıdan Gol Atar",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.0,
+   "adil_oran": null,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.0,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.0
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0
+    ],
+    [
+     "Adam Daghim",
+     0.0
+    ],
+    [
+     "Noah Nartey",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Gol Atar",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.0292,
+   "adil_oran": 34.24,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.0292,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.0292
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0258
+    ],
+    [
+     "Adam Daghim",
+     0.0223
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0197
+    ],
+    [
+     "Noah Nartey",
+     0.013
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kale Sahası İçinden Gol Atar",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.049,
+   "adil_oran": 20.4,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.049,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.049
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0436
+    ],
+    [
+     "Adam Daghim",
+     0.0366
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0331
+    ],
+    [
+     "Noah Nartey",
+     0.0222
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kafa Golü Atar",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.0412,
+   "adil_oran": 24.29,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.0412,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.0412
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0361
+    ],
+    [
+     "Adam Daghim",
+     0.0312
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0282
+    ],
+    [
+     "Noah Nartey",
+     0.0188
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Serbest Vuruştan Gol Atar",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.0074,
+   "adil_oran": 135.14,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.0074,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.0074
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0065
+    ],
+    [
+     "Adam Daghim",
+     0.0055
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0051
+    ],
+    [
+     "Noah Nartey",
+     0.0033
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sağ Ayağıyla Gol Atar",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.1299,
+   "adil_oran": 7.7,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.1299,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.1299
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.1147
+    ],
+    [
+     "Adam Daghim",
+     0.098
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0883
+    ],
+    [
+     "Noah Nartey",
+     0.059
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Takımı Kazanır",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.1614,
+   "adil_oran": 6.2,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.1614,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.1614
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.144
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.1116
+    ],
+    [
+     "Adam Daghim",
+     0.0831
+    ],
+    [
+     "Noah Nartey",
+     0.0523
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Rakip Takım Kazanır",
+   "oneri": "Adam Daghim",
+   "olasilik": 0.0456,
+   "adil_oran": 21.93,
+   "en_olasi": "Adam Daghim",
+   "en_olasi_p": 0.0456,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Adam Daghim",
+     0.0456
+    ],
+    [
+     "Noah Nartey",
+     0.0268
+    ],
+    [
+     "Thom van Bergen",
+     0.0232
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.021
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0158
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Maç Berabere Biter",
+   "oneri": "Adam Daghim",
+   "olasilik": 0.0419,
+   "adil_oran": 23.88,
+   "en_olasi": "Adam Daghim",
+   "en_olasi_p": 0.0419,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Adam Daghim",
+     0.0419
+    ],
+    [
+     "Thom van Bergen",
+     0.0383
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0342
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0257
+    ],
+    [
+     "Noah Nartey",
+     0.0251
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Asist Yapar",
+   "oneri": "Don-Angelo Konadu",
+   "olasilik": 0.1398,
+   "adil_oran": 7.15,
+   "en_olasi": "Don-Angelo Konadu",
+   "en_olasi_p": 0.1398,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Don-Angelo Konadu",
+     0.1398
+    ],
+    [
+     "Thom van Bergen",
+     0.0964
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0952
+    ],
+    [
+     "Noah Nartey",
+     0.0789
+    ],
+    [
+     "Adam Daghim",
+     0.0777
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar veya Asist Yapar",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.2851,
+   "adil_oran": 3.51,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.2851,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.2851
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.2642
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.258
+    ],
+    [
+     "Adam Daghim",
+     0.2224
+    ],
+    [
+     "Noah Nartey",
+     0.1671
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar veya Asist Yapar (Çifte Şans)",
+   "oneri": "Thom van Bergen veya Ro-Zangelo Daal gol/asist",
+   "olasilik": 0.4559,
+   "adil_oran": 2.19,
+   "en_olasi": "Thom van Bergen veya Ro-Zangelo Daal gol/asist",
+   "en_olasi_p": 0.4559,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen veya Ro-Zangelo Daal gol/asist",
+     0.4559
+    ],
+    [
+     "Thom van Bergen veya Don-Angelo Konadu gol/asist",
+     0.4487
+    ],
+    [
+     "Thom van Bergen veya Adam Daghim gol/asist",
+     0.4435
+    ],
+    [
+     "Ro-Zangelo Daal veya Don-Angelo Konadu gol/asist",
+     0.435
+    ],
+    [
+     "Ro-Zangelo Daal veya Adam Daghim gol/asist",
+     0.4273
+    ],
+    [
+     "Don-Angelo Konadu veya Adam Daghim gol/asist",
+     0.4225
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Asist Yapar",
+   "oneri": "Don-Angelo Konadu",
+   "olasilik": 0.0349,
+   "adil_oran": 28.65,
+   "en_olasi": "Don-Angelo Konadu",
+   "en_olasi_p": 0.0349,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Don-Angelo Konadu",
+     0.0349
+    ],
+    [
+     "Thom van Bergen",
+     0.0342
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0301
+    ],
+    [
+     "Adam Daghim",
+     0.026
+    ],
+    [
+     "Noah Nartey",
+     0.0159
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Gol Asisti Yapar Çifte Şans",
+   "oneri": "Thom van Bergen veya Don-Angelo Konadu asist",
+   "olasilik": 0.2226,
+   "adil_oran": 4.49,
+   "en_olasi": "Thom van Bergen veya Don-Angelo Konadu asist",
+   "en_olasi_p": 0.2226,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen veya Don-Angelo Konadu asist",
+     0.2226
+    ],
+    [
+     "Ro-Zangelo Daal veya Don-Angelo Konadu asist",
+     0.2217
+    ],
+    [
+     "Don-Angelo Konadu veya Noah Nartey asist",
+     0.2075
+    ],
+    [
+     "Don-Angelo Konadu veya Adam Daghim asist",
+     0.2063
+    ],
+    [
+     "Thom van Bergen veya Ro-Zangelo Daal asist",
+     0.1825
+    ],
+    [
+     "Thom van Bergen veya Noah Nartey asist",
+     0.1676
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Penaltı Kaçırır",
+   "oneri": "Thom van Bergen",
+   "olasilik": 0.0,
+   "adil_oran": null,
+   "en_olasi": "Thom van Bergen",
+   "en_olasi_p": 0.0,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Thom van Bergen",
+     0.0
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0
+    ],
+    [
+     "Adam Daghim",
+     0.0
+    ],
+    [
+     "Noah Nartey",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Penaltı Kazandıran Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu bazlı penaltı verisi yok",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kart Görür",
+   "oneri": "Noah Nartey",
+   "olasilik": 0.1391,
+   "adil_oran": 7.19,
+   "en_olasi": "Noah Nartey",
+   "en_olasi_p": 0.1391,
+   "guven": "düşük",
+   "not_": "Oyuncunun kart ihtimali girdiden",
+   "secimler": [
+    [
+     "Noah Nartey",
+     0.1391
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.1005
+    ],
+    [
+     "Adam Daghim",
+     0.1004
+    ],
+    [
+     "Thom van Bergen",
+     0.0812
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0804
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kart Görür Çifte Şans",
+   "oneri": "Adam Daghim veya Noah Nartey",
+   "olasilik": 0.2253,
+   "adil_oran": 4.44,
+   "en_olasi": "Adam Daghim veya Noah Nartey",
+   "en_olasi_p": 0.2253,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Adam Daghim veya Noah Nartey",
+     0.2253
+    ],
+    [
+     "Don-Angelo Konadu veya Noah Nartey",
+     0.225
+    ],
+    [
+     "Thom van Bergen veya Noah Nartey",
+     0.2094
+    ],
+    [
+     "Ro-Zangelo Daal veya Noah Nartey",
+     0.2089
+    ],
+    [
+     "Don-Angelo Konadu veya Adam Daghim",
+     0.1906
+    ],
+    [
+     "Thom van Bergen veya Don-Angelo Konadu",
+     0.1734
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sarı Kart Görür",
+   "oneri": "Noah Nartey",
+   "olasilik": 0.1391,
+   "adil_oran": 7.19,
+   "en_olasi": "Noah Nartey",
+   "en_olasi_p": 0.1391,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Noah Nartey",
+     0.1391
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.1005
+    ],
+    [
+     "Adam Daghim",
+     0.1004
+    ],
+    [
+     "Thom van Bergen",
+     0.0812
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0804
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Kart Görecek İlk Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu sıralaması için yeterli veri yok",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Son Kartı Görecek Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu sıralaması için yeterli veri yok",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyundan Uzaklaştırılır",
+   "oneri": "Noah Nartey",
+   "olasilik": 0.0067,
+   "adil_oran": 149.81,
+   "en_olasi": "Noah Nartey",
+   "en_olasi_p": 0.0067,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Noah Nartey",
+     0.0067
+    ],
+    [
+     "Don-Angelo Konadu",
+     0.0055
+    ],
+    [
+     "Adam Daghim",
+     0.0048
+    ],
+    [
+     "Ro-Zangelo Daal",
+     0.0044
+    ],
+    [
+     "Thom van Bergen",
+     0.0039
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Şutları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pasları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pas Denemeleri",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncunun Yaptığı Fauller",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncuya Faul Yapılır",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Topa Müdahaleler",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ofsayta Düşer",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Kaleci Kurtarışları",
+   "oneri": "Hollanda U21 kalecisi 3,5 Alt",
+   "olasilik": 0.7739,
+   "adil_oran": 1.29,
+   "en_olasi": "Hollanda U21 kalecisi 4,5 Alt",
+   "en_olasi_p": 0.9006,
+   "guven": "düşük",
+   "not_": "Rakibin beklenen golünden türetildi",
+   "secimler": [
+    [
+     "Hollanda U21 kalecisi 1,5 Üst",
+     0.6954
+    ],
+    [
+     "Hollanda U21 kalecisi 1,5 Alt",
+     0.3046
+    ],
+    [
+     "Hollanda U21 kalecisi 2,5 Üst",
+     0.4356
+    ],
+    [
+     "Hollanda U21 kalecisi 2,5 Alt",
+     0.5644
+    ],
+    [
+     "Hollanda U21 kalecisi 3,5 Üst",
+     0.2261
+    ],
+    [
+     "Hollanda U21 kalecisi 3,5 Alt",
+     0.7739
+    ],
+    [
+     "Hollanda U21 kalecisi 4,5 Üst",
+     0.0994
+    ],
+    [
+     "Hollanda U21 kalecisi 4,5 Alt",
+     0.9006
+    ],
+    [
+     "Danimarka U21 kalecisi 1,5 Üst",
+     0.8711
+    ],
+    [
+     "Danimarka U21 kalecisi 1,5 Alt",
+     0.1289
+    ],
+    [
+     "Danimarka U21 kalecisi 2,5 Üst",
+     0.6912
+    ],
+    [
+     "Danimarka U21 kalecisi 2,5 Alt",
+     0.3088
+    ],
+    [
+     "Danimarka U21 kalecisi 3,5 Üst",
+     0.4769
+    ],
+    [
+     "Danimarka U21 kalecisi 3,5 Alt",
+     0.5231
+    ],
+    [
+     "Danimarka U21 kalecisi 4,5 Üst",
+     0.2879
+    ],
+    [
+     "Danimarka U21 kalecisi 4,5 Alt",
+     0.7121
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Pas Veren Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Faul Yapan Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 1. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 2. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Her İki Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Çektiği Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kafayla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sağ Ayakla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  }
+ ],
+ "eksik": []
+}
