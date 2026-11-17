@@ -1,10 +1,60 @@
-{"organizasyon":"Hazırlık maçı","tarih":"18 Kasım 2026, 02:00 TSİ","stadyum":"Estadio Monumental David Arellano, Santiago",
- "ilk_yari_gol_payi":0.43,"korner_guven":"orta","kart_guven":"orta","var_ort":0.2,
- "not":"Gol beklentisi geçmiş hatalar nedeniyle +%10 düzeltildi; site oranlarıyla yeniden ayarlanacak",
- "ev":{"ad":"Şili","beklenen_gol":0.95,"korner":4.6,"sari_kart":2.0,
-  "oyuncular":[{"ad":"Darío Osorio","gol_payi":0.18,"asist_payi":0.12,"kart_ihtimali":0.12},
-               {"ad":"Gonzalo Tapia","gol_payi":0.15,"asist_payi":0.10,"kart_ihtimali":0.10},
-               {"ad":"Maximiliano Gutiérrez","gol_payi":0.14,"asist_payi":0.10,"kart_ihtimali":0.10}]},
- "dep":{"ad":"Kolombiya","beklenen_gol":1.25,"korner":4.0,"sari_kart":2.2,
-  "oyuncular":[{"ad":"Luis Suárez","gol_payi":0.24,"asist_payi":0.06,"kart_ihtimali":0.10,"penaltici":true},
-               {"ad":"Jhon Arias","gol_payi":0.14,"asist_payi":0.18,"kart_ihtimali":0.12}]}}
+{
+ "organizasyon": "Hazırlık maçı",
+ "tarih": "18 Kasım 2026, 02:00 TSİ",
+ "stadyum": "Estadio Monumental David Arellano, Santiago",
+ "ilk_yari_gol_payi": 0.43,
+ "korner_guven": "orta",
+ "kart_guven": "orta",
+ "var_ort": 0.2,
+ "not": "Korner: son 5 maç verisi (Şili 4,4 kazanır/6,6 verir; Kolombiya 4,3/2,3). Goller site oranından.",
+ "ev": {
+  "ad": "Şili",
+  "beklenen_gol": 0.91,
+  "korner": 3.7,
+  "sari_kart": 2.0,
+  "oyuncular": [
+   {
+    "ad": "Darío Osorio",
+    "gol_payi": 0.18,
+    "asist_payi": 0.12,
+    "kart_ihtimali": 0.12
+   },
+   {
+    "ad": "Gonzalo Tapia",
+    "gol_payi": 0.15,
+    "asist_payi": 0.1,
+    "kart_ihtimali": 0.1
+   },
+   {
+    "ad": "Maximiliano Gutiérrez",
+    "gol_payi": 0.14,
+    "asist_payi": 0.1,
+    "kart_ihtimali": 0.1
+   }
+  ],
+  "model_beklenen_gol": 0.95
+ },
+ "dep": {
+  "ad": "Kolombiya",
+  "beklenen_gol": 1.323,
+  "korner": 5.0,
+  "sari_kart": 2.2,
+  "oyuncular": [
+   {
+    "ad": "Luis Suárez",
+    "gol_payi": 0.24,
+    "asist_payi": 0.06,
+    "kart_ihtimali": 0.1,
+    "penaltici": true
+   },
+   {
+    "ad": "Jhon Arias",
+    "gol_payi": 0.14,
+    "asist_payi": 0.18,
+    "kart_ihtimali": 0.12
+   }
+  ],
+  "model_beklenen_gol": 1.25
+ },
+ "kalibrasyon": "Beklenen goller site oranlarından (takım 0,5 gol pazarı)"
+}

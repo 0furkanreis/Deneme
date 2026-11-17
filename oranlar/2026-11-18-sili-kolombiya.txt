@@ -1,0 +1,8243 @@
+Maç Sonucu
+Şili
+Beraberlik
+Kolombiya
+3.85
+3.06
+1.95
+Çifte Şans
+1X
+12
+X2
+1.73
+1.34
+1.24
+Toplam Goller
+Üst
+Alt
+0.5
+1.07
+6.90
+1
+1.11
+5.55
+1.5
+1.42
+2.65
+2
+1.72
+2.00
+2.5
+2.30
+1.55
+3
+3.47
+1.26
+3.5
+4.15
+1.19
+4
+7.10
+1.065
+4.5
+7.50
+1.055
+Şili : Toplam Gol
+Üst
+Alt
+0.5
+1.55
+2.30
+1
+2.50
+1.47
+1.5
+3.75
+1.23
+Kolombiya : Toplam Gol
+Üst
+Alt
+0.5
+1.26
+3.47
+1
+1.52
+2.37
+1.5
+2.30
+1.55
+2
+4.05
+1.20
+2.5
+4.90
+1.14
+Her iki takımda gol atar
+Evet
+Hayır
+2.00
+1.72
+Her İki Takım da 2 veya Daha Fazla Gol Atar
+YENİ
+Evet
+No
+7.30
+1.06
+Gol Handikapı
+Şili
+Kolombiya
+-1.5
+7.85
++1.5
+1.05
+-1
+7.10
++1
+1.065
+-0.5
+3.65
++0.5
+1.24
+0
+2.68
+0
+1.41
++0.5
+1.75
+-0.5
+1.95
++1
+1.34
+-1
+3.00
++1.5
+1.22
+-1.5
+3.83
++2
+1.07
+-2
+6.90
++2.5
+1.055
+-2.5
+7.50
+Goller Asya Handikapı
+Şili
+Kolombiya
+-1.75
+8.30
++1.75
+1.03
+-1.25
+7.50
++1.25
+1.055
+-0.75
+4.57
++0.75
+1.16
+-0.25
+3.15
++0.25
+1.31
++0.25
+2.07
+-0.25
+1.67
++0.75
+1.54
+-0.75
+2.33
++1.25
+1.25
+-1.25
+3.57
++1.75
+1.13
+-1.75
+5.10
++2.25
+1.06
+-2.25
+7.30
++2.75
+1.025
+-2.75
+9.50
+Gol Handikapı (3-İhtimalli)
+Şili
+Beraberlik : Kolombiya
+Kolombiya
+-1
+7.85
++1
+5.10
++1
+1.24
++1
+1.73
+-1
+3.36
+-1
+4.20
++2
+1.19
+-2
+6.00
+-2
+9.40
+Toplam Goller Asya
+Üst
+Alt
+0.75
+1.085
+6.30
+1.25
+1.26
+3.47
+1.75
+1.53
+2.35
+2.25
+2.00
+1.72
+2.75
+2.68
+1.41
+3.25
+3.83
+1.22
+3.75
+5.10
+1.13
+4.25
+7.30
+1.06
+4.75
+9.00
+1.03
+Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+1
+1.42
+3.65
+8.10
+2
+2.30
+3.25
+2.65
+3
+4.50
+4.05
+1.55
+4
+9.50
+6.30
+1.18
+Şili : Asist Yapar. Toplam
+YENİ
+1+
+2.11
+2+
+6.80
+3+
+21.00
+Kolombiya : Asist Yapar. Toplam
+YENİ
+1+
+1.61
+2+
+3.85
+3+
+11.00
+4+
+23.00
+Her iki yarıda gol olur
+Evet
+Hayır
+2.01
+1.71
+İlk Golü Atacak Takım
+Şili
+Kolombiya
+Gol Yok
+2.50
+1.68
+8.10
+Son Golü Atacak Takım
+Şili
+Kolombiya
+Gol Yok
+2.50
+1.68
+8.10
+Şili : Toplam Gol Asya
+Üst
+Alt
+0.75
+1.81
+1.89
+1.25
+3.15
+1.31
+1.75
+4.90
+1.14
+Kolombiya : Toplam Gol Asya
+Üst
+Alt
+0.75
+1.36
+2.87
+1.25
+1.92
+1.78
+1.75
+2.85
+1.37
+2.25
+4.57
+1.16
+Toplam Gol Tek / Çift
+Çift
+Tek
+1.82
+1.88
+Şili : Gol Atar
+Evet
+Hayır
+1.55
+2.30
+Kolombiya Gol Atar
+Evet
+Hayır
+1.26
+3.47
+Şili Gol Atar ve Maç Sonucu
+Evet ve Şili
+3.85
+Evet ve Berabere
+4.30
+Hayır ve Berabere
+8.10
+Evet ve Kolombiya
+4.80
+Hayır ve Kolombiya
+2.95
+Kolombiya Gol Atar ve Maç Sonucu
+Evet ve Şili
+8.90
+Hayır ve Şili
+5.90
+Evet ve Berabere
+4.30
+Hayır ve Berabere
+8.10
+Evet ve Kolombiya
+1.95
+Şili : Bahis Yok
+Beraberlik
+Kolombiya
+2.35
+1.53
+Kolombiya : Bahis Yok
+Şili
+Beraberlik
+2.10
+1.65
+Maç Sonucu ve Karşılıklı Gol
+Şili Ve Evet
+8.90
+Beraberlik Ve Hayır
+8.10
+Şili Ve Hayır
+5.90
+Kolombiya Ve Evet
+4.80
+Beraberlik ve Evet
+4.30
+Kolombiya Ve Hayır
+2.95
+Çifte Şans ve Karşılıklı Gol
+1X Ve Evet
+2.88
+12 Ve Hayır
+1.97
+1X Ve Hayır
+3.25
+X2 Ve Evet
+2.29
+12 Ve Evet
+3.01
+X2 Ve Hayır
+2.13
+Maç Sonucu ve Toplam Gol 1.5
+Şili ve Üst 1.5
+5.70
+Şili ve Alt 1.5
+9.40
+Beraberlik ve Üst 1.5
+4.40
+Beraberlik ve Alt 1.5
+7.90
+Kolombiya ve Üst 1.5
+2.78
+Kolombiya ve Alt 1.5
+5.60
+1X ve Üst 1.5
+2.63
+1X ve Alt 1.5
+4.50
+12 ve Üst 1.5
+1.97
+12 ve Alt 1.5
+3.72
+X2 ve Üst 1.5
+1.80
+X2 ve Alt 1.5
+3.47
+Maç Sonucu ve Toplam Gol 2.5
+Şili ve Üst 2.5
+7.70
+Şili ve Alt 2.5
+6.60
+Beraberlik ve Üst 2.5
+15.00
+Beraberlik ve Alt 2.5
+3.58
+Kolombiya ve Üst 2.5
+3.63
+Kolombiya ve Alt 2.5
+3.70
+1X ve Üst 2.5
+5.40
+1X ve Alt 2.5
+2.45
+12 ve Üst 2.5
+2.59
+12 ve Alt 2.5
+2.50
+X2 ve Üst 2.5
+3.05
+X2 ve Alt 2.5
+1.93
+Maç Sonucu ve Toplam Gol 3.5
+Şili ve Üst 3.5
+19.00
+Şili ve Alt 3.5
+4.50
+Beraberlik ve Üst 3.5
+15.00
+Beraberlik ve Alt 3.5
+3.58
+Kolombiya ve Üst 3.5
+7.80
+Kolombiya ve Alt 3.5
+2.44
+1X ve Üst 3.5
+8.90
+1X ve Alt 3.5
+2.10
+12 ve Üst 3.5
+5.80
+12 ve Alt 3.5
+1.66
+X2 ve Üst 3.5
+5.40
+X2 ve Alt 3.5
+1.53
+Maç Sonucu ve Toplam Gol 4.5
+Şili ve Üst 4.5
+34.00
+Şili ve Alt 4.5
+4.10
+Beraberlik ve Üst 4.5
+101.00
+Beraberlik ve Alt 4.5
+3.08
+Kolombiya ve Üst 4.5
+15.00
+Kolombiya ve Alt 4.5
+2.16
+1X ve Üst 4.5
+26.00
+1X ve Alt 4.5
+1.86
+12 ve Üst 4.5
+11.00
+12 ve Alt 4.5
+1.49
+X2 ve Üst 4.5
+13.00
+X2 ve Alt 4.5
+1.34
+Sonuç ve Şili : Toplam Gol
+Şili ve Üst (1.5)
+5.00
+Şili ve Alt (1.5)
+7.90
+Beraberlik ve Üst (1.5)
+12.00
+Beraberlik ve Alt (1.5)
+3.23
+Kolombiya ve Üst (1.5)
+19.00
+Kolombiya ve Alt (1.5)
+1.97
+Şili ve Üst (2.5)
+12.00
+Şili ve Alt (2.5)
+4.20
+Beraberlik ve Üst (2.5)
+71.00
+Beraberlik ve Alt (2.5)
+2.83
+Kolombiya ve Üst (2.5)
+151.00
+Kolombiya ve Alt (2.5)
+1.85
+Şili ve Üst (3.5)
+41.00
+Şili ve Alt (3.5)
+3.57
+Beraberlik ve Üst (3.5)
+351.00
+Beraberlik ve Alt (3.5)
+2.78
+Kolombiya ve Üst (3.5)
+351.00
+Kolombiya ve Alt (3.5)
+1.84
+Sonuç ve Kolombiya : Toplam Gol
+Şili ve Üst (1.5)
+34.00
+Şili ve Alt (1.5)
+3.60
+Beraberlik ve Üst (1.5)
+12.00
+Beraberlik ve Alt (1.5)
+3.23
+Kolombiya ve Üst (1.5)
+2.57
+Kolombiya ve Alt (1.5)
+4.90
+Şili ve Üst (2.5)
+251.00
+Şili ve Alt (2.5)
+3.41
+Beraberlik ve Üst (2.5)
+71.00
+Beraberlik ve Alt (2.5)
+2.83
+Kolombiya ve Üst (2.5)
+4.90
+Kolombiya ve Alt (2.5)
+2.54
+Şili ve Üst (3.5)
+351.00
+Şili ve Alt (3.5)
+3.40
+Beraberlik ve Üst (3.5)
+351.00
+Beraberlik ve Alt (3.5)
+2.78
+Kolombiya ve Üst (3.5)
+13.00
+Kolombiya ve Alt (3.5)
+2.02
+Sonuç veya Toplam Gol
+Şili veya Üst (2.5)
+1.70
+Şili veya Alt (2.5)
+1.31
+Beraberlik veya Üst (2.5)
+1.47
+Beraberlik veya Alt (2.5)
+1.41
+Kolombiya veya Üst (2.5)
+1.45
+Kolombiya veya Alt (2.5)
+1.14
+Şili veya Üst (3.5)
+2.20
+Şili veya Alt (3.5)
+1.13
+Beraberlik veya Üst (3.5)
+1.97
+Beraberlik veya Alt (3.5)
+1.12
+Kolombiya veya Üst (3.5)
+1.59
+Kolombiya veya Alt (3.5)
+1.06
+Daha Fazla Seçeneği Göster
+Maç Sonucu ve Toplam Gol (Kesin)
+Şili ve 1
+8.90
+Şili ve 2
+19.00
+Şili ve 3
+11.00
+Şili ve 4+
+17.00
+Beraberlik ve 0
+7.60
+Beraberlik ve 2
+5.70
+Beraberlik ve 4
+17.00
+Beraberlik ve 6+
+91.00
+Kolombiya ve 1
+5.50
+Kolombiya ve 2
+8.80
+Kolombiya ve 3
+5.90
+Kolombiya ve 4+
+7.40
+Sonuç ve Toplam Gol (Genişletilmiş Aralık)
+Şili ve 1-2
+6.40
+Şili ve 1-3
+4.33
+Şili ve 1-4
+3.97
+Şili ve 1-5
+3.72
+Şili ve 1-6
+3.67
+Şili ve 2-3
+7.50
+Şili ve 2-4
+6.40
+Şili ve 2-5
+5.80
+Şili ve 2-6
+5.70
+Şili ve 3-4
+8.90
+Şili ve 3-5
+7.70
+Şili ve 3-6
+7.40
+Daha Fazla Seçeneği Göster
+Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)
+1X ve 1-2
+3.20
+1X ve 1-3
+2.62
+1X ve 1-4
+2.24
+1X ve 1-5
+2.16
+1X ve 1-6
+2.12
+1X ve 2-3
+3.41
+1X ve 2-4
+2.78
+1X ve 2-5
+2.66
+1X ve 2-6
+2.59
+1X ve 3-4
+6.00
+1X ve 3-5
+5.50
+1X ve 3-6
+5.20
+1X ve 4-5
+9.50
+1X ve 4-6
+8.60
+1X ve 5-6
+26.00
+1X ve Herhangi bir diğer
+7.40
+12 ve 1-2
+2.47
+12 ve 1-3
+1.65
+Daha Fazla Seçeneği Göster
+Sonuç veya Doğru Skor
+Şili veya 0-0: Evet
+2.61
+Şili veya 0-0: Hayır
+1.41
+Kolombiya veya 0-0: Evet
+1.61
+Kolombiya veya 0-0: Hayır
+2.10
+Şili veya 1-1: Evet
+2.36
+Şili veya 1-1: Hayır
+1.49
+Kolombiya veya 1-1: Evet
+1.52
+Kolombiya veya 1-1: Hayır
+2.30
+Şili veya 0-1: Evet
+2.34
+Şili veya 0-1: Hayır
+1.50
+Kolombiya veya 1-0: Evet
+1.65
+Kolombiya veya 1-0: Hayır
+2.04
+Her İki Yarı Toplam Gol Kombinasyonu
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+3.20
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+7.00
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 0.5 Üst gol
+3.66
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+6.40
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+14.00
+İlk yarıda 0.5 Üst gol ve Maç sonucu 1.5 Üst gol
+1.62
+İlk yarıda 0.5 Üst gol ve Maç sonucu 2.5 Üst gol
+2.28
+İlk yarıda 0.5 Üst gol ve Maç sonucu 3.5 Üst gol
+3.85
+İlk yarıda 0.5 Üst gol ve Maç sonucu 4.5 Üst gol
+7.60
+İlk yarıda 1.5 Üst gol ve Maç sonucu 2.5 Üst gol
+3.34
+İlk yarıda 1.5 Üst gol ve Maç sonucu 3.5 Üst gol
+5.00
+İlk yarıda 1.5 Üst gol ve Maç sonucu 4.5 Üst gol
+9.00
+İlk yarıda 2.5 Üst gol ve Maç sonucu 3.5 Üst gol
+8.70
+İlk yarıda 2.5 Üst gol ve Maç sonucu 4.5 Üst gol
+13.00
+Toplam Gol (Kesin)
+0
+8.10
+1
+3.65
+2
+3.25
+3
+4.05
+4
+6.30
+5
+14.00
+6 veya Daha Fazla
+25.00
+Şili : Toplam Gol (Kesin)
+0
+2.25
+1
+2.32
+2
+4.85
+3
+14.00
+4 veya Daha Fazla
+41.00
+Kolombiya : Toplam Gol (Kesin)
+0
+3.03
+1
+2.43
+2
+3.47
+3
+7.00
+4 veya Daha Fazla
+14.00
+Toplam Gol (Aralık)
+0-1
+2.65
+2-3
+1.91
+4 ila 6
+4.30
+7 veya Daha fazla
+61.00
+Şili : Toplam Gol (Aralık)
+0-1
+1.23
+2-3
+3.73
+4 ila 6
+41.00
+7 veya Daha fazla
+351.00
+Kolombiya : Toplam Gol (Aralık)
+0-1
+1.55
+2-3
+2.45
+4 ila 6
+13.00
+7 veya Daha fazla
+351.00
+Toplam Gol (Genişletilmiş Gol Aralığı)
+1-2
+1.60
+1-3
+1.26
+1-4
+1.13
+1-5
+1.09
+1-6
+1.07
+2-3
+1.91
+2-4
+1.44
+2-5
+1.35
+2-6
+1.32
+3-4
+2.20
+3-5
+1.98
+3-6
+1.91
+Daha Fazla Seçeneği Göster
+Şili : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.70
+1-3
+1.58
+1-4
+1.55
+2-3
+3.91
+2-4
+3.74
+3-4
+12.00
+Herhangi Diğer
+2.19
+Kolombiya : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.54
+1-3
+1.33
+1-4
+1.27
+2-3
+2.53
+2-4
+2.31
+3-4
+5.50
+Herhangi Diğer
+3.28
+Şili Kesin Gol Farkıyla Kazanır
+Evet
+Hayır
+1
+5.10
+1.13
+2
+9.00
+1.03
+Kolombiya : Kesin Gol Farkıyla Kazanır
+Evet
+Hayır
+1
+3.30
+1.28
+2
+5.55
+1.11
+3
+9.30
+1.027
+Şili Kazanır ve Kesin Gol Atar
+Evet
+Hayır
+1
+7.50
+1.055
+2
+7.10
+1.065
+Kolombiya Kazanır ve Kesin gol atar
+Evet
+Hayır
+1
+5.10
+1.13
+2
+4.57
+1.16
+3
+7.10
+1.065
+En Az Bir Takım Üst Gol Atar
+YENİ
+Evet
+No
+1.5
+1.78
+1.92
+2.5
+4.05
+1.20
+3.5
+9.00
+1.03
+İlk Golün Atılma Şekli
+Kafa vuruşu ile
+5.40
+Diğer Bir Yöntemle
+1.39
+Serbest vuruş ile
+36.00
+Penaltı atışı ile
+8.30
+Maçta kendi kalesine gol atılır
+31.00
+Gol yok
+7.40
+1. Gol Zamanı
+1-10
+3.45
+11-20
+4.20
+21-30
+5.20
+31-40
+6.20
+41-50
+7.00
+51-60
+9.40
+61-70
+12.00
+71-80
+13.00
+81-90+
+13.00
+Gol Yok
+4.85
+Şili : 1. Gol Zamanı (10 dk. Ara)
+1-10
+6.20
+11-20
+8.20
+21-30
+8.60
+31-40
+9.10
+41-50
+9.10
+51-60
+11.00
+61-70
+12.00
+71-80
+12.00
+81-90+
+10.00
+Gol Yok
+1.86
+Kolombiya : 1. Gol Zamanı (10 dk. Ara)
+1-10
+4.80
+11-20
+6.20
+21-30
+6.80
+31-40
+7.20
+41-50
+7.40
+51-60
+9.40
+61-70
+11.00
+71-80
+12.00
+81-90+
+10.00
+Gol Yok
+2.52
+1. Gol Zamanı (15 dk.)
+1-15
+2.83
+16-30
+3.30
+31-45+
+4.20
+46-60
+5.60
+61-75
+7.80
+76-90+
+8.60
+No Goal
+6.30
+Doğru Skor
+1-0
+8.40
+0-0
+8.10
+0-1
+5.30
+2-0
+17.00
+1-1
+5.50
+0-2
+8.40
+2-1
+13.00
+2-2
+15.00
+1-2
+8.00
+3-0
+46.00
+3-3
+91.00
+0-3
+15.00
+3-1
+36.00
+4-4
+301.00
+1-3
+17.00
+3-2
+51.00
+5-5
+301.00
+2-3
+31.00
+Daha Fazla Seçeneği Göster
+Herhangi Bir Zamanda Doğru Skor
+0-1
+1.70
+0-2
+3.52
+0-3
+8.80
+0-4
+26.00
+0-5
+91.00
+1-0
+2.39
+1-1
+2.68
+1-2
+4.70
+1-3
+11.00
+1-4
+31.00
+1-5
+101.00
+2-0
+7.00
+2-1
+6.50
+2-2
+11.00
+2-3
+23.00
+2-4
+67.00
+2-5
+226.00
+3-0
+25.00
+Daha Fazla Seçeneği Göster
+1.Yarı Sonucu
+Şili
+Beraberlik
+Kolombiya
+4.15
+1.99
+2.59
+1.Yarı Çifte Şans
+1X
+12
+X2
+1.44
+1.70
+1.19
+1. Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.47
+2.50
+1
+2.13
+1.63
+1.5
+3.20
+1.30
+2
+6.70
+1.075
+2.5
+7.50
+1.055
+1. Yarı 1. Takım Toplam Gol
+Üst
+Alt
+0.5
+2.70
+1.40
+1
+7.85
+1.05
+1.5
+8.70
+1.035
+1. Yarı 2. Takım Toplam Gol
+Üst
+Alt
+0.5
+1.97
+1.73
+1
+4.30
+1.18
+1.5
+6.00
+1.095
+1. Yarı Şili Toplam Goller Asya
+Üst
+Alt
+0.75
+3.83
+1.22
+1.25
+8.20
+1.045
+1. Yarı Kolombiya Toplam Gol Asya
+Üst
+Alt
+0.75
+2.52
+1.46
+1.25
+5.10
+1.13
+1.75
+7.85
+1.05
+1. Yarı Karşılıklı Gol
+Evet
+Hayır
+5.10
+1.13
+1. Yarı Gol Handikapı
+Şili
+Kolombiya
+-1
+10.00
++1
+1.02
+-0.5
+4.15
++0.5
+1.19
+0
+2.50
+0
+1.47
++0.5
+1.44
+-0.5
+2.59
++1
+1.095
+-1
+6.00
++1.5
+1.06
+-1.5
+7.30
+1. Yarı Goller Asya Handikapı
+Şili
+Kolombiya
+-0.75
+5.85
++0.75
+1.10
+-0.25
+3.40
++0.25
+1.27
++0.25
+1.68
+-0.25
+2.05
++0.75
+1.27
+-0.75
+3.40
++1.25
+1.07
+-1.25
+6.90
++1.75
+1.027
+-1.75
+9.30
+1. Yarı Gol Handikapı 3 İhtimalli
+Şili
+Beraberlik Kolombiya
+Kolombiya
+0
+4.15
+0
+1.99
+0
+2.59
++1
+1.44
+-1
+3.37
+-1
+8.90
+1.Yarı Toplam Gol Asya
+Üst
+Alt
+0.75
+1.67
+2.07
+1.25
+2.68
+1.41
+1.75
+4.15
+1.19
+2.25
+7.10
+1.065
+2.75
+9.30
+1.027
+1. . Yarı : Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+1
+3.20
+2.46
+2.50
+1. Yarı: Sonuç ve Her İki Takımda Gol atar
+Şili Ve Evet
+15.00
+Beraberlik ve Hayır
+2.43
+Şili Ve Hayır
+4.57
+Kolombiya ve Evet
+10.00
+Beraberlik ve Evet
+5.00
+Kolombiya ve Hayır
+2.85
+1. Yarı Toplam Gol Aralığı
+0-1
+1.30
+2-3
+3.21
+4 ila 6
+29.00
+7 veya Daha fazla
+29.00
+1.Yarı Şili Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.035
+6.30
+351.00
+1.Yarı Kolombiya Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.095
+4.90
+151.00
+1. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.65
+1-3
+1.50
+1-4
+1.47
+2-3
+3.21
+2-4
+3.17
+3-4
+9.30
+Herhangi Diğer
+2.40
+1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+2.70
+1-3
+2.65
+1-4
+2.70
+2-3
+12.00
+2-4
+12.00
+3-4
+76.00
+Herhangi Diğer
+1.40
+1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+2.04
+1-3
+1.99
+1-4
+1.94
+2-3
+6.30
+2-4
+6.20
+3-4
+26.00
+Herhangi Diğer
+1.70
+1.Yarı Toplam Gol (Kesin)
+0
+2.50
+1
+2.46
+2
+3.75
+3
+8.90
+4 veya Daha Fazla
+16.00
+1.Yarı Şili Toplam Gol (Kesin)
+0
+1
+2+
+1.40
+3.04
+13.00
+1.Yarı Kolombiya Toplam Gol (Kesin)
+0
+1
+2+
+1.73
+2.56
+6.40
+1. Yarı Şili Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+4.90
+1.14
+1. Yarı Kolombiya Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+3.30
+1.28
+2
+8.20
+1.045
+1. Yarı Şili Sıfıra Karşı Kazanır
+Evet
+Hayır
+4.57
+1.16
+1. Yarı Kolombiya Sıfıra Karşı Kazanır
+Evet
+Hayır
+2.85
+1.37
+1. Yarı İlk Golü Atacak Takım
+Şili
+Kolombiya
+Gol yok
+3.47
+2.27
+2.43
+1. Yarı Son Golü Atacak Takım
+Şili
+Kolombiya
+Gol yok
+3.47
+2.27
+2.43
+1.Yarı Doğru Skor
+1-0
+5.30
+0-0
+2.43
+0-1
+3.68
+2-0
+21.00
+1-1
+8.00
+0-2
+11.00
+2-1
+34.00
+2-2
+91.00
+1-2
+23.00
+3-0
+126.00
+3-3
+301.00
+0-3
+41.00
+3-1
+201.00
+1-3
+96.00
+3-2
+301.00
+2-3
+276.00
+2. Yarı Sonucu
+Şili
+Beraberlik
+Kolombiya
+3.90
+2.23
+2.41
+2. Yarı Çifte Şans
+1X
+12
+X2
+1.46
+1.56
+1.23
+2.Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.32
+3.10
+1
+1.67
+2.07
+1.5
+2.50
+1.47
+2
+4.57
+1.16
+2.5
+5.55
+1.11
+3
+10.00
+1.02
+2.Yarı Şili Toplam Gol
+Üst
+Alt
+0.5
+2.30
+1.55
+1
+5.55
+1.11
+1.5
+7.30
+1.06
+2.Yarı Kolombiya Toplam Gol
+Üst
+Alt
+0.5
+1.77
+1.93
+1
+3.25
+1.29
+1.5
+4.57
+1.16
+2
+10.00
+1.02
+2.5
+10.30
+1.017
+2. Yarı Karşılıklı Gol
+Evet
+Hayır
+3.90
+1.21
+2. Yarı Gol Handikapı
+Şili
+Kolombiya
+-1.5
+9.50
++1.5
+1.025
+-1
+8.70
++1
+1.035
+0
+2.39
+0
+1.51
++1
+1.14
+-1
+4.90
++1.5
+1.095
+-1.5
+6.00
+2. Yarı Gol Handikapı 3 İhtimalli
+Şili
+Beraberlik Kolombiya
+Kolombiya
+-1
+15.00
++1
+4.30
++1
+1.22
+0
+3.90
+0
+2.23
+0
+2.41
++1
+1.46
+-1
+3.25
+-1
+6.90
+2.Yarı: Sonuç ve Her İki Takımda Gol Atar
+Şili Ve Evet
+10.00
+Beraberlik ve Hayır
+3.10
+Şili Ve Hayır
+4.42
+Kolombiya ve Evet
+7.30
+Beraberlik ve Evet
+4.40
+Kolombiya ve Hayır
+2.75
+2. Yarı Toplam Gol Aralığı
+0-1
+1.47
+2-3
+2.50
+4 ila 6
+14.00
+7 veya Daha fazla
+29.00
+2.Yarı Şili Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.06
+5.60
+251.00
+2.Yarı Kolombiya Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.16
+4.10
+81.00
+2. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.58
+1-3
+1.38
+1-4
+1.33
+2-3
+2.50
+2-4
+2.50
+3-4
+6.30
+Herhangi Diğer
+2.91
+2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+2.32
+1-3
+2.25
+1-4
+2.24
+2-3
+5.60
+2-4
+8.30
+3-4
+41.00
+Herhangi Diğer
+1.53
+2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)
+1-2
+1.86
+1-3
+1.75
+1-4
+1.74
+2-3
+4.85
+2-4
+4.70
+3-4
+17.00
+Herhangi Diğer
+1.90
+2.Yarı Toplam Gol (Kesin)
+0
+3.10
+1
+2.23
+2
+3.23
+3
+6.50
+4+
+10.50
+2.Yarı Şili Toplam Gol (Kesin)
+0
+1
+2+
+1.55
+2.77
+7.30
+2.Yarı Kolombiya Toplam Gol (Kesin)
+0
+1
+2+
+1.95
+2.46
+4.57
+2. Yarı Şili Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+4.57
+1.16
+2. Yarı Kolombiya Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+3.30
+1.28
+2
+7.30
+1.06
+2.Yarı Şili Sıfıra karşı Kazanır
+Evet
+Hayır
+4.42
+1.17
+2.Yarı Kolombiya Sıfıra karşı Kazanır
+Evet
+Hayır
+2.80
+1.38
+2. Yarı -İlk Golü Atacak Takım
+Şili
+Kolombiya
+Gol yok
+3.09
+2.15
+3.13
+2. Yarı Son Golü Atacak Takım
+Şili
+Kolombiya
+Gol yok
+3.09
+2.15
+3.13
+2. Yarı Doğru Skor
+1-0
+5.40
+0-0
+2.95
+0-1
+3.78
+2-0
+19.00
+1-1
+7.00
+0-2
+8.90
+2-1
+23.00
+2-2
+56.00
+1-2
+17.00
+3-0
+91.00
+3-3
+301.00
+0-3
+31.00
+3-1
+111.00
+1-3
+56.00
+3-2
+276.00
+2-3
+176.00
+1. Yarı/2. Yarı Karşılıklı Gol
+Evet/Evet
+15.00
+Hayır/Evet
+3.88
+Evet/Hayır
+5.30
+Hayır/Hayır
+1.36
+1. Yarı veya Maç Sonucu
+Şili
+X
+Kolombiya
+2.89
+1.69
+1.72
+İlk Yarı/Maç Sonucu
+Şili/Şili
+5.50
+Beraberlik/Şili
+6.90
+Kolombiya/Şili
+41.00
+Şili/Beraberlik
+14.00
+Beraberlik/Beraberlik
+4.10
+Kolombiya/Beraberlik
+13.00
+Şili/Kolombiya
+26.00
+Beraberlik/Kolombiya
+4.33
+Kolombiya/Kolombiya
+2.83
+1.Yarı/2.Yarı Sonucu
+Şili/Şili
+9.00
+Şili/Beraberlik
+5.80
+Şili/Kolombiya
+6.20
+Beraberlik/Şili
+4.90
+Beraberlik/Beraberlik
+3.20
+Beraberlik/Kolombiya
+3.34
+Kolombiya/Şili
+6.00
+Kolombiya/Beraberlik
+3.91
+Kolombiya/Kolombiya
+4.10
+En Çok Gol Atılan Yarı
+1 > 2
+1 = 2
+1 < 2
+3.00
+3.15
+2.18
+En Çok Gol Atılan Yarı : Çifte Şans
+1. Yarı veya Beraberlik
+1. veya 2.
+2. Yarı veya Beraberlik
+1.59
+1.32
+1.34
+Şili : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+4.00
+1.95
+2.88
+Kolombiya : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+3.40
+2.40
+2.50
+Kornerler : Sonuç
+Şili
+X
+Kolombiya
+2.74
+6.50
+1.67
+Kornerler : Toplam
+Üst
+Alt
+8
+1.64
+2.12
+8.5
+1.88
+1.82
+9
+2.21
+1.59
+Toplam Korner : Şili
+Üst
+Alt
+3.5
+1.76
+1.94
+4
+2.20
+1.60
+Toplam Korner : Kolombiya
+Üst
+Alt
+4.5
+1.78
+1.92
+5
+2.17
+1.61
+Kornerler: Handikap
+Şili
+Kolombiya
++0.5
+2.08
+-0.5
+1.66
++1
+1.78
+-1
+1.82
++1.5
+1.57
+-1.5
+2.15
+Kornerler : Toplam (3-İhtimalli)
+Üst
+Kesin
+Alt
+10
+3.40
+7.30
+1.47
+9
+2.50
+6.50
+1.82
+8
+1.88
+6.20
+2.40
+7
+1.50
+6.50
+3.47
+6
+1.26
+7.50
+5.50
+Kornerler : Toplam (Aralık)
+5 veya daha az
+5.40
+6 - 8
+2.36
+9 - 11
+2.49
+12 - 14
+5.40
+15 veya daha fazla
+14.00
+Kornerler: Tek/Çift
+Çift
+Tek
+1.80
+1.80
+Korner Yarışı
+Şili
+Kolombiya
+Hiç Kimse
+9
+14.00
+9
+8.10
+9
+1.08
+7
+6.40
+7
+3.75
+7
+1.44
+5
+3.21
+5
+2.10
+5
+3.01
+3
+2.20
+3
+1.62
+3
+21.00
+Kornerler: 1. Yarı Sonucu
+Şili
+X
+Kolombiya
+2.79
+4.30
+1.90
+Kornerler: 1. Yarı Handikap
+Şili
+Kolombiya
+0
+2.35
+0
+1.53
++0.5
+1.80
+-0.5
+1.80
++1
+1.52
+-1
+2.18
+Kornerler: 1. Yarı Toplam
+Üst
+Alt
+3.5
+1.67
+2.07
+4
+1.94
+1.76
+4.5
+2.30
+1.55
+5.5
+3.57
+1.25
+Kornerler: 1. Yarı Şili Toplam
+Üst
+Alt
+1.5
+1.69
+2.04
+2
+2.22
+1.50
+Kornerler: 1.Yarı Kolombiya Toplam
+Üst
+Alt
+2
+1.67
+1.93
+2.5
+2.23
+1.58
+Toplam Korner : 2.Yarı
+Üst
+Alt
+3.5
+1.41
+2.68
+4.5
+1.90
+1.80
+5.5
+2.80
+1.38
+Kornerler : İlk Korner
+Şili
+Kolombiya
+2.08
+1.66
+Kornerler : Son Korner
+Şili
+Kolombiya
+2.00
+1.72
+Kartlar: Puan : Sonuç
+Şili
+X
+Kolombiya
+2.53
+3.12
+2.42
+Kartlar: Puan Handikapı
+Chile
+Colombia
++0.5
+1.45
+-0.5
+2.35
+Kartlar: Toplam Puan
+Üst
+Alt
+3.5
+2.12
+1.55
+Kartlar: Şili : Toplam Kart Puanı
+Üst
+Alt
+1.5
+1.85
+1.75
+Kartlar: Kolombiya : Toplam Kart Puanı
+Üst
+Alt
+1.5
+1.85
+1.75
+En Fazla Korner Olan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.58
+7.10
+1.72
+Her İki Takım da Kart Alır
+Evet
+Hayır
+1.43
+2.62
+Her iki takım da 2 veya daha fazla kart görür
+Evet
+Hayır
+3.00
+1.34
+Maçta Kırmzı Kartlar
+YENİ
+1+
+2+
+5.60
+15.00
+Şili Kırmızı Kartlar
+YENİ
+1+
+2+
+9.30
+23.00
+Kolombiya Kırmızı Kartlar
+YENİ
+1+
+2+
+11.00
+26.00
+Maçta kendi kalesine gol atılır
+Evet
+Hayır
+9.30
+1.027
+Herhangi Bir Zamanda Gol Atar
+Luis Suarez
+2.75
+Daniel Mosquera
+2.95
+Camilo Duran
+3.40
+GONZALO TAPIA
+3.65
+Ben Brereton Diaz
+4.20
+Jaminton Campaz
+4.20
+Jhon Arias
+4.30
+Yaser Asprilla
+4.33
+Daniel Arcila
+4.60
+Camilo Mena
+4.80
+Oscar Perea
+4.80
+Lucas Cepeda
+4.90
+Daha Fazla Seçeneği Göster
+İlk Golcü
+Luis Suarez
+5.20
+Daniel Mosquera
+5.80
+Camilo Duran
+6.70
+GONZALO TAPIA
+7.30
+Jhon Arias
+7.80
+Jaminton Campaz
+8.00
+Yaser Asprilla
+8.30
+Ben Brereton Diaz
+8.40
+Daniel Arcila
+9.40
+Camilo Mena
+9.80
+Oscar Perea
+9.80
+Lucas Cepeda
+10.00
+Daha Fazla Seçeneği Göster
+Son Golcü
+Luis Suarez
+5.20
+Daniel Mosquera
+5.80
+Camilo Duran
+6.70
+GONZALO TAPIA
+7.30
+Jaminton Campaz
+8.00
+Ben Brereton Diaz
+8.40
+Yaser Asprilla
+9.20
+Jhon Arias
+9.30
+Daniel Arcila
+9.40
+Camilo Mena
+9.80
+Oscar Perea
+9.80
+Lucas Cepeda
+10.00
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 2 Gol Atar
+Luis Suarez
+12.00
+Daniel Mosquera
+15.00
+Camilo Duran
+17.00
+Jaminton Campaz
+17.00
+GONZALO TAPIA
+23.00
+Jhon Arias
+23.00
+Camilo Mena
+25.00
+Oscar Cortes
+25.00
+Ben Brereton Diaz
+26.00
+Yaser Asprilla
+31.00
+Maximiliano Gutierrez
+31.00
+Daniel Arcila
+34.00
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 3 Gol Atar
+Luis Suarez
+51.00
+Daniel Mosquera
+86.00
+Camilo Duran
+111.00
+Davinson Sanchez
+126.00
+Kevin Andrade
+126.00
+Nils Reichmuth
+126.00
+Rodrigo Echeverria
+126.00
+Victor Mendez
+126.00
+Juan Cabal
+126.00
+Ivan Roman
+126.00
+Diego Ulloa
+126.00
+Jose Tomas Movillo
+126.00
+Daha Fazla Seçeneği Göster
+Oyuncu 4 veya Daha Çok Gol Atar
+Luis Suarez
+601.00
+Daniel Mosquera
+1001.00
+Camilo Duran
+1501.00
+Yaser Asprilla
+1501.00
+Camilo Mena
+1501.00
+GONZALO TAPIA
+1501.00
+Rodrigo Echeverria
+1501.00
+Maximiliano Gutierrez
+1501.00
+Felipe Mendez
+1501.00
+Ivan Roman
+1501.00
+Jaminton Campaz
+1501.00
+Juan Cabal
+1501.00
+Lucas Cepeda
+1501.00
+Samuel Velasquez
+1501.00
+Gustavo Puerta
+1501.00
+Gabriel Suazo
+1501.00
+Paulo Diaz
+1501.00
+Ben Brereton
+1501.00
+Nelson Deossa
+1501.00
+Jhon Arias
+1501.00
+Guillermo Maripan
+1501.00
+Oscar Cortes
+1501.00
+Juan Arizala
+1501.00
+Juan Rengifo
+1501.00
+Nils Reichmuth
+1501.00
+Diego Ulloa
+1501.00
+Daniel Munoz
+1501.00
+Oscar Perea
+1501.00
+Vicente Pizarro
+1501.00
+Edier Ocampo
+1501.00
+Felipe Faundez
+1501.00
+Dario Osorio
+1501.00
+Davinson Sanchez
+1501.00
+Kevin Andrade
+1501.00
+Williams Alarcon
+1501.00
+Jose Tomas Movillo del Canto
+1501.00
+Jhon Solis
+1501.00
+Emiliano Ramos
+1501.00
+Jhon Lucumi
+1501.00
+Felipe Loyola
+1501.00
+Jonathan Villagra
+1501.00
+Jefferson Lerma
+1501.00
+Clemente Montes
+1501.00
+Matias Yuseth Orozco Lopez
+1501.00
+Cesar Perez
+1501.00
+Agustin Arce
+1501.00
+Daniel Arcila
+1501.00
+Oyuncu Asist Yapar
+YENİ
+Yaser Asprilla 1+
+4.50
+Jaminton Campaz 1+
+4.60
+Daniel Arcila 1+
+4.90
+Oscar Cortes 1+
+5.00
+Camilo Mena 1+
+5.00
+Jhon Arias 1+
+5.20
+Oscar Perea 1+
+5.60
+Juan Rengifo 1+
+5.70
+Lucas Cepeda 1+
+5.90
+Camilo Duran 1+
+6.00
+Maximiliano Gutierrez 1+
+6.70
+Juan Arizala 1+
+6.80
+Daniel Mosquera 1+
+6.80
+Nils Reichmuth 1+
+6.90
+Daniel Munoz 1+
+6.90
+Nelson Deossa 1+
+7.40
+Edier Ocampo 1+
+7.60
+Ben Brereton Diaz 1+
+7.70
+Dario Osorio 1+
+7.80
+Emiliano Ramos 1+
+7.80
+Clemente Montes 1+
+7.90
+Gabriel Suazo 1+
+7.90
+Gonzalo Tapia 1+
+8.00
+Gustavo Puerta 1+
+8.00
+Samuel Velasquez 1+
+8.30
+Luis Suarez 1+
+8.40
+Jhon Solis 1+
+8.60
+Agustin Arce 1+
+8.90
+Jefferson Lerma 1+
+9.30
+Williams Alarcon 1+
+9.60
+Matias Orozco 1+
+9.70
+Vicente Pizarro 1+
+10.00
+Victor Mendez 1+
+11.00
+Cesar Perez 1+
+11.00
+Diego Ulloa 1+
+11.00
+Felipe Loyola 1+
+11.00
+Rodrigo Echeverria 1+
+12.00
+Felipe Faundez 1+
+12.00
+Juan Cabal 1+
+14.00
+Davinson Sanchez 1+
+19.00
+Jhon Lucumi 1+
+19.00
+Jonathan Villagra 1+
+25.00
+Paulo Diaz 1+
+25.00
+Guillermo Maripan 1+
+25.00
+Ivan Roman 1+
+25.00
+Kevin Andrade 1+
+26.00
+Jose Tomas Movillo 1+
+31.00
+Oyuncu Gol Atar veya Asist Yapar
+Luis Suarez
+2.23
+Daniel Mosquera
+2.26
+Camilo Duran
+2.36
+Jaminton Campaz
+2.47
+Yaser Asprilla
+2.47
+Jhon Arias
+2.60
+Daniel Arcila
+2.60
+GONZALO TAPIA
+2.65
+Camilo Mena
+2.70
+Oscar Cortes
+2.85
+Oscar Perea
+2.85
+Ben Brereton Diaz
+2.85
+Daha Fazla Seçeneği Göster
+Oyuncu Gol Atar ve Asist Yapar
+YENİ
+Jaminton Campaz
+9.40
+Yaser Asprilla
+11.00
+Jhon Arias
+14.00
+Camilo Mena
+14.00
+Daniel Arcila
+14.00
+Oscar Perea
+14.00
+Daniel Mosquera
+15.00
+Oscar Cortes
+15.00
+Lucas Cepeda
+17.00
+Camilo Duran
+17.00
+Juan Rengifo
+17.00
+Clemente Montes
+17.00
+Luis Suarez
+17.00
+Maximiliano Gutierrez
+19.00
+GONZALO TAPIA
+21.00
+Dario Osorio
+21.00
+Nils Reichmuth
+23.00
+Emiliano Ramos
+25.00
+Ben Brereton Diaz
+25.00
+Gustavo Puerta
+29.00
+Agustin Arce
+29.00
+Nelson Deossa
+31.00
+Jhon Solis
+31.00
+Matias Orozco
+36.00
+Jefferson Lerma
+36.00
+Oyuncu Ceza Sahası Dışından Gol Atar
+Juan Rengifo
+7.00
+Dario Osorio
+7.20
+Oscar Cortes
+7.60
+Camilo Duran
+8.10
+Nelson Deossa
+8.10
+Lucas Cepeda
+8.30
+Agustin Arce
+8.80
+Emiliano Ramos
+9.70
+Vicente Pizarro
+10.00
+Maximiliano Gutierrez
+10.00
+Oscar Perea
+10.00
+Gustavo Puerta
+11.00
+Daha Fazla Seçeneği Göster
+Oyuncu Penaltıdan Gol Atar
+YENİ
+Daniel Mosquera
+11.00
+Camilo Duran
+12.00
+Nils Reichmuth
+15.00
+Ben Brereton Diaz
+17.00
+Lucas Cepeda
+19.00
+Luis Suarez
+19.00
+Camilo Mena
+21.00
+Oscar Perea
+21.00
+Daniel Arcila
+21.00
+Oscar Cortes
+21.00
+GONZALO TAPIA
+21.00
+Agustin Arce
+23.00
+Clemente Montes
+23.00
+Jaminton Campaz
+23.00
+Juan Rengifo
+23.00
+Maximiliano Gutierrez
+23.00
+Felipe Loyola
+25.00
+Dario Osorio
+25.00
+Jhon Arias
+25.00
+Emiliano Ramos
+25.00
+Yaser Asprilla
+25.00
+Nelson Deossa
+26.00
+Matias Orozco
+26.00
+Rodrigo Echeverria
+26.00
+Jhon Solis
+26.00
+Victor Mendez
+29.00
+Vicente Pizarro
+29.00
+Cesar Perez
+31.00
+Williams Alarcon
+31.00
+Gustavo Puerta
+36.00
+Jefferson Lerma
+36.00
+Diego Ulloa
+91.00
+Daniel Munoz
+91.00
+Samuel Velasquez
+91.00
+Juan Arizala
+91.00
+Jose Tomas Movillo
+91.00
+Jhon Lucumi
+91.00
+Jonathan Villagra
+91.00
+Guillermo Maripan
+91.00
+Gabriel Suazo
+91.00
+Paulo Diaz
+91.00
+Davinson Sanchez
+91.00
+Kevin Andrade
+91.00
+Edier Ocampo
+91.00
+Felipe Faundez
+91.00
+Juan Cabal
+91.00
+Ivan Roman
+91.00
+Oyuncu Penaltı Kaçırır
+YENİ
+Daniel Mosquera
+25.00
+Camilo Duran
+25.00
+Luis Suarez
+25.00
+Ben Brereton Diaz
+31.00
+Nils Reichmuth
+31.00
+GONZALO TAPIA
+31.00
+Maximiliano Gutierrez
+51.00
+Lucas Cepeda
+56.00
+Daniel Arcila
+56.00
+Oscar Perea
+56.00
+Oscar Cortes
+56.00
+Camilo Mena
+56.00
+Yaser Asprilla
+56.00
+Dario Osorio
+61.00
+Agustin Arce
+67.00
+Jaminton Campaz
+67.00
+Clemente Montes
+71.00
+Jhon Arias
+76.00
+Juan Rengifo
+81.00
+Cesar Perez
+91.00
+Jhon Lucumi
+91.00
+Vicente Pizarro
+91.00
+Davinson Sanchez
+91.00
+Matias Orozco
+91.00
+Gabriel Suazo
+91.00
+Guillermo Maripan
+91.00
+Victor Mendez
+91.00
+Samuel Velasquez
+91.00
+Jonathan Villagra
+91.00
+Paulo Diaz
+91.00
+Emiliano Ramos
+91.00
+Felipe Loyola
+91.00
+Jose Tomas Movillo
+91.00
+Edier Ocampo
+91.00
+Williams Alarcon
+91.00
+Juan Arizala
+91.00
+Kevin Andrade
+91.00
+Jhon Solis
+91.00
+Ivan Roman
+91.00
+Rodrigo Echeverria
+91.00
+Gustavo Puerta
+91.00
+Diego Ulloa
+91.00
+Jefferson Lerma
+91.00
+Daniel Munoz
+91.00
+Felipe Faundez
+91.00
+Juan Cabal
+91.00
+Nelson Deossa
+91.00
+Oyuncu Kale Sahası İçinden Gol Atar
+YENİ
+Luis Suarez
+5.30
+GONZALO TAPIA
+6.60
+Jaminton Campaz
+8.10
+Daniel Mosquera
+11.00
+Camilo Duran
+12.00
+Ben Brereton Diaz
+13.00
+Jhon Lucumi
+17.00
+Clemente Montes
+17.00
+Davinson Sanchez
+19.00
+Ivan Roman
+23.00
+Emiliano Ramos
+23.00
+Camilo Mena
+23.00
+Diego Ulloa
+25.00
+Lucas Cepeda
+25.00
+Agustin Arce
+25.00
+Felipe Loyola
+25.00
+Jhon Arias
+26.00
+Jefferson Lerma
+26.00
+Yaser Asprilla
+31.00
+Nils Reichmuth
+31.00
+Cesar Perez
+31.00
+Oscar Perea
+34.00
+Juan Rengifo
+34.00
+Daniel Arcila
+36.00
+Oscar Cortes
+36.00
+Victor Mendez
+36.00
+Jonathan Villagra
+36.00
+Dario Osorio
+41.00
+Rodrigo Echeverria
+41.00
+Jose Tomas Movillo
+41.00
+Edier Ocampo
+46.00
+Maximiliano Gutierrez
+46.00
+Gabriel Suazo
+46.00
+Gustavo Puerta
+46.00
+Guillermo Maripan
+51.00
+Daniel Munoz
+51.00
+Jhon Solis
+51.00
+Felipe Faundez
+51.00
+Vicente Pizarro
+51.00
+Juan Arizala
+51.00
+Nelson Deossa
+51.00
+Paulo Diaz
+51.00
+Juan Cabal
+51.00
+Samuel Velasquez
+51.00
+Williams Alarcon
+51.00
+Matias Orozco
+51.00
+Kevin Andrade
+51.00
+Oyuncu Kafa Golü Atar
+Daniel Mosquera
+9.30
+Luis Suarez
+10.00
+Camilo Duran
+11.00
+GONZALO TAPIA
+14.00
+Davinson Sanchez
+17.00
+Ben Brereton Diaz
+17.00
+Jhon Lucumi
+19.00
+Jhon Solis
+21.00
+Jefferson Lerma
+23.00
+Agustin Arce
+23.00
+Juan Cabal
+25.00
+Kevin Andrade
+26.00
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar Çifte Şans
+Daniel Mosquera or Luis Suarez
+1.73
+Luis Suarez or Camilo Duran
+1.82
+Gonzalo Tapia or Luis Suarez
+1.86
+Daniel Mosquera or Camilo Duran
+1.88
+Daniel Mosquera or Gonzalo Tapia
+1.92
+Luis Suarez or Ben Brereton Diaz
+1.93
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar. Üçlü Şans
+Daniel Mosquera or Luis Suarez or Camilo Duran
+1.42
+Daniel Mosquera or Gonzalo Tapia or Luis Suarez
+1.44
+Daniel Mosquera or Luis Suarez or Ben Brereton Diaz
+1.47
+Daniel Mosquera or Luis Suarez or Jaminton Campaz
+1.47
+Daniel Mosquera or Luis Suarez or Jhon Arias
+1.47
+Daniel Mosquera or Luis Suarez or Yaser Asprilla
+1.48
+Daha Fazla Seçeneği Göster
+Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar
+Daniel Mosquera and Luis Suarez
+8.10
+Luis Suarez and Camilo Duran
+9.40
+Daniel Mosquera and Camilo Duran
+10.00
+Gonzalo Tapia and Luis Suarez
+10.00
+Daniel Mosquera and Gonzalo Tapia
+11.00
+Luis Suarez and Ben Brereton Diaz
+11.00
+Daha Fazla Seçeneği Göster
+Üç Oyuncu da Herhangi Bir Zamanda Gol Atar
+Daniel Mosquera and Luis Suarez and Camilo Duran
+29.00
+Daniel Mosquera and Gonzalo Tapia and Luis Suarez
+29.00
+Daniel Mosquera and Luis Suarez and Ben Brereton Diaz
+34.00
+Daniel Mosquera and Luis Suarez and Jaminton Campaz
+34.00
+Gonzalo Tapia and Luis Suarez and Camilo Duran
+34.00
+Daniel Mosquera and Luis Suarez and Jhon Arias
+34.00
+Daha Fazla Seçeneği Göster
+Oyuncu 1. Yarıda Gol Atar
+Luis Suarez
+4.75
+Daniel Mosquera
+5.40
+Camilo Duran
+6.20
+GONZALO TAPIA
+6.50
+Ben Brereton Diaz
+7.40
+Jaminton Campaz
+7.50
+Jhon Arias
+7.60
+Yaser Asprilla
+7.90
+Daniel Arcila
+8.40
+Oscar Perea
+8.80
+Camilo Mena
+8.80
+Lucas Cepeda
+8.80
+Nils Reichmuth
+9.20
+Maximiliano Gutierrez
+9.50
+Oscar Cortes
+9.60
+Dario Osorio
+10.00
+Juan Rengifo
+10.00
+Clemente Montes
+11.00
+Agustin Arce
+12.00
+Nelson Deossa
+14.00
+Emiliano Ramos
+14.00
+Jefferson Lerma
+15.00
+Gustavo Puerta
+15.00
+Jhon Solis
+17.00
+Vicente Pizarro
+19.00
+Felipe Loyola
+19.00
+Matias Orozco
+19.00
+Rodrigo Echeverria
+19.00
+Cesar Perez
+23.00
+Williams Alarcon
+23.00
+Victor Mendez
+23.00
+Daniel Munoz
+23.00
+Davinson Sanchez
+26.00
+Samuel Velasquez
+26.00
+Gabriel Suazo
+26.00
+Edier Ocampo
+26.00
+Juan Arizala
+26.00
+Jhon Lucumi
+29.00
+Juan Cabal
+31.00
+Diego Ulloa
+31.00
+Kevin Andrade
+34.00
+Ivan Roman
+36.00
+Felipe Faundez
+36.00
+Jonathan Villagra
+36.00
+Paulo Diaz
+36.00
+Guillermo Maripan
+36.00
+Jose Tomas Movillo
+41.00
+Oyuncu 2. Yarıda Gol Atar
+Luis Suarez
+3.95
+Daniel Mosquera
+4.20
+Camilo Duran
+4.85
+GONZALO TAPIA
+5.40
+Ben Brereton Diaz
+6.20
+Jaminton Campaz
+6.20
+Jhon Arias
+6.30
+Yaser Asprilla
+6.40
+Daniel Arcila
+6.80
+Camilo Mena
+7.00
+Oscar Perea
+7.00
+Lucas Cepeda
+7.30
+Nils Reichmuth
+7.50
+Maximiliano Gutierrez
+8.00
+Oscar Cortes
+8.10
+Juan Rengifo
+8.10
+Dario Osorio
+8.40
+Clemente Montes
+8.70
+Agustin Arce
+9.40
+Nelson Deossa
+11.00
+Emiliano Ramos
+12.00
+Gustavo Puerta
+12.00
+Jhon Solis
+13.00
+Jefferson Lerma
+13.00
+Matias Orozco
+15.00
+Felipe Loyola
+15.00
+Vicente Pizarro
+15.00
+Rodrigo Echeverria
+17.00
+Cesar Perez
+17.00
+Williams Alarcon
+19.00
+Daniel Munoz
+19.00
+Victor Mendez
+19.00
+Samuel Velasquez
+21.00
+Juan Arizala
+23.00
+Edier Ocampo
+23.00
+Davinson Sanchez
+23.00
+Jhon Lucumi
+23.00
+Gabriel Suazo
+23.00
+Juan Cabal
+26.00
+Diego Ulloa
+26.00
+Kevin Andrade
+29.00
+Ivan Roman
+31.00
+Felipe Faundez
+31.00
+Paulo Diaz
+31.00
+Jonathan Villagra
+34.00
+Guillermo Maripan
+34.00
+Jose Tomas Movillo
+36.00
+Oyuncu Her İki Yarıda da Gol Atar
+Luis Suarez
+14.00
+Daniel Mosquera
+17.00
+Camilo Duran
+21.00
+GONZALO TAPIA
+23.00
+Ben Brereton Diaz
+26.00
+Jaminton Campaz
+26.00
+Jhon Arias
+29.00
+Yaser Asprilla
+29.00
+Daniel Arcila
+31.00
+Camilo Mena
+34.00
+Oscar Perea
+34.00
+Lucas Cepeda
+36.00
+Nils Reichmuth
+36.00
+Maximiliano Gutierrez
+41.00
+Oscar Cortes
+41.00
+Clemente Montes
+46.00
+Oyuncu Sağ Ayağıyla Gol Atar
+YENİ
+Luis Suarez
+4.30
+Daniel Mosquera
+5.00
+Ben Brereton Diaz
+5.50
+GONZALO TAPIA
+5.60
+Jhon Arias
+5.60
+Maximiliano Gutierrez
+6.60
+Daniel Arcila
+7.40
+Camilo Mena
+8.00
+Oscar Perea
+8.00
+Oscar Cortes
+9.30
+Gustavo Puerta
+10.00
+Clemente Montes
+10.00
+Agustin Arce
+10.00
+Camilo Duran
+11.00
+Jefferson Lerma
+13.00
+Felipe Loyola
+15.00
+Rodrigo Echeverria
+15.00
+Juan Rengifo
+15.00
+Jhon Solis
+17.00
+Matias Orozco
+17.00
+Cesar Perez
+17.00
+Victor Mendez
+19.00
+Williams Alarcon
+19.00
+Nils Reichmuth
+21.00
+Yaser Asprilla
+23.00
+Emiliano Ramos
+23.00
+Daniel Munoz
+25.00
+Nelson Deossa
+26.00
+Edier Ocampo
+31.00
+Jaminton Campaz
+34.00
+Lucas Cepeda
+34.00
+Felipe Faundez
+36.00
+Juan Arizala
+36.00
+Jonathan Villagra
+41.00
+Guillermo Maripan
+41.00
+Diego Ulloa
+41.00
+Gabriel Suazo
+41.00
+Paulo Diaz
+41.00
+Juan Cabal
+41.00
+Samuel Velasquez
+41.00
+Vicente Pizarro
+41.00
+Davinson Sanchez
+41.00
+Jose Tomas Movillo
+41.00
+Jhon Lucumi
+41.00
+Dario Osorio
+41.00
+Ivan Roman
+41.00
+Kevin Andrade
+41.00
+Oyuncu Serbest Vuruştan Gol Atar
+YENİ
+Maximiliano Gutierrez
+29.00
+Lucas Cepeda
+51.00
+Jhon Arias
+51.00
+Juan Rengifo
+51.00
+Matias Orozco
+56.00
+Dario Osorio
+56.00
+Nelson Deossa
+56.00
+Jhon Solis
+61.00
+Daniel Arcila
+61.00
+Camilo Mena
+61.00
+Oscar Cortes
+61.00
+Oscar Perea
+61.00
+Agustin Arce
+61.00
+Cesar Perez
+67.00
+Williams Alarcon
+67.00
+Daniel Mosquera
+71.00
+Yaser Asprilla
+71.00
+Victor Mendez
+71.00
+Camilo Duran
+71.00
+Gustavo Puerta
+71.00
+Jefferson Lerma
+71.00
+Clemente Montes
+71.00
+Emiliano Ramos
+76.00
+Vicente Pizarro
+76.00
+Jaminton Campaz
+81.00
+Luis Suarez
+86.00
+Nils Reichmuth
+86.00
+Felipe Loyola
+91.00
+Kevin Andrade
+91.00
+Juan Cabal
+91.00
+Jonathan Villagra
+91.00
+Daniel Munoz
+91.00
+GONZALO TAPIA
+91.00
+Davinson Sanchez
+91.00
+Jose Tomas Movillo
+91.00
+Ivan Roman
+91.00
+Rodrigo Echeverria
+91.00
+Diego Ulloa
+91.00
+Gabriel Suazo
+91.00
+Samuel Velasquez
+91.00
+Guillermo Maripan
+91.00
+Felipe Faundez
+91.00
+Edier Ocampo
+91.00
+Juan Arizala
+91.00
+Jhon Lucumi
+91.00
+Paulo Diaz
+91.00
+Ben Brereton Diaz
+91.00
+Oyuncu Sol Ayağıyla Gol Atar
+YENİ
+Jaminton Campaz
+4.80
+Yaser Asprilla
+5.20
+Lucas Cepeda
+5.40
+Camilo Duran
+5.60
+Dario Osorio
+6.30
+Nils Reichmuth
+7.10
+Luis Suarez
+8.40
+Juan Rengifo
+8.80
+Daniel Mosquera
+9.00
+Camilo Mena
+11.00
+Oscar Perea
+11.00
+Nelson Deossa
+12.00
+Daniel Arcila
+12.00
+Vicente Pizarro
+13.00
+Emiliano Ramos
+13.00
+Oscar Cortes
+13.00
+GONZALO TAPIA
+13.00
+Clemente Montes
+14.00
+Jhon Arias
+17.00
+Ben Brereton Diaz
+23.00
+Gabriel Suazo
+23.00
+Agustin Arce
+23.00
+Samuel Velasquez
+25.00
+Maximiliano Gutierrez
+29.00
+Juan Arizala
+31.00
+Diego Ulloa
+36.00
+Matias Orozco
+36.00
+Edier Ocampo
+36.00
+Jhon Solis
+36.00
+Davinson Sanchez
+41.00
+Guillermo Maripan
+41.00
+Felipe Loyola
+41.00
+Rodrigo Echeverria
+41.00
+Jhon Lucumi
+41.00
+Daniel Munoz
+41.00
+Cesar Perez
+41.00
+Jefferson Lerma
+41.00
+Kevin Andrade
+41.00
+Jose Tomas Movillo
+41.00
+Felipe Faundez
+41.00
+Juan Cabal
+41.00
+Ivan Roman
+41.00
+Williams Alarcon
+41.00
+Gustavo Puerta
+41.00
+Jonathan Villagra
+41.00
+Paulo Diaz
+41.00
+Victor Mendez
+41.00
+Oyuncu Gol Atar ve Takımı Kazanır
+Luis Suarez
+4.00
+Daniel Mosquera
+4.70
+Camilo Duran
+5.40
+Jaminton Campaz
+6.80
+Jhon Arias
+6.80
+Yaser Asprilla
+6.90
+Daniel Arcila
+7.30
+Camilo Mena
+7.80
+GONZALO TAPIA
+7.80
+Oscar Perea
+7.80
+Juan Rengifo
+8.00
+Oscar Cortes
+8.00
+Daha Fazla Seçeneği Göster
+Oyuncu Gol Atar ve Rakip Takım Kazanır
+GONZALO TAPIA
+19.00
+Ben Brereton
+21.00
+Luis Suarez
+26.00
+Lucas Cepeda
+26.00
+Dario Osorio
+29.00
+Maximiliano Gutierrez
+29.00
+Daniel Mosquera
+31.00
+Clemente Montes
+34.00
+Agustin Arce
+34.00
+Nils Reichmuth
+36.00
+Camilo Duran
+36.00
+Emiliano Ramos
+41.00
+Daha Fazla Seçeneği Göster
+Oyuncu Gol Atar ve Maç Berabere Biter
+Luis Suarez
+17.00
+GONZALO TAPIA
+17.00
+Ben Brereton
+19.00
+Daniel Mosquera
+19.00
+Camilo Duran
+23.00
+Lucas Cepeda
+25.00
+Dario Osorio
+25.00
+Maximiliano Gutierrez
+26.00
+Clemente Montes
+26.00
+Jaminton Campaz
+26.00
+Jhon Arias
+26.00
+Yaser Asprilla
+29.00
+Daha Fazla Seçeneği Göster
+İlk 10 Dakikada Gol Atar
+Luis Suarez
+19.00
+Daniel Mosquera
+21.00
+Camilo Duran
+25.00
+GONZALO TAPIA
+25.00
+Jhon Arias
+26.00
+Ben Brereton Diaz
+29.00
+Jaminton Campaz
+29.00
+Yaser Asprilla
+31.00
+Daniel Arcila
+31.00
+Oscar Perea
+31.00
+Camilo Mena
+31.00
+Lucas Cepeda
+34.00
+Juan Rengifo
+34.00
+Nils Reichmuth
+36.00
+Maximiliano Gutierrez
+36.00
+Oscar Cortes
+36.00
+Dario Osorio
+36.00
+Clemente Montes
+41.00
+Agustin Arce
+41.00
+Gustavo Puerta
+51.00
+Emiliano Ramos
+51.00
+Jefferson Lerma
+51.00
+Nelson Deossa
+51.00
+Jhon Solis
+61.00
+Matias Orozco
+61.00
+Felipe Loyola
+61.00
+Vicente Pizarro
+67.00
+Cesar Perez
+71.00
+Rodrigo Echeverria
+71.00
+Williams Alarcon
+71.00
+Victor Mendez
+76.00
+Daniel Munoz
+76.00
+Jonathan Villagra
+81.00
+Juan Arizala
+81.00
+Paulo Diaz
+81.00
+Juan Cabal
+81.00
+Guillermo Maripan
+81.00
+Kevin Andrade
+81.00
+Davinson Sanchez
+81.00
+Jhon Lucumi
+81.00
+Felipe Faundez
+81.00
+Edier Ocampo
+81.00
+Diego Ulloa
+81.00
+Samuel Velasquez
+81.00
+Ivan Roman
+81.00
+Jose Tomas Movillo
+81.00
+Gabriel Suazo
+81.00
+Şili : İlk Golü Atar
+Ben Brereton
+4.33
+GONZALO TAPIA
+4.50
+Dario Osorio
+6.30
+Lucas Cepeda
+6.30
+Maximiliano Gutierrez
+6.80
+Clemente Montes
+7.40
+Agustin Arce
+7.40
+Nils Reichmuth
+8.80
+Rodrigo Echeverria
+8.80
+Vicente Pizarro
+8.80
+Emiliano Ramos
+11.00
+Felipe Loyola
+11.00
+Daha Fazla Seçeneği Göster
+Kolombiya : İlk Golü Atar
+Luis Suarez
+3.85
+Daniel Mosquera
+4.33
+Jhon Arias
+4.70
+Camilo Duran
+5.80
+Yaser Asprilla
+6.70
+Oscar Perea
+7.40
+Juan Manuel Rengifo
+7.40
+Camilo Mena
+7.40
+Daniel Arcila
+7.40
+Nelson Deossa
+9.80
+Oscar Cortes
+9.80
+Gustavo Puerta
+10.00
+Daha Fazla Seçeneği Göster
+Oyuncu Kart Görür
+Gustavo Puerta
+4.10
+Williams Alarcon
+4.40
+Matias Orozco
+4.40
+Cesar Perez
+4.40
+Jhon Solis
+4.50
+Nelson Deossa
+4.50
+Dario Osorio
+4.50
+Ivan Roman
+4.60
+Emiliano Ramos
+4.70
+Agustin Arce
+4.70
+Jose Tomas Movillo
+4.75
+Gabriel Suazo
+4.75
+Daha Fazla Seçeneği Göster
+Oyuncu Sarı Kart Görür
+Gustavo Puerta
+4.20
+Nelson Deossa
+4.60
+Williams Alarcon
+4.60
+Matias Orozco
+4.60
+Cesar Perez
+4.60
+Jhon Solis
+4.60
+Dario Osorio
+4.70
+Ivan Roman
+4.75
+Gabriel Suazo
+4.85
+Agustin Arce
+4.85
+Emiliano Ramos
+4.90
+Jose Tomas Movillo
+4.90
+Felipe Loyola
+4.90
+Juan Rengifo
+5.00
+Kevin Andrade
+5.00
+Juan Cabal
+5.00
+Jonathan Villagra
+5.00
+Victor Mendez
+5.10
+Jaminton Campaz
+5.30
+Oscar Perea
+5.30
+Camilo Mena
+5.30
+Clemente Montes
+5.30
+Oscar Cortes
+5.30
+Paulo Diaz
+5.30
+Daniel Arcila
+5.30
+Guillermo Maripan
+5.30
+Jefferson Lerma
+5.40
+Diego Ulloa
+5.40
+Felipe Faundez
+5.50
+Daniel Munoz
+5.50
+Edier Ocampo
+5.50
+Juan Arizala
+5.50
+Rodrigo Echeverria
+5.70
+GONZALO TAPIA
+5.70
+Davinson Sanchez
+5.70
+Samuel Velasquez
+5.80
+Nils Reichmuth
+5.80
+Jhon Arias
+5.80
+Daniel Mosquera
+5.90
+Camilo Duran
+6.00
+Yaser Asprilla
+6.20
+Vicente Pizarro
+6.20
+Luis Suarez
+6.20
+Jhon Lucumi
+6.40
+Lucas Cepeda
+6.50
+Maximiliano Gutierrez
+6.50
+Ben Brereton Diaz
+8.10
+Lawrence Vigouroux
+14.00
+Brayan Cortes
+14.00
+Christian Bravo
+14.00
+Aldair Quintana
+17.00
+Devis Vasquez
+17.00
+Camilo Vargas
+19.00
+Kart Görecek İlk Oyuncu
+Gustavo Puerta
+11.00
+Cesar Perez
+11.00
+Emiliano Ramos
+12.00
+Williams Alarcon
+12.00
+Dario Osorio
+12.00
+Gabriel Suazo
+12.00
+Agustin Arce
+12.00
+Matias Orozco
+12.00
+Jose Tomas Movillo
+12.00
+Ivan Roman
+12.00
+Nelson Deossa
+12.00
+Jhon Solis
+12.00
+Daha Fazla Seçeneği Göster
+Oyundan Uzaklaştırılır
+YENİ
+Daniel Arcila
+31.00
+Camilo Mena
+31.00
+Oscar Perea
+31.00
+Oscar Cortes
+31.00
+Clemente Montes
+31.00
+Dario Osorio
+31.00
+Daniel Mosquera
+34.00
+Camilo Duran
+34.00
+Jaminton Campaz
+34.00
+Juan Rengifo
+34.00
+Gustavo Puerta
+34.00
+Nils Reichmuth
+34.00
+Daha Fazla Seçeneği Göster
+Şili : Her İki Yarıda Gol Atar
+Evet
+Hayır
+5.85
+1.10
+Kolombiya Her İki Yarıda Gol Atar
+Evet
+Hayır
+3.47
+1.26
+Kolombiya Her İki Yarıda Kazanır
+Evet
+Hayır
+5.55
+1.11
+Şili : İlk Yarıda Gol Atar
+Evet
+Hayır
+2.70
+1.40
+Kolombiya İlk Yarıda Gol Atar
+Evet
+Hayır
+1.97
+1.73
+Şili : İkinci Yarıda Gol Atar
+Evet
+Hayır
+2.27
+1.56
+Kolombiya İkinci Yarıda Gol Atar
+Evet
+Hayır
+1.77
+1.93
+İlk Yarıda Gol
+Evet
+Hayır
+1.47
+2.50
+İkinci Yarıda Gol
+Evet
+Hayır
+1.32
+3.10
+Her İki Yarııda da 1.5 Üst Gol
+Evet
+Hayır
+6.90
+1.07
+Her İki Yarı Goller 1.5 Alt
+Evet
+Hayır
+1.95
+1.75
+Şili Gol Yemeden Kazanır
+Evet
+Hayır
+5.35
+1.12
+Kolombiya Gol Yemeden Kazanır
+Evet
+Hayır
+3.00
+1.34
+Şili İki veya Üç Gol Farkla Kazanır
+Evet
+Hayır
+8.20
+1.045
+Kolombiya İki veya Üç Gol Farkla Kazanır
+Evet
+Hayır
+4.42
+1.17
+Şili Bir Gol Farkla Kazanır veya Berabere
+Evet
+Hayır
+2.02
+1.70
+Kolombiya Bir Gol Farkla Kazanır veya Berabere Kalır
+Evet
+Hayır
+1.66
+2.08
+Şili En Az Bir Yarıyı Kazanır
+Evet
+Hayır
+2.39
+1.51
+Kolombiya En Az Bir Yarıda Kazanır
+Evet
+Hayır
+1.59
+2.21
+Şili İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+8.70
+1.035
+Kolombiya İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+8.70
+1.035
+Şili : Gol Atar 1.Yarı/2.Yarı
+Evet/Hayır
+3.53
+Evet/Evet
+4.90
+Hayır/Hayır
+2.06
+Hayır/Evet
+2.79
+Kolombiya Gol Atar İlk Yarı/İkinci Yarı
+Evet/Hayır
+3.28
+Evet/Evet
+3.47
+Hayır/Hayır
+3.03
+Hayır/Evet
+2.64
+Yarıları Farklı Takımlar Kazanır
+Evet
+Hayır
+5.10
+1.13
+Yarılardan En Az Birinde Beraberlik
+Evet
+Hayır
+1.39
+2.75
+Maç Skoru Beraberlik (0-0 hariç)
+Evet
+Hayır
+4.30
+1.18
+Kesin Gol Sayısı
+Gol Yok
+8.10
+Kesin 1
+3.65
+Kesin 2
+3.25
+Kesin 3
+4.05
+Kesin 4
+6.30
+Kesin 5
+14.00
+Kesin 6 veya Fazla
+25.00
+Maçta 1 Gol Olur
+Evet
+Hayır
+3.65
+1.24
+Maçta 2 Gol Olur
+Evet
+Hayır
+3.25
+1.29
+Maçta 3 Gol Olur
+Evet
+Hayır
+4.05
+1.20
+Maçta 4 Gol Olur
+Evet
+Hayır
+6.30
+1.085
+Şili : Kazanma Marjı
+1
+5.10
+2
+9.00
+3
+29.00
+4+
+91.00
+Kolombiya : Kazanma Marjı
+1
+3.08
+2
+5.50
+3
+11.00
+4+
+23.00
+Skor Kombinasyonları
+1-0 / 2-0 / 3-0
+4.80
+4-0 / 5-0 / 6-0
+96.00
+2-1 / 3-1 / 4-1
+7.90
+3-2 / 4-2 / 4-3
+29.00
+0-1 / 0-2 / 0-3
+2.72
+0-4 / 0-5 / 0-6
+23.00
+1-2 / 1-3 / 1-4
+4.70
+2-3 / 2-4 / 3-4
+17.00
+İlk 10 Dakika (00:00 - 09:59) Gol
+Üst
+Alt
+0.5
+4.75
+1.15
+İlk 10 Dakika (00:00 - 09:59) Köşe vuruşu
+Üst
+Alt
+0.5
+1.64
+2.12
+1.5
+3.90
+1.21
+Şili : İlk 10 Dakika (00:00 – 09:59) Kornerler
+Üst
+Alt
+0.5
+2.75
+1.39
+1.5
+8.20
+1.045
+Kolombiya : İlk 10 Dakika (00:00 – 09:59) Kornerler
+Üst
+Alt
+0.5
+2.37
+1.52
+1.5
+7.10
+1.065
+1-15 Dk. Galibi
+Şili
+X
+Kolombiya
+9.70
+1.18
+6.70
+1-15 Dk. Gol Handikapı
+Şili
+Kolombiya
+0
+2.30
+0
+1.55
+1-15 Dk. Toplam Goller
+Üst
+Alt
+0.5
+3.20
+1.30
+1
+9.50
+1.025
+1-15 Dk. Şili Toplam Goller
+Üst
+Alt
+0.5
+6.00
+1.095
+1-15 Dk. Kolombiya Toplam Goller
+Üst
+Alt
+0.5
+4.75
+1.15
+1-15 Dk. İki Takım Gol Atar
+Evet
+Hayır
+16.00
+1.005
+1-30 Dk. Galibi
+Şili
+X
+Kolombiya
+5.90
+1.51
+3.71
+1-30 Dk. Gol Handikapı
+Şili
+Kolombiya
+0
+2.35
+0
+1.53
+1-30 Dk. Toplam Goller
+Üst
+Alt
+0.5
+1.92
+1.78
+1
+3.90
+1.21
+1-30 Dk. Şili Toplam Goller
+Üst
+Alt
+0.5
+3.75
+1.23
+1-30 Dk. Kolombiya Toplam Goller
+Üst
+Alt
+0.5
+2.70
+1.40
+1
+7.85
+1.05
+1-30 Dk. Karşılıklı Gol
+Evet
+Hayır
+8.20
+1.045
+1-60 Dk. Galibi
+Şili
+X
+Kolombiya
+3.99
+2.31
+2.41
+1-60 Dk. Gol Handikapı
+Şili
+Kolombiya
+0
+2.44
+0
+1.49
+1-60 Dk. Toplam Goller
+Üst
+Alt
+1
+1.46
+2.52
+1.5
+2.13
+1.63
+1-60 Dk. Şili Toplam Goller
+Üst
+Alt
+0.5
+2.05
+1.68
+1
+4.57
+1.16
+1-60 Dk. Kolombiya Toplam Goller
+Üst
+Alt
+0.5
+1.61
+2.17
+1
+2.65
+1.42
+1-60 Dk. Karşılıklı Gol
+Evet
+Hayır
+3.30
+1.28
+1-75 Dk. Galibi
+Şili
+X
+Kolombiya
+3.73
+2.70
+2.17
+1-75 Dk. Gol Handikapı
+Şili
+Kolombiya
+0
+2.50
+0
+1.47
+1-75 Dk. Toplam Goller
+Üst
+Alt
+1.5
+1.66
+2.08
+2
+2.25
+1.57
+1-75 Dk. Şili Toplam Goller
+Üst
+Alt
+0.5
+1.74
+1.96
+1
+3.15
+1.31
+1-75 Dk. Kolombiya Toplam Goller
+Üst
+Alt
+0.5
+1.40
+2.70
+1
+1.89
+1.81
+1-75 Dk. Karşılıklı Gol
+Evet
+Hayır
+2.50
+1.47
+Farklı Kombineler
+Şili Kazanır veya Üst (2.5) Gol
+1.65
+Beraberlik veya Üst 2.5 Gol
+1.40
+Kolombiya Kazanır veya 2.5 Üst Gol
+1.42
+Şili Kazanır veya Alt (2.5) Gol
+1.29
+Beraberlik veya Alt 2.5 Gol
+1.38
+Kolombiya kazanır veya 2,5 alt gol
+1.13
+Daha Fazla Seçeneği Göster
+Çifte Şans Kombo
+1X ve Üst (2.5) Gol
+4.30
+1X ve Alt (2.5) Gol
+2.17
+X2 ve Üst (2.5) Gol
+2.65
+X2 ve Alt (2.5) Gol
+1.77
+12 ve Üst (2.5) Gol
+2.29
+12 ve Alt (2.5) Gol
+2.23
+1X ve Karşılıklı Gol Olur
+2.67
+Şili 0'a karşı kazanır veya Doğru Skor 0-0
+3.03
+X2 ve Karşılıklı Gol Olur
+2.17
+Kolombiya 0'a karşı kazanır veya Doğru Skor 0 : 0
+2.05
+12 ve Karşılıklı Gol Olur
+2.81
+Şili veya Kolombiya - Gol Yemeden Kazanır
+1.91
+Daha Fazla Seçeneği Göster
+1.Yarı/Maç Skoru
+0-0/0-0
+6.30
+0-1/0-1
+9.40
+0-2/0-2
+26.00
+0-3/0-3
+91.00
+0-4/0-4
+351.00
+1-0/1-0
+13.00
+1-1/1-1
+19.00
+1-2/1-2
+51.00
+1-3/1-3
+201.00
+1-4/1-4
+351.00
+2-0/2-0
+51.00
+2-1/2-1
+76.00
+2-2/2-2
+201.00
+2-3/2-3
+351.00
+2-4/2-4
+351.00
+3-0/3-0
+251.00
+3-1/3-1
+351.00
+3-2/3-2
+351.00
+Daha Fazla Seçeneği Göster
+Karşılıklı Gol ve Toplam Goller 2.5
+Evet ve Üst 2.5
+2.81
+Evet ve Alt 2.5
+5.90
+Hayır ve Üst 2.5
+10.00
+Hayır ve Alt 2.5
+1.99
+Karşılıklı Gol ve Toplam Goller 3.5
+Evet ve Üst 3.5
+4.90
+Evet ve Alt 3.5
+3.06
+Hayır ve Üst 3.5
+34.00
+Hayır ve Alt 3.5
+1.80
+Her İki Yarıda da Karşılıklı Gol
+Evet
+Hayır
+14.00
+1.02
+İlk Golü Atacak Takım ve Maç Sonucu
+Şili ve Şili
+3.79
+Şili ve Berabere
+7.10
+Şili ve Kolombiya
+12.00
+Kolombiya ve Şili
+19.00
+Kolombiya ve Berabere
+7.10
+Kolombiya ve Kolombiya
+2.07
+Gol Yok
+6.80
+1.Yarı Toplam Gol 'e karşı 2. Yarı Toplam Gol Handikapı
+İlk Yarı Toplam Goller
+İkinci Yarı Toplam Goller
++1.5
+1.18
+-1.5
+4.30
++0.5
+1.61
+-0.5
+2.18
+-0.5
+3.00
++0.5
+1.35
+Şili : Geriden Gelerek Kazanır
+Evet
+Hayır
+9.50
+1.025
+Kolombiya : Geriden Kazanır
+Evet
+Hayır
+8.20
+1.045
+İlk Yarı/Maç Sonucu ve Toplam Gol
+Şili/Şili ve Üst (1.5)
+6.80
+Şili/Şili ve Alt (1.5)
+13.00
+Şili/Beraberlik ve Üst (1.5)
+14.00
+Şili/Kolombiya ve Üst (1.5)
+26.00
+Beraberlik/Şili ve Üst (1.5)
+11.00
+Beraberlik/Şili ve Alt (1.5)
+10.00
+Beraberlik/Beraberlik ve Üst (1.5)
+7.30
+Beraberlik/Beraberlik ve Alt (1.5)
+6.30
+Beraberlik/Kolombiya ve Üst (1.5)
+6.40
+Beraberlik/Kolombiya ve Alt (1.5)
+7.50
+Kolombiya/Şili ve Üst (1.5)
+41.00
+Kolombiya/Beraberlik ve Üst (1.5)
+13.00
+Daha Fazla Seçeneği Göster
+Oyuncu Kaleyi Bulan Şutlar
+YENİ
+Agustin Arce 1+
+1.81
+Agustin Arce 2+
+4.70
+Agustin Arce 3+
+12.00
+Ben Brereton Diaz 1+
+1.75
+Ben Brereton Diaz 2+
+4.70
+Ben Brereton Diaz 3+
+13.00
+Ben Brereton Diaz 4+
+25.00
+Camilo Duran 1+
+1.34
+Camilo Duran 2+
+2.49
+Camilo Duran 3+
+6.00
+Camilo Duran 4+
+14.00
+Camilo Mena 1+
+1.71
+Camilo Mena 2+
+4.50
+Camilo Mena 3+
+13.00
+Camilo Mena 4+
+25.00
+Cesar Perez 1+
+3.40
+Cesar Perez 2+
+14.00
+Cesar Perez 3+
+31.00
+Clemente Montes 1+
+1.60
+Clemente Montes 2+
+3.65
+Clemente Montes 3+
+10.00
+Clemente Montes 4+
+21.00
+Daniel Arcila 1+
+1.60
+Daniel Arcila 2+
+3.75
+Daniel Arcila 3+
+11.00
+Daniel Arcila 4+
+21.00
+Daniel Mosquera 1+
+1.35
+Daniel Mosquera 2+
+2.55
+Daniel Mosquera 3+
+6.20
+Daniel Mosquera 4+
+15.00
+Daniel Munoz 1+
+2.90
+Daniel Munoz 2+
+11.00
+Daniel Munoz 3+
+25.00
+Dario Osorio 1+
+1.84
+Dario Osorio 2+
+5.20
+Dario Osorio 3+
+13.00
+Dario Osorio 4+
+29.00
+Davinson Sanchez 1+
+3.60
+Davinson Sanchez 2+
+14.00
+Davinson Sanchez 3+
+34.00
+Diego Ulloa 1+
+3.80
+Diego Ulloa 2+
+15.00
+Diego Ulloa 3+
+36.00
+Edier Ocampo 1+
+3.50
+Edier Ocampo 2+
+12.00
+Edier Ocampo 3+
+31.00
+Emiliano Ramos 1+
+2.13
+Emiliano Ramos 2+
+6.50
+Emiliano Ramos 3+
+19.00
+Felipe Faundez 1+
+4.20
+Felipe Faundez 2+
+13.00
+Felipe Loyola 1+
+2.95
+Felipe Loyola 2+
+11.00
+Felipe Loyola 3+
+25.00
+Gabriel Suazo 1+
+5.60
+Gabriel Suazo 2+
+21.00
+Gonzalo Tapia 1+
+1.44
+Gonzalo Tapia 2+
+3.00
+Gonzalo Tapia 3+
+8.00
+Gonzalo Tapia 4+
+17.00
+Guillermo Maripan 1+
+5.90
+Guillermo Maripan 2+
+19.00
+Gustavo Puerta 1+
+2.14
+Gustavo Puerta 2+
+7.00
+Gustavo Puerta 3+
+17.00
+Gustavo Puerta 4+
+36.00
+Ivan Roman 1+
+6.20
+Jaminton Campaz 1+
+1.36
+Jaminton Campaz 2+
+2.60
+Jaminton Campaz 3+
+6.60
+Jaminton Campaz 4+
+15.00
+Jefferson Lerma 1+
+2.65
+Jefferson Lerma 2+
+10.00
+Jefferson Lerma 3+
+21.00
+Jhon Arias 1+
+1.61
+Jhon Arias 2+
+3.90
+Jhon Arias 3+
+11.00
+Jhon Arias 4+
+23.00
+Jhon Lucumi 1+
+5.60
+Jhon Lucumi 2+
+19.00
+Jhon Solis 1+
+2.85
+Jhon Solis 2+
+11.00
+Jhon Solis 3+
+25.00
+Jonathan Villagra 1+
+6.20
+Jonathan Villagra 2+
+17.00
+Jose Tomas Movillo 1+
+5.30
+Jose Tomas Movillo 2+
+14.00
+Juan Arizala 1+
+2.85
+Juan Arizala 2+
+8.60
+Juan Arizala 3+
+26.00
+Juan Cabal 1+
+3.65
+Juan Cabal 2+
+13.00
+Juan Rengifo 1+
+1.63
+Juan Rengifo 2+
+4.10
+Juan Rengifo 3+
+11.00
+Juan Rengifo 4+
+21.00
+Kevin Andrade 1+
+4.50
+Kevin Andrade 2+
+11.00
+Lucas Cepeda 1+
+1.51
+Lucas Cepeda 2+
+3.35
+Lucas Cepeda 3+
+9.20
+Lucas Cepeda 4+
+19.00
+Luis Suarez 1+
+1.40
+Luis Suarez 2+
+2.85
+Luis Suarez 3+
+7.40
+Luis Suarez 4+
+15.00
+Matias Orozco 1+
+2.90
+Matias Orozco 2+
+11.00
+Matias Orozco 3+
+25.00
+Maximiliano Gutierrez 1+
+1.64
+Maximiliano Gutierrez 2+
+4.10
+Maximiliano Gutierrez 3+
+12.00
+Maximiliano Gutierrez 4+
+23.00
+Nelson Deossa 1+
+2.25
+Nelson Deossa 2+
+6.80
+Nelson Deossa 3+
+19.00
+Nils Reichmuth 1+
+1.53
+Nils Reichmuth 2+
+3.35
+Nils Reichmuth 3+
+9.00
+Nils Reichmuth 4+
+19.00
+Oscar Cortes 1+
+1.63
+Oscar Cortes 2+
+4.00
+Oscar Cortes 3+
+12.00
+Oscar Cortes 4+
+21.00
+Oscar Perea 1+
+1.59
+Oscar Perea 2+
+3.80
+Oscar Perea 3+
+11.00
+Oscar Perea 4+
+23.00
+Paulo Diaz 1+
+5.60
+Paulo Diaz 2+
+19.00
+Rodrigo Echeverria 1+
+3.40
+Rodrigo Echeverria 2+
+13.00
+Rodrigo Echeverria 3+
+31.00
+Samuel Velasquez 1+
+3.70
+Samuel Velasquez 2+
+14.00
+Samuel Velasquez 3+
+34.00
+Vicente Pizarro 1+
+3.00
+Vicente Pizarro 2+
+12.00
+Vicente Pizarro 3+
+25.00
+Victor Mendez 1+
+2.90
+Victor Mendez 2+
+11.00
+Victor Mendez 3+
+25.00
+Williams Alarcon 1+
+2.90
+Williams Alarcon 2+
+9.80
+Williams Alarcon 3+
+25.00
+Yaser Asprilla 1+
+1.59
+Yaser Asprilla 2+
+3.75
+Yaser Asprilla 3+
+11.00
+Yaser Asprilla 4+
+21.00
+Oyuncu Şutları
+YENİ
+Agustin Arce 1+
+1.14
+Agustin Arce 2+
+1.58
+Agustin Arce 3+
+2.70
+Agustin Arce 4+
+5.40
+Ben Brereton Diaz 2+
+1.47
+Ben Brereton Diaz 3+
+2.41
+Ben Brereton Diaz 4+
+4.75
+Ben Brereton Diaz 5+
+10.00
+Camilo Duran 2+
+1.22
+Camilo Duran 3+
+1.65
+Camilo Duran 4+
+2.60
+Camilo Duran 5+
+4.75
+Camilo Mena 2+
+1.46
+Camilo Mena 3+
+2.33
+Camilo Mena 4+
+4.50
+Camilo Mena 5+
+9.50
+Cesar Perez 1+
+1.36
+Cesar Perez 2+
+2.60
+Cesar Perez 3+
+6.40
+Cesar Perez 4+
+15.00
+Clemente Montes 1+
+1.11
+Clemente Montes 2+
+1.49
+Clemente Montes 3+
+2.47
+Clemente Montes 4+
+4.90
+Daniel Arcila 2+
+1.36
+Daniel Arcila 3+
+2.06
+Daniel Arcila 4+
+3.70
+Daniel Arcila 5+
+7.60
+Daniel Mosquera 2+
+1.19
+Daniel Mosquera 3+
+1.55
+Daniel Mosquera 4+
+2.35
+Daniel Mosquera 5+
+4.10
+Daniel Munoz 1+
+1.48
+Daniel Munoz 2+
+3.15
+Daniel Munoz 3+
+8.10
+Daniel Munoz 4+
+19.00
+Dario Osorio 1+
+1.10
+Dario Osorio 2+
+1.44
+Dario Osorio 3+
+2.31
+Dario Osorio 4+
+4.50
+Dario Osorio 5+
+9.30
+Davinson Sanchez 1+
+1.73
+Davinson Sanchez 2+
+4.60
+Davinson Sanchez 3+
+13.00
+Davinson Sanchez 4+
+25.00
+Diego Ulloa 1+
+1.82
+Diego Ulloa 2+
+5.10
+Diego Ulloa 3+
+14.00
+Diego Ulloa 4+
+29.00
+Edier Ocampo 1+
+1.51
+Edier Ocampo 2+
+3.35
+Edier Ocampo 3+
+8.70
+Edier Ocampo 4+
+19.00
+Emiliano Ramos 1+
+1.16
+Emiliano Ramos 2+
+1.67
+Emiliano Ramos 3+
+3.00
+Emiliano Ramos 4+
+6.30
+Felipe Faundez 1+
+1.93
+Felipe Faundez 2+
+5.70
+Felipe Faundez 3+
+15.00
+Felipe Loyola 1+
+1.36
+Felipe Loyola 2+
+2.60
+Felipe Loyola 3+
+6.40
+Felipe Loyola 4+
+14.00
+Gabriel Suazo 1+
+2.00
+Gabriel Suazo 2+
+5.80
+Gabriel Suazo 3+
+15.00
+Gonzalo Tapia 2+
+1.26
+Gonzalo Tapia 3+
+1.75
+Gonzalo Tapia 4+
+2.85
+Gonzalo Tapia 5+
+5.40
+Guillermo Maripan 1+
+2.27
+Guillermo Maripan 2+
+7.30
+Guillermo Maripan 3+
+19.00
+Gustavo Puerta 1+
+1.19
+Gustavo Puerta 2+
+1.80
+Gustavo Puerta 3+
+3.50
+Gustavo Puerta 4+
+7.90
+Gustavo Puerta 5+
+17.00
+Ivan Roman 1+
+2.25
+Ivan Roman 2+
+7.50
+Jaminton Campaz 2+
+1.27
+Jaminton Campaz 3+
+1.80
+Jaminton Campaz 4+
+3.00
+Jaminton Campaz 5+
+5.70
+Jefferson Lerma 1+
+1.32
+Jefferson Lerma 2+
+2.42
+Jefferson Lerma 3+
+5.70
+Jefferson Lerma 4+
+13.00
+Jhon Arias 1+
+1.10
+Jhon Arias 2+
+1.45
+Jhon Arias 3+
+2.35
+Jhon Arias 4+
+4.50
+Jhon Arias 5+
+9.50
+Jhon Lucumi 1+
+2.10
+Jhon Lucumi 2+
+6.70
+Jhon Lucumi 3+
+17.00
+Jhon Solis 1+
+1.37
+Jhon Solis 2+
+2.65
+Jhon Solis 3+
+6.60
+Jhon Solis 4+
+15.00
+Jonathan Villagra 1+
+2.44
+Jonathan Villagra 2+
+8.80
+Jonathan Villagra 3+
+19.00
+Jose Tomas Movillo 1+
+2.41
+Jose Tomas Movillo 2+
+8.60
+Jose Tomas Movillo 3+
+19.00
+Jose Tomas Movillo 4+
+36.00
+Juan Arizala 1+
+1.46
+Juan Arizala 2+
+3.00
+Juan Arizala 3+
+7.40
+Juan Arizala 4+
+17.00
+Juan Cabal 1+
+1.58
+Juan Cabal 2+
+3.55
+Juan Cabal 3+
+8.40
+Juan Cabal 4+
+21.00
+Juan Rengifo 1+
+1.13
+Juan Rengifo 2+
+1.56
+Juan Rengifo 3+
+2.70
+Juan Rengifo 4+
+5.50
+Kevin Andrade 1+
+2.14
+Kevin Andrade 2+
+7.00
+Kevin Andrade 3+
+17.00
+Kevin Andrade 4+
+36.00
+Lucas Cepeda 2+
+1.26
+Lucas Cepeda 3+
+1.75
+Lucas Cepeda 4+
+2.85
+Lucas Cepeda 5+
+5.30
+Luis Suarez 2+
+1.23
+Luis Suarez 3+
+1.68
+Luis Suarez 4+
+2.70
+Luis Suarez 5+
+5.00
+Matias Orozco 1+
+1.34
+Matias Orozco 2+
+2.55
+Matias Orozco 3+
+6.20
+Matias Orozco 4+
+15.00
+Maximiliano Gutierrez 1+
+1.09
+Maximiliano Gutierrez 2+
+1.42
+Maximiliano Gutierrez 3+
+2.23
+Maximiliano Gutierrez 4+
+4.20
+Maximiliano Gutierrez 5+
+8.80
+Nelson Deossa 1+
+1.21
+Nelson Deossa 2+
+1.88
+Nelson Deossa 3+
+3.60
+Nelson Deossa 4+
+7.50
+Nils Reichmuth 1+
+1.09
+Nils Reichmuth 2+
+1.39
+Nils Reichmuth 3+
+2.14
+Nils Reichmuth 4+
+3.90
+Nils Reichmuth 5+
+8.00
+Oscar Cortes 1+
+1.10
+Oscar Cortes 2+
+1.43
+Oscar Cortes 3+
+2.27
+Oscar Cortes 4+
+4.30
+Oscar Cortes 5+
+9.00
+Oscar Perea 2+
+1.35
+Oscar Perea 3+
+2.02
+Oscar Perea 4+
+3.60
+Oscar Perea 5+
+7.30
+Paulo Diaz 1+
+1.82
+Paulo Diaz 2+
+5.10
+Paulo Diaz 3+
+14.00
+Paulo Diaz 4+
+26.00
+Rodrigo Echeverria 1+
+1.57
+Rodrigo Echeverria 2+
+3.65
+Rodrigo Echeverria 3+
+10.00
+Rodrigo Echeverria 4+
+21.00
+Samuel Velasquez 1+
+1.76
+Samuel Velasquez 2+
+4.70
+Samuel Velasquez 3+
+13.00
+Samuel Velasquez 4+
+25.00
+Vicente Pizarro 1+
+1.42
+Vicente Pizarro 2+
+2.80
+Vicente Pizarro 3+
+7.10
+Vicente Pizarro 4+
+17.00
+Victor Mendez 1+
+1.53
+Victor Mendez 2+
+3.50
+Victor Mendez 3+
+9.70
+Victor Mendez 4+
+19.00
+Williams Alarcon 1+
+1.31
+Williams Alarcon 2+
+2.35
+Williams Alarcon 3+
+5.20
+Williams Alarcon 4+
+11.00
+Yaser Asprilla 2+
+1.27
+Yaser Asprilla 3+
+1.79
+Yaser Asprilla 4+
+2.95
+Yaser Asprilla 5+
+5.70
+Kaleci Kurtarışları
+YENİ
+Aldair Quintana 2+
+1.28
+Aldair Quintana 3+
+1.82
+Aldair Quintana 4+
+3.05
+Aldair Quintana 5+
+6.00
+Brayan Cortes 2+
+1.18
+Brayan Cortes 3+
+1.53
+Brayan Cortes 4+
+2.31
+Brayan Cortes 5+
+4.00
+Brayan Cortes 6+
+7.60
+Camilo Vargas 2+
+1.28
+Camilo Vargas 3+
+1.83
+Camilo Vargas 4+
+3.05
+Camilo Vargas 5+
+5.90
+Christian Bravo 2+
+1.18
+Christian Bravo 3+
+1.52
+Christian Bravo 4+
+2.26
+Christian Bravo 5+
+3.90
+Devis Vasquez 2+
+1.27
+Devis Vasquez 3+
+1.79
+Devis Vasquez 4+
+3.00
+Devis Vasquez 5+
+5.70
+Lawrence Vigouroux 2+
+1.18
+Lawrence Vigouroux 3+
+1.53
+Lawrence Vigouroux 4+
+2.29
+Lawrence Vigouroux 5+
+3.95
+Lawrence Vigouroux 6+
+7.50
+Oyuncu 1. Yarıda Kaleyi Bulan Şutlar
+YENİ
+Agustin Arce 1+
+2.95
+Agustin Arce 2+
+9.20
+Ben Brereton Diaz 1+
+2.80
+Ben Brereton Diaz 2+
+11.00
+Ben Brereton Diaz 3+
+23.00
+Camilo Duran 1+
+1.97
+Camilo Duran 2+
+6.20
+Camilo Duran 3+
+15.00
+Camilo Duran 4+
+31.00
+Camilo Mena 1+
+2.75
+Camilo Mena 2+
+11.00
+Camilo Mena 3+
+23.00
+Cesar Perez 1+
+6.20
+Cesar Perez 2+
+17.00
+Clemente Montes 1+
+2.48
+Clemente Montes 2+
+8.90
+Clemente Montes 3+
+19.00
+Clemente Montes 4+
+36.00
+Daniel Arcila 1+
+2.50
+Daniel Arcila 2+
+9.30
+Daniel Arcila 3+
+21.00
+Daniel Arcila 4+
+36.00
+Daniel Mosquera 1+
+2.00
+Daniel Mosquera 2+
+6.30
+Daniel Mosquera 3+
+15.00
+Daniel Mosquera 4+
+34.00
+Daniel Munoz 1+
+5.00
+Daniel Munoz 2+
+17.00
+Dario Osorio 1+
+2.95
+Dario Osorio 2+
+11.00
+Dario Osorio 3+
+26.00
+Davinson Sanchez 1+
+6.40
+Davinson Sanchez 2+
+17.00
+Diego Ulloa 1+
+6.60
+Diego Ulloa 2+
+19.00
+Edier Ocampo 1+
+5.90
+Edier Ocampo 2+
+15.00
+Emiliano Ramos 1+
+3.55
+Emiliano Ramos 2+
+12.00
+Felipe Faundez 1+
+8.50
+Felipe Loyola 1+
+5.20
+Felipe Loyola 2+
+15.00
+Gabriel Suazo 1+
+9.70
+Gonzalo Tapia 1+
+2.18
+Gonzalo Tapia 2+
+7.40
+Gonzalo Tapia 3+
+17.00
+Gonzalo Tapia 4+
+36.00
+Guillermo Maripan 1+
+11.00
+Gustavo Puerta 1+
+3.55
+Gustavo Puerta 2+
+13.00
+Gustavo Puerta 3+
+31.00
+Ivan Roman 1+
+11.00
+Jaminton Campaz 1+
+2.14
+Jaminton Campaz 2+
+7.10
+Jaminton Campaz 3+
+14.00
+Jaminton Campaz 4+
+36.00
+Jefferson Lerma 1+
+4.60
+Jefferson Lerma 2+
+14.00
+Jhon Arias 1+
+2.50
+Jhon Arias 2+
+9.20
+Jhon Arias 3+
+19.00
+Jhon Lucumi 1+
+10.00
+Jhon Solis 1+
+5.00
+Jhon Solis 2+
+13.00
+Jonathan Villagra 1+
+12.00
+Jonathan Villagra 2+
+29.00
+Jose Tomas Movillo 1+
+11.00
+Jose Tomas Movillo 2+
+29.00
+Juan Arizala 1+
+4.70
+Juan Arizala 2+
+17.00
+Juan Cabal 1+
+6.70
+Juan Cabal 2+
+17.00
+Juan Rengifo 1+
+2.80
+Juan Rengifo 2+
+11.00
+Juan Rengifo 3+
+23.00
+Kevin Andrade 1+
+9.40
+Kevin Andrade 2+
+21.00
+Lucas Cepeda 1+
+2.32
+Lucas Cepeda 2+
+8.20
+Lucas Cepeda 3+
+17.00
+Luis Suarez 1+
+2.23
+Luis Suarez 2+
+7.70
+Luis Suarez 3+
+17.00
+Matias Orozco 1+
+5.70
+Matias Orozco 2+
+17.00
+Maximiliano Gutierrez 1+
+2.60
+Maximiliano Gutierrez 2+
+9.80
+Maximiliano Gutierrez 3+
+21.00
+Nelson Deossa 1+
+3.75
+Nelson Deossa 2+
+13.00
+Nils Reichmuth 1+
+2.35
+Nils Reichmuth 2+
+8.20
+Nils Reichmuth 3+
+17.00
+Nils Reichmuth 4+
+36.00
+Oscar Cortes 1+
+2.60
+Oscar Cortes 2+
+9.80
+Oscar Cortes 3+
+21.00
+Oscar Perea 1+
+2.50
+Oscar Perea 2+
+9.30
+Oscar Perea 3+
+19.00
+Paulo Diaz 1+
+10.00
+Paulo Diaz 2+
+26.00
+Rodrigo Echeverria 1+
+6.00
+Rodrigo Echeverria 2+
+17.00
+Samuel Velasquez 1+
+6.40
+Samuel Velasquez 2+
+19.00
+Vicente Pizarro 1+
+5.20
+Vicente Pizarro 2+
+14.00
+Victor Mendez 1+
+5.10
+Victor Mendez 2+
+13.00
+Victor Mendez 3+
+36.00
+Williams Alarcon 1+
+5.10
+Williams Alarcon 2+
+17.00
+Yaser Asprilla 1+
+2.49
+Yaser Asprilla 2+
+9.20
+Yaser Asprilla 3+
+21.00
+Oyuncu 2. Yarıda Kaleyi Bulan Şutlar
+YENİ
+Agustin Arce 1+
+2.55
+Agustin Arce 2+
+8.20
+Ben Brereton Diaz 1+
+2.48
+Ben Brereton Diaz 2+
+9.10
+Ben Brereton Diaz 3+
+19.00
+Camilo Duran 1+
+1.75
+Camilo Duran 2+
+4.75
+Camilo Duran 3+
+13.00
+Camilo Duran 4+
+25.00
+Camilo Mena 1+
+2.38
+Camilo Mena 2+
+8.60
+Camilo Mena 3+
+19.00
+Camilo Mena 4+
+36.00
+Cesar Perez 1+
+5.10
+Cesar Perez 2+
+14.00
+Clemente Montes 1+
+2.16
+Clemente Montes 2+
+7.00
+Clemente Montes 3+
+17.00
+Clemente Montes 4+
+36.00
+Daniel Arcila 1+
+2.18
+Daniel Arcila 2+
+7.30
+Daniel Arcila 3+
+15.00
+Daniel Arcila 4+
+36.00
+Daniel Mosquera 1+
+1.77
+Daniel Mosquera 2+
+4.90
+Daniel Mosquera 3+
+13.00
+Daniel Mosquera 4+
+26.00
+Daniel Munoz 1+
+4.30
+Daniel Munoz 2+
+15.00
+Dario Osorio 1+
+2.60
+Dario Osorio 2+
+9.60
+Dario Osorio 3+
+21.00
+Davinson Sanchez 1+
+5.50
+Davinson Sanchez 2+
+15.00
+Diego Ulloa 1+
+5.80
+Diego Ulloa 2+
+17.00
+Diego Ulloa 3+
+36.00
+Edier Ocampo 1+
+5.40
+Edier Ocampo 2+
+17.00
+Emiliano Ramos 1+
+3.05
+Emiliano Ramos 2+
+9.80
+Felipe Faundez 1+
+7.30
+Felipe Faundez 2+
+21.00
+Felipe Loyola 1+
+4.50
+Felipe Loyola 2+
+14.00
+Gabriel Suazo 1+
+8.50
+Gonzalo Tapia 1+
+1.95
+Gonzalo Tapia 2+
+6.00
+Gonzalo Tapia 3+
+14.00
+Gonzalo Tapia 4+
+31.00
+Guillermo Maripan 1+
+9.00
+Gustavo Puerta 1+
+3.10
+Gustavo Puerta 2+
+12.00
+Gustavo Puerta 3+
+25.00
+Ivan Roman 1+
+9.50
+Jaminton Campaz 1+
+1.90
+Jaminton Campaz 2+
+5.70
+Jaminton Campaz 3+
+15.00
+Jaminton Campaz 4+
+29.00
+Jefferson Lerma 1+
+3.95
+Jefferson Lerma 2+
+13.00
+Jefferson Lerma 3+
+36.00
+Jhon Arias 1+
+2.23
+Jhon Arias 2+
+7.60
+Jhon Arias 3+
+19.00
+Jhon Lucumi 1+
+8.50
+Jhon Lucumi 2+
+23.00
+Jhon Solis 1+
+4.30
+Jhon Solis 2+
+13.00
+Jhon Solis 3+
+36.00
+Jonathan Villagra 1+
+9.20
+Jonathan Villagra 2+
+25.00
+Jose Tomas Movillo 1+
+8.80
+Jose Tomas Movillo 2+
+21.00
+Juan Arizala 1+
+4.30
+Juan Arizala 2+
+15.00
+Juan Cabal 1+
+5.40
+Juan Cabal 2+
+17.00
+Juan Rengifo 1+
+2.44
+Juan Rengifo 2+
+8.80
+Juan Rengifo 3+
+19.00
+Kevin Andrade 1+
+7.50
+Kevin Andrade 2+
+21.00
+Lucas Cepeda 1+
+2.05
+Lucas Cepeda 2+
+6.60
+Lucas Cepeda 3+
+15.00
+Lucas Cepeda 4+
+36.00
+Luis Suarez 1+
+2.00
+Luis Suarez 2+
+6.30
+Luis Suarez 3+
+14.00
+Matias Orozco 1+
+4.85
+Matias Orozco 2+
+13.00
+Matias Orozco 3+
+36.00
+Maximiliano Gutierrez 1+
+2.27
+Maximiliano Gutierrez 2+
+7.90
+Maximiliano Gutierrez 3+
+17.00
+Maximiliano Gutierrez 4+
+36.00
+Nelson Deossa 1+
+3.25
+Nelson Deossa 2+
+11.00
+Nelson Deossa 3+
+31.00
+Nils Reichmuth 1+
+2.07
+Nils Reichmuth 2+
+6.50
+Nils Reichmuth 3+
+15.00
+Nils Reichmuth 4+
+36.00
+Oscar Cortes 1+
+2.24
+Oscar Cortes 2+
+7.80
+Oscar Cortes 3+
+17.00
+Oscar Cortes 4+
+36.00
+Oscar Perea 1+
+2.18
+Oscar Perea 2+
+7.30
+Oscar Perea 3+
+17.00
+Oscar Perea 4+
+36.00
+Paulo Diaz 1+
+8.60
+Paulo Diaz 2+
+23.00
+Rodrigo Echeverria 1+
+5.10
+Rodrigo Echeverria 2+
+15.00
+Samuel Velasquez 1+
+5.70
+Samuel Velasquez 2+
+17.00
+Samuel Velasquez 3+
+36.00
+Vicente Pizarro 1+
+4.50
+Vicente Pizarro 2+
+14.00
+Victor Mendez 1+
+4.33
+Victor Mendez 2+
+13.00
+Victor Mendez 3+
+36.00
+Williams Alarcon 1+
+4.30
+Williams Alarcon 2+
+15.00
+Yaser Asprilla 1+
+2.18
+Yaser Asprilla 2+
+7.40
+Yaser Asprilla 3+
+17.00
+Yaser Asprilla 4+
+36.00
+Oyuncu Her İki Yarıda Kaleyi Bulan Şutlar
+YENİ
+Agustin Arce 1+
+6.30
+Ben Brereton Diaz 1+
+5.90
+Camilo Duran 1+
+3.15
+Camilo Duran 2+
+15.00
+Camilo Mena 1+
+5.70
+Camilo Mena 2+
+31.00
+Cesar Perez 1+
+21.00
+Clemente Montes 1+
+4.75
+Clemente Montes 2+
+25.00
+Daniel Arcila 1+
+4.80
+Daniel Arcila 2+
+25.00
+Daniel Mosquera 1+
+3.25
+Daniel Mosquera 2+
+15.00
+Daniel Munoz 1+
+15.00
+Dario Osorio 1+
+6.70
+Davinson Sanchez 1+
+23.00
+Diego Ulloa 1+
+25.00
+Edier Ocampo 1+
+21.00
+Emiliano Ramos 1+
+8.80
+Felipe Loyola 1+
+17.00
+Gonzalo Tapia 1+
+3.80
+Gonzalo Tapia 2+
+19.00
+Gustavo Puerta 1+
+8.90
+Jaminton Campaz 1+
+3.70
+Jaminton Campaz 2+
+19.00
+Jefferson Lerma 1+
+13.00
+Jhon Arias 1+
+4.90
+Jhon Arias 2+
+25.00
+Jhon Solis 1+
+17.00
+Juan Arizala 1+
+15.00
+Juan Rengifo 1+
+5.90
+Lucas Cepeda 1+
+4.30
+Lucas Cepeda 2+
+23.00
+Luis Suarez 1+
+3.95
+Luis Suarez 2+
+21.00
+Matias Orozco 1+
+19.00
+Maximiliano Gutierrez 1+
+5.10
+Maximiliano Gutierrez 2+
+26.00
+Nelson Deossa 1+
+9.70
+Nils Reichmuth 1+
+4.30
+Nils Reichmuth 2+
+23.00
+Oscar Cortes 1+
+5.10
+Oscar Cortes 2+
+26.00
+Oscar Perea 1+
+4.80
+Oscar Perea 2+
+26.00
+Rodrigo Echeverria 1+
+21.00
+Samuel Velasquez 1+
+25.00
+Vicente Pizarro 1+
+17.00
+Victor Mendez 1+
+17.00
+Williams Alarcon 1+
+17.00
+Yaser Asprilla 1+
+4.75
+Yaser Asprilla 2+
+25.00
+Oyuncu Ceza Sahası Dışından Çektiği Şutlar
+YENİ
+Agustin Arce 1+
+1.43
+Agustin Arce 2+
+2.95
+Agustin Arce 3+
+7.40
+Ben Brereton Diaz 1+
+1.72
+Ben Brereton Diaz 2+
+4.70
+Ben Brereton Diaz 3+
+13.00
+Ben Brereton Diaz 4+
+25.00
+Camilo Duran 1+
+1.75
+Camilo Duran 2+
+4.80
+Camilo Duran 3+
+13.00
+Camilo Duran 4+
+25.00
+Camilo Mena 1+
+1.52
+Camilo Mena 2+
+3.50
+Camilo Mena 3+
+9.80
+Camilo Mena 4+
+19.00
+Cesar Perez 1+
+1.45
+Cesar Perez 2+
+3.15
+Cesar Perez 3+
+8.50
+Cesar Perez 4+
+15.00
+Clemente Montes 1+
+1.21
+Clemente Montes 2+
+1.90
+Clemente Montes 3+
+3.90
+Clemente Montes 4+
+9.10
+Daniel Arcila 1+
+1.29
+Daniel Arcila 2+
+2.27
+Daniel Arcila 3+
+5.30
+Daniel Arcila 4+
+12.00
+Daniel Mosquera 1+
+1.72
+Daniel Mosquera 2+
+4.70
+Daniel Mosquera 3+
+12.00
+Daniel Mosquera 4+
+25.00
+Daniel Munoz 1+
+3.65
+Daniel Munoz 2+
+13.00
+Daniel Munoz 3+
+34.00
+Dario Osorio 1+
+1.12
+Dario Osorio 2+
+1.53
+Dario Osorio 3+
+2.60
+Dario Osorio 4+
+5.30
+Davinson Sanchez 1+
+6.00
+Davinson Sanchez 2+
+17.00
+Diego Ulloa 1+
+3.15
+Diego Ulloa 2+
+12.00
+Diego Ulloa 3+
+26.00
+Edier Ocampo 1+
+2.02
+Edier Ocampo 2+
+6.20
+Edier Ocampo 3+
+15.00
+Edier Ocampo 4+
+36.00
+Emiliano Ramos 1+
+1.70
+Emiliano Ramos 2+
+4.50
+Emiliano Ramos 3+
+11.00
+Felipe Faundez 1+
+3.10
+Felipe Faundez 2+
+12.00
+Felipe Faundez 3+
+25.00
+Felipe Loyola 1+
+2.15
+Felipe Loyola 2+
+7.20
+Felipe Loyola 3+
+15.00
+Gabriel Suazo 1+
+2.85
+Gabriel Suazo 2+
+9.50
+Gabriel Suazo 3+
+23.00
+Gonzalo Tapia 1+
+1.98
+Gonzalo Tapia 2+
+6.30
+Gonzalo Tapia 3+
+14.00
+Gonzalo Tapia 4+
+31.00
+Guillermo Maripan 1+
+7.00
+Guillermo Maripan 2+
+19.00
+Gustavo Puerta 1+
+1.24
+Gustavo Puerta 2+
+2.08
+Gustavo Puerta 3+
+4.60
+Gustavo Puerta 4+
+11.00
+Ivan Roman 1+
+4.60
+Jaminton Campaz 1+
+1.33
+Jaminton Campaz 2+
+2.48
+Jaminton Campaz 3+
+6.00
+Jaminton Campaz 4+
+14.00
+Jefferson Lerma 1+
+1.64
+Jefferson Lerma 2+
+4.20
+Jefferson Lerma 3+
+11.00
+Jefferson Lerma 4+
+23.00
+Jhon Arias 1+
+1.42
+Jhon Arias 2+
+2.95
+Jhon Arias 3+
+7.70
+Jhon Arias 4+
+17.00
+Jhon Lucumi 1+
+7.80
+Jhon Lucumi 2+
+21.00
+Jhon Solis 1+
+1.73
+Jhon Solis 2+
+4.75
+Jhon Solis 3+
+13.00
+Jhon Solis 4+
+25.00
+Jonathan Villagra 1+
+9.60
+Jonathan Villagra 2+
+23.00
+Jose Tomas Movillo 1+
+13.00
+Jose Tomas Movillo 2+
+36.00
+Juan Arizala 1+
+1.70
+Juan Arizala 2+
+4.30
+Juan Arizala 3+
+11.00
+Juan Arizala 4+
+21.00
+Juan Cabal 1+
+2.90
+Juan Cabal 2+
+9.80
+Juan Rengifo 1+
+1.29
+Juan Rengifo 2+
+2.30
+Juan Rengifo 3+
+5.30
+Juan Rengifo 4+
+12.00
+Kevin Andrade 1+
+7.10
+Kevin Andrade 2+
+21.00
+Lucas Cepeda 1+
+1.08
+Lucas Cepeda 2+
+1.34
+Lucas Cepeda 3+
+2.02
+Lucas Cepeda 4+
+3.65
+Luis Suarez 1+
+1.83
+Luis Suarez 2+
+5.20
+Luis Suarez 3+
+14.00
+Luis Suarez 4+
+26.00
+Matias Orozco 1+
+1.54
+Matias Orozco 2+
+3.55
+Matias Orozco 3+
+10.00
+Matias Orozco 4+
+19.00
+Maximiliano Gutierrez 1+
+1.16
+Maximiliano Gutierrez 2+
+1.69
+Maximiliano Gutierrez 3+
+3.15
+Maximiliano Gutierrez 4+
+7.00
+Nelson Deossa 1+
+1.25
+Nelson Deossa 2+
+2.06
+Nelson Deossa 3+
+4.20
+Nelson Deossa 4+
+9.10
+Nils Reichmuth 1+
+1.36
+Nils Reichmuth 2+
+2.65
+Nils Reichmuth 3+
+6.60
+Nils Reichmuth 4+
+14.00
+Oscar Cortes 1+
+1.33
+Oscar Cortes 2+
+2.50
+Oscar Cortes 3+
+6.20
+Oscar Cortes 4+
+14.00
+Oscar Perea 1+
+1.30
+Oscar Perea 2+
+2.32
+Oscar Perea 3+
+5.50
+Oscar Perea 4+
+13.00
+Paulo Diaz 1+
+6.60
+Paulo Diaz 2+
+19.00
+Rodrigo Echeverria 1+
+2.11
+Rodrigo Echeverria 2+
+6.80
+Rodrigo Echeverria 3+
+15.00
+Samuel Velasquez 1+
+2.75
+Samuel Velasquez 2+
+10.00
+Samuel Velasquez 3+
+21.00
+Samuel Velasquez 4+
+36.00
+Vicente Pizarro 1+
+1.54
+Vicente Pizarro 2+
+3.60
+Vicente Pizarro 3+
+10.00
+Vicente Pizarro 4+
+19.00
+Victor Mendez 1+
+1.74
+Victor Mendez 2+
+4.80
+Victor Mendez 3+
+13.00
+Victor Mendez 4+
+25.00
+Williams Alarcon 1+
+1.40
+Williams Alarcon 2+
+2.80
+Williams Alarcon 3+
+6.80
+Williams Alarcon 4+
+15.00
+Yaser Asprilla 1+
+1.22
+Yaser Asprilla 2+
+1.94
+Yaser Asprilla 3+
+4.10
+Yaser Asprilla 4+
+9.60
+Oyuncu Ceza Sahası Dışından Kaleyi Bulan Şutlar
+YENİ
+Agustin Arce 1+
+3.10
+Agustin Arce 2+
+10.00
+Ben Brereton Diaz 1+
+4.10
+Ben Brereton Diaz 2+
+12.00
+Camilo Duran 1+
+3.65
+Camilo Duran 2+
+12.00
+Camilo Duran 3+
+31.00
+Camilo Mena 1+
+3.70
+Camilo Mena 2+
+12.00
+Camilo Mena 3+
+31.00
+Cesar Perez 1+
+3.80
+Cesar Perez 2+
+11.00
+Cesar Perez 3+
+29.00
+Clemente Montes 1+
+1.95
+Clemente Montes 2+
+5.90
+Clemente Montes 3+
+14.00
+Daniel Arcila 1+
+3.60
+Daniel Arcila 2+
+12.00
+Daniel Arcila 3+
+31.00
+Daniel Mosquera 1+
+4.30
+Daniel Mosquera 2+
+12.00
+Daniel Mosquera 3+
+36.00
+Daniel Munoz 1+
+14.00
+Daniel Munoz 2+
+36.00
+Dario Osorio 1+
+1.99
+Dario Osorio 2+
+6.20
+Dario Osorio 3+
+15.00
+Davinson Sanchez 1+
+26.00
+Diego Ulloa 1+
+19.00
+Diego Ulloa 2+
+36.00
+Edier Ocampo 1+
+6.40
+Edier Ocampo 2+
+17.00
+Emiliano Ramos 1+
+3.80
+Emiliano Ramos 2+
+13.00
+Felipe Faundez 1+
+13.00
+Felipe Faundez 2+
+31.00
+Felipe Loyola 1+
+8.90
+Felipe Loyola 2+
+23.00
+Gabriel Suazo 1+
+9.00
+Gonzalo Tapia 1+
+7.80
+Gonzalo Tapia 2+
+19.00
+Guillermo Maripan 1+
+23.00
+Gustavo Puerta 1+
+2.65
+Gustavo Puerta 2+
+10.00
+Gustavo Puerta 3+
+21.00
+Ivan Roman 1+
+25.00
+Jaminton Campaz 1+
+2.28
+Jaminton Campaz 2+
+8.00
+Jaminton Campaz 3+
+17.00
+Jefferson Lerma 1+
+4.70
+Jefferson Lerma 2+
+12.00
+Jhon Arias 1+
+2.95
+Jhon Arias 2+
+11.00
+Jhon Arias 3+
+25.00
+Jhon Lucumi 1+
+23.00
+Jhon Solis 1+
+5.40
+Jhon Solis 2+
+15.00
+Jhon Solis 3+
+36.00
+Jonathan Villagra 1+
+29.00
+Jose Tomas Movillo 1+
+34.00
+Juan Arizala 1+
+4.00
+Juan Arizala 2+
+13.00
+Juan Cabal 1+
+19.00
+Juan Rengifo 1+
+2.55
+Juan Rengifo 2+
+9.20
+Juan Rengifo 3+
+19.00
+Kevin Andrade 1+
+21.00
+Lucas Cepeda 1+
+1.67
+Lucas Cepeda 2+
+4.40
+Lucas Cepeda 3+
+12.00
+Luis Suarez 1+
+5.40
+Luis Suarez 2+
+15.00
+Matias Orozco 1+
+4.00
+Matias Orozco 2+
+11.00
+Matias Orozco 3+
+31.00
+Maximiliano Gutierrez 1+
+2.07
+Maximiliano Gutierrez 2+
+6.80
+Maximiliano Gutierrez 3+
+14.00
+Nelson Deossa 1+
+2.40
+Nelson Deossa 2+
+7.10
+Nelson Deossa 3+
+19.00
+Nils Reichmuth 1+
+3.05
+Nils Reichmuth 2+
+11.00
+Nils Reichmuth 3+
+25.00
+Oscar Cortes 1+
+2.80
+Oscar Cortes 2+
+10.00
+Oscar Cortes 3+
+23.00
+Oscar Perea 1+
+2.55
+Oscar Perea 2+
+9.40
+Oscar Perea 3+
+21.00
+Paulo Diaz 1+
+25.00
+Rodrigo Echeverria 1+
+6.00
+Rodrigo Echeverria 2+
+15.00
+Samuel Velasquez 1+
+5.10
+Samuel Velasquez 2+
+14.00
+Samuel Velasquez 3+
+36.00
+Vicente Pizarro 1+
+3.90
+Vicente Pizarro 2+
+12.00
+Vicente Pizarro 3+
+34.00
+Victor Mendez 1+
+4.10
+Victor Mendez 2+
+12.00
+Victor Mendez 3+
+36.00
+Williams Alarcon 1+
+3.20
+Williams Alarcon 2+
+11.00
+Yaser Asprilla 1+
+3.25
+Yaser Asprilla 2+
+12.00
+Yaser Asprilla 3+
+26.00
+Oyuncu Kafayla Kaleyi Bulan Şutlar
+YENİ
+Agustin Arce 1+
+6.20
+Agustin Arce 2+
+17.00
+Ben Brereton Diaz 1+
+6.80
+Ben Brereton Diaz 2+
+19.00
+Camilo Duran 1+
+3.05
+Camilo Duran 2+
+12.00
+Camilo Duran 3+
+25.00
+Camilo Mena 1+
+11.00
+Camilo Mena 2+
+26.00
+Cesar Perez 1+
+21.00
+Clemente Montes 1+
+10.00
+Clemente Montes 2+
+25.00
+Daniel Arcila 1+
+11.00
+Daniel Arcila 2+
+26.00
+Daniel Mosquera 1+
+3.05
+Daniel Mosquera 2+
+11.00
+Daniel Mosquera 3+
+25.00
+Daniel Munoz 1+
+9.30
+Daniel Munoz 2+
+25.00
+Dario Osorio 1+
+19.00
+Davinson Sanchez 1+
+3.90
+Davinson Sanchez 2+
+13.00
+Davinson Sanchez 3+
+36.00
+Diego Ulloa 1+
+21.00
+Diego Ulloa 2+
+36.00
+Edier Ocampo 1+
+17.00
+Emiliano Ramos 1+
+14.00
+Felipe Faundez 1+
+25.00
+Felipe Loyola 1+
+11.00
+Felipe Loyola 2+
+26.00
+Gabriel Suazo 1+
+21.00
+Gonzalo Tapia 1+
+4.50
+Gonzalo Tapia 2+
+12.00
+Guillermo Maripan 1+
+6.50
+Guillermo Maripan 2+
+17.00
+Gustavo Puerta 1+
+19.00
+Gustavo Puerta 2+
+36.00
+Ivan Roman 1+
+7.60
+Jaminton Campaz 1+
+10.00
+Jaminton Campaz 2+
+25.00
+Jefferson Lerma 1+
+7.40
+Jefferson Lerma 2+
+19.00
+Jhon Arias 1+
+11.00
+Jhon Arias 2+
+26.00
+Jhon Lucumi 1+
+6.80
+Jhon Lucumi 2+
+19.00
+Jhon Solis 1+
+13.00
+Jhon Solis 2+
+34.00
+Jonathan Villagra 1+
+7.40
+Jonathan Villagra 2+
+19.00
+Jose Tomas Movillo 1+
+7.30
+Jose Tomas Movillo 2+
+19.00
+Juan Arizala 1+
+14.00
+Juan Cabal 1+
+4.90
+Juan Cabal 2+
+15.00
+Juan Rengifo 1+
+11.00
+Juan Rengifo 2+
+25.00
+Kevin Andrade 1+
+6.40
+Kevin Andrade 2+
+19.00
+Lucas Cepeda 1+
+34.00
+Luis Suarez 1+
+5.70
+Luis Suarez 2+
+17.00
+Matias Orozco 1+
+17.00
+Matias Orozco 2+
+36.00
+Maximiliano Gutierrez 1+
+11.00
+Maximiliano Gutierrez 2+
+29.00
+Nelson Deossa 1+
+10.00
+Nelson Deossa 2+
+26.00
+Nils Reichmuth 1+
+4.70
+Nils Reichmuth 2+
+12.00
+Nils Reichmuth 3+
+36.00
+Oscar Cortes 1+
+10.00
+Oscar Cortes 2+
+25.00
+Oscar Perea 1+
+9.80
+Oscar Perea 2+
+23.00
+Paulo Diaz 1+
+6.40
+Paulo Diaz 2+
+17.00
+Rodrigo Echeverria 1+
+9.10
+Rodrigo Echeverria 2+
+23.00
+Samuel Velasquez 1+
+23.00
+Vicente Pizarro 1+
+17.00
+Victor Mendez 1+
+19.00
+Victor Mendez 2+
+36.00
+Williams Alarcon 1+
+17.00
+Yaser Asprilla 1+
+15.00
+Yaser Asprilla 2+
+36.00
+Oyuncu Sağ Ayakla Kaleyi Bulan Şutlar
+YENİ
+Agustin Arce 1+
+2.60
+Agustin Arce 2+
+8.50
+Ben Brereton Diaz 1+
+2.14
+Ben Brereton Diaz 2+
+7.10
+Ben Brereton Diaz 3+
+17.00
+Camilo Duran 1+
+3.05
+Camilo Duran 2+
+12.00
+Camilo Duran 3+
+25.00
+Camilo Mena 1+
+2.55
+Camilo Mena 2+
+9.50
+Camilo Mena 3+
+21.00
+Cesar Perez 1+
+4.50
+Cesar Perez 2+
+14.00
+Cesar Perez 3+
+36.00
+Clemente Montes 1+
+2.25
+Clemente Montes 2+
+7.40
+Clemente Montes 3+
+17.00
+Clemente Montes 4+
+36.00
+Daniel Arcila 1+
+2.21
+Daniel Arcila 2+
+7.40
+Daniel Arcila 3+
+15.00
+Daniel Arcila 4+
+36.00
+Daniel Mosquera 1+
+1.96
+Daniel Mosquera 2+
+5.90
+Daniel Mosquera 3+
+15.00
+Daniel Mosquera 4+
+31.00
+Daniel Munoz 1+
+4.80
+Daniel Munoz 2+
+17.00
+Dario Osorio 1+
+11.00
+Dario Osorio 2+
+29.00
+Davinson Sanchez 1+
+14.00
+Davinson Sanchez 2+
+36.00
+Diego Ulloa 1+
+8.50
+Diego Ulloa 2+
+23.00
+Edier Ocampo 1+
+6.50
+Edier Ocampo 2+
+17.00
+Emiliano Ramos 1+
+5.10
+Emiliano Ramos 2+
+17.00
+Felipe Faundez 1+
+7.30
+Felipe Loyola 1+
+4.00
+Felipe Loyola 2+
+13.00
+Gabriel Suazo 1+
+21.00
+Gonzalo Tapia 1+
+1.95
+Gonzalo Tapia 2+
+5.90
+Gonzalo Tapia 3+
+15.00
+Gonzalo Tapia 4+
+31.00
+Guillermo Maripan 1+
+21.00
+Gustavo Puerta 1+
+2.36
+Gustavo Puerta 2+
+8.40
+Gustavo Puerta 3+
+19.00
+Gustavo Puerta 4+
+36.00
+Ivan Roman 1+
+17.00
+Jaminton Campaz 1+
+7.20
+Jaminton Campaz 2+
+21.00
+Jefferson Lerma 1+
+3.55
+Jefferson Lerma 2+
+13.00
+Jefferson Lerma 3+
+31.00
+Jhon Arias 1+
+1.94
+Jhon Arias 2+
+5.80
+Jhon Arias 3+
+15.00
+Jhon Arias 4+
+34.00
+Jhon Lucumi 1+
+31.00
+Jhon Solis 1+
+4.20
+Jhon Solis 2+
+14.00
+Jhon Solis 3+
+36.00
+Jonathan Villagra 1+
+25.00
+Jose Tomas Movillo 1+
+23.00
+Juan Arizala 1+
+5.60
+Juan Arizala 2+
+19.00
+Juan Cabal 1+
+19.00
+Juan Rengifo 1+
+3.80
+Juan Rengifo 2+
+13.00
+Juan Rengifo 3+
+36.00
+Kevin Andrade 1+
+19.00
+Lucas Cepeda 1+
+10.00
+Lucas Cepeda 2+
+25.00
+Luis Suarez 1+
+1.97
+Luis Suarez 2+
+6.00
+Luis Suarez 3+
+17.00
+Matias Orozco 1+
+4.75
+Matias Orozco 2+
+14.00
+Matias Orozco 3+
+36.00
+Maximiliano Gutierrez 1+
+1.83
+Maximiliano Gutierrez 2+
+5.20
+Maximiliano Gutierrez 3+
+15.00
+Maximiliano Gutierrez 4+
+26.00
+Nelson Deossa 1+
+6.00
+Nelson Deossa 2+
+19.00
+Nelson Deossa 3+
+36.00
+Nils Reichmuth 1+
+3.95
+Nils Reichmuth 2+
+14.00
+Nils Reichmuth 3+
+36.00
+Oscar Cortes 1+
+2.41
+Oscar Cortes 2+
+8.70
+Oscar Cortes 3+
+19.00
+Oscar Perea 1+
+2.34
+Oscar Perea 2+
+8.20
+Oscar Perea 3+
+19.00
+Paulo Diaz 1+
+19.00
+Rodrigo Echeverria 1+
+4.70
+Rodrigo Echeverria 2+
+15.00
+Samuel Velasquez 1+
+10.00
+Samuel Velasquez 2+
+25.00
+Vicente Pizarro 1+
+21.00
+Victor Mendez 1+
+4.00
+Victor Mendez 2+
+14.00
+Victor Mendez 3+
+36.00
+Williams Alarcon 1+
+4.10
+Williams Alarcon 2+
+15.00
+Yaser Asprilla 1+
+5.50
+Yaser Asprilla 2+
+15.00
+Oyuncu 2. Yarıda Kaleyi Bulan Şutlar
+YENİ
+Agustin Arce 1+
+2.55
+Agustin Arce 2+
+8.20
+Ben Brereton Diaz 1+
+2.48
+Ben Brereton Diaz 2+
+9.10
+Ben Brereton Diaz 3+
+19.00
+Camilo Duran 1+
+1.75
+Camilo Duran 2+
+4.75
+Camilo Duran 3+
+13.00
+Camilo Duran 4+
+25.00
+Camilo Mena 1+
+2.38
+Camilo Mena 2+
+8.60
+Camilo Mena 3+
+19.00
+Camilo Mena 4+
+36.00
+Cesar Perez 1+
+5.10
+Cesar Perez 2+
+14.00
+Clemente Montes 1+
+2.16
+Clemente Montes 2+
+7.00
+Clemente Montes 3+
+17.00
+Clemente Montes 4+
+36.00
+Daniel Arcila 1+
+2.18
+Daniel Arcila 2+
+7.30
+Daniel Arcila 3+
+15.00
+Daniel Arcila 4+
+36.00
+Daniel Mosquera 1+
+1.77
+Daniel Mosquera 2+
+4.90
+Daniel Mosquera 3+
+13.00
+Daniel Mosquera 4+
+26.00
+Daniel Munoz 1+
+4.30
+Daniel Munoz 2+
+15.00
+Dario Osorio 1+
+2.60
+Dario Osorio 2+
+9.60
+Dario Osorio 3+
+21.00
+Davinson Sanchez 1+
+5.50
+Davinson Sanchez 2+
+15.00
+Diego Ulloa 1+
+5.80
+Diego Ulloa 2+
+17.00
+Diego Ulloa 3+
+36.00
+Edier Ocampo 1+
+5.40
+Edier Ocampo 2+
+17.00
+Emiliano Ramos 1+
+3.05
+Emiliano Ramos 2+
+9.80
+Felipe Faundez 1+
+7.30
+Felipe Faundez 2+
+21.00
+Felipe Loyola 1+
+4.50
+Felipe Loyola 2+
+14.00
+Gabriel Suazo 1+
+8.50
+Gonzalo Tapia 1+
+1.95
+Gonzalo Tapia 2+
+6.00
+Gonzalo Tapia 3+
+14.00
+Gonzalo Tapia 4+
+31.00
+Guillermo Maripan 1+
+9.00
+Gustavo Puerta 1+
+3.10
+Gustavo Puerta 2+
+12.00
+Gustavo Puerta 3+
+25.00
+Ivan Roman 1+
+9.50
+Jaminton Campaz 1+
+1.90
+Jaminton Campaz 2+
+5.70
+Jaminton Campaz 3+
+15.00
+Jaminton Campaz 4+
+29.00
+Jefferson Lerma 1+
+3.95
+Jefferson Lerma 2+
+13.00
+Jefferson Lerma 3+
+36.00
+Jhon Arias 1+
+2.23
+Jhon Arias 2+
+7.60
+Jhon Arias 3+
+19.00
+Jhon Lucumi 1+
+8.50
+Jhon Lucumi 2+
+23.00
+Jhon Solis 1+
+4.30
+Jhon Solis 2+
+13.00
+Jhon Solis 3+
+36.00
+Jonathan Villagra 1+
+9.20
+Jonathan Villagra 2+
+25.00
+Jose Tomas Movillo 1+
+8.80
+Jose Tomas Movillo 2+
+21.00
+Juan Arizala 1+
+4.30
+Juan Arizala 2+
+15.00
+Juan Cabal 1+
+5.40
+Juan Cabal 2+
+17.00
+Juan Rengifo 1+
+2.44
+Juan Rengifo 2+
+8.80
+Juan Rengifo 3+
+19.00
+Kevin Andrade 1+
+7.50
+Kevin Andrade 2+
+21.00
+Lucas Cepeda 1+
+2.05
+Lucas Cepeda 2+
+6.60
+Lucas Cepeda 3+
+15.00
+Lucas Cepeda 4+
+36.00
+Luis Suarez 1+
+2.00
+Luis Suarez 2+
+6.30
+Luis Suarez 3+
+14.00
+Matias Orozco 1+
+4.85
+Matias Orozco 2+
+13.00
+Matias Orozco 3+
+36.00
+Maximiliano Gutierrez 1+
+2.27
+Maximiliano Gutierrez 2+
+7.90
+Maximiliano Gutierrez 3+
+17.00
+Maximiliano Gutierrez 4+
+36.00
+Nelson Deossa 1+
+3.25
+Nelson Deossa 2+
+11.00
+Nelson Deossa 3+
+31.00
+Nils Reichmuth 1+
+2.07
+Nils Reichmuth 2+
+6.50
+Nils Reichmuth 3+
+15.00
+Nils Reichmuth 4+
+36.00
+Oscar Cortes 1+
+2.24
+Oscar Cortes 2+
+7.80
+Oscar Cortes 3+
+17.00
+Oscar Cortes 4+
+36.00
+Oscar Perea 1+
+2.18
+Oscar Perea 2+
+7.30
+Oscar Perea 3+
+17.00
+Oscar Perea 4+
+36.00
+Paulo Diaz 1+
+8.60
+Paulo Diaz 2+
+23.00
+Rodrigo Echeverria 1+
+5.10
+Rodrigo Echeverria 2+
+15.00
+Samuel Velasquez 1+
+5.70
+Samuel Velasquez 2+
+17.00
+Samuel Velasquez 3+
+36.00
+Vicente Pizarro 1+
+4.50
+Vicente Pizarro 2+
+14.00
+Victor Mendez 1+
+4.33
+Victor Mendez 2+
+13.00
+Victor Mendez 3+
+36.00
+Williams Alarcon 1+
+4.30
+Williams Alarcon 2+
+15.00
+Yaser Asprilla 1+
+2.18
+Yaser Asprilla 2+
+7.40
+Yaser Asprilla 3+
+17.00
+Yaser Asprilla 4+
+36.00
+Oyuncu Her İki Yarıda Kaleyi Bulan Şutlar
+YENİ
+Agustin Arce 1+
+6.30
+Ben Brereton Diaz 1+
+5.90
+Camilo Duran 1+
+3.15
+Camilo Duran 2+
+15.00
+Camilo Mena 1+
+5.70
+Camilo Mena 2+
+31.00
+Cesar Perez 1+
+21.00
+Clemente Montes 1+
+4.75
+Clemente Montes 2+
+25.00
+Daniel Arcila 1+
+4.80
+Daniel Arcila 2+
+25.00
+Daniel Mosquera 1+
+3.25
+Daniel Mosquera 2+
+15.00
+Daniel Munoz 1+
+15.00
+Dario Osorio 1+
+6.70
+Davinson Sanchez 1+
+23.00
+Diego Ulloa 1+
+25.00
+Edier Ocampo 1+
+21.00
+Emiliano Ramos 1+
+8.80
+Felipe Loyola 1+
+17.00
+Gonzalo Tapia 1+
+3.80
+Gonzalo Tapia 2+
+19.00
+Gustavo Puerta 1+
+8.90
+Jaminton Campaz 1+
+3.70
+Jaminton Campaz 2+
+19.00
+Jefferson Lerma 1+
+13.00
+Jhon Arias 1+
+4.90
+Jhon Arias 2+
+25.00
+Jhon Solis 1+
+17.00
+Juan Arizala 1+
+15.00
+Juan Rengifo 1+
+5.90
+Lucas Cepeda 1+
+4.30
+Lucas Cepeda 2+
+23.00
+Luis Suarez 1+
+3.95
+Luis Suarez 2+
+21.00
+Matias Orozco 1+
+19.00
+Maximiliano Gutierrez 1+
+5.10
+Maximiliano Gutierrez 2+
+26.00
+Nelson Deossa 1+
+9.70
+Nils Reichmuth 1+
+4.30
+Nils Reichmuth 2+
+23.00
+Oscar Cortes 1+
+5.10
+Oscar Cortes 2+
+26.00
+Oscar Perea 1+
+4.80
+Oscar Perea 2+
+26.00
+Rodrigo Echeverria 1+
+21.00
+Samuel Velasquez 1+
+25.00
+Vicente Pizarro 1+
+17.00
+Victor Mendez 1+
+17.00
+Williams Alarcon 1+
+17.00
+Yaser Asprilla 1+
+4.75
+Yaser Asprilla 2+
+25.00
+Oyuncu Ceza Sahası Dışından Çektiği Şutlar
+YENİ
+Agustin Arce 1+
+1.43
+Agustin Arce 2+
+2.95
+Agustin Arce 3+
+7.40
+Ben Brereton Diaz 1+
+1.72
+Ben Brereton Diaz 2+
+4.70
+Ben Brereton Diaz 3+
+13.00
+Ben Brereton Diaz 4+
+25.00
+Camilo Duran 1+
+1.75
+Camilo Duran 2+
+4.80
+Camilo Duran 3+
+13.00
+Camilo Duran 4+
+25.00
+Camilo Mena 1+
+1.52
+Camilo Mena 2+
+3.50
+Camilo Mena 3+
+9.80
+Camilo Mena 4+
+19.00
+Cesar Perez 1+
+1.45
+Cesar Perez 2+
+3.15
+Cesar Perez 3+
+8.50
+Cesar Perez 4+
+15.00
+Clemente Montes 1+
+1.21
+Clemente Montes 2+
+1.90
+Clemente Montes 3+
+3.90
+Clemente Montes 4+
+9.10
+Daniel Arcila 1+
+1.29
+Daniel Arcila 2+
+2.27
+Daniel Arcila 3+
+5.30
+Daniel Arcila 4+
+12.00
+Daniel Mosquera 1+
+1.72
+Daniel Mosquera 2+
+4.70
+Daniel Mosquera 3+
+12.00
+Daniel Mosquera 4+
+25.00
+Daniel Munoz 1+
+3.65
+Daniel Munoz 2+
+13.00
+Daniel Munoz 3+
+34.00
+Dario Osorio 1+
+1.12
+Dario Osorio 2+
+1.53
+Dario Osorio 3+
+2.60
+Dario Osorio 4+
+5.30
+Davinson Sanchez 1+
+6.00
+Davinson Sanchez 2+
+17.00
+Diego Ulloa 1+
+3.15
+Diego Ulloa 2+
+12.00
+Diego Ulloa 3+
+26.00
+Edier Ocampo 1+
+2.02
+Edier Ocampo 2+
+6.20
+Edier Ocampo 3+
+15.00
+Edier Ocampo 4+
+36.00
+Emiliano Ramos 1+
+1.70
+Emiliano Ramos 2+
+4.50
+Emiliano Ramos 3+
+11.00
+Felipe Faundez 1+
+3.10
+Felipe Faundez 2+
+12.00
+Felipe Faundez 3+
+25.00
+Felipe Loyola 1+
+2.15
+Felipe Loyola 2+
+7.20
+Felipe Loyola 3+
+15.00
+Gabriel Suazo 1+
+2.85
+Gabriel Suazo 2+
+9.50
+Gabriel Suazo 3+
+23.00
+Gonzalo Tapia 1+
+1.98
+Gonzalo Tapia 2+
+6.30
+Gonzalo Tapia 3+
+14.00
+Gonzalo Tapia 4+
+31.00
+Guillermo Maripan 1+
+7.00
+Guillermo Maripan 2+
+19.00
+Gustavo Puerta 1+
+1.24
+Gustavo Puerta 2+
+2.08
+Gustavo Puerta 3+
+4.60
+Gustavo Puerta 4+
+11.00
+Ivan Roman 1+
+4.60
+Jaminton Campaz 1+
+1.33
+Jaminton Campaz 2+
+2.48
+Jaminton Campaz 3+
+6.00
+Jaminton Campaz 4+
+14.00
+Jefferson Lerma 1+
+1.64
+Jefferson Lerma 2+
+4.20
+Jefferson Lerma 3+
+11.00
+Jefferson Lerma 4+
+23.00
+Jhon Arias 1+
+1.42
+Jhon Arias 2+
+2.95
+Jhon Arias 3+
+7.70
+Jhon Arias 4+
+17.00
+Jhon Lucumi 1+
+7.80
+Jhon Lucumi 2+
+21.00
+Jhon Solis 1+
+1.73
+Jhon Solis 2+
+4.75
+Jhon Solis 3+
+13.00
+Jhon Solis 4+
+25.00
+Jonathan Villagra 1+
+9.60
+Jonathan Villagra 2+
+23.00
+Jose Tomas Movillo 1+
+13.00
+Jose Tomas Movillo 2+
+36.00
+Juan Arizala 1+
+1.70
+Juan Arizala 2+
+4.30
+Juan Arizala 3+
+11.00
+Juan Arizala 4+
+21.00
+Juan Cabal 1+
+2.90
+Juan Cabal 2+
+9.80
+Juan Rengifo 1+
+1.29
+Juan Rengifo 2+
+2.30
+Juan Rengifo 3+
+5.30
+Juan Rengifo 4+
+12.00
+Kevin Andrade 1+
+7.10
+Kevin Andrade 2+
+21.00
+Lucas Cepeda 1+
+1.08
+Lucas Cepeda 2+
+1.34
+Lucas Cepeda 3+
+2.02
+Lucas Cepeda 4+
+3.65
+Luis Suarez 1+
+1.83
+Luis Suarez 2+
+5.20
+Luis Suarez 3+
+14.00
+Luis Suarez 4+
+26.00
+Matias Orozco 1+
+1.54
+Matias Orozco 2+
+3.55
+Matias Orozco 3+
+10.00
+Matias Orozco 4+
+19.00
+Maximiliano Gutierrez 1+
+1.16
+Maximiliano Gutierrez 2+
+1.69
+Maximiliano Gutierrez 3+
+3.15
+Maximiliano Gutierrez 4+
+7.00
+Nelson Deossa 1+
+1.25
+Nelson Deossa 2+
+2.06
+Nelson Deossa 3+
+4.20
+Nelson Deossa 4+
+9.10
+Nils Reichmuth 1+
+1.36
+Nils Reichmuth 2+
+2.65
+Nils Reichmuth 3+
+6.60
+Nils Reichmuth 4+
+14.00
+Oscar Cortes 1+
+1.33
+Oscar Cortes 2+
+2.50
+Oscar Cortes 3+
+6.20
+Oscar Cortes 4+
+14.00
+Oscar Perea 1+
+1.30
+Oscar Perea 2+
+2.32
+Oscar Perea 3+
+5.50
+Oscar Perea 4+
+13.00
+Paulo Diaz 1+
+6.60
+Paulo Diaz 2+
+19.00
+Rodrigo Echeverria 1+
+2.11
+Rodrigo Echeverria 2+
+6.80
+Rodrigo Echeverria 3+
+15.00
+Samuel Velasquez 1+
+2.75
+Samuel Velasquez 2+
+10.00
+Samuel Velasquez 3+
+21.00
+Samuel Velasquez 4+
+36.00
+Vicente Pizarro 1+
+1.54
+Vicente Pizarro 2+
+3.60
+Vicente Pizarro 3+
+10.00
+Vicente Pizarro 4+
+19.00
+Victor Mendez 1+
+1.74
+Victor Mendez 2+
+4.80
+Victor Mendez 3+
+13.00
+Victor Mendez 4+
+25.00
+Williams Alarcon 1+
+1.40
+Williams Alarcon 2+
+2.80
+Williams Alarcon 3+
+6.80
+Williams Alarcon 4+
+15.00
+Yaser Asprilla 1+
+1.22
+Yaser Asprilla 2+
+1.94
+Yaser Asprilla 3+
+4.10
+Yaser Asprilla 4+
+9.60
+Oyuncu Ceza Sahası Dışından Kaleyi Bulan Şutlar
+YENİ
+Agustin Arce 1+
+3.10
+Agustin Arce 2+
+10.00
+Ben Brereton Diaz 1+
+4.10
+Ben Brereton Diaz 2+
+12.00
+Camilo Duran 1+
+3.65
+Camilo Duran 2+
+12.00
+Camilo Duran 3+
+31.00
+Camilo Mena 1+
+3.70
+Camilo Mena 2+
+12.00
+Camilo Mena 3+
+31.00
+Cesar Perez 1+
+3.80
+Cesar Perez 2+
+11.00
+Cesar Perez 3+
+29.00
+Clemente Montes 1+
+1.95
+Clemente Montes 2+
+5.90
+Clemente Montes 3+
+14.00
+Daniel Arcila 1+
+3.60
+Daniel Arcila 2+
+12.00
+Daniel Arcila 3+
+31.00
+Daniel Mosquera 1+
+4.30
+Daniel Mosquera 2+
+12.00
+Daniel Mosquera 3+
+36.00
+Daniel Munoz 1+
+14.00
+Daniel Munoz 2+
+36.00
+Dario Osorio 1+
+1.99
+Dario Osorio 2+
+6.20
+Dario Osorio 3+
+15.00
+Davinson Sanchez 1+
+26.00
+Diego Ulloa 1+
+19.00
+Diego Ulloa 2+
+36.00
+Edier Ocampo 1+
+6.40
+Edier Ocampo 2+
+17.00
+Emiliano Ramos 1+
+3.80
+Emiliano Ramos 2+
+13.00
+Felipe Faundez 1+
+13.00
+Felipe Faundez 2+
+31.00
+Felipe Loyola 1+
+8.90
+Felipe Loyola 2+
+23.00
+Gabriel Suazo 1+
+9.00
+Gonzalo Tapia 1+
+7.80
+Gonzalo Tapia 2+
+19.00
+Guillermo Maripan 1+
+23.00
+Gustavo Puerta 1+
+2.65
+Gustavo Puerta 2+
+10.00
+Gustavo Puerta 3+
+21.00
+Ivan Roman 1+
+25.00
+Jaminton Campaz 1+
+2.28
+Jaminton Campaz 2+
+8.00
+Jaminton Campaz 3+
+17.00
+Jefferson Lerma 1+
+4.70
+Jefferson Lerma 2+
+12.00
+Jhon Arias 1+
+2.95
+Jhon Arias 2+
+11.00
+Jhon Arias 3+
+25.00
+Jhon Lucumi 1+
+23.00
+Jhon Solis 1+
+5.40
+Jhon Solis 2+
+15.00
+Jhon Solis 3+
+36.00
+Jonathan Villagra 1+
+29.00
+Jose Tomas Movillo 1+
+34.00
+Juan Arizala 1+
+4.00
+Juan Arizala 2+
+13.00
+Juan Cabal 1+
+19.00
+Juan Rengifo 1+
+2.55
+Juan Rengifo 2+
+9.20
+Juan Rengifo 3+
+19.00
+Kevin Andrade 1+
+21.00
+Lucas Cepeda 1+
+1.67
+Lucas Cepeda 2+
+4.40
+Lucas Cepeda 3+
+12.00
+Luis Suarez 1+
+5.40
+Luis Suarez 2+
+15.00
+Matias Orozco 1+
+4.00
+Matias Orozco 2+
+11.00
+Matias Orozco 3+
+31.00
+Maximiliano Gutierrez 1+
+2.07
+Maximiliano Gutierrez 2+
+6.80
+Maximiliano Gutierrez 3+
+14.00
+Nelson Deossa 1+
+2.40
+Nelson Deossa 2+
+7.10
+Nelson Deossa 3+
+19.00
+Nils Reichmuth 1+
+3.05
+Nils Reichmuth 2+
+11.00
+Nils Reichmuth 3+
+25.00
+Oscar Cortes 1+
+2.80
+Oscar Cortes 2+
+10.00
+Oscar Cortes 3+
+23.00
+Oscar Perea 1+
+2.55
+Oscar Perea 2+
+9.40
+Oscar Perea 3+
+21.00
+Paulo Diaz 1+
+25.00
+Rodrigo Echeverria 1+
+6.00
+Rodrigo Echeverria 2+
+15.00
+Samuel Velasquez 1+
+5.10
+Samuel Velasquez 2+
+14.00
+Samuel Velasquez 3+
+36.00
+Vicente Pizarro 1+
+3.90
+Vicente Pizarro 2+
+12.00
+Vicente Pizarro 3+
+34.00
+Victor Mendez 1+
+4.10
+Victor Mendez 2+
+12.00
+Victor Mendez 3+
+36.00
+Williams Alarcon 1+
+3.20
+Williams Alarcon 2+
+11.00
+Yaser Asprilla 1+
+3.25
+Yaser Asprilla 2+
+12.00
+Yaser Asprilla 3+
+26.00
+Oyuncu Kafayla Kaleyi Bulan Şutlar
+YENİ
+Agustin Arce 1+
+6.20
+Agustin Arce 2+
+17.00
+Ben Brereton Diaz 1+
+6.80
+Ben Brereton Diaz 2+
+19.00
+Camilo Duran 1+
+3.05
+Camilo Duran 2+
+12.00
+Camilo Duran 3+
+25.00
+Camilo Mena 1+
+11.00
+Camilo Mena 2+
+26.00
+Cesar Perez 1+
+21.00
+Clemente Montes 1+
+10.00
+Clemente Montes 2+
+25.00
+Daniel Arcila 1+
+11.00
+Daniel Arcila 2+
+26.00
+Daniel Mosquera 1+
+3.05
+Daniel Mosquera 2+
+11.00
+Daniel Mosquera 3+
+25.00
+Daniel Munoz 1+
+9.30
+Daniel Munoz 2+
+25.00
+Dario Osorio 1+
+19.00
+Davinson Sanchez 1+
+3.90
+Davinson Sanchez 2+
+13.00
+Davinson Sanchez 3+
+36.00
+Diego Ulloa 1+
+21.00
+Diego Ulloa 2+
+36.00
+Edier Ocampo 1+
+17.00
+Emiliano Ramos 1+
+14.00
+Felipe Faundez 1+
+25.00
+Felipe Loyola 1+
+11.00
+Felipe Loyola 2+
+26.00
+Gabriel Suazo 1+
+21.00
+Gonzalo Tapia 1+
+4.50
+Gonzalo Tapia 2+
+12.00
+Guillermo Maripan 1+
+6.50
+Guillermo Maripan 2+
+17.00
+Gustavo Puerta 1+
+19.00
+Gustavo Puerta 2+
+36.00
+Ivan Roman 1+
+7.60
+Jaminton Campaz 1+
+10.00
+Jaminton Campaz 2+
+25.00
+Jefferson Lerma 1+
+7.40
+Jefferson Lerma 2+
+19.00
+Jhon Arias 1+
+11.00
+Jhon Arias 2+
+26.00
+Jhon Lucumi 1+
+6.80
+Jhon Lucumi 2+
+19.00
+Jhon Solis 1+
+13.00
+Jhon Solis 2+
+34.00
+Jonathan Villagra 1+
+7.40
+Jonathan Villagra 2+
+19.00
+Jose Tomas Movillo 1+
+7.30
+Jose Tomas Movillo 2+
+19.00
+Juan Arizala 1+
+14.00
+Juan Cabal 1+
+4.90
+Juan Cabal 2+
+15.00
+Juan Rengifo 1+
+11.00
+Juan Rengifo 2+
+25.00
+Kevin Andrade 1+
+6.40
+Kevin Andrade 2+
+19.00
+Lucas Cepeda 1+
+34.00
+Luis Suarez 1+
+5.70
+Luis Suarez 2+
+17.00
+Matias Orozco 1+
+17.00
+Matias Orozco 2+
+36.00
+Maximiliano Gutierrez 1+
+11.00
+Maximiliano Gutierrez 2+
+29.00
+Nelson Deossa 1+
+10.00
+Nelson Deossa 2+
+26.00
+Nils Reichmuth 1+
+4.70
+Nils Reichmuth 2+
+12.00
+Nils Reichmuth 3+
+36.00
+Oscar Cortes 1+
+10.00
+Oscar Cortes 2+
+25.00
+Oscar Perea 1+
+9.80
+Oscar Perea 2+
+23.00
+Paulo Diaz 1+
+6.40
+Paulo Diaz 2+
+17.00
+Rodrigo Echeverria 1+
+9.10
+Rodrigo Echeverria 2+
+23.00
+Samuel Velasquez 1+
+23.00
+Vicente Pizarro 1+
+17.00
+Victor Mendez 1+
+19.00
+Victor Mendez 2+
+36.00
+Williams Alarcon 1+
+17.00
+Yaser Asprilla 1+
+15.00
+Yaser Asprilla 2+
+36.00
+Oyuncu Sağ Ayakla Kaleyi Bulan Şutlar
+YENİ
+Agustin Arce 1+
+2.60
+Agustin Arce 2+
+8.50
+Ben Brereton Diaz 1+
+2.14
+Ben Brereton Diaz 2+
+7.10
+Ben Brereton Diaz 3+
+17.00
+Camilo Duran 1+
+3.05
+Camilo Duran 2+
+12.00
+Camilo Duran 3+
+25.00
+Camilo Mena 1+
+2.55
+Camilo Mena 2+
+9.50
+Camilo Mena 3+
+21.00
+Cesar Perez 1+
+4.50
+Cesar Perez 2+
+14.00
+Cesar Perez 3+
+36.00
+Clemente Montes 1+
+2.25
+Clemente Montes 2+
+7.40
+Clemente Montes 3+
+17.00
+Clemente Montes 4+
+36.00
+Daniel Arcila 1+
+2.21
+Daniel Arcila 2+
+7.40
+Daniel Arcila 3+
+15.00
+Daniel Arcila 4+
+36.00
+Daniel Mosquera 1+
+1.96
+Daniel Mosquera 2+
+5.90
+Daniel Mosquera 3+
+15.00
+Daniel Mosquera 4+
+31.00
+Daniel Munoz 1+
+4.80
+Daniel Munoz 2+
+17.00
+Dario Osorio 1+
+11.00
+Dario Osorio 2+
+29.00
+Davinson Sanchez 1+
+14.00
+Davinson Sanchez 2+
+36.00
+Diego Ulloa 1+
+8.50
+Diego Ulloa 2+
+23.00
+Edier Ocampo 1+
+6.50
+Edier Ocampo 2+
+17.00
+Emiliano Ramos 1+
+5.10
+Emiliano Ramos 2+
+17.00
+Felipe Faundez 1+
+7.30
+Felipe Loyola 1+
+4.00
+Felipe Loyola 2+
+13.00
+Gabriel Suazo 1+
+21.00
+Gonzalo Tapia 1+
+1.95
+Gonzalo Tapia 2+
+5.90
+Gonzalo Tapia 3+
+15.00
+Gonzalo Tapia 4+
+31.00
+Guillermo Maripan 1+
+21.00
+Gustavo Puerta 1+
+2.36
+Gustavo Puerta 2+
+8.40
+Gustavo Puerta 3+
+19.00
+Gustavo Puerta 4+
+36.00
+Ivan Roman 1+
+17.00
+Jaminton Campaz 1+
+7.20
+Jaminton Campaz 2+
+21.00
+Jefferson Lerma 1+
+3.55
+Jefferson Lerma 2+
+13.00
+Jefferson Lerma 3+
+31.00
+Jhon Arias 1+
+1.94
+Jhon Arias 2+
+5.80
+Jhon Arias 3+
+15.00
+Jhon Arias 4+
+34.00
+Jhon Lucumi 1+
+31.00
+Jhon Solis 1+
+4.20
+Jhon Solis 2+
+14.00
+Jhon Solis 3+
+36.00
+Jonathan Villagra 1+
+25.00
+Jose Tomas Movillo 1+
+23.00
+Juan Arizala 1+
+5.60
+Juan Arizala 2+
+19.00
+Juan Cabal 1+
+19.00
+Juan Rengifo 1+
+3.80
+Juan Rengifo 2+
+13.00
+Juan Rengifo 3+
+36.00
+Kevin Andrade 1+
+19.00
+Lucas Cepeda 1+
+10.00
+Lucas Cepeda 2+
+25.00
+Luis Suarez 1+
+1.97
+Luis Suarez 2+
+6.00
+Luis Suarez 3+
+17.00
+Matias Orozco 1+
+4.75
+Matias Orozco 2+
+14.00
+Matias Orozco 3+
+36.00
+Maximiliano Gutierrez 1+
+1.83
+Maximiliano Gutierrez 2+
+5.20
+Maximiliano Gutierrez 3+
+15.00
+Maximiliano Gutierrez 4+
+26.00
+Nelson Deossa 1+
+6.00
+Nelson Deossa 2+
+19.00
+Nelson Deossa 3+
+36.00
+Nils Reichmuth 1+
+3.95
+Nils Reichmuth 2+
+14.00
+Nils Reichmuth 3+
+36.00
+Oscar Cortes 1+
+2.41
+Oscar Cortes 2+
+8.70
+Oscar Cortes 3+
+19.00
+Oscar Perea 1+
+2.34
+Oscar Perea 2+
+8.20
+Oscar Perea 3+
+19.00
+Paulo Diaz 1+
+19.00
+Rodrigo Echeverria 1+
+4.70
+Rodrigo Echeverria 2+
+15.00
+Samuel Velasquez 1+
+10.00
+Samuel Velasquez 2+
+25.00
+Vicente Pizarro 1+
+21.00
+Victor Mendez 1+
+4.00
+Victor Mendez 2+
+14.00
+Victor Mendez 3+
+36.00
+Williams Alarcon 1+
+4.10
+Williams Alarcon 2+
+15.00
+Yaser Asprilla 1+
+5.50
+Yaser Asprilla 2+
+15.00
+Oyuncu Sol Ayakla Kaleyi Bulan Şutlar
+YENİ
+Agustin Arce 1+
+4.80
+Agustin Arce 2+
+17.00
+Ben Brereton Diaz 1+
+7.10
+Ben Brereton Diaz 2+
+21.00
+Camilo Duran 1+
+1.89
+Camilo Duran 2+
+5.50
+Camilo Duran 3+
+15.00
+Camilo Duran 4+
+29.00
+Camilo Mena 1+
+3.25
+Camilo Mena 2+
+13.00
+Camilo Mena 3+
+26.00
+Cesar Perez 1+
+12.00
+Cesar Perez 2+
+31.00
+Clemente Montes 1+
+2.95
+Clemente Montes 2+
+11.00
+Clemente Montes 3+
+25.00
+Clemente Montes 4+
+36.00
+Daniel Arcila 1+
+3.10
+Daniel Arcila 2+
+12.00
+Daniel Arcila 3+
+25.00
+Daniel Mosquera 1+
+3.00
+Daniel Mosquera 2+
+12.00
+Daniel Mosquera 3+
+25.00
+Daniel Munoz 1+
+8.10
+Daniel Munoz 2+
+21.00
+Dario Osorio 1+
+2.00
+Dario Osorio 2+
+6.20
+Dario Osorio 3+
+17.00
+Davinson Sanchez 1+
+36.00
+Diego Ulloa 1+
+6.40
+Diego Ulloa 2+
+19.00
+Diego Ulloa 3+
+36.00
+Edier Ocampo 1+
+7.10
+Edier Ocampo 2+
+19.00
+Emiliano Ramos 1+
+3.00
+Emiliano Ramos 2+
+10.00
+Felipe Faundez 1+
+14.00
+Felipe Loyola 1+
+14.00
+Gabriel Suazo 1+
+7.90
+Gonzalo Tapia 1+
+3.50
+Gonzalo Tapia 2+
+14.00
+Gonzalo Tapia 3+
+31.00
+Guillermo Maripan 1+
+36.00
+Gustavo Puerta 1+
+15.00
+Gustavo Puerta 2+
+36.00
+Ivan Roman 1+
+36.00
+Jaminton Campaz 1+
+1.53
+Jaminton Campaz 2+
+3.50
+Jaminton Campaz 3+
+9.70
+Jaminton Campaz 4+
+19.00
+Jefferson Lerma 1+
+19.00
+Jhon Arias 1+
+4.70
+Jhon Arias 2+
+15.00
+Jhon Lucumi 1+
+19.00
+Jhon Solis 1+
+8.70
+Jhon Solis 2+
+23.00
+Jonathan Villagra 1+
+34.00
+Jose Tomas Movillo 1+
+31.00
+Juan Arizala 1+
+5.20
+Juan Arizala 2+
+17.00
+Juan Cabal 1+
+11.00
+Juan Rengifo 1+
+2.43
+Juan Rengifo 2+
+8.80
+Juan Rengifo 3+
+19.00
+Kevin Andrade 1+
+29.00
+Lucas Cepeda 1+
+1.56
+Lucas Cepeda 2+
+3.65
+Lucas Cepeda 3+
+10.00
+Lucas Cepeda 4+
+19.00
+Luis Suarez 1+
+3.30
+Luis Suarez 2+
+13.00
+Luis Suarez 3+
+26.00
+Matias Orozco 1+
+9.40
+Matias Orozco 2+
+23.00
+Maximiliano Gutierrez 1+
+8.00
+Maximiliano Gutierrez 2+
+23.00
+Nelson Deossa 1+
+3.20
+Nelson Deossa 2+
+11.00
+Nils Reichmuth 1+
+2.05
+Nils Reichmuth 2+
+6.30
+Nils Reichmuth 3+
+15.00
+Nils Reichmuth 4+
+34.00
+Oscar Cortes 1+
+3.05
+Oscar Cortes 2+
+12.00
+Oscar Cortes 3+
+25.00
+Oscar Perea 1+
+2.95
+Oscar Perea 2+
+11.00
+Oscar Perea 3+
+25.00
+Paulo Diaz 1+
+36.00
+Rodrigo Echeverria 1+
+29.00
+Samuel Velasquez 1+
+5.50
+Samuel Velasquez 2+
+15.00
+Samuel Velasquez 3+
+36.00
+Vicente Pizarro 1+
+3.50
+Vicente Pizarro 2+
+13.00
+Vicente Pizarro 3+
+31.00
+Victor Mendez 1+
+8.60
+Victor Mendez 2+
+23.00
+Williams Alarcon 1+
+8.70
+Williams Alarcon 2+
+25.00
+Yaser Asprilla 1+
+1.81
+Yaser Asprilla 2+
+5.10
+Yaser Asprilla 3+
+14.00
+Yaser Asprilla 4+
+29.00
+Oyuncu Direkten Dönen Şutlar
+YENİ
+Ben Brereton Diaz 1+
+5.10
+Camilo Duran 1+
+5.40
+Maximiliano Gutierrez 1+
+5.80
+Dario Osorio 1+
+7.70
+Jhon Lucumi 1+
+8.00
+Jaminton Campaz 1+
+8.50
+Daniel Mosquera 1+
+9.40
+Camilo Mena 1+
+9.50
+Paulo Diaz 1+
+10.00
+Daniel Munoz 1+
+10.00
+Lucas Cepeda 1+
+11.00
+Luis Suarez 1+
+11.00
+Oscar Perea 1+
+11.00
+Yaser Asprilla 1+
+11.00
+Gonzalo Tapia 1+
+11.00
+Matias Orozco 1+
+12.00
+Daniel Arcila 1+
+12.00
+Oscar Cortes 1+
+13.00
+Jhon Arias 1+
+13.00
+Nils Reichmuth 1+
+14.00
+Clemente Montes 1+
+14.00
+Juan Rengifo 1+
+15.00
+Rodrigo Echeverria 1+
+17.00
+Emiliano Ramos 1+
+17.00
+Agustin Arce 1+
+17.00
+Nelson Deossa 1+
+19.00
+Gustavo Puerta 1+
+19.00
+Edier Ocampo 1+
+21.00
+Juan Cabal 1+
+25.00
+Williams Alarcon 1+
+25.00
+Juan Arizala 1+
+26.00
+Felipe Faundez 1+
+26.00
+Jefferson Lerma 1+
+26.00
+Jhon Solis 1+
+29.00
+Felipe Loyola 1+
+29.00
+Gabriel Suazo 1+
+29.00
+Cesar Perez 1+
+29.00
+Guillermo Maripan 1+
+31.00
+Vicente Pizarro 1+
+31.00
+Davinson Sanchez 1+
+31.00
+Ivan Roman 1+
+34.00
+Victor Mendez 1+
+36.00
+Diego Ulloa 1+
+36.00
+Samuel Velasquez 1+
+41.00
+Kevin Andrade 1+
+41.00
+Jose Tomas Movillo 1+
+41.00
+Jonathan Villagra 1+
+46.00
