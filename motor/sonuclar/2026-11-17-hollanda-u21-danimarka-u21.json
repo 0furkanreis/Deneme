@@ -1,0 +1,37 @@
+{
+ "skor": "2-3",
+ "kaynak": "FotMob maç 6416835",
+ "goller": [
+  {
+   "dk": 6,
+   "takim": "dep",
+   "oyuncu": "Clement Bischoff"
+  },
+  {
+   "dk": 32,
+   "takim": "dep",
+   "oyuncu": "Oliver Ross"
+  },
+  {
+   "dk": 35,
+   "takim": "ev",
+   "oyuncu": "Thom van Bergen"
+  },
+  {
+   "dk": 52,
+   "takim": "dep",
+   "oyuncu": "William Clem"
+  },
+  {
+   "dk": 71,
+   "takim": "ev",
+   "oyuncu": "Devin Haen"
+  }
+ ],
+ "kartlar": [],
+ "kornerler": {
+  "ev": 0,
+  "dep": 0
+ },
+ "istatistik": {}
+}

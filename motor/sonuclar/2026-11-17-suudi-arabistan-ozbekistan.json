@@ -1,0 +1,51 @@
+{
+ "skor": "1-2",
+ "kaynak": "FotMob maç 6539358",
+ "goller": [
+  {
+   "dk": 19,
+   "takim": "dep",
+   "oyuncu": "Sherzod Esanov"
+  },
+  {
+   "dk": 23,
+   "takim": "ev",
+   "oyuncu": "Firas Al-Buraikan"
+  },
+  {
+   "dk": 35,
+   "takim": "dep",
+   "oyuncu": "Sherzod Esanov"
+  }
+ ],
+ "kartlar": [
+  {
+   "dk": 51,
+   "takim": "ev",
+   "tur": "kirmizi",
+   "oyuncu": "Ali Lajami"
+  }
+ ],
+ "kornerler": {
+  "ev": 3,
+  "dep": 0
+ },
+ "istatistik": {
+  "Shots on target": [
+   4,
+   5
+  ],
+  "Yellow cards": [
+   1,
+   3
+  ],
+  "Corners": [
+   3,
+   0
+  ],
+  "Red cards": [
+   1,
+   0
+  ]
+ }
+}

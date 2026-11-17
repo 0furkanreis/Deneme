@@ -1,0 +1,11320 @@
+{
+ "mac": "2026-11-17-suudi-arabistan-ozbekistan",
+ "skor": "1-2",
+ "pazarlar": [
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu",
+   "oneri": "1 (Suudi Arabistan)",
+   "olasilik": 0.4491,
+   "adil_oran": 2.23,
+   "en_olasi": "1 (Suudi Arabistan)",
+   "en_olasi_p": 0.4491,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Suudi Arabistan)",
+     0.4491
+    ],
+    [
+     "X",
+     0.2684
+    ],
+    [
+     "2 (Özbekistan)",
+     0.2825
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.7316,
+   "adil_oran": 1.37,
+   "en_olasi": "12",
+   "en_olasi_p": 0.7316,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.7175
+    ],
+    [
+     "12",
+     0.7316
+    ],
+    [
+     "X2",
+     0.5509
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Beraberlikte İade",
+   "oneri": "Suudi Arabistan",
+   "olasilik": 0.6139,
+   "adil_oran": 1.63,
+   "en_olasi": "Suudi Arabistan",
+   "en_olasi_p": 0.6139,
+   "guven": "yüksek",
+   "not_": "Beraberlikte iade; olasılık iade hariç",
+   "secimler": [
+    [
+     "Suudi Arabistan",
+     0.6139
+    ],
+    [
+     "Özbekistan",
+     0.3861
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Suudi Arabistan : Bahis Yok",
+   "oneri": "Özbekistan",
+   "olasilik": 0.5128,
+   "adil_oran": 1.95,
+   "en_olasi": "Özbekistan",
+   "en_olasi_p": 0.5128,
+   "guven": "yüksek",
+   "not_": "Suudi Arabistan kazanırsa iade",
+   "secimler": [
+    [
+     "X",
+     0.4872
+    ],
+    [
+     "Özbekistan",
+     0.5128
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Özbekistan : Bahis Yok",
+   "oneri": "Suudi Arabistan",
+   "olasilik": 0.6259,
+   "adil_oran": 1.6,
+   "en_olasi": "Suudi Arabistan",
+   "en_olasi_p": 0.6259,
+   "guven": "yüksek",
+   "not_": "Özbekistan kazanırsa iade",
+   "secimler": [
+    [
+     "Suudi Arabistan",
+     0.6259
+    ],
+    [
+     "X",
+     0.3741
+    ]
+   ],
+   "sonuc": "iade"
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Suudi Arabistan : Geriden Gelerek Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9409,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9409,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0591
+    ],
+    [
+     "Hayır",
+     0.9409
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Özbekistan : Geriden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9604,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9604,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0396
+    ],
+    [
+     "Hayır",
+     0.9604
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Suudi Arabistan : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.5509,
+   "adil_oran": 1.82,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.5509,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.2334
+    ],
+    [
+     "2 fark",
+     0.1344
+    ],
+    [
+     "3 fark",
+     0.0568
+    ],
+    [
+     "4+ fark",
+     0.0245
+    ],
+    [
+     "Kazanamaz",
+     0.5509
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Özbekistan : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.7175,
+   "adil_oran": 1.39,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.7175,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.1757
+    ],
+    [
+     "2 fark",
+     0.0761
+    ],
+    [
+     "3 fark",
+     0.0234
+    ],
+    [
+     "4+ fark",
+     0.0073
+    ],
+    [
+     "Kazanamaz",
+     0.7175
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller",
+   "oneri": "Toplam 3,5 Alt",
+   "olasilik": 0.7668,
+   "adil_oran": 1.3,
+   "en_olasi": "Toplam 5,5 Alt",
+   "en_olasi_p": 0.9603,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.9143
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.0857
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.7034
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.2966
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.4449
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.5552
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.2332
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.7668
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.1031
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.8969
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.0397
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.9603
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Suudi Arabistan : Toplam Gol",
+   "oneri": "Suudi Arabistan 2,5 Alt",
+   "olasilik": 0.8316,
+   "adil_oran": 1.2,
+   "en_olasi": "Suudi Arabistan 3,5 Alt",
+   "en_olasi_p": 0.9464,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan 0,5 Üst",
+     0.7534
+    ],
+    [
+     "Suudi Arabistan 0,5 Alt",
+     0.2466
+    ],
+    [
+     "Suudi Arabistan 1,5 Üst",
+     0.4096
+    ],
+    [
+     "Suudi Arabistan 1,5 Alt",
+     0.5904
+    ],
+    [
+     "Suudi Arabistan 2,5 Üst",
+     0.1684
+    ],
+    [
+     "Suudi Arabistan 2,5 Alt",
+     0.8316
+    ],
+    [
+     "Suudi Arabistan 3,5 Üst",
+     0.0536
+    ],
+    [
+     "Suudi Arabistan 3,5 Alt",
+     0.9464
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Özbekistan : Toplam Gol",
+   "oneri": "Özbekistan 1,5 Alt",
+   "olasilik": 0.7178,
+   "adil_oran": 1.39,
+   "en_olasi": "Özbekistan 3,5 Alt",
+   "en_olasi_p": 0.9776,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Özbekistan 0,5 Üst",
+     0.6525
+    ],
+    [
+     "Özbekistan 0,5 Alt",
+     0.3475
+    ],
+    [
+     "Özbekistan 1,5 Üst",
+     0.2822
+    ],
+    [
+     "Özbekistan 1,5 Alt",
+     0.7178
+    ],
+    [
+     "Özbekistan 2,5 Üst",
+     0.0908
+    ],
+    [
+     "Özbekistan 2,5 Alt",
+     0.9092
+    ],
+    [
+     "Özbekistan 3,5 Üst",
+     0.0224
+    ],
+    [
+     "Özbekistan 3,5 Alt",
+     0.9776
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller Asya",
+   "oneri": "Toplam Asya 3,25 Alt",
+   "olasilik": 0.7392,
+   "adil_oran": 1.35,
+   "en_olasi": "Toplam Asya 3,25 Alt",
+   "en_olasi_p": 0.7392,
+   "guven": "yüksek",
+   "not_": "Asya çizgisi: değer = 1/adil oran",
+   "secimler": [
+    [
+     "Toplam Asya 1,75 Üst",
+     0.6594
+    ],
+    [
+     "Toplam Asya 1,75 Alt",
+     0.3406
+    ],
+    [
+     "Toplam Asya 2 Üst",
+     0.6
+    ],
+    [
+     "Toplam Asya 2 Alt",
+     0.4
+    ],
+    [
+     "Toplam Asya 2,25 Üst",
+     0.5109
+    ],
+    [
+     "Toplam Asya 2,25 Alt",
+     0.4891
+    ],
+    [
+     "Toplam Asya 2,5 Üst",
+     0.4448
+    ],
+    [
+     "Toplam Asya 2,5 Alt",
+     0.5552
+    ],
+    [
+     "Toplam Asya 2,75 Üst",
+     0.3792
+    ],
+    [
+     "Toplam Asya 2,75 Alt",
+     0.6208
+    ],
+    [
+     "Toplam Asya 3 Üst",
+     0.2958
+    ],
+    [
+     "Toplam Asya 3 Alt",
+     0.7042
+    ],
+    [
+     "Toplam Asya 3,25 Üst",
+     0.2608
+    ],
+    [
+     "Toplam Asya 3,25 Alt",
+     0.7392
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Suudi Arabistan : Toplam Gol Asya",
+   "oneri": "Suudi Arabistan Asya 2,25 Alt",
+   "olasilik": 0.8085,
+   "adil_oran": 1.24,
+   "en_olasi": "Suudi Arabistan Asya 2,25 Alt",
+   "en_olasi_p": 0.8085,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan Asya 0,75 Üst",
+     0.7022
+    ],
+    [
+     "Suudi Arabistan Asya 0,75 Alt",
+     0.2978
+    ],
+    [
+     "Suudi Arabistan Asya 1 Üst",
+     0.6242
+    ],
+    [
+     "Suudi Arabistan Asya 1 Alt",
+     0.3758
+    ],
+    [
+     "Suudi Arabistan Asya 1,25 Üst",
+     0.4946
+    ],
+    [
+     "Suudi Arabistan Asya 1,25 Alt",
+     0.5054
+    ],
+    [
+     "Suudi Arabistan Asya 1,5 Üst",
+     0.4096
+    ],
+    [
+     "Suudi Arabistan Asya 1,5 Alt",
+     0.5904
+    ],
+    [
+     "Suudi Arabistan Asya 1,75 Üst",
+     0.3286
+    ],
+    [
+     "Suudi Arabistan Asya 1,75 Alt",
+     0.6714
+    ],
+    [
+     "Suudi Arabistan Asya 2 Üst",
+     0.2219
+    ],
+    [
+     "Suudi Arabistan Asya 2 Alt",
+     0.7781
+    ],
+    [
+     "Suudi Arabistan Asya 2,25 Üst",
+     0.1915
+    ],
+    [
+     "Suudi Arabistan Asya 2,25 Alt",
+     0.8085
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Özbekistan : Toplam Gol Asya",
+   "oneri": "Özbekistan Asya 0,25 Üst",
+   "olasilik": 0.7897,
+   "adil_oran": 1.27,
+   "en_olasi": "Özbekistan Asya 0,25 Üst",
+   "en_olasi_p": 0.7897,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Özbekistan Asya 0,25 Üst",
+     0.7897
+    ],
+    [
+     "Özbekistan Asya 0,25 Alt",
+     0.2103
+    ],
+    [
+     "Özbekistan Asya 0,5 Üst",
+     0.6525
+    ],
+    [
+     "Özbekistan Asya 0,5 Alt",
+     0.3475
+    ],
+    [
+     "Özbekistan Asya 0,75 Üst",
+     0.5735
+    ],
+    [
+     "Özbekistan Asya 0,75 Alt",
+     0.4265
+    ],
+    [
+     "Özbekistan Asya 1 Üst",
+     0.4482
+    ],
+    [
+     "Özbekistan Asya 1 Alt",
+     0.5518
+    ],
+    [
+     "Özbekistan Asya 1,25 Üst",
+     0.3463
+    ],
+    [
+     "Özbekistan Asya 1,25 Alt",
+     0.6537
+    ],
+    [
+     "Özbekistan Asya 1,5 Üst",
+     0.2822
+    ],
+    [
+     "Özbekistan Asya 1,5 Alt",
+     0.7178
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (3-İhtimalli)",
+   "oneri": "4 Alt",
+   "olasilik": 0.7668,
+   "adil_oran": 1.3,
+   "en_olasi": "4 Alt",
+   "en_olasi_p": 0.7668,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.0857
+    ],
+    [
+     "Tam 1",
+     0.2108
+    ],
+    [
+     "1 Üst",
+     0.7034
+    ],
+    [
+     "2 Alt",
+     0.2966
+    ],
+    [
+     "Tam 2",
+     0.2586
+    ],
+    [
+     "2 Üst",
+     0.4449
+    ],
+    [
+     "3 Alt",
+     0.5552
+    ],
+    [
+     "Tam 3",
+     0.2116
+    ],
+    [
+     "3 Üst",
+     0.2332
+    ],
+    [
+     "4 Alt",
+     0.7668
+    ],
+    [
+     "Tam 4",
+     0.1302
+    ],
+    [
+     "4 Üst",
+     0.1031
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol Tek/Çift",
+   "oneri": "Çift",
+   "olasilik": 0.5044,
+   "adil_oran": 1.98,
+   "en_olasi": "Çift",
+   "en_olasi_p": 0.5044,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.4956
+    ],
+    [
+     "Çift",
+     0.5044
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Kesin)",
+   "oneri": "2 gol",
+   "olasilik": 0.2586,
+   "adil_oran": 3.87,
+   "en_olasi": "2 gol",
+   "en_olasi_p": 0.2586,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0857
+    ],
+    [
+     "1 gol",
+     0.2108
+    ],
+    [
+     "2 gol",
+     0.2586
+    ],
+    [
+     "3 gol",
+     0.2116
+    ],
+    [
+     "4 gol",
+     0.1302
+    ],
+    [
+     "5 gol",
+     0.0634
+    ],
+    [
+     "6+ gol",
+     0.0397
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Suudi Arabistan : Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3438,
+   "adil_oran": 2.91,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3438,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2466
+    ],
+    [
+     "1 gol",
+     0.3438
+    ],
+    [
+     "2 gol",
+     0.2412
+    ],
+    [
+     "3 gol",
+     0.1148
+    ],
+    [
+     "4+ gol",
+     0.0536
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Özbekistan : Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3703,
+   "adil_oran": 2.7,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3703,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3475
+    ],
+    [
+     "1 gol",
+     0.3703
+    ],
+    [
+     "2 gol",
+     0.1915
+    ],
+    [
+     "3 gol",
+     0.0684
+    ],
+    [
+     "4+ gol",
+     0.0224
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Aralık)",
+   "oneri": "2-3 gol",
+   "olasilik": 0.4702,
+   "adil_oran": 2.13,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.4702,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.2966
+    ],
+    [
+     "2-3 gol",
+     0.4702
+    ],
+    [
+     "4-5 gol",
+     0.1936
+    ],
+    [
+     "6+ gol",
+     0.0397
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Suudi Arabistan : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5851,
+   "adil_oran": 1.71,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5851,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2466
+    ],
+    [
+     "1-2 gol",
+     0.5851
+    ],
+    [
+     "3+ gol",
+     0.1684
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Özbekistan : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5617,
+   "adil_oran": 1.78,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5617,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3475
+    ],
+    [
+     "1-2 gol",
+     0.5617
+    ],
+    [
+     "3+ gol",
+     0.0908
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Genişletilmiş Gol Aralığı)",
+   "oneri": "1-3 gol",
+   "olasilik": 0.681,
+   "adil_oran": 1.47,
+   "en_olasi": "1-3 gol",
+   "en_olasi_p": 0.681,
+   "guven": "yüksek",
+   "not_": "Sitedeki aralıklar farklı olabilir",
+   "secimler": [
+    [
+     "0 gol",
+     0.0857
+    ],
+    [
+     "1-2 gol",
+     0.4694
+    ],
+    [
+     "1-3 gol",
+     0.681
+    ],
+    [
+     "2-3 gol",
+     0.4702
+    ],
+    [
+     "2-4 gol",
+     0.6004
+    ],
+    [
+     "3-4 gol",
+     0.3418
+    ],
+    [
+     "3-5 gol",
+     0.4052
+    ],
+    [
+     "4-6 gol",
+     0.2205
+    ],
+    [
+     "5+ gol",
+     0.1031
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Suudi Arabistan : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.5904,
+   "adil_oran": 1.69,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.5904,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.5904
+    ],
+    [
+     "1-2 gol",
+     0.5851
+    ],
+    [
+     "2-3 gol",
+     0.356
+    ],
+    [
+     "3+ gol",
+     0.1684
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Özbekistan : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7178,
+   "adil_oran": 1.39,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7178,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.7178
+    ],
+    [
+     "1-2 gol",
+     0.5617
+    ],
+    [
+     "2-3 gol",
+     0.2598
+    ],
+    [
+     "3+ gol",
+     0.0908
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Kesin Gol Sayısı",
+   "oneri": "2 gol",
+   "olasilik": 0.2586,
+   "adil_oran": 3.87,
+   "en_olasi": "2 gol",
+   "en_olasi_p": 0.2586,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0857
+    ],
+    [
+     "1 gol",
+     0.2108
+    ],
+    [
+     "2 gol",
+     0.2586
+    ],
+    [
+     "3 gol",
+     0.2116
+    ],
+    [
+     "4 gol",
+     0.1302
+    ],
+    [
+     "5 gol",
+     0.0634
+    ],
+    [
+     "6 gol",
+     0.0269
+    ],
+    [
+     "7+ gol",
+     0.0128
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 1 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7892,
+   "adil_oran": 1.27,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7892,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2108
+    ],
+    [
+     "Hayır",
+     0.7892
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 2 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7414,
+   "adil_oran": 1.35,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7414,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2586
+    ],
+    [
+     "Hayır",
+     0.7414
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 3 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7884,
+   "adil_oran": 1.27,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7884,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2116
+    ],
+    [
+     "Hayır",
+     0.7884
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 4 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8698,
+   "adil_oran": 1.15,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8698,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1302
+    ],
+    [
+     "Hayır",
+     0.8698
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "En Az Bir Takım Üst Gol Atar",
+   "oneri": "En az bir takım 1,5 Üst",
+   "olasilik": 0.5757,
+   "adil_oran": 1.74,
+   "en_olasi": "En az bir takım 0,5 Üst",
+   "en_olasi_p": 0.9143,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "En az bir takım 0,5 Üst",
+     0.9143
+    ],
+    [
+     "En az bir takım 1,5 Üst",
+     0.5757
+    ],
+    [
+     "En az bir takım 2,5 Üst",
+     0.2439
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Suudi Arabistan : Asist Yapar. Toplam",
+   "oneri": "Suudi Arabistan asist 1,5 Alt",
+   "olasilik": 0.77,
+   "adil_oran": 1.3,
+   "en_olasi": "Suudi Arabistan asist 2,5 Alt",
+   "en_olasi_p": 0.9364,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan asist 0,5 Üst",
+     0.5959
+    ],
+    [
+     "Suudi Arabistan asist 0,5 Alt",
+     0.4041
+    ],
+    [
+     "Suudi Arabistan asist 1,5 Üst",
+     0.23
+    ],
+    [
+     "Suudi Arabistan asist 1,5 Alt",
+     0.77
+    ],
+    [
+     "Suudi Arabistan asist 2,5 Üst",
+     0.0636
+    ],
+    [
+     "Suudi Arabistan asist 2,5 Alt",
+     0.9364
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Özbekistan : Asist Yapar. Toplam",
+   "oneri": "Özbekistan asist 0,5 Alt",
+   "olasilik": 0.5122,
+   "adil_oran": 1.95,
+   "en_olasi": "Özbekistan asist 1,5 Alt",
+   "en_olasi_p": 0.8552,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Özbekistan asist 0,5 Üst",
+     0.4878
+    ],
+    [
+     "Özbekistan asist 0,5 Alt",
+     0.5122
+    ],
+    [
+     "Özbekistan asist 1,5 Üst",
+     0.1448
+    ],
+    [
+     "Özbekistan asist 1,5 Alt",
+     0.8552
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takımda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.5084,
+   "adil_oran": 1.97,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5084,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4916
+    ],
+    [
+     "Hayır",
+     0.5084
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8839,
+   "adil_oran": 1.13,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8839,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1161
+    ],
+    [
+     "Hayır",
+     0.8839
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Suudi Arabistan : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.7534,
+   "adil_oran": 1.33,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7534,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7534
+    ],
+    [
+     "Hayır",
+     0.2466
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Özbekistan : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.6525,
+   "adil_oran": 1.53,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6525,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6525
+    ],
+    [
+     "Hayır",
+     0.3475
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Karşılıklı Gol ve Toplam Goller 2.5",
+   "oneri": "KG Yok & Alt",
+   "olasilik": 0.4274,
+   "adil_oran": 2.34,
+   "en_olasi": "KG Yok & Alt",
+   "en_olasi_p": 0.4274,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "KG Var & Üst",
+     0.3639
+    ],
+    [
+     "KG Var & Alt",
+     0.1277
+    ],
+    [
+     "KG Yok & Üst",
+     0.0809
+    ],
+    [
+     "KG Yok & Alt",
+     0.4274
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Yarıda da Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.9588,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9588,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0412
+    ],
+    [
+     "Hayır",
+     0.9588
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı",
+   "oneri": "Özbekistan +1,5",
+   "olasilik": 0.7843,
+   "adil_oran": 1.28,
+   "en_olasi": "Suudi Arabistan +2,5",
+   "en_olasi_p": 0.9694,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan -2,5",
+     0.0813
+    ],
+    [
+     "Özbekistan +2,5",
+     0.9187
+    ],
+    [
+     "Suudi Arabistan -1,5",
+     0.2157
+    ],
+    [
+     "Özbekistan +1,5",
+     0.7843
+    ],
+    [
+     "Suudi Arabistan -0,5",
+     0.4491
+    ],
+    [
+     "Özbekistan +0,5",
+     0.5509
+    ],
+    [
+     "Suudi Arabistan +0,5",
+     0.7175
+    ],
+    [
+     "Özbekistan -0,5",
+     0.2825
+    ],
+    [
+     "Suudi Arabistan +1,5",
+     0.8932
+    ],
+    [
+     "Özbekistan -1,5",
+     0.1068
+    ],
+    [
+     "Suudi Arabistan +2,5",
+     0.9694
+    ],
+    [
+     "Özbekistan -2,5",
+     0.0306
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Goller Asya Handikapı",
+   "oneri": "Suudi Arabistan Asya +0,75",
+   "olasilik": 0.7866,
+   "adil_oran": 1.27,
+   "en_olasi": "Suudi Arabistan Asya +1,5",
+   "en_olasi_p": 0.8932,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan Asya -2",
+     0.0939
+    ],
+    [
+     "Özbekistan Asya -2",
+     0.0332
+    ],
+    [
+     "Suudi Arabistan Asya -1,75",
+     0.1592
+    ],
+    [
+     "Özbekistan Asya -1,75",
+     0.0714
+    ],
+    [
+     "Suudi Arabistan Asya -1,5",
+     0.2157
+    ],
+    [
+     "Özbekistan Asya -1,5",
+     0.1068
+    ],
+    [
+     "Suudi Arabistan Asya -1,25",
+     0.2442
+    ],
+    [
+     "Özbekistan Asya -1,25",
+     0.1171
+    ],
+    [
+     "Suudi Arabistan Asya -1",
+     0.2814
+    ],
+    [
+     "Özbekistan Asya -1",
+     0.1295
+    ],
+    [
+     "Suudi Arabistan Asya -0,75",
+     0.3763
+    ],
+    [
+     "Özbekistan Asya -0,75",
+     0.2134
+    ],
+    [
+     "Suudi Arabistan Asya -0,5",
+     0.4491
+    ],
+    [
+     "Özbekistan Asya -0,5",
+     0.2825
+    ],
+    [
+     "Suudi Arabistan Asya -0,25",
+     0.5187
+    ],
+    [
+     "Özbekistan Asya -0,25",
+     0.3263
+    ],
+    [
+     "Suudi Arabistan Asya 0",
+     0.6139
+    ],
+    [
+     "Özbekistan Asya 0",
+     0.3861
+    ],
+    [
+     "Suudi Arabistan Asya +0,25",
+     0.6737
+    ],
+    [
+     "Özbekistan Asya +0,25",
+     0.4813
+    ],
+    [
+     "Suudi Arabistan Asya +0,5",
+     0.7175
+    ],
+    [
+     "Özbekistan Asya +0,5",
+     0.5509
+    ],
+    [
+     "Suudi Arabistan Asya +0,75",
+     0.7866
+    ],
+    [
+     "Özbekistan Asya +0,75",
+     0.6237
+    ],
+    [
+     "Suudi Arabistan Asya +1",
+     0.8705
+    ],
+    [
+     "Özbekistan Asya +1",
+     0.7186
+    ],
+    [
+     "Suudi Arabistan Asya +1,25",
+     0.8829
+    ],
+    [
+     "Özbekistan Asya +1,25",
+     0.7558
+    ],
+    [
+     "Suudi Arabistan Asya +1,5",
+     0.8932
+    ],
+    [
+     "Özbekistan Asya +1,5",
+     0.7843
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı (3-İhtimalli)",
+   "oneri": "Özbekistan (-2)",
+   "olasilik": 0.7843,
+   "adil_oran": 1.28,
+   "en_olasi": "Suudi Arabistan (+3)",
+   "en_olasi_p": 0.9694,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan (-3)",
+     0.0245
+    ],
+    [
+     "X (-3)",
+     0.0568
+    ],
+    [
+     "Özbekistan (-3)",
+     0.9187
+    ],
+    [
+     "Suudi Arabistan (-2)",
+     0.0813
+    ],
+    [
+     "X (-2)",
+     0.1344
+    ],
+    [
+     "Özbekistan (-2)",
+     0.7843
+    ],
+    [
+     "Suudi Arabistan (-1)",
+     0.2157
+    ],
+    [
+     "X (-1)",
+     0.2334
+    ],
+    [
+     "Özbekistan (-1)",
+     0.5509
+    ],
+    [
+     "Suudi Arabistan (+1)",
+     0.7175
+    ],
+    [
+     "X (+1)",
+     0.1757
+    ],
+    [
+     "Özbekistan (+1)",
+     0.1068
+    ],
+    [
+     "Suudi Arabistan (+2)",
+     0.8932
+    ],
+    [
+     "X (+2)",
+     0.0761
+    ],
+    [
+     "Özbekistan (+2)",
+     0.0306
+    ],
+    [
+     "Suudi Arabistan (+3)",
+     0.9694
+    ],
+    [
+     "X (+3)",
+     0.0234
+    ],
+    [
+     "Özbekistan (+3)",
+     0.0073
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Suudi Arabistan Gol Atar ve Maç Sonucu",
+   "oneri": "1 & Suudi Arabistan gol atar",
+   "olasilik": 0.4491,
+   "adil_oran": 2.23,
+   "en_olasi": "1 & Suudi Arabistan gol atar",
+   "en_olasi_p": 0.4491,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Suudi Arabistan gol atar",
+     0.4491
+    ],
+    [
+     "1 & Suudi Arabistan gol atamaz",
+     0.0
+    ],
+    [
+     "X & Suudi Arabistan gol atar",
+     0.1827
+    ],
+    [
+     "X & Suudi Arabistan gol atamaz",
+     0.0857
+    ],
+    [
+     "2 & Suudi Arabistan gol atar",
+     0.1216
+    ],
+    [
+     "2 & Suudi Arabistan gol atamaz",
+     0.1608
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Özbekistan Gol Atar ve Maç Sonucu",
+   "oneri": "2 & Özbekistan gol atar",
+   "olasilik": 0.2825,
+   "adil_oran": 3.54,
+   "en_olasi": "2 & Özbekistan gol atar",
+   "en_olasi_p": 0.2825,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Özbekistan gol atar",
+     0.1873
+    ],
+    [
+     "1 & Özbekistan gol atamaz",
+     0.2618
+    ],
+    [
+     "X & Özbekistan gol atar",
+     0.1827
+    ],
+    [
+     "X & Özbekistan gol atamaz",
+     0.0857
+    ],
+    [
+     "2 & Özbekistan gol atar",
+     0.2825
+    ],
+    [
+     "2 & Özbekistan gol atamaz",
+     0.0
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Karşılıklı Gol",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.2618,
+   "adil_oran": 3.82,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.2618,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.1873
+    ],
+    [
+     "1 & KG Yok",
+     0.2618
+    ],
+    [
+     "X & KG Var",
+     0.1827
+    ],
+    [
+     "X & KG Yok",
+     0.0857
+    ],
+    [
+     "2 & KG Var",
+     0.1216
+    ],
+    [
+     "2 & KG Yok",
+     0.1608
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Karşılıklı Gol",
+   "oneri": "12 & KG Yok",
+   "olasilik": 0.4226,
+   "adil_oran": 2.37,
+   "en_olasi": "12 & KG Yok",
+   "en_olasi_p": 0.4226,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & KG Var",
+     0.37
+    ],
+    [
+     "1X & KG Yok",
+     0.3475
+    ],
+    [
+     "12 & KG Var",
+     0.3089
+    ],
+    [
+     "12 & KG Yok",
+     0.4226
+    ],
+    [
+     "X2 & KG Var",
+     0.3043
+    ],
+    [
+     "X2 & KG Yok",
+     0.2466
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 1.5",
+   "oneri": "1 & 1,5 Üst",
+   "olasilik": 0.3296,
+   "adil_oran": 3.03,
+   "en_olasi": "1 & 1,5 Üst",
+   "en_olasi_p": 0.3296,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1,5 Üst",
+     0.3296
+    ],
+    [
+     "1 & 1,5 Alt",
+     0.1195
+    ],
+    [
+     "X & 1,5 Üst",
+     0.1827
+    ],
+    [
+     "X & 1,5 Alt",
+     0.0857
+    ],
+    [
+     "2 & 1,5 Üst",
+     0.1911
+    ],
+    [
+     "2 & 1,5 Alt",
+     0.0914
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 2.5",
+   "oneri": "1 & 2,5 Üst",
+   "olasilik": 0.2462,
+   "adil_oran": 4.06,
+   "en_olasi": "1 & 2,5 Üst",
+   "en_olasi_p": 0.2462,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 2,5 Üst",
+     0.2462
+    ],
+    [
+     "1 & 2,5 Alt",
+     0.2029
+    ],
+    [
+     "X & 2,5 Üst",
+     0.055
+    ],
+    [
+     "X & 2,5 Alt",
+     0.2135
+    ],
+    [
+     "2 & 2,5 Üst",
+     0.1436
+    ],
+    [
+     "2 & 2,5 Alt",
+     0.1388
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 3.5",
+   "oneri": "1 & 3,5 Alt",
+   "olasilik": 0.3325,
+   "adil_oran": 3.01,
+   "en_olasi": "1 & 3,5 Alt",
+   "en_olasi_p": 0.3325,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 3,5 Üst",
+     0.1166
+    ],
+    [
+     "1 & 3,5 Alt",
+     0.3325
+    ],
+    [
+     "X & 3,5 Üst",
+     0.055
+    ],
+    [
+     "X & 3,5 Alt",
+     0.2135
+    ],
+    [
+     "2 & 3,5 Üst",
+     0.0617
+    ],
+    [
+     "2 & 3,5 Alt",
+     0.2208
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 4.5",
+   "oneri": "1 & 4,5 Alt",
+   "olasilik": 0.3884,
+   "adil_oran": 2.57,
+   "en_olasi": "1 & 4,5 Alt",
+   "en_olasi_p": 0.3884,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 4,5 Üst",
+     0.0607
+    ],
+    [
+     "1 & 4,5 Alt",
+     0.3884
+    ],
+    [
+     "X & 4,5 Üst",
+     0.0089
+    ],
+    [
+     "X & 4,5 Alt",
+     0.2595
+    ],
+    [
+     "2 & 4,5 Üst",
+     0.0335
+    ],
+    [
+     "2 & 4,5 Alt",
+     0.249
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Suudi Arabistan : Toplam Gol",
+   "oneri": "1 & Suudi Arabistan 1,5 Üst",
+   "olasilik": 0.3296,
+   "adil_oran": 3.03,
+   "en_olasi": "1 & Suudi Arabistan 1,5 Üst",
+   "en_olasi_p": 0.3296,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Suudi Arabistan 1,5 Üst",
+     0.3296
+    ],
+    [
+     "1 & Suudi Arabistan 1,5 Alt",
+     0.1195
+    ],
+    [
+     "X & Suudi Arabistan 1,5 Üst",
+     0.055
+    ],
+    [
+     "X & Suudi Arabistan 1,5 Alt",
+     0.2135
+    ],
+    [
+     "2 & Suudi Arabistan 1,5 Üst",
+     0.025
+    ],
+    [
+     "2 & Suudi Arabistan 1,5 Alt",
+     0.2575
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Özbekistan : Toplam Gol",
+   "oneri": "2 & Özbekistan 0,5 Üst",
+   "olasilik": 0.2825,
+   "adil_oran": 3.54,
+   "en_olasi": "2 & Özbekistan 0,5 Üst",
+   "en_olasi_p": 0.2825,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Özbekistan 0,5 Üst",
+     0.1873
+    ],
+    [
+     "1 & Özbekistan 0,5 Alt",
+     0.2618
+    ],
+    [
+     "X & Özbekistan 0,5 Üst",
+     0.1827
+    ],
+    [
+     "X & Özbekistan 0,5 Alt",
+     0.0857
+    ],
+    [
+     "2 & Özbekistan 0,5 Üst",
+     0.2825
+    ],
+    [
+     "2 & Özbekistan 0,5 Alt",
+     0.0
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Toplam Gol",
+   "oneri": "1 veya 2,5 Alt",
+   "olasilik": 0.8014,
+   "adil_oran": 1.25,
+   "en_olasi": "1 veya 2,5 Alt",
+   "en_olasi_p": 0.8014,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 2,5 Üst",
+     0.6477
+    ],
+    [
+     "1 veya 2,5 Alt",
+     0.8014
+    ],
+    [
+     "X veya 2,5 Üst",
+     0.6583
+    ],
+    [
+     "X veya 2,5 Alt",
+     0.6101
+    ],
+    [
+     "2 veya 2,5 Üst",
+     0.5837
+    ],
+    [
+     "2 veya 2,5 Alt",
+     0.6988
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol (Kesin)",
+   "oneri": "1 & 3 gol",
+   "olasilik": 0.1296,
+   "adil_oran": 7.71,
+   "en_olasi": "1 & 3 gol",
+   "en_olasi_p": 0.1296,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 0 gol",
+     0.0
+    ],
+    [
+     "1 & 1 gol",
+     0.1195
+    ],
+    [
+     "1 & 2 gol",
+     0.0834
+    ],
+    [
+     "1 & 3 gol",
+     0.1296
+    ],
+    [
+     "1 & 4 gol",
+     0.0559
+    ],
+    [
+     "1 & 5 gol",
+     0.04
+    ],
+    [
+     "X & 0 gol",
+     0.0857
+    ],
+    [
+     "X & 1 gol",
+     0.0
+    ],
+    [
+     "X & 2 gol",
+     0.1277
+    ],
+    [
+     "X & 3 gol",
+     0.0
+    ],
+    [
+     "X & 4 gol",
+     0.046
+    ],
+    [
+     "X & 5 gol",
+     0.0
+    ],
+    [
+     "2 & 0 gol",
+     0.0
+    ],
+    [
+     "2 & 1 gol",
+     0.0914
+    ],
+    [
+     "2 & 2 gol",
+     0.0475
+    ],
+    [
+     "2 & 3 gol",
+     0.082
+    ],
+    [
+     "2 & 4 gol",
+     0.0282
+    ],
+    [
+     "2 & 5 gol",
+     0.0234
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "1 & 1-3 gol",
+   "olasilik": 0.3325,
+   "adil_oran": 3.01,
+   "en_olasi": "1 & 1-3 gol",
+   "en_olasi_p": 0.3325,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1-2 gol",
+     0.2029
+    ],
+    [
+     "1 & 1-3 gol",
+     0.3325
+    ],
+    [
+     "1 & 2-3 gol",
+     0.213
+    ],
+    [
+     "1 & 2-4 gol",
+     0.269
+    ],
+    [
+     "1 & 3-4 gol",
+     0.1856
+    ],
+    [
+     "1 & 3-5 gol",
+     0.2256
+    ],
+    [
+     "X & 1-2 gol",
+     0.1277
+    ],
+    [
+     "X & 1-3 gol",
+     0.1277
+    ],
+    [
+     "X & 2-3 gol",
+     0.1277
+    ],
+    [
+     "X & 2-4 gol",
+     0.1738
+    ],
+    [
+     "X & 3-4 gol",
+     0.046
+    ],
+    [
+     "X & 3-5 gol",
+     0.046
+    ],
+    [
+     "2 & 1-2 gol",
+     0.1388
+    ],
+    [
+     "2 & 1-3 gol",
+     0.2208
+    ],
+    [
+     "2 & 2-3 gol",
+     0.1295
+    ],
+    [
+     "2 & 2-4 gol",
+     0.1576
+    ],
+    [
+     "2 & 3-4 gol",
+     0.1102
+    ],
+    [
+     "2 & 3-5 gol",
+     0.1336
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "12 & 1-3 gol",
+   "olasilik": 0.5533,
+   "adil_oran": 1.81,
+   "en_olasi": "12 & 1-3 gol",
+   "en_olasi_p": 0.5533,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1-2 gol",
+     0.3306
+    ],
+    [
+     "1X & 1-3 gol",
+     0.4602
+    ],
+    [
+     "1X & 2-3 gol",
+     0.3407
+    ],
+    [
+     "1X & 2-4 gol",
+     0.4427
+    ],
+    [
+     "12 & 1-2 gol",
+     0.3417
+    ],
+    [
+     "12 & 1-3 gol",
+     0.5533
+    ],
+    [
+     "12 & 2-3 gol",
+     0.3425
+    ],
+    [
+     "12 & 2-4 gol",
+     0.4266
+    ],
+    [
+     "X2 & 1-2 gol",
+     0.2666
+    ],
+    [
+     "X2 & 1-3 gol",
+     0.3485
+    ],
+    [
+     "X2 & 2-3 gol",
+     0.2572
+    ],
+    [
+     "X2 & 2-4 gol",
+     0.3314
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Doğru Skor",
+   "oneri": "1 veya 1-1",
+   "olasilik": 0.5768,
+   "adil_oran": 1.73,
+   "en_olasi": "1 veya 1-1",
+   "en_olasi_p": 0.5768,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 1-1",
+     0.5768
+    ],
+    [
+     "1 veya 0-1",
+     0.5405
+    ],
+    [
+     "1 veya 0-0",
+     0.5348
+    ],
+    [
+     "X veya 1-0",
+     0.3879
+    ],
+    [
+     "X veya 0-1",
+     0.3598
+    ],
+    [
+     "X veya 2-1",
+     0.3578
+    ],
+    [
+     "X veya 2-0",
+     0.3518
+    ],
+    [
+     "2 veya 1-1",
+     0.4102
+    ],
+    [
+     "2 veya 1-0",
+     0.4019
+    ],
+    [
+     "2 veya 2-1",
+     0.3719
+    ],
+    [
+     "2 veya 0-0",
+     0.3682
+    ],
+    [
+     "2 veya 2-0",
+     0.3659
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Her İki Yarı Toplam Gol Kombinasyonu",
+   "oneri": "İY Alt 1,5 & 2Y Alt 1,5",
+   "olasilik": 0.4238,
+   "adil_oran": 2.36,
+   "en_olasi": "İY Alt 1,5 & 2Y Alt 1,5",
+   "en_olasi_p": 0.4238,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Alt 1,5 & 2Y Alt 1,5",
+     0.4238
+    ],
+    [
+     "İY Alt 1,5 & 2Y Üst 1,5",
+     0.2904
+    ],
+    [
+     "İY Üst 1,5 & 2Y Alt 1,5",
+     0.1688
+    ],
+    [
+     "İY Üst 1,5 & 2Y Üst 1,5",
+     0.1169
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Farklı Kombineler",
+   "oneri": "1 & 2Y gol olur",
+   "olasilik": 0.3697,
+   "adil_oran": 2.71,
+   "en_olasi": "1 & 2Y gol olur",
+   "en_olasi_p": 0.3697,
+   "guven": "yüksek",
+   "not_": "Sitedeki kombinasyon içerikleri farklı olabilir",
+   "secimler": [
+    [
+     "1 & 2Y gol olur",
+     0.3697
+    ],
+    [
+     "2 & 2Y gol olur",
+     0.227
+    ],
+    [
+     "Suudi Arabistan her iki yarıda gol & 1",
+     0.2085
+    ],
+    [
+     "Özbekistan her iki yarıda gol & 2",
+     0.1156
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans Kombo",
+   "oneri": "12 & 3,5 Alt",
+   "olasilik": 0.5533,
+   "adil_oran": 1.81,
+   "en_olasi": "12 & 3,5 Alt",
+   "en_olasi_p": 0.5533,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1,5 Üst",
+     0.5123
+    ],
+    [
+     "1X & 1,5 Alt",
+     0.2052
+    ],
+    [
+     "1X & 2,5 Üst",
+     0.3012
+    ],
+    [
+     "1X & 2,5 Alt",
+     0.4163
+    ],
+    [
+     "1X & 3,5 Üst",
+     0.1716
+    ],
+    [
+     "1X & 3,5 Alt",
+     0.5459
+    ],
+    [
+     "12 & 1,5 Üst",
+     0.5207
+    ],
+    [
+     "12 & 1,5 Alt",
+     0.2108
+    ],
+    [
+     "12 & 2,5 Üst",
+     0.3899
+    ],
+    [
+     "12 & 2,5 Alt",
+     0.3417
+    ],
+    [
+     "12 & 3,5 Üst",
+     0.1782
+    ],
+    [
+     "12 & 3,5 Alt",
+     0.5533
+    ],
+    [
+     "X2 & 1,5 Üst",
+     0.3738
+    ],
+    [
+     "X2 & 1,5 Alt",
+     0.1771
+    ],
+    [
+     "X2 & 2,5 Üst",
+     0.1986
+    ],
+    [
+     "X2 & 2,5 Alt",
+     0.3523
+    ],
+    [
+     "X2 & 3,5 Üst",
+     0.1166
+    ],
+    [
+     "X2 & 3,5 Alt",
+     0.4343
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "İlk Yarı/Maç Sonucu ve Toplam Gol",
+   "oneri": "1/1 & 2,5 Üst",
+   "olasilik": 0.1536,
+   "adil_oran": 6.51,
+   "en_olasi": "1/1 & 2,5 Üst",
+   "en_olasi_p": 0.1536,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1 & 2,5 Üst",
+     0.1536
+    ],
+    [
+     "1/1 & 2,5 Alt",
+     0.108
+    ],
+    [
+     "1/X & 2,5 Üst",
+     0.0174
+    ],
+    [
+     "1/X & 2,5 Alt",
+     0.0312
+    ],
+    [
+     "1/2 & 2,5 Üst",
+     0.0156
+    ],
+    [
+     "1/2 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "X/1 & 2,5 Üst",
+     0.0703
+    ],
+    [
+     "X/1 & 2,5 Alt",
+     0.0948
+    ],
+    [
+     "X/X & 2,5 Üst",
+     0.0202
+    ],
+    [
+     "X/X & 2,5 Alt",
+     0.1502
+    ],
+    [
+     "X/2 & 2,5 Üst",
+     0.0449
+    ],
+    [
+     "X/2 & 2,5 Alt",
+     0.0682
+    ],
+    [
+     "2/1 & 2,5 Üst",
+     0.0224
+    ],
+    [
+     "2/1 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "2/X & 2,5 Üst",
+     0.0175
+    ],
+    [
+     "2/X & 2,5 Alt",
+     0.032
+    ],
+    [
+     "2/2 & 2,5 Üst",
+     0.0831
+    ],
+    [
+     "2/2 & 2,5 Alt",
+     0.0706
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Her İki Yarıda Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.5069,
+   "adil_oran": 1.97,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5069,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4931
+    ],
+    [
+     "Hayır",
+     0.5069
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım",
+   "oneri": "Suudi Arabistan",
+   "olasilik": 0.5202,
+   "adil_oran": 1.92,
+   "en_olasi": "Suudi Arabistan",
+   "en_olasi_p": 0.5202,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan",
+     0.5202
+    ],
+    [
+     "Gol yok",
+     0.0857
+    ],
+    [
+     "Özbekistan",
+     0.3941
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Son Golü Atacak Takım",
+   "oneri": "Suudi Arabistan",
+   "olasilik": 0.5224,
+   "adil_oran": 1.91,
+   "en_olasi": "Suudi Arabistan",
+   "en_olasi_p": 0.5224,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan",
+     0.5224
+    ],
+    [
+     "Gol yok",
+     0.0857
+    ],
+    [
+     "Özbekistan",
+     0.3919
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golün Atılma Şekli",
+   "oneri": "Şut",
+   "olasilik": 0.6483,
+   "adil_oran": 1.54,
+   "en_olasi": "Şut",
+   "en_olasi_p": 0.6483,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şut",
+     0.6483
+    ],
+    [
+     "Kafa",
+     0.1386
+    ],
+    [
+     "Penaltı",
+     0.0685
+    ],
+    [
+     "Serbest vuruş",
+     0.0269
+    ],
+    [
+     "Kendi kalesine",
+     0.0319
+    ],
+    [
+     "Gol yok",
+     0.0857
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı",
+   "oneri": "28-90 dk",
+   "olasilik": 0.4773,
+   "adil_oran": 2.1,
+   "en_olasi": "28-90 dk",
+   "en_olasi_p": 0.4773,
+   "guven": "orta",
+   "not_": "Sınır 27. dk varsayıldı",
+   "secimler": [
+    [
+     "1-27 dk",
+     0.437
+    ],
+    [
+     "28-90 dk",
+     0.4773
+    ],
+    [
+     "Gol yok",
+     0.0857
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Suudi Arabistan : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.2466,
+   "adil_oran": 4.06,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.2466,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.109
+    ],
+    [
+     "11-20 dk",
+     0.1027
+    ],
+    [
+     "21-30 dk",
+     0.095
+    ],
+    [
+     "31-40 dk",
+     0.0867
+    ],
+    [
+     "41-50 dk",
+     0.0948
+    ],
+    [
+     "51-60 dk",
+     0.0706
+    ],
+    [
+     "61-70 dk",
+     0.0635
+    ],
+    [
+     "71-80 dk",
+     0.0566
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0745
+    ],
+    [
+     "Gol yok",
+     0.2466
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Özbekistan : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.3475,
+   "adil_oran": 2.88,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.3475,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.0844
+    ],
+    [
+     "11-20 dk",
+     0.08
+    ],
+    [
+     "21-30 dk",
+     0.0773
+    ],
+    [
+     "31-40 dk",
+     0.0718
+    ],
+    [
+     "41-50 dk",
+     0.0824
+    ],
+    [
+     "51-60 dk",
+     0.0637
+    ],
+    [
+     "61-70 dk",
+     0.0603
+    ],
+    [
+     "71-80 dk",
+     0.0562
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0764
+    ],
+    [
+     "Gol yok",
+     0.3475
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı (15 dk.)",
+   "oneri": "1-15 dk",
+   "olasilik": 0.2654,
+   "adil_oran": 3.77,
+   "en_olasi": "1-15 dk",
+   "en_olasi_p": 0.2654,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-15 dk",
+     0.2654
+    ],
+    [
+     "16-30 dk",
+     0.2094
+    ],
+    [
+     "31-45 (+uz.) dk",
+     0.1755
+    ],
+    [
+     "46-60 dk",
+     0.1114
+    ],
+    [
+     "61-75 dk",
+     0.0799
+    ],
+    [
+     "76-90 (+uz.) dk",
+     0.0727
+    ],
+    [
+     "Gol yok",
+     0.0857
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve Maç Sonucu",
+   "oneri": "İlk gol Suudi Arabistan & 1",
+   "olasilik": 0.3911,
+   "adil_oran": 2.56,
+   "en_olasi": "İlk gol Suudi Arabistan & 1",
+   "en_olasi_p": 0.3911,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Suudi Arabistan & 1",
+     0.3911
+    ],
+    [
+     "İlk gol Suudi Arabistan & X",
+     0.0906
+    ],
+    [
+     "İlk gol Suudi Arabistan & 2",
+     0.0386
+    ],
+    [
+     "İlk gol Özbekistan & 1",
+     0.058
+    ],
+    [
+     "İlk gol Özbekistan & X",
+     0.0921
+    ],
+    [
+     "İlk gol Özbekistan & 2",
+     0.2439
+    ],
+    [
+     "Gol yok",
+     0.0857
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 1. Yarı Sonucu",
+   "oneri": "İlk gol Suudi Arabistan & İY 1",
+   "olasilik": 0.3135,
+   "adil_oran": 3.19,
+   "en_olasi": "İlk gol Suudi Arabistan & İY 1",
+   "en_olasi_p": 0.3135,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Suudi Arabistan & İY 1",
+     0.3135
+    ],
+    [
+     "İlk gol Suudi Arabistan & İY X",
+     0.1977
+    ],
+    [
+     "İlk gol Suudi Arabistan & İY 2",
+     0.0089
+    ],
+    [
+     "İlk gol Özbekistan & İY 1",
+     0.0123
+    ],
+    [
+     "İlk gol Özbekistan & İY X",
+     0.1652
+    ],
+    [
+     "İlk gol Özbekistan & İY 2",
+     0.2166
+    ],
+    [
+     "Gol yok",
+     0.0857
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 2. Yarı Sonucu",
+   "oneri": "İlk gol Suudi Arabistan & 2Y 1",
+   "olasilik": 0.2575,
+   "adil_oran": 3.88,
+   "en_olasi": "İlk gol Suudi Arabistan & 2Y 1",
+   "en_olasi_p": 0.2575,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Suudi Arabistan & 2Y 1",
+     0.2575
+    ],
+    [
+     "İlk gol Suudi Arabistan & 2Y X",
+     0.1642
+    ],
+    [
+     "İlk gol Suudi Arabistan & 2Y 2",
+     0.0985
+    ],
+    [
+     "İlk gol Özbekistan & 2Y 1",
+     0.1126
+    ],
+    [
+     "İlk gol Özbekistan & 2Y X",
+     0.1297
+    ],
+    [
+     "İlk gol Özbekistan & 2Y 2",
+     0.1517
+    ],
+    [
+     "Gol yok",
+     0.0857
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Doğru Skor",
+   "oneri": "1-1",
+   "olasilik": 0.1277,
+   "adil_oran": 7.83,
+   "en_olasi": "1-1",
+   "en_olasi_p": 0.1277,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-1",
+     0.1277
+    ],
+    [
+     "1-0",
+     0.1195
+    ],
+    [
+     "0-1",
+     0.0914
+    ],
+    [
+     "2-1",
+     0.0894
+    ],
+    [
+     "0-0",
+     0.0857
+    ],
+    [
+     "2-0",
+     0.0834
+    ],
+    [
+     "1-2",
+     0.0656
+    ],
+    [
+     "0-2",
+     0.0475
+    ],
+    [
+     "2-2",
+     0.046
+    ],
+    [
+     "3-1",
+     0.0423
+    ],
+    [
+     "3-0",
+     0.0402
+    ],
+    [
+     "1-3",
+     0.0237
+    ],
+    [
+     "3-2",
+     0.0217
+    ],
+    [
+     "Diğer",
+     0.0185
+    ],
+    [
+     "2-3",
+     0.0166
+    ],
+    [
+     "0-3",
+     0.0164
+    ],
+    [
+     "4-1",
+     0.0143
+    ],
+    [
+     "4-0",
+     0.0136
+    ],
+    [
+     "3-3",
+     0.0081
+    ],
+    [
+     "4-2",
+     0.008
+    ],
+    [
+     "1-4",
+     0.0059
+    ],
+    [
+     "2-4",
+     0.0046
+    ],
+    [
+     "0-4",
+     0.0045
+    ],
+    [
+     "4-3",
+     0.0026
+    ],
+    [
+     "3-4",
+     0.002
+    ],
+    [
+     "4-4",
+     0.0008
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Herhangi Bir Zamanda Doğru Skor",
+   "oneri": "1-0 herhangi bir anda",
+   "olasilik": 0.5145,
+   "adil_oran": 1.94,
+   "en_olasi": "1-0 herhangi bir anda",
+   "en_olasi_p": 0.5145,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-0 herhangi bir anda",
+     0.5145
+    ],
+    [
+     "0-1 herhangi bir anda",
+     0.3886
+    ],
+    [
+     "1-1 herhangi bir anda",
+     0.3394
+    ],
+    [
+     "2-0 herhangi bir anda",
+     0.2269
+    ],
+    [
+     "2-1 herhangi bir anda",
+     0.1841
+    ],
+    [
+     "1-2 herhangi bir anda",
+     0.1366
+    ],
+    [
+     "0-2 herhangi bir anda",
+     0.1275
+    ],
+    [
+     "3-0 herhangi bir anda",
+     0.0828
+    ],
+    [
+     "2-2 herhangi bir anda",
+     0.0824
+    ],
+    [
+     "3-1 herhangi bir anda",
+     0.0736
+    ],
+    [
+     "1-3 herhangi bir anda",
+     0.0416
+    ],
+    [
+     "3-2 herhangi bir anda",
+     0.0352
+    ],
+    [
+     "0-3 herhangi bir anda",
+     0.0348
+    ],
+    [
+     "2-3 herhangi bir anda",
+     0.0265
+    ],
+    [
+     "3-3 herhangi bir anda",
+     0.0116
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Skor Kombinasyonları",
+   "oneri": "Suudi Arabistan 1-0/2-0/2-1",
+   "olasilik": 0.2923,
+   "adil_oran": 3.42,
+   "en_olasi": "Suudi Arabistan 1-0/2-0/2-1",
+   "en_olasi_p": 0.2923,
+   "guven": "yüksek",
+   "not_": "Sitedeki gruplar farklı olabilir",
+   "secimler": [
+    [
+     "Suudi Arabistan 1-0/2-0/2-1",
+     0.2923
+    ],
+    [
+     "Suudi Arabistan 3-0/3-1/4-0",
+     0.0962
+    ],
+    [
+     "0-0/1-1",
+     0.2135
+    ],
+    [
+     "Özbekistan 0-1/0-2/1-2",
+     0.2044
+    ],
+    [
+     "Özbekistan 0-3/1-3/0-4",
+     0.0446
+    ],
+    [
+     "2-2/3-3",
+     0.0541
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "1.Yarı/Maç Skoru",
+   "oneri": "İY 0-0 / MS 0-0",
+   "olasilik": 0.0857,
+   "adil_oran": 11.66,
+   "en_olasi": "İY 0-0 / MS 0-0",
+   "en_olasi_p": 0.0857,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 0-0 / MS 0-0",
+     0.0857
+    ],
+    [
+     "İY 0-0 / MS 1-0",
+     0.068
+    ],
+    [
+     "İY 0-0 / MS 0-1",
+     0.0527
+    ],
+    [
+     "İY 1-0 / MS 1-0",
+     0.0514
+    ],
+    [
+     "İY 0-0 / MS 1-1",
+     0.0411
+    ],
+    [
+     "İY 1-0 / MS 2-0",
+     0.0411
+    ],
+    [
+     "İY 0-1 / MS 0-1",
+     0.0387
+    ],
+    [
+     "İY 0-1 / MS 1-1",
+     0.032
+    ],
+    [
+     "İY 1-0 / MS 1-1",
+     0.0312
+    ],
+    [
+     "İY 0-0 / MS 2-0",
+     0.0268
+    ],
+    [
+     "İY 1-0 / MS 2-1",
+     0.0247
+    ],
+    [
+     "İY 1-1 / MS 1-1",
+     0.0233
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Maç Skoru Beraberlik (0-0 hariç)",
+   "oneri": "Hayır",
+   "olasilik": 0.8173,
+   "adil_oran": 1.22,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8173,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1827
+    ],
+    [
+     "Hayır",
+     0.8173
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Suudi Arabistan Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.2334,
+   "adil_oran": 4.28,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2334,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2334
+    ],
+    [
+     "2 farkla",
+     0.1344
+    ],
+    [
+     "3 farkla",
+     0.0568
+    ],
+    [
+     "4+ farkla",
+     0.0245
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Özbekistan : Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.1757,
+   "adil_oran": 5.69,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1757,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1757
+    ],
+    [
+     "2 farkla",
+     0.0761
+    ],
+    [
+     "3 farkla",
+     0.0234
+    ],
+    [
+     "4+ farkla",
+     0.0073
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Suudi Arabistan Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.1728,
+   "adil_oran": 5.79,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.1728,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.1195
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.1728
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.1043
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.0526
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Özbekistan Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.113,
+   "adil_oran": 8.85,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.113,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.0914
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.113
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.0568
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.0213
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Suudi Arabistan Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7382,
+   "adil_oran": 1.35,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7382,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2618
+    ],
+    [
+     "Hayır",
+     0.7382
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Özbekistan Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8391,
+   "adil_oran": 1.19,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8391,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1608
+    ],
+    [
+     "Hayır",
+     0.8391
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Suudi Arabistan İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8089,
+   "adil_oran": 1.24,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8089,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1911
+    ],
+    [
+     "Hayır",
+     0.8089
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Özbekistan İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9005,
+   "adil_oran": 1.11,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9005,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0995
+    ],
+    [
+     "Hayır",
+     0.9005
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Suudi Arabistan Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Evet",
+   "olasilik": 0.5018,
+   "adil_oran": 1.99,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5018,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5018
+    ],
+    [
+     "Hayır",
+     0.4982
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Özbekistan Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.5559,
+   "adil_oran": 1.8,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5559,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4441
+    ],
+    [
+     "Hayır",
+     0.5559
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Suudi Arabistan En Az Bir Yarıyı Kazanır",
+   "oneri": "Evet",
+   "olasilik": 0.5751,
+   "adil_oran": 1.74,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5751,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5751
+    ],
+    [
+     "Hayır",
+     0.4249
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Özbekistan En Az Bir Yarıyı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.5797,
+   "adil_oran": 1.73,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5797,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4203
+    ],
+    [
+     "Hayır",
+     0.5797
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Suudi Arabistan İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.9358,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9358,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0642
+    ],
+    [
+     "Hayır",
+     0.9358
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Özbekistan İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.9282,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9282,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0718
+    ],
+    [
+     "Hayır",
+     0.9282
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Sonucu",
+   "oneri": "X",
+   "olasilik": 0.4486,
+   "adil_oran": 2.23,
+   "en_olasi": "X",
+   "en_olasi_p": 0.4486,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Suudi Arabistan)",
+     0.3258
+    ],
+    [
+     "X",
+     0.4486
+    ],
+    [
+     "2 (Özbekistan)",
+     0.2256
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Çifte Şans",
+   "oneri": "1X",
+   "olasilik": 0.7744,
+   "adil_oran": 1.29,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.7744,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.7744
+    ],
+    [
+     "12",
+     0.5514
+    ],
+    [
+     "X2",
+     0.6742
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.7142,
+   "adil_oran": 1.4,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.9098,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.6529
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.3471
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.2858
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.7142
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.0902
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.9098
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 1. Takım Toplam Gol",
+   "oneri": "Suudi Arabistan 0,5 Alt",
+   "olasilik": 0.5465,
+   "adil_oran": 1.83,
+   "en_olasi": "Suudi Arabistan 1,5 Alt",
+   "en_olasi_p": 0.876,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan 0,5 Üst",
+     0.4535
+    ],
+    [
+     "Suudi Arabistan 0,5 Alt",
+     0.5465
+    ],
+    [
+     "Suudi Arabistan 1,5 Üst",
+     0.124
+    ],
+    [
+     "Suudi Arabistan 1,5 Alt",
+     0.876
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 2. Takım Toplam Gol",
+   "oneri": "Özbekistan 0,5 Alt",
+   "olasilik": 0.6368,
+   "adil_oran": 1.57,
+   "en_olasi": "Özbekistan 1,5 Alt",
+   "en_olasi_p": 0.9238,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Özbekistan 0,5 Üst",
+     0.3632
+    ],
+    [
+     "Özbekistan 0,5 Alt",
+     0.6368
+    ],
+    [
+     "Özbekistan 1,5 Üst",
+     0.0761
+    ],
+    [
+     "Özbekistan 1,5 Alt",
+     0.9238
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Suudi Arabistan Toplam Gol Asya",
+   "oneri": "Suudi Arabistan Asya 1 Alt",
+   "olasilik": 0.8151,
+   "adil_oran": 1.23,
+   "en_olasi": "Suudi Arabistan Asya 1 Alt",
+   "en_olasi_p": 0.8151,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan Asya 0,5 Üst",
+     0.4535
+    ],
+    [
+     "Suudi Arabistan Asya 0,5 Alt",
+     0.5465
+    ],
+    [
+     "Suudi Arabistan Asya 0,75 Üst",
+     0.3457
+    ],
+    [
+     "Suudi Arabistan Asya 0,75 Alt",
+     0.6543
+    ],
+    [
+     "Suudi Arabistan Asya 1 Üst",
+     0.1849
+    ],
+    [
+     "Suudi Arabistan Asya 1 Alt",
+     0.8151
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Özbekistan Toplam Gol Asya",
+   "oneri": "Özbekistan Asya 0,5 Alt",
+   "olasilik": 0.6368,
+   "adil_oran": 1.57,
+   "en_olasi": "Özbekistan Asya 0,5 Alt",
+   "en_olasi_p": 0.6368,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Özbekistan Asya 0,25 Üst",
+     0.5329
+    ],
+    [
+     "Özbekistan Asya 0,25 Alt",
+     0.4671
+    ],
+    [
+     "Özbekistan Asya 0,5 Üst",
+     0.3632
+    ],
+    [
+     "Özbekistan Asya 0,5 Alt",
+     0.6368
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8361,
+   "adil_oran": 1.2,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8361,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1639
+    ],
+    [
+     "Hayır",
+     0.8361
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı",
+   "oneri": "Suudi Arabistan +0,5",
+   "olasilik": 0.7744,
+   "adil_oran": 1.29,
+   "en_olasi": "Suudi Arabistan +1,5",
+   "en_olasi_p": 0.9543,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan -1,5",
+     0.0869
+    ],
+    [
+     "Özbekistan +1,5",
+     0.9131
+    ],
+    [
+     "Suudi Arabistan -0,5",
+     0.3258
+    ],
+    [
+     "Özbekistan +0,5",
+     0.6742
+    ],
+    [
+     "Suudi Arabistan +0,5",
+     0.7744
+    ],
+    [
+     "Özbekistan -0,5",
+     0.2256
+    ],
+    [
+     "Suudi Arabistan +1,5",
+     0.9543
+    ],
+    [
+     "Özbekistan -1,5",
+     0.0457
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Goller Asya Handikapı",
+   "oneri": "Suudi Arabistan Asya +0,5",
+   "olasilik": 0.7744,
+   "adil_oran": 1.29,
+   "en_olasi": "Suudi Arabistan Asya +0,5",
+   "en_olasi_p": 0.7744,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan Asya -1",
+     0.1142
+    ],
+    [
+     "Özbekistan Asya -1",
+     0.0557
+    ],
+    [
+     "Suudi Arabistan Asya -0,75",
+     0.2344
+    ],
+    [
+     "Özbekistan Asya -0,75",
+     0.149
+    ],
+    [
+     "Suudi Arabistan Asya -0,5",
+     0.3258
+    ],
+    [
+     "Özbekistan Asya -0,5",
+     0.2256
+    ],
+    [
+     "Suudi Arabistan Asya -0,25",
+     0.4201
+    ],
+    [
+     "Özbekistan Asya -0,25",
+     0.2908
+    ],
+    [
+     "Suudi Arabistan Asya 0",
+     0.5909
+    ],
+    [
+     "Özbekistan Asya 0",
+     0.4091
+    ],
+    [
+     "Suudi Arabistan Asya +0,25",
+     0.7092
+    ],
+    [
+     "Özbekistan Asya +0,25",
+     0.5799
+    ],
+    [
+     "Suudi Arabistan Asya +0,5",
+     0.7744
+    ],
+    [
+     "Özbekistan Asya +0,5",
+     0.6742
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Suudi Arabistan (+1)",
+   "olasilik": 0.7744,
+   "adil_oran": 1.29,
+   "en_olasi": "Suudi Arabistan (+2)",
+   "en_olasi_p": 0.9543,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan (-2)",
+     0.016
+    ],
+    [
+     "X (-2)",
+     0.071
+    ],
+    [
+     "Özbekistan (-2)",
+     0.9131
+    ],
+    [
+     "Suudi Arabistan (-1)",
+     0.0869
+    ],
+    [
+     "X (-1)",
+     0.2389
+    ],
+    [
+     "Özbekistan (-1)",
+     0.6742
+    ],
+    [
+     "Suudi Arabistan (+1)",
+     0.7744
+    ],
+    [
+     "X (+1)",
+     0.1799
+    ],
+    [
+     "Özbekistan (+1)",
+     0.0457
+    ],
+    [
+     "Suudi Arabistan (+2)",
+     0.9543
+    ],
+    [
+     "X (+2)",
+     0.0393
+    ],
+    [
+     "Özbekistan (+2)",
+     0.0064
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Asya",
+   "oneri": "Toplam Asya 1,25 Alt",
+   "olasilik": 0.65,
+   "adil_oran": 1.54,
+   "en_olasi": "Toplam Asya 1,25 Alt",
+   "en_olasi_p": 0.65,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam Asya 0,75 Üst",
+     0.5748
+    ],
+    [
+     "Toplam Asya 0,75 Alt",
+     0.4252
+    ],
+    [
+     "Toplam Asya 1 Üst",
+     0.4515
+    ],
+    [
+     "Toplam Asya 1 Alt",
+     0.5485
+    ],
+    [
+     "Toplam Asya 1,25 Üst",
+     0.35
+    ],
+    [
+     "Toplam Asya 1,25 Alt",
+     0.65
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Toplam Gol (3-İhtimalli)",
+   "oneri": "Tam 1",
+   "olasilik": 0.3671,
+   "adil_oran": 2.72,
+   "en_olasi": "Tam 1",
+   "en_olasi_p": 0.3671,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.3471
+    ],
+    [
+     "Tam 1",
+     0.3671
+    ],
+    [
+     "1 Üst",
+     0.2858
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "X & KG Yok",
+   "olasilik": 0.3471,
+   "adil_oran": 2.88,
+   "en_olasi": "X & KG Yok",
+   "en_olasi_p": 0.3471,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0362
+    ],
+    [
+     "1 & KG Yok",
+     0.2897
+    ],
+    [
+     "X & KG Var",
+     0.1015
+    ],
+    [
+     "X & KG Yok",
+     0.3471
+    ],
+    [
+     "2 & KG Var",
+     0.0262
+    ],
+    [
+     "2 & KG Yok",
+     0.1993
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Aralığı",
+   "oneri": "1 gol",
+   "olasilik": 0.3671,
+   "adil_oran": 2.72,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3671,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3471
+    ],
+    [
+     "1 gol",
+     0.3671
+    ],
+    [
+     "2-3 gol",
+     0.2631
+    ],
+    [
+     "4+ gol",
+     0.0226
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Suudi Arabistan Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.5465,
+   "adil_oran": 1.83,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5465,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5465
+    ],
+    [
+     "1 gol",
+     0.3296
+    ],
+    [
+     "2+ gol",
+     0.124
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Özbekistan Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.6368,
+   "adil_oran": 1.57,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.6368,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6368
+    ],
+    [
+     "1 gol",
+     0.287
+    ],
+    [
+     "2+ gol",
+     0.0761
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7142,
+   "adil_oran": 1.4,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7142,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.7142
+    ],
+    [
+     "1-2 gol",
+     0.5627
+    ],
+    [
+     "2-3 gol",
+     0.2631
+    ],
+    [
+     "3+ gol",
+     0.0902
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.5465,
+   "adil_oran": 1.83,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.876,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5465
+    ],
+    [
+     "0-1 gol",
+     0.876
+    ],
+    [
+     "1-2 gol",
+     0.4301
+    ],
+    [
+     "2+ gol",
+     0.124
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.6368,
+   "adil_oran": 1.57,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.9238,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6368
+    ],
+    [
+     "0-1 gol",
+     0.9238
+    ],
+    [
+     "1-2 gol",
+     0.352
+    ],
+    [
+     "2+ gol",
+     0.0761
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3671,
+   "adil_oran": 2.72,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3671,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3471
+    ],
+    [
+     "1 gol",
+     0.3671
+    ],
+    [
+     "2 gol",
+     0.1956
+    ],
+    [
+     "3 gol",
+     0.0676
+    ],
+    [
+     "4+ gol",
+     0.0226
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Suudi Arabistan Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.5465,
+   "adil_oran": 1.83,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5465,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5465
+    ],
+    [
+     "1 gol",
+     0.3296
+    ],
+    [
+     "2 gol",
+     0.1005
+    ],
+    [
+     "3+ gol",
+     0.0235
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Özbekistan Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.6368,
+   "adil_oran": 1.57,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.6368,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6368
+    ],
+    [
+     "1 gol",
+     0.287
+    ],
+    [
+     "2 gol",
+     0.065
+    ],
+    [
+     "3+ gol",
+     0.0112
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Suudi Arabistan Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.2389,
+   "adil_oran": 4.19,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2389,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2389
+    ],
+    [
+     "2 farkla",
+     0.071
+    ],
+    [
+     "3+ farkla",
+     0.016
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Özbekistan Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.1799,
+   "adil_oran": 5.56,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1799,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1799
+    ],
+    [
+     "2 farkla",
+     0.0393
+    ],
+    [
+     "3+ farkla",
+     0.0064
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Suudi Arabistan Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7103,
+   "adil_oran": 1.41,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7103,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2897
+    ],
+    [
+     "Hayır",
+     0.7103
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Özbekistan Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8007,
+   "adil_oran": 1.25,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8007,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1993
+    ],
+    [
+     "Hayır",
+     0.8007
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı İlk Golü Atacak Takım",
+   "oneri": "Suudi Arabistan",
+   "olasilik": 0.3724,
+   "adil_oran": 2.69,
+   "en_olasi": "Suudi Arabistan",
+   "en_olasi_p": 0.3724,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan",
+     0.3724
+    ],
+    [
+     "Gol yok",
+     0.3471
+    ],
+    [
+     "Özbekistan",
+     0.2805
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Son Golü Atacak Takım",
+   "oneri": "Suudi Arabistan",
+   "olasilik": 0.3749,
+   "adil_oran": 2.67,
+   "en_olasi": "Suudi Arabistan",
+   "en_olasi_p": 0.3749,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan",
+     0.3749
+    ],
+    [
+     "Gol yok",
+     0.3471
+    ],
+    [
+     "Özbekistan",
+     0.278
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Doğru Skor",
+   "oneri": "0-0",
+   "olasilik": 0.3471,
+   "adil_oran": 2.88,
+   "en_olasi": "0-0",
+   "en_olasi_p": 0.3471,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-0",
+     0.3471
+    ],
+    [
+     "1-0",
+     0.2096
+    ],
+    [
+     "0-1",
+     0.1575
+    ],
+    [
+     "1-1",
+     0.0949
+    ],
+    [
+     "2-0",
+     0.065
+    ],
+    [
+     "0-2",
+     0.0357
+    ],
+    [
+     "2-1",
+     0.028
+    ],
+    [
+     "1-2",
+     0.0214
+    ],
+    [
+     "3-0",
+     0.0127
+    ],
+    [
+     "2-2",
+     0.0064
+    ],
+    [
+     "3-1",
+     0.0057
+    ],
+    [
+     "0-3",
+     0.0055
+    ],
+    [
+     "Diğer",
+     0.0047
+    ],
+    [
+     "1-3",
+     0.0034
+    ],
+    [
+     "3-2",
+     0.0013
+    ],
+    [
+     "2-3",
+     0.0009
+    ],
+    [
+     "3-3",
+     0.0002
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Sonucu",
+   "oneri": "X",
+   "olasilik": 0.3796,
+   "adil_oran": 2.63,
+   "en_olasi": "X",
+   "en_olasi_p": 0.3796,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Suudi Arabistan)",
+     0.3701
+    ],
+    [
+     "X",
+     0.3796
+    ],
+    [
+     "2 (Özbekistan)",
+     0.2503
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Çifte Şans",
+   "oneri": "1X",
+   "olasilik": 0.7497,
+   "adil_oran": 1.33,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.7497,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.7497
+    ],
+    [
+     "12",
+     0.6204
+    ],
+    [
+     "X2",
+     0.6299
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.834,
+   "adil_oran": 1.2,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.834,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7546
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2455
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.4073
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.5927
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.166
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.834
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Suudi Arabistan Toplam Gol",
+   "oneri": "Suudi Arabistan 1,5 Alt",
+   "olasilik": 0.8092,
+   "adil_oran": 1.24,
+   "en_olasi": "Suudi Arabistan 1,5 Alt",
+   "en_olasi_p": 0.8092,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan 0,5 Üst",
+     0.5505
+    ],
+    [
+     "Suudi Arabistan 0,5 Alt",
+     0.4495
+    ],
+    [
+     "Suudi Arabistan 1,5 Üst",
+     0.1908
+    ],
+    [
+     "Suudi Arabistan 1,5 Alt",
+     0.8092
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Özbekistan Toplam Gol",
+   "oneri": "Özbekistan 0,5 Alt",
+   "olasilik": 0.5474,
+   "adil_oran": 1.83,
+   "en_olasi": "Özbekistan 1,5 Alt",
+   "en_olasi_p": 0.8783,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Özbekistan 0,5 Üst",
+     0.4526
+    ],
+    [
+     "Özbekistan 0,5 Alt",
+     0.5474
+    ],
+    [
+     "Özbekistan 1,5 Üst",
+     0.1217
+    ],
+    [
+     "Özbekistan 1,5 Alt",
+     0.8783
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7514,
+   "adil_oran": 1.33,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7514,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2486
+    ],
+    [
+     "Hayır",
+     0.7514
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı",
+   "oneri": "Suudi Arabistan +0,5",
+   "olasilik": 0.7497,
+   "adil_oran": 1.33,
+   "en_olasi": "Suudi Arabistan +1,5",
+   "en_olasi_p": 0.9364,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan -1,5",
+     0.12
+    ],
+    [
+     "Özbekistan +1,5",
+     0.88
+    ],
+    [
+     "Suudi Arabistan -0,5",
+     0.3701
+    ],
+    [
+     "Özbekistan +0,5",
+     0.6299
+    ],
+    [
+     "Suudi Arabistan +0,5",
+     0.7497
+    ],
+    [
+     "Özbekistan -0,5",
+     0.2503
+    ],
+    [
+     "Suudi Arabistan +1,5",
+     0.9364
+    ],
+    [
+     "Özbekistan -1,5",
+     0.0636
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Suudi Arabistan (+1)",
+   "olasilik": 0.7497,
+   "adil_oran": 1.33,
+   "en_olasi": "Suudi Arabistan (+2)",
+   "en_olasi_p": 0.9364,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan (-2)",
+     0.0282
+    ],
+    [
+     "X (-2)",
+     0.0917
+    ],
+    [
+     "Özbekistan (-2)",
+     0.88
+    ],
+    [
+     "Suudi Arabistan (-1)",
+     0.12
+    ],
+    [
+     "X (-1)",
+     0.2502
+    ],
+    [
+     "Özbekistan (-1)",
+     0.6299
+    ],
+    [
+     "Suudi Arabistan (+1)",
+     0.7497
+    ],
+    [
+     "X (+1)",
+     0.1866
+    ],
+    [
+     "Özbekistan (+1)",
+     0.0636
+    ],
+    [
+     "Suudi Arabistan (+2)",
+     0.9364
+    ],
+    [
+     "X (+2)",
+     0.0516
+    ],
+    [
+     "Özbekistan (+2)",
+     0.012
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.3019,
+   "adil_oran": 3.31,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.3019,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0682
+    ],
+    [
+     "1 & KG Yok",
+     0.3019
+    ],
+    [
+     "X & KG Var",
+     0.1341
+    ],
+    [
+     "X & KG Yok",
+     0.2455
+    ],
+    [
+     "2 & KG Var",
+     0.0463
+    ],
+    [
+     "2 & KG Yok",
+     0.204
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol Aralığı",
+   "oneri": "2-3 gol",
+   "olasilik": 0.3538,
+   "adil_oran": 2.83,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.3538,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2455
+    ],
+    [
+     "1 gol",
+     0.3472
+    ],
+    [
+     "2-3 gol",
+     0.3538
+    ],
+    [
+     "4+ gol",
+     0.0536
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Suudi Arabistan Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.4495,
+   "adil_oran": 2.22,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4495,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4495
+    ],
+    [
+     "1 gol",
+     0.3597
+    ],
+    [
+     "2+ gol",
+     0.1908
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Özbekistan Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.5474,
+   "adil_oran": 1.83,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5474,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5474
+    ],
+    [
+     "1 gol",
+     0.331
+    ],
+    [
+     "2+ gol",
+     0.1217
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.5927,
+   "adil_oran": 1.69,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.5927,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.5927
+    ],
+    [
+     "1-2 gol",
+     0.5886
+    ],
+    [
+     "2-3 gol",
+     0.3538
+    ],
+    [
+     "3+ gol",
+     0.166
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.8092,
+   "adil_oran": 1.24,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.8092,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4495
+    ],
+    [
+     "0-1 gol",
+     0.8092
+    ],
+    [
+     "1-2 gol",
+     0.5041
+    ],
+    [
+     "2+ gol",
+     0.1908
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.5474,
+   "adil_oran": 1.83,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.8783,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5474
+    ],
+    [
+     "0-1 gol",
+     0.8783
+    ],
+    [
+     "1-2 gol",
+     0.4294
+    ],
+    [
+     "2+ gol",
+     0.1217
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3472,
+   "adil_oran": 2.88,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3472,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2455
+    ],
+    [
+     "1 gol",
+     0.3472
+    ],
+    [
+     "2 gol",
+     0.2414
+    ],
+    [
+     "3 gol",
+     0.1124
+    ],
+    [
+     "4+ gol",
+     0.0536
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Suudi Arabistan Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.4495,
+   "adil_oran": 2.22,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4495,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4495
+    ],
+    [
+     "1 gol",
+     0.3597
+    ],
+    [
+     "2 gol",
+     0.1444
+    ],
+    [
+     "3+ gol",
+     0.0464
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Özbekistan Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.5474,
+   "adil_oran": 1.83,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5474,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5474
+    ],
+    [
+     "1 gol",
+     0.331
+    ],
+    [
+     "2 gol",
+     0.0984
+    ],
+    [
+     "3+ gol",
+     0.0233
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Suudi Arabistan Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.2502,
+   "adil_oran": 4.0,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2502,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2502
+    ],
+    [
+     "2 farkla",
+     0.0917
+    ],
+    [
+     "3+ farkla",
+     0.0282
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Özbekistan Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.1866,
+   "adil_oran": 5.36,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1866,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1866
+    ],
+    [
+     "2 farkla",
+     0.0516
+    ],
+    [
+     "3+ farkla",
+     0.012
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Suudi Arabistan Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.6981,
+   "adil_oran": 1.43,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6981,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3019
+    ],
+    [
+     "Hayır",
+     0.6981
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Özbekistan Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.796,
+   "adil_oran": 1.26,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.796,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.204
+    ],
+    [
+     "Hayır",
+     0.796
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı İlk Golü Atacak Takım",
+   "oneri": "Suudi Arabistan",
+   "olasilik": 0.4308,
+   "adil_oran": 2.32,
+   "en_olasi": "Suudi Arabistan",
+   "en_olasi_p": 0.4308,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan",
+     0.4308
+    ],
+    [
+     "Gol yok",
+     0.2455
+    ],
+    [
+     "Özbekistan",
+     0.3237
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Son Golü Atacak Takım",
+   "oneri": "Suudi Arabistan",
+   "olasilik": 0.4308,
+   "adil_oran": 2.32,
+   "en_olasi": "Suudi Arabistan",
+   "en_olasi_p": 0.4308,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan",
+     0.4308
+    ],
+    [
+     "Gol yok",
+     0.2455
+    ],
+    [
+     "Özbekistan",
+     0.3237
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Doğru Skor",
+   "oneri": "0-0",
+   "olasilik": 0.2455,
+   "adil_oran": 4.07,
+   "en_olasi": "0-0",
+   "en_olasi_p": 0.2455,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-0",
+     0.2455
+    ],
+    [
+     "1-0",
+     0.1981
+    ],
+    [
+     "0-1",
+     0.1491
+    ],
+    [
+     "1-1",
+     0.1186
+    ],
+    [
+     "2-0",
+     0.0785
+    ],
+    [
+     "2-1",
+     0.048
+    ],
+    [
+     "0-2",
+     0.0442
+    ],
+    [
+     "1-2",
+     0.0348
+    ],
+    [
+     "3-0",
+     0.0205
+    ],
+    [
+     "2-2",
+     0.0147
+    ],
+    [
+     "3-1",
+     0.0124
+    ],
+    [
+     "Diğer",
+     0.0121
+    ],
+    [
+     "0-3",
+     0.0091
+    ],
+    [
+     "1-3",
+     0.0069
+    ],
+    [
+     "3-2",
+     0.0039
+    ],
+    [
+     "2-3",
+     0.0027
+    ],
+    [
+     "3-3",
+     0.0008
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Karşılıklı Gol",
+   "oneri": "İY Yok / 2Y Yok",
+   "olasilik": 0.6287,
+   "adil_oran": 1.59,
+   "en_olasi": "İY Yok / 2Y Yok",
+   "en_olasi_p": 0.6287,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Var / 2Y Var",
+     0.0412
+    ],
+    [
+     "İY Var / 2Y Yok",
+     0.1226
+    ],
+    [
+     "İY Yok / 2Y Var",
+     0.2074
+    ],
+    [
+     "İY Yok / 2Y Yok",
+     0.6287
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı veya Maç Sonucu",
+   "oneri": "İY X veya MS X",
+   "olasilik": 0.5467,
+   "adil_oran": 1.83,
+   "en_olasi": "İY X veya MS X",
+   "en_olasi_p": 0.5467,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 1 veya MS 1",
+     0.5133
+    ],
+    [
+     "İY X veya MS X",
+     0.5467
+    ],
+    [
+     "İY 2 veya MS 2",
+     0.3543
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarı/Maç Sonucu",
+   "oneri": "1/1",
+   "olasilik": 0.2616,
+   "adil_oran": 3.82,
+   "en_olasi": "1/1",
+   "en_olasi_p": 0.2616,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.2616
+    ],
+    [
+     "1/X",
+     0.0486
+    ],
+    [
+     "1/2",
+     0.0156
+    ],
+    [
+     "X/1",
+     0.1651
+    ],
+    [
+     "X/X",
+     0.1704
+    ],
+    [
+     "X/2",
+     0.1132
+    ],
+    [
+     "2/1",
+     0.0224
+    ],
+    [
+     "2/X",
+     0.0495
+    ],
+    [
+     "2/2",
+     0.1537
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Sonucu",
+   "oneri": "X/X",
+   "olasilik": 0.1704,
+   "adil_oran": 5.87,
+   "en_olasi": "X/X",
+   "en_olasi_p": 0.1704,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.1208
+    ],
+    [
+     "1/X",
+     0.1234
+    ],
+    [
+     "1/2",
+     0.0816
+    ],
+    [
+     "X/1",
+     0.1651
+    ],
+    [
+     "X/X",
+     0.1704
+    ],
+    [
+     "X/2",
+     0.1132
+    ],
+    [
+     "2/1",
+     0.0842
+    ],
+    [
+     "2/X",
+     0.0858
+    ],
+    [
+     "2/2",
+     0.0555
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.4472,
+   "adil_oran": 2.24,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.4472,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2839
+    ],
+    [
+     "Eşit",
+     0.2688
+    ],
+    [
+     "2. Yarı",
+     0.4472
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı : Çifte Şans",
+   "oneri": "1. veya 2. Yarı",
+   "olasilik": 0.7311,
+   "adil_oran": 1.37,
+   "en_olasi": "1. veya 2. Yarı",
+   "en_olasi_p": 0.7311,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı veya Eşit",
+     0.5528
+    ],
+    [
+     "2. Yarı veya Eşit",
+     0.7161
+    ],
+    [
+     "1. veya 2. Yarı",
+     0.7311
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Suudi Arabistan : En Çok Gol Attığı Yarı",
+   "oneri": "Eşit",
+   "olasilik": 0.3802,
+   "adil_oran": 2.63,
+   "en_olasi": "Eşit",
+   "en_olasi_p": 0.3802,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2514
+    ],
+    [
+     "Eşit",
+     0.3802
+    ],
+    [
+     "2. Yarı",
+     0.3684
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Özbekistan : En Çok Gol Attığı Yarı",
+   "oneri": "Eşit",
+   "olasilik": 0.4477,
+   "adil_oran": 2.23,
+   "en_olasi": "Eşit",
+   "en_olasi_p": 0.4477,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.226
+    ],
+    [
+     "Eşit",
+     0.4477
+    ],
+    [
+     "2. Yarı",
+     0.3263
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Suudi Arabistan : Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.7493,
+   "adil_oran": 1.33,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7493,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2507
+    ],
+    [
+     "Hayır",
+     0.7493
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Özbekistan Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8367,
+   "adil_oran": 1.2,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8367,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1633
+    ],
+    [
+     "Hayır",
+     0.8367
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Suudi Arabistan : İlk Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.5465,
+   "adil_oran": 1.83,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5465,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4535
+    ],
+    [
+     "Hayır",
+     0.5465
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Özbekistan İlk Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.6368,
+   "adil_oran": 1.57,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6368,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3632
+    ],
+    [
+     "Hayır",
+     0.6368
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Suudi Arabistan : İkinci Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.5505,
+   "adil_oran": 1.82,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5505,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5505
+    ],
+    [
+     "Hayır",
+     0.4495
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Özbekistan İkinci Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.5474,
+   "adil_oran": 1.83,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5474,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4526
+    ],
+    [
+     "Hayır",
+     0.5474
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.6529,
+   "adil_oran": 1.53,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6529,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6529
+    ],
+    [
+     "Hayır",
+     0.3471
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İkinci Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.7546,
+   "adil_oran": 1.33,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7546,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7546
+    ],
+    [
+     "Hayır",
+     0.2455
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarıda da 1.5 Üst Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8831,
+   "adil_oran": 1.13,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8831,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1169
+    ],
+    [
+     "Hayır",
+     0.8831
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarı Goller 1.5 Alt",
+   "oneri": "Hayır",
+   "olasilik": 0.5762,
+   "adil_oran": 1.74,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5762,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4238
+    ],
+    [
+     "Hayır",
+     0.5762
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Suudi Arabistan : Gol Atar 1.Yarı/2.Yarı",
+   "oneri": "Hayır/Evet",
+   "olasilik": 0.2999,
+   "adil_oran": 3.33,
+   "en_olasi": "Hayır/Evet",
+   "en_olasi_p": 0.2999,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.2507
+    ],
+    [
+     "Evet/Hayır",
+     0.2029
+    ],
+    [
+     "Hayır/Evet",
+     0.2999
+    ],
+    [
+     "Hayır/Hayır",
+     0.2466
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Özbekistan Gol Atar İlk Yarı/İkinci Yarı",
+   "oneri": "Hayır/Hayır",
+   "olasilik": 0.3475,
+   "adil_oran": 2.88,
+   "en_olasi": "Hayır/Hayır",
+   "en_olasi_p": 0.3475,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.1633
+    ],
+    [
+     "Evet/Hayır",
+     0.1998
+    ],
+    [
+     "Hayır/Evet",
+     0.2893
+    ],
+    [
+     "Hayır/Hayır",
+     0.3475
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarıları Farklı Takımlar Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8342,
+   "adil_oran": 1.2,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8342,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1658
+    ],
+    [
+     "Hayır",
+     0.8342
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarılardan En Az Birinde Beraberlik",
+   "oneri": "Evet",
+   "olasilik": 0.6578,
+   "adil_oran": 1.52,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6578,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6578
+    ],
+    [
+     "Hayır",
+     0.3422
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1.Yarı Toplam Gol'e karşı 2. Yarı Toplam Gol Handikapı",
+   "oneri": "1. Yarı +1,5",
+   "olasilik": 0.7862,
+   "adil_oran": 1.27,
+   "en_olasi": "1. Yarı +1,5",
+   "en_olasi_p": 0.7862,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "2. Yarı -1,5",
+     0.2138
+    ],
+    [
+     "2. Yarı -0,5",
+     0.4472
+    ],
+    [
+     "2. Yarı +0,5",
+     0.7161
+    ],
+    [
+     "1. Yarı +1,5",
+     0.7862
+    ],
+    [
+     "1. Yarı +0,5",
+     0.5528
+    ],
+    [
+     "1. Yarı -0,5",
+     0.2839
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8135,
+   "adil_oran": 1.23,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8135,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1865
+    ],
+    [
+     "Hayır",
+     0.8135
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Köşe Vuruşu",
+   "oneri": "Evet",
+   "olasilik": 0.5231,
+   "adil_oran": 1.91,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5231,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5231
+    ],
+    [
+     "Hayır",
+     0.4769
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Suudi Arabistan : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Suudi Arabistan 0,5 Alt",
+   "olasilik": 0.643,
+   "adil_oran": 1.56,
+   "en_olasi": "Suudi Arabistan 1,5 Alt",
+   "en_olasi_p": 0.9274,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan 0,5 Üst",
+     0.357
+    ],
+    [
+     "Suudi Arabistan 0,5 Alt",
+     0.643
+    ],
+    [
+     "Suudi Arabistan 1,5 Üst",
+     0.0726
+    ],
+    [
+     "Suudi Arabistan 1,5 Alt",
+     0.9274
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Özbekistan : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Özbekistan 0,5 Alt",
+   "olasilik": 0.7406,
+   "adil_oran": 1.35,
+   "en_olasi": "Özbekistan 0,5 Alt",
+   "en_olasi_p": 0.7406,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Özbekistan 0,5 Üst",
+     0.2594
+    ],
+    [
+     "Özbekistan 0,5 Alt",
+     0.7406
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Sarı Kartlar",
+   "oneri": "Hayır",
+   "olasilik": 0.8382,
+   "adil_oran": 1.19,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8382,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1618
+    ],
+    [
+     "Hayır",
+     0.8382
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.7495,
+   "adil_oran": 1.33,
+   "en_olasi": "X",
+   "en_olasi_p": 0.7495,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Suudi Arabistan)",
+     0.144
+    ],
+    [
+     "X",
+     0.7495
+    ],
+    [
+     "2 (Özbekistan)",
+     0.1066
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Gol Handikapı",
+   "oneri": "Suudi Arabistan (+1)",
+   "olasilik": 0.8934,
+   "adil_oran": 1.12,
+   "en_olasi": "Suudi Arabistan (+1)",
+   "en_olasi_p": 0.8934,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan (-1)",
+     0.0129
+    ],
+    [
+     "X (-1)",
+     0.1311
+    ],
+    [
+     "Özbekistan (-1)",
+     0.856
+    ],
+    [
+     "Suudi Arabistan (+1)",
+     0.8934
+    ],
+    [
+     "X (+1)",
+     0.0996
+    ],
+    [
+     "Özbekistan (+1)",
+     0.0069
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.7326,
+   "adil_oran": 1.36,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9607,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.2674
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.7326
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0393
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9607
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Suudi Arabistan Toplam Goller",
+   "oneri": "Suudi Arabistan 1,5 Alt",
+   "olasilik": 0.9855,
+   "adil_oran": 1.01,
+   "en_olasi": "Suudi Arabistan 1,5 Alt",
+   "en_olasi_p": 0.9855,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan 0,5 Üst",
+     0.1621
+    ],
+    [
+     "Suudi Arabistan 0,5 Alt",
+     0.8379
+    ],
+    [
+     "Suudi Arabistan 1,5 Üst",
+     0.0145
+    ],
+    [
+     "Suudi Arabistan 1,5 Alt",
+     0.9855
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Özbekistan Toplam Goller",
+   "oneri": "Özbekistan 0,5 Alt",
+   "olasilik": 0.875,
+   "adil_oran": 1.14,
+   "en_olasi": "Özbekistan 0,5 Alt",
+   "en_olasi_p": 0.875,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Özbekistan 0,5 Üst",
+     0.125
+    ],
+    [
+     "Özbekistan 0,5 Alt",
+     0.875
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. İki Takım Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.9803,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9803,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0197
+    ],
+    [
+     "Hayır",
+     0.9803
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.5777,
+   "adil_oran": 1.73,
+   "en_olasi": "X",
+   "en_olasi_p": 0.5777,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Suudi Arabistan)",
+     0.2456
+    ],
+    [
+     "X",
+     0.5777
+    ],
+    [
+     "2 (Özbekistan)",
+     0.1767
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Gol Handikapı",
+   "oneri": "Suudi Arabistan (+1)",
+   "olasilik": 0.8233,
+   "adil_oran": 1.21,
+   "en_olasi": "Suudi Arabistan (+1)",
+   "en_olasi_p": 0.8233,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan (-1)",
+     0.0422
+    ],
+    [
+     "X (-1)",
+     0.2033
+    ],
+    [
+     "Özbekistan (-1)",
+     0.7544
+    ],
+    [
+     "Suudi Arabistan (+1)",
+     0.8233
+    ],
+    [
+     "X (+1)",
+     0.1538
+    ],
+    [
+     "Özbekistan (+1)",
+     0.0229
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.5226,
+   "adil_oran": 1.91,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.8623,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.4774
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.5226
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.1377
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.8623
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Suudi Arabistan Toplam Goller",
+   "oneri": "Suudi Arabistan 0,5 Alt",
+   "olasilik": 0.6909,
+   "adil_oran": 1.45,
+   "en_olasi": "Suudi Arabistan 1,5 Alt",
+   "en_olasi_p": 0.9464,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan 0,5 Üst",
+     0.3091
+    ],
+    [
+     "Suudi Arabistan 0,5 Alt",
+     0.6909
+    ],
+    [
+     "Suudi Arabistan 1,5 Üst",
+     0.0536
+    ],
+    [
+     "Suudi Arabistan 1,5 Alt",
+     0.9464
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Özbekistan Toplam Goller",
+   "oneri": "Özbekistan 0,5 Alt",
+   "olasilik": 0.7571,
+   "adil_oran": 1.32,
+   "en_olasi": "Özbekistan 0,5 Alt",
+   "en_olasi_p": 0.7571,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Özbekistan 0,5 Üst",
+     0.2429
+    ],
+    [
+     "Özbekistan 0,5 Alt",
+     0.7571
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.3738,
+   "adil_oran": 2.68,
+   "en_olasi": "X",
+   "en_olasi_p": 0.3738,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Suudi Arabistan)",
+     0.3736
+    ],
+    [
+     "X",
+     0.3738
+    ],
+    [
+     "2 (Özbekistan)",
+     0.2526
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Gol Handikapı",
+   "oneri": "Suudi Arabistan +0,5",
+   "olasilik": 0.7473,
+   "adil_oran": 1.34,
+   "en_olasi": "Özbekistan +1,5",
+   "en_olasi_p": 0.8733,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan -1,5",
+     0.1267
+    ],
+    [
+     "Özbekistan +1,5",
+     0.8733
+    ],
+    [
+     "Suudi Arabistan -0,5",
+     0.3736
+    ],
+    [
+     "Özbekistan +0,5",
+     0.6264
+    ],
+    [
+     "Suudi Arabistan +0,5",
+     0.7473
+    ],
+    [
+     "Özbekistan -0,5",
+     0.2526
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Toplam Goller",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.8234,
+   "adil_oran": 1.21,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.8234,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7636
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2364
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.4234
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.5766
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1766
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8234
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Suudi Arabistan Toplam Goller",
+   "oneri": "Suudi Arabistan 1,5 Alt",
+   "olasilik": 0.8002,
+   "adil_oran": 1.25,
+   "en_olasi": "Suudi Arabistan 1,5 Alt",
+   "en_olasi_p": 0.8002,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan 0,5 Üst",
+     0.5614
+    ],
+    [
+     "Suudi Arabistan 0,5 Alt",
+     0.4386
+    ],
+    [
+     "Suudi Arabistan 1,5 Üst",
+     0.1998
+    ],
+    [
+     "Suudi Arabistan 1,5 Alt",
+     0.8002
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Özbekistan Toplam Goller",
+   "oneri": "Özbekistan 0,5 Alt",
+   "olasilik": 0.5392,
+   "adil_oran": 1.85,
+   "en_olasi": "Özbekistan 0,5 Alt",
+   "en_olasi_p": 0.5392,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Özbekistan 0,5 Üst",
+     0.4608
+    ],
+    [
+     "Özbekistan 0,5 Alt",
+     0.5392
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7414,
+   "adil_oran": 1.35,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7414,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2586
+    ],
+    [
+     "Hayır",
+     0.7414
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Galibi",
+   "oneri": "1 (Suudi Arabistan)",
+   "olasilik": 0.4097,
+   "adil_oran": 2.44,
+   "en_olasi": "1 (Suudi Arabistan)",
+   "en_olasi_p": 0.4097,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Suudi Arabistan)",
+     0.4097
+    ],
+    [
+     "X",
+     0.3213
+    ],
+    [
+     "2 (Özbekistan)",
+     0.269
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Gol Handikapı",
+   "oneri": "Özbekistan +1,5",
+   "olasilik": 0.8339,
+   "adil_oran": 1.2,
+   "en_olasi": "Özbekistan +1,5",
+   "en_olasi_p": 0.8339,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan -1,5",
+     0.1661
+    ],
+    [
+     "Özbekistan +1,5",
+     0.8339
+    ],
+    [
+     "Suudi Arabistan -0,5",
+     0.4097
+    ],
+    [
+     "Özbekistan +0,5",
+     0.5904
+    ],
+    [
+     "Suudi Arabistan +0,5",
+     0.731
+    ],
+    [
+     "Özbekistan -0,5",
+     0.269
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Toplam Goller",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.7154,
+   "adil_oran": 1.4,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.8429,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.8429
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.1571
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.5552
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.4448
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.2846
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.7154
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Suudi Arabistan Toplam Goller",
+   "oneri": "Suudi Arabistan 1,5 Alt",
+   "olasilik": 0.7125,
+   "adil_oran": 1.4,
+   "en_olasi": "Suudi Arabistan 1,5 Alt",
+   "en_olasi_p": 0.7125,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan 0,5 Üst",
+     0.6532
+    ],
+    [
+     "Suudi Arabistan 0,5 Alt",
+     0.3468
+    ],
+    [
+     "Suudi Arabistan 1,5 Üst",
+     0.2875
+    ],
+    [
+     "Suudi Arabistan 1,5 Alt",
+     0.7125
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Özbekistan Toplam Goller",
+   "oneri": "Özbekistan 0,5 Üst",
+   "olasilik": 0.5495,
+   "adil_oran": 1.82,
+   "en_olasi": "Özbekistan 0,5 Üst",
+   "en_olasi_p": 0.5495,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Özbekistan 0,5 Üst",
+     0.5495
+    ],
+    [
+     "Özbekistan 0,5 Alt",
+     0.4505
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.6402,
+   "adil_oran": 1.56,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6402,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3598
+    ],
+    [
+     "Hayır",
+     0.6402
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kafa Golü Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.6888,
+   "adil_oran": 1.45,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6888,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3112
+    ],
+    [
+     "Hayır",
+     0.6888
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Frikikten Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9297,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9297,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0703
+    ],
+    [
+     "Hayır",
+     0.9297
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Rövaşata ile Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.9946,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9946,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0054
+    ],
+    [
+     "Hayır",
+     0.9946
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Ceza Sahası Dışından Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7675,
+   "adil_oran": 1.3,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7675,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2325
+    ],
+    [
+     "Hayır",
+     0.7675
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kendi Kalesine Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.9172,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9172,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0828
+    ],
+    [
+     "Hayır",
+     0.9172
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Oyuncu Hat-trick Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9866,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9866,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0134
+    ],
+    [
+     "Hayır",
+     0.9866
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Kaleci Asist Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9909,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9909,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0091
+    ],
+    [
+     "Hayır",
+     0.9909
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "VAR'lar: Toplam (Yalnızca Sahada İnceleme veya Video İnceleme İşareti (TV))",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.6944,
+   "adil_oran": 1.44,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.948,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.3056
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.6944
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.052
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.948
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Sonuç",
+   "oneri": "1 (Suudi Arabistan)",
+   "olasilik": 0.6374,
+   "adil_oran": 1.57,
+   "en_olasi": "1 (Suudi Arabistan)",
+   "en_olasi_p": 0.6374,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Suudi Arabistan)",
+     0.6374
+    ],
+    [
+     "X",
+     0.1263
+    ],
+    [
+     "2 (Özbekistan)",
+     0.2364
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam",
+   "oneri": "Toplam 10,5 Alt",
+   "olasilik": 0.8261,
+   "adil_oran": 1.21,
+   "en_olasi": "Toplam 11,5 Alt",
+   "en_olasi_p": 0.8954,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 7,5 Üst",
+     0.5315
+    ],
+    [
+     "Toplam 7,5 Alt",
+     0.4684
+    ],
+    [
+     "Toplam 8,5 Üst",
+     0.3928
+    ],
+    [
+     "Toplam 8,5 Alt",
+     0.6072
+    ],
+    [
+     "Toplam 9,5 Üst",
+     0.2712
+    ],
+    [
+     "Toplam 9,5 Alt",
+     0.7288
+    ],
+    [
+     "Toplam 10,5 Üst",
+     0.1739
+    ],
+    [
+     "Toplam 10,5 Alt",
+     0.8261
+    ],
+    [
+     "Toplam 11,5 Üst",
+     0.1046
+    ],
+    [
+     "Toplam 11,5 Alt",
+     0.8954
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Suudi Arabistan",
+   "oneri": "Suudi Arabistan 6,5 Alt",
+   "olasilik": 0.8058,
+   "adil_oran": 1.24,
+   "en_olasi": "Suudi Arabistan 7,5 Alt",
+   "en_olasi_p": 0.8974,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan 3,5 Üst",
+     0.6893
+    ],
+    [
+     "Suudi Arabistan 3,5 Alt",
+     0.3107
+    ],
+    [
+     "Suudi Arabistan 4,5 Üst",
+     0.5043
+    ],
+    [
+     "Suudi Arabistan 4,5 Alt",
+     0.4957
+    ],
+    [
+     "Suudi Arabistan 5,5 Üst",
+     0.3318
+    ],
+    [
+     "Suudi Arabistan 5,5 Alt",
+     0.6682
+    ],
+    [
+     "Suudi Arabistan 6,5 Üst",
+     0.1942
+    ],
+    [
+     "Suudi Arabistan 6,5 Alt",
+     0.8058
+    ],
+    [
+     "Suudi Arabistan 7,5 Üst",
+     0.1026
+    ],
+    [
+     "Suudi Arabistan 7,5 Alt",
+     0.8974
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Özbekistan",
+   "oneri": "Özbekistan 1,5 Üst",
+   "olasilik": 0.8292,
+   "adil_oran": 1.21,
+   "en_olasi": "Özbekistan 1,5 Üst",
+   "en_olasi_p": 0.8292,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Özbekistan 1,5 Üst",
+     0.8292
+    ],
+    [
+     "Özbekistan 1,5 Alt",
+     0.1708
+    ],
+    [
+     "Özbekistan 2,5 Üst",
+     0.6209
+    ],
+    [
+     "Özbekistan 2,5 Alt",
+     0.3791
+    ],
+    [
+     "Özbekistan 3,5 Üst",
+     0.3981
+    ],
+    [
+     "Özbekistan 3,5 Alt",
+     0.6019
+    ],
+    [
+     "Özbekistan 4,5 Üst",
+     0.22
+    ],
+    [
+     "Özbekistan 4,5 Alt",
+     0.78
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Handikap",
+   "oneri": "Özbekistan +3,5",
+   "olasilik": 0.7683,
+   "adil_oran": 1.3,
+   "en_olasi": "Suudi Arabistan +2,5",
+   "en_olasi_p": 0.926,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan -4,5",
+     0.1387
+    ],
+    [
+     "Özbekistan +4,5",
+     0.8613
+    ],
+    [
+     "Suudi Arabistan -3,5",
+     0.2317
+    ],
+    [
+     "Özbekistan +3,5",
+     0.7683
+    ],
+    [
+     "Suudi Arabistan -2,5",
+     0.3531
+    ],
+    [
+     "Özbekistan +2,5",
+     0.6469
+    ],
+    [
+     "Suudi Arabistan -1,5",
+     0.4938
+    ],
+    [
+     "Özbekistan +1,5",
+     0.5062
+    ],
+    [
+     "Suudi Arabistan -0,5",
+     0.6374
+    ],
+    [
+     "Özbekistan +0,5",
+     0.3626
+    ],
+    [
+     "Suudi Arabistan +0,5",
+     0.7636
+    ],
+    [
+     "Özbekistan -0,5",
+     0.2364
+    ],
+    [
+     "Suudi Arabistan +1,5",
+     0.8609
+    ],
+    [
+     "Özbekistan -1,5",
+     0.1391
+    ],
+    [
+     "Suudi Arabistan +2,5",
+     0.926
+    ],
+    [
+     "Özbekistan -2,5",
+     0.074
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (3-İhtimalli)",
+   "oneri": "10 Alt",
+   "olasilik": 0.7288,
+   "adil_oran": 1.37,
+   "en_olasi": "10 Alt",
+   "en_olasi_p": 0.7288,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "9 Alt",
+     0.6072
+    ],
+    [
+     "10 Alt",
+     0.7288
+    ],
+    [
+     "Tam 9",
+     0.1217
+    ],
+    [
+     "Tam 10",
+     0.0973
+    ],
+    [
+     "9 Üst",
+     0.2712
+    ],
+    [
+     "10 Üst",
+     0.1739
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (Aralık)",
+   "oneri": "0-8 korner",
+   "olasilik": 0.6072,
+   "adil_oran": 1.65,
+   "en_olasi": "0-8 korner",
+   "en_olasi_p": 0.6072,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "0-8 korner",
+     0.6072
+    ],
+    [
+     "9-11 korner",
+     0.2882
+    ],
+    [
+     "12+ korner",
+     0.1046
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Tek/Çift",
+   "oneri": "Tek",
+   "olasilik": 0.5006,
+   "adil_oran": 2.0,
+   "en_olasi": "Tek",
+   "en_olasi_p": 0.5006,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.5006
+    ],
+    [
+     "Çift",
+     0.4994
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Korner Yarışı",
+   "oneri": "7 kornere kimse ulaşamaz",
+   "olasilik": 0.7698,
+   "adil_oran": 1.3,
+   "en_olasi": "9 kornere kimse ulaşamaz",
+   "en_olasi_p": 0.9459,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk 3 korner Suudi Arabistan",
+     0.6348
+    ],
+    [
+     "İlk 3 korner Özbekistan",
+     0.3009
+    ],
+    [
+     "3 kornere kimse ulaşamaz",
+     0.0581
+    ],
+    [
+     "İlk 5 korner Suudi Arabistan",
+     0.4559
+    ],
+    [
+     "İlk 5 korner Özbekistan",
+     0.1547
+    ],
+    [
+     "5 kornere kimse ulaşamaz",
+     0.3874
+    ],
+    [
+     "İlk 7 korner Suudi Arabistan",
+     0.19
+    ],
+    [
+     "İlk 7 korner Özbekistan",
+     0.0398
+    ],
+    [
+     "7 kornere kimse ulaşamaz",
+     0.7698
+    ],
+    [
+     "İlk 9 korner Suudi Arabistan",
+     0.0484
+    ],
+    [
+     "İlk 9 korner Özbekistan",
+     0.0057
+    ],
+    [
+     "9 kornere kimse ulaşamaz",
+     0.9459
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Sonucu",
+   "oneri": "1 (Suudi Arabistan)",
+   "olasilik": 0.5373,
+   "adil_oran": 1.86,
+   "en_olasi": "1 (Suudi Arabistan)",
+   "en_olasi_p": 0.5373,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Suudi Arabistan)",
+     0.5373
+    ],
+    [
+     "X",
+     0.2034
+    ],
+    [
+     "2 (Özbekistan)",
+     0.2593
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Handikap",
+   "oneri": "Özbekistan +2,5",
+   "olasilik": 0.8338,
+   "adil_oran": 1.2,
+   "en_olasi": "Özbekistan +2,5",
+   "en_olasi_p": 0.8338,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan -2,5",
+     0.1662
+    ],
+    [
+     "Özbekistan +2,5",
+     0.8338
+    ],
+    [
+     "Suudi Arabistan -1,5",
+     0.3255
+    ],
+    [
+     "Özbekistan +1,5",
+     0.6745
+    ],
+    [
+     "Suudi Arabistan -0,5",
+     0.5373
+    ],
+    [
+     "Özbekistan +0,5",
+     0.4627
+    ],
+    [
+     "Suudi Arabistan +0,5",
+     0.7407
+    ],
+    [
+     "Özbekistan -0,5",
+     0.2593
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Toplam",
+   "oneri": "Toplam 5,5 Alt",
+   "olasilik": 0.8289,
+   "adil_oran": 1.21,
+   "en_olasi": "Toplam 5,5 Alt",
+   "en_olasi_p": 0.8289,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 3,5 Üst",
+     0.5075
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.4925
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.3149
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.6851
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.1711
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.8289
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Suudi Arabistan Toplam",
+   "oneri": "Suudi Arabistan 3,5 Alt",
+   "olasilik": 0.8176,
+   "adil_oran": 1.22,
+   "en_olasi": "Suudi Arabistan 3,5 Alt",
+   "en_olasi_p": 0.8176,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan 1,5 Üst",
+     0.6459
+    ],
+    [
+     "Suudi Arabistan 1,5 Alt",
+     0.3541
+    ],
+    [
+     "Suudi Arabistan 2,5 Üst",
+     0.379
+    ],
+    [
+     "Suudi Arabistan 2,5 Alt",
+     0.621
+    ],
+    [
+     "Suudi Arabistan 3,5 Üst",
+     0.1824
+    ],
+    [
+     "Suudi Arabistan 3,5 Alt",
+     0.8176
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Özbekistan Toplam",
+   "oneri": "Özbekistan 0,5 Üst",
+   "olasilik": 0.7773,
+   "adil_oran": 1.29,
+   "en_olasi": "Özbekistan 0,5 Üst",
+   "en_olasi_p": 0.7773,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Özbekistan 0,5 Üst",
+     0.7773
+    ],
+    [
+     "Özbekistan 0,5 Alt",
+     0.2227
+    ],
+    [
+     "Özbekistan 1,5 Üst",
+     0.4424
+    ],
+    [
+     "Özbekistan 1,5 Alt",
+     0.5576
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : 2. Yarı",
+   "oneri": "Toplam 5,5 Alt",
+   "olasilik": 0.7562,
+   "adil_oran": 1.32,
+   "en_olasi": "Toplam 6,5 Alt",
+   "en_olasi_p": 0.8682,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 4,5 Üst",
+     0.4067
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.5933
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.2438
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.7562
+    ],
+    [
+     "Toplam 6,5 Üst",
+     0.1318
+    ],
+    [
+     "Toplam 6,5 Alt",
+     0.8682
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : İlk Korner",
+   "oneri": "Suudi Arabistan",
+   "olasilik": 0.5721,
+   "adil_oran": 1.75,
+   "en_olasi": "Suudi Arabistan",
+   "en_olasi_p": 0.5721,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan",
+     0.5721
+    ],
+    [
+     "Özbekistan",
+     0.4274
+    ],
+    [
+     "Korner yok",
+     0.0004
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Son Korner",
+   "oneri": "Suudi Arabistan",
+   "olasilik": 0.5726,
+   "adil_oran": 1.75,
+   "en_olasi": "Suudi Arabistan",
+   "en_olasi_p": 0.5726,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan",
+     0.5726
+    ],
+    [
+     "Özbekistan",
+     0.4269
+    ],
+    [
+     "Korner yok",
+     0.0004
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "En Fazla Korner Olan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.4947,
+   "adil_oran": 2.02,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.4947,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.3619
+    ],
+    [
+     "Eşit",
+     0.1434
+    ],
+    [
+     "2. Yarı",
+     0.4947
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan : Sonuç",
+   "oneri": "2 (Özbekistan)",
+   "olasilik": 0.4328,
+   "adil_oran": 2.31,
+   "en_olasi": "2 (Özbekistan)",
+   "en_olasi_p": 0.4328,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "1 (Suudi Arabistan)",
+     0.3466
+    ],
+    [
+     "X",
+     0.2206
+    ],
+    [
+     "2 (Özbekistan)",
+     0.4328
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan Handikapı",
+   "oneri": "Özbekistan +15,5",
+   "olasilik": 0.8335,
+   "adil_oran": 1.2,
+   "en_olasi": "Özbekistan +15,5",
+   "en_olasi_p": 0.8335,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Suudi Arabistan -15,5",
+     0.1665
+    ],
+    [
+     "Özbekistan +15,5",
+     0.8335
+    ],
+    [
+     "Suudi Arabistan -5,5",
+     0.3401
+    ],
+    [
+     "Özbekistan +5,5",
+     0.6599
+    ],
+    [
+     "Suudi Arabistan +5,5",
+     0.5731
+    ],
+    [
+     "Özbekistan -5,5",
+     0.4269
+    ],
+    [
+     "Suudi Arabistan +15,5",
+     0.7724
+    ],
+    [
+     "Özbekistan -15,5",
+     0.2276
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam Puan",
+   "oneri": "Toplam 45,5 Alt",
+   "olasilik": 0.788,
+   "adil_oran": 1.27,
+   "en_olasi": "Toplam 55,5 Alt",
+   "en_olasi_p": 0.8893,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 25,5 Üst",
+     0.5822
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.4178
+    ],
+    [
+     "Toplam 35,5 Üst",
+     0.3723
+    ],
+    [
+     "Toplam 35,5 Alt",
+     0.6277
+    ],
+    [
+     "Toplam 45,5 Üst",
+     0.212
+    ],
+    [
+     "Toplam 45,5 Alt",
+     0.788
+    ],
+    [
+     "Toplam 55,5 Üst",
+     0.1107
+    ],
+    [
+     "Toplam 55,5 Alt",
+     0.8893
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Suudi Arabistan : Toplam Kart Puanı",
+   "oneri": "Suudi Arabistan 25,5 Alt",
+   "olasilik": 0.8135,
+   "adil_oran": 1.23,
+   "en_olasi": "Suudi Arabistan 25,5 Alt",
+   "en_olasi_p": 0.8135,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Suudi Arabistan 5,5 Üst",
+     0.7409
+    ],
+    [
+     "Suudi Arabistan 5,5 Alt",
+     0.2591
+    ],
+    [
+     "Suudi Arabistan 15,5 Üst",
+     0.4095
+    ],
+    [
+     "Suudi Arabistan 15,5 Alt",
+     0.5905
+    ],
+    [
+     "Suudi Arabistan 25,5 Üst",
+     0.1865
+    ],
+    [
+     "Suudi Arabistan 25,5 Alt",
+     0.8135
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Özbekistan : Toplam Kart Puanı",
+   "oneri": "Özbekistan 5,5 Üst",
+   "olasilik": 0.7899,
+   "adil_oran": 1.27,
+   "en_olasi": "Özbekistan 35,5 Alt",
+   "en_olasi_p": 0.9014,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Özbekistan 5,5 Üst",
+     0.7899
+    ],
+    [
+     "Özbekistan 5,5 Alt",
+     0.2101
+    ],
+    [
+     "Özbekistan 15,5 Üst",
+     0.4761
+    ],
+    [
+     "Özbekistan 15,5 Alt",
+     0.5239
+    ],
+    [
+     "Özbekistan 25,5 Üst",
+     0.2343
+    ],
+    [
+     "Özbekistan 25,5 Alt",
+     0.7657
+    ],
+    [
+     "Özbekistan 35,5 Üst",
+     0.0986
+    ],
+    [
+     "Özbekistan 35,5 Alt",
+     0.9014
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam (Aralıklar)",
+   "oneri": "0-20 puan",
+   "olasilik": 0.4141,
+   "adil_oran": 2.41,
+   "en_olasi": "0-20 puan",
+   "en_olasi_p": 0.4141,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "0-20 puan",
+     0.4141
+    ],
+    [
+     "21-40 puan",
+     0.3504
+    ],
+    [
+     "41-60 puan",
+     0.1607
+    ],
+    [
+     "61+ puan",
+     0.0699
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Toplam Kart Puanı",
+   "oneri": "Toplam 15,5 Alt",
+   "olasilik": 0.7022,
+   "adil_oran": 1.42,
+   "en_olasi": "Toplam 25,5 Alt",
+   "en_olasi_p": 0.8889,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 5,5 Üst",
+     0.6499
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.3501
+    ],
+    [
+     "Toplam 15,5 Üst",
+     0.2978
+    ],
+    [
+     "Toplam 15,5 Alt",
+     0.7022
+    ],
+    [
+     "Toplam 25,5 Üst",
+     0.1111
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.8889
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Suudi Arabistan : Toplam Kart Puanı",
+   "oneri": "Suudi Arabistan 5,5 Alt",
+   "olasilik": 0.6143,
+   "adil_oran": 1.63,
+   "en_olasi": "Suudi Arabistan 15,5 Alt",
+   "en_olasi_p": 0.8999,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Suudi Arabistan 5,5 Üst",
+     0.3857
+    ],
+    [
+     "Suudi Arabistan 5,5 Alt",
+     0.6143
+    ],
+    [
+     "Suudi Arabistan 15,5 Üst",
+     0.1001
+    ],
+    [
+     "Suudi Arabistan 15,5 Alt",
+     0.8999
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Özbekistan : Toplam Kart Puanı",
+   "oneri": "Özbekistan 5,5 Alt",
+   "olasilik": 0.571,
+   "adil_oran": 1.75,
+   "en_olasi": "Özbekistan 15,5 Alt",
+   "en_olasi_p": 0.877,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Özbekistan 5,5 Üst",
+     0.429
+    ],
+    [
+     "Özbekistan 5,5 Alt",
+     0.571
+    ],
+    [
+     "Özbekistan 15,5 Üst",
+     0.123
+    ],
+    [
+     "Özbekistan 15,5 Alt",
+     0.877
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Suudi Arabistan : Toplam Kart Puanı",
+   "oneri": "Suudi Arabistan 15,5 Alt",
+   "olasilik": 0.7663,
+   "adil_oran": 1.3,
+   "en_olasi": "Suudi Arabistan 15,5 Alt",
+   "en_olasi_p": 0.7663,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Suudi Arabistan 5,5 Üst",
+     0.5803
+    ],
+    [
+     "Suudi Arabistan 5,5 Alt",
+     0.4197
+    ],
+    [
+     "Suudi Arabistan 15,5 Üst",
+     0.2337
+    ],
+    [
+     "Suudi Arabistan 15,5 Alt",
+     0.7663
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Özbekistan : Toplam Kart Puanı",
+   "oneri": "Özbekistan 15,5 Alt",
+   "olasilik": 0.7207,
+   "adil_oran": 1.39,
+   "en_olasi": "Özbekistan 25,5 Alt",
+   "en_olasi_p": 0.8959,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Özbekistan 5,5 Üst",
+     0.6313
+    ],
+    [
+     "Özbekistan 5,5 Alt",
+     0.3687
+    ],
+    [
+     "Özbekistan 15,5 Üst",
+     0.2793
+    ],
+    [
+     "Özbekistan 15,5 Alt",
+     0.7207
+    ],
+    [
+     "Özbekistan 25,5 Üst",
+     0.1041
+    ],
+    [
+     "Özbekistan 25,5 Alt",
+     0.8959
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Direkt Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9335,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9335,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0665
+    ],
+    [
+     "Hayır",
+     0.9335
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Yarıda Kart Olur",
+   "oneri": "Evet",
+   "olasilik": 0.5492,
+   "adil_oran": 1.82,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5492,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5492
+    ],
+    [
+     "Hayır",
+     0.4508
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kırmızı Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.9962,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9962,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0038
+    ],
+    [
+     "Hayır",
+     0.9962
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kart Alır",
+   "oneri": "Evet",
+   "olasilik": 0.5854,
+   "adil_oran": 1.71,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5854,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5854
+    ],
+    [
+     "Hayır",
+     0.4147
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Kart Görür",
+   "oneri": "Hayır",
+   "olasilik": 0.813,
+   "adil_oran": 1.23,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.813,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.187
+    ],
+    [
+     "Hayır",
+     0.813
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Her İki Yarıda Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.9393,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9393,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0607
+    ],
+    [
+     "Hayır",
+     0.9393
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İlk Kartı Görecek Takım",
+   "oneri": "Özbekistan",
+   "olasilik": 0.5052,
+   "adil_oran": 1.98,
+   "en_olasi": "Özbekistan",
+   "en_olasi_p": 0.5052,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan",
+     0.4403
+    ],
+    [
+     "Özbekistan",
+     0.5052
+    ],
+    [
+     "Kart yok",
+     0.0545
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Son Kartı Görecek Takım",
+   "oneri": "Özbekistan",
+   "olasilik": 0.5056,
+   "adil_oran": 1.98,
+   "en_olasi": "Özbekistan",
+   "en_olasi_p": 0.5056,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan",
+     0.4399
+    ],
+    [
+     "Özbekistan",
+     0.5056
+    ],
+    [
+     "Kart yok",
+     0.0545
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Maçta Penaltı, Kırmızı Kart ve Kendi Kalesine Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9979,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9979,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0021
+    ],
+    [
+     "Hayır",
+     0.9979
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarı Uzatma Dakikalarında Kart Gösterilir (90+ dak)",
+   "oneri": "Hayır",
+   "olasilik": 0.7958,
+   "adil_oran": 1.26,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7958,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2042
+    ],
+    [
+     "Hayır",
+     0.7958
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarının Uzatma Dakikalarında Kırmızı Kart veya Gol Olur (90+ dakika)",
+   "oneri": "Hayır",
+   "olasilik": 0.8477,
+   "adil_oran": 1.18,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8477,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1523
+    ],
+    [
+     "Hayır",
+     0.8477
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Toplam Kırmızı Kartlar",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.9924,
+   "adil_oran": 1.01,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9924,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.1212
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.8788
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0076
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9924
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Suudi Arabistan : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9377,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9377,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0623
+    ],
+    [
+     "Hayır",
+     0.9377
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Özbekistan : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9373,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9373,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0627
+    ],
+    [
+     "Hayır",
+     0.9373
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "1. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9575,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9575,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0425
+    ],
+    [
+     "Hayır",
+     0.9575
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "2. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9177,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9177,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0823
+    ],
+    [
+     "Hayır",
+     0.9177
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Sonuç",
+   "oneri": "2 (Özbekistan)",
+   "olasilik": 0.4225,
+   "adil_oran": 2.37,
+   "en_olasi": "2 (Özbekistan)",
+   "en_olasi_p": 0.4225,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Suudi Arabistan)",
+     0.3296
+    ],
+    [
+     "X",
+     0.2478
+    ],
+    [
+     "2 (Özbekistan)",
+     0.4225
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.7522,
+   "adil_oran": 1.33,
+   "en_olasi": "12",
+   "en_olasi_p": 0.7522,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.5775
+    ],
+    [
+     "12",
+     0.7522
+    ],
+    [
+     "X2",
+     0.6704
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Handikap",
+   "oneri": "Suudi Arabistan +1,5",
+   "olasilik": 0.7914,
+   "adil_oran": 1.26,
+   "en_olasi": "Özbekistan +1,5",
+   "en_olasi_p": 0.8545,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan -1,5",
+     0.1455
+    ],
+    [
+     "Özbekistan +1,5",
+     0.8545
+    ],
+    [
+     "Suudi Arabistan -0,5",
+     0.3296
+    ],
+    [
+     "Özbekistan +0,5",
+     0.6704
+    ],
+    [
+     "Suudi Arabistan +0,5",
+     0.5775
+    ],
+    [
+     "Özbekistan -0,5",
+     0.4225
+    ],
+    [
+     "Suudi Arabistan +1,5",
+     0.7914
+    ],
+    [
+     "Özbekistan -1,5",
+     0.2086
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Toplam",
+   "oneri": "Toplam 3,5 Alt",
+   "olasilik": 0.6807,
+   "adil_oran": 1.47,
+   "en_olasi": "Toplam 5,5 Alt",
+   "en_olasi_p": 0.9304,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 2,5 Üst",
+     0.5435
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.4565
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.3193
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.6807
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.1595
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.8405
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.0696
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.9304
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Suudi Arabistan : Toplam",
+   "oneri": "Suudi Arabistan 0,5 Üst",
+   "olasilik": 0.7323,
+   "adil_oran": 1.37,
+   "en_olasi": "Suudi Arabistan 2,5 Alt",
+   "en_olasi_p": 0.8514,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan 0,5 Üst",
+     0.7323
+    ],
+    [
+     "Suudi Arabistan 0,5 Alt",
+     0.2677
+    ],
+    [
+     "Suudi Arabistan 1,5 Üst",
+     0.381
+    ],
+    [
+     "Suudi Arabistan 1,5 Alt",
+     0.619
+    ],
+    [
+     "Suudi Arabistan 2,5 Üst",
+     0.1487
+    ],
+    [
+     "Suudi Arabistan 2,5 Alt",
+     0.8514
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Özbekistan : Toplam",
+   "oneri": "Özbekistan 2,5 Alt",
+   "olasilik": 0.8013,
+   "adil_oran": 1.25,
+   "en_olasi": "Özbekistan 3,5 Alt",
+   "en_olasi_p": 0.9312,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Özbekistan 0,5 Üst",
+     0.7824
+    ],
+    [
+     "Özbekistan 0,5 Alt",
+     0.2176
+    ],
+    [
+     "Özbekistan 1,5 Üst",
+     0.4509
+    ],
+    [
+     "Özbekistan 1,5 Alt",
+     0.5491
+    ],
+    [
+     "Özbekistan 2,5 Üst",
+     0.1987
+    ],
+    [
+     "Özbekistan 2,5 Alt",
+     0.8013
+    ],
+    [
+     "Özbekistan 3,5 Üst",
+     0.0688
+    ],
+    [
+     "Özbekistan 3,5 Alt",
+     0.9312
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Sonucu",
+   "oneri": "X",
+   "olasilik": 0.4588,
+   "adil_oran": 2.18,
+   "en_olasi": "X",
+   "en_olasi_p": 0.4588,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Suudi Arabistan)",
+     0.2461
+    ],
+    [
+     "X",
+     0.4588
+    ],
+    [
+     "2 (Özbekistan)",
+     0.2951
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Handikap",
+   "oneri": "Özbekistan +0,5",
+   "olasilik": 0.7539,
+   "adil_oran": 1.33,
+   "en_olasi": "Özbekistan +0,5",
+   "en_olasi_p": 0.7539,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan -0,5",
+     0.2461
+    ],
+    [
+     "Özbekistan +0,5",
+     0.7539
+    ],
+    [
+     "Suudi Arabistan +0,5",
+     0.7049
+    ],
+    [
+     "Özbekistan -0,5",
+     0.2951
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı : Toplam",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.728,
+   "adil_oran": 1.37,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.9152,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.6398
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.3602
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.272
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.728
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.0848
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.9152
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Suudi Arabistan Toplam",
+   "oneri": "Suudi Arabistan 0,5 Alt",
+   "olasilik": 0.6228,
+   "adil_oran": 1.61,
+   "en_olasi": "Suudi Arabistan 1,5 Alt",
+   "en_olasi_p": 0.9173,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan 0,5 Üst",
+     0.3772
+    ],
+    [
+     "Suudi Arabistan 0,5 Alt",
+     0.6228
+    ],
+    [
+     "Suudi Arabistan 1,5 Üst",
+     0.0828
+    ],
+    [
+     "Suudi Arabistan 1,5 Alt",
+     0.9173
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Özbekistan Toplam",
+   "oneri": "Özbekistan 0,5 Alt",
+   "olasilik": 0.5794,
+   "adil_oran": 1.73,
+   "en_olasi": "Özbekistan 1,5 Alt",
+   "en_olasi_p": 0.894,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Özbekistan 0,5 Üst",
+     0.4206
+    ],
+    [
+     "Özbekistan 0,5 Alt",
+     0.5794
+    ],
+    [
+     "Özbekistan 1,5 Üst",
+     0.106
+    ],
+    [
+     "Özbekistan 1,5 Alt",
+     0.894
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Sonuç",
+   "oneri": "2 (Özbekistan)",
+   "olasilik": 0.373,
+   "adil_oran": 2.68,
+   "en_olasi": "2 (Özbekistan)",
+   "en_olasi_p": 0.373,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Suudi Arabistan)",
+     0.3027
+    ],
+    [
+     "X",
+     0.3243
+    ],
+    [
+     "2 (Özbekistan)",
+     0.373
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Handikap",
+   "oneri": "Özbekistan +0,5",
+   "olasilik": 0.6973,
+   "adil_oran": 1.43,
+   "en_olasi": "Özbekistan +0,5",
+   "en_olasi_p": 0.6973,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan -0,5",
+     0.3027
+    ],
+    [
+     "Özbekistan +0,5",
+     0.6973
+    ],
+    [
+     "Suudi Arabistan +0,5",
+     0.627
+    ],
+    [
+     "Özbekistan -0,5",
+     0.373
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Toplam",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.7226,
+   "adil_oran": 1.38,
+   "en_olasi": "Toplam 3,5 Alt",
+   "en_olasi_p": 0.8879,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 1,5 Üst",
+     0.545
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.455
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.2774
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.7226
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.1121
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.8879
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Suudi Arabistan Toplam",
+   "oneri": "Suudi Arabistan 1,5 Alt",
+   "olasilik": 0.7919,
+   "adil_oran": 1.26,
+   "en_olasi": "Suudi Arabistan 1,5 Alt",
+   "en_olasi_p": 0.7919,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan 0,5 Üst",
+     0.5718
+    ],
+    [
+     "Suudi Arabistan 0,5 Alt",
+     0.4282
+    ],
+    [
+     "Suudi Arabistan 1,5 Üst",
+     0.2081
+    ],
+    [
+     "Suudi Arabistan 1,5 Alt",
+     0.7919
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : İlk Sarı Kartı Görür",
+   "oneri": "Özbekistan",
+   "olasilik": 0.5041,
+   "adil_oran": 1.98,
+   "en_olasi": "Özbekistan",
+   "en_olasi_p": 0.5041,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan",
+     0.4376
+    ],
+    [
+     "Özbekistan",
+     0.5041
+    ],
+    [
+     "Sarı kart yok",
+     0.0583
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Son Sarı Kartı Görür",
+   "oneri": "Özbekistan",
+   "olasilik": 0.5044,
+   "adil_oran": 1.98,
+   "en_olasi": "Özbekistan",
+   "en_olasi_p": 0.5044,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Suudi Arabistan",
+     0.4373
+    ],
+    [
+     "Özbekistan",
+     0.5044
+    ],
+    [
+     "Sarı kart yok",
+     0.0583
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7879,
+   "adil_oran": 1.27,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7879,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2121
+    ],
+    [
+     "Hayır",
+     0.7879
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Suudi Arabistan : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8805,
+   "adil_oran": 1.14,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8805,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1195
+    ],
+    [
+     "Hayır",
+     0.8805
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Özbekistan : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8945,
+   "adil_oran": 1.12,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8945,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1055
+    ],
+    [
+     "Hayır",
+     0.8945
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "İki Takım da Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9871,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9871,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0129
+    ],
+    [
+     "Hayır",
+     0.9871
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta İki Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9756,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9756,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0244
+    ],
+    [
+     "Hayır",
+     0.9756
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "1. Yarı : Penaltı",
+   "oneri": "Hayır",
+   "olasilik": 0.9026,
+   "adil_oran": 1.11,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9026,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0974
+    ],
+    [
+     "Hayır",
+     0.9026
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltıdan Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.833,
+   "adil_oran": 1.2,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.833,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.167
+    ],
+    [
+     "Hayır",
+     0.833
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı Kaçırır",
+   "oneri": "Hayır",
+   "olasilik": 0.9462,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9462,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0538
+    ],
+    [
+     "Hayır",
+     0.9462
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı ve Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.974,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.974,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.026
+    ],
+    [
+     "Hayır",
+     0.974
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı veya Kırmızı Kart Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.6926,
+   "adil_oran": 1.44,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6926,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3074
+    ],
+    [
+     "Hayır",
+     0.6926
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Herhangi Bir Zamanda Gol Atar",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.3282,
+   "adil_oran": 3.05,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.3282,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.3282
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.2025
+    ],
+    [
+     "Khusayin Norchaev",
+     0.1709
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.1182
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0957
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İlk Golcü",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.1211,
+   "adil_oran": 8.26,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.1211,
+   "guven": "düşük",
+   "not_": "Takımın ilk golü × oyuncu payı",
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.1211
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0764
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.0573
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0505
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0404
+    ],
+    [
+     "Gol yok",
+     0.0857
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İlk Golcü Çifte Şans",
+   "oneri": "Firas Al-Buraikan ilk golü veya ikinci golü",
+   "olasilik": 0.2247,
+   "adil_oran": 4.45,
+   "en_olasi": "Firas Al-Buraikan ilk golü veya ikinci golü",
+   "en_olasi_p": 0.2247,
+   "guven": "düşük",
+   "not_": "Yaklaşık",
+   "secimler": [
+    [
+     "Firas Al-Buraikan ilk golü veya ikinci golü",
+     0.2247
+    ],
+    [
+     "Khusayin Norchaev ilk golü veya ikinci golü",
+     0.1419
+    ],
+    [
+     "Abbosbek Fayzullayev ilk golü veya ikinci golü",
+     0.1064
+    ],
+    [
+     "Musab Al-Juwayr ilk golü veya ikinci golü",
+     0.0936
+    ],
+    [
+     "Nasser Al-Dawsari ilk golü veya ikinci golü",
+     0.0749
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Son Golcü",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.1216,
+   "adil_oran": 8.22,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.1216,
+   "guven": "düşük",
+   "not_": "Yaklaşık",
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.1216
+    ],
+    [
+     "Khusayin Norchaev",
+     0.076
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.057
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0507
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0405
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Suudi Arabistan : İlk Golü Atar",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.1808,
+   "adil_oran": 5.53,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.1808,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.1808
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0753
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0603
+    ]
+   ],
+   "sonuc": "kısmi (0.24)"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Özbekistan : İlk Golü Atar",
+   "oneri": "Khusayin Norchaev",
+   "olasilik": 0.1305,
+   "adil_oran": 7.66,
+   "en_olasi": "Khusayin Norchaev",
+   "en_olasi_p": 0.1305,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Khusayin Norchaev",
+     0.1305
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.0979
+    ]
+   ],
+   "sonuc": "kısmi (0.20)"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Suudi Arabistan : Son Golcü",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.1808,
+   "adil_oran": 5.53,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.1808,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.1808
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0753
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0603
+    ]
+   ],
+   "sonuc": "kısmi (0.24)"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Özbekistan : Son Golü Atar",
+   "oneri": "Khusayin Norchaev",
+   "olasilik": 0.1305,
+   "adil_oran": 7.66,
+   "en_olasi": "Khusayin Norchaev",
+   "en_olasi_p": 0.1305,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Khusayin Norchaev",
+     0.1305
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.0979
+    ]
+   ],
+   "sonuc": "kısmi (0.20)"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu En Az 2 Gol Atar",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.0616,
+   "adil_oran": 16.23,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.0616,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.0616
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.022
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0159
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0075
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0046
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu En Az 3 Gol Atar",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.0079,
+   "adil_oran": 127.25,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.0079,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.0079
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.0015
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0009
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0004
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0002
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 4 veya Daha Çok Gol Atar",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.0006,
+   "adil_oran": 1578.95,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.0006,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.0006
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.0001
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Herhangi Bir Zaman Gol Atar Çifte Şans",
+   "oneri": "Firas Al-Buraikan veya Abbosbek Fayzullayev",
+   "olasilik": 0.4632,
+   "adil_oran": 2.16,
+   "en_olasi": "Firas Al-Buraikan veya Abbosbek Fayzullayev",
+   "en_olasi_p": 0.4632,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan veya Abbosbek Fayzullayev",
+     0.4632
+    ],
+    [
+     "Firas Al-Buraikan veya Khusayin Norchaev",
+     0.4429
+    ],
+    [
+     "Firas Al-Buraikan veya Musab Al-Juwayr",
+     0.4074
+    ],
+    [
+     "Firas Al-Buraikan veya Nasser Al-Dawsari",
+     0.3925
+    ],
+    [
+     "Khusayin Norchaev veya Abbosbek Fayzullayev",
+     0.3394
+    ],
+    [
+     "Musab Al-Juwayr veya Abbosbek Fayzullayev",
+     0.2971
+    ],
+    [
+     "Nasser Al-Dawsari veya Abbosbek Fayzullayev",
+     0.2787
+    ],
+    [
+     "Musab Al-Juwayr veya Khusayin Norchaev",
+     0.2688
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar",
+   "oneri": "Firas Al-Buraikan ve Abbosbek Fayzullayev",
+   "olasilik": 0.0674,
+   "adil_oran": 14.83,
+   "en_olasi": "Firas Al-Buraikan ve Abbosbek Fayzullayev",
+   "en_olasi_p": 0.0674,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan ve Abbosbek Fayzullayev",
+     0.0674
+    ],
+    [
+     "Firas Al-Buraikan ve Khusayin Norchaev",
+     0.0562
+    ],
+    [
+     "Firas Al-Buraikan ve Musab Al-Juwayr",
+     0.039
+    ],
+    [
+     "Khusayin Norchaev ve Abbosbek Fayzullayev",
+     0.034
+    ],
+    [
+     "Firas Al-Buraikan ve Nasser Al-Dawsari",
+     0.0313
+    ],
+    [
+     "Musab Al-Juwayr ve Abbosbek Fayzullayev",
+     0.0236
+    ],
+    [
+     "Musab Al-Juwayr ve Khusayin Norchaev",
+     0.0203
+    ],
+    [
+     "Nasser Al-Dawsari ve Abbosbek Fayzullayev",
+     0.0194
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "2 Oyuncu Toplamda Üst 1.5 Gol Atar",
+   "oneri": "Firas Al-Buraikan + Abbosbek Fayzullayev",
+   "olasilik": 0.1313,
+   "adil_oran": 7.62,
+   "en_olasi": "Firas Al-Buraikan + Abbosbek Fayzullayev",
+   "en_olasi_p": 0.1313,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan + Abbosbek Fayzullayev",
+     0.1313
+    ],
+    [
+     "Firas Al-Buraikan + Khusayin Norchaev",
+     0.1178
+    ],
+    [
+     "Firas Al-Buraikan + Musab Al-Juwayr",
+     0.0984
+    ],
+    [
+     "Firas Al-Buraikan + Nasser Al-Dawsari",
+     0.0903
+    ],
+    [
+     "Khusayin Norchaev + Abbosbek Fayzullayev",
+     0.0646
+    ],
+    [
+     "Musab Al-Juwayr + Abbosbek Fayzullayev",
+     0.0489
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "2 Oyuncu Toplamda Üst 2.5 Gol Atar",
+   "oneri": "Firas Al-Buraikan + Abbosbek Fayzullayev",
+   "olasilik": 0.0258,
+   "adil_oran": 38.82,
+   "en_olasi": "Firas Al-Buraikan + Abbosbek Fayzullayev",
+   "en_olasi_p": 0.0258,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan + Abbosbek Fayzullayev",
+     0.0258
+    ],
+    [
+     "Firas Al-Buraikan + Khusayin Norchaev",
+     0.022
+    ],
+    [
+     "Firas Al-Buraikan + Musab Al-Juwayr",
+     0.0164
+    ],
+    [
+     "Firas Al-Buraikan + Nasser Al-Dawsari",
+     0.0141
+    ],
+    [
+     "Khusayin Norchaev + Abbosbek Fayzullayev",
+     0.0088
+    ],
+    [
+     "Musab Al-Juwayr + Abbosbek Fayzullayev",
+     0.0056
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "2 Oyuncu Toplamda Üst 3.5 Gol Atar",
+   "oneri": "Firas Al-Buraikan + Abbosbek Fayzullayev",
+   "olasilik": 0.0036,
+   "adil_oran": 275.23,
+   "en_olasi": "Firas Al-Buraikan + Abbosbek Fayzullayev",
+   "en_olasi_p": 0.0036,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan + Abbosbek Fayzullayev",
+     0.0036
+    ],
+    [
+     "Firas Al-Buraikan + Khusayin Norchaev",
+     0.003
+    ],
+    [
+     "Firas Al-Buraikan + Musab Al-Juwayr",
+     0.0019
+    ],
+    [
+     "Firas Al-Buraikan + Nasser Al-Dawsari",
+     0.0016
+    ],
+    [
+     "Khusayin Norchaev + Abbosbek Fayzullayev",
+     0.0009
+    ],
+    [
+     "Musab Al-Juwayr + Abbosbek Fayzullayev",
+     0.0006
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 1. Yarıda Gol Atar",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.1522,
+   "adil_oran": 6.57,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.1522,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.1522
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.0903
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0752
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0521
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0423
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 2. Yarıda Gol Atar",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.1978,
+   "adil_oran": 5.06,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.1978,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.1978
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.1191
+    ],
+    [
+     "Khusayin Norchaev",
+     0.1007
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0686
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0549
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Her İki Yarıda da Gol Atar",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.0218,
+   "adil_oran": 45.96,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.0218,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.0218
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.0069
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0051
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0025
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0015
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İlk 10 Dakikada Gol Atar",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.0403,
+   "adil_oran": 24.8,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.0403,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.0403
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.0223
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0188
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0125
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.01
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Penaltıdan Gol Atar",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.0927,
+   "adil_oran": 10.79,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.0927,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.0927
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.0823
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Gol Atar",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.046,
+   "adil_oran": 21.73,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.046,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.046
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.0261
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0224
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0143
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.012
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kale Sahası İçinden Gol Atar",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.0768,
+   "adil_oran": 13.02,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.0768,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.0768
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.0433
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0367
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0248
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0199
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kafa Golü Atar",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.0654,
+   "adil_oran": 15.29,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.0654,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.0654
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.0372
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0311
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.021
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0171
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Serbest Vuruştan Gol Atar",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.0118,
+   "adil_oran": 84.57,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.0118,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.0118
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.0066
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0056
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0035
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0031
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sağ Ayağıyla Gol Atar",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.1963,
+   "adil_oran": 5.09,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.1963,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.1963
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.1167
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0983
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0669
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0533
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Takımı Kazanır",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.224,
+   "adil_oran": 4.46,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.224,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.224
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.1056
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0906
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0839
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0673
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Rakip Takım Kazanır",
+   "oneri": "Abbosbek Fayzullayev",
+   "olasilik": 0.0469,
+   "adil_oran": 21.3,
+   "en_olasi": "Abbosbek Fayzullayev",
+   "en_olasi_p": 0.0469,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Abbosbek Fayzullayev",
+     0.0469
+    ],
+    [
+     "Firas Al-Buraikan",
+     0.0402
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0391
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.013
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0107
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Maç Berabere Biter",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.0639,
+   "adil_oran": 15.64,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.0639,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.0639
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.05
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0412
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0213
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0176
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Asist Yapar",
+   "oneri": "Musab Al-Juwayr",
+   "olasilik": 0.127,
+   "adil_oran": 7.88,
+   "en_olasi": "Musab Al-Juwayr",
+   "en_olasi_p": 0.127,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Musab Al-Juwayr",
+     0.127
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.1267
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.1154
+    ],
+    [
+     "Firas Al-Buraikan",
+     0.07
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0524
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar veya Asist Yapar",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.3646,
+   "adil_oran": 2.74,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.3646,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.3646
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.2815
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.2195
+    ],
+    [
+     "Khusayin Norchaev",
+     0.2058
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.2019
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar veya Asist Yapar (Çifte Şans)",
+   "oneri": "Firas Al-Buraikan veya Abbosbek Fayzullayev gol/asist",
+   "olasilik": 0.5429,
+   "adil_oran": 1.84,
+   "en_olasi": "Firas Al-Buraikan veya Abbosbek Fayzullayev gol/asist",
+   "en_olasi_p": 0.5429,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan veya Abbosbek Fayzullayev gol/asist",
+     0.5429
+    ],
+    [
+     "Firas Al-Buraikan veya Khusayin Norchaev gol/asist",
+     0.4954
+    ],
+    [
+     "Firas Al-Buraikan veya Musab Al-Juwayr gol/asist",
+     0.4839
+    ],
+    [
+     "Firas Al-Buraikan veya Nasser Al-Dawsari gol/asist",
+     0.4738
+    ],
+    [
+     "Musab Al-Juwayr veya Abbosbek Fayzullayev gol/asist",
+     0.4405
+    ],
+    [
+     "Nasser Al-Dawsari veya Abbosbek Fayzullayev gol/asist",
+     0.4268
+    ]
+   ],
+   "sonuc": "tuttu"
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Asist Yapar",
+   "oneri": "Abbosbek Fayzullayev",
+   "olasilik": 0.0364,
+   "adil_oran": 27.46,
+   "en_olasi": "Abbosbek Fayzullayev",
+   "en_olasi_p": 0.0364,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Abbosbek Fayzullayev",
+     0.0364
+    ],
+    [
+     "Firas Al-Buraikan",
+     0.0336
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0256
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0204
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0175
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Gol Asisti Yapar Çifte Şans",
+   "oneri": "Nasser Al-Dawsari veya Musab Al-Juwayr asist",
+   "olasilik": 0.2378,
+   "adil_oran": 4.2,
+   "en_olasi": "Nasser Al-Dawsari veya Musab Al-Juwayr asist",
+   "en_olasi_p": 0.2378,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Nasser Al-Dawsari veya Musab Al-Juwayr asist",
+     0.2378
+    ],
+    [
+     "Musab Al-Juwayr veya Abbosbek Fayzullayev asist",
+     0.2282
+    ],
+    [
+     "Nasser Al-Dawsari veya Abbosbek Fayzullayev asist",
+     0.2272
+    ],
+    [
+     "Firas Al-Buraikan veya Musab Al-Juwayr asist",
+     0.1882
+    ],
+    [
+     "Firas Al-Buraikan veya Nasser Al-Dawsari asist",
+     0.1877
+    ],
+    [
+     "Firas Al-Buraikan veya Abbosbek Fayzullayev asist",
+     0.1774
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Penaltı Kaçırır",
+   "oneri": "Firas Al-Buraikan",
+   "olasilik": 0.0294,
+   "adil_oran": 34.0,
+   "en_olasi": "Firas Al-Buraikan",
+   "en_olasi_p": 0.0294,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Firas Al-Buraikan",
+     0.0294
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.0252
+    ],
+    [
+     "Nasser Al-Dawsari",
+     0.0
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Penaltı Kazandıran Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu bazlı penaltı verisi yok",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kart Görür",
+   "oneri": "Nasser Al-Dawsari",
+   "olasilik": 0.1502,
+   "adil_oran": 6.66,
+   "en_olasi": "Nasser Al-Dawsari",
+   "en_olasi_p": 0.1502,
+   "guven": "düşük",
+   "not_": "Oyuncunun kart ihtimali girdiden",
+   "secimler": [
+    [
+     "Nasser Al-Dawsari",
+     0.1502
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.1199
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.1197
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0993
+    ],
+    [
+     "Firas Al-Buraikan",
+     0.0822
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kart Görür Çifte Şans",
+   "oneri": "Nasser Al-Dawsari veya Abbosbek Fayzullayev",
+   "olasilik": 0.2524,
+   "adil_oran": 3.96,
+   "en_olasi": "Nasser Al-Dawsari veya Abbosbek Fayzullayev",
+   "en_olasi_p": 0.2524,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Nasser Al-Dawsari veya Abbosbek Fayzullayev",
+     0.2524
+    ],
+    [
+     "Nasser Al-Dawsari veya Musab Al-Juwayr",
+     0.2521
+    ],
+    [
+     "Nasser Al-Dawsari veya Khusayin Norchaev",
+     0.2348
+    ],
+    [
+     "Musab Al-Juwayr veya Abbosbek Fayzullayev",
+     0.2253
+    ],
+    [
+     "Firas Al-Buraikan veya Nasser Al-Dawsari",
+     0.2195
+    ],
+    [
+     "Musab Al-Juwayr veya Khusayin Norchaev",
+     0.2074
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sarı Kart Görür",
+   "oneri": "Nasser Al-Dawsari",
+   "olasilik": 0.1502,
+   "adil_oran": 6.66,
+   "en_olasi": "Nasser Al-Dawsari",
+   "en_olasi_p": 0.1502,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Nasser Al-Dawsari",
+     0.1502
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.1199
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.1197
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0993
+    ],
+    [
+     "Firas Al-Buraikan",
+     0.0822
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Kart Görecek İlk Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu sıralaması için yeterli veri yok",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Son Kartı Görecek Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu sıralaması için yeterli veri yok",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyundan Uzaklaştırılır",
+   "oneri": "Nasser Al-Dawsari",
+   "olasilik": 0.0076,
+   "adil_oran": 131.87,
+   "en_olasi": "Nasser Al-Dawsari",
+   "en_olasi_p": 0.0076,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Nasser Al-Dawsari",
+     0.0076
+    ],
+    [
+     "Musab Al-Juwayr",
+     0.0063
+    ],
+    [
+     "Abbosbek Fayzullayev",
+     0.0056
+    ],
+    [
+     "Khusayin Norchaev",
+     0.0048
+    ],
+    [
+     "Firas Al-Buraikan",
+     0.0038
+    ]
+   ],
+   "sonuc": "tutmadı"
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Şutları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pasları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pas Denemeleri",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncunun Yaptığı Fauller",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncuya Faul Yapılır",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Topa Müdahaleler",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ofsayta Düşer",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Kaleci Kurtarışları",
+   "oneri": "Özbekistan kalecisi 1,5 Üst",
+   "olasilik": 0.8321,
+   "adil_oran": 1.2,
+   "en_olasi": "Suudi Arabistan kalecisi 4,5 Alt",
+   "en_olasi_p": 0.9022,
+   "guven": "düşük",
+   "not_": "Rakibin beklenen golünden türetildi",
+   "secimler": [
+    [
+     "Suudi Arabistan kalecisi 1,5 Üst",
+     0.6941
+    ],
+    [
+     "Suudi Arabistan kalecisi 1,5 Alt",
+     0.3059
+    ],
+    [
+     "Suudi Arabistan kalecisi 2,5 Üst",
+     0.4335
+    ],
+    [
+     "Suudi Arabistan kalecisi 2,5 Alt",
+     0.5665
+    ],
+    [
+     "Suudi Arabistan kalecisi 3,5 Üst",
+     0.2248
+    ],
+    [
+     "Suudi Arabistan kalecisi 3,5 Alt",
+     0.7752
+    ],
+    [
+     "Suudi Arabistan kalecisi 4,5 Üst",
+     0.0978
+    ],
+    [
+     "Suudi Arabistan kalecisi 4,5 Alt",
+     0.9022
+    ],
+    [
+     "Özbekistan kalecisi 1,5 Üst",
+     0.8321
+    ],
+    [
+     "Özbekistan kalecisi 1,5 Alt",
+     0.1679
+    ],
+    [
+     "Özbekistan kalecisi 2,5 Üst",
+     0.626
+    ],
+    [
+     "Özbekistan kalecisi 2,5 Alt",
+     0.374
+    ],
+    [
+     "Özbekistan kalecisi 3,5 Üst",
+     0.4038
+    ],
+    [
+     "Özbekistan kalecisi 3,5 Alt",
+     0.5962
+    ],
+    [
+     "Özbekistan kalecisi 4,5 Üst",
+     0.2256
+    ],
+    [
+     "Özbekistan kalecisi 4,5 Alt",
+     0.7744
+    ]
+   ],
+   "sonuc": "belirsiz"
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Pas Veren Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Faul Yapan Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 1. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 2. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Her İki Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Çektiği Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kafayla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sağ Ayakla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": [],
+   "sonuc": "değerlendirilmedi"
+  }
+ ]
+}

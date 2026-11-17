@@ -1,0 +1,68 @@
+{
+ "skor": "1-1",
+ "kaynak": "FotMob maç 5181810",
+ "goller": [
+  {
+   "dk": 35,
+   "takim": "ev",
+   "oyuncu": "Barnabás Varga"
+  },
+  {
+   "dk": 65,
+   "takim": "dep",
+   "oyuncu": "Justin Devenny"
+  }
+ ],
+ "kartlar": [
+  {
+   "dk": 51,
+   "takim": "ev",
+   "tur": "sari",
+   "oyuncu": "Barnabás Varga"
+  },
+  {
+   "dk": 51,
+   "takim": "dep",
+   "tur": "sari",
+   "oyuncu": "Pierce Charles"
+  },
+  {
+   "dk": 56,
+   "takim": "dep",
+   "tur": "sari",
+   "oyuncu": "Trai Hume"
+  },
+  {
+   "dk": 83,
+   "takim": "ev",
+   "tur": "sari",
+   "oyuncu": "Miloš Kerkez"
+  }
+ ],
+ "kornerler": {
+  "ev": 5,
+  "dep": 4
+ },
+ "istatistik": {
+  "Expected goals (xG)": [
+   "1.21",
+   "0.61"
+  ],
+  "Shots on target": [
+   2,
+   2
+  ],
+  "Yellow cards": [
+   2,
+   2
+  ],
+  "Corners": [
+   5,
+   4
+  ],
+  "Red cards": [
+   0,
+   0
+  ]
+ }
+}
