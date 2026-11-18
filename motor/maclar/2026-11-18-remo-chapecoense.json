@@ -1,0 +1,30 @@
+{
+ "organizasyon": "Brezilya Serie A, 35. hafta",
+ "tarih": "19 Kasım 2026, 02:00 TSİ",
+ "stadyum": "Mangueirão, Belém",
+ "hakem": "Alex Gomes Stefano (18 maç: 4,72 sarı, lig 4,91; 8 kırmızı; 9 penaltı)",
+ "ilk_yari_gol_payi": 0.44,
+ "korner_guven": "orta",
+ "kart_guven": "orta",
+ "var_ort": 0.35,
+ "not": "Kart: takım maçları az kartlı (Remo 3,0, Chape 2,4) + hakem normal → ~3,4. Korner FotMob son 5. Goller piyasadan. Korner duyarlılık testi: Remo 6,8 (zayıf rakip).",
+ "ev": {
+  "ad": "Remo PA",
+  "beklenen_gol": 2.164,
+  "korner": 6.8,
+  "sari_kart": 1.75,
+  "penalti_kazanma": 0.3,
+  "direkt_kirmizi": 0.07,
+  "model_beklenen_gol": 1.6
+ },
+ "dep": {
+  "ad": "Chapecoense",
+  "beklenen_gol": 0.871,
+  "korner": 5.0,
+  "sari_kart": 1.65,
+  "penalti_kazanma": 0.2,
+  "direkt_kirmizi": 0.07,
+  "model_beklenen_gol": 0.7
+ },
+ "kalibrasyon": "Beklenen goller site oranlarından (takım gol çizgilerinin ortalaması)"
+}
