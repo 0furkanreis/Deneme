@@ -15,6 +15,7 @@
 | 18.11 | Newington – H&W Welders | Oynama (veri yok, piyasayla aynı görüş) | — | — | — |
 | 18.11 | Chelsea K – PSG K | Oynama (değer yok) | — | — | — |
 | 18.11 | Juventus K – Leuven K (site oranıyla) | Sarı kart toplam 2,5 Alt @1,67 | %72 (harman %64) | bekliyor | — |
+| 18.11 | Alianza Atlético – Melgar (çok kaynaklı) | Sarı kart toplam 4,5 Alt @1,70 | %70 (harman %61) | bekliyor | — |
 | 18.11 | Dunipace – Linlithgow Rose | Oynama (tek fark gol altı yönünde; kural gereği piyasaya karşı alt oynanmıyor) | — | — | — |
 
 Ana öneriler: 4 tuttu / 2 tutmadı (1 değerlendirilemedi).

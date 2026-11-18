@@ -1,0 +1,9666 @@
+{
+ "mac": {
+  "organizasyon": "Peru Liga 1, Clausura 17. hafta",
+  "tarih": "18 Kasım 2026, 23:00 TSİ",
+  "stadyum": "Estadio Campeones del '36, Sullana",
+  "hakem": "Edwin Ordóñez (43 maç: 3,88 sarı/maç, lig 4,66; 0,33 kırmızı; 0,49 penaltı)",
+  "ilk_yari_gol_payi": 0.44,
+  "korner_guven": "orta",
+  "kart_guven": "orta",
+  "var_ort": 0.3,
+  "not": "Kart: takım verisi (Alianza maçları 3,0, Melgar maçları 5,0 sarı) × hakem düzeltmesi. Melgar'da Cuesta, Cáceres yok.",
+  "kalibrasyon": "Beklenen goller site oranlarından (takım gol çizgilerinin ortalaması)"
+ },
+ "ev": "Alianza Atletico Sullana",
+ "dep": "FBC Melgar",
+ "beklenen_gol": [
+  1.545,
+  1.074
+ ],
+ "simulasyon": 120000,
+ "pazarlar": [
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu",
+   "oneri": "1 (Alianza Atletico Sullana)",
+   "olasilik": 0.4825,
+   "adil_oran": 2.07,
+   "en_olasi": "1 (Alianza Atletico Sullana)",
+   "en_olasi_p": 0.4825,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Alianza Atletico Sullana)",
+     0.4825
+    ],
+    [
+     "X",
+     0.2526
+    ],
+    [
+     "2 (FBC Melgar)",
+     0.2649
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.7474,
+   "adil_oran": 1.34,
+   "en_olasi": "12",
+   "en_olasi_p": 0.7474,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.7351
+    ],
+    [
+     "12",
+     0.7474
+    ],
+    [
+     "X2",
+     0.5175
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Beraberlikte İade",
+   "oneri": "Alianza Atletico Sullana",
+   "olasilik": 0.6456,
+   "adil_oran": 1.55,
+   "en_olasi": "Alianza Atletico Sullana",
+   "en_olasi_p": 0.6456,
+   "guven": "yüksek",
+   "not_": "Beraberlikte iade; olasılık iade hariç",
+   "secimler": [
+    [
+     "Alianza Atletico Sullana",
+     0.6456
+    ],
+    [
+     "FBC Melgar",
+     0.3544
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Alianza Atletico Sullana : Bahis Yok",
+   "oneri": "FBC Melgar",
+   "olasilik": 0.5118,
+   "adil_oran": 1.95,
+   "en_olasi": "FBC Melgar",
+   "en_olasi_p": 0.5118,
+   "guven": "yüksek",
+   "not_": "Alianza Atletico Sullana kazanırsa iade",
+   "secimler": [
+    [
+     "X",
+     0.4882
+    ],
+    [
+     "FBC Melgar",
+     0.5118
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "FBC Melgar : Bahis Yok",
+   "oneri": "Alianza Atletico Sullana",
+   "olasilik": 0.6563,
+   "adil_oran": 1.52,
+   "en_olasi": "Alianza Atletico Sullana",
+   "en_olasi_p": 0.6563,
+   "guven": "yüksek",
+   "not_": "FBC Melgar kazanırsa iade",
+   "secimler": [
+    [
+     "Alianza Atletico Sullana",
+     0.6563
+    ],
+    [
+     "X",
+     0.3437
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Alianza Atletico Sullana : Geriden Gelerek Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9311,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9311,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0689
+    ],
+    [
+     "Hayır",
+     0.9311
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "FBC Melgar : Geriden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9579,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9579,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0421
+    ],
+    [
+     "Hayır",
+     0.9579
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Alianza Atletico Sullana : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.5175,
+   "adil_oran": 1.93,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.5175,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.2355
+    ],
+    [
+     "2 fark",
+     0.1461
+    ],
+    [
+     "3 fark",
+     0.0678
+    ],
+    [
+     "4+ fark",
+     0.0331
+    ],
+    [
+     "Kazanamaz",
+     0.5175
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "FBC Melgar : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.7351,
+   "adil_oran": 1.36,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.7351,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.1648
+    ],
+    [
+     "2 fark",
+     0.0702
+    ],
+    [
+     "3 fark",
+     0.023
+    ],
+    [
+     "4+ fark",
+     0.0069
+    ],
+    [
+     "Kazanamaz",
+     0.7351
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller",
+   "oneri": "Toplam 1,5 Üst",
+   "olasilik": 0.7373,
+   "adil_oran": 1.36,
+   "en_olasi": "Toplam 5,5 Alt",
+   "en_olasi_p": 0.9497,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.927
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.073
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.7373
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.2627
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.4902
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.5098
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.2699
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.7301
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.1264
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.8736
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.0503
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.9497
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Alianza Atletico Sullana : Toplam Gol",
+   "oneri": "Alianza Atletico Sullana 2,5 Alt",
+   "olasilik": 0.7957,
+   "adil_oran": 1.26,
+   "en_olasi": "Alianza Atletico Sullana 3,5 Alt",
+   "en_olasi_p": 0.9278,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana 0,5 Üst",
+     0.7862
+    ],
+    [
+     "Alianza Atletico Sullana 0,5 Alt",
+     0.2138
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Üst",
+     0.4595
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Alt",
+     0.5405
+    ],
+    [
+     "Alianza Atletico Sullana 2,5 Üst",
+     0.2043
+    ],
+    [
+     "Alianza Atletico Sullana 2,5 Alt",
+     0.7957
+    ],
+    [
+     "Alianza Atletico Sullana 3,5 Üst",
+     0.0722
+    ],
+    [
+     "Alianza Atletico Sullana 3,5 Alt",
+     0.9278
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "FBC Melgar : Toplam Gol",
+   "oneri": "FBC Melgar 1,5 Alt",
+   "olasilik": 0.7071,
+   "adil_oran": 1.41,
+   "en_olasi": "FBC Melgar 3,5 Alt",
+   "en_olasi_p": 0.976,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "FBC Melgar 0,5 Üst",
+     0.6601
+    ],
+    [
+     "FBC Melgar 0,5 Alt",
+     0.3399
+    ],
+    [
+     "FBC Melgar 1,5 Üst",
+     0.2929
+    ],
+    [
+     "FBC Melgar 1,5 Alt",
+     0.7071
+    ],
+    [
+     "FBC Melgar 2,5 Üst",
+     0.0947
+    ],
+    [
+     "FBC Melgar 2,5 Alt",
+     0.9053
+    ],
+    [
+     "FBC Melgar 3,5 Üst",
+     0.024
+    ],
+    [
+     "FBC Melgar 3,5 Alt",
+     0.976
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller Asya",
+   "oneri": "Toplam Asya 1,75 Üst",
+   "olasilik": 0.7003,
+   "adil_oran": 1.43,
+   "en_olasi": "Toplam Asya 1,75 Üst",
+   "en_olasi_p": 0.7003,
+   "guven": "yüksek",
+   "not_": "Asya çizgisi: değer = 1/adil oran",
+   "secimler": [
+    [
+     "Toplam Asya 1,75 Üst",
+     0.7003
+    ],
+    [
+     "Toplam Asya 1,75 Alt",
+     0.2997
+    ],
+    [
+     "Toplam Asya 2 Üst",
+     0.6511
+    ],
+    [
+     "Toplam Asya 2 Alt",
+     0.3489
+    ],
+    [
+     "Toplam Asya 2,25 Üst",
+     0.5593
+    ],
+    [
+     "Toplam Asya 2,25 Alt",
+     0.4407
+    ],
+    [
+     "Toplam Asya 2,5 Üst",
+     0.4902
+    ],
+    [
+     "Toplam Asya 2,5 Alt",
+     0.5098
+    ],
+    [
+     "Toplam Asya 2,75 Üst",
+     0.4271
+    ],
+    [
+     "Toplam Asya 2,75 Alt",
+     0.5729
+    ],
+    [
+     "Toplam Asya 3 Üst",
+     0.3462
+    ],
+    [
+     "Toplam Asya 3 Alt",
+     0.6538
+    ],
+    [
+     "Toplam Asya 3,25 Üst",
+     0.3033
+    ],
+    [
+     "Toplam Asya 3,25 Alt",
+     0.6967
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Alianza Atletico Sullana : Toplam Gol Asya",
+   "oneri": "Alianza Atletico Sullana Asya 2,25 Alt",
+   "olasilik": 0.7659,
+   "adil_oran": 1.31,
+   "en_olasi": "Alianza Atletico Sullana Asya 2,25 Alt",
+   "en_olasi_p": 0.7659,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana Asya 0,75 Üst",
+     0.7445
+    ],
+    [
+     "Alianza Atletico Sullana Asya 0,75 Alt",
+     0.2555
+    ],
+    [
+     "Alianza Atletico Sullana Asya 1 Üst",
+     0.6825
+    ],
+    [
+     "Alianza Atletico Sullana Asya 1 Alt",
+     0.3175
+    ],
+    [
+     "Alianza Atletico Sullana Asya 1,25 Üst",
+     0.5492
+    ],
+    [
+     "Alianza Atletico Sullana Asya 1,25 Alt",
+     0.4508
+    ],
+    [
+     "Alianza Atletico Sullana Asya 1,5 Üst",
+     0.4595
+    ],
+    [
+     "Alianza Atletico Sullana Asya 1,5 Alt",
+     0.5405
+    ],
+    [
+     "Alianza Atletico Sullana Asya 1,75 Üst",
+     0.3804
+    ],
+    [
+     "Alianza Atletico Sullana Asya 1,75 Alt",
+     0.6196
+    ],
+    [
+     "Alianza Atletico Sullana Asya 2 Üst",
+     0.2743
+    ],
+    [
+     "Alianza Atletico Sullana Asya 2 Alt",
+     0.7257
+    ],
+    [
+     "Alianza Atletico Sullana Asya 2,25 Üst",
+     0.2341
+    ],
+    [
+     "Alianza Atletico Sullana Asya 2,25 Alt",
+     0.7659
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "FBC Melgar : Toplam Gol Asya",
+   "oneri": "FBC Melgar Asya 0,25 Üst",
+   "olasilik": 0.7953,
+   "adil_oran": 1.26,
+   "en_olasi": "FBC Melgar Asya 0,25 Üst",
+   "en_olasi_p": 0.7953,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "FBC Melgar Asya 0,25 Üst",
+     0.7953
+    ],
+    [
+     "FBC Melgar Asya 0,25 Alt",
+     0.2047
+    ],
+    [
+     "FBC Melgar Asya 0,5 Üst",
+     0.6601
+    ],
+    [
+     "FBC Melgar Asya 0,5 Alt",
+     0.3399
+    ],
+    [
+     "FBC Melgar Asya 0,75 Üst",
+     0.5837
+    ],
+    [
+     "FBC Melgar Asya 0,75 Alt",
+     0.4163
+    ],
+    [
+     "FBC Melgar Asya 1 Üst",
+     0.4628
+    ],
+    [
+     "FBC Melgar Asya 1 Alt",
+     0.5372
+    ],
+    [
+     "FBC Melgar Asya 1,25 Üst",
+     0.3587
+    ],
+    [
+     "FBC Melgar Asya 1,25 Alt",
+     0.6413
+    ],
+    [
+     "FBC Melgar Asya 1,5 Üst",
+     0.2929
+    ],
+    [
+     "FBC Melgar Asya 1,5 Alt",
+     0.7071
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (3-İhtimalli)",
+   "oneri": "1 Üst",
+   "olasilik": 0.7373,
+   "adil_oran": 1.36,
+   "en_olasi": "1 Üst",
+   "en_olasi_p": 0.7373,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.073
+    ],
+    [
+     "Tam 1",
+     0.1897
+    ],
+    [
+     "1 Üst",
+     0.7373
+    ],
+    [
+     "2 Alt",
+     0.2627
+    ],
+    [
+     "Tam 2",
+     0.2471
+    ],
+    [
+     "2 Üst",
+     0.4902
+    ],
+    [
+     "3 Alt",
+     0.5098
+    ],
+    [
+     "Tam 3",
+     0.2203
+    ],
+    [
+     "3 Üst",
+     0.2699
+    ],
+    [
+     "4 Alt",
+     0.7301
+    ],
+    [
+     "Tam 4",
+     0.1435
+    ],
+    [
+     "4 Üst",
+     0.1264
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol Tek/Çift",
+   "oneri": "Çift",
+   "olasilik": 0.5009,
+   "adil_oran": 2.0,
+   "en_olasi": "Çift",
+   "en_olasi_p": 0.5009,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.4991
+    ],
+    [
+     "Çift",
+     0.5009
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Kesin)",
+   "oneri": "2 gol",
+   "olasilik": 0.2471,
+   "adil_oran": 4.05,
+   "en_olasi": "2 gol",
+   "en_olasi_p": 0.2471,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.073
+    ],
+    [
+     "1 gol",
+     0.1897
+    ],
+    [
+     "2 gol",
+     0.2471
+    ],
+    [
+     "3 gol",
+     0.2203
+    ],
+    [
+     "4 gol",
+     0.1435
+    ],
+    [
+     "5 gol",
+     0.0761
+    ],
+    [
+     "6+ gol",
+     0.0503
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Alianza Atletico Sullana : Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3267,
+   "adil_oran": 3.06,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3267,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2138
+    ],
+    [
+     "1 gol",
+     0.3267
+    ],
+    [
+     "2 gol",
+     0.2552
+    ],
+    [
+     "3 gol",
+     0.1321
+    ],
+    [
+     "4+ gol",
+     0.0722
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "FBC Melgar : Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3672,
+   "adil_oran": 2.72,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3672,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3399
+    ],
+    [
+     "1 gol",
+     0.3672
+    ],
+    [
+     "2 gol",
+     0.1981
+    ],
+    [
+     "3 gol",
+     0.0707
+    ],
+    [
+     "4+ gol",
+     0.024
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Aralık)",
+   "oneri": "2-3 gol",
+   "olasilik": 0.4674,
+   "adil_oran": 2.14,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.4674,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.2627
+    ],
+    [
+     "2-3 gol",
+     0.4674
+    ],
+    [
+     "4-5 gol",
+     0.2196
+    ],
+    [
+     "6+ gol",
+     0.0503
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Alianza Atletico Sullana : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.582,
+   "adil_oran": 1.72,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.582,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2138
+    ],
+    [
+     "1-2 gol",
+     0.582
+    ],
+    [
+     "3+ gol",
+     0.2043
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "FBC Melgar : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5654,
+   "adil_oran": 1.77,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5654,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3399
+    ],
+    [
+     "1-2 gol",
+     0.5654
+    ],
+    [
+     "3+ gol",
+     0.0947
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Genişletilmiş Gol Aralığı)",
+   "oneri": "1-3 gol",
+   "olasilik": 0.6571,
+   "adil_oran": 1.52,
+   "en_olasi": "1-3 gol",
+   "en_olasi_p": 0.6571,
+   "guven": "yüksek",
+   "not_": "Sitedeki aralıklar farklı olabilir",
+   "secimler": [
+    [
+     "0 gol",
+     0.073
+    ],
+    [
+     "1-2 gol",
+     0.4368
+    ],
+    [
+     "1-3 gol",
+     0.6571
+    ],
+    [
+     "2-3 gol",
+     0.4674
+    ],
+    [
+     "2-4 gol",
+     0.6109
+    ],
+    [
+     "3-4 gol",
+     0.3638
+    ],
+    [
+     "3-5 gol",
+     0.4399
+    ],
+    [
+     "4-6 gol",
+     0.2523
+    ],
+    [
+     "5+ gol",
+     0.1264
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Alianza Atletico Sullana : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.582,
+   "adil_oran": 1.72,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.582,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.5405
+    ],
+    [
+     "1-2 gol",
+     0.582
+    ],
+    [
+     "2-3 gol",
+     0.3873
+    ],
+    [
+     "3+ gol",
+     0.2043
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "FBC Melgar : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7071,
+   "adil_oran": 1.41,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7071,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.7071
+    ],
+    [
+     "1-2 gol",
+     0.5654
+    ],
+    [
+     "2-3 gol",
+     0.2689
+    ],
+    [
+     "3+ gol",
+     0.0947
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Kesin Gol Sayısı",
+   "oneri": "2 gol",
+   "olasilik": 0.2471,
+   "adil_oran": 4.05,
+   "en_olasi": "2 gol",
+   "en_olasi_p": 0.2471,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.073
+    ],
+    [
+     "1 gol",
+     0.1897
+    ],
+    [
+     "2 gol",
+     0.2471
+    ],
+    [
+     "3 gol",
+     0.2203
+    ],
+    [
+     "4 gol",
+     0.1435
+    ],
+    [
+     "5 gol",
+     0.0761
+    ],
+    [
+     "6 gol",
+     0.0327
+    ],
+    [
+     "7+ gol",
+     0.0176
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 1 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8103,
+   "adil_oran": 1.23,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8103,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1897
+    ],
+    [
+     "Hayır",
+     0.8103
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 2 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7529,
+   "adil_oran": 1.33,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7529,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2471
+    ],
+    [
+     "Hayır",
+     0.7529
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 3 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7797,
+   "adil_oran": 1.28,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7797,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2203
+    ],
+    [
+     "Hayır",
+     0.7797
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 4 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8565,
+   "adil_oran": 1.17,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8565,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1435
+    ],
+    [
+     "Hayır",
+     0.8565
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "En Az Bir Takım Üst Gol Atar",
+   "oneri": "En az bir takım 1,5 Üst",
+   "olasilik": 0.6186,
+   "adil_oran": 1.62,
+   "en_olasi": "En az bir takım 0,5 Üst",
+   "en_olasi_p": 0.927,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "En az bir takım 0,5 Üst",
+     0.927
+    ],
+    [
+     "En az bir takım 1,5 Üst",
+     0.6186
+    ],
+    [
+     "En az bir takım 2,5 Üst",
+     0.2797
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Alianza Atletico Sullana : Asist Yapar. Toplam",
+   "oneri": "Alianza Atletico Sullana asist 1,5 Alt",
+   "olasilik": 0.7572,
+   "adil_oran": 1.32,
+   "en_olasi": "Alianza Atletico Sullana asist 2,5 Alt",
+   "en_olasi_p": 0.93,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana asist 0,5 Üst",
+     0.6101
+    ],
+    [
+     "Alianza Atletico Sullana asist 0,5 Alt",
+     0.3899
+    ],
+    [
+     "Alianza Atletico Sullana asist 1,5 Üst",
+     0.2428
+    ],
+    [
+     "Alianza Atletico Sullana asist 1,5 Alt",
+     0.7572
+    ],
+    [
+     "Alianza Atletico Sullana asist 2,5 Üst",
+     0.07
+    ],
+    [
+     "Alianza Atletico Sullana asist 2,5 Alt",
+     0.93
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "FBC Melgar : Asist Yapar. Toplam",
+   "oneri": "FBC Melgar asist 0,5 Alt",
+   "olasilik": 0.5349,
+   "adil_oran": 1.87,
+   "en_olasi": "FBC Melgar asist 1,5 Alt",
+   "en_olasi_p": 0.8692,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "FBC Melgar asist 0,5 Üst",
+     0.4651
+    ],
+    [
+     "FBC Melgar asist 0,5 Alt",
+     0.5349
+    ],
+    [
+     "FBC Melgar asist 1,5 Üst",
+     0.1308
+    ],
+    [
+     "FBC Melgar asist 1,5 Alt",
+     0.8692
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takımda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.5193,
+   "adil_oran": 1.93,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5193,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5193
+    ],
+    [
+     "Hayır",
+     0.4807
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8662,
+   "adil_oran": 1.15,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8662,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1338
+    ],
+    [
+     "Hayır",
+     0.8662
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Alianza Atletico Sullana : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.7862,
+   "adil_oran": 1.27,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7862,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7862
+    ],
+    [
+     "Hayır",
+     0.2138
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "FBC Melgar : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.6601,
+   "adil_oran": 1.51,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6601,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6601
+    ],
+    [
+     "Hayır",
+     0.3399
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Karşılıklı Gol ve Toplam Goller 2.5",
+   "oneri": "KG Var & Üst",
+   "olasilik": 0.4006,
+   "adil_oran": 2.5,
+   "en_olasi": "KG Var & Üst",
+   "en_olasi_p": 0.4006,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "KG Var & Üst",
+     0.4006
+    ],
+    [
+     "KG Var & Alt",
+     0.1188
+    ],
+    [
+     "KG Yok & Üst",
+     0.0896
+    ],
+    [
+     "KG Yok & Alt",
+     0.391
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Yarıda da Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.9513,
+   "adil_oran": 1.05,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9513,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0487
+    ],
+    [
+     "Hayır",
+     0.9513
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı",
+   "oneri": "FBC Melgar +1,5",
+   "olasilik": 0.753,
+   "adil_oran": 1.33,
+   "en_olasi": "Alianza Atletico Sullana +2,5",
+   "en_olasi_p": 0.9701,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana -2,5",
+     0.1009
+    ],
+    [
+     "FBC Melgar +2,5",
+     0.8991
+    ],
+    [
+     "Alianza Atletico Sullana -1,5",
+     0.247
+    ],
+    [
+     "FBC Melgar +1,5",
+     0.753
+    ],
+    [
+     "Alianza Atletico Sullana -0,5",
+     0.4825
+    ],
+    [
+     "FBC Melgar +0,5",
+     0.5175
+    ],
+    [
+     "Alianza Atletico Sullana +0,5",
+     0.7351
+    ],
+    [
+     "FBC Melgar -0,5",
+     0.2649
+    ],
+    [
+     "Alianza Atletico Sullana +1,5",
+     0.8999
+    ],
+    [
+     "FBC Melgar -1,5",
+     0.1001
+    ],
+    [
+     "Alianza Atletico Sullana +2,5",
+     0.9701
+    ],
+    [
+     "FBC Melgar -2,5",
+     0.0299
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Goller Asya Handikapı",
+   "oneri": "Alianza Atletico Sullana Asya +0,75",
+   "olasilik": 0.8011,
+   "adil_oran": 1.25,
+   "en_olasi": "Alianza Atletico Sullana Asya +1,5",
+   "en_olasi_p": 0.8999,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana Asya -2",
+     0.1182
+    ],
+    [
+     "FBC Melgar Asya -2",
+     0.0321
+    ],
+    [
+     "Alianza Atletico Sullana Asya -1,75",
+     0.1877
+    ],
+    [
+     "FBC Melgar Asya -1,75",
+     0.0673
+    ],
+    [
+     "Alianza Atletico Sullana Asya -1,5",
+     0.247
+    ],
+    [
+     "FBC Melgar Asya -1,5",
+     0.1001
+    ],
+    [
+     "Alianza Atletico Sullana Asya -1,25",
+     0.28
+    ],
+    [
+     "FBC Melgar Asya -1,25",
+     0.109
+    ],
+    [
+     "Alianza Atletico Sullana Asya -1",
+     0.3231
+    ],
+    [
+     "FBC Melgar Asya -1",
+     0.1198
+    ],
+    [
+     "Alianza Atletico Sullana Asya -0,75",
+     0.4134
+    ],
+    [
+     "FBC Melgar Asya -0,75",
+     0.1989
+    ],
+    [
+     "Alianza Atletico Sullana Asya -0,5",
+     0.4825
+    ],
+    [
+     "FBC Melgar Asya -0,5",
+     0.2649
+    ],
+    [
+     "Alianza Atletico Sullana Asya -0,25",
+     0.5522
+    ],
+    [
+     "FBC Melgar Asya -0,25",
+     0.3032
+    ],
+    [
+     "Alianza Atletico Sullana Asya 0",
+     0.6456
+    ],
+    [
+     "FBC Melgar Asya 0",
+     0.3544
+    ],
+    [
+     "Alianza Atletico Sullana Asya +0,25",
+     0.6968
+    ],
+    [
+     "FBC Melgar Asya +0,25",
+     0.4478
+    ],
+    [
+     "Alianza Atletico Sullana Asya +0,5",
+     0.7351
+    ],
+    [
+     "FBC Melgar Asya +0,5",
+     0.5175
+    ],
+    [
+     "Alianza Atletico Sullana Asya +0,75",
+     0.8011
+    ],
+    [
+     "FBC Melgar Asya +0,75",
+     0.5866
+    ],
+    [
+     "Alianza Atletico Sullana Asya +1",
+     0.8802
+    ],
+    [
+     "FBC Melgar Asya +1",
+     0.6769
+    ],
+    [
+     "Alianza Atletico Sullana Asya +1,25",
+     0.891
+    ],
+    [
+     "FBC Melgar Asya +1,25",
+     0.72
+    ],
+    [
+     "Alianza Atletico Sullana Asya +1,5",
+     0.8999
+    ],
+    [
+     "FBC Melgar Asya +1,5",
+     0.753
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı (3-İhtimalli)",
+   "oneri": "FBC Melgar (-2)",
+   "olasilik": 0.753,
+   "adil_oran": 1.33,
+   "en_olasi": "Alianza Atletico Sullana (+3)",
+   "en_olasi_p": 0.9701,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana (-3)",
+     0.0331
+    ],
+    [
+     "X (-3)",
+     0.0678
+    ],
+    [
+     "FBC Melgar (-3)",
+     0.8991
+    ],
+    [
+     "Alianza Atletico Sullana (-2)",
+     0.1009
+    ],
+    [
+     "X (-2)",
+     0.1461
+    ],
+    [
+     "FBC Melgar (-2)",
+     0.753
+    ],
+    [
+     "Alianza Atletico Sullana (-1)",
+     0.247
+    ],
+    [
+     "X (-1)",
+     0.2355
+    ],
+    [
+     "FBC Melgar (-1)",
+     0.5175
+    ],
+    [
+     "Alianza Atletico Sullana (+1)",
+     0.7351
+    ],
+    [
+     "X (+1)",
+     0.1648
+    ],
+    [
+     "FBC Melgar (+1)",
+     0.1001
+    ],
+    [
+     "Alianza Atletico Sullana (+2)",
+     0.8999
+    ],
+    [
+     "X (+2)",
+     0.0702
+    ],
+    [
+     "FBC Melgar (+2)",
+     0.0299
+    ],
+    [
+     "Alianza Atletico Sullana (+3)",
+     0.9701
+    ],
+    [
+     "X (+3)",
+     0.023
+    ],
+    [
+     "FBC Melgar (+3)",
+     0.0069
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Alianza Atletico Sullana Gol Atar ve Maç Sonucu",
+   "oneri": "1 & Alianza Atletico Sullana gol atar",
+   "olasilik": 0.4825,
+   "adil_oran": 2.07,
+   "en_olasi": "1 & Alianza Atletico Sullana gol atar",
+   "en_olasi_p": 0.4825,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Alianza Atletico Sullana gol atar",
+     0.4825
+    ],
+    [
+     "1 & Alianza Atletico Sullana gol atamaz",
+     0.0
+    ],
+    [
+     "X & Alianza Atletico Sullana gol atar",
+     0.1796
+    ],
+    [
+     "X & Alianza Atletico Sullana gol atamaz",
+     0.073
+    ],
+    [
+     "2 & Alianza Atletico Sullana gol atar",
+     0.1241
+    ],
+    [
+     "2 & Alianza Atletico Sullana gol atamaz",
+     0.1408
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "FBC Melgar Gol Atar ve Maç Sonucu",
+   "oneri": "1 & FBC Melgar gol atamaz",
+   "olasilik": 0.2669,
+   "adil_oran": 3.75,
+   "en_olasi": "1 & FBC Melgar gol atamaz",
+   "en_olasi_p": 0.2669,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & FBC Melgar gol atar",
+     0.2156
+    ],
+    [
+     "1 & FBC Melgar gol atamaz",
+     0.2669
+    ],
+    [
+     "X & FBC Melgar gol atar",
+     0.1796
+    ],
+    [
+     "X & FBC Melgar gol atamaz",
+     0.073
+    ],
+    [
+     "2 & FBC Melgar gol atar",
+     0.2649
+    ],
+    [
+     "2 & FBC Melgar gol atamaz",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Karşılıklı Gol",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.2669,
+   "adil_oran": 3.75,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.2669,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.2156
+    ],
+    [
+     "1 & KG Yok",
+     0.2669
+    ],
+    [
+     "X & KG Var",
+     0.1796
+    ],
+    [
+     "X & KG Yok",
+     0.073
+    ],
+    [
+     "2 & KG Var",
+     0.1241
+    ],
+    [
+     "2 & KG Yok",
+     0.1408
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Karşılıklı Gol",
+   "oneri": "12 & KG Yok",
+   "olasilik": 0.4077,
+   "adil_oran": 2.45,
+   "en_olasi": "12 & KG Yok",
+   "en_olasi_p": 0.4077,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & KG Var",
+     0.3952
+    ],
+    [
+     "1X & KG Yok",
+     0.3399
+    ],
+    [
+     "12 & KG Var",
+     0.3397
+    ],
+    [
+     "12 & KG Yok",
+     0.4077
+    ],
+    [
+     "X2 & KG Var",
+     0.3037
+    ],
+    [
+     "X2 & KG Yok",
+     0.2138
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 1.5",
+   "oneri": "1 & 1,5 Üst",
+   "olasilik": 0.3712,
+   "adil_oran": 2.69,
+   "en_olasi": "1 & 1,5 Üst",
+   "en_olasi_p": 0.3712,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1,5 Üst",
+     0.3712
+    ],
+    [
+     "1 & 1,5 Alt",
+     0.1113
+    ],
+    [
+     "X & 1,5 Üst",
+     0.1796
+    ],
+    [
+     "X & 1,5 Alt",
+     0.073
+    ],
+    [
+     "2 & 1,5 Üst",
+     0.1865
+    ],
+    [
+     "2 & 1,5 Alt",
+     0.0784
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 2.5",
+   "oneri": "1 & 2,5 Üst",
+   "olasilik": 0.2847,
+   "adil_oran": 3.51,
+   "en_olasi": "1 & 2,5 Üst",
+   "en_olasi_p": 0.2847,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 2,5 Üst",
+     0.2847
+    ],
+    [
+     "1 & 2,5 Alt",
+     0.1978
+    ],
+    [
+     "X & 2,5 Üst",
+     0.0609
+    ],
+    [
+     "X & 2,5 Alt",
+     0.1918
+    ],
+    [
+     "2 & 2,5 Üst",
+     0.1446
+    ],
+    [
+     "2 & 2,5 Alt",
+     0.1203
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 3.5",
+   "oneri": "1 & 3,5 Alt",
+   "olasilik": 0.3369,
+   "adil_oran": 2.97,
+   "en_olasi": "1 & 3,5 Alt",
+   "en_olasi_p": 0.3369,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 3,5 Üst",
+     0.1456
+    ],
+    [
+     "1 & 3,5 Alt",
+     0.3369
+    ],
+    [
+     "X & 3,5 Üst",
+     0.0609
+    ],
+    [
+     "X & 3,5 Alt",
+     0.1918
+    ],
+    [
+     "2 & 3,5 Üst",
+     0.0634
+    ],
+    [
+     "2 & 3,5 Alt",
+     0.2015
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 4.5",
+   "oneri": "1 & 4,5 Alt",
+   "olasilik": 0.403,
+   "adil_oran": 2.48,
+   "en_olasi": "1 & 4,5 Alt",
+   "en_olasi_p": 0.403,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 4,5 Üst",
+     0.0795
+    ],
+    [
+     "1 & 4,5 Alt",
+     0.403
+    ],
+    [
+     "X & 4,5 Üst",
+     0.0104
+    ],
+    [
+     "X & 4,5 Alt",
+     0.2423
+    ],
+    [
+     "2 & 4,5 Üst",
+     0.0365
+    ],
+    [
+     "2 & 4,5 Alt",
+     0.2283
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Alianza Atletico Sullana : Toplam Gol",
+   "oneri": "1 & Alianza Atletico Sullana 1,5 Üst",
+   "olasilik": 0.3712,
+   "adil_oran": 2.69,
+   "en_olasi": "1 & Alianza Atletico Sullana 1,5 Üst",
+   "en_olasi_p": 0.3712,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Alianza Atletico Sullana 1,5 Üst",
+     0.3712
+    ],
+    [
+     "1 & Alianza Atletico Sullana 1,5 Alt",
+     0.1113
+    ],
+    [
+     "X & Alianza Atletico Sullana 1,5 Üst",
+     0.0609
+    ],
+    [
+     "X & Alianza Atletico Sullana 1,5 Alt",
+     0.1918
+    ],
+    [
+     "2 & Alianza Atletico Sullana 1,5 Üst",
+     0.0274
+    ],
+    [
+     "2 & Alianza Atletico Sullana 1,5 Alt",
+     0.2375
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve FBC Melgar : Toplam Gol",
+   "oneri": "1 & FBC Melgar 0,5 Alt",
+   "olasilik": 0.2669,
+   "adil_oran": 3.75,
+   "en_olasi": "1 & FBC Melgar 0,5 Alt",
+   "en_olasi_p": 0.2669,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & FBC Melgar 0,5 Üst",
+     0.2156
+    ],
+    [
+     "1 & FBC Melgar 0,5 Alt",
+     0.2669
+    ],
+    [
+     "X & FBC Melgar 0,5 Üst",
+     0.1796
+    ],
+    [
+     "X & FBC Melgar 0,5 Alt",
+     0.073
+    ],
+    [
+     "2 & FBC Melgar 0,5 Üst",
+     0.2649
+    ],
+    [
+     "2 & FBC Melgar 0,5 Alt",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Toplam Gol",
+   "oneri": "1 veya 2,5 Alt",
+   "olasilik": 0.7945,
+   "adil_oran": 1.26,
+   "en_olasi": "1 veya 2,5 Alt",
+   "en_olasi_p": 0.7945,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 2,5 Üst",
+     0.6879
+    ],
+    [
+     "1 veya 2,5 Alt",
+     0.7945
+    ],
+    [
+     "X veya 2,5 Üst",
+     0.6819
+    ],
+    [
+     "X veya 2,5 Alt",
+     0.5707
+    ],
+    [
+     "2 veya 2,5 Üst",
+     0.6105
+    ],
+    [
+     "2 veya 2,5 Alt",
+     0.6544
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol (Kesin)",
+   "oneri": "1 & 3 gol",
+   "olasilik": 0.1391,
+   "adil_oran": 7.19,
+   "en_olasi": "1 & 3 gol",
+   "en_olasi_p": 0.1391,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 0 gol",
+     0.0
+    ],
+    [
+     "1 & 1 gol",
+     0.1113
+    ],
+    [
+     "1 & 2 gol",
+     0.0865
+    ],
+    [
+     "1 & 3 gol",
+     0.1391
+    ],
+    [
+     "1 & 4 gol",
+     0.0661
+    ],
+    [
+     "1 & 5 gol",
+     0.051
+    ],
+    [
+     "X & 0 gol",
+     0.073
+    ],
+    [
+     "X & 1 gol",
+     0.0
+    ],
+    [
+     "X & 2 gol",
+     0.1188
+    ],
+    [
+     "X & 3 gol",
+     0.0
+    ],
+    [
+     "X & 4 gol",
+     0.0505
+    ],
+    [
+     "X & 5 gol",
+     0.0
+    ],
+    [
+     "2 & 0 gol",
+     0.0
+    ],
+    [
+     "2 & 1 gol",
+     0.0784
+    ],
+    [
+     "2 & 2 gol",
+     0.0419
+    ],
+    [
+     "2 & 3 gol",
+     0.0812
+    ],
+    [
+     "2 & 4 gol",
+     0.0269
+    ],
+    [
+     "2 & 5 gol",
+     0.0251
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "1 & 1-3 gol",
+   "olasilik": 0.3369,
+   "adil_oran": 2.97,
+   "en_olasi": "1 & 1-3 gol",
+   "en_olasi_p": 0.3369,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1-2 gol",
+     0.1978
+    ],
+    [
+     "1 & 1-3 gol",
+     0.3369
+    ],
+    [
+     "1 & 2-3 gol",
+     0.2256
+    ],
+    [
+     "1 & 2-4 gol",
+     0.2917
+    ],
+    [
+     "1 & 3-4 gol",
+     0.2052
+    ],
+    [
+     "1 & 3-5 gol",
+     0.2562
+    ],
+    [
+     "X & 1-2 gol",
+     0.1188
+    ],
+    [
+     "X & 1-3 gol",
+     0.1188
+    ],
+    [
+     "X & 2-3 gol",
+     0.1188
+    ],
+    [
+     "X & 2-4 gol",
+     0.1693
+    ],
+    [
+     "X & 3-4 gol",
+     0.0505
+    ],
+    [
+     "X & 3-5 gol",
+     0.0505
+    ],
+    [
+     "2 & 1-2 gol",
+     0.1203
+    ],
+    [
+     "2 & 1-3 gol",
+     0.2015
+    ],
+    [
+     "2 & 2-3 gol",
+     0.1231
+    ],
+    [
+     "2 & 2-4 gol",
+     0.1499
+    ],
+    [
+     "2 & 3-4 gol",
+     0.108
+    ],
+    [
+     "2 & 3-5 gol",
+     0.1332
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "12 & 1-3 gol",
+   "olasilik": 0.5383,
+   "adil_oran": 1.86,
+   "en_olasi": "12 & 1-3 gol",
+   "en_olasi_p": 0.5383,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1-2 gol",
+     0.3165
+    ],
+    [
+     "1X & 1-3 gol",
+     0.4556
+    ],
+    [
+     "1X & 2-3 gol",
+     0.3444
+    ],
+    [
+     "1X & 2-4 gol",
+     0.461
+    ],
+    [
+     "12 & 1-2 gol",
+     0.318
+    ],
+    [
+     "12 & 1-3 gol",
+     0.5383
+    ],
+    [
+     "12 & 2-3 gol",
+     0.3487
+    ],
+    [
+     "12 & 2-4 gol",
+     0.4417
+    ],
+    [
+     "X2 & 1-2 gol",
+     0.2391
+    ],
+    [
+     "X2 & 1-3 gol",
+     0.3202
+    ],
+    [
+     "X2 & 2-3 gol",
+     0.2418
+    ],
+    [
+     "X2 & 2-4 gol",
+     0.3192
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Doğru Skor",
+   "oneri": "1 veya 1-1",
+   "olasilik": 0.6013,
+   "adil_oran": 1.66,
+   "en_olasi": "1 veya 1-1",
+   "en_olasi_p": 0.6013,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 1-1",
+     0.6013
+    ],
+    [
+     "1 veya 0-1",
+     0.5609
+    ],
+    [
+     "1 veya 0-0",
+     0.5555
+    ],
+    [
+     "X veya 1-0",
+     0.3639
+    ],
+    [
+     "X veya 2-1",
+     0.3469
+    ],
+    [
+     "X veya 2-0",
+     0.3391
+    ],
+    [
+     "X veya 0-1",
+     0.331
+    ],
+    [
+     "2 veya 1-1",
+     0.3836
+    ],
+    [
+     "2 veya 1-0",
+     0.3762
+    ],
+    [
+     "2 veya 2-1",
+     0.3592
+    ],
+    [
+     "2 veya 2-0",
+     0.3513
+    ],
+    [
+     "2 veya 0-0",
+     0.3379
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Her İki Yarı Toplam Gol Kombinasyonu",
+   "oneri": "İY Alt 1,5 & 2Y Alt 1,5",
+   "olasilik": 0.384,
+   "adil_oran": 2.6,
+   "en_olasi": "İY Alt 1,5 & 2Y Alt 1,5",
+   "en_olasi_p": 0.384,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Alt 1,5 & 2Y Alt 1,5",
+     0.384
+    ],
+    [
+     "İY Alt 1,5 & 2Y Üst 1,5",
+     0.2946
+    ],
+    [
+     "İY Üst 1,5 & 2Y Alt 1,5",
+     0.1832
+    ],
+    [
+     "İY Üst 1,5 & 2Y Üst 1,5",
+     0.1382
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Farklı Kombineler",
+   "oneri": "1 & 2Y gol olur",
+   "olasilik": 0.4013,
+   "adil_oran": 2.49,
+   "en_olasi": "1 & 2Y gol olur",
+   "en_olasi_p": 0.4013,
+   "guven": "yüksek",
+   "not_": "Sitedeki kombinasyon içerikleri farklı olabilir",
+   "secimler": [
+    [
+     "1 & 2Y gol olur",
+     0.4013
+    ],
+    [
+     "2 & 2Y gol olur",
+     0.2136
+    ],
+    [
+     "Alianza Atletico Sullana her iki yarıda gol & 1",
+     0.2397
+    ],
+    [
+     "FBC Melgar her iki yarıda gol & 2",
+     0.1137
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans Kombo",
+   "oneri": "12 & 1,5 Üst",
+   "olasilik": 0.5577,
+   "adil_oran": 1.79,
+   "en_olasi": "12 & 1,5 Üst",
+   "en_olasi_p": 0.5577,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1,5 Üst",
+     0.5508
+    ],
+    [
+     "1X & 1,5 Alt",
+     0.1843
+    ],
+    [
+     "1X & 2,5 Üst",
+     0.3456
+    ],
+    [
+     "1X & 2,5 Alt",
+     0.3895
+    ],
+    [
+     "1X & 3,5 Üst",
+     0.2065
+    ],
+    [
+     "1X & 3,5 Alt",
+     0.5286
+    ],
+    [
+     "12 & 1,5 Üst",
+     0.5577
+    ],
+    [
+     "12 & 1,5 Alt",
+     0.1897
+    ],
+    [
+     "12 & 2,5 Üst",
+     0.4293
+    ],
+    [
+     "12 & 2,5 Alt",
+     0.318
+    ],
+    [
+     "12 & 3,5 Üst",
+     0.209
+    ],
+    [
+     "12 & 3,5 Alt",
+     0.5383
+    ],
+    [
+     "X2 & 1,5 Üst",
+     0.3661
+    ],
+    [
+     "X2 & 1,5 Alt",
+     0.1514
+    ],
+    [
+     "X2 & 2,5 Üst",
+     0.2055
+    ],
+    [
+     "X2 & 2,5 Alt",
+     0.312
+    ],
+    [
+     "X2 & 3,5 Üst",
+     0.1243
+    ],
+    [
+     "X2 & 3,5 Alt",
+     0.3932
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "İlk Yarı/Maç Sonucu ve Toplam Gol",
+   "oneri": "1/1 & 2,5 Üst",
+   "olasilik": 0.1812,
+   "adil_oran": 5.52,
+   "en_olasi": "1/1 & 2,5 Üst",
+   "en_olasi_p": 0.1812,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1 & 2,5 Üst",
+     0.1812
+    ],
+    [
+     "1/1 & 2,5 Alt",
+     0.1079
+    ],
+    [
+     "1/X & 2,5 Üst",
+     0.0196
+    ],
+    [
+     "1/X & 2,5 Alt",
+     0.0292
+    ],
+    [
+     "1/2 & 2,5 Üst",
+     0.0166
+    ],
+    [
+     "1/2 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "X/1 & 2,5 Üst",
+     0.0783
+    ],
+    [
+     "X/1 & 2,5 Alt",
+     0.0899
+    ],
+    [
+     "X/X & 2,5 Üst",
+     0.0227
+    ],
+    [
+     "X/X & 2,5 Alt",
+     0.1334
+    ],
+    [
+     "X/2 & 2,5 Üst",
+     0.0449
+    ],
+    [
+     "X/2 & 2,5 Alt",
+     0.0566
+    ],
+    [
+     "2/1 & 2,5 Üst",
+     0.0253
+    ],
+    [
+     "2/1 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "2/X & 2,5 Üst",
+     0.0186
+    ],
+    [
+     "2/X & 2,5 Alt",
+     0.0291
+    ],
+    [
+     "2/2 & 2,5 Üst",
+     0.0831
+    ],
+    [
+     "2/2 & 2,5 Alt",
+     0.0637
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Her İki Yarıda Gol Olur",
+   "oneri": "Evet",
+   "olasilik": 0.5262,
+   "adil_oran": 1.9,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5262,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5262
+    ],
+    [
+     "Hayır",
+     0.4738
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım",
+   "oneri": "Alianza Atletico Sullana",
+   "olasilik": 0.5459,
+   "adil_oran": 1.83,
+   "en_olasi": "Alianza Atletico Sullana",
+   "en_olasi_p": 0.5459,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana",
+     0.5459
+    ],
+    [
+     "Gol yok",
+     0.073
+    ],
+    [
+     "FBC Melgar",
+     0.3811
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Son Golü Atacak Takım",
+   "oneri": "Alianza Atletico Sullana",
+   "olasilik": 0.5457,
+   "adil_oran": 1.83,
+   "en_olasi": "Alianza Atletico Sullana",
+   "en_olasi_p": 0.5457,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana",
+     0.5457
+    ],
+    [
+     "Gol yok",
+     0.073
+    ],
+    [
+     "FBC Melgar",
+     0.3814
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golün Atılma Şekli",
+   "oneri": "Şut",
+   "olasilik": 0.6117,
+   "adil_oran": 1.63,
+   "en_olasi": "Şut",
+   "en_olasi_p": 0.6117,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şut",
+     0.6117
+    ],
+    [
+     "Kafa",
+     0.1296
+    ],
+    [
+     "Penaltı",
+     0.1268
+    ],
+    [
+     "Serbest vuruş",
+     0.0252
+    ],
+    [
+     "Kendi kalesine",
+     0.0338
+    ],
+    [
+     "Gol yok",
+     0.073
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı",
+   "oneri": "1-27 dk",
+   "olasilik": 0.4658,
+   "adil_oran": 2.15,
+   "en_olasi": "1-27 dk",
+   "en_olasi_p": 0.4658,
+   "guven": "orta",
+   "not_": "Sınır 27. dk varsayıldı",
+   "secimler": [
+    [
+     "1-27 dk",
+     0.4658
+    ],
+    [
+     "28-90 dk",
+     0.4612
+    ],
+    [
+     "Gol yok",
+     0.073
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Alianza Atletico Sullana : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.2138,
+   "adil_oran": 4.68,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.2138,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.123
+    ],
+    [
+     "11-20 dk",
+     0.1116
+    ],
+    [
+     "21-30 dk",
+     0.1041
+    ],
+    [
+     "31-40 dk",
+     0.0929
+    ],
+    [
+     "41-50 dk",
+     0.0964
+    ],
+    [
+     "51-60 dk",
+     0.0703
+    ],
+    [
+     "61-70 dk",
+     0.0613
+    ],
+    [
+     "71-80 dk",
+     0.0556
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0709
+    ],
+    [
+     "Gol yok",
+     0.2138
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "FBC Melgar : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.3399,
+   "adil_oran": 2.94,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.3399,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.0877
+    ],
+    [
+     "11-20 dk",
+     0.0834
+    ],
+    [
+     "21-30 dk",
+     0.0798
+    ],
+    [
+     "31-40 dk",
+     0.0747
+    ],
+    [
+     "41-50 dk",
+     0.0814
+    ],
+    [
+     "51-60 dk",
+     0.0643
+    ],
+    [
+     "61-70 dk",
+     0.0591
+    ],
+    [
+     "71-80 dk",
+     0.0552
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0746
+    ],
+    [
+     "Gol yok",
+     0.3399
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı (15 dk.)",
+   "oneri": "1-15 dk",
+   "olasilik": 0.2862,
+   "adil_oran": 3.49,
+   "en_olasi": "1-15 dk",
+   "en_olasi_p": 0.2862,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-15 dk",
+     0.2862
+    ],
+    [
+     "16-30 dk",
+     0.2182
+    ],
+    [
+     "31-45 (+uz.) dk",
+     0.1762
+    ],
+    [
+     "46-60 dk",
+     0.1058
+    ],
+    [
+     "61-75 dk",
+     0.0749
+    ],
+    [
+     "76-90 (+uz.) dk",
+     0.0657
+    ],
+    [
+     "Gol yok",
+     0.073
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve Maç Sonucu",
+   "oneri": "İlk gol Alianza Atletico Sullana & 1",
+   "olasilik": 0.4152,
+   "adil_oran": 2.41,
+   "en_olasi": "İlk gol Alianza Atletico Sullana & 1",
+   "en_olasi_p": 0.4152,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Alianza Atletico Sullana & 1",
+     0.4152
+    ],
+    [
+     "İlk gol Alianza Atletico Sullana & X",
+     0.0903
+    ],
+    [
+     "İlk gol Alianza Atletico Sullana & 2",
+     0.0404
+    ],
+    [
+     "İlk gol FBC Melgar & 1",
+     0.0673
+    ],
+    [
+     "İlk gol FBC Melgar & X",
+     0.0893
+    ],
+    [
+     "İlk gol FBC Melgar & 2",
+     0.2245
+    ],
+    [
+     "Gol yok",
+     0.073
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 1. Yarı Sonucu",
+   "oneri": "İlk gol Alianza Atletico Sullana & İY 1",
+   "olasilik": 0.3383,
+   "adil_oran": 2.96,
+   "en_olasi": "İlk gol Alianza Atletico Sullana & İY 1",
+   "en_olasi_p": 0.3383,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Alianza Atletico Sullana & İY 1",
+     0.3383
+    ],
+    [
+     "İlk gol Alianza Atletico Sullana & İY X",
+     0.1977
+    ],
+    [
+     "İlk gol Alianza Atletico Sullana & İY 2",
+     0.01
+    ],
+    [
+     "İlk gol FBC Melgar & İY 1",
+     0.0163
+    ],
+    [
+     "İlk gol FBC Melgar & İY X",
+     0.1551
+    ],
+    [
+     "İlk gol FBC Melgar & İY 2",
+     0.2097
+    ],
+    [
+     "Gol yok",
+     0.073
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 2. Yarı Sonucu",
+   "oneri": "İlk gol Alianza Atletico Sullana & 2Y 1",
+   "olasilik": 0.2749,
+   "adil_oran": 3.64,
+   "en_olasi": "İlk gol Alianza Atletico Sullana & 2Y 1",
+   "en_olasi_p": 0.2749,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Alianza Atletico Sullana & 2Y 1",
+     0.2749
+    ],
+    [
+     "İlk gol Alianza Atletico Sullana & 2Y X",
+     0.1695
+    ],
+    [
+     "İlk gol Alianza Atletico Sullana & 2Y 2",
+     0.1016
+    ],
+    [
+     "İlk gol FBC Melgar & 2Y 1",
+     0.119
+    ],
+    [
+     "İlk gol FBC Melgar & 2Y X",
+     0.1244
+    ],
+    [
+     "İlk gol FBC Melgar & 2Y 2",
+     0.1377
+    ],
+    [
+     "Gol yok",
+     0.073
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Doğru Skor",
+   "oneri": "1-1",
+   "olasilik": 0.1188,
+   "adil_oran": 8.42,
+   "en_olasi": "1-1",
+   "en_olasi_p": 0.1188,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-1",
+     0.1188
+    ],
+    [
+     "1-0",
+     0.1113
+    ],
+    [
+     "2-1",
+     0.0943
+    ],
+    [
+     "2-0",
+     0.0865
+    ],
+    [
+     "0-1",
+     0.0784
+    ],
+    [
+     "0-0",
+     0.073
+    ],
+    [
+     "1-2",
+     0.0657
+    ],
+    [
+     "2-2",
+     0.0505
+    ],
+    [
+     "3-1",
+     0.0486
+    ],
+    [
+     "3-0",
+     0.0448
+    ],
+    [
+     "0-2",
+     0.0419
+    ],
+    [
+     "3-2",
+     0.0262
+    ],
+    [
+     "Diğer",
+     0.0253
+    ],
+    [
+     "1-3",
+     0.0229
+    ],
+    [
+     "4-1",
+     0.0196
+    ],
+    [
+     "2-3",
+     0.0179
+    ],
+    [
+     "4-0",
+     0.0176
+    ],
+    [
+     "0-3",
+     0.0155
+    ],
+    [
+     "4-2",
+     0.0097
+    ],
+    [
+     "3-3",
+     0.0093
+    ],
+    [
+     "1-4",
+     0.0064
+    ],
+    [
+     "2-4",
+     0.0049
+    ],
+    [
+     "0-4",
+     0.004
+    ],
+    [
+     "4-3",
+     0.0035
+    ],
+    [
+     "3-4",
+     0.0026
+    ],
+    [
+     "4-4",
+     0.001
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Herhangi Bir Zamanda Doğru Skor",
+   "oneri": "1-0 herhangi bir anda",
+   "olasilik": 0.5402,
+   "adil_oran": 1.85,
+   "en_olasi": "1-0 herhangi bir anda",
+   "en_olasi_p": 0.5402,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-0 herhangi bir anda",
+     0.5402
+    ],
+    [
+     "0-1 herhangi bir anda",
+     0.3751
+    ],
+    [
+     "1-1 herhangi bir anda",
+     0.3509
+    ],
+    [
+     "2-0 herhangi bir anda",
+     0.2537
+    ],
+    [
+     "2-1 herhangi bir anda",
+     0.2083
+    ],
+    [
+     "1-2 herhangi bir anda",
+     0.1426
+    ],
+    [
+     "0-2 herhangi bir anda",
+     0.1225
+    ],
+    [
+     "3-0 herhangi bir anda",
+     0.0989
+    ],
+    [
+     "2-2 herhangi bir anda",
+     0.0929
+    ],
+    [
+     "3-1 herhangi bir anda",
+     0.0915
+    ],
+    [
+     "1-3 herhangi bir anda",
+     0.0428
+    ],
+    [
+     "3-2 herhangi bir anda",
+     0.0427
+    ],
+    [
+     "0-3 herhangi bir anda",
+     0.0337
+    ],
+    [
+     "2-3 herhangi bir anda",
+     0.0297
+    ],
+    [
+     "3-3 herhangi bir anda",
+     0.0143
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Skor Kombinasyonları",
+   "oneri": "Alianza Atletico Sullana 1-0/2-0/2-1",
+   "olasilik": 0.292,
+   "adil_oran": 3.42,
+   "en_olasi": "Alianza Atletico Sullana 1-0/2-0/2-1",
+   "en_olasi_p": 0.292,
+   "guven": "yüksek",
+   "not_": "Sitedeki gruplar farklı olabilir",
+   "secimler": [
+    [
+     "Alianza Atletico Sullana 1-0/2-0/2-1",
+     0.292
+    ],
+    [
+     "Alianza Atletico Sullana 3-0/3-1/4-0",
+     0.1109
+    ],
+    [
+     "0-0/1-1",
+     0.1918
+    ],
+    [
+     "FBC Melgar 0-1/0-2/1-2",
+     0.186
+    ],
+    [
+     "FBC Melgar 0-3/1-3/0-4",
+     0.0424
+    ],
+    [
+     "2-2/3-3",
+     0.0598
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "1.Yarı/Maç Skoru",
+   "oneri": "İY 0-0 / MS 0-0",
+   "olasilik": 0.073,
+   "adil_oran": 13.7,
+   "en_olasi": "İY 0-0 / MS 0-0",
+   "en_olasi_p": 0.073,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 0-0 / MS 0-0",
+     0.073
+    ],
+    [
+     "İY 0-0 / MS 1-0",
+     0.0627
+    ],
+    [
+     "İY 1-0 / MS 1-0",
+     0.0486
+    ],
+    [
+     "İY 0-0 / MS 0-1",
+     0.0437
+    ],
+    [
+     "İY 1-0 / MS 2-0",
+     0.0421
+    ],
+    [
+     "İY 0-0 / MS 1-1",
+     0.0376
+    ],
+    [
+     "İY 0-1 / MS 0-1",
+     0.0347
+    ],
+    [
+     "İY 1-0 / MS 1-1",
+     0.0292
+    ],
+    [
+     "İY 0-1 / MS 1-1",
+     0.0291
+    ],
+    [
+     "İY 0-0 / MS 2-0",
+     0.0272
+    ],
+    [
+     "İY 1-0 / MS 2-1",
+     0.026
+    ],
+    [
+     "İY 1-1 / MS 1-1",
+     0.0229
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Maç Skoru Beraberlik (0-0 hariç)",
+   "oneri": "Hayır",
+   "olasilik": 0.8204,
+   "adil_oran": 1.22,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8204,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1796
+    ],
+    [
+     "Hayır",
+     0.8204
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Alianza Atletico Sullana Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.2355,
+   "adil_oran": 4.25,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2355,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2355
+    ],
+    [
+     "2 farkla",
+     0.1461
+    ],
+    [
+     "3 farkla",
+     0.0678
+    ],
+    [
+     "4+ farkla",
+     0.0331
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "FBC Melgar : Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.1648,
+   "adil_oran": 6.07,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1648,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1648
+    ],
+    [
+     "2 farkla",
+     0.0702
+    ],
+    [
+     "3 farkla",
+     0.023
+    ],
+    [
+     "4+ farkla",
+     0.0069
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Alianza Atletico Sullana Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.1808,
+   "adil_oran": 5.53,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.1808,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.1113
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.1808
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.1196
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.0708
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "FBC Melgar Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.1076,
+   "adil_oran": 9.3,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.1076,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.0784
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.1076
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.0563
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.0226
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Alianza Atletico Sullana Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7331,
+   "adil_oran": 1.36,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7331,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2669
+    ],
+    [
+     "Hayır",
+     0.7331
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "FBC Melgar Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8592,
+   "adil_oran": 1.16,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8592,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1408
+    ],
+    [
+     "Hayır",
+     0.8592
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Alianza Atletico Sullana İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7862,
+   "adil_oran": 1.27,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7862,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2139
+    ],
+    [
+     "Hayır",
+     0.7862
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "FBC Melgar İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9068,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9068,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0932
+    ],
+    [
+     "Hayır",
+     0.9068
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Alianza Atletico Sullana Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.5119,
+   "adil_oran": 1.95,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5119,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4881
+    ],
+    [
+     "Hayır",
+     0.5119
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "FBC Melgar Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.5826,
+   "adil_oran": 1.72,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5826,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4174
+    ],
+    [
+     "Hayır",
+     0.5826
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Alianza Atletico Sullana En Az Bir Yarıyı Kazanır",
+   "oneri": "Evet",
+   "olasilik": 0.6087,
+   "adil_oran": 1.64,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6087,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6087
+    ],
+    [
+     "Hayır",
+     0.3913
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "FBC Melgar En Az Bir Yarıyı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.594,
+   "adil_oran": 1.68,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.594,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.406
+    ],
+    [
+     "Hayır",
+     0.594
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Alianza Atletico Sullana İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.9345,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9345,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0655
+    ],
+    [
+     "Hayır",
+     0.9345
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "FBC Melgar İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.9271,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9271,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0729
+    ],
+    [
+     "Hayır",
+     0.9271
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Sonucu",
+   "oneri": "X",
+   "olasilik": 0.4258,
+   "adil_oran": 2.35,
+   "en_olasi": "X",
+   "en_olasi_p": 0.4258,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Alianza Atletico Sullana)",
+     0.3545
+    ],
+    [
+     "X",
+     0.4258
+    ],
+    [
+     "2 (FBC Melgar)",
+     0.2197
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Çifte Şans",
+   "oneri": "1X",
+   "olasilik": 0.7803,
+   "adil_oran": 1.28,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.7803,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.7803
+    ],
+    [
+     "12",
+     0.5742
+    ],
+    [
+     "X2",
+     0.6455
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.6837,
+   "adil_oran": 1.46,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.8885,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.6837
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.3163
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.3214
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.6786
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1115
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8885
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 1. Takım Toplam Gol",
+   "oneri": "Alianza Atletico Sullana 0,5 Alt",
+   "olasilik": 0.5065,
+   "adil_oran": 1.97,
+   "en_olasi": "Alianza Atletico Sullana 1,5 Alt",
+   "en_olasi_p": 0.8495,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana 0,5 Üst",
+     0.4935
+    ],
+    [
+     "Alianza Atletico Sullana 0,5 Alt",
+     0.5065
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Üst",
+     0.1505
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Alt",
+     0.8495
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 2. Takım Toplam Gol",
+   "oneri": "FBC Melgar 0,5 Alt",
+   "olasilik": 0.6236,
+   "adil_oran": 1.6,
+   "en_olasi": "FBC Melgar 1,5 Alt",
+   "en_olasi_p": 0.9178,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "FBC Melgar 0,5 Üst",
+     0.3764
+    ],
+    [
+     "FBC Melgar 0,5 Alt",
+     0.6236
+    ],
+    [
+     "FBC Melgar 1,5 Üst",
+     0.0822
+    ],
+    [
+     "FBC Melgar 1,5 Alt",
+     0.9178
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Alianza Atletico Sullana Toplam Gol Asya",
+   "oneri": "Alianza Atletico Sullana Asya 1 Alt",
+   "olasilik": 0.7709,
+   "adil_oran": 1.3,
+   "en_olasi": "Alianza Atletico Sullana Asya 1 Alt",
+   "en_olasi_p": 0.7709,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana Asya 0,5 Üst",
+     0.4935
+    ],
+    [
+     "Alianza Atletico Sullana Asya 0,5 Alt",
+     0.5065
+    ],
+    [
+     "Alianza Atletico Sullana Asya 0,75 Üst",
+     0.3887
+    ],
+    [
+     "Alianza Atletico Sullana Asya 0,75 Alt",
+     0.6113
+    ],
+    [
+     "Alianza Atletico Sullana Asya 1 Üst",
+     0.2291
+    ],
+    [
+     "Alianza Atletico Sullana Asya 1 Alt",
+     0.7709
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı FBC Melgar Toplam Gol Asya",
+   "oneri": "FBC Melgar Asya 0,5 Alt",
+   "olasilik": 0.6236,
+   "adil_oran": 1.6,
+   "en_olasi": "FBC Melgar Asya 0,5 Alt",
+   "en_olasi_p": 0.6236,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "FBC Melgar Asya 0,25 Üst",
+     0.5469
+    ],
+    [
+     "FBC Melgar Asya 0,25 Alt",
+     0.4531
+    ],
+    [
+     "FBC Melgar Asya 0,5 Üst",
+     0.3764
+    ],
+    [
+     "FBC Melgar Asya 0,5 Alt",
+     0.6236
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8137,
+   "adil_oran": 1.23,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8137,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1863
+    ],
+    [
+     "Hayır",
+     0.8137
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı",
+   "oneri": "Alianza Atletico Sullana +0,5",
+   "olasilik": 0.7803,
+   "adil_oran": 1.28,
+   "en_olasi": "Alianza Atletico Sullana +1,5",
+   "en_olasi_p": 0.9535,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana -1,5",
+     0.1034
+    ],
+    [
+     "FBC Melgar +1,5",
+     0.8966
+    ],
+    [
+     "Alianza Atletico Sullana -0,5",
+     0.3545
+    ],
+    [
+     "FBC Melgar +0,5",
+     0.6455
+    ],
+    [
+     "Alianza Atletico Sullana +0,5",
+     0.7803
+    ],
+    [
+     "FBC Melgar -0,5",
+     0.2197
+    ],
+    [
+     "Alianza Atletico Sullana +1,5",
+     0.9535
+    ],
+    [
+     "FBC Melgar -1,5",
+     0.0465
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Goller Asya Handikapı",
+   "oneri": "Alianza Atletico Sullana Asya +0,5",
+   "olasilik": 0.7803,
+   "adil_oran": 1.28,
+   "en_olasi": "Alianza Atletico Sullana Asya +0,5",
+   "en_olasi_p": 0.7803,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana Asya -1",
+     0.1381
+    ],
+    [
+     "FBC Melgar Asya -1",
+     0.0562
+    ],
+    [
+     "Alianza Atletico Sullana Asya -0,75",
+     0.2618
+    ],
+    [
+     "FBC Melgar Asya -0,75",
+     0.1457
+    ],
+    [
+     "Alianza Atletico Sullana Asya -0,5",
+     0.3545
+    ],
+    [
+     "FBC Melgar Asya -0,5",
+     0.2197
+    ],
+    [
+     "Alianza Atletico Sullana Asya -0,25",
+     0.4504
+    ],
+    [
+     "FBC Melgar Asya -0,25",
+     0.2791
+    ],
+    [
+     "Alianza Atletico Sullana Asya 0",
+     0.6174
+    ],
+    [
+     "FBC Melgar Asya 0",
+     0.3826
+    ],
+    [
+     "Alianza Atletico Sullana Asya +0,25",
+     0.7209
+    ],
+    [
+     "FBC Melgar Asya +0,25",
+     0.5496
+    ],
+    [
+     "Alianza Atletico Sullana Asya +0,5",
+     0.7803
+    ],
+    [
+     "FBC Melgar Asya +0,5",
+     0.6455
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Alianza Atletico Sullana (+1)",
+   "olasilik": 0.7803,
+   "adil_oran": 1.28,
+   "en_olasi": "Alianza Atletico Sullana (+2)",
+   "en_olasi_p": 0.9535,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana (-2)",
+     0.0212
+    ],
+    [
+     "X (-2)",
+     0.0822
+    ],
+    [
+     "FBC Melgar (-2)",
+     0.8966
+    ],
+    [
+     "Alianza Atletico Sullana (-1)",
+     0.1034
+    ],
+    [
+     "X (-1)",
+     0.2511
+    ],
+    [
+     "FBC Melgar (-1)",
+     0.6455
+    ],
+    [
+     "Alianza Atletico Sullana (+1)",
+     0.7803
+    ],
+    [
+     "X (+1)",
+     0.1732
+    ],
+    [
+     "FBC Melgar (+1)",
+     0.0465
+    ],
+    [
+     "Alianza Atletico Sullana (+2)",
+     0.9535
+    ],
+    [
+     "X (+2)",
+     0.0396
+    ],
+    [
+     "FBC Melgar (+2)",
+     0.0069
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Asya",
+   "oneri": "Toplam Asya 0,75 Üst",
+   "olasilik": 0.6137,
+   "adil_oran": 1.63,
+   "en_olasi": "Toplam Asya 0,75 Üst",
+   "en_olasi_p": 0.6137,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam Asya 0,75 Üst",
+     0.6137
+    ],
+    [
+     "Toplam Asya 0,75 Alt",
+     0.3863
+    ],
+    [
+     "Toplam Asya 1 Üst",
+     0.504
+    ],
+    [
+     "Toplam Asya 1 Alt",
+     0.496
+    ],
+    [
+     "Toplam Asya 1,25 Üst",
+     0.3925
+    ],
+    [
+     "Toplam Asya 1,25 Alt",
+     0.6075
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Toplam Gol (3-İhtimalli)",
+   "oneri": "Tam 1",
+   "olasilik": 0.3622,
+   "adil_oran": 2.76,
+   "en_olasi": "Tam 1",
+   "en_olasi_p": 0.3622,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.3163
+    ],
+    [
+     "Tam 1",
+     0.3622
+    ],
+    [
+     "1 Üst",
+     0.3214
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "X & KG Yok",
+   "olasilik": 0.3163,
+   "adil_oran": 3.16,
+   "en_olasi": "X & KG Yok",
+   "en_olasi_p": 0.3163,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0473
+    ],
+    [
+     "1 & KG Yok",
+     0.3073
+    ],
+    [
+     "X & KG Var",
+     0.1094
+    ],
+    [
+     "X & KG Yok",
+     0.3163
+    ],
+    [
+     "2 & KG Var",
+     0.0296
+    ],
+    [
+     "2 & KG Yok",
+     0.1901
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Aralığı",
+   "oneri": "1 gol",
+   "olasilik": 0.3622,
+   "adil_oran": 2.76,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3622,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3163
+    ],
+    [
+     "1 gol",
+     0.3622
+    ],
+    [
+     "2-3 gol",
+     0.2914
+    ],
+    [
+     "4+ gol",
+     0.0301
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Alianza Atletico Sullana Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.5065,
+   "adil_oran": 1.97,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5065,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5065
+    ],
+    [
+     "1 gol",
+     0.343
+    ],
+    [
+     "2+ gol",
+     0.1505
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı FBC Melgar Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.6236,
+   "adil_oran": 1.6,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.6236,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6236
+    ],
+    [
+     "1 gol",
+     0.2942
+    ],
+    [
+     "2+ gol",
+     0.0822
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.6786,
+   "adil_oran": 1.47,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.6786,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.6786
+    ],
+    [
+     "1-2 gol",
+     0.5722
+    ],
+    [
+     "2-3 gol",
+     0.2914
+    ],
+    [
+     "3+ gol",
+     0.1115
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.5065,
+   "adil_oran": 1.97,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.8495,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5065
+    ],
+    [
+     "0-1 gol",
+     0.8495
+    ],
+    [
+     "1-2 gol",
+     0.4615
+    ],
+    [
+     "2+ gol",
+     0.1505
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.6236,
+   "adil_oran": 1.6,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.9178,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6236
+    ],
+    [
+     "0-1 gol",
+     0.9178
+    ],
+    [
+     "1-2 gol",
+     0.3638
+    ],
+    [
+     "2+ gol",
+     0.0822
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3622,
+   "adil_oran": 2.76,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3622,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3163
+    ],
+    [
+     "1 gol",
+     0.3622
+    ],
+    [
+     "2 gol",
+     0.2099
+    ],
+    [
+     "3 gol",
+     0.0814
+    ],
+    [
+     "4+ gol",
+     0.0301
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Alianza Atletico Sullana Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.5065,
+   "adil_oran": 1.97,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5065,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5065
+    ],
+    [
+     "1 gol",
+     0.343
+    ],
+    [
+     "2 gol",
+     0.1184
+    ],
+    [
+     "3+ gol",
+     0.032
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı FBC Melgar Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.6236,
+   "adil_oran": 1.6,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.6236,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6236
+    ],
+    [
+     "1 gol",
+     0.2942
+    ],
+    [
+     "2 gol",
+     0.0696
+    ],
+    [
+     "3+ gol",
+     0.0126
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Alianza Atletico Sullana Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.2511,
+   "adil_oran": 3.98,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2511,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2511
+    ],
+    [
+     "2 farkla",
+     0.0822
+    ],
+    [
+     "3+ farkla",
+     0.0212
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı FBC Melgar Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.1732,
+   "adil_oran": 5.77,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1732,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1732
+    ],
+    [
+     "2 farkla",
+     0.0396
+    ],
+    [
+     "3+ farkla",
+     0.0069
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Alianza Atletico Sullana Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.6927,
+   "adil_oran": 1.44,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6927,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3073
+    ],
+    [
+     "Hayır",
+     0.6927
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı FBC Melgar Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8099,
+   "adil_oran": 1.23,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8099,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1901
+    ],
+    [
+     "Hayır",
+     0.8099
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı İlk Golü Atacak Takım",
+   "oneri": "Alianza Atletico Sullana",
+   "olasilik": 0.4035,
+   "adil_oran": 2.48,
+   "en_olasi": "Alianza Atletico Sullana",
+   "en_olasi_p": 0.4035,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana",
+     0.4035
+    ],
+    [
+     "Gol yok",
+     0.3163
+    ],
+    [
+     "FBC Melgar",
+     0.2802
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Son Golü Atacak Takım",
+   "oneri": "Alianza Atletico Sullana",
+   "olasilik": 0.4034,
+   "adil_oran": 2.48,
+   "en_olasi": "Alianza Atletico Sullana",
+   "en_olasi_p": 0.4034,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana",
+     0.4034
+    ],
+    [
+     "Gol yok",
+     0.3163
+    ],
+    [
+     "FBC Melgar",
+     0.2803
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Doğru Skor",
+   "oneri": "0-0",
+   "olasilik": 0.3163,
+   "adil_oran": 3.16,
+   "en_olasi": "0-0",
+   "en_olasi_p": 0.3163,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-0",
+     0.3163
+    ],
+    [
+     "1-0",
+     0.2139
+    ],
+    [
+     "0-1",
+     0.1483
+    ],
+    [
+     "1-1",
+     0.1009
+    ],
+    [
+     "2-0",
+     0.0737
+    ],
+    [
+     "0-2",
+     0.0354
+    ],
+    [
+     "2-1",
+     0.0353
+    ],
+    [
+     "1-2",
+     0.0238
+    ],
+    [
+     "3-0",
+     0.0168
+    ],
+    [
+     "2-2",
+     0.0082
+    ],
+    [
+     "3-1",
+     0.0082
+    ],
+    [
+     "Diğer",
+     0.0063
+    ],
+    [
+     "0-3",
+     0.0056
+    ],
+    [
+     "1-3",
+     0.004
+    ],
+    [
+     "3-2",
+     0.0019
+    ],
+    [
+     "2-3",
+     0.0011
+    ],
+    [
+     "3-3",
+     0.0003
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Sonucu",
+   "oneri": "1 (Alianza Atletico Sullana)",
+   "olasilik": 0.3938,
+   "adil_oran": 2.54,
+   "en_olasi": "1 (Alianza Atletico Sullana)",
+   "en_olasi_p": 0.3938,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Alianza Atletico Sullana)",
+     0.3938
+    ],
+    [
+     "X",
+     0.3669
+    ],
+    [
+     "2 (FBC Melgar)",
+     0.2392
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Çifte Şans",
+   "oneri": "1X",
+   "olasilik": 0.7608,
+   "adil_oran": 1.31,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.7608,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.7608
+    ],
+    [
+     "12",
+     0.6331
+    ],
+    [
+     "X2",
+     0.6062
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.8151,
+   "adil_oran": 1.23,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.8151,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7696
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2304
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.4328
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.5672
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1849
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8151
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Alianza Atletico Sullana Toplam Gol",
+   "oneri": "Alianza Atletico Sullana 1,5 Alt",
+   "olasilik": 0.7835,
+   "adil_oran": 1.28,
+   "en_olasi": "Alianza Atletico Sullana 1,5 Alt",
+   "en_olasi_p": 0.7835,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana 0,5 Üst",
+     0.5799
+    ],
+    [
+     "Alianza Atletico Sullana 0,5 Alt",
+     0.4201
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Üst",
+     0.2165
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Alt",
+     0.7835
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı FBC Melgar Toplam Gol",
+   "oneri": "FBC Melgar 0,5 Alt",
+   "olasilik": 0.5472,
+   "adil_oran": 1.83,
+   "en_olasi": "FBC Melgar 1,5 Alt",
+   "en_olasi_p": 0.8759,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "FBC Melgar 0,5 Üst",
+     0.4528
+    ],
+    [
+     "FBC Melgar 0,5 Alt",
+     0.5472
+    ],
+    [
+     "FBC Melgar 1,5 Üst",
+     0.1241
+    ],
+    [
+     "FBC Melgar 1,5 Alt",
+     0.8759
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7368,
+   "adil_oran": 1.36,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7368,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2632
+    ],
+    [
+     "Hayır",
+     0.7368
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı",
+   "oneri": "Alianza Atletico Sullana +0,5",
+   "olasilik": 0.7608,
+   "adil_oran": 1.31,
+   "en_olasi": "Alianza Atletico Sullana +1,5",
+   "en_olasi_p": 0.9393,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana -1,5",
+     0.1383
+    ],
+    [
+     "FBC Melgar +1,5",
+     0.8617
+    ],
+    [
+     "Alianza Atletico Sullana -0,5",
+     0.3938
+    ],
+    [
+     "FBC Melgar +0,5",
+     0.6062
+    ],
+    [
+     "Alianza Atletico Sullana +0,5",
+     0.7608
+    ],
+    [
+     "FBC Melgar -0,5",
+     0.2392
+    ],
+    [
+     "Alianza Atletico Sullana +1,5",
+     0.9393
+    ],
+    [
+     "FBC Melgar -1,5",
+     0.0607
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Alianza Atletico Sullana (+1)",
+   "olasilik": 0.7608,
+   "adil_oran": 1.31,
+   "en_olasi": "Alianza Atletico Sullana (+2)",
+   "en_olasi_p": 0.9393,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana (-2)",
+     0.0353
+    ],
+    [
+     "X (-2)",
+     0.103
+    ],
+    [
+     "FBC Melgar (-2)",
+     0.8617
+    ],
+    [
+     "Alianza Atletico Sullana (-1)",
+     0.1383
+    ],
+    [
+     "X (-1)",
+     0.2555
+    ],
+    [
+     "FBC Melgar (-1)",
+     0.6062
+    ],
+    [
+     "Alianza Atletico Sullana (+1)",
+     0.7608
+    ],
+    [
+     "X (+1)",
+     0.1786
+    ],
+    [
+     "FBC Melgar (+1)",
+     0.0607
+    ],
+    [
+     "Alianza Atletico Sullana (+2)",
+     0.9393
+    ],
+    [
+     "X (+2)",
+     0.0495
+    ],
+    [
+     "FBC Melgar (+2)",
+     0.0112
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.3168,
+   "adil_oran": 3.16,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.3168,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0771
+    ],
+    [
+     "1 & KG Yok",
+     0.3168
+    ],
+    [
+     "X & KG Var",
+     0.1365
+    ],
+    [
+     "X & KG Yok",
+     0.2304
+    ],
+    [
+     "2 & KG Var",
+     0.0496
+    ],
+    [
+     "2 & KG Yok",
+     0.1896
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol Aralığı",
+   "oneri": "2-3 gol",
+   "olasilik": 0.3706,
+   "adil_oran": 2.7,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.3706,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2304
+    ],
+    [
+     "1 gol",
+     0.3368
+    ],
+    [
+     "2-3 gol",
+     0.3706
+    ],
+    [
+     "4+ gol",
+     0.0621
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Alianza Atletico Sullana Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.4201,
+   "adil_oran": 2.38,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4201,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4201
+    ],
+    [
+     "1 gol",
+     0.3634
+    ],
+    [
+     "2+ gol",
+     0.2165
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı FBC Melgar Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.5472,
+   "adil_oran": 1.83,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5472,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5472
+    ],
+    [
+     "1 gol",
+     0.3287
+    ],
+    [
+     "2+ gol",
+     0.1241
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5846,
+   "adil_oran": 1.71,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5846,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.5672
+    ],
+    [
+     "1-2 gol",
+     0.5846
+    ],
+    [
+     "2-3 gol",
+     0.3706
+    ],
+    [
+     "3+ gol",
+     0.1849
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7835,
+   "adil_oran": 1.28,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7835,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4201
+    ],
+    [
+     "0-1 gol",
+     0.7835
+    ],
+    [
+     "1-2 gol",
+     0.5226
+    ],
+    [
+     "2+ gol",
+     0.2165
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.5472,
+   "adil_oran": 1.83,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.8759,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5472
+    ],
+    [
+     "0-1 gol",
+     0.8759
+    ],
+    [
+     "1-2 gol",
+     0.4289
+    ],
+    [
+     "2+ gol",
+     0.1241
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3368,
+   "adil_oran": 2.97,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3368,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2304
+    ],
+    [
+     "1 gol",
+     0.3368
+    ],
+    [
+     "2 gol",
+     0.2479
+    ],
+    [
+     "3 gol",
+     0.1228
+    ],
+    [
+     "4+ gol",
+     0.0621
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Alianza Atletico Sullana Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.4201,
+   "adil_oran": 2.38,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4201,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4201
+    ],
+    [
+     "1 gol",
+     0.3634
+    ],
+    [
+     "2 gol",
+     0.1591
+    ],
+    [
+     "3+ gol",
+     0.0573
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı FBC Melgar Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.5472,
+   "adil_oran": 1.83,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5472,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5472
+    ],
+    [
+     "1 gol",
+     0.3287
+    ],
+    [
+     "2 gol",
+     0.1003
+    ],
+    [
+     "3+ gol",
+     0.0238
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Alianza Atletico Sullana Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.2555,
+   "adil_oran": 3.91,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2555,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2555
+    ],
+    [
+     "2 farkla",
+     0.103
+    ],
+    [
+     "3+ farkla",
+     0.0353
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı FBC Melgar Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.1786,
+   "adil_oran": 5.6,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1786,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1786
+    ],
+    [
+     "2 farkla",
+     0.0495
+    ],
+    [
+     "3+ farkla",
+     0.0112
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Alianza Atletico Sullana Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.6832,
+   "adil_oran": 1.46,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6832,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3168
+    ],
+    [
+     "Hayır",
+     0.6832
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı FBC Melgar Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8104,
+   "adil_oran": 1.23,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8104,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1896
+    ],
+    [
+     "Hayır",
+     0.8104
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı İlk Golü Atacak Takım",
+   "oneri": "Alianza Atletico Sullana",
+   "olasilik": 0.453,
+   "adil_oran": 2.21,
+   "en_olasi": "Alianza Atletico Sullana",
+   "en_olasi_p": 0.453,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana",
+     0.453
+    ],
+    [
+     "Gol yok",
+     0.2304
+    ],
+    [
+     "FBC Melgar",
+     0.3166
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Son Golü Atacak Takım",
+   "oneri": "Alianza Atletico Sullana",
+   "olasilik": 0.4544,
+   "adil_oran": 2.2,
+   "en_olasi": "Alianza Atletico Sullana",
+   "en_olasi_p": 0.4544,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana",
+     0.4544
+    ],
+    [
+     "Gol yok",
+     0.2304
+    ],
+    [
+     "FBC Melgar",
+     0.3152
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Doğru Skor",
+   "oneri": "0-0",
+   "olasilik": 0.2304,
+   "adil_oran": 4.34,
+   "en_olasi": "0-0",
+   "en_olasi_p": 0.2304,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-0",
+     0.2304
+    ],
+    [
+     "1-0",
+     0.1984
+    ],
+    [
+     "0-1",
+     0.1383
+    ],
+    [
+     "1-1",
+     0.1195
+    ],
+    [
+     "2-0",
+     0.0869
+    ],
+    [
+     "2-1",
+     0.0522
+    ],
+    [
+     "0-2",
+     0.0415
+    ],
+    [
+     "1-2",
+     0.0367
+    ],
+    [
+     "3-0",
+     0.0254
+    ],
+    [
+     "2-2",
+     0.0161
+    ],
+    [
+     "3-1",
+     0.015
+    ],
+    [
+     "Diğer",
+     0.0148
+    ],
+    [
+     "0-3",
+     0.0084
+    ],
+    [
+     "1-3",
+     0.0075
+    ],
+    [
+     "3-2",
+     0.0046
+    ],
+    [
+     "2-3",
+     0.0033
+    ],
+    [
+     "3-3",
+     0.0008
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Karşılıklı Gol",
+   "oneri": "İY Yok / 2Y Yok",
+   "olasilik": 0.5993,
+   "adil_oran": 1.67,
+   "en_olasi": "İY Yok / 2Y Yok",
+   "en_olasi_p": 0.5993,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Var / 2Y Var",
+     0.0487
+    ],
+    [
+     "İY Var / 2Y Yok",
+     0.1376
+    ],
+    [
+     "İY Yok / 2Y Var",
+     0.2145
+    ],
+    [
+     "İY Yok / 2Y Yok",
+     0.5993
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı veya Maç Sonucu",
+   "oneri": "İY 1 veya MS 1",
+   "olasilik": 0.548,
+   "adil_oran": 1.82,
+   "en_olasi": "İY 1 veya MS 1",
+   "en_olasi_p": 0.548,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 1 veya MS 1",
+     0.548
+    ],
+    [
+     "İY X veya MS X",
+     0.5223
+    ],
+    [
+     "İY 2 veya MS 2",
+     0.3378
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarı/Maç Sonucu",
+   "oneri": "1/1",
+   "olasilik": 0.289,
+   "adil_oran": 3.46,
+   "en_olasi": "1/1",
+   "en_olasi_p": 0.289,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.289
+    ],
+    [
+     "1/X",
+     0.0489
+    ],
+    [
+     "1/2",
+     0.0166
+    ],
+    [
+     "X/1",
+     0.1682
+    ],
+    [
+     "X/X",
+     0.1561
+    ],
+    [
+     "X/2",
+     0.1015
+    ],
+    [
+     "2/1",
+     0.0253
+    ],
+    [
+     "2/X",
+     0.0477
+    ],
+    [
+     "2/2",
+     0.1468
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Sonucu",
+   "oneri": "X/1",
+   "olasilik": 0.1682,
+   "adil_oran": 5.95,
+   "en_olasi": "X/1",
+   "en_olasi_p": 0.1682,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.1397
+    ],
+    [
+     "1/X",
+     0.1301
+    ],
+    [
+     "1/2",
+     0.0848
+    ],
+    [
+     "X/1",
+     0.1682
+    ],
+    [
+     "X/X",
+     0.1561
+    ],
+    [
+     "X/2",
+     0.1015
+    ],
+    [
+     "2/1",
+     0.086
+    ],
+    [
+     "2/X",
+     0.0807
+    ],
+    [
+     "2/2",
+     0.053
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.4455,
+   "adil_oran": 2.24,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.4455,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2982
+    ],
+    [
+     "Eşit",
+     0.2563
+    ],
+    [
+     "2. Yarı",
+     0.4455
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı : Çifte Şans",
+   "oneri": "1. veya 2. Yarı",
+   "olasilik": 0.7437,
+   "adil_oran": 1.34,
+   "en_olasi": "1. veya 2. Yarı",
+   "en_olasi_p": 0.7437,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı veya Eşit",
+     0.5545
+    ],
+    [
+     "2. Yarı veya Eşit",
+     0.7018
+    ],
+    [
+     "1. veya 2. Yarı",
+     0.7437
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Alianza Atletico Sullana : En Çok Gol Attığı Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.3745,
+   "adil_oran": 2.67,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.3745,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2665
+    ],
+    [
+     "Eşit",
+     0.3589
+    ],
+    [
+     "2. Yarı",
+     0.3745
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "FBC Melgar : En Çok Gol Attığı Yarı",
+   "oneri": "Eşit",
+   "olasilik": 0.4436,
+   "adil_oran": 2.25,
+   "en_olasi": "Eşit",
+   "en_olasi_p": 0.4436,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2349
+    ],
+    [
+     "Eşit",
+     0.4436
+    ],
+    [
+     "2. Yarı",
+     0.3215
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Alianza Atletico Sullana : Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.7128,
+   "adil_oran": 1.4,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7128,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2872
+    ],
+    [
+     "Hayır",
+     0.7128
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "FBC Melgar Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8309,
+   "adil_oran": 1.2,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8309,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1691
+    ],
+    [
+     "Hayır",
+     0.8309
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Alianza Atletico Sullana : İlk Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.5065,
+   "adil_oran": 1.97,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5065,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4935
+    ],
+    [
+     "Hayır",
+     0.5065
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "FBC Melgar İlk Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.6236,
+   "adil_oran": 1.6,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6236,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3764
+    ],
+    [
+     "Hayır",
+     0.6236
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Alianza Atletico Sullana : İkinci Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.5799,
+   "adil_oran": 1.72,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5799,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5799
+    ],
+    [
+     "Hayır",
+     0.4201
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "FBC Melgar İkinci Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.5472,
+   "adil_oran": 1.83,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5472,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4528
+    ],
+    [
+     "Hayır",
+     0.5472
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.6837,
+   "adil_oran": 1.46,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6837,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6837
+    ],
+    [
+     "Hayır",
+     0.3163
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İkinci Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.7696,
+   "adil_oran": 1.3,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7696,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7696
+    ],
+    [
+     "Hayır",
+     0.2304
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarıda da 1.5 Üst Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8618,
+   "adil_oran": 1.16,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8618,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1382
+    ],
+    [
+     "Hayır",
+     0.8618
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarı Goller 1.5 Alt",
+   "oneri": "Hayır",
+   "olasilik": 0.616,
+   "adil_oran": 1.62,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.616,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.384
+    ],
+    [
+     "Hayır",
+     0.616
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Alianza Atletico Sullana : Gol Atar 1.Yarı/2.Yarı",
+   "oneri": "Hayır/Evet",
+   "olasilik": 0.2927,
+   "adil_oran": 3.42,
+   "en_olasi": "Hayır/Evet",
+   "en_olasi_p": 0.2927,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.2872
+    ],
+    [
+     "Evet/Hayır",
+     0.2063
+    ],
+    [
+     "Hayır/Evet",
+     0.2927
+    ],
+    [
+     "Hayır/Hayır",
+     0.2138
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "FBC Melgar Gol Atar İlk Yarı/İkinci Yarı",
+   "oneri": "Hayır/Hayır",
+   "olasilik": 0.3399,
+   "adil_oran": 2.94,
+   "en_olasi": "Hayır/Hayır",
+   "en_olasi_p": 0.3399,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.1691
+    ],
+    [
+     "Evet/Hayır",
+     0.2073
+    ],
+    [
+     "Hayır/Evet",
+     0.2837
+    ],
+    [
+     "Hayır/Hayır",
+     0.3399
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarıları Farklı Takımlar Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8293,
+   "adil_oran": 1.21,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8293,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1708
+    ],
+    [
+     "Hayır",
+     0.8293
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarılardan En Az Birinde Beraberlik",
+   "oneri": "Evet",
+   "olasilik": 0.6366,
+   "adil_oran": 1.57,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6366,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6366
+    ],
+    [
+     "Hayır",
+     0.3634
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1.Yarı Toplam Gol'e karşı 2. Yarı Toplam Gol Handikapı",
+   "oneri": "1. Yarı +1,5",
+   "olasilik": 0.7819,
+   "adil_oran": 1.28,
+   "en_olasi": "1. Yarı +1,5",
+   "en_olasi_p": 0.7819,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "2. Yarı -1,5",
+     0.2181
+    ],
+    [
+     "2. Yarı -0,5",
+     0.4455
+    ],
+    [
+     "2. Yarı +0,5",
+     0.7018
+    ],
+    [
+     "1. Yarı +1,5",
+     0.7819
+    ],
+    [
+     "1. Yarı +0,5",
+     0.5545
+    ],
+    [
+     "1. Yarı -0,5",
+     0.2982
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7984,
+   "adil_oran": 1.25,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7984,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2016
+    ],
+    [
+     "Hayır",
+     0.7984
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Köşe Vuruşu",
+   "oneri": "Evet",
+   "olasilik": 0.6276,
+   "adil_oran": 1.59,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6276,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6276
+    ],
+    [
+     "Hayır",
+     0.3724
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Alianza Atletico Sullana : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Alianza Atletico Sullana 0,5 Alt",
+   "olasilik": 0.5752,
+   "adil_oran": 1.74,
+   "en_olasi": "Alianza Atletico Sullana 1,5 Alt",
+   "en_olasi_p": 0.8933,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana 0,5 Üst",
+     0.4248
+    ],
+    [
+     "Alianza Atletico Sullana 0,5 Alt",
+     0.5752
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Üst",
+     0.1066
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Alt",
+     0.8933
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "FBC Melgar : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "FBC Melgar 0,5 Alt",
+   "olasilik": 0.6454,
+   "adil_oran": 1.55,
+   "en_olasi": "FBC Melgar 0,5 Alt",
+   "en_olasi_p": 0.6454,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "FBC Melgar 0,5 Üst",
+     0.3546
+    ],
+    [
+     "FBC Melgar 0,5 Alt",
+     0.6454
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Sarı Kartlar",
+   "oneri": "Hayır",
+   "olasilik": 0.7961,
+   "adil_oran": 1.26,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7961,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2039
+    ],
+    [
+     "Hayır",
+     0.7961
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.7315,
+   "adil_oran": 1.37,
+   "en_olasi": "X",
+   "en_olasi_p": 0.7315,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Alianza Atletico Sullana)",
+     0.1605
+    ],
+    [
+     "X",
+     0.7315
+    ],
+    [
+     "2 (FBC Melgar)",
+     0.108
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Gol Handikapı",
+   "oneri": "Alianza Atletico Sullana (+1)",
+   "olasilik": 0.892,
+   "adil_oran": 1.12,
+   "en_olasi": "Alianza Atletico Sullana (+1)",
+   "en_olasi_p": 0.892,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana (-1)",
+     0.0158
+    ],
+    [
+     "X (-1)",
+     0.1447
+    ],
+    [
+     "FBC Melgar (-1)",
+     0.8395
+    ],
+    [
+     "Alianza Atletico Sullana (+1)",
+     0.892
+    ],
+    [
+     "X (+1)",
+     0.1006
+    ],
+    [
+     "FBC Melgar (+1)",
+     0.0074
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.7114,
+   "adil_oran": 1.41,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9532,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.2886
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.7114
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0468
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9532
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Alianza Atletico Sullana Toplam Goller",
+   "oneri": "Alianza Atletico Sullana 0,5 Alt",
+   "olasilik": 0.8179,
+   "adil_oran": 1.22,
+   "en_olasi": "Alianza Atletico Sullana 1,5 Alt",
+   "en_olasi_p": 0.9819,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana 0,5 Üst",
+     0.1821
+    ],
+    [
+     "Alianza Atletico Sullana 0,5 Alt",
+     0.8179
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Üst",
+     0.0181
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Alt",
+     0.9819
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. FBC Melgar Toplam Goller",
+   "oneri": "FBC Melgar 0,5 Alt",
+   "olasilik": 0.8697,
+   "adil_oran": 1.15,
+   "en_olasi": "FBC Melgar 0,5 Alt",
+   "en_olasi_p": 0.8697,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "FBC Melgar 0,5 Üst",
+     0.1303
+    ],
+    [
+     "FBC Melgar 0,5 Alt",
+     0.8697
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. İki Takım Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.9762,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9762,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0238
+    ],
+    [
+     "Hayır",
+     0.9762
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.5543,
+   "adil_oran": 1.8,
+   "en_olasi": "X",
+   "en_olasi_p": 0.5543,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Alianza Atletico Sullana)",
+     0.2704
+    ],
+    [
+     "X",
+     0.5543
+    ],
+    [
+     "2 (FBC Melgar)",
+     0.1753
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Gol Handikapı",
+   "oneri": "Alianza Atletico Sullana (+1)",
+   "olasilik": 0.8247,
+   "adil_oran": 1.21,
+   "en_olasi": "Alianza Atletico Sullana (+1)",
+   "en_olasi_p": 0.8247,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana (-1)",
+     0.0516
+    ],
+    [
+     "X (-1)",
+     0.2188
+    ],
+    [
+     "FBC Melgar (-1)",
+     0.7296
+    ],
+    [
+     "Alianza Atletico Sullana (+1)",
+     0.8247
+    ],
+    [
+     "X (+1)",
+     0.1514
+    ],
+    [
+     "FBC Melgar (+1)",
+     0.0239
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.5076,
+   "adil_oran": 1.97,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.841,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.5076
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.4924
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.159
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.841
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Alianza Atletico Sullana Toplam Goller",
+   "oneri": "Alianza Atletico Sullana 0,5 Alt",
+   "olasilik": 0.658,
+   "adil_oran": 1.52,
+   "en_olasi": "Alianza Atletico Sullana 1,5 Alt",
+   "en_olasi_p": 0.9336,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana 0,5 Üst",
+     0.342
+    ],
+    [
+     "Alianza Atletico Sullana 0,5 Alt",
+     0.658
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Üst",
+     0.0664
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Alt",
+     0.9336
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. FBC Melgar Toplam Goller",
+   "oneri": "FBC Melgar 0,5 Alt",
+   "olasilik": 0.748,
+   "adil_oran": 1.34,
+   "en_olasi": "FBC Melgar 0,5 Alt",
+   "en_olasi_p": 0.748,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "FBC Melgar 0,5 Üst",
+     0.252
+    ],
+    [
+     "FBC Melgar 0,5 Alt",
+     0.748
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Galibi",
+   "oneri": "1 (Alianza Atletico Sullana)",
+   "olasilik": 0.4053,
+   "adil_oran": 2.47,
+   "en_olasi": "1 (Alianza Atletico Sullana)",
+   "en_olasi_p": 0.4053,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Alianza Atletico Sullana)",
+     0.4053
+    ],
+    [
+     "X",
+     0.3533
+    ],
+    [
+     "2 (FBC Melgar)",
+     0.2414
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Gol Handikapı",
+   "oneri": "Alianza Atletico Sullana +0,5",
+   "olasilik": 0.7586,
+   "adil_oran": 1.32,
+   "en_olasi": "FBC Melgar +1,5",
+   "en_olasi_p": 0.8511,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana -1,5",
+     0.1489
+    ],
+    [
+     "FBC Melgar +1,5",
+     0.8511
+    ],
+    [
+     "Alianza Atletico Sullana -0,5",
+     0.4053
+    ],
+    [
+     "FBC Melgar +0,5",
+     0.5947
+    ],
+    [
+     "Alianza Atletico Sullana +0,5",
+     0.7586
+    ],
+    [
+     "FBC Melgar -0,5",
+     0.2414
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Toplam Goller",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.7918,
+   "adil_oran": 1.26,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.7918,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7887
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2113
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.4628
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.5372
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.2082
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.7918
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Alianza Atletico Sullana Toplam Goller",
+   "oneri": "Alianza Atletico Sullana 1,5 Alt",
+   "olasilik": 0.7631,
+   "adil_oran": 1.31,
+   "en_olasi": "Alianza Atletico Sullana 1,5 Alt",
+   "en_olasi_p": 0.7631,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana 0,5 Üst",
+     0.6017
+    ],
+    [
+     "Alianza Atletico Sullana 0,5 Alt",
+     0.3983
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Üst",
+     0.2369
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Alt",
+     0.7631
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. FBC Melgar Toplam Goller",
+   "oneri": "FBC Melgar 0,5 Alt",
+   "olasilik": 0.5274,
+   "adil_oran": 1.9,
+   "en_olasi": "FBC Melgar 0,5 Alt",
+   "en_olasi_p": 0.5274,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "FBC Melgar 0,5 Üst",
+     0.4726
+    ],
+    [
+     "FBC Melgar 0,5 Alt",
+     0.5274
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7144,
+   "adil_oran": 1.4,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7144,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2856
+    ],
+    [
+     "Hayır",
+     0.7144
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Galibi",
+   "oneri": "1 (Alianza Atletico Sullana)",
+   "olasilik": 0.4426,
+   "adil_oran": 2.26,
+   "en_olasi": "1 (Alianza Atletico Sullana)",
+   "en_olasi_p": 0.4426,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Alianza Atletico Sullana)",
+     0.4426
+    ],
+    [
+     "X",
+     0.3031
+    ],
+    [
+     "2 (FBC Melgar)",
+     0.2543
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Gol Handikapı",
+   "oneri": "FBC Melgar +1,5",
+   "olasilik": 0.8077,
+   "adil_oran": 1.24,
+   "en_olasi": "FBC Melgar +1,5",
+   "en_olasi_p": 0.8077,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana -1,5",
+     0.1923
+    ],
+    [
+     "FBC Melgar +1,5",
+     0.8077
+    ],
+    [
+     "Alianza Atletico Sullana -0,5",
+     0.4426
+    ],
+    [
+     "FBC Melgar +0,5",
+     0.5574
+    ],
+    [
+     "Alianza Atletico Sullana +0,5",
+     0.7457
+    ],
+    [
+     "FBC Melgar -0,5",
+     0.2543
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Toplam Goller",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.6759,
+   "adil_oran": 1.48,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.8626,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.8626
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.1374
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.5935
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.4065
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.3241
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.6759
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Alianza Atletico Sullana Toplam Goller",
+   "oneri": "Alianza Atletico Sullana 0,5 Üst",
+   "olasilik": 0.691,
+   "adil_oran": 1.45,
+   "en_olasi": "Alianza Atletico Sullana 0,5 Üst",
+   "en_olasi_p": 0.691,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana 0,5 Üst",
+     0.691
+    ],
+    [
+     "Alianza Atletico Sullana 0,5 Alt",
+     0.309
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Üst",
+     0.3314
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Alt",
+     0.6686
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. FBC Melgar Toplam Goller",
+   "oneri": "FBC Melgar 0,5 Üst",
+   "olasilik": 0.5592,
+   "adil_oran": 1.79,
+   "en_olasi": "FBC Melgar 0,5 Üst",
+   "en_olasi_p": 0.5592,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "FBC Melgar 0,5 Üst",
+     0.5592
+    ],
+    [
+     "FBC Melgar 0,5 Alt",
+     0.4408
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.6124,
+   "adil_oran": 1.63,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6124,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3876
+    ],
+    [
+     "Hayır",
+     0.6124
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kafa Golü Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.6906,
+   "adil_oran": 1.45,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6906,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3094
+    ],
+    [
+     "Hayır",
+     0.6906
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Frikikten Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9303,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9303,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0697
+    ],
+    [
+     "Hayır",
+     0.9303
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Rövaşata ile Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.9949,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9949,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0051
+    ],
+    [
+     "Hayır",
+     0.9949
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Ceza Sahası Dışından Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7691,
+   "adil_oran": 1.3,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7691,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2309
+    ],
+    [
+     "Hayır",
+     0.7691
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kendi Kalesine Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.9115,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9115,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0885
+    ],
+    [
+     "Hayır",
+     0.9115
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Oyuncu Hat-trick Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9778,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9778,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0222
+    ],
+    [
+     "Hayır",
+     0.9778
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Kaleci Asist Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.99,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.99,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.01
+    ],
+    [
+     "Hayır",
+     0.99
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "VAR'lar: Toplam (Yalnızca Sahada İnceleme veya Video İnceleme İşareti (TV))",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.5452,
+   "adil_oran": 1.83,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.8764,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.4548
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.5452
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.1236
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.8764
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Sonuç",
+   "oneri": "1 (Alianza Atletico Sullana)",
+   "olasilik": 0.5935,
+   "adil_oran": 1.68,
+   "en_olasi": "1 (Alianza Atletico Sullana)",
+   "en_olasi_p": 0.5935,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Alianza Atletico Sullana)",
+     0.5935
+    ],
+    [
+     "X",
+     0.1173
+    ],
+    [
+     "2 (FBC Melgar)",
+     0.2892
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam",
+   "oneri": "Toplam 7,5 Üst",
+   "olasilik": 0.8214,
+   "adil_oran": 1.22,
+   "en_olasi": "Toplam 7,5 Üst",
+   "en_olasi_p": 0.8214,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 7,5 Üst",
+     0.8214
+    ],
+    [
+     "Toplam 7,5 Alt",
+     0.1786
+    ],
+    [
+     "Toplam 8,5 Üst",
+     0.7193
+    ],
+    [
+     "Toplam 8,5 Alt",
+     0.2807
+    ],
+    [
+     "Toplam 9,5 Üst",
+     0.6009
+    ],
+    [
+     "Toplam 9,5 Alt",
+     0.3991
+    ],
+    [
+     "Toplam 10,5 Üst",
+     0.4767
+    ],
+    [
+     "Toplam 10,5 Alt",
+     0.5233
+    ],
+    [
+     "Toplam 11,5 Üst",
+     0.3587
+    ],
+    [
+     "Toplam 11,5 Alt",
+     0.6413
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Alianza Atletico Sullana",
+   "oneri": "Alianza Atletico Sullana 7,5 Alt",
+   "olasilik": 0.7612,
+   "adil_oran": 1.31,
+   "en_olasi": "Alianza Atletico Sullana 3,5 Üst",
+   "en_olasi_p": 0.839,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana 3,5 Üst",
+     0.839
+    ],
+    [
+     "Alianza Atletico Sullana 3,5 Alt",
+     0.161
+    ],
+    [
+     "Alianza Atletico Sullana 4,5 Üst",
+     0.6993
+    ],
+    [
+     "Alianza Atletico Sullana 4,5 Alt",
+     0.3007
+    ],
+    [
+     "Alianza Atletico Sullana 5,5 Üst",
+     0.5353
+    ],
+    [
+     "Alianza Atletico Sullana 5,5 Alt",
+     0.4647
+    ],
+    [
+     "Alianza Atletico Sullana 6,5 Üst",
+     0.3742
+    ],
+    [
+     "Alianza Atletico Sullana 6,5 Alt",
+     0.6258
+    ],
+    [
+     "Alianza Atletico Sullana 7,5 Üst",
+     0.2388
+    ],
+    [
+     "Alianza Atletico Sullana 7,5 Alt",
+     0.7612
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : FBC Melgar",
+   "oneri": "FBC Melgar 3,5 Üst",
+   "olasilik": 0.6743,
+   "adil_oran": 1.48,
+   "en_olasi": "FBC Melgar 1,5 Üst",
+   "en_olasi_p": 0.9448,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "FBC Melgar 1,5 Üst",
+     0.9448
+    ],
+    [
+     "FBC Melgar 1,5 Alt",
+     0.0551
+    ],
+    [
+     "FBC Melgar 2,5 Üst",
+     0.8387
+    ],
+    [
+     "FBC Melgar 2,5 Alt",
+     0.1613
+    ],
+    [
+     "FBC Melgar 3,5 Üst",
+     0.6743
+    ],
+    [
+     "FBC Melgar 3,5 Alt",
+     0.3257
+    ],
+    [
+     "FBC Melgar 4,5 Üst",
+     0.4875
+    ],
+    [
+     "FBC Melgar 4,5 Alt",
+     0.5125
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Handikap",
+   "oneri": "Alianza Atletico Sullana +1,5",
+   "olasilik": 0.8102,
+   "adil_oran": 1.23,
+   "en_olasi": "Alianza Atletico Sullana +2,5",
+   "en_olasi_p": 0.8828,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana -4,5",
+     0.1565
+    ],
+    [
+     "FBC Melgar +4,5",
+     0.8435
+    ],
+    [
+     "Alianza Atletico Sullana -3,5",
+     0.2422
+    ],
+    [
+     "FBC Melgar +3,5",
+     0.7578
+    ],
+    [
+     "Alianza Atletico Sullana -2,5",
+     0.3479
+    ],
+    [
+     "FBC Melgar +2,5",
+     0.6521
+    ],
+    [
+     "Alianza Atletico Sullana -1,5",
+     0.4694
+    ],
+    [
+     "FBC Melgar +1,5",
+     0.5306
+    ],
+    [
+     "Alianza Atletico Sullana -0,5",
+     0.5935
+    ],
+    [
+     "FBC Melgar +0,5",
+     0.4065
+    ],
+    [
+     "Alianza Atletico Sullana +0,5",
+     0.7108
+    ],
+    [
+     "FBC Melgar -0,5",
+     0.2892
+    ],
+    [
+     "Alianza Atletico Sullana +1,5",
+     0.8102
+    ],
+    [
+     "FBC Melgar -1,5",
+     0.1898
+    ],
+    [
+     "Alianza Atletico Sullana +2,5",
+     0.8828
+    ],
+    [
+     "FBC Melgar -2,5",
+     0.1172
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (3-İhtimalli)",
+   "oneri": "9 Üst",
+   "olasilik": 0.6009,
+   "adil_oran": 1.66,
+   "en_olasi": "9 Üst",
+   "en_olasi_p": 0.6009,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "9 Alt",
+     0.2807
+    ],
+    [
+     "10 Alt",
+     0.3991
+    ],
+    [
+     "Tam 9",
+     0.1184
+    ],
+    [
+     "Tam 10",
+     0.1241
+    ],
+    [
+     "9 Üst",
+     0.6009
+    ],
+    [
+     "10 Üst",
+     0.4767
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (Aralık)",
+   "oneri": "9-11 korner",
+   "olasilik": 0.3607,
+   "adil_oran": 2.77,
+   "en_olasi": "9-11 korner",
+   "en_olasi_p": 0.3607,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "0-8 korner",
+     0.2807
+    ],
+    [
+     "9-11 korner",
+     0.3607
+    ],
+    [
+     "12+ korner",
+     0.3587
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Tek/Çift",
+   "oneri": "Çift",
+   "olasilik": 0.5003,
+   "adil_oran": 2.0,
+   "en_olasi": "Çift",
+   "en_olasi_p": 0.5003,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.4997
+    ],
+    [
+     "Çift",
+     0.5003
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Korner Yarışı",
+   "oneri": "9 kornere kimse ulaşamaz",
+   "olasilik": 0.8204,
+   "adil_oran": 1.22,
+   "en_olasi": "9 kornere kimse ulaşamaz",
+   "en_olasi_p": 0.8204,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk 3 korner Alianza Atletico Sullana",
+     0.6022
+    ],
+    [
+     "İlk 3 korner FBC Melgar",
+     0.3769
+    ],
+    [
+     "3 kornere kimse ulaşamaz",
+     0.0112
+    ],
+    [
+     "İlk 5 korner Alianza Atletico Sullana",
+     0.5499
+    ],
+    [
+     "İlk 5 korner FBC Melgar",
+     0.2904
+    ],
+    [
+     "5 kornere kimse ulaşamaz",
+     0.1544
+    ],
+    [
+     "İlk 7 korner Alianza Atletico Sullana",
+     0.343
+    ],
+    [
+     "İlk 7 korner FBC Melgar",
+     0.1427
+    ],
+    [
+     "7 kornere kimse ulaşamaz",
+     0.5127
+    ],
+    [
+     "İlk 9 korner Alianza Atletico Sullana",
+     0.138
+    ],
+    [
+     "İlk 9 korner FBC Melgar",
+     0.0414
+    ],
+    [
+     "9 kornere kimse ulaşamaz",
+     0.8204
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Sonucu",
+   "oneri": "1 (Alianza Atletico Sullana)",
+   "olasilik": 0.5149,
+   "adil_oran": 1.94,
+   "en_olasi": "1 (Alianza Atletico Sullana)",
+   "en_olasi_p": 0.5149,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Alianza Atletico Sullana)",
+     0.5149
+    ],
+    [
+     "X",
+     0.1786
+    ],
+    [
+     "2 (FBC Melgar)",
+     0.3065
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Handikap",
+   "oneri": "FBC Melgar +2,5",
+   "olasilik": 0.8103,
+   "adil_oran": 1.23,
+   "en_olasi": "FBC Melgar +2,5",
+   "en_olasi_p": 0.8103,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana -2,5",
+     0.1898
+    ],
+    [
+     "FBC Melgar +2,5",
+     0.8103
+    ],
+    [
+     "Alianza Atletico Sullana -1,5",
+     0.3348
+    ],
+    [
+     "FBC Melgar +1,5",
+     0.6652
+    ],
+    [
+     "Alianza Atletico Sullana -0,5",
+     0.5149
+    ],
+    [
+     "FBC Melgar +0,5",
+     0.4851
+    ],
+    [
+     "Alianza Atletico Sullana +0,5",
+     0.6935
+    ],
+    [
+     "FBC Melgar -0,5",
+     0.3065
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Toplam",
+   "oneri": "Toplam 3,5 Üst",
+   "olasilik": 0.7262,
+   "adil_oran": 1.38,
+   "en_olasi": "Toplam 3,5 Üst",
+   "en_olasi_p": 0.7262,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 3,5 Üst",
+     0.7262
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.2738
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.5478
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.4522
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.3731
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.6269
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Alianza Atletico Sullana Toplam",
+   "oneri": "Alianza Atletico Sullana 1,5 Üst",
+   "olasilik": 0.7628,
+   "adil_oran": 1.31,
+   "en_olasi": "Alianza Atletico Sullana 1,5 Üst",
+   "en_olasi_p": 0.7628,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana 1,5 Üst",
+     0.7628
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Alt",
+     0.2372
+    ],
+    [
+     "Alianza Atletico Sullana 2,5 Üst",
+     0.5229
+    ],
+    [
+     "Alianza Atletico Sullana 2,5 Alt",
+     0.4771
+    ],
+    [
+     "Alianza Atletico Sullana 3,5 Üst",
+     0.3025
+    ],
+    [
+     "Alianza Atletico Sullana 3,5 Alt",
+     0.6975
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı FBC Melgar Toplam",
+   "oneri": "FBC Melgar 1,5 Üst",
+   "olasilik": 0.6384,
+   "adil_oran": 1.57,
+   "en_olasi": "FBC Melgar 0,5 Üst",
+   "en_olasi_p": 0.886,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "FBC Melgar 0,5 Üst",
+     0.886
+    ],
+    [
+     "FBC Melgar 0,5 Alt",
+     0.114
+    ],
+    [
+     "FBC Melgar 1,5 Üst",
+     0.6384
+    ],
+    [
+     "FBC Melgar 1,5 Alt",
+     0.3616
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : 2. Yarı",
+   "oneri": "Toplam 6,5 Alt",
+   "olasilik": 0.6792,
+   "adil_oran": 1.47,
+   "en_olasi": "Toplam 6,5 Alt",
+   "en_olasi_p": 0.6792,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 4,5 Üst",
+     0.6494
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.3506
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.4796
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.5204
+    ],
+    [
+     "Toplam 6,5 Üst",
+     0.3208
+    ],
+    [
+     "Toplam 6,5 Alt",
+     0.6792
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : İlk Korner",
+   "oneri": "Alianza Atletico Sullana",
+   "olasilik": 0.532,
+   "adil_oran": 1.88,
+   "en_olasi": "Alianza Atletico Sullana",
+   "en_olasi_p": 0.532,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana",
+     0.532
+    ],
+    [
+     "FBC Melgar",
+     0.468
+    ],
+    [
+     "Korner yok",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Son Korner",
+   "oneri": "Alianza Atletico Sullana",
+   "olasilik": 0.5352,
+   "adil_oran": 1.87,
+   "en_olasi": "Alianza Atletico Sullana",
+   "en_olasi_p": 0.5352,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana",
+     0.5352
+    ],
+    [
+     "FBC Melgar",
+     0.4648
+    ],
+    [
+     "Korner yok",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "En Fazla Korner Olan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.5138,
+   "adil_oran": 1.95,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.5138,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.3626
+    ],
+    [
+     "Eşit",
+     0.1236
+    ],
+    [
+     "2. Yarı",
+     0.5138
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan : Sonuç",
+   "oneri": "1 (Alianza Atletico Sullana)",
+   "olasilik": 0.4282,
+   "adil_oran": 2.34,
+   "en_olasi": "1 (Alianza Atletico Sullana)",
+   "en_olasi_p": 0.4282,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "1 (Alianza Atletico Sullana)",
+     0.4282
+    ],
+    [
+     "X",
+     0.1777
+    ],
+    [
+     "2 (FBC Melgar)",
+     0.3941
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan Handikapı",
+   "oneri": "Alianza Atletico Sullana +15,5",
+   "olasilik": 0.7836,
+   "adil_oran": 1.28,
+   "en_olasi": "Alianza Atletico Sullana +15,5",
+   "en_olasi_p": 0.7836,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Alianza Atletico Sullana -15,5",
+     0.2429
+    ],
+    [
+     "FBC Melgar +15,5",
+     0.7571
+    ],
+    [
+     "Alianza Atletico Sullana -5,5",
+     0.4153
+    ],
+    [
+     "FBC Melgar +5,5",
+     0.5847
+    ],
+    [
+     "Alianza Atletico Sullana +5,5",
+     0.619
+    ],
+    [
+     "FBC Melgar -5,5",
+     0.381
+    ],
+    [
+     "Alianza Atletico Sullana +15,5",
+     0.7836
+    ],
+    [
+     "FBC Melgar -15,5",
+     0.2164
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam Puan",
+   "oneri": "Toplam 55,5 Alt",
+   "olasilik": 0.7623,
+   "adil_oran": 1.31,
+   "en_olasi": "Toplam 55,5 Alt",
+   "en_olasi_p": 0.7623,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 25,5 Üst",
+     0.752
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.248
+    ],
+    [
+     "Toplam 35,5 Üst",
+     0.5651
+    ],
+    [
+     "Toplam 35,5 Alt",
+     0.4349
+    ],
+    [
+     "Toplam 45,5 Üst",
+     0.3856
+    ],
+    [
+     "Toplam 45,5 Alt",
+     0.6144
+    ],
+    [
+     "Toplam 55,5 Üst",
+     0.2377
+    ],
+    [
+     "Toplam 55,5 Alt",
+     0.7623
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Alianza Atletico Sullana : Toplam Kart Puanı",
+   "oneri": "Alianza Atletico Sullana 25,5 Alt",
+   "olasilik": 0.6564,
+   "adil_oran": 1.52,
+   "en_olasi": "Alianza Atletico Sullana 5,5 Üst",
+   "en_olasi_p": 0.8571,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Alianza Atletico Sullana 5,5 Üst",
+     0.8571
+    ],
+    [
+     "Alianza Atletico Sullana 5,5 Alt",
+     0.1429
+    ],
+    [
+     "Alianza Atletico Sullana 15,5 Üst",
+     0.5963
+    ],
+    [
+     "Alianza Atletico Sullana 15,5 Alt",
+     0.4037
+    ],
+    [
+     "Alianza Atletico Sullana 25,5 Üst",
+     0.3436
+    ],
+    [
+     "Alianza Atletico Sullana 25,5 Alt",
+     0.6564
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : FBC Melgar : Toplam Kart Puanı",
+   "oneri": "FBC Melgar 25,5 Alt",
+   "olasilik": 0.6815,
+   "adil_oran": 1.47,
+   "en_olasi": "FBC Melgar 35,5 Alt",
+   "en_olasi_p": 0.8452,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "FBC Melgar 5,5 Üst",
+     0.8435
+    ],
+    [
+     "FBC Melgar 5,5 Alt",
+     0.1565
+    ],
+    [
+     "FBC Melgar 15,5 Üst",
+     0.5701
+    ],
+    [
+     "FBC Melgar 15,5 Alt",
+     0.4299
+    ],
+    [
+     "FBC Melgar 25,5 Üst",
+     0.3185
+    ],
+    [
+     "FBC Melgar 25,5 Alt",
+     0.6815
+    ],
+    [
+     "FBC Melgar 35,5 Üst",
+     0.1548
+    ],
+    [
+     "FBC Melgar 35,5 Alt",
+     0.8452
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam (Aralıklar)",
+   "oneri": "21-40 puan",
+   "olasilik": 0.3425,
+   "adil_oran": 2.92,
+   "en_olasi": "21-40 puan",
+   "en_olasi_p": 0.3425,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "0-20 puan",
+     0.2445
+    ],
+    [
+     "21-40 puan",
+     0.3425
+    ],
+    [
+     "41-60 puan",
+     0.2408
+    ],
+    [
+     "61+ puan",
+     0.1529
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Toplam Kart Puanı",
+   "oneri": "Toplam 25,5 Alt",
+   "olasilik": 0.8108,
+   "adil_oran": 1.23,
+   "en_olasi": "Toplam 25,5 Alt",
+   "en_olasi_p": 0.8108,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 5,5 Üst",
+     0.746
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.254
+    ],
+    [
+     "Toplam 15,5 Üst",
+     0.4178
+    ],
+    [
+     "Toplam 15,5 Alt",
+     0.5823
+    ],
+    [
+     "Toplam 25,5 Üst",
+     0.1892
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.8108
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Alianza Atletico Sullana : Toplam Kart Puanı",
+   "oneri": "Alianza Atletico Sullana 15,5 Alt",
+   "olasilik": 0.8237,
+   "adil_oran": 1.21,
+   "en_olasi": "Alianza Atletico Sullana 15,5 Alt",
+   "en_olasi_p": 0.8237,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Alianza Atletico Sullana 5,5 Üst",
+     0.5041
+    ],
+    [
+     "Alianza Atletico Sullana 5,5 Alt",
+     0.4959
+    ],
+    [
+     "Alianza Atletico Sullana 15,5 Üst",
+     0.1763
+    ],
+    [
+     "Alianza Atletico Sullana 15,5 Alt",
+     0.8237
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : FBC Melgar : Toplam Kart Puanı",
+   "oneri": "FBC Melgar 5,5 Alt",
+   "olasilik": 0.5124,
+   "adil_oran": 1.95,
+   "en_olasi": "FBC Melgar 15,5 Alt",
+   "en_olasi_p": 0.8363,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "FBC Melgar 5,5 Üst",
+     0.4876
+    ],
+    [
+     "FBC Melgar 5,5 Alt",
+     0.5124
+    ],
+    [
+     "FBC Melgar 15,5 Üst",
+     0.1637
+    ],
+    [
+     "FBC Melgar 15,5 Alt",
+     0.8363
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Alianza Atletico Sullana : Toplam Kart Puanı",
+   "oneri": "Alianza Atletico Sullana 5,5 Üst",
+   "olasilik": 0.7123,
+   "adil_oran": 1.4,
+   "en_olasi": "Alianza Atletico Sullana 5,5 Üst",
+   "en_olasi_p": 0.7123,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Alianza Atletico Sullana 5,5 Üst",
+     0.7123
+    ],
+    [
+     "Alianza Atletico Sullana 5,5 Alt",
+     0.2877
+    ],
+    [
+     "Alianza Atletico Sullana 15,5 Üst",
+     0.3755
+    ],
+    [
+     "Alianza Atletico Sullana 15,5 Alt",
+     0.6245
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : FBC Melgar : Toplam Kart Puanı",
+   "oneri": "FBC Melgar 5,5 Üst",
+   "olasilik": 0.6938,
+   "adil_oran": 1.44,
+   "en_olasi": "FBC Melgar 25,5 Alt",
+   "en_olasi_p": 0.8514,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "FBC Melgar 5,5 Üst",
+     0.6938
+    ],
+    [
+     "FBC Melgar 5,5 Alt",
+     0.3062
+    ],
+    [
+     "FBC Melgar 15,5 Üst",
+     0.3538
+    ],
+    [
+     "FBC Melgar 15,5 Alt",
+     0.6462
+    ],
+    [
+     "FBC Melgar 25,5 Üst",
+     0.1486
+    ],
+    [
+     "FBC Melgar 25,5 Alt",
+     0.8514
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Direkt Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.8537,
+   "adil_oran": 1.17,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8537,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1463
+    ],
+    [
+     "Hayır",
+     0.8537
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Yarıda Kart Olur",
+   "oneri": "Evet",
+   "olasilik": 0.6804,
+   "adil_oran": 1.47,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6804,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6804
+    ],
+    [
+     "Hayır",
+     0.3196
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kırmızı Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.9894,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9894,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0106
+    ],
+    [
+     "Hayır",
+     0.9894
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kart Alır",
+   "oneri": "Evet",
+   "olasilik": 0.7233,
+   "adil_oran": 1.38,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7233,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7233
+    ],
+    [
+     "Hayır",
+     0.2767
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Kart Görür",
+   "oneri": "Hayır",
+   "olasilik": 0.6743,
+   "adil_oran": 1.48,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6743,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3257
+    ],
+    [
+     "Hayır",
+     0.6743
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Her İki Yarıda Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.8784,
+   "adil_oran": 1.14,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8784,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1216
+    ],
+    [
+     "Hayır",
+     0.8784
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İlk Kartı Görecek Takım",
+   "oneri": "Alianza Atletico Sullana",
+   "olasilik": 0.5004,
+   "adil_oran": 2.0,
+   "en_olasi": "Alianza Atletico Sullana",
+   "en_olasi_p": 0.5004,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana",
+     0.5004
+    ],
+    [
+     "FBC Melgar",
+     0.477
+    ],
+    [
+     "Kart yok",
+     0.0226
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Son Kartı Görecek Takım",
+   "oneri": "Alianza Atletico Sullana",
+   "olasilik": 0.5008,
+   "adil_oran": 2.0,
+   "en_olasi": "Alianza Atletico Sullana",
+   "en_olasi_p": 0.5008,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana",
+     0.5008
+    ],
+    [
+     "FBC Melgar",
+     0.4766
+    ],
+    [
+     "Kart yok",
+     0.0226
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Maçta Penaltı, Kırmızı Kart ve Kendi Kalesine Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9934,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9934,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0066
+    ],
+    [
+     "Hayır",
+     0.9934
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarı Uzatma Dakikalarında Kart Gösterilir (90+ dak)",
+   "oneri": "Hayır",
+   "olasilik": 0.744,
+   "adil_oran": 1.34,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.744,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.256
+    ],
+    [
+     "Hayır",
+     0.744
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarının Uzatma Dakikalarında Kırmızı Kart veya Gol Olur (90+ dakika)",
+   "oneri": "Hayır",
+   "olasilik": 0.8373,
+   "adil_oran": 1.19,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8373,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1627
+    ],
+    [
+     "Hayır",
+     0.8373
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Toplam Kırmızı Kartlar",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.8036,
+   "adil_oran": 1.24,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9793,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.1964
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.8036
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0207
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9793
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Alianza Atletico Sullana : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.8965,
+   "adil_oran": 1.12,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8965,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1035
+    ],
+    [
+     "Hayır",
+     0.8965
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "FBC Melgar : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.8964,
+   "adil_oran": 1.12,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8964,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1036
+    ],
+    [
+     "Hayır",
+     0.8964
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "1. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9248,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9248,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0752
+    ],
+    [
+     "Hayır",
+     0.9248
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "2. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.869,
+   "adil_oran": 1.15,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.869,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.131
+    ],
+    [
+     "Hayır",
+     0.869
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Sonuç",
+   "oneri": "1 (Alianza Atletico Sullana)",
+   "olasilik": 0.411,
+   "adil_oran": 2.43,
+   "en_olasi": "1 (Alianza Atletico Sullana)",
+   "en_olasi_p": 0.411,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Alianza Atletico Sullana)",
+     0.411
+    ],
+    [
+     "X",
+     0.2164
+    ],
+    [
+     "2 (FBC Melgar)",
+     0.3726
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.7836,
+   "adil_oran": 1.28,
+   "en_olasi": "12",
+   "en_olasi_p": 0.7836,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.6274
+    ],
+    [
+     "12",
+     0.7836
+    ],
+    [
+     "X2",
+     0.589
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Handikap",
+   "oneri": "Alianza Atletico Sullana +1,5",
+   "olasilik": 0.8081,
+   "adil_oran": 1.24,
+   "en_olasi": "Alianza Atletico Sullana +1,5",
+   "en_olasi_p": 0.8081,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana -1,5",
+     0.2201
+    ],
+    [
+     "FBC Melgar +1,5",
+     0.7799
+    ],
+    [
+     "Alianza Atletico Sullana -0,5",
+     0.411
+    ],
+    [
+     "FBC Melgar +0,5",
+     0.589
+    ],
+    [
+     "Alianza Atletico Sullana +0,5",
+     0.6274
+    ],
+    [
+     "FBC Melgar -0,5",
+     0.3726
+    ],
+    [
+     "Alianza Atletico Sullana +1,5",
+     0.8081
+    ],
+    [
+     "FBC Melgar -1,5",
+     0.1919
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Toplam",
+   "oneri": "Toplam 2,5 Üst",
+   "olasilik": 0.7064,
+   "adil_oran": 1.42,
+   "en_olasi": "Toplam 5,5 Alt",
+   "en_olasi_p": 0.8388,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 2,5 Üst",
+     0.7064
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.2936
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.493
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.507
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.3021
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.6979
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.1612
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.8388
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Alianza Atletico Sullana : Toplam",
+   "oneri": "Alianza Atletico Sullana 2,5 Alt",
+   "olasilik": 0.7119,
+   "adil_oran": 1.4,
+   "en_olasi": "Alianza Atletico Sullana 0,5 Üst",
+   "en_olasi_p": 0.8454,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana 0,5 Üst",
+     0.8454
+    ],
+    [
+     "Alianza Atletico Sullana 0,5 Alt",
+     0.1546
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Üst",
+     0.5579
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Alt",
+     0.442
+    ],
+    [
+     "Alianza Atletico Sullana 2,5 Üst",
+     0.2881
+    ],
+    [
+     "Alianza Atletico Sullana 2,5 Alt",
+     0.7119
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : FBC Melgar : Toplam",
+   "oneri": "FBC Melgar 0,5 Üst",
+   "olasilik": 0.8305,
+   "adil_oran": 1.2,
+   "en_olasi": "FBC Melgar 3,5 Alt",
+   "en_olasi_p": 0.8956,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "FBC Melgar 0,5 Üst",
+     0.8305
+    ],
+    [
+     "FBC Melgar 0,5 Alt",
+     0.1695
+    ],
+    [
+     "FBC Melgar 1,5 Üst",
+     0.53
+    ],
+    [
+     "FBC Melgar 1,5 Alt",
+     0.47
+    ],
+    [
+     "FBC Melgar 2,5 Üst",
+     0.2621
+    ],
+    [
+     "FBC Melgar 2,5 Alt",
+     0.7379
+    ],
+    [
+     "FBC Melgar 3,5 Üst",
+     0.1044
+    ],
+    [
+     "FBC Melgar 3,5 Alt",
+     0.8956
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Sonucu",
+   "oneri": "X",
+   "olasilik": 0.3996,
+   "adil_oran": 2.5,
+   "en_olasi": "X",
+   "en_olasi_p": 0.3996,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Alianza Atletico Sullana)",
+     0.3104
+    ],
+    [
+     "X",
+     0.3996
+    ],
+    [
+     "2 (FBC Melgar)",
+     0.29
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Handikap",
+   "oneri": "Alianza Atletico Sullana +0,5",
+   "olasilik": 0.71,
+   "adil_oran": 1.41,
+   "en_olasi": "Alianza Atletico Sullana +0,5",
+   "en_olasi_p": 0.71,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana -0,5",
+     0.3104
+    ],
+    [
+     "FBC Melgar +0,5",
+     0.6896
+    ],
+    [
+     "Alianza Atletico Sullana +0,5",
+     0.71
+    ],
+    [
+     "FBC Melgar -0,5",
+     0.29
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı : Toplam",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.7293,
+   "adil_oran": 1.37,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.8559,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7293
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2707
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.3759
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.6241
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1441
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8559
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Alianza Atletico Sullana Toplam",
+   "oneri": "Alianza Atletico Sullana 0,5 Alt",
+   "olasilik": 0.512,
+   "adil_oran": 1.95,
+   "en_olasi": "Alianza Atletico Sullana 1,5 Alt",
+   "en_olasi_p": 0.8544,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana 0,5 Üst",
+     0.488
+    ],
+    [
+     "Alianza Atletico Sullana 0,5 Alt",
+     0.512
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Üst",
+     0.1456
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Alt",
+     0.8544
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı FBC Melgar Toplam",
+   "oneri": "FBC Melgar 0,5 Alt",
+   "olasilik": 0.5286,
+   "adil_oran": 1.89,
+   "en_olasi": "FBC Melgar 1,5 Alt",
+   "en_olasi_p": 0.8664,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "FBC Melgar 0,5 Üst",
+     0.4714
+    ],
+    [
+     "FBC Melgar 0,5 Alt",
+     0.5286
+    ],
+    [
+     "FBC Melgar 1,5 Üst",
+     0.1336
+    ],
+    [
+     "FBC Melgar 1,5 Alt",
+     0.8664
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Sonuç",
+   "oneri": "1 (Alianza Atletico Sullana)",
+   "olasilik": 0.3753,
+   "adil_oran": 2.66,
+   "en_olasi": "1 (Alianza Atletico Sullana)",
+   "en_olasi_p": 0.3753,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Alianza Atletico Sullana)",
+     0.3753
+    ],
+    [
+     "X",
+     0.2803
+    ],
+    [
+     "2 (FBC Melgar)",
+     0.3443
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Handikap",
+   "oneri": "Alianza Atletico Sullana +0,5",
+   "olasilik": 0.6557,
+   "adil_oran": 1.53,
+   "en_olasi": "Alianza Atletico Sullana +0,5",
+   "en_olasi_p": 0.6557,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana -0,5",
+     0.3753
+    ],
+    [
+     "FBC Melgar +0,5",
+     0.6247
+    ],
+    [
+     "Alianza Atletico Sullana +0,5",
+     0.6557
+    ],
+    [
+     "FBC Melgar -0,5",
+     0.3443
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Toplam",
+   "oneri": "Toplam 3,5 Alt",
+   "olasilik": 0.7938,
+   "adil_oran": 1.26,
+   "en_olasi": "Toplam 3,5 Alt",
+   "en_olasi_p": 0.7938,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 1,5 Üst",
+     0.6777
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.3223
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.4147
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.5853
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.2062
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.7938
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Alianza Atletico Sullana Toplam",
+   "oneri": "Alianza Atletico Sullana 0,5 Üst",
+   "olasilik": 0.6979,
+   "adil_oran": 1.43,
+   "en_olasi": "Alianza Atletico Sullana 0,5 Üst",
+   "en_olasi_p": 0.6979,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana 0,5 Üst",
+     0.6979
+    ],
+    [
+     "Alianza Atletico Sullana 0,5 Alt",
+     0.3021
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Üst",
+     0.3379
+    ],
+    [
+     "Alianza Atletico Sullana 1,5 Alt",
+     0.6621
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : İlk Sarı Kartı Görür",
+   "oneri": "Alianza Atletico Sullana",
+   "olasilik": 0.4986,
+   "adil_oran": 2.01,
+   "en_olasi": "Alianza Atletico Sullana",
+   "en_olasi_p": 0.4986,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana",
+     0.4986
+    ],
+    [
+     "FBC Melgar",
+     0.4751
+    ],
+    [
+     "Sarı kart yok",
+     0.0263
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Son Sarı Kartı Görür",
+   "oneri": "Alianza Atletico Sullana",
+   "olasilik": 0.4995,
+   "adil_oran": 2.0,
+   "en_olasi": "Alianza Atletico Sullana",
+   "en_olasi_p": 0.4995,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Alianza Atletico Sullana",
+     0.4995
+    ],
+    [
+     "FBC Melgar",
+     0.4742
+    ],
+    [
+     "Sarı kart yok",
+     0.0263
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.6318,
+   "adil_oran": 1.58,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6318,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3682
+    ],
+    [
+     "Hayır",
+     0.6318
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Alianza Atletico Sullana : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7856,
+   "adil_oran": 1.27,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7856,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2144
+    ],
+    [
+     "Hayır",
+     0.7856
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "FBC Melgar : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8036,
+   "adil_oran": 1.24,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8036,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1963
+    ],
+    [
+     "Hayır",
+     0.8036
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "İki Takım da Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9574,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9574,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0426
+    ],
+    [
+     "Hayır",
+     0.9574
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta İki Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9212,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9212,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0788
+    ],
+    [
+     "Hayır",
+     0.9212
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "1. Yarı : Penaltı",
+   "oneri": "Hayır",
+   "olasilik": 0.8177,
+   "adil_oran": 1.22,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8177,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1823
+    ],
+    [
+     "Hayır",
+     0.8177
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltıdan Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.7022,
+   "adil_oran": 1.42,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7022,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2978
+    ],
+    [
+     "Hayır",
+     0.7022
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı Kaçırır",
+   "oneri": "Hayır",
+   "olasilik": 0.9005,
+   "adil_oran": 1.11,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9005,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0995
+    ],
+    [
+     "Hayır",
+     0.9005
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı ve Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9266,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9266,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0734
+    ],
+    [
+     "Hayır",
+     0.9266
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı veya Kırmızı Kart Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.5088,
+   "adil_oran": 1.97,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5088,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4912
+    ],
+    [
+     "Hayır",
+     0.5088
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Şutları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pasları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pas Denemeleri",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncunun Yaptığı Fauller",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncuya Faul Yapılır",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Topa Müdahaleler",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ofsayta Düşer",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Kaleci Kurtarışları",
+   "oneri": "Alianza Atletico Sullana kalecisi 3,5 Alt",
+   "olasilik": 0.7646,
+   "adil_oran": 1.31,
+   "en_olasi": "Alianza Atletico Sullana kalecisi 4,5 Alt",
+   "en_olasi_p": 0.8945,
+   "guven": "düşük",
+   "not_": "Rakibin beklenen golünden türetildi",
+   "secimler": [
+    [
+     "Alianza Atletico Sullana kalecisi 1,5 Üst",
+     0.7095
+    ],
+    [
+     "Alianza Atletico Sullana kalecisi 1,5 Alt",
+     0.2905
+    ],
+    [
+     "Alianza Atletico Sullana kalecisi 2,5 Üst",
+     0.4493
+    ],
+    [
+     "Alianza Atletico Sullana kalecisi 2,5 Alt",
+     0.5507
+    ],
+    [
+     "Alianza Atletico Sullana kalecisi 3,5 Üst",
+     0.2354
+    ],
+    [
+     "Alianza Atletico Sullana kalecisi 3,5 Alt",
+     0.7646
+    ],
+    [
+     "Alianza Atletico Sullana kalecisi 4,5 Üst",
+     0.1055
+    ],
+    [
+     "Alianza Atletico Sullana kalecisi 4,5 Alt",
+     0.8945
+    ],
+    [
+     "FBC Melgar kalecisi 1,5 Üst",
+     0.8695
+    ],
+    [
+     "FBC Melgar kalecisi 1,5 Alt",
+     0.1305
+    ],
+    [
+     "FBC Melgar kalecisi 2,5 Üst",
+     0.6893
+    ],
+    [
+     "FBC Melgar kalecisi 2,5 Alt",
+     0.3107
+    ],
+    [
+     "FBC Melgar kalecisi 3,5 Üst",
+     0.4732
+    ],
+    [
+     "FBC Melgar kalecisi 3,5 Alt",
+     0.5268
+    ],
+    [
+     "FBC Melgar kalecisi 4,5 Üst",
+     0.2856
+    ],
+    [
+     "FBC Melgar kalecisi 4,5 Alt",
+     0.7144
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Pas Veren Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Faul Yapan Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 1. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 2. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Her İki Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Çektiği Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kafayla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sağ Ayakla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  }
+ ],
+ "eksik": [
+  "Herhangi Bir Zamanda Gol Atar",
+  "İlk Golcü",
+  "İlk Golcü Çifte Şans",
+  "Son Golcü",
+  "{EV} : İlk Golü Atar",
+  "{DEP} : İlk Golü Atar",
+  "{EV} : Son Golcü",
+  "{DEP} : Son Golü Atar",
+  "Oyuncu En Az 2 Gol Atar",
+  "Oyuncu En Az 3 Gol Atar",
+  "Oyuncu 4 veya Daha Çok Gol Atar",
+  "Herhangi Bir Zaman Gol Atar Çifte Şans",
+  "Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar",
+  "2 Oyuncu Toplamda Üst 1.5 Gol Atar",
+  "2 Oyuncu Toplamda Üst 2.5 Gol Atar",
+  "2 Oyuncu Toplamda Üst 3.5 Gol Atar",
+  "Oyuncu 1. Yarıda Gol Atar",
+  "Oyuncu 2. Yarıda Gol Atar",
+  "Oyuncu Her İki Yarıda da Gol Atar",
+  "İlk 10 Dakikada Gol Atar",
+  "Oyuncu Penaltıdan Gol Atar",
+  "Oyuncu Ceza Sahası Dışından Gol Atar",
+  "Oyuncu Kale Sahası İçinden Gol Atar",
+  "Oyuncu Kafa Golü Atar",
+  "Oyuncu Serbest Vuruştan Gol Atar",
+  "Oyuncu Sağ Ayağıyla Gol Atar",
+  "Oyuncu Gol Atar ve Takımı Kazanır",
+  "Oyuncu Gol Atar ve Rakip Takım Kazanır",
+  "Oyuncu Gol Atar ve Maç Berabere Biter",
+  "Oyuncu Asist Yapar",
+  "Oyuncu Gol Atar veya Asist Yapar",
+  "Oyuncu Gol Atar veya Asist Yapar (Çifte Şans)",
+  "Oyuncu Gol Atar ve Asist Yapar",
+  "Gol Asisti Yapar Çifte Şans",
+  "Oyuncu Penaltı Kaçırır",
+  "Penaltı Kazandıran Oyuncu",
+  "Oyuncu Kart Görür",
+  "Oyuncu Kart Görür Çifte Şans",
+  "Oyuncu Sarı Kart Görür",
+  "Kart Görecek İlk Oyuncu",
+  "Son Kartı Görecek Oyuncu",
+  "Oyundan Uzaklaştırılır"
+ ]
+}
