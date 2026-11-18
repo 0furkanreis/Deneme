@@ -1,0 +1,6888 @@
+Maç Sonucu
+Grêmio FB Porto Alegrense
+Beraberlik
+EC Bahia
+2.38
+3.41
+2.72
+Çifte Şans
+1X
+12
+X2
+1.39
+1.29
+1.53
+Beraberlikte İade
+Grêmio FB Porto Alegrense
+EC Bahia
+1.70
+1.98
+Toplam Goller
+Üst
+Alt
+0.5
+1.028
+10.35
+1
+1.033
+9.85
+1.5
+1.20
+4.25
+2
+1.28
+3.40
+2.5
+1.63
+2.18
+3
+2.02
+1.74
+3.5
+2.57
+1.47
+4
+3.85
+1.23
+4.5
+4.40
+1.18
+5
+7.50
+1.07
+5.5
+8.00
+1.06
+Grêmio FB Porto Alegrense : Toplam Gol
+Üst
+Alt
+0.5
+1.20
+4.25
+1
+1.36
+2.97
+1.5
+2.00
+1.75
+2
+3.10
+1.33
+2.5
+4.10
+1.21
+3
+8.00
+1.06
+3.5
+8.50
+1.05
+EC Bahia : Toplam Gol
+Üst
+Alt
+0.5
+1.23
+3.85
+1
+1.46
+2.60
+1.5
+2.18
+1.63
+2
+3.70
+1.25
+2.5
+4.55
+1.17
+3
+9.25
+1.04
+3.5
+9.85
+1.033
+Her iki takımda gol atar
+Evet
+Hayır
+1.52
+2.42
+Her İki Takım da 2 veya Daha Fazla Gol Atar
+YENİ
+Evet
+No
+4.10
+1.21
+Gol Handikapı
+Grêmio FB Porto Alegrense
+EC Bahia
+-2.5
+8.35
++2.5
+1.052
+-2
+7.70
++2
+1.065
+-1.5
+4.40
++1.5
+1.18
+-1
+3.70
++1
+1.25
+-0.5
+2.33
++0.5
+1.56
+0
+1.75
+0
+2.00
++0.5
+1.44
+-0.5
+2.65
++1
+1.18
+-1
+4.40
++1.5
+1.13
+-1.5
+5.30
++2
+1.04
+-2
+9.25
++2.5
+1.034
+-2.5
+9.75
+Goller Asya Handikapı
+Grêmio FB Porto Alegrense
+EC Bahia
+-2.75
+9.00
++2.75
+1.03
+-2.25
+7.50
++2.25
+1.055
+-1.75
+5.35
++1.75
+1.12
+-1.25
+3.90
++1.25
+1.21
+-0.75
+2.70
++0.75
+1.40
+-0.25
+2.01
++0.25
+1.71
++0.25
+1.54
+-0.25
+2.33
++0.75
+1.31
+-0.75
+3.15
++1.25
+1.15
+-1.25
+4.75
++1.75
+1.085
+-1.75
+6.30
++2.25
+1.035
+-2.25
+8.70
+Gol Handikapı (3-İhtimalli)
+Grêmio FB Porto Alegrense
+Beraberlik : EC Bahia
+EC Bahia
+-2
+8.30
++2
+6.50
++2
+1.15
+-1
+4.30
++1
+4.05
++1
+1.49
++1
+1.39
+-1
+4.30
+-1
+5.30
++2
+1.13
+-2
+7.30
+-2
+10.00
+Toplam Goller Asya
+Üst
+Alt
+0.75
+1.032
+9.90
+1.25
+1.11
+6.00
+1.75
+1.23
+3.85
+2.25
+1.46
+2.60
+2.75
+1.78
+1.96
+3.25
+2.28
+1.58
+3.75
+3.00
+1.35
+4.25
+4.10
+1.21
+4.75
+5.55
+1.12
+5.25
+7.70
+1.065
+5.75
+9.50
+1.037
+Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+1
+1.16
+5.35
+12.00
+2
+1.56
+3.83
+3.74
+3
+2.43
+3.75
+2.12
+4
+4.30
+4.75
+1.42
+5
+7.30
+6.30
+1.15
+Grêmio FB Porto Alegrense : Asist Yapar. Toplam
+YENİ
+1+
+1.49
+2+
+3.20
+3+
+8.80
+4+
+21.00
+EC Bahia : Asist Yapar. Toplam
+YENİ
+1+
+1.53
+2+
+3.45
+3+
+9.70
+4+
+23.00
+Her iki yarıda gol olur
+Evet
+Hayır
+1.56
+2.27
+İlk Golü Atacak Takım
+Grêmio FB Porto Alegrense
+EC Bahia
+Gol Yok
+1.74
+1.86
+15.00
+Son Golü Atacak Takım
+Grêmio FB Porto Alegrense
+EC Bahia
+Gol Yok
+1.74
+1.86
+15.00
+Grêmio FB Porto Alegrense : Toplam Gol Asya
+Üst
+Alt
+0.75
+1.26
+3.60
+1.25
+1.69
+2.08
+1.75
+2.38
+1.54
+2.25
+3.70
+1.25
+2.75
+5.30
+1.13
+3.25
+8.20
+1.055
+3.75
+10.55
+1.026
+EC Bahia : Toplam Gol Asya
+Üst
+Alt
+0.75
+1.32
+3.15
+1.25
+1.82
+1.92
+1.75
+2.65
+1.44
+2.25
+4.25
+1.20
+2.75
+6.20
+1.095
+3.25
+9.60
+1.036
+Toplam Gol Tek / Çift
+Çift
+Tek
+1.81
+1.89
+Grêmio FB Porto Alegrense : Gol Atar
+Evet
+Hayır
+1.20
+4.25
+EC Bahia Gol Atar
+Evet
+Hayır
+1.23
+3.85
+Grêmio FB Porto Alegrense Gol Atar ve Maç Sonucu
+Evet ve Grêmio FB Porto Alegrense
+2.12
+Evet ve Berabere
+3.40
+Hayır ve Berabere
+15.00
+Evet ve EC Bahia
+3.82
+Hayır ve EC Bahia
+5.10
+EC Bahia Gol Atar ve Maç Sonucu
+Evet ve Grêmio FB Porto Alegrense
+3.47
+Hayır ve Grêmio FB Porto Alegrense
+4.57
+Evet ve Berabere
+3.40
+Hayır ve Berabere
+15.00
+Evet ve EC Bahia
+2.37
+Grêmio FB Porto Alegrense : Bahis Yok
+Beraberlik
+EC Bahia
+2.05
+1.65
+EC Bahia : Bahis Yok
+Grêmio FB Porto Alegrense
+Beraberlik
+1.57
+2.16
+Maç Sonucu ve Karşılıklı Gol
+Grêmio FB Porto Alegrense Ve Evet
+3.47
+Beraberlik Ve Hayır
+15.00
+Grêmio FB Porto Alegrense Ve Hayır
+4.57
+EC Bahia Ve Evet
+3.82
+Beraberlik ve Evet
+3.40
+EC Bahia Ve Hayır
+5.10
+Çifte Şans ve Karşılıklı Gol
+1X Ve Evet
+1.94
+12 Ve Hayır
+2.45
+1X Ve Hayır
+3.85
+X2 Ve Evet
+2.04
+12 Ve Evet
+2.06
+X2 Ve Hayır
+4.25
+Maç Sonucu ve Toplam Gol 1.5
+Grêmio FB Porto Alegrense ve Üst 1.5
+2.52
+Grêmio FB Porto Alegrense ve Alt 1.5
+8.20
+Beraberlik ve Üst 1.5
+3.40
+Beraberlik ve Alt 1.5
+12.00
+EC Bahia ve Üst 1.5
+2.87
+EC Bahia ve Alt 1.5
+8.50
+1X ve Üst 1.5
+1.64
+1X ve Alt 1.5
+5.40
+12 ve Üst 1.5
+1.52
+12 ve Alt 1.5
+4.75
+X2 ve Üst 1.5
+1.76
+X2 ve Alt 1.5
+5.60
+Maç Sonucu ve Toplam Gol 2.5
+Grêmio FB Porto Alegrense ve Üst 2.5
+2.92
+Grêmio FB Porto Alegrense ve Alt 2.5
+5.30
+Beraberlik ve Üst 2.5
+6.90
+Beraberlik ve Alt 2.5
+4.10
+EC Bahia ve Üst 2.5
+3.32
+EC Bahia ve Alt 2.5
+5.80
+1X ve Üst 2.5
+2.28
+1X ve Alt 2.5
+2.61
+12 ve Üst 2.5
+1.76
+12 ve Alt 2.5
+3.13
+X2 ve Üst 2.5
+2.50
+X2 ve Alt 2.5
+2.71
+Maç Sonucu ve Toplam Gol 3.5
+Grêmio FB Porto Alegrense ve Üst 3.5
+4.75
+Grêmio FB Porto Alegrense ve Alt 3.5
+3.10
+Beraberlik ve Üst 3.5
+6.90
+Beraberlik ve Alt 3.5
+4.10
+EC Bahia ve Üst 3.5
+5.60
+EC Bahia ve Alt 3.5
+3.38
+1X ve Üst 3.5
+3.17
+1X ve Alt 3.5
+1.99
+12 ve Üst 3.5
+2.91
+12 ve Alt 3.5
+1.83
+X2 ve Üst 3.5
+3.47
+X2 ve Alt 3.5
+2.10
+Maç Sonucu ve Toplam Gol 4.5
+Grêmio FB Porto Alegrense ve Üst 4.5
+7.00
+Grêmio FB Porto Alegrense ve Alt 4.5
+2.63
+Beraberlik ve Üst 4.5
+23.00
+Beraberlik ve Alt 4.5
+3.09
+EC Bahia ve Üst 4.5
+8.10
+EC Bahia ve Alt 4.5
+2.92
+1X ve Üst 4.5
+5.90
+1X ve Alt 4.5
+1.61
+12 ve Üst 4.5
+4.20
+12 ve Alt 4.5
+1.57
+X2 ve Üst 4.5
+6.60
+X2 ve Alt 4.5
+1.70
+Sonuç ve Grêmio FB Porto Alegrense : Toplam Gol
+Grêmio FB Porto Alegrense ve Üst (1.5)
+2.52
+Grêmio FB Porto Alegrense ve Alt (1.5)
+8.20
+Beraberlik ve Üst (1.5)
+6.90
+Beraberlik ve Alt (1.5)
+4.10
+EC Bahia ve Üst (1.5)
+11.00
+EC Bahia ve Alt (1.5)
+2.73
+Grêmio FB Porto Alegrense ve Üst (2.5)
+4.00
+Grêmio FB Porto Alegrense ve Alt (2.5)
+3.47
+Beraberlik ve Üst (2.5)
+23.00
+Beraberlik ve Alt (2.5)
+3.09
+EC Bahia ve Üst (2.5)
+46.00
+EC Bahia ve Alt (2.5)
+2.42
+Grêmio FB Porto Alegrense ve Üst (3.5)
+8.60
+Grêmio FB Porto Alegrense ve Alt (3.5)
+2.49
+Beraberlik ve Üst (3.5)
+126.00
+Beraberlik ve Alt (3.5)
+2.91
+EC Bahia ve Üst (3.5)
+276.00
+EC Bahia ve Alt (3.5)
+2.37
+Sonuç ve EC Bahia : Toplam Gol
+Grêmio FB Porto Alegrense ve Üst (1.5)
+9.80
+Grêmio FB Porto Alegrense ve Alt (1.5)
+2.43
+Beraberlik ve Üst (1.5)
+6.90
+Beraberlik ve Alt (1.5)
+4.10
+EC Bahia ve Üst (1.5)
+2.87
+EC Bahia ve Alt (1.5)
+8.20
+Grêmio FB Porto Alegrense ve Üst (2.5)
+41.00
+Grêmio FB Porto Alegrense ve Alt (2.5)
+2.16
+Beraberlik ve Üst (2.5)
+23.00
+Beraberlik ve Alt (2.5)
+3.09
+EC Bahia ve Üst (2.5)
+4.80
+EC Bahia ve Alt (2.5)
+3.72
+Grêmio FB Porto Alegrense ve Üst (3.5)
+276.00
+Grêmio FB Porto Alegrense ve Alt (3.5)
+2.12
+Beraberlik ve Üst (3.5)
+126.00
+Beraberlik ve Alt (3.5)
+2.91
+EC Bahia ve Üst (3.5)
+11.00
+EC Bahia ve Alt (3.5)
+2.72
+Sonuç veya Toplam Gol
+Grêmio FB Porto Alegrense veya Üst (2.5)
+1.30
+Grêmio FB Porto Alegrense veya Alt (2.5)
+1.34
+Beraberlik veya Üst (2.5)
+1.23
+Beraberlik veya Alt (2.5)
+1.70
+EC Bahia veya Üst (2.5)
+1.32
+EC Bahia veya Alt (2.5)
+1.41
+Grêmio FB Porto Alegrense veya Üst (3.5)
+1.48
+Grêmio FB Porto Alegrense veya Alt (3.5)
+1.19
+Beraberlik veya Üst (3.5)
+1.64
+Beraberlik veya Alt (3.5)
+1.26
+EC Bahia veya Üst (3.5)
+1.53
+EC Bahia veya Alt (3.5)
+1.23
+Daha Fazla Seçeneği Göster
+Maç Sonucu ve Toplam Gol (Kesin)
+Grêmio FB Porto Alegrense ve 1
+8.20
+Grêmio FB Porto Alegrense ve 2
+11.00
+Grêmio FB Porto Alegrense ve 3
+5.70
+Grêmio FB Porto Alegrense ve 4+
+4.75
+Beraberlik ve 0
+12.00
+Beraberlik ve 2
+5.40
+Beraberlik ve 4
+8.50
+Beraberlik ve 6+
+23.00
+EC Bahia ve 1
+8.50
+EC Bahia ve 2
+13.00
+EC Bahia ve 3
+6.20
+EC Bahia ve 4+
+5.60
+Sonuç ve Toplam Gol (Genişletilmiş Aralık)
+Grêmio FB Porto Alegrense ve 1-2
+5.30
+Grêmio FB Porto Alegrense ve 1-3
+3.10
+Grêmio FB Porto Alegrense ve 1-4
+2.63
+Grêmio FB Porto Alegrense ve 1-5
+2.29
+Grêmio FB Porto Alegrense ve 1-6
+2.20
+Grêmio FB Porto Alegrense ve 2-3
+4.20
+Grêmio FB Porto Alegrense ve 2-4
+3.34
+Grêmio FB Porto Alegrense ve 2-5
+2.79
+Grêmio FB Porto Alegrense ve 2-6
+2.64
+Grêmio FB Porto Alegrense ve 3-4
+4.10
+Grêmio FB Porto Alegrense ve 3-5
+3.30
+Grêmio FB Porto Alegrense ve 3-6
+3.09
+Daha Fazla Seçeneği Göster
+Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)
+1X ve 1-2
+3.02
+1X ve 1-3
+2.21
+1X ve 1-4
+1.74
+1X ve 1-5
+1.59
+1X ve 1-6
+1.51
+1X ve 2-3
+2.66
+1X ve 2-4
+1.99
+1X ve 2-5
+1.80
+1X ve 2-6
+1.69
+1X ve 3-4
+3.11
+1X ve 3-5
+2.64
+1X ve 3-6
+2.65
+1X ve 4-5
+3.98
+1X ve 4-6
+3.41
+1X ve 5-6
+6.90
+1X ve Herhangi bir diğer
+8.80
+12 ve 1-2
+3.13
+12 ve 1-3
+1.83
+Daha Fazla Seçeneği Göster
+Sonuç veya Doğru Skor
+Grêmio FB Porto Alegrense veya 0-0: Evet
+1.92
+Grêmio FB Porto Alegrense veya 0-0: Hayır
+1.58
+EC Bahia veya 0-0: Evet
+2.12
+EC Bahia veya 0-0: Hayır
+1.47
+Grêmio FB Porto Alegrense veya 1-1: Evet
+1.68
+Grêmio FB Porto Alegrense veya 1-1: Hayır
+1.78
+EC Bahia veya 1-1: Evet
+1.96
+EC Bahia veya 1-1: Hayır
+1.74
+Grêmio FB Porto Alegrense veya 0-1: Evet
+2.00
+Grêmio FB Porto Alegrense veya 0-1: Hayır
+1.75
+EC Bahia veya 1-0: Evet
+2.01
+EC Bahia veya 1-0: Hayır
+1.52
+Her İki Yarı Toplam Gol Kombinasyonu
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+2.21
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+4.00
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 0.5 Üst gol
+2.54
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+4.15
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+6.90
+İlk yarıda 0.5 Üst gol ve Maç sonucu 1.5 Üst gol
+1.36
+İlk yarıda 0.5 Üst gol ve Maç sonucu 2.5 Üst gol
+1.68
+İlk yarıda 0.5 Üst gol ve Maç sonucu 3.5 Üst gol
+2.41
+İlk yarıda 0.5 Üst gol ve Maç sonucu 4.5 Üst gol
+3.97
+İlk yarıda 1.5 Üst gol ve Maç sonucu 2.5 Üst gol
+2.37
+İlk yarıda 1.5 Üst gol ve Maç sonucu 3.5 Üst gol
+3.06
+İlk yarıda 1.5 Üst gol ve Maç sonucu 4.5 Üst gol
+4.70
+İlk yarıda 2.5 Üst gol ve Maç sonucu 3.5 Üst gol
+5.20
+İlk yarıda 2.5 Üst gol ve Maç sonucu 4.5 Üst gol
+6.90
+Toplam Gol (Kesin)
+0
+12.00
+1
+5.35
+2
+3.83
+3
+3.75
+4
+4.75
+5
+6.30
+6 veya Daha Fazla
+7.30
+Grêmio FB Porto Alegrense : Toplam Gol (Kesin)
+0
+4.25
+1
+2.39
+2
+3.00
+3
+5.10
+4 veya Daha Fazla
+8.50
+EC Bahia : Toplam Gol (Kesin)
+0
+3.85
+1
+2.31
+2
+3.07
+3
+5.70
+4 veya Daha Fazla
+9.85
+Toplam Gol (Aralık)
+0-1
+3.74
+2-3
+1.90
+4 ila 6
+2.47
+7 veya Daha fazla
+15.00
+Grêmio FB Porto Alegrense : Toplam Gol (Aralık)
+0-1
+1.75
+2-3
+2.12
+4 ila 6
+8.40
+7 veya Daha fazla
+251.00
+EC Bahia : Toplam Gol (Aralık)
+0-1
+1.63
+2-3
+2.24
+4 ila 6
+10.00
+7 veya Daha fazla
+276.00
+Toplam Gol (Genişletilmiş Gol Aralığı)
+1-2
+2.22
+1-3
+1.50
+1-4
+1.22
+1-5
+1.10
+1-6
+1.055
+2-3
+1.90
+2-4
+1.46
+2-5
+1.29
+2-6
+1.21
+3-4
+2.11
+3-5
+1.74
+3-6
+1.60
+Daha Fazla Seçeneği Göster
+Grêmio FB Porto Alegrense : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.50
+1-3
+1.32
+1-4
+1.20
+2-3
+2.12
+2-4
+1.92
+3-4
+3.90
+Herhangi Diğer
+3.38
+EC Bahia : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.56
+1-3
+1.29
+1-4
+1.23
+2-3
+2.24
+2-4
+2.05
+3-4
+4.40
+Herhangi Diğer
+3.15
+Grêmio FB Porto Alegrense Kesin Gol Farkıyla Kazanır
+Evet
+Hayır
+1
+4.05
+1.20
+2
+6.50
+1.08
+3
+9.30
+1.027
+EC Bahia : Kesin Gol Farkıyla Kazanır
+Evet
+Hayır
+1
+4.30
+1.18
+2
+7.30
+1.06
+Grêmio FB Porto Alegrense Kazanır ve Kesin Gol Atar
+Evet
+Hayır
+1
+8.20
+1.045
+2
+5.55
+1.11
+3
+6.50
+1.08
+EC Bahia Kazanır ve Kesin gol atar
+Evet
+Hayır
+1
+8.20
+1.045
+2
+5.85
+1.10
+3
+7.30
+1.06
+En Az Bir Takım Üst Gol Atar
+YENİ
+Evet
+No
+1.5
+1.39
+2.75
+2.5
+2.59
+1.44
+3.5
+5.85
+1.10
+İlk Golün Atılma Şekli
+Kafa vuruşu ile
+5.50
+Diğer Bir Yöntemle
+1.35
+Serbest vuruş ile
+15.00
+Penaltı atışı ile
+6.80
+Maçta kendi kalesine gol atılır
+31.00
+Gol yok
+10.00
+1. Gol Zamanı
+1-10
+3.09
+11-20
+3.80
+21-30
+4.85
+31-40
+6.20
+41-50
+7.20
+51-60
+10.00
+61-70
+14.00
+71-80
+19.00
+81-90+
+19.00
+Gol Yok
+8.50
+Grêmio FB Porto Alegrense : 1. Gol Zamanı (10 dk. Ara)
+1-10
+4.60
+11-20
+5.90
+21-30
+6.70
+31-40
+7.30
+41-50
+7.50
+51-60
+9.00
+61-70
+10.00
+71-80
+12.00
+81-90+
+11.00
+Gol Yok
+3.08
+EC Bahia : 1. Gol Zamanı (10 dk. Ara)
+1-10
+5.00
+11-20
+6.50
+21-30
+6.70
+31-40
+7.70
+41-50
+7.70
+51-60
+9.00
+61-70
+10.00
+71-80
+12.00
+81-90+
+10.00
+Gol Yok
+2.81
+1. Gol Zamanı (15 dk.)
+1-15
+2.52
+16-30
+3.14
+31-45+
+3.84
+46-60
+6.50
+61-75
+11.00
+76-90+
+11.00
+No Goal
+11.00
+Doğru Skor
+1-0
+8.20
+0-0
+15.00
+0-1
+8.20
+2-0
+11.00
+1-1
+5.40
+0-2
+13.00
+2-1
+7.30
+2-2
+8.50
+1-2
+7.60
+3-0
+17.00
+3-3
+26.00
+0-3
+21.00
+3-1
+13.00
+4-4
+126.00
+1-3
+15.00
+3-2
+17.00
+5-5
+201.00
+2-3
+17.00
+Daha Fazla Seçeneği Göster
+Herhangi Bir Zamanda Doğru Skor
+0-1
+1.97
+0-2
+4.40
+0-3
+11.00
+0-4
+34.00
+0-5
+111.00
+1-0
+1.81
+1-1
+2.19
+1-2
+3.91
+1-3
+9.00
+1-4
+25.00
+1-5
+81.00
+2-0
+3.73
+2-1
+3.60
+2-2
+5.80
+2-3
+12.00
+2-4
+34.00
+2-5
+111.00
+3-0
+8.80
+Daha Fazla Seçeneği Göster
+1.Yarı Sonucu
+Grêmio FB Porto Alegrense
+Beraberlik
+EC Bahia
+2.65
+2.17
+2.93
+1.Yarı Çifte Şans
+1X
+12
+X2
+1.33
+1.47
+1.39
+1. Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.29
+3.25
+1
+1.59
+2.21
+1.5
+2.37
+1.52
+2
+4.15
+1.19
+2.5
+5.10
+1.13
+3
+9.70
+1.023
+3.5
+10.00
+1.02
+1. Yarı 1. Takım Toplam Gol
+Üst
+Alt
+0.5
+1.85
+1.85
+1
+3.57
+1.25
+1.5
+5.10
+1.13
+1. Yarı 2. Takım Toplam Gol
+Üst
+Alt
+0.5
+1.94
+1.76
+1
+4.05
+1.20
+1.5
+5.55
+1.11
+1. Yarı Grêmio FB Porto Alegrense Toplam Goller Asya
+Üst
+Alt
+0.75
+2.30
+1.55
+1.25
+4.42
+1.17
+1.75
+6.90
+1.07
+1. Yarı EC Bahia Toplam Gol Asya
+Üst
+Alt
+0.75
+2.45
+1.48
+1.25
+4.90
+1.14
+1.75
+7.50
+1.055
+1. Yarı Karşılıklı Gol
+Evet
+Hayır
+3.57
+1.25
+1. Yarı Gol Handikapı
+Grêmio FB Porto Alegrense
+EC Bahia
+-1.5
+7.10
++1.5
+1.065
+-1
+6.15
++1
+1.09
+-0.5
+2.75
++0.5
+1.39
+0
+1.76
+0
+1.94
++0.5
+1.33
+-0.5
+3.05
++1
+1.065
+-1
+7.10
++1.5
+1.045
+-1.5
+8.20
+1. Yarı Goller Asya Handikapı
+Grêmio FB Porto Alegrense
+EC Bahia
+-1.75
+9.00
++1.75
+1.03
+-1.25
+6.70
++1.25
+1.075
+-0.75
+3.65
++0.75
+1.24
+-0.25
+2.27
++0.25
+1.56
++0.25
+1.46
+-0.25
+2.52
++0.75
+1.20
+-0.75
+4.05
++1.25
+1.055
+-1.25
+7.50
++1.75
+1.02
+-1.75
+10.00
+1. Yarı Gol Handikapı 3 İhtimalli
+Grêmio FB Porto Alegrense
+Beraberlik EC Bahia
+EC Bahia
+-1
+7.10
++1
+3.45
++1
+1.39
+0
+2.75
+0
+2.19
+0
+3.05
++1
+1.33
+-1
+3.59
+-1
+8.20
+1.Yarı Toplam Gol Asya
+Üst
+Alt
+0.75
+1.40
+2.70
+1.25
+1.97
+1.73
+1.75
+2.95
+1.35
+2.25
+4.75
+1.15
+2.75
+6.90
+1.07
+3.25
+10.00
+1.02
+1. . Yarı : Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+2
+5.20
+3.39
+1.52
+1
+2.37
+2.41
+3.12
+1. Yarı: Sonuç ve Her İki Takımda Gol atar
+Grêmio FB Porto Alegrense Ve Evet
+11.00
+Beraberlik ve Hayır
+3.25
+Grêmio FB Porto Alegrense Ve Hayır
+3.25
+EC Bahia ve Evet
+11.00
+Beraberlik ve Evet
+5.20
+EC Bahia ve Hayır
+3.65
+1. Yarı Toplam Gol Aralığı
+0-1
+1.52
+2-3
+2.40
+4 ila 6
+12.00
+7 veya Daha fazla
+29.00
+1.Yarı Grêmio FB Porto Alegrense Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.13
+3.94
+91.00
+1.Yarı EC Bahia Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.07
+4.20
+111.00
+1. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.52
+1-3
+1.33
+1-4
+1.28
+2-3
+2.40
+2-4
+2.21
+3-4
+5.00
+Herhangi Diğer
+2.80
+1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.83
+1-3
+1.74
+1-4
+1.73
+2-3
+4.70
+2-4
+4.60
+3-4
+17.00
+Herhangi Diğer
+1.73
+1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.90
+1-3
+1.83
+1-4
+1.81
+2-3
+5.30
+2-4
+5.10
+3-4
+19.00
+Herhangi Diğer
+1.65
+1.Yarı Toplam Gol (Kesin)
+0
+3.25
+1
+2.31
+2
+3.23
+3
+6.30
+4 veya Daha Fazla
+12.00
+1.Yarı Grêmio FB Porto Alegrense Toplam Gol (Kesin)
+0
+1
+2+
+1.85
+2.41
+5.10
+1.Yarı EC Bahia Toplam Gol (Kesin)
+0
+1
+2+
+1.76
+2.45
+5.55
+1. Yarı Grêmio FB Porto Alegrense Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+3.75
+1.23
+2
+8.20
+1.045
+1. Yarı EC Bahia Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+3.90
+1.21
+2
+8.70
+1.035
+1. Yarı Grêmio FB Porto Alegrense Sıfıra Karşı Kazanır
+Evet
+Hayır
+3.25
+1.29
+1. Yarı EC Bahia Sıfıra Karşı Kazanır
+Evet
+Hayır
+3.65
+1.24
+1. Yarı İlk Golü Atacak Takım
+Grêmio FB Porto Alegrense
+EC Bahia
+Gol yok
+2.24
+2.41
+3.14
+1. Yarı Son Golü Atacak Takım
+Grêmio FB Porto Alegrense
+EC Bahia
+Gol yok
+2.24
+2.41
+3.14
+1.Yarı Doğru Skor
+1-0
+3.96
+0-0
+3.25
+0-1
+4.20
+2-0
+9.40
+1-1
+5.60
+0-2
+11.00
+2-1
+14.00
+2-2
+34.00
+1-2
+14.00
+3-0
+31.00
+3-3
+201.00
+0-3
+41.00
+3-1
+46.00
+1-3
+51.00
+3-2
+111.00
+2-3
+126.00
+2. Yarı Sonucu
+Grêmio FB Porto Alegrense
+Beraberlik
+EC Bahia
+2.42
+2.49
+2.73
+2. Yarı Çifte Şans
+1X
+12
+X2
+1.33
+1.39
+1.40
+2.Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.17
+4.42
+1
+1.29
+3.25
+1.5
+1.83
+1.87
+2
+2.70
+1.40
+2.5
+3.47
+1.26
+3
+6.50
+1.08
+3.5
+7.10
+1.065
+2.Yarı Grêmio FB Porto Alegrense Toplam Gol
+Üst
+Alt
+0.5
+1.59
+2.21
+1
+2.55
+1.45
+1.5
+3.83
+1.22
+2
+8.20
+1.045
+2.5
+8.70
+1.036
+2.Yarı EC Bahia Toplam Gol
+Üst
+Alt
+0.5
+1.68
+2.05
+1
+2.87
+1.36
+1.5
+4.15
+1.19
+2
+9.00
+1.03
+2.5
+9.70
+1.023
+2. Yarı Karşılıklı Gol
+Evet
+Hayır
+2.70
+1.40
+2. Yarı Gol Handikapı
+Grêmio FB Porto Alegrense
+EC Bahia
+-1.5
+6.00
++1.5
+1.095
+-1
+4.90
++1
+1.14
+0
+1.74
+0
+1.96
++1
+1.10
+-1
+5.85
++1.5
+1.07
+-1.5
+6.90
+2. Yarı Gol Handikapı 3 İhtimalli
+Grêmio FB Porto Alegrense
+Beraberlik EC Bahia
+EC Bahia
+-1
+6.00
++1
+3.75
++1
+1.40
+0
+2.42
+0
+2.49
+0
+2.73
++1
+1.33
+-1
+3.90
+-1
+6.90
+2.Yarı: Sonuç ve Her İki Takımda Gol Atar
+Grêmio FB Porto Alegrense Ve Evet
+7.10
+Beraberlik ve Hayır
+4.40
+Grêmio FB Porto Alegrense Ve Hayır
+3.25
+EC Bahia ve Evet
+7.80
+Beraberlik ve Evet
+4.50
+EC Bahia ve Hayır
+3.75
+2. Yarı Toplam Gol Aralığı
+0-1
+1.87
+2-3
+2.02
+4 ila 6
+7.00
+7 veya Daha fazla
+29.00
+2.Yarı Grêmio FB Porto Alegrense Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.22
+3.27
+46.00
+2.Yarı EC Bahia Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.19
+3.52
+61.00
+2. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.64
+1-3
+1.28
+1-4
+1.19
+2-3
+2.02
+2-4
+1.80
+3-4
+3.50
+Herhangi Diğer
+3.47
+2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.66
+1-3
+1.54
+1-4
+1.52
+2-3
+3.27
+2-4
+3.39
+3-4
+10.00
+Herhangi Diğer
+2.02
+2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)
+1-2
+1.71
+1-3
+1.61
+1-4
+1.59
+2-3
+3.52
+2-4
+3.78
+3-4
+12.00
+Herhangi Diğer
+1.90
+2.Yarı Toplam Gol (Kesin)
+0
+4.42
+1
+2.55
+2
+2.92
+3
+4.70
+4+
+7.10
+2.Yarı Grêmio FB Porto Alegrense Toplam Gol (Kesin)
+0
+1
+2+
+2.21
+2.33
+3.83
+2.Yarı EC Bahia Toplam Gol (Kesin)
+0
+1
+2+
+2.05
+2.35
+4.15
+2. Yarı Grêmio FB Porto Alegrense Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+3.75
+1.23
+2
+7.30
+1.06
+2. Yarı EC Bahia Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+3.90
+1.21
+2
+8.20
+1.045
+2.Yarı Grêmio FB Porto Alegrense Sıfıra karşı Kazanır
+Evet
+Hayır
+3.25
+1.29
+2.Yarı EC Bahia Sıfıra karşı Kazanır
+Evet
+Hayır
+3.75
+1.23
+2. Yarı -İlk Golü Atacak Takım
+Grêmio FB Porto Alegrense
+EC Bahia
+Gol yok
+2.02
+2.19
+4.40
+2. Yarı Son Golü Atacak Takım
+Grêmio FB Porto Alegrense
+EC Bahia
+Gol yok
+2.02
+2.19
+4.40
+2. Yarı Doğru Skor
+1-0
+4.33
+0-0
+4.40
+0-1
+4.70
+2-0
+8.50
+1-1
+5.20
+0-2
+9.80
+2-1
+10.00
+2-2
+21.00
+1-2
+11.00
+3-0
+23.00
+3-3
+176.00
+0-3
+29.00
+3-1
+26.00
+1-3
+31.00
+3-2
+56.00
+2-3
+61.00
+1. Yarı/2. Yarı Karşılıklı Gol
+Evet/Evet
+7.70
+Hayır/Evet
+3.07
+Evet/Hayır
+4.40
+Hayır/Hayır
+1.69
+1. Yarı veya Maç Sonucu
+Grêmio FB Porto Alegrense
+X
+EC Bahia
+1.77
+1.72
+1.95
+İlk Yarı/Maç Sonucu
+Grêmio FB Porto Alegrense/Grêmio FB Porto Alegrense
+3.14
+Beraberlik/Grêmio FB Porto Alegrense
+4.90
+EC Bahia/Grêmio FB Porto Alegrense
+19.00
+Grêmio FB Porto Alegrense/Beraberlik
+11.00
+Beraberlik/Beraberlik
+5.10
+EC Bahia/Beraberlik
+11.00
+Grêmio FB Porto Alegrense/EC Bahia
+21.00
+Beraberlik/EC Bahia
+5.50
+EC Bahia/EC Bahia
+3.61
+1.Yarı/2.Yarı Sonucu
+Grêmio FB Porto Alegrense/Grêmio FB Porto Alegrense
+5.90
+Grêmio FB Porto Alegrense/Beraberlik
+6.00
+Grêmio FB Porto Alegrense/EC Bahia
+6.60
+Beraberlik/Grêmio FB Porto Alegrense
+4.90
+Beraberlik/Beraberlik
+5.10
+Beraberlik/EC Bahia
+5.50
+EC Bahia/Grêmio FB Porto Alegrense
+6.50
+EC Bahia/Beraberlik
+6.60
+EC Bahia/EC Bahia
+7.20
+En Çok Gol Atılan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.77
+3.45
+1.89
+En Çok Gol Atılan Yarı : Çifte Şans
+1. Yarı veya Beraberlik
+1. veya 2.
+2. Yarı veya Beraberlik
+1.13
+1.05
+1.07
+Grêmio FB Porto Alegrense : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+3.08
+2.39
+2.30
+EC Bahia : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+3.18
+2.36
+2.27
+Kornerler : Sonuç
+Grêmio FB Porto Alegrense
+X
+EC Bahia
+1.80
+7.20
+2.36
+Kornerler : Toplam
+Üst
+Alt
+7.5
+1.12
+5.35
+8.5
+1.23
+3.75
+9
+1.28
+3.30
+9.5
+1.42
+2.65
+10
+1.52
+2.37
+10.5
+1.71
+2.01
+11
+1.90
+1.80
+11.5
+2.15
+1.62
+12
+2.52
+1.46
+12.5
+2.80
+1.38
+13
+3.47
+1.26
+14.5
+4.90
+1.14
+Toplam Korner : Grêmio FB Porto Alegrense
+Üst
+Alt
+4.5
+1.40
+2.70
+5
+1.54
+2.33
+5.5
+1.82
+1.88
+6
+2.20
+1.60
+6.5
+2.55
+1.45
+Toplam Korner : EC Bahia
+Üst
+Alt
+4.5
+1.53
+2.35
+5
+1.74
+1.96
+5.5
+2.07
+1.67
+6
+2.62
+1.43
+6.5
+3.05
+1.33
+Kornerler: Handikap
+Grêmio FB Porto Alegrense
+EC Bahia
+-2.5
+3.25
++2.5
+1.29
+-2
+3.00
++2
+1.34
+-1.5
+2.44
++1.5
+1.49
+-1
+2.20
++1
+1.60
+-0.5
+1.90
++0.5
+1.80
+0
+1.68
+0
+2.05
++0.5
+1.55
+-0.5
+2.30
++1
+1.38
+-1
+2.80
++1.5
+1.32
+-1.5
+3.10
++2
+1.21
+-2
+3.90
+Kornerler : Toplam (3-İhtimalli)
+Üst
+Kesin
+Alt
+13
+3.78
+8.70
+1.38
+12
+2.80
+7.70
+1.62
+11
+2.15
+7.20
+2.01
+10
+1.71
+7.10
+2.65
+9
+1.42
+7.70
+3.75
+Kornerler : Toplam (Aralık)
+5 veya daha az
+14.00
+6 - 8
+3.73
+9 - 11
+2.35
+12 - 14
+2.75
+15 veya daha fazla
+4.10
+Kornerler: Tek/Çift
+Çift
+Tek
+1.85
+1.85
+Korner Yarışı
+Grêmio FB Porto Alegrense
+EC Bahia
+Hiç Kimse
+9
+5.20
+9
+6.80
+9
+1.32
+7
+2.78
+7
+3.45
+7
+2.22
+5
+1.87
+5
+2.35
+5
+7.20
+3
+1.73
+3
+2.00
+3
+51.00
+Kornerler: 1. Yarı Sonucu
+Grêmio FB Porto Alegrense
+X
+EC Bahia
+2.00
+4.70
+2.47
+Kornerler: 1. Yarı Handikap
+Grêmio FB Porto Alegrense
+EC Bahia
+-0.5
+2.01
++0.5
+1.71
+0
+1.72
+0
+2.00
++0.5
+1.53
+-0.5
+2.35
+Kornerler: 1. Yarı Toplam
+Üst
+Alt
+3.5
+1.23
+3.75
+4.5
+1.62
+2.15
+5
+1.84
+1.86
+5.5
+2.12
+1.64
+6.5
+3.05
+1.33
+Kornerler: 1. Yarı Grêmio FB Porto Alegrense Toplam
+Üst
+Alt
+1.5
+1.24
+3.65
+2
+1.40
+2.70
+2.5
+1.76
+1.94
+3
+2.25
+1.57
+3.5
+2.80
+1.38
+Kornerler: 1.Yarı EC Bahia Toplam
+Üst
+Alt
+1.5
+1.34
+3.00
+2
+1.54
+2.33
+2.5
+2.01
+1.71
+3
+2.68
+1.41
+3.5
+3.40
+1.27
+Toplam Korner : 2.Yarı
+Üst
+Alt
+4.5
+1.37
+2.85
+5.5
+1.76
+1.94
+6.5
+2.44
+1.49
+Kornerler : İlk Korner
+Grêmio FB Porto Alegrense
+EC Bahia
+1.72
+2.00
+Kornerler : Son Korner
+Grêmio FB Porto Alegrense
+EC Bahia
+1.77
+2.05
+Kartlar: Puan : Sonuç
+Grêmio FB Porto Alegrense
+X
+EC Bahia
+2.47
+4.60
+2.10
+Kartlar: Puan Handikapı
+Gremio FB Porto Alegrense
+EC Bahia
+-0.5
+2.37
++0.5
+1.52
+0
+1.85
+0
+1.85
++0.5
+1.61
+-0.5
+2.17
++1.5
+1.32
+-1.5
+3.10
+Kartlar: Toplam Puan
+Üst
+Alt
+2.5
+1.06
+7.30
+3.5
+1.16
+4.57
+4.5
+1.39
+2.75
+5
+1.57
+2.25
+5.5
+1.79
+1.91
+6
+2.25
+1.57
+6.5
+2.40
+1.50
+7.5
+2.75
+1.39
+8.5
+3.83
+1.22
+9.5
+5.35
+1.12
+10.5
+7.10
+1.065
+Kartlar: Grêmio FB Porto Alegrense : Toplam Kart Puanı
+Üst
+Alt
+1.5
+1.20
+4.05
+2.5
+1.63
+2.13
+3.5
+2.52
+1.46
+4.5
+4.15
+1.19
+5.5
+7.10
+1.065
+Kartlar: EC Bahia : Toplam Kart Puanı
+Üst
+Alt
+1.5
+1.15
+4.75
+2.5
+1.48
+2.45
+3.5
+2.17
+1.61
+4.5
+3.47
+1.26
+5.5
+5.55
+1.11
+Kartlar: Toplam (Aralıklar)
+0
+61.00
+1-2
+6.00
+3-4
+2.87
+5-6
+2.33
+7-8
+2.68
+9-10
+3.95
+11 or more
+5.90
+Kartlar: 1.Yarı : Toplam Kart Puanı
+Üst
+Alt
+1.5
+1.52
+2.37
+2.5
+2.25
+1.57
+3.5
+3.65
+1.24
+Kartlar: 1. Yarı : Grêmio FB Porto Alegrense : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.42
+2.50
+1.5
+2.78
+1.33
+2.5
+6.00
+1.08
+Kartlar: 1. Yarı : EC Bahia : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.35
+2.70
+1.5
+2.50
+1.42
+2.5
+5.40
+1.10
+Kartlar: 2. Yarı : Grêmio FB Porto Alegrense : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.13
+4.80
+1.5
+1.62
+2.05
+2.5
+2.78
+1.33
+Kartlar: 2. Yarı : EC Bahia : Toplam Kart Puanı
+Üst
+Alt
+1.5
+1.50
+2.28
+2.5
+2.40
+1.45
+3.5
+4.40
+1.15
+En Fazla Korner Olan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.35
+7.10
+1.58
+Direkt Kırmızı Kart
+Evet
+2.55
+Her İki Takım da Kırmızı Kart Alır
+Evet
+26.00
+Her İki Takım da Kart Alır
+Evet
+Hayır
+1.065
+7.10
+Her iki takım da 2 veya daha fazla kart görür
+Evet
+Hayır
+1.38
+2.80
+Her iki takım da her iki yarıda kart alır
+Evet
+2.37
+İlk Kartı Görecek Takım
+Grêmio FB Porto Alegrense
+EC Bahia
+No Card
+1.90
+1.75
+101.00
+Son Kartı Görecek Takım
+Grêmio FB Porto Alegrense
+EC Bahia
+No Card
+1.90
+1.75
+101.00
+Sarı Kartlar: Sonuç
+Grêmio FB Porto Alegrense
+X
+EC Bahia
+2.18
+5.00
+2.18
+Sarı Kartlar: Çifte Şans
+1X
+12
+X2
+1.57
+1.16
+1.57
+Sarı Kartlar: Handikap
+Grêmio FB Porto Alegrense
+EC Bahia
+-0.5
+2.21
++0.5
+1.59
+0
+1.85
+0
+1.85
++0.5
+1.59
+-0.5
+2.21
+Sarı Kartlar: Toplam
+Üst
+Alt
+4.5
+1.47
+2.50
+5
+1.64
+2.12
+5.5
+1.93
+1.77
+6
+2.40
+1.50
+Sarı Kartlar: Grêmio FB Porto Alegrense : Toplam
+Üst
+Alt
+2.5
+1.78
+1.92
+Sarı Kartlar: EC Bahia : Toplam
+Üst
+Alt
+2.5
+1.78
+1.92
+Sarı Kartlar : 1. Yarı Sonucu
+Grêmio FB Porto Alegrense
+X
+EC Bahia
+2.59
+2.89
+2.59
+Sarı Kartlar : 1. Yarı Handikap
+Grêmio FB Porto Alegrense
+EC Bahia
+-0.5
+2.59
++0.5
+1.44
+0
+1.85
+0
+1.85
++0.5
+1.44
+-0.5
+2.59
+Sarı Kartlar: 1. Yarı : Toplam
+Üst
+Alt
+1.5
+1.64
+2.12
+2
+2.21
+1.59
+2.5
+2.95
+1.35
+Sarı Kartlar : 1. Yarı Grêmio FB Porto Alegrense Toplam
+Üst
+Alt
+0.5
+1.52
+2.37
+1
+2.33
+1.54
+Sarı Kartlar : 1. Yarı EC Bahia Toplam
+Üst
+Alt
+0.5
+1.52
+2.37
+1
+2.33
+1.54
+Sarı Kartlar : 2.Yarı Sonuç
+Grêmio FB Porto Alegrense
+X
+EC Bahia
+2.33
+3.68
+2.33
+Sarı Kartlar : 2.Yarı Handikap
+Grêmio FB Porto Alegrense
+EC Bahia
+-0.5
+2.33
++0.5
+1.54
+0
+1.85
+0
+1.85
++0.5
+1.54
+-0.5
+2.33
+Sarı Kartlar: 2.Yarı : Toplam
+Üst
+Alt
+3
+1.53
+2.35
+3.5
+1.91
+1.79
+Sarı Kartlar: 2. Yarı : Grêmio FB Porto Alegrense Toplam
+Üst
+Alt
+1.5
+1.73
+1.97
+2
+2.45
+1.48
+Sarı Kartlar: 2. Yarı : EC Bahia Toplam
+Üst
+Alt
+1.5
+1.73
+1.97
+2
+2.44
+1.49
+Sarı Kartlar: İlk Sarı Kartı Görür
+Grêmio FB Porto Alegrense
+EC Bahia
+1.90
+1.90
+Sarı Kartlar: Son Sarı Kartı Görür
+Grêmio FB Porto Alegrense
+EC Bahia
+1.90
+1.90
+Maçta Penaltı Olur
+Evet
+Hayır
+3.00
+1.34
+Grêmio FB Porto Alegrense : Penaltı Kazanır
+Evet
+4.70
+EC Bahia : Penaltı Kazanır
+Evet
+5.10
+İki Takım da Penaltı Kazanır
+Evet
+21.00
+Maçta İki Penaltı Olur
+Evet
+4.75
+1. . Yarı : Penaltı
+Evet
+Hayır
+5.10
+1.13
+Penaltıdan Gol Atar
+Grêmio FB Porto Alegrense
+EC Bahia
+6.30
+7.00
+Penaltı Kaçırır
+Grêmio FB Porto Alegrense
+EC Bahia
+19.00
+21.00
+Maçta Kırmzı Kartlar
+YENİ
+1+
+3.15
+2+
+12.00
+3+
+25.00
+Grêmio FB Porto Alegrense Kırmızı Kartlar
+YENİ
+1+
+2+
+5.50
+15.00
+EC Bahia Kırmızı Kartlar
+YENİ
+1+
+2+
+5.60
+15.00
+1. . Yarı : Kırmızı Kart
+Evet
+Hayır
+7.50
+1.055
+2.. Yarı : Kırmızı Kart
+Evet
+Hayır
+3.65
+1.24
+Penaltı ve Kırmızı Kart
+Evet
+Hayır
+6.70
+1.075
+Maçta Penaltı veya Kırmızı Kart olur
+Evet
+1.48
+Maçta kendi kalesine gol atılır
+Evet
+Hayır
+9.00
+1.03
+Herhangi Bir Zamanda Gol Atar
+Carlos Vinicius
+2.35
+Alejo Veliz
+2.70
+Willian Jose
+3.00
+Martin Braithwaite
+3.00
+Tete
+3.70
+Erick Pulga
+3.85
+Cristian Kike Olivera
+4.20
+Francis Amuzu
+4.20
+Jose Enamorado
+4.50
+Ademir
+4.70
+Michel Araujo
+5.30
+Rodrigo Nestor
+5.30
+Daha Fazla Seçeneği Göster
+İlk Golcü
+Carlos Vinicius
+4.85
+Alejo Veliz
+5.60
+Willian Jose
+6.00
+Martin Braithwaite
+6.60
+Tete
+8.00
+Erick Pulga
+8.80
+Francis Amuzu
+9.10
+Cristian Kike Olivera
+9.80
+Jose Enamorado
+9.80
+Ademir
+11.00
+Cristian Pavon
+13.00
+Michel Araujo
+13.00
+Daha Fazla Seçeneği Göster
+İlk Golcü. Çifte Şans
+Martin Braithwaite or Carlos Vinicius
+3.20
+Carlos Vinicius or da Silva Willian Jose
+3.60
+Carlos Vinicius or Ademir
+3.60
+Martin Braithwaite or Ademir
+4.00
+Martin Braithwaite or da Silva Willian Jose
+4.00
+da Silva Willian Jose or Ademir
+5.00
+Jose Enamorado or Cristian Pavon
+6.00
+Jose Enamorado or Erick Pulga
+6.00
+Erick Pulga or Cristian Pavon
+6.00
+Jose Enamorado or Nicolas Acevedo
+7.00
+Son Golcü
+Carlos Vinicius
+5.10
+Alejo Veliz
+6.30
+Martin Braithwaite
+6.60
+Willian Jose
+6.80
+Tete
+8.00
+Erick Pulga
+8.80
+Francis Amuzu
+9.10
+Jose Enamorado
+9.80
+Cristian Kike Olivera
+9.80
+Ademir
+11.00
+Michel Araujo
+13.00
+Filip Krovinovic
+13.00
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 2 Gol Atar
+Carlos Vinicius
+8.10
+Alejo Veliz
+13.00
+Willian Jose
+15.00
+Martin Braithwaite
+15.00
+Tete
+23.00
+Erick Pulga
+25.00
+Cristian Kike Olivera
+25.00
+Francis Amuzu
+29.00
+Jose Enamorado
+34.00
+Ademir
+36.00
+Luciano Juba
+36.00
+Cristian Pavon
+36.00
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 3 Gol Atar
+Carlos Vinicius
+46.00
+Alejo Veliz
+71.00
+Willian Jose
+96.00
+Martin Braithwaite
+101.00
+Pedro Gabriel
+126.00
+David Duarte
+126.00
+Erick Noriega
+126.00
+Marcos Victor
+126.00
+Erick Pulga
+126.00
+Michel Araujo
+126.00
+Luiz Gustavo
+126.00
+Marcos Rocha
+126.00
+Daha Fazla Seçeneği Göster
+Oyuncu Asist Yapar
+YENİ
+Cristian Pavon 1+
+3.75
+Ademir 1+
+3.95
+Cristian Kike Olivera 1+
+4.10
+Tete 1+
+4.30
+Everton Ribeiro 1+
+4.30
+Francis Amuzu 1+
+4.30
+Jose Enamorado 1+
+4.33
+Rodrigo Nestor 1+
+4.60
+Erick Pulga 1+
+4.60
+Marlon 1+
+4.90
+Willian Jose 1+
+5.70
+Luciano Juba 1+
+6.00
+Michel Araujo 1+
+6.00
+Pedro Gabriel 1+
+6.20
+Caio Paulista 1+
+6.40
+Alejo Veliz 1+
+6.50
+Martin Braithwaite 1+
+6.60
+Carlos Vinicius 1+
+6.60
+Filip Krovinovic 1+
+6.60
+Jean Lucas 1+
+6.70
+Diego Caito 1+
+6.90
+Caio Alexandre 1+
+7.50
+Joao Pedro 1+
+7.80
+Marcos Rocha 1+
+8.40
+Nicolas Acevedo 1+
+8.50
+Erick 1+
+8.60
+Danilo Barbosa 1+
+8.80
+Roman Gomez 1+
+9.00
+Dodi 1+
+9.30
+Erick Noriega 1+
+9.60
+Lautaro Lopez 1+
+10.00
+Marcos Victor 1+
+11.00
+Gustavo Martins 1+
+17.00
+Fabian Balbuena 1+
+17.00
+Wallace 1+
+21.00
+David Duarte 1+
+23.00
+Kanu 1+
+23.00
+Marco Moreno 1+
+23.00
+Luiz Gustavo 1+
+25.00
+Oyuncu Gol Atar veya Asist Yapar
+Carlos Vinicius
+1.92
+Alejo Veliz
+2.08
+Willian Jose
+2.16
+Tete
+2.23
+Martin Braithwaite
+2.27
+Cristian Kike Olivera
+2.35
+Erick Pulga
+2.36
+Francis Amuzu
+2.38
+Ademir
+2.43
+Jose Enamorado
+2.49
+Cristian Pavon
+2.50
+Rodrigo Nestor
+2.75
+Daha Fazla Seçeneği Göster
+Oyuncu Gol Atar veya Asist Yapar (Çifte Şans)
+Martin Braithwaite or Carlos Vinicius
+1.29
+Carlos Vinicius or Ademir
+1.33
+Martin Braithwaite or Ademir
+1.36
+Carlos Vinicius or Cristian Pavon
+1.36
+Martin Braithwaite or Cristian Pavon
+1.40
+Cristian Pavon or Ademir
+1.44
+Erick Pulga or Jose Enamorado
+1.53
+da Silva Willian Jose or Nicolas Acevedo
+1.53
+Jose Enamorado or Nicolas Acevedo
+1.53
+Jose Enamorado or da Silva Willian Jose
+1.53
+Oyuncu Gol Atar ve Asist Yapar
+YENİ
+Tete
+9.50
+Francis Amuzu
+10.00
+Jose Enamorado
+11.00
+Erick Pulga
+11.00
+Ademir
+11.00
+Willian Jose
+12.00
+Cristian Pavon
+12.00
+Carlos Vinicius
+12.00
+Cristian Kike Olivera
+12.00
+Martin Braithwaite
+13.00
+Rodrigo Nestor
+13.00
+Alejo Veliz
+13.00
+Michel Araujo
+17.00
+Luciano Juba
+17.00
+Everton Ribeiro
+17.00
+Filip Krovinovic
+19.00
+Jean Lucas
+19.00
+Erick
+25.00
+Diego Caito
+26.00
+Marlon
+29.00
+Danilo Barbosa
+29.00
+Caio Paulista
+31.00
+Lautaro Lopez
+36.00
+Oyuncu Penaltıdan Gol Atar
+YENİ
+Carlos Vinicius
+5.00
+Martin Braithwaite
+6.40
+Willian Jose
+11.00
+Alejo Veliz
+12.00
+Everton Ribeiro
+19.00
+Rodrigo Nestor
+19.00
+Francis Amuzu
+23.00
+Jose Enamorado
+23.00
+Tete
+25.00
+Luciano Juba
+26.00
+Filip Krovinovic
+31.00
+Lautaro Lopez
+31.00
+Erick Pulga
+34.00
+Cristian Pavon
+34.00
+Danilo Barbosa
+36.00
+Cristian Kike Olivera
+36.00
+Dodi
+36.00
+Ademir
+41.00
+Erick Noriega
+51.00
+Michel Araujo
+51.00
+Jean Lucas
+56.00
+Caio Alexandre
+61.00
+Erick
+61.00
+Caio Paulista
+76.00
+Nicolas Acevedo
+76.00
+Roman Gomez
+91.00
+Diego Caito
+91.00
+Pedro Gabriel
+91.00
+Fabian Balbuena
+91.00
+Kanu
+91.00
+Marcos Victor
+91.00
+Marco Moreno
+91.00
+Gustavo Martins
+91.00
+Marlon
+91.00
+Marcos Rocha
+91.00
+Joao Pedro
+91.00
+Luiz Gustavo
+91.00
+Wallace
+91.00
+David Duarte
+91.00
+Oyuncu Ceza Sahası Dışından Gol Atar
+Tete
+9.10
+Martin Braithwaite
+9.60
+Carlos Vinicius
+11.00
+Ademir
+12.00
+Jovane Cabral
+12.00
+Gustavo Martins
+13.00
+Erick Pulga
+14.00
+Marlon
+14.00
+Luciano Juba
+15.00
+Francis Amuzu
+17.00
+Everaldo
+19.00
+Alejo Veliz
+19.00
+Daha Fazla Seçeneği Göster
+Oyuncu Penaltı Kaçırır
+YENİ
+Carlos Vinicius
+25.00
+Willian Jose
+25.00
+Martin Braithwaite
+25.00
+Alejo Veliz
+34.00
+Jose Enamorado
+61.00
+Francis Amuzu
+61.00
+Tete
+61.00
+Erick Pulga
+81.00
+Cristian Pavon
+91.00
+Rodrigo Nestor
+91.00
+Fabian Balbuena
+91.00
+Marcos Rocha
+91.00
+Erick
+91.00
+Everton Ribeiro
+91.00
+Roman Gomez
+91.00
+Marlon
+91.00
+Jean Lucas
+91.00
+David Duarte
+91.00
+Gustavo Martins
+91.00
+Michel Araujo
+91.00
+Erick Noriega
+91.00
+Filip Krovinovic
+91.00
+Caio Paulista
+91.00
+Diego Caito
+91.00
+Luciano Juba
+91.00
+Marcos Victor
+91.00
+Danilo Barbosa
+91.00
+Ademir
+91.00
+Kanu
+91.00
+Dodi
+91.00
+Luiz Gustavo
+91.00
+Marco Moreno
+91.00
+Caio Alexandre
+91.00
+Lautaro Lopez
+91.00
+Pedro Gabriel
+91.00
+Wallace
+91.00
+Nicolas Acevedo
+91.00
+Cristian Kike Olivera
+91.00
+Joao Pedro
+91.00
+Penaltı Kazandıran Oyuncu
+YENİ
+Jose Enamorado 1+
+21.00
+Ademir 1+
+21.00
+Erick Pulga 1+
+21.00
+Cristian Kike Olivera 1+
+23.00
+Francis Amuzu 1+
+25.00
+Alejo Veliz 1+
+26.00
+Carlos Vinicius 1+
+31.00
+Tete 1+
+31.00
+Martin Braithwaite 1+
+34.00
+Diego Caito 1+
+41.00
+Marlon 1+
+41.00
+Everton Ribeiro 1+
+41.00
+Willian Jose 1+
+46.00
+Michel Araujo 1+
+51.00
+Joao Pedro 1+
+51.00
+Cristian Pavon 1+
+56.00
+Marcos Rocha 1+
+56.00
+Filip Krovinovic 1+
+56.00
+Danilo Barbosa 1+
+56.00
+Caio Paulista 1+
+61.00
+David Duarte 1+
+71.00
+Jean Lucas 1+
+71.00
+Erick Noriega 1+
+71.00
+Erick 1+
+71.00
+Nicolas Acevedo 1+
+71.00
+Marco Moreno 1+
+71.00
+Caio Alexandre 1+
+71.00
+Kanu 1+
+71.00
+Fabian Balbuena 1+
+71.00
+Wallace 1+
+71.00
+Gustavo Martins 1+
+71.00
+Roman Gomez 1+
+71.00
+Marcos Victor 1+
+71.00
+Dodi 1+
+71.00
+Lautaro Lopez 1+
+71.00
+Luiz Gustavo 1+
+71.00
+Rodrigo Nestor 1+
+71.00
+Luciano Juba 1+
+71.00
+Pedro Gabriel 1+
+71.00
+Oyuncu Kale Sahası İçinden Gol Atar
+YENİ
+Alejo Veliz
+5.20
+Carlos Vinicius
+8.30
+Willian Jose
+10.00
+Cristian Kike Olivera
+13.00
+Erick
+13.00
+Wallace
+13.00
+Gustavo Martins
+15.00
+Jose Enamorado
+17.00
+Erick Pulga
+17.00
+Martin Braithwaite
+17.00
+Jean Lucas
+26.00
+Tete
+29.00
+David Duarte
+29.00
+Luiz Gustavo
+31.00
+Francis Amuzu
+31.00
+Ademir
+31.00
+Caio Paulista
+34.00
+Joao Pedro
+36.00
+Filip Krovinovic
+36.00
+Danilo Barbosa
+36.00
+Michel Araujo
+36.00
+Kanu
+36.00
+Marco Moreno
+36.00
+Cristian Pavon
+36.00
+Roman Gomez
+36.00
+Pedro Gabriel
+41.00
+Everton Ribeiro
+41.00
+Lautaro Lopez
+41.00
+Fabian Balbuena
+41.00
+Caio Alexandre
+46.00
+Rodrigo Nestor
+46.00
+Luciano Juba
+46.00
+Marcos Rocha
+51.00
+Erick Noriega
+51.00
+Nicolas Acevedo
+51.00
+Marcos Victor
+51.00
+Dodi
+51.00
+Marlon
+51.00
+Diego Caito
+51.00
+Oyuncu Kafa Golü Atar
+Alejo Veliz
+4.50
+Carlos Vinicius
+7.30
+Martin Braithwaite
+7.40
+Gustavo Martins
+9.30
+David Duarte
+11.00
+Willian Jose
+12.00
+Fabian Balbuena
+13.00
+Wallace
+14.00
+Erick
+19.00
+Michel Araujo
+21.00
+Erick Pulga
+21.00
+Luiz Gustavo
+23.00
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar Çifte Şans
+Alejo Veliz or Carlos Vinicius
+1.57
+Martin Braithwaite or Carlos Vinicius
+1.62
+Carlos Vinicius or Willian Jose
+1.62
+Tete or Carlos Vinicius
+1.72
+Alejo Veliz or Willian Jose
+1.72
+Alejo Veliz or Martin Braithwaite
+1.72
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar. Üçlü Şans
+Alejo Veliz or Carlos Vinicius or Willian Jose
+1.32
+Alejo Veliz or Martin Braithwaite or Carlos Vinicius
+1.32
+Martin Braithwaite or Carlos Vinicius or Willian Jose
+1.34
+Tete or Alejo Veliz or Carlos Vinicius
+1.36
+Alejo Veliz or Erick Pulga or Carlos Vinicius
+1.37
+Alejo Veliz or Cristian Kike Olivera or Carlos Vinicius
+1.38
+Daha Fazla Seçeneği Göster
+Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar
+Alejo Veliz and Carlos Vinicius
+6.30
+Martin Braithwaite and Carlos Vinicius
+7.10
+Carlos Vinicius and Willian Jose
+7.10
+Alejo Veliz and Willian Jose
+8.10
+Alejo Veliz and Martin Braithwaite
+8.10
+Tete and Carlos Vinicius
+8.70
+Daha Fazla Seçeneği Göster
+Üç Oyuncu da Herhangi Bir Zamanda Gol Atar
+Alejo Veliz and Carlos Vinicius and Willian Jose
+19.00
+Alejo Veliz and Martin Braithwaite and Carlos Vinicius
+19.00
+Martin Braithwaite and Carlos Vinicius and Willian Jose
+21.00
+Tete and Alejo Veliz and Carlos Vinicius
+23.00
+Alejo Veliz and Martin Braithwaite and Willian Jose
+25.00
+Alejo Veliz and Erick Pulga and Carlos Vinicius
+25.00
+Daha Fazla Seçeneği Göster
+Oyuncu 1. Yarıda Gol Atar
+Carlos Vinicius
+4.00
+Alejo Veliz
+4.70
+Martin Braithwaite
+5.20
+Willian Jose
+5.30
+Tete
+6.50
+Erick Pulga
+6.90
+Francis Amuzu
+7.50
+Cristian Kike Olivera
+7.50
+Jose Enamorado
+8.10
+Ademir
+8.30
+Rodrigo Nestor
+9.50
+Michel Araujo
+9.50
+Cristian Pavon
+9.80
+Luciano Juba
+10.00
+Jean Lucas
+11.00
+Filip Krovinovic
+11.00
+Erick
+12.00
+Everton Ribeiro
+12.00
+Gustavo Martins
+14.00
+Diego Caito
+17.00
+Marlon
+17.00
+Danilo Barbosa
+17.00
+Fabian Balbuena
+19.00
+David Duarte
+19.00
+Caio Paulista
+21.00
+Erick Noriega
+21.00
+Caio Alexandre
+21.00
+Roman Gomez
+21.00
+Lautaro Lopez
+21.00
+Wallace
+21.00
+Joao Pedro
+21.00
+Dodi
+23.00
+Pedro Gabriel
+25.00
+Nicolas Acevedo
+25.00
+Marcos Victor
+26.00
+Luiz Gustavo
+29.00
+Marcos Rocha
+29.00
+Marco Moreno
+36.00
+Kanu
+36.00
+Oyuncu 2. Yarıda Gol Atar
+Carlos Vinicius
+3.35
+Alejo Veliz
+3.90
+Willian Jose
+4.33
+Martin Braithwaite
+4.33
+Tete
+5.40
+Erick Pulga
+5.70
+Francis Amuzu
+6.30
+Cristian Kike Olivera
+6.30
+Jose Enamorado
+6.70
+Ademir
+6.90
+Rodrigo Nestor
+7.90
+Michel Araujo
+7.90
+Cristian Pavon
+8.20
+Luciano Juba
+8.50
+Filip Krovinovic
+8.80
+Jean Lucas
+8.80
+Erick
+9.50
+Everton Ribeiro
+10.00
+Gustavo Martins
+12.00
+Marlon
+13.00
+Diego Caito
+14.00
+Danilo Barbosa
+14.00
+Fabian Balbuena
+15.00
+David Duarte
+15.00
+Lautaro Lopez
+17.00
+Caio Paulista
+17.00
+Caio Alexandre
+17.00
+Erick Noriega
+17.00
+Roman Gomez
+17.00
+Wallace
+19.00
+Joao Pedro
+19.00
+Dodi
+19.00
+Nicolas Acevedo
+21.00
+Pedro Gabriel
+21.00
+Marcos Victor
+23.00
+Marcos Rocha
+25.00
+Luiz Gustavo
+25.00
+Marco Moreno
+31.00
+Kanu
+31.00
+Oyuncu Her İki Yarıda da Gol Atar
+Carlos Vinicius
+10.00
+Alejo Veliz
+13.00
+Willian Jose
+17.00
+Martin Braithwaite
+17.00
+Tete
+23.00
+Erick Pulga
+25.00
+Francis Amuzu
+29.00
+Cristian Kike Olivera
+29.00
+Jose Enamorado
+31.00
+Ademir
+31.00
+Rodrigo Nestor
+41.00
+Cristian Pavon
+41.00
+Oyuncu Serbest Vuruştan Gol Atar
+YENİ
+Rodrigo Nestor
+19.00
+Cristian Pavon
+34.00
+Francis Amuzu
+36.00
+Marlon
+41.00
+Willian Jose
+61.00
+Lautaro Lopez
+71.00
+Filip Krovinovic
+71.00
+Danilo Barbosa
+76.00
+Luciano Juba
+81.00
+Tete
+81.00
+Dodi
+81.00
+Jean Lucas
+81.00
+Martin Braithwaite
+81.00
+Caio Alexandre
+81.00
+Erick
+86.00
+Michel Araujo
+86.00
+Jose Enamorado
+86.00
+Everton Ribeiro
+86.00
+Diego Caito
+91.00
+David Duarte
+91.00
+Cristian Kike Olivera
+91.00
+Carlos Vinicius
+91.00
+Alejo Veliz
+91.00
+Ademir
+91.00
+Pedro Gabriel
+91.00
+Luiz Gustavo
+91.00
+Erick Noriega
+91.00
+Fabian Balbuena
+91.00
+Erick Pulga
+91.00
+Kanu
+91.00
+Roman Gomez
+91.00
+Marcos Rocha
+91.00
+Joao Pedro
+91.00
+Nicolas Acevedo
+91.00
+Marco Moreno
+91.00
+Wallace
+91.00
+Marcos Victor
+91.00
+Caio Paulista
+91.00
+Gustavo Martins
+91.00
+Oyuncu Sağ Ayağıyla Gol Atar
+YENİ
+Willian Jose
+4.10
+Martin Braithwaite
+4.70
+Francis Amuzu
+4.85
+Cristian Kike Olivera
+5.40
+Alejo Veliz
+5.70
+Erick Pulga
+5.90
+Jose Enamorado
+5.90
+Jean Lucas
+7.30
+Cristian Pavon
+8.00
+Erick
+9.60
+Filip Krovinovic
+10.00
+Carlos Vinicius
+12.00
+Caio Alexandre
+14.00
+Lautaro Lopez
+15.00
+Diego Caito
+17.00
+Erick Noriega
+17.00
+Tete
+19.00
+Danilo Barbosa
+19.00
+Dodi
+19.00
+Michel Araujo
+19.00
+Ademir
+19.00
+Nicolas Acevedo
+21.00
+Gustavo Martins
+23.00
+Marcos Rocha
+23.00
+Roman Gomez
+23.00
+Fabian Balbuena
+25.00
+Everton Ribeiro
+29.00
+Joao Pedro
+29.00
+David Duarte
+31.00
+Rodrigo Nestor
+36.00
+Pedro Gabriel
+41.00
+Luiz Gustavo
+41.00
+Luciano Juba
+41.00
+Marlon
+41.00
+Caio Paulista
+41.00
+Wallace
+41.00
+Marco Moreno
+41.00
+Kanu
+41.00
+Marcos Victor
+41.00
+Oyuncu Sol Ayağıyla Gol Atar
+YENİ
+Carlos Vinicius
+3.20
+Tete
+4.33
+Rodrigo Nestor
+6.00
+Ademir
+6.00
+Luciano Juba
+6.80
+Michel Araujo
+8.30
+Everton Ribeiro
+8.70
+Marlon
+10.00
+Erick Pulga
+11.00
+Alejo Veliz
+13.00
+Filip Krovinovic
+14.00
+Willian Jose
+14.00
+Caio Paulista
+15.00
+Martin Braithwaite
+15.00
+Cristian Pavon
+17.00
+Pedro Gabriel
+17.00
+Jose Enamorado
+17.00
+Cristian Kike Olivera
+17.00
+Diego Caito
+23.00
+Joao Pedro
+23.00
+Francis Amuzu
+25.00
+Danilo Barbosa
+26.00
+Marcos Victor
+29.00
+Roman Gomez
+31.00
+Erick
+36.00
+Jean Lucas
+41.00
+Dodi
+41.00
+Wallace
+41.00
+Luiz Gustavo
+41.00
+Marcos Rocha
+41.00
+Caio Alexandre
+41.00
+Nicolas Acevedo
+41.00
+Fabian Balbuena
+41.00
+David Duarte
+41.00
+Lautaro Lopez
+41.00
+Gustavo Martins
+41.00
+Kanu
+41.00
+Erick Noriega
+41.00
+Marco Moreno
+41.00
+İlk 10 Dakikada Gol Atar
+Carlos Vinicius
+15.00
+Alejo Veliz
+19.00
+Martin Braithwaite
+21.00
+Willian Jose
+21.00
+Tete
+25.00
+Erick Pulga
+26.00
+Cristian Kike Olivera
+29.00
+Francis Amuzu
+29.00
+Jose Enamorado
+31.00
+Ademir
+31.00
+Michel Araujo
+34.00
+Rodrigo Nestor
+34.00
+Cristian Pavon
+34.00
+Filip Krovinovic
+36.00
+Luciano Juba
+36.00
+Erick
+36.00
+Jean Lucas
+41.00
+Everton Ribeiro
+41.00
+Gustavo Martins
+51.00
+Diego Caito
+56.00
+Marlon
+56.00
+Danilo Barbosa
+61.00
+David Duarte
+67.00
+Lautaro Lopez
+67.00
+Fabian Balbuena
+67.00
+Caio Alexandre
+71.00
+Erick Noriega
+71.00
+Caio Paulista
+71.00
+Roman Gomez
+71.00
+Wallace
+76.00
+Marco Moreno
+81.00
+Marcos Victor
+81.00
+Kanu
+81.00
+Luiz Gustavo
+81.00
+Pedro Gabriel
+81.00
+Dodi
+81.00
+Marcos Rocha
+81.00
+Joao Pedro
+81.00
+Nicolas Acevedo
+81.00
+Grêmio FB Porto Alegrense : İlk Golü Atar
+Carlos Vinicius
+2.91
+Martin Braithwaite
+3.78
+Matheus Nascimento
+4.33
+Mateus Tete
+5.00
+Joao Born
+5.50
+Francis Amuzu
+5.70
+Jose Enamorado
+6.00
+Jovane Cabral
+6.00
+Cristian Pavon
+6.50
+Filip Krovinovic
+7.20
+Mathias Villasanti
+9.50
+Gustavo Martins
+11.00
+Daha Fazla Seçeneği Göster
+EC Bahia : İlk Golü Atar
+Everaldo Stum
+3.65
+Alejo Veliz
+4.10
+Kaue Furquim
+5.00
+Dell
+5.00
+Mateo Sanabria
+5.50
+Ademir
+5.50
+Da Silva Willian Jose
+5.50
+Luciano Juba
+5.80
+Erick Pulga
+6.20
+Ruan Pablo
+7.00
+Michel Araujo
+7.10
+Rodrigo Nestor
+7.30
+Daha Fazla Seçeneği Göster
+Grêmio FB Porto Alegrense : Son Golcü
+Carlos Vinicius
+3.25
+Martin Braithwaite
+4.00
+Matheus Nascimento
+4.33
+Francis Amuzu
+5.00
+Mateus Tete
+5.00
+Joao Born
+5.50
+Jovane Cabral
+6.00
+Jose Enamorado
+6.00
+Cristian Pavon
+6.50
+Filip Krovinovic
+6.50
+Mathias Villasanti
+9.50
+Juan Ignacio Nardoni
+11.00
+Daha Fazla Seçeneği Göster
+EC Bahia : Son Golü Atar
+Everaldo Stum
+3.75
+Alejo Veliz
+4.50
+Kaue Furquim
+5.00
+Dell
+5.00
+Cristian Olivera
+5.50
+Mateo Sanabria
+5.50
+Da Silva Willian Jose
+5.50
+Ademir
+5.50
+Erick Pulga
+6.50
+Luciano Juba
+6.50
+Rodrigo Nestor
+7.00
+Ruan Pablo
+7.00
+Daha Fazla Seçeneği Göster
+Gol Asisti Yapar Çifte Şans
+Nicolas Acevedo or Ademir
+1.62
+Nicolas Acevedo or Cristian Pavon
+1.65
+Nicolas Acevedo or Martin Braithwaite
+1.65
+Ademir or Cristian Pavon
+1.73
+Ademir or Martin Braithwaite
+1.73
+Martin Braithwaite or Cristian Pavon
+1.80
+Erick Pulga or da Silva Willian Jose
+1.87
+Jose Enamorado or Erick Pulga
+1.87
+Jose Enamorado or da Silva Willian Jose
+1.93
+Erick Pulga or Carlos Vinicius
+2.00
+Oyuncu Kart Görür
+Nicolas Acevedo
+2.39
+Erick
+2.49
+Jean Lucas
+2.70
+Kanu
+2.75
+Pedro Gabriel
+2.80
+Michel Araujo
+2.85
+Dodi
+2.95
+Marcos Victor
+2.95
+Caio Alexandre
+2.95
+Rodrigo Nestor
+3.00
+Marco Moreno
+3.00
+Erick Noriega
+3.10
+Daha Fazla Seçeneği Göster
+Oyuncu Kart Görür Çifte Şans
+Santiago Ramos Mingo or Nicolas Acevedo
+1.50
+Nicolas Acevedo or Jose Enamorado
+1.57
+David Duarte or Nicolas Acevedo
+1.57
+Santiago Ramos Mingo or David Duarte
+1.73
+Santiago Ramos Mingo or Jose Enamorado
+1.73
+David Duarte or Jose Enamorado
+1.80
+Erick Pulga or Carlos Vinicius
+2.20
+Carlos Vinicius or Erick Noriega
+2.20
+Erick Pulga or Erick Noriega
+2.20
+Cristian Pavon or Erick Noriega
+2.30
+Oyuncu Sarı Kart Görür
+Nicolas Acevedo
+2.46
+Erick
+2.55
+Jean Lucas
+2.75
+Kanu
+2.80
+Pedro Gabriel
+2.90
+Michel Araujo
+2.95
+Marcos Victor
+3.05
+Caio Alexandre
+3.05
+Dodi
+3.05
+Marco Moreno
+3.10
+Rodrigo Nestor
+3.10
+David Duarte
+3.20
+Erick Noriega
+3.20
+Gustavo Martins
+3.25
+Jose Enamorado
+3.25
+Wallace
+3.30
+Danilo Barbosa
+3.45
+Roman Gomez
+3.50
+Luciano Juba
+3.55
+Luiz Gustavo
+3.55
+Ademir
+3.55
+Diego Caito
+3.60
+Marcos Rocha
+3.60
+Lautaro Lopez
+3.65
+Carlos Vinicius
+3.75
+Cristian Kike Olivera
+3.85
+Cristian Pavon
+3.85
+Everton Ribeiro
+3.90
+Erick Pulga
+3.90
+Joao Pedro
+4.10
+Alejo Veliz
+4.10
+Marlon
+4.20
+Francis Amuzu
+4.30
+Caio Paulista
+4.33
+Filip Krovinovic
+4.60
+Tete
+4.70
+Martin Braithwaite
+4.70
+Willian Jose
+4.75
+Fabian Balbuena
+5.00
+Weverton
+7.30
+Ronaldo
+11.00
+Guido Herrera
+11.00
+Gabriel Grando
+12.00
+Kart Görecek İlk Oyuncu
+Nicolas Acevedo
+8.70
+Michel Araujo
+9.10
+Erick Noriega
+9.60
+Pedro Gabriel
+10.00
+Erick
+11.00
+Rodrigo Nestor
+11.00
+Luiz Gustavo
+11.00
+Dodi
+11.00
+Caio Alexandre
+11.00
+Wallace
+11.00
+Jose Enamorado
+11.00
+Jean Lucas
+11.00
+Daha Fazla Seçeneği Göster
+Son Kartı Görecek Oyuncu
+YENİ
+Nicolas Acevedo
+8.70
+Michel Araujo
+9.10
+Erick Noriega
+9.60
+Pedro Gabriel
+10.00
+Lautaro Lopez
+11.00
+Jose Enamorado
+11.00
+Dodi
+11.00
+Jean Lucas
+11.00
+Luiz Gustavo
+11.00
+Erick
+11.00
+Rodrigo Nestor
+11.00
+Caio Alexandre
+11.00
+Wallace
+11.00
+Kanu
+12.00
+Roman Gomez
+12.00
+Marco Moreno
+12.00
+Gustavo Martins
+12.00
+Joao Pedro
+13.00
+Marlon
+13.00
+David Duarte
+13.00
+Ademir
+13.00
+Marcos Victor
+13.00
+Diego Caito
+14.00
+Cristian Kike Olivera
+14.00
+Tete
+14.00
+Erick Pulga
+14.00
+Danilo Barbosa
+14.00
+Everton Ribeiro
+14.00
+Cristian Pavon
+14.00
+Filip Krovinovic
+15.00
+Carlos Vinicius
+15.00
+Francis Amuzu
+15.00
+Martin Braithwaite
+15.00
+Fabian Balbuena
+17.00
+Marcos Rocha
+17.00
+Caio Paulista
+17.00
+Luciano Juba
+17.00
+Alejo Veliz
+17.00
+Willian Jose
+19.00
+Guido Herrera
+31.00
+Ronaldo
+34.00
+Weverton
+34.00
+Gabriel Grando
+36.00
+Oyundan Uzaklaştırılır
+YENİ
+Nicolas Acevedo
+23.00
+Cristian Kike Olivera
+23.00
+Erick
+25.00
+Luiz Gustavo
+25.00
+Michel Araujo
+26.00
+Jose Enamorado
+26.00
+Pedro Gabriel
+29.00
+Ademir
+29.00
+Rodrigo Nestor
+29.00
+Marco Moreno
+29.00
+Kanu
+29.00
+Jean Lucas
+31.00
+Daha Fazla Seçeneği Göster
+Grêmio FB Porto Alegrense : Her İki Yarıda Gol Atar
+Evet
+Hayır
+3.00
+1.34
+EC Bahia Her İki Yarıda Gol Atar
+Evet
+Hayır
+3.25
+1.29
+Grêmio FB Porto Alegrense : Her İki Yarıda Kazanır
+Evet
+Hayır
+6.30
+1.085
+EC Bahia Her İki Yarıda Kazanır
+Evet
+Hayır
+7.30
+1.06
+Grêmio FB Porto Alegrense : İlk Yarıda Gol Atar
+Evet
+Hayır
+1.85
+1.85
+EC Bahia İlk Yarıda Gol Atar
+Evet
+Hayır
+1.94
+1.76
+Grêmio FB Porto Alegrense : İkinci Yarıda Gol Atar
+Evet
+Hayır
+1.59
+2.21
+EC Bahia İkinci Yarıda Gol Atar
+Evet
+Hayır
+1.68
+2.05
+İlk Yarıda Gol
+Evet
+Hayır
+1.29
+3.25
+İkinci Yarıda Gol
+Evet
+Hayır
+1.17
+4.42
+Her İki Yarııda da 1.5 Üst Gol
+Evet
+Hayır
+4.15
+1.19
+Her İki Yarı Goller 1.5 Alt
+Evet
+Hayır
+2.87
+1.36
+Grêmio FB Porto Alegrense Gol Yemeden Kazanır
+Evet
+Hayır
+4.57
+1.16
+EC Bahia Gol Yemeden Kazanır
+Evet
+Hayır
+5.10
+1.13
+Grêmio FB Porto Alegrense İki veya Üç Gol Farkla Kazanır
+Evet
+Hayır
+4.75
+1.15
+EC Bahia İki veya Üç Gol Farkla Kazanır
+Evet
+Hayır
+5.55
+1.11
+Grêmio FB Porto Alegrense Bir Gol Farkla Kazanır veya Berabere
+Evet
+Hayır
+1.95
+1.75
+EC Bahia Bir Gol Farkla Kazanır veya Berabere Kalır
+Evet
+Hayır
+2.00
+1.72
+Grêmio FB Porto Alegrense En Az Bir Yarıyı Kazanır
+Evet
+Hayır
+1.67
+2.07
+EC Bahia En Az Bir Yarıda Kazanır
+Evet
+Hayır
+1.83
+1.87
+Grêmio FB Porto Alegrense İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+7.85
+1.05
+EC Bahia İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+7.85
+1.05
+Grêmio FB Porto Alegrense : Gol Atar 1.Yarı/2.Yarı
+Evet/Hayır
+3.53
+Evet/Evet
+3.00
+Hayır/Hayır
+4.25
+Hayır/Evet
+2.65
+EC Bahia Gol Atar İlk Yarı/İkinci Yarı
+Evet/Hayır
+3.47
+Evet/Evet
+3.25
+Hayır/Hayır
+3.85
+Hayır/Evet
+2.64
+Yarıları Farklı Takımlar Kazanır
+Evet
+Hayır
+4.15
+1.19
+Yarılardan En Az Birinde Beraberlik
+Evet
+Hayır
+1.55
+2.30
+Maç Skoru Beraberlik (0-0 hariç)
+Evet
+Hayır
+3.83
+1.22
+Kesin Gol Sayısı
+Gol Yok
+12.00
+Kesin 1
+5.35
+Kesin 2
+3.83
+Kesin 3
+3.75
+Kesin 4
+4.75
+Kesin 5
+6.30
+Kesin 6 veya Fazla
+7.30
+Maçta 1 Gol Olur
+Evet
+Hayır
+5.35
+1.12
+Maçta 2 Gol Olur
+Evet
+Hayır
+3.83
+1.22
+Maçta 3 Gol Olur
+Evet
+Hayır
+3.75
+1.23
+Maçta 4 Gol Olur
+Evet
+Hayır
+4.75
+1.15
+Grêmio FB Porto Alegrense : Kazanma Marjı
+1
+4.05
+2
+6.50
+3
+9.30
+4+
+19.00
+EC Bahia : Kazanma Marjı
+1
+4.30
+2
+7.30
+3
+13.00
+4+
+26.00
+Skor Kombinasyonları
+1-0 / 2-0 / 3-0
+4.40
+4-0 / 5-0 / 6-0
+29.00
+2-1 / 3-1 / 4-1
+4.75
+3-2 / 4-2 / 4-3
+10.00
+0-1 / 0-2 / 0-3
+4.90
+0-4 / 0-5 / 0-6
+41.00
+1-2 / 1-3 / 1-4
+5.20
+2-3 / 2-4 / 3-4
+11.00
+Ofsaytlar: Toplam
+YENİ
+2+
+1.24
+3+
+1.66
+4+
+2.55
+5+
+4.33
+6+
+7.80
+Ofsaytlar: Grêmio FB Porto Alegrense Toplam
+YENİ
+1+
+1.20
+2+
+1.79
+3+
+3.25
+4+
+6.60
+5+
+13.00
+Ofsaytlar: EC Bahia Toplam
+YENİ
+1+
+1.36
+2+
+2.55
+3+
+5.70
+4+
+11.00
+5+
+21.00
+Fauller: Toplam
+YENİ
+27+
+1.48
+28+
+1.65
+29+
+1.88
+30+
+2.17
+31+
+2.55
+32+
+3.10
+Fauller: Grêmio FB Porto Alegrense - Toplam
+YENİ
+13+
+1.49
+14+
+1.76
+15+
+2.16
+16+
+2.75
+17+
+3.65
+Fauller: EC Bahia - Toplam
+YENİ
+14+
+1.52
+15+
+1.79
+16+
+2.19
+17+
+2.75
+18+
+3.65
+Kaleyi Bulan Şutlar: Toplam
+YENİ
+9+
+1.39
+10+
+1.65
+11+
+2.04
+12+
+2.65
+13+
+3.60
+Kaleyi Bulan Şutlar: Grêmio FB Porto Alegrense - Toplam
+YENİ
+4+
+1.26
+5+
+1.54
+6+
+2.05
+7+
+2.95
+8+
+4.60
+Kaleyi Bulan Şutlar: EC Bahia - Toplam
+YENİ
+3+
+1.15
+4+
+1.36
+5+
+1.76
+6+
+2.48
+7+
+3.80
+8+
+6.30
+Kaleyi Bulan Şutlar: 1. Yarı - Toplam
+YENİ
+3+
+1.16
+4+
+1.39
+5+
+1.85
+6+
+2.70
+7+
+4.33
+8+
+7.50
+Kaleyi Bulan Şutlar: 1. Yarı - Grêmio FB Porto Alegrense - Toplam
+YENİ
+2+
+1.37
+3+
+2.04
+4+
+3.55
+5+
+7.00
+6+
+14.00
+Kaleyi Bulan Şutlar: 1. Yarı - EC Bahia - Toplam
+YENİ
+1+
+1.12
+2+
+1.49
+3+
+2.38
+4+
+4.50
+5+
+9.30
+Kaleyi Bulan Şutlar: 2. Yarı - Toplam
+YENİ
+4+
+1.20
+5+
+1.44
+6+
+1.88
+7+
+2.65
+8+
+4.10
+9+
+6.70
+Kaleyi Bulan Şutlar: 2. Yarı - Grêmio FB Porto Alegrense - Toplam
+YENİ
+2+
+1.25
+3+
+1.70
+4+
+2.65
+5+
+4.60
+6+
+8.50
+Kaleyi Bulan Şutlar: 2. Yarı - EC Bahia - Toplam
+YENİ
+2+
+1.32
+3+
+1.88
+4+
+3.10
+5+
+5.70
+6+
+11.00
+Şutlar: Toplam
+YENİ
+29+
+1.42
+30+
+1.54
+31+
+1.70
+32+
+1.90
+33+
+2.15
+34+
+2.47
+35+
+2.85
+Şutlar: Grêmio FB Porto Alegrense: Toplam
+YENİ
+15+
+1.34
+16+
+1.46
+17+
+1.61
+18+
+1.81
+19+
+2.05
+20+
+2.36
+Şutlar: EC Bahia: Toplam
+YENİ
+13+
+1.22
+14+
+1.32
+15+
+1.44
+16+
+1.59
+17+
+1.79
+18+
+2.05
+Taç Atışları: Toplam
+YENİ
+37+
+1.84
+38+
+2.04
+39+
+2.30
+Taç Atışları: Grêmio FB Porto Alegrense - Toplam
+YENİ
+19+
+1.80
+20+
+2.09
+21+
+2.49
+Taç Atışları: EC Bahia - Toplam
+YENİ
+18+
+1.75
+19+
+2.03
+20+
+2.43
+Paslar: Grêmio FB Porto Alegrense Toplam
+YENİ
+300+
+1.13
+350+
+1.36
+400+
+1.96
+450+
+3.30
+Paslar: EC Bahia Toplam
+YENİ
+350+
+1.12
+400+
+1.28
+450+
+1.66
+500+
+2.46
+550+
+3.90
+Pas Denemeleri: Grêmio FB Porto Alegrense Toplam
+YENİ
+400+
+1.22
+450+
+1.63
+500+
+2.70
+Pas Denemeleri: EC Bahia Toplam
+YENİ
+450+
+1.18
+500+
+1.45
+550+
+2.11
+600+
+3.50
+İlk 10 Dakika (00:00 - 09:59) Gol
+Üst
+Alt
+0.5
+3.90
+1.21
+İlk 10 Dakika (00:00 - 09:59) Köşe vuruşu
+Üst
+Alt
+0.5
+1.44
+2.59
+1.5
+2.95
+1.35
+Grêmio FB Porto Alegrense : İlk 10 Dakika (00:00 – 09:59) Kornerler
+Üst
+Alt
+0.5
+2.05
+1.68
+1.5
+6.00
+1.095
+EC Bahia : İlk 10 Dakika (00:00 – 09:59) Kornerler
+Üst
+Alt
+0.5
+2.25
+1.57
+1.5
+6.50
+1.08
+İlk 10 Dakika (00:00 - 09:59) Sarı Kartlar
+Üst
+Alt
+0.5
+5.10
+1.13
+1-15 Dk. Galibi
+Grêmio FB Porto Alegrense
+X
+EC Bahia
+5.50
+1.25
+6.00
+1-15 Dk. Gol Handikapı
+Grêmio FB Porto Alegrense
+EC Bahia
+0
+1.79
+0
+1.95
+1-15 Dk. Toplam Goller
+Üst
+Alt
+0.5
+2.62
+1.43
+1
+7.10
+1.065
+1-15 Dk. Grêmio FB Porto Alegrense Toplam Goller
+Üst
+Alt
+0.5
+4.15
+1.19
+1-15 Dk. EC Bahia Toplam Goller
+Üst
+Alt
+0.5
+4.42
+1.17
+1-15 Dk. İki Takım Gol Atar
+Evet
+Hayır
+10.80
+1.012
+1-30 Dk. Galibi
+Grêmio FB Porto Alegrense
+X
+EC Bahia
+3.45
+1.67
+3.84
+1-30 Dk. Gol Handikapı
+Grêmio FB Porto Alegrense
+EC Bahia
+0
+1.77
+0
+1.98
+1-30 Dk. Toplam Goller
+Üst
+Alt
+0.5
+1.61
+2.17
+1
+2.62
+1.43
+1-30 Dk. Grêmio FB Porto Alegrense Toplam Goller
+Üst
+Alt
+0.5
+2.45
+1.48
+1
+6.50
+1.08
+1-30 Dk. EC Bahia Toplam Goller
+Üst
+Alt
+0.5
+2.62
+1.43
+1
+7.30
+1.06
+1-30 Dk. Karşılıklı Gol
+Evet
+Hayır
+6.00
+1.095
+1-60 Dk. Galibi
+Grêmio FB Porto Alegrense
+X
+EC Bahia
+2.47
+2.57
+2.81
+1-60 Dk. Gol Handikapı
+Grêmio FB Porto Alegrense
+EC Bahia
+0
+1.75
+0
+2.00
+1-60 Dk. Toplam Goller
+Üst
+Alt
+1.5
+1.64
+2.15
+2
+2.17
+1.61
+1-60 Dk. Grêmio FB Porto Alegrense Toplam Goller
+Üst
+Alt
+0.5
+1.48
+2.45
+1
+2.15
+1.62
+1-60 Dk. EC Bahia Toplam Goller
+Üst
+Alt
+0.5
+1.56
+2.27
+1
+2.40
+1.50
+1-60 Dk. Karşılıklı Gol
+Evet
+Hayır
+2.37
+1.52
+1-75 Dk. Galibi
+Grêmio FB Porto Alegrense
+X
+EC Bahia
+2.30
+2.98
+2.64
+1-75 Dk. Gol Handikapı
+Grêmio FB Porto Alegrense
+EC Bahia
+0
+1.75
+0
+2.00
+1-75 Dk. Toplam Goller
+Üst
+Alt
+2
+1.52
+2.37
+2.5
+2.00
+1.72
+1-75 Dk. Grêmio FB Porto Alegrense Toplam Goller
+Üst
+Alt
+1
+1.60
+2.20
+1.5
+2.39
+1.51
+1-75 Dk. EC Bahia Toplam Goller
+Üst
+Alt
+1
+1.76
+1.94
+1.5
+2.65
+1.42
+1-75 Dk. Karşılıklı Gol
+Evet
+Hayır
+1.82
+1.88
+Farklı Kombineler
+Grêmio FB Porto Alegrense Kazanır veya Üst (2.5) Gol
+1.30
+Beraberlik veya Üst 2.5 Gol
+1.23
+EC Bahia Kazanır veya 2.5 Üst Gol
+1.32
+Grêmio FB Porto Alegrense Kazanır veya Alt (2.5) Gol
+1.34
+Beraberlik veya Alt 2.5 Gol
+1.70
+EC Bahia kazanır veya 2,5 alt gol
+1.41
+Daha Fazla Seçeneği Göster
+Çifte Şans Kombo
+1X ve Üst (2.5) Gol
+2.45
+1X ve Alt (2.5) Gol
+2.84
+X2 ve Üst (2.5) Gol
+2.70
+X2 ve Alt (2.5) Gol
+2.95
+12 ve Üst (2.5) Gol
+1.85
+12 ve Alt (2.5) Gol
+3.13
+1X ve Karşılıklı Gol Olur
+1.94
+Grêmio FB Porto Alegrense 0'a karşı kazanır veya Doğru Skor 0-0
+3.85
+X2 ve Karşılıklı Gol Olur
+2.04
+EC Bahia 0'a karşı kazanır veya Doğru Skor 0 : 0
+4.25
+12 ve Karşılıklı Gol Olur
+2.06
+Grêmio FB Porto Alegrense veya EC Bahia - Gol Yemeden Kazanır
+2.45
+Daha Fazla Seçeneği Göster
+1.Yarı/Maç Skoru
+0-0/0-0
+15.00
+0-1/0-1
+17.00
+0-2/0-2
+46.00
+0-3/0-3
+151.00
+0-4/0-4
+276.00
+1-0/1-0
+15.00
+1-1/1-1
+23.00
+1-2/1-2
+56.00
+1-3/1-3
+201.00
+1-4/1-4
+276.00
+2-0/2-0
+36.00
+2-1/2-1
+56.00
+2-2/2-2
+141.00
+2-3/2-3
+276.00
+2-4/2-4
+276.00
+3-0/3-0
+126.00
+3-1/3-1
+176.00
+3-2/3-2
+276.00
+Daha Fazla Seçeneği Göster
+Karşılıklı Gol ve Toplam Goller 2.5
+Evet ve Üst 2.5
+1.74
+Evet ve Alt 2.5
+5.40
+Hayır ve Üst 2.5
+7.40
+Hayır ve Alt 2.5
+2.70
+Karşılıklı Gol ve Toplam Goller 3.5
+Evet ve Üst 3.5
+2.43
+Evet ve Alt 3.5
+2.68
+Hayır ve Üst 3.5
+19.00
+Hayır ve Alt 3.5
+2.33
+Her İki Yarıda da Karşılıklı Gol
+Evet
+Hayır
+7.70
+1.05
+İlk Golü Atacak Takım ve Maç Sonucu
+Grêmio FB Porto Alegrense ve Grêmio FB Porto Alegrense
+2.47
+Grêmio FB Porto Alegrense ve Berabere
+6.00
+Grêmio FB Porto Alegrense ve EC Bahia
+9.80
+EC Bahia ve Grêmio FB Porto Alegrense
+9.00
+EC Bahia ve Berabere
+6.00
+EC Bahia ve EC Bahia
+2.78
+Gol Yok
+15.00
+İlk Golü Atacak Takım ve 1. Yarı Sonucu
+Grêmio FB Porto Alegrense ve Grêmio FB Porto Alegrense
+2.62
+Grêmio FB Porto Alegrense ve Berabere
+4.00
+Grêmio FB Porto Alegrense ve EC Bahia
+29.00
+EC Bahia ve Grêmio FB Porto Alegrense
+26.00
+EC Bahia ve Berabere
+4.20
+EC Bahia ve EC Bahia
+2.88
+Gol Yok
+15.00
+İlk Golü Atacak Takım ve 2. Yarı Sonucu
+Grêmio FB Porto Alegrense ve Grêmio FB Porto Alegrense
+3.39
+Grêmio FB Porto Alegrense ve Berabere
+4.60
+Grêmio FB Porto Alegrense ve EC Bahia
+5.40
+EC Bahia ve Grêmio FB Porto Alegrense
+5.20
+EC Bahia ve Berabere
+4.90
+EC Bahia ve EC Bahia
+3.94
+Gol Yok
+15.00
+1.Yarı Toplam Gol 'e karşı 2. Yarı Toplam Gol Handikapı
+İlk Yarı Toplam Goller
+İkinci Yarı Toplam Goller
++1.5
+1.26
+-1.5
+3.47
++0.5
+1.13
+-0.5
+1.89
+-0.5
+2.77
++0.5
+1.07
+Grêmio FB Porto Alegrense : Geriden Gelerek Kazanır
+Evet
+Hayır
+6.55
+1.05
+EC Bahia : Geriden Kazanır
+Evet
+Hayır
+7.00
+1.04
+İlk Yarı/Maç Sonucu ve Toplam Gol
+Grêmio FB Porto Alegrense/Grêmio FB Porto Alegrense ve Üst (1.5)
+3.55
+Grêmio FB Porto Alegrense/Grêmio FB Porto Alegrense ve Alt (1.5)
+15.00
+Grêmio FB Porto Alegrense/Beraberlik ve Üst (1.5)
+11.00
+Grêmio FB Porto Alegrense/EC Bahia ve Üst (1.5)
+21.00
+Beraberlik/Grêmio FB Porto Alegrense ve Üst (1.5)
+6.70
+Beraberlik/Grêmio FB Porto Alegrense ve Alt (1.5)
+13.00
+Beraberlik/Beraberlik ve Üst (1.5)
+7.30
+Beraberlik/Beraberlik ve Alt (1.5)
+12.00
+Beraberlik/EC Bahia ve Üst (1.5)
+7.60
+Beraberlik/EC Bahia ve Alt (1.5)
+14.00
+EC Bahia/Grêmio FB Porto Alegrense ve Üst (1.5)
+19.00
+EC Bahia/Beraberlik ve Üst (1.5)
+11.00
+Daha Fazla Seçeneği Göster
+Oyuncu Kaleyi Bulan Şutlar
+YENİ
+Ademir 1+
+1.62
+Ademir 2+
+3.95
+Ademir 3+
+11.00
+Ademir 4+
+21.00
+Alejo Veliz 1+
+1.40
+Alejo Veliz 2+
+2.80
+Alejo Veliz 3+
+7.00
+Alejo Veliz 4+
+15.00
+Caio Alexandre 1+
+4.85
+Caio Alexandre 2+
+17.00
+Caio Paulista 1+
+3.50
+Caio Paulista 2+
+14.00
+Caio Paulista 3+
+31.00
+Carlos Vinicius 1+
+1.27
+Carlos Vinicius 2+
+2.18
+Carlos Vinicius 3+
+4.80
+Carlos Vinicius 4+
+12.00
+Cristian Kike Olivera 1+
+1.56
+Cristian Kike Olivera 2+
+3.65
+Cristian Kike Olivera 3+
+10.00
+Cristian Kike Olivera 4+
+19.00
+Cristian Pavon 1+
+1.55
+Cristian Pavon 2+
+3.55
+Cristian Pavon 3+
+9.70
+Cristian Pavon 4+
+21.00
+Danilo Barbosa 1+
+2.65
+Danilo Barbosa 2+
+9.40
+Danilo Barbosa 3+
+19.00
+Danilo Barbosa 4+
+36.00
+David Duarte 1+
+3.95
+David Duarte 2+
+14.00
+David Duarte 3+
+36.00
+Diego Caito 1+
+2.55
+Diego Caito 2+
+9.50
+Diego Caito 3+
+21.00
+Diego Caito 4+
+36.00
+Dodi 1+
+4.20
+Dodi 2+
+14.00
+Erick 1+
+2.33
+Erick 2+
+8.10
+Erick 3+
+19.00
+Erick Noriega 1+
+3.40
+Erick Noriega 2+
+13.00
+Erick Noriega 3+
+31.00
+Erick Pulga 1+
+1.55
+Erick Pulga 2+
+3.55
+Erick Pulga 3+
+10.00
+Erick Pulga 4+
+19.00
+Everton Ribeiro 1+
+2.21
+Everton Ribeiro 2+
+7.30
+Everton Ribeiro 3+
+19.00
+Fabian Balbuena 1+
+3.60
+Fabian Balbuena 2+
+14.00
+Fabian Balbuena 3+
+31.00
+Filip Krovinovic 1+
+1.77
+Filip Krovinovic 2+
+4.85
+Filip Krovinovic 3+
+14.00
+Filip Krovinovic 4+
+26.00
+Francis Amuzu 1+
+1.43
+Francis Amuzu 2+
+2.95
+Francis Amuzu 3+
+7.70
+Francis Amuzu 4+
+17.00
+Gustavo Martins 1+
+3.10
+Gustavo Martins 2+
+12.00
+Gustavo Martins 3+
+26.00
+Jean Lucas 1+
+2.28
+Jean Lucas 2+
+7.80
+Jean Lucas 3+
+19.00
+Joao Pedro 1+
+3.30
+Joao Pedro 2+
+11.00
+Joao Pedro 3+
+31.00
+Jose Enamorado 1+
+1.63
+Jose Enamorado 2+
+4.00
+Jose Enamorado 3+
+12.00
+Jose Enamorado 4+
+21.00
+Kanu 1+
+6.00
+Kanu 2+
+17.00
+Lautaro Lopez 1+
+5.50
+Lautaro Lopez 2+
+15.00
+Luciano Juba 1+
+2.35
+Luciano Juba 2+
+8.10
+Luciano Juba 3+
+21.00
+Luiz Gustavo 1+
+5.70
+Luiz Gustavo 2+
+17.00
+Marco Moreno 1+
+4.50
+Marco Moreno 2+
+17.00
+Marcos Rocha 1+
+4.60
+Marcos Rocha 2+
+14.00
+Marcos Rocha 3+
+36.00
+Marcos Victor 1+
+5.10
+Marcos Victor 2+
+19.00
+Marlon 1+
+2.19
+Marlon 2+
+7.00
+Marlon 3+
+17.00
+Martin Braithwaite 1+
+1.34
+Martin Braithwaite 2+
+2.47
+Martin Braithwaite 3+
+5.70
+Martin Braithwaite 4+
+12.00
+Michel Araujo 1+
+2.03
+Michel Araujo 2+
+6.30
+Michel Araujo 3+
+17.00
+Michel Araujo 4+
+36.00
+Nicolas Acevedo 1+
+3.05
+Nicolas Acevedo 2+
+12.00
+Nicolas Acevedo 3+
+26.00
+Pedro Gabriel 1+
+3.10
+Pedro Gabriel 2+
+12.00
+Pedro Gabriel 3+
+29.00
+Rodrigo Nestor 1+
+1.88
+Rodrigo Nestor 2+
+5.40
+Rodrigo Nestor 3+
+15.00
+Rodrigo Nestor 4+
+31.00
+Roman Gomez 1+
+5.00
+Roman Gomez 2+
+17.00
+Tete 1+
+1.44
+Tete 2+
+2.90
+Tete 3+
+7.40
+Tete 4+
+17.00
+Wallace 1+
+3.30
+Wallace 2+
+13.00
+Wallace 3+
+29.00
+Willian Jose 1+
+1.44
+Willian Jose 2+
+3.00
+Willian Jose 3+
+7.70
+Willian Jose 4+
+17.00
+Oyuncu Şutları
+YENİ
+Ademir 2+
+1.28
+Ademir 3+
+1.83
+Ademir 4+
+3.10
+Ademir 5+
+6.00
+Alejo Veliz 2+
+1.20
+Alejo Veliz 3+
+1.58
+Alejo Veliz 4+
+2.42
+Alejo Veliz 5+
+4.30
+Caio Alexandre 1+
+1.47
+Caio Alexandre 2+
+3.15
+Caio Alexandre 3+
+8.50
+Caio Alexandre 4+
+17.00
+Caio Paulista 1+
+1.38
+Caio Paulista 2+
+2.70
+Caio Paulista 3+
+6.80
+Caio Paulista 4+
+17.00
+Carlos Vinicius 3+
+1.43
+Carlos Vinicius 4+
+2.05
+Carlos Vinicius 5+
+3.35
+Carlos Vinicius 6+
+6.20
+Cristian Kike Olivera 2+
+1.31
+Cristian Kike Olivera 3+
+1.90
+Cristian Kike Olivera 4+
+3.30
+Cristian Kike Olivera 5+
+6.50
+Cristian Pavon 2+
+1.30
+Cristian Pavon 3+
+1.88
+Cristian Pavon 4+
+3.20
+Cristian Pavon 5+
+6.00
+Danilo Barbosa 1+
+1.45
+Danilo Barbosa 2+
+3.10
+Danilo Barbosa 3+
+8.00
+Danilo Barbosa 4+
+19.00
+David Duarte 1+
+1.53
+David Duarte 2+
+3.50
+David Duarte 3+
+9.50
+David Duarte 4+
+21.00
+Diego Caito 1+
+1.27
+Diego Caito 2+
+2.17
+Diego Caito 3+
+4.75
+Diego Caito 4+
+11.00
+Dodi 1+
+1.70
+Dodi 2+
+4.40
+Dodi 3+
+13.00
+Dodi 4+
+25.00
+Erick 1+
+1.21
+Erick 2+
+1.92
+Erick 3+
+3.90
+Erick 4+
+9.10
+Erick Noriega 1+
+1.31
+Erick Noriega 2+
+2.38
+Erick Noriega 3+
+5.60
+Erick Noriega 4+
+13.00
+Erick Pulga 2+
+1.29
+Erick Pulga 3+
+1.85
+Erick Pulga 4+
+3.15
+Erick Pulga 5+
+6.20
+Everton Ribeiro 1+
+1.17
+Everton Ribeiro 2+
+1.74
+Everton Ribeiro 3+
+3.25
+Everton Ribeiro 4+
+7.30
+Fabian Balbuena 1+
+1.62
+Fabian Balbuena 2+
+4.00
+Fabian Balbuena 3+
+11.00
+Fabian Balbuena 4+
+21.00
+Filip Krovinovic 2+
+1.35
+Filip Krovinovic 3+
+2.04
+Filip Krovinovic 4+
+3.65
+Filip Krovinovic 5+
+7.50
+Francis Amuzu 3+
+1.48
+Francis Amuzu 4+
+2.16
+Francis Amuzu 5+
+3.65
+Francis Amuzu 6+
+6.80
+Gustavo Martins 1+
+1.31
+Gustavo Martins 2+
+2.39
+Gustavo Martins 3+
+5.50
+Gustavo Martins 4+
+13.00
+Jean Lucas 1+
+1.19
+Jean Lucas 2+
+1.81
+Jean Lucas 3+
+3.50
+Jean Lucas 4+
+7.70
+Joao Pedro 1+
+1.51
+Joao Pedro 2+
+3.35
+Joao Pedro 3+
+8.70
+Joao Pedro 4+
+19.00
+Jose Enamorado 2+
+1.30
+Jose Enamorado 3+
+1.87
+Jose Enamorado 4+
+3.15
+Jose Enamorado 5+
+6.20
+Kanu 1+
+2.50
+Kanu 2+
+7.70
+Kanu 3+
+23.00
+Lautaro Lopez 1+
+1.51
+Lautaro Lopez 2+
+3.35
+Lautaro Lopez 3+
+9.20
+Lautaro Lopez 4+
+17.00
+Luciano Juba 1+
+1.27
+Luciano Juba 2+
+2.18
+Luciano Juba 3+
+4.70
+Luciano Juba 4+
+10.00
+Luiz Gustavo 1+
+2.50
+Luiz Gustavo 2+
+9.30
+Luiz Gustavo 3+
+21.00
+Marco Moreno 1+
+2.06
+Marco Moreno 2+
+6.00
+Marco Moreno 3+
+17.00
+Marcos Rocha 1+
+1.42
+Marcos Rocha 2+
+2.90
+Marcos Rocha 3+
+7.50
+Marcos Rocha 4+
+17.00
+Marcos Victor 1+
+2.15
+Marcos Victor 2+
+6.60
+Marcos Victor 3+
+17.00
+Marlon 1+
+1.26
+Marlon 2+
+2.13
+Marlon 3+
+4.50
+Marlon 4+
+10.00
+Martin Braithwaite 2+
+1.17
+Martin Braithwaite 3+
+1.50
+Martin Braithwaite 4+
+2.20
+Martin Braithwaite 5+
+3.65
+Martin Braithwaite 6+
+6.50
+Michel Araujo 1+
+1.12
+Michel Araujo 2+
+1.50
+Michel Araujo 3+
+2.50
+Michel Araujo 4+
+4.90
+Michel Araujo 5+
+10.00
+Nicolas Acevedo 1+
+1.34
+Nicolas Acevedo 2+
+2.50
+Nicolas Acevedo 3+
+6.20
+Nicolas Acevedo 4+
+14.00
+Pedro Gabriel 1+
+1.53
+Pedro Gabriel 2+
+3.50
+Pedro Gabriel 3+
+9.70
+Pedro Gabriel 4+
+21.00
+Rodrigo Nestor 2+
+1.41
+Rodrigo Nestor 3+
+2.21
+Rodrigo Nestor 4+
+4.20
+Rodrigo Nestor 5+
+8.70
+Roman Gomez 1+
+1.44
+Roman Gomez 2+
+3.00
+Roman Gomez 3+
+7.80
+Roman Gomez 4+
+17.00
+Tete 2+
+1.19
+Tete 3+
+1.54
+Tete 4+
+2.31
+Tete 5+
+3.95
+Tete 6+
+7.50
+Wallace 1+
+1.41
+Wallace 2+
+2.85
+Wallace 3+
+7.20
+Wallace 4+
+17.00
+Willian Jose 2+
+1.26
+Willian Jose 3+
+1.76
+Willian Jose 4+
+2.90
+Willian Jose 5+
+5.40
+Oyuncu Pasları
+YENİ
+Ademir 25+
+1.36
+Ademir 30+
+1.68
+Ademir 35+
+2.27
+Ademir 40+
+3.40
+Alejo Veliz 15+
+1.41
+Alejo Veliz 20+
+1.78
+Alejo Veliz 25+
+2.46
+Alejo Veliz 30+
+3.75
+Caio Alexandre 80+
+1.59
+Caio Alexandre 85+
+1.84
+Caio Alexandre 90+
+2.20
+Caio Alexandre 95+
+2.70
+Caio Paulista 40+
+1.36
+Caio Paulista 45+
+1.67
+Caio Paulista 50+
+2.24
+Caio Paulista 55+
+3.20
+Carlos Vinicius 15+
+3.25
+Cristian Kike Olivera 30+
+1.60
+Cristian Kike Olivera 35+
+2.13
+Cristian Kike Olivera 40+
+3.10
+Danilo Barbosa 40+
+1.43
+Danilo Barbosa 45+
+1.80
+Danilo Barbosa 50+
+2.49
+Danilo Barbosa 55+
+3.65
+David Duarte 60+
+1.47
+David Duarte 65+
+1.74
+David Duarte 70+
+2.16
+David Duarte 75+
+2.80
+Diego Caito 40+
+1.42
+Diego Caito 45+
+1.79
+Diego Caito 50+
+2.46
+Diego Caito 55+
+3.60
+Dodi 35+
+1.34
+Dodi 40+
+1.65
+Dodi 45+
+2.21
+Dodi 50+
+3.25
+Erick 40+
+1.54
+Erick 45+
+2.01
+Erick 50+
+2.90
+Fabian Balbuena 40+
+1.47
+Fabian Balbuena 45+
+1.88
+Fabian Balbuena 50+
+2.65
+Fabian Balbuena 55+
+3.90
+Francis Amuzu 25+
+1.34
+Francis Amuzu 30+
+1.64
+Francis Amuzu 35+
+2.20
+Francis Amuzu 40+
+3.25
+Gustavo Martins 45+
+1.48
+Gustavo Martins 50+
+1.86
+Gustavo Martins 55+
+2.50
+Gustavo Martins 60+
+3.60
+Jean Lucas 40+
+1.42
+Jean Lucas 45+
+1.79
+Jean Lucas 50+
+2.46
+Jean Lucas 55+
+3.55
+Joao Pedro 30+
+1.57
+Joao Pedro 35+
+2.07
+Joao Pedro 40+
+3.00
+Jose Enamorado 25+
+1.62
+Jose Enamorado 30+
+2.17
+Jose Enamorado 35+
+3.20
+Kanu 70+
+1.55
+Kanu 75+
+1.83
+Kanu 80+
+2.23
+Kanu 85+
+2.80
+Lautaro Lopez 50+
+1.37
+Lautaro Lopez 55+
+1.62
+Lautaro Lopez 60+
+2.03
+Lautaro Lopez 65+
+2.70
+Lautaro Lopez 70+
+3.65
+Luciano Juba 45+
+1.42
+Luciano Juba 50+
+1.75
+Luciano Juba 55+
+2.30
+Luciano Juba 60+
+3.20
+Luiz Gustavo 55+
+1.46
+Luiz Gustavo 60+
+1.75
+Luiz Gustavo 65+
+2.20
+Luiz Gustavo 70+
+2.90
+Marco Moreno 55+
+1.51
+Marco Moreno 60+
+1.83
+Marco Moreno 65+
+2.34
+Marco Moreno 70+
+3.15
+Marcos Rocha 40+
+1.32
+Marcos Rocha 45+
+1.60
+Marcos Rocha 50+
+2.09
+Marcos Rocha 55+
+2.95
+Marlon 40+
+1.54
+Marlon 45+
+2.02
+Marlon 50+
+2.90
+Pedro Gabriel 30+
+1.55
+Pedro Gabriel 35+
+2.04
+Pedro Gabriel 40+
+2.95
+Roman Gomez 45+
+1.39
+Roman Gomez 50+
+1.68
+Roman Gomez 55+
+2.19
+Roman Gomez 60+
+3.00
+Tete 35+
+1.44
+Tete 40+
+1.83
+Tete 45+
+2.55
+Tete 50+
+3.90
+Wallace 55+
+1.55
+Wallace 60+
+1.90
+Wallace 65+
+2.46
+Wallace 70+
+3.30
+Willian Jose 20+
+1.35
+Willian Jose 25+
+1.66
+Willian Jose 30+
+2.23
+Willian Jose 35+
+3.30
+Oyuncu Pas Denemeleri
+YENİ
+Ademir 30+
+1.33
+Ademir 35+
+1.62
+Ademir 40+
+2.16
+Ademir 45+
+3.20
+Alejo Veliz 20+
+1.44
+Alejo Veliz 25+
+1.83
+Alejo Veliz 30+
+2.55
+Alejo Veliz 35+
+3.90
+Caio Alexandre 100+
+2.49
+Caio Alexandre 85+
+1.49
+Caio Alexandre 90+
+1.71
+Caio Alexandre 95+
+2.03
+Caio Paulista 50+
+1.53
+Caio Paulista 55+
+1.97
+Caio Paulista 60+
+2.75
+Caio Paulista 65+
+3.95
+Carlos Vinicius 20+
+3.95
+Cristian Kike Olivera 35+
+1.45
+Cristian Kike Olivera 40+
+1.86
+Cristian Kike Olivera 45+
+2.60
+Cristian Kike Olivera 50+
+4.00
+Danilo Barbosa 50+
+1.52
+Danilo Barbosa 55+
+1.94
+Danilo Barbosa 60+
+2.70
+Danilo Barbosa 65+
+3.90
+David Duarte 70+
+1.63
+David Duarte 75+
+1.99
+David Duarte 80+
+2.55
+David Duarte 85+
+3.40
+Diego Caito 50+
+1.47
+Diego Caito 55+
+1.85
+Diego Caito 60+
+2.50
+Diego Caito 65+
+3.60
+Dodi 40+
+1.38
+Dodi 45+
+1.72
+Dodi 50+
+2.35
+Dodi 55+
+3.50
+Erick 45+
+1.48
+Erick 50+
+1.91
+Erick 55+
+2.70
+Fabian Balbuena 45+
+1.33
+Fabian Balbuena 50+
+1.62
+Fabian Balbuena 55+
+2.15
+Fabian Balbuena 60+
+3.05
+Francis Amuzu 30+
+1.35
+Francis Amuzu 35+
+1.66
+Francis Amuzu 40+
+2.25
+Francis Amuzu 45+
+3.35
+Gustavo Martins 50+
+1.43
+Gustavo Martins 55+
+1.77
+Gustavo Martins 60+
+2.37
+Gustavo Martins 65+
+3.35
+Jean Lucas 45+
+1.40
+Jean Lucas 50+
+1.75
+Jean Lucas 55+
+2.39
+Jean Lucas 60+
+3.50
+Joao Pedro 35+
+1.45
+Joao Pedro 40+
+1.84
+Joao Pedro 45+
+2.60
+Joao Pedro 50+
+3.95
+Jose Enamorado 30+
+1.52
+Jose Enamorado 35+
+1.97
+Jose Enamorado 40+
+2.80
+Kanu 75+
+1.61
+Kanu 80+
+1.93
+Kanu 85+
+2.42
+Kanu 90+
+3.15
+Lautaro Lopez 60+
+1.51
+Lautaro Lopez 65+
+1.85
+Lautaro Lopez 70+
+2.41
+Lautaro Lopez 75+
+3.30
+Luciano Juba 55+
+1.51
+Luciano Juba 60+
+1.88
+Luciano Juba 65+
+2.50
+Luciano Juba 70+
+3.50
+Luiz Gustavo 65+
+1.52
+Luiz Gustavo 70+
+1.84
+Luiz Gustavo 75+
+2.35
+Luiz Gustavo 80+
+3.15
+Marco Moreno 60+
+1.40
+Marco Moreno 65+
+1.65
+Marco Moreno 70+
+2.07
+Marco Moreno 75+
+2.75
+Marcos Rocha 55+
+1.51
+Marcos Rocha 60+
+1.88
+Marcos Rocha 65+
+2.50
+Marcos Rocha 70+
+3.50
+Marlon 45+
+1.32
+Marlon 50+
+1.60
+Marlon 55+
+2.09
+Marlon 60+
+2.95
+Pedro Gabriel 35+
+1.40
+Pedro Gabriel 40+
+1.76
+Pedro Gabriel 45+
+2.43
+Pedro Gabriel 50+
+3.65
+Roman Gomez 55+
+1.55
+Roman Gomez 60+
+1.95
+Roman Gomez 65+
+2.65
+Roman Gomez 70+
+3.70
+Tete 40+
+1.31
+Tete 45+
+1.58
+Tete 50+
+2.09
+Tete 55+
+3.05
+Wallace 60+
+1.52
+Wallace 65+
+1.86
+Wallace 70+
+2.42
+Wallace 75+
+3.30
+Willian Jose 30+
+1.51
+Willian Jose 35+
+1.96
+Willian Jose 40+
+2.80
+Oyuncunun Yaptığı Fauller
+YENİ
+Ademir 1+
+1.25
+Ademir 2+
+2.09
+Ademir 3+
+4.60
+Ademir 4+
+11.00
+Alejo Veliz 1+
+1.27
+Alejo Veliz 2+
+2.17
+Alejo Veliz 3+
+4.80
+Alejo Veliz 4+
+11.00
+Caio Alexandre 1+
+1.15
+Caio Alexandre 2+
+1.63
+Caio Alexandre 3+
+2.90
+Caio Alexandre 4+
+6.20
+Caio Paulista 1+
+1.43
+Caio Paulista 2+
+2.95
+Caio Paulista 3+
+7.70
+Caio Paulista 4+
+15.00
+Carlos Vinicius 1+
+1.29
+Carlos Vinicius 2+
+2.29
+Carlos Vinicius 3+
+5.20
+Carlos Vinicius 4+
+11.00
+Cristian Kike Olivera 1+
+1.34
+Cristian Kike Olivera 2+
+2.55
+Cristian Kike Olivera 3+
+6.20
+Cristian Kike Olivera 4+
+13.00
+Cristian Pavon 1+
+1.46
+Cristian Pavon 2+
+3.15
+Cristian Pavon 3+
+8.40
+Cristian Pavon 4+
+17.00
+Danilo Barbosa 1+
+1.28
+Danilo Barbosa 2+
+2.21
+Danilo Barbosa 3+
+4.85
+Danilo Barbosa 4+
+11.00
+David Duarte 1+
+1.40
+David Duarte 2+
+2.80
+David Duarte 3+
+7.00
+David Duarte 4+
+14.00
+Diego Caito 1+
+1.34
+Diego Caito 2+
+2.55
+Diego Caito 3+
+6.20
+Diego Caito 4+
+13.00
+Dodi 1+
+1.19
+Dodi 2+
+1.82
+Dodi 3+
+3.45
+Dodi 4+
+7.20
+Erick 1+
+1.18
+Erick 2+
+1.77
+Erick 3+
+3.40
+Erick 4+
+7.60
+Erick Noriega 1+
+1.15
+Erick Noriega 2+
+1.62
+Erick Noriega 3+
+2.85
+Erick Noriega 4+
+5.80
+Erick Pulga 1+
+1.28
+Erick Pulga 2+
+2.23
+Erick Pulga 3+
+5.00
+Erick Pulga 4+
+12.00
+Everton Ribeiro 1+
+1.32
+Everton Ribeiro 2+
+2.44
+Everton Ribeiro 3+
+5.80
+Everton Ribeiro 4+
+13.00
+Fabian Balbuena 1+
+1.72
+Fabian Balbuena 2+
+4.60
+Fabian Balbuena 3+
+13.00
+Fabian Balbuena 4+
+23.00
+Filip Krovinovic 1+
+1.31
+Filip Krovinovic 2+
+2.34
+Filip Krovinovic 3+
+5.30
+Filip Krovinovic 4+
+11.00
+Francis Amuzu 1+
+1.42
+Francis Amuzu 2+
+2.90
+Francis Amuzu 3+
+7.50
+Francis Amuzu 4+
+15.00
+Gabriel Grando 1+
+8.00
+Guido Herrera 1+
+26.00
+Gustavo Martins 1+
+1.34
+Gustavo Martins 2+
+2.50
+Gustavo Martins 3+
+6.20
+Gustavo Martins 4+
+13.00
+Jean Lucas 1+
+1.16
+Jean Lucas 2+
+1.69
+Jean Lucas 3+
+3.10
+Jean Lucas 4+
+6.70
+Joao Pedro 1+
+1.33
+Joao Pedro 2+
+2.50
+Joao Pedro 3+
+6.20
+Joao Pedro 4+
+13.00
+Jose Enamorado 1+
+1.22
+Jose Enamorado 2+
+1.95
+Jose Enamorado 3+
+4.10
+Jose Enamorado 4+
+9.30
+Kanu 1+
+1.46
+Kanu 2+
+3.10
+Kanu 3+
+8.40
+Kanu 4+
+17.00
+Lautaro Lopez 1+
+1.28
+Lautaro Lopez 2+
+2.23
+Lautaro Lopez 3+
+5.10
+Lautaro Lopez 4+
+12.00
+Luciano Juba 1+
+1.56
+Luciano Juba 2+
+3.65
+Luciano Juba 3+
+10.00
+Luciano Juba 4+
+21.00
+Luiz Gustavo 1+
+1.40
+Luiz Gustavo 2+
+2.85
+Luiz Gustavo 3+
+7.50
+Luiz Gustavo 4+
+13.00
+Marco Moreno 1+
+1.41
+Marco Moreno 2+
+2.85
+Marco Moreno 3+
+7.40
+Marco Moreno 4+
+14.00
+Marcos Rocha 1+
+1.43
+Marcos Rocha 2+
+2.95
+Marcos Rocha 3+
+7.70
+Marcos Rocha 4+
+15.00
+Marcos Victor 1+
+1.40
+Marcos Victor 2+
+2.80
+Marcos Victor 3+
+7.10
+Marcos Victor 4+
+15.00
+Marlon 1+
+1.33
+Marlon 2+
+2.48
+Marlon 3+
+6.20
+Marlon 4+
+13.00
+Martin Braithwaite 1+
+1.26
+Martin Braithwaite 2+
+2.11
+Martin Braithwaite 3+
+4.50
+Martin Braithwaite 4+
+9.60
+Michel Araujo 1+
+1.12
+Michel Araujo 2+
+1.52
+Michel Araujo 3+
+2.55
+Michel Araujo 4+
+5.10
+Michel Araujo 5+
+11.00
+Nicolas Acevedo 2+
+1.36
+Nicolas Acevedo 3+
+2.07
+Nicolas Acevedo 4+
+3.75
+Nicolas Acevedo 5+
+7.60
+Pedro Gabriel 1+
+1.26
+Pedro Gabriel 2+
+2.09
+Pedro Gabriel 3+
+4.50
+Pedro Gabriel 4+
+11.00
+Rodrigo Nestor 1+
+1.18
+Rodrigo Nestor 2+
+1.79
+Rodrigo Nestor 3+
+3.50
+Rodrigo Nestor 4+
+7.80
+Roman Gomez 1+
+1.23
+Roman Gomez 2+
+1.99
+Roman Gomez 3+
+4.20
+Roman Gomez 4+
+9.40
+Ronaldo 1+
+26.00
+Tete 1+
+1.37
+Tete 2+
+2.65
+Tete 3+
+6.70
+Tete 4+
+14.00
+Wallace 1+
+1.32
+Wallace 2+
+2.43
+Wallace 3+
+5.80
+Wallace 4+
+13.00
+Weverton 1+
+7.60
+Willian Jose 1+
+1.46
+Willian Jose 2+
+3.15
+Willian Jose 3+
+8.40
+Willian Jose 4+
+17.00
+Oyuncuya Faul Yapılır
+YENİ
+Ademir 2+
+1.23
+Ademir 3+
+1.67
+Ademir 4+
+2.65
+Ademir 5+
+4.90
+Alejo Veliz 1+
+1.16
+Alejo Veliz 2+
+1.68
+Alejo Veliz 3+
+3.10
+Alejo Veliz 4+
+6.70
+Caio Alexandre 1+
+1.15
+Caio Alexandre 2+
+1.66
+Caio Alexandre 3+
+3.00
+Caio Alexandre 4+
+6.50
+Caio Paulista 1+
+1.53
+Caio Paulista 2+
+3.50
+Caio Paulista 3+
+9.70
+Caio Paulista 4+
+19.00
+Carlos Vinicius 1+
+1.19
+Carlos Vinicius 2+
+1.83
+Carlos Vinicius 3+
+3.55
+Carlos Vinicius 4+
+7.70
+Cristian Kike Olivera 2+
+1.33
+Cristian Kike Olivera 3+
+1.97
+Cristian Kike Olivera 4+
+3.55
+Cristian Kike Olivera 5+
+7.10
+Cristian Pavon 1+
+1.48
+Cristian Pavon 2+
+3.20
+Cristian Pavon 3+
+8.70
+Cristian Pavon 4+
+17.00
+Danilo Barbosa 1+
+1.15
+Danilo Barbosa 2+
+1.66
+Danilo Barbosa 3+
+3.00
+Danilo Barbosa 4+
+6.50
+David Duarte 1+
+1.89
+David Duarte 2+
+5.60
+David Duarte 3+
+13.00
+David Duarte 4+
+29.00
+Diego Caito 1+
+1.18
+Diego Caito 2+
+1.76
+Diego Caito 3+
+3.35
+Diego Caito 4+
+7.20
+Dodi 1+
+1.24
+Dodi 2+
+2.03
+Dodi 3+
+4.30
+Dodi 4+
+9.60
+Erick 1+
+1.34
+Erick 2+
+2.48
+Erick 3+
+5.90
+Erick 4+
+14.00
+Erick Noriega 1+
+1.39
+Erick Noriega 2+
+2.75
+Erick Noriega 3+
+7.10
+Erick Noriega 4+
+15.00
+Erick Pulga 2+
+1.27
+Erick Pulga 3+
+1.79
+Erick Pulga 4+
+3.00
+Erick Pulga 5+
+5.70
+Everton Ribeiro 2+
+1.35
+Everton Ribeiro 3+
+2.03
+Everton Ribeiro 4+
+3.65
+Everton Ribeiro 5+
+7.40
+Fabian Balbuena 1+
+1.74
+Fabian Balbuena 2+
+4.70
+Fabian Balbuena 3+
+12.00
+Fabian Balbuena 4+
+25.00
+Filip Krovinovic 1+
+1.39
+Filip Krovinovic 2+
+2.75
+Filip Krovinovic 3+
+6.80
+Filip Krovinovic 4+
+14.00
+Francis Amuzu 2+
+1.39
+Francis Amuzu 3+
+2.15
+Francis Amuzu 4+
+4.00
+Francis Amuzu 5+
+8.30
+Gustavo Martins 1+
+1.95
+Gustavo Martins 2+
+5.90
+Gustavo Martins 3+
+13.00
+Gustavo Martins 4+
+31.00
+Jean Lucas 1+
+1.33
+Jean Lucas 2+
+2.47
+Jean Lucas 3+
+6.00
+Jean Lucas 4+
+14.00
+Joao Pedro 1+
+1.52
+Joao Pedro 2+
+3.50
+Joao Pedro 3+
+9.50
+Joao Pedro 4+
+17.00
+Jose Enamorado 2+
+1.20
+Jose Enamorado 3+
+1.60
+Jose Enamorado 4+
+2.47
+Jose Enamorado 5+
+4.40
+Kanu 1+
+1.62
+Kanu 2+
+3.80
+Kanu 3+
+8.90
+Kanu 4+
+21.00
+Lautaro Lopez 1+
+1.37
+Lautaro Lopez 2+
+2.70
+Lautaro Lopez 3+
+6.80
+Lautaro Lopez 4+
+13.00
+Luciano Juba 1+
+1.50
+Luciano Juba 2+
+3.35
+Luciano Juba 3+
+8.90
+Luciano Juba 4+
+19.00
+Luiz Gustavo 1+
+1.79
+Luiz Gustavo 2+
+5.10
+Luiz Gustavo 3+
+12.00
+Luiz Gustavo 4+
+25.00
+Marco Moreno 1+
+1.81
+Marco Moreno 2+
+5.10
+Marco Moreno 3+
+13.00
+Marco Moreno 4+
+26.00
+Marcos Rocha 1+
+1.38
+Marcos Rocha 2+
+2.70
+Marcos Rocha 3+
+6.80
+Marcos Rocha 4+
+13.00
+Marcos Victor 1+
+1.77
+Marcos Victor 2+
+4.90
+Marcos Victor 3+
+13.00
+Marcos Victor 4+
+25.00
+Marlon 1+
+1.28
+Marlon 2+
+2.24
+Marlon 3+
+5.10
+Marlon 4+
+12.00
+Martin Braithwaite 1+
+1.26
+Martin Braithwaite 2+
+2.13
+Martin Braithwaite 3+
+4.70
+Martin Braithwaite 4+
+11.00
+Michel Araujo 1+
+1.17
+Michel Araujo 2+
+1.74
+Michel Araujo 3+
+3.30
+Michel Araujo 4+
+7.20
+Nicolas Acevedo 1+
+1.22
+Nicolas Acevedo 2+
+1.96
+Nicolas Acevedo 3+
+4.10
+Nicolas Acevedo 4+
+9.30
+Pedro Gabriel 1+
+1.60
+Pedro Gabriel 2+
+3.75
+Pedro Gabriel 3+
+9.10
+Pedro Gabriel 4+
+21.00
+Rodrigo Nestor 1+
+1.33
+Rodrigo Nestor 2+
+2.50
+Rodrigo Nestor 3+
+6.00
+Rodrigo Nestor 4+
+13.00
+Roman Gomez 1+
+1.48
+Roman Gomez 2+
+3.20
+Roman Gomez 3+
+8.70
+Roman Gomez 4+
+15.00
+Tete 1+
+1.21
+Tete 2+
+1.87
+Tete 3+
+3.60
+Tete 4+
+7.40
+Wallace 1+
+1.64
+Wallace 2+
+4.20
+Wallace 3+
+11.00
+Wallace 4+
+21.00
+Willian Jose 1+
+1.41
+Willian Jose 2+
+2.85
+Willian Jose 3+
+7.30
+Willian Jose 4+
+14.00

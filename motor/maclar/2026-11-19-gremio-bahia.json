@@ -1,0 +1,30 @@
+{
+ "organizasyon": "Brezilya Serie A, 35. hafta",
+ "tarih": "19 Kasım 2026, 03:30 TSİ",
+ "stadyum": "Arena do Grêmio, Porto Alegre",
+ "hakem": "Davi de Oliveira Lacerda (55 maç: 5,02 sarı, lig 4,79; 9 kırmızı; 9 penaltı)",
+ "ilk_yari_gol_payi": 0.44,
+ "korner_guven": "orta",
+ "kart_guven": "orta",
+ "var_ort": 0.35,
+ "not": "Korner: Grêmio 5,2 kazanır/8,2 verir; Bahia 6,4/9,2. Kart: Grêmio 1,6 (Bahia rakipleri 2,8), Bahia 2,2 (Grêmio rakipleri 1,4); hakem ×1,05. Grêmio'da Kannemann, Villasanti, Nardoni yok.",
+ "ev": {
+  "ad": "Grêmio FB Porto Alegrense",
+  "beklenen_gol": 1.635,
+  "korner": 7.2,
+  "sari_kart": 2.2,
+  "penalti_kazanma": 0.1,
+  "direkt_kirmizi": 0.04,
+  "model_beklenen_gol": 1.4
+ },
+ "dep": {
+  "ad": "EC Bahia",
+  "beklenen_gol": 1.535,
+  "korner": 6.6,
+  "sari_kart": 1.9,
+  "penalti_kazanma": 0.1,
+  "direkt_kirmizi": 0.04,
+  "model_beklenen_gol": 1.1
+ },
+ "kalibrasyon": "Beklenen goller site oranlarından (takım gol çizgilerinin ortalaması)"
+}
