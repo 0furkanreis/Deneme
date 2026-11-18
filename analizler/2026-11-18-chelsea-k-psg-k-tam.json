@@ -1,0 +1,11000 @@
+{
+ "mac": {
+  "organizasyon": "UEFA Kadınlar Şampiyonlar Ligi, 5. hafta",
+  "tarih": "18 Kasım 2026, 23:00 TSİ",
+  "stadyum": "Cherry Red Records Stadium",
+  "hakem": "Maria Ferrieri Caputi",
+  "ilk_yari_gol_payi": 0.44,
+  "korner_guven": "orta",
+  "kart_guven": "orta",
+  "var_ort": 0.15,
+  "not": "Korner: güçlü rakiplere karşı veriler (PSG City/Bayern'e 7 ve 6 korner verdi, 1 ve 4 kullandı; Chelsea City'ye 6). Goller site oranından.",
+  "kalibrasyon": "Beklenen goller site oranlarından (takım gol çizgilerinin ortalaması)"
+ },
+ "ev": "Chelsea LFC (Kadınlar)",
+ "dep": "Paris Saint-Germain (Kadınlar)",
+ "beklenen_gol": [
+  2.433,
+  0.93
+ ],
+ "simulasyon": 120000,
+ "pazarlar": [
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu",
+   "oneri": "1 (Chelsea LFC (Kadınlar))",
+   "olasilik": 0.7053,
+   "adil_oran": 1.42,
+   "en_olasi": "1 (Chelsea LFC (Kadınlar))",
+   "en_olasi_p": 0.7053,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Chelsea LFC (Kadınlar))",
+     0.7053
+    ],
+    [
+     "X",
+     0.1694
+    ],
+    [
+     "2 (Paris Saint-Germain (Kadınlar))",
+     0.1253
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.8306,
+   "adil_oran": 1.2,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.8747,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.8747
+    ],
+    [
+     "12",
+     0.8306
+    ],
+    [
+     "X2",
+     0.2947
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Beraberlikte İade",
+   "oneri": "Chelsea LFC (Kadınlar)",
+   "olasilik": 0.8491,
+   "adil_oran": 1.18,
+   "en_olasi": "Chelsea LFC (Kadınlar)",
+   "en_olasi_p": 0.8491,
+   "guven": "yüksek",
+   "not_": "Beraberlikte iade; olasılık iade hariç",
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar)",
+     0.8491
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar)",
+     0.1509
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Chelsea LFC (Kadınlar) : Bahis Yok",
+   "oneri": "X",
+   "olasilik": 0.5748,
+   "adil_oran": 1.74,
+   "en_olasi": "X",
+   "en_olasi_p": 0.5748,
+   "guven": "yüksek",
+   "not_": "Chelsea LFC (Kadınlar) kazanırsa iade",
+   "secimler": [
+    [
+     "X",
+     0.5748
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar)",
+     0.4252
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Paris Saint-Germain (Kadınlar) : Bahis Yok",
+   "oneri": "Chelsea LFC (Kadınlar)",
+   "olasilik": 0.8063,
+   "adil_oran": 1.24,
+   "en_olasi": "Chelsea LFC (Kadınlar)",
+   "en_olasi_p": 0.8063,
+   "guven": "yüksek",
+   "not_": "Paris Saint-Germain (Kadınlar) kazanırsa iade",
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar)",
+     0.8063
+    ],
+    [
+     "X",
+     0.1937
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Chelsea LFC (Kadınlar) : Geriden Gelerek Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8946,
+   "adil_oran": 1.12,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8946,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1054
+    ],
+    [
+     "Hayır",
+     0.8946
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Paris Saint-Germain (Kadınlar) : Geriden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9737,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9737,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0263
+    ],
+    [
+     "Hayır",
+     0.9737
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Chelsea LFC (Kadınlar) : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.2947,
+   "adil_oran": 3.39,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.2947,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.2238
+    ],
+    [
+     "2 fark",
+     0.2056
+    ],
+    [
+     "3 fark",
+     0.1419
+    ],
+    [
+     "4+ fark",
+     0.134
+    ],
+    [
+     "Kazanamaz",
+     0.2947
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Paris Saint-Germain (Kadınlar) : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.8747,
+   "adil_oran": 1.14,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.8747,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.085
+    ],
+    [
+     "2 fark",
+     0.03
+    ],
+    [
+     "3 fark",
+     0.0083
+    ],
+    [
+     "4+ fark",
+     0.0019
+    ],
+    [
+     "Kazanamaz",
+     0.8747
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller",
+   "oneri": "Toplam 4,5 Alt",
+   "olasilik": 0.75,
+   "adil_oran": 1.33,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.9651,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.9651
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.0348
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.85
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.15
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.6558
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.3442
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.4352
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.5648
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.25
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.75
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.1252
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.8749
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Chelsea LFC (Kadınlar) : Toplam Gol",
+   "oneri": "Chelsea LFC (Kadınlar) 3,5 Alt",
+   "olasilik": 0.7719,
+   "adil_oran": 1.3,
+   "en_olasi": "Chelsea LFC (Kadınlar) 0,5 Üst",
+   "en_olasi_p": 0.9127,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Üst",
+     0.9127
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Alt",
+     0.0873
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Üst",
+     0.7013
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Alt",
+     0.2987
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 2,5 Üst",
+     0.4399
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 2,5 Alt",
+     0.5601
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 3,5 Üst",
+     0.2281
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 3,5 Alt",
+     0.7719
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Paris Saint-Germain (Kadınlar) : Toplam Gol",
+   "oneri": "Paris Saint-Germain (Kadınlar) 1,5 Alt",
+   "olasilik": 0.761,
+   "adil_oran": 1.31,
+   "en_olasi": "Paris Saint-Germain (Kadınlar) 3,5 Alt",
+   "en_olasi_p": 0.9841,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Üst",
+     0.6061
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+     0.3939
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 1,5 Üst",
+     0.239
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 1,5 Alt",
+     0.761
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 2,5 Üst",
+     0.0694
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 2,5 Alt",
+     0.9306
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 3,5 Üst",
+     0.0159
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 3,5 Alt",
+     0.9841
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller Asya",
+   "oneri": "Toplam Asya 1,75 Üst",
+   "olasilik": 0.8339,
+   "adil_oran": 1.2,
+   "en_olasi": "Toplam Asya 1,75 Üst",
+   "en_olasi_p": 0.8339,
+   "guven": "yüksek",
+   "not_": "Asya çizgisi: değer = 1/adil oran",
+   "secimler": [
+    [
+     "Toplam Asya 1,75 Üst",
+     0.8339
+    ],
+    [
+     "Toplam Asya 1,75 Alt",
+     0.1661
+    ],
+    [
+     "Toplam Asya 2 Üst",
+     0.8139
+    ],
+    [
+     "Toplam Asya 2 Alt",
+     0.1861
+    ],
+    [
+     "Toplam Asya 2,25 Üst",
+     0.7263
+    ],
+    [
+     "Toplam Asya 2,25 Alt",
+     0.2737
+    ],
+    [
+     "Toplam Asya 2,5 Üst",
+     0.6558
+    ],
+    [
+     "Toplam Asya 2,5 Alt",
+     0.3442
+    ],
+    [
+     "Toplam Asya 2,75 Üst",
+     0.6131
+    ],
+    [
+     "Toplam Asya 2,75 Alt",
+     0.3869
+    ],
+    [
+     "Toplam Asya 3 Üst",
+     0.5584
+    ],
+    [
+     "Toplam Asya 3 Alt",
+     0.4416
+    ],
+    [
+     "Toplam Asya 3,25 Üst",
+     0.4892
+    ],
+    [
+     "Toplam Asya 3,25 Alt",
+     0.5108
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Chelsea LFC (Kadınlar) : Toplam Gol Asya",
+   "oneri": "Chelsea LFC (Kadınlar) Asya 1,25 Üst",
+   "olasilik": 0.7842,
+   "adil_oran": 1.28,
+   "en_olasi": "Chelsea LFC (Kadınlar) Asya 0,75 Üst",
+   "en_olasi_p": 0.9024,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) Asya 0,75 Üst",
+     0.9024
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 0,75 Alt",
+     0.0976
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 1 Üst",
+     0.8893
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 1 Alt",
+     0.1107
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 1,25 Üst",
+     0.7842
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 1,25 Alt",
+     0.2158
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 1,5 Üst",
+     0.7013
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 1,5 Alt",
+     0.2987
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 1,75 Üst",
+     0.6564
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 1,75 Alt",
+     0.3436
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 2 Üst",
+     0.5956
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 2 Alt",
+     0.4044
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 2,25 Üst",
+     0.506
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 2,25 Alt",
+     0.494
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Paris Saint-Germain (Kadınlar) : Toplam Gol Asya",
+   "oneri": "Paris Saint-Germain (Kadınlar) Asya 1,5 Alt",
+   "olasilik": 0.761,
+   "adil_oran": 1.31,
+   "en_olasi": "Paris Saint-Germain (Kadınlar) Asya 1,5 Alt",
+   "en_olasi_p": 0.761,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Paris Saint-Germain (Kadınlar) Asya 0,25 Üst",
+     0.7548
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya 0,25 Alt",
+     0.2452
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya 0,5 Üst",
+     0.6061
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya 0,5 Alt",
+     0.3939
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya 0,75 Üst",
+     0.5176
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya 0,75 Alt",
+     0.4824
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya 1 Üst",
+     0.3776
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya 1 Alt",
+     0.6224
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya 1,25 Üst",
+     0.2927
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya 1,25 Alt",
+     0.7073
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya 1,5 Üst",
+     0.239
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya 1,5 Alt",
+     0.761
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (3-İhtimalli)",
+   "oneri": "2 Üst",
+   "olasilik": 0.6558,
+   "adil_oran": 1.52,
+   "en_olasi": "1 Üst",
+   "en_olasi_p": 0.85,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.0348
+    ],
+    [
+     "Tam 1",
+     0.1151
+    ],
+    [
+     "1 Üst",
+     0.85
+    ],
+    [
+     "2 Alt",
+     0.15
+    ],
+    [
+     "Tam 2",
+     0.1943
+    ],
+    [
+     "2 Üst",
+     0.6558
+    ],
+    [
+     "3 Alt",
+     0.3442
+    ],
+    [
+     "Tam 3",
+     0.2205
+    ],
+    [
+     "3 Üst",
+     0.4352
+    ],
+    [
+     "4 Alt",
+     0.5648
+    ],
+    [
+     "Tam 4",
+     0.1852
+    ],
+    [
+     "4 Üst",
+     0.25
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol Tek/Çift",
+   "oneri": "Çift",
+   "olasilik": 0.5006,
+   "adil_oran": 2.0,
+   "en_olasi": "Çift",
+   "en_olasi_p": 0.5006,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.4994
+    ],
+    [
+     "Çift",
+     0.5006
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Kesin)",
+   "oneri": "3 gol",
+   "olasilik": 0.2205,
+   "adil_oran": 4.53,
+   "en_olasi": "3 gol",
+   "en_olasi_p": 0.2205,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0348
+    ],
+    [
+     "1 gol",
+     0.1151
+    ],
+    [
+     "2 gol",
+     0.1943
+    ],
+    [
+     "3 gol",
+     0.2205
+    ],
+    [
+     "4 gol",
+     0.1852
+    ],
+    [
+     "5 gol",
+     0.1248
+    ],
+    [
+     "6+ gol",
+     0.1252
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Chelsea LFC (Kadınlar) : Toplam Gol (Kesin)",
+   "oneri": "2 gol",
+   "olasilik": 0.2614,
+   "adil_oran": 3.83,
+   "en_olasi": "2 gol",
+   "en_olasi_p": 0.2614,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0873
+    ],
+    [
+     "1 gol",
+     0.2114
+    ],
+    [
+     "2 gol",
+     0.2614
+    ],
+    [
+     "3 gol",
+     0.2118
+    ],
+    [
+     "4+ gol",
+     0.2281
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Paris Saint-Germain (Kadınlar) : Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.3939,
+   "adil_oran": 2.54,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.3939,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3939
+    ],
+    [
+     "1 gol",
+     0.3671
+    ],
+    [
+     "2 gol",
+     0.1696
+    ],
+    [
+     "3 gol",
+     0.0535
+    ],
+    [
+     "4+ gol",
+     0.0159
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Aralık)",
+   "oneri": "2-3 gol",
+   "olasilik": 0.4148,
+   "adil_oran": 2.41,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.4148,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.15
+    ],
+    [
+     "2-3 gol",
+     0.4148
+    ],
+    [
+     "4-5 gol",
+     0.3101
+    ],
+    [
+     "6+ gol",
+     0.1252
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Chelsea LFC (Kadınlar) : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.4728,
+   "adil_oran": 2.12,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.4728,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0873
+    ],
+    [
+     "1-2 gol",
+     0.4728
+    ],
+    [
+     "3+ gol",
+     0.4399
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Paris Saint-Germain (Kadınlar) : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5367,
+   "adil_oran": 1.86,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5367,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3939
+    ],
+    [
+     "1-2 gol",
+     0.5367
+    ],
+    [
+     "3+ gol",
+     0.0694
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Genişletilmiş Gol Aralığı)",
+   "oneri": "2-4 gol",
+   "olasilik": 0.6,
+   "adil_oran": 1.67,
+   "en_olasi": "2-4 gol",
+   "en_olasi_p": 0.6,
+   "guven": "yüksek",
+   "not_": "Sitedeki aralıklar farklı olabilir",
+   "secimler": [
+    [
+     "0 gol",
+     0.0348
+    ],
+    [
+     "1-2 gol",
+     0.3094
+    ],
+    [
+     "1-3 gol",
+     0.5299
+    ],
+    [
+     "2-3 gol",
+     0.4148
+    ],
+    [
+     "2-4 gol",
+     0.6
+    ],
+    [
+     "3-4 gol",
+     0.4058
+    ],
+    [
+     "3-5 gol",
+     0.5306
+    ],
+    [
+     "4-6 gol",
+     0.38
+    ],
+    [
+     "5+ gol",
+     0.25
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Chelsea LFC (Kadınlar) : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "2-3 gol",
+   "olasilik": 0.4733,
+   "adil_oran": 2.11,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.4733,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.2987
+    ],
+    [
+     "1-2 gol",
+     0.4728
+    ],
+    [
+     "2-3 gol",
+     0.4733
+    ],
+    [
+     "3+ gol",
+     0.4399
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Paris Saint-Germain (Kadınlar) : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.761,
+   "adil_oran": 1.31,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.761,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.761
+    ],
+    [
+     "1-2 gol",
+     0.5367
+    ],
+    [
+     "2-3 gol",
+     0.2231
+    ],
+    [
+     "3+ gol",
+     0.0694
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Kesin Gol Sayısı",
+   "oneri": "3 gol",
+   "olasilik": 0.2205,
+   "adil_oran": 4.53,
+   "en_olasi": "3 gol",
+   "en_olasi_p": 0.2205,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0348
+    ],
+    [
+     "1 gol",
+     0.1151
+    ],
+    [
+     "2 gol",
+     0.1943
+    ],
+    [
+     "3 gol",
+     0.2205
+    ],
+    [
+     "4 gol",
+     0.1852
+    ],
+    [
+     "5 gol",
+     0.1248
+    ],
+    [
+     "6 gol",
+     0.0699
+    ],
+    [
+     "7+ gol",
+     0.0552
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 1 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8849,
+   "adil_oran": 1.13,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8849,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1151
+    ],
+    [
+     "Hayır",
+     0.8849
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 2 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8057,
+   "adil_oran": 1.24,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8057,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1943
+    ],
+    [
+     "Hayır",
+     0.8057
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 3 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7795,
+   "adil_oran": 1.28,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7795,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2205
+    ],
+    [
+     "Hayır",
+     0.7795
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 4 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8147,
+   "adil_oran": 1.23,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8147,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1852
+    ],
+    [
+     "Hayır",
+     0.8147
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "En Az Bir Takım Üst Gol Atar",
+   "oneri": "En az bir takım 1,5 Üst",
+   "olasilik": 0.7728,
+   "adil_oran": 1.29,
+   "en_olasi": "En az bir takım 0,5 Üst",
+   "en_olasi_p": 0.9651,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "En az bir takım 0,5 Üst",
+     0.9651
+    ],
+    [
+     "En az bir takım 1,5 Üst",
+     0.7728
+    ],
+    [
+     "En az bir takım 2,5 Üst",
+     0.4785
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Chelsea LFC (Kadınlar) : Asist Yapar. Toplam",
+   "oneri": "Chelsea LFC (Kadınlar) asist 0,5 Üst",
+   "olasilik": 0.7982,
+   "adil_oran": 1.25,
+   "en_olasi": "Chelsea LFC (Kadınlar) asist 0,5 Üst",
+   "en_olasi_p": 0.7982,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) asist 0,5 Üst",
+     0.7982
+    ],
+    [
+     "Chelsea LFC (Kadınlar) asist 0,5 Alt",
+     0.2018
+    ],
+    [
+     "Chelsea LFC (Kadınlar) asist 1,5 Üst",
+     0.4745
+    ],
+    [
+     "Chelsea LFC (Kadınlar) asist 1,5 Alt",
+     0.5255
+    ],
+    [
+     "Chelsea LFC (Kadınlar) asist 2,5 Üst",
+     0.2157
+    ],
+    [
+     "Chelsea LFC (Kadınlar) asist 2,5 Alt",
+     0.7843
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Paris Saint-Germain (Kadınlar) : Asist Yapar. Toplam",
+   "oneri": "Paris Saint-Germain (Kadınlar) asist 0,5 Alt",
+   "olasilik": 0.5547,
+   "adil_oran": 1.8,
+   "en_olasi": "Paris Saint-Germain (Kadınlar) asist 1,5 Alt",
+   "en_olasi_p": 0.8822,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Paris Saint-Germain (Kadınlar) asist 0,5 Üst",
+     0.4453
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) asist 0,5 Alt",
+     0.5547
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) asist 1,5 Üst",
+     0.1178
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) asist 1,5 Alt",
+     0.8822
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takımda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.5536,
+   "adil_oran": 1.81,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5536,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5536
+    ],
+    [
+     "Hayır",
+     0.4464
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8325,
+   "adil_oran": 1.2,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8325,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1675
+    ],
+    [
+     "Hayır",
+     0.8325
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Chelsea LFC (Kadınlar) : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.9127,
+   "adil_oran": 1.1,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.9127,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.9127
+    ],
+    [
+     "Hayır",
+     0.0873
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Paris Saint-Germain (Kadınlar) : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.6061,
+   "adil_oran": 1.65,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6061,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6061
+    ],
+    [
+     "Hayır",
+     0.3939
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Karşılıklı Gol ve Toplam Goller 2.5",
+   "oneri": "KG Var & Üst",
+   "olasilik": 0.4764,
+   "adil_oran": 2.1,
+   "en_olasi": "KG Var & Üst",
+   "en_olasi_p": 0.4764,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "KG Var & Üst",
+     0.4764
+    ],
+    [
+     "KG Var & Alt",
+     0.0772
+    ],
+    [
+     "KG Yok & Üst",
+     0.1794
+    ],
+    [
+     "KG Yok & Alt",
+     0.267
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Yarıda da Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.9329,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9329,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0671
+    ],
+    [
+     "Hayır",
+     0.9329
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı",
+   "oneri": "Paris Saint-Germain (Kadınlar) +2,5",
+   "olasilik": 0.7241,
+   "adil_oran": 1.38,
+   "en_olasi": "Chelsea LFC (Kadınlar) +2,5",
+   "en_olasi_p": 0.9898,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) -2,5",
+     0.2759
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +2,5",
+     0.7241
+    ],
+    [
+     "Chelsea LFC (Kadınlar) -1,5",
+     0.4815
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +1,5",
+     0.5185
+    ],
+    [
+     "Chelsea LFC (Kadınlar) -0,5",
+     0.7053
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +0,5",
+     0.2947
+    ],
+    [
+     "Chelsea LFC (Kadınlar) +0,5",
+     0.8747
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) -0,5",
+     0.1253
+    ],
+    [
+     "Chelsea LFC (Kadınlar) +1,5",
+     0.9597
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) -1,5",
+     0.0403
+    ],
+    [
+     "Chelsea LFC (Kadınlar) +2,5",
+     0.9898
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) -2,5",
+     0.0102
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Goller Asya Handikapı",
+   "oneri": "Chelsea LFC (Kadınlar) Asya -0,25",
+   "olasilik": 0.7705,
+   "adil_oran": 1.3,
+   "en_olasi": "Chelsea LFC (Kadınlar) Asya +1,5",
+   "en_olasi_p": 0.9597,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) Asya -2",
+     0.3474
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya -2",
+     0.0106
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya -1,75",
+     0.4221
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya -1,75",
+     0.0256
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya -1,5",
+     0.4815
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya -1,5",
+     0.0403
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya -1,25",
+     0.5422
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya -1,25",
+     0.0421
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya -1",
+     0.6203
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya -1",
+     0.044
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya -0,75",
+     0.6682
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya -0,75",
+     0.0865
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya -0,5",
+     0.7053
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya -0,5",
+     0.1253
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya -0,25",
+     0.7705
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya -0,25",
+     0.1369
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 0",
+     0.8491
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya 0",
+     0.1509
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya +0,25",
+     0.8631
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya +0,25",
+     0.2295
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya +0,5",
+     0.8747
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya +0,5",
+     0.2947
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya +0,75",
+     0.9135
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya +0,75",
+     0.3318
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya +1",
+     0.956
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya +1",
+     0.3797
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya +1,25",
+     0.9579
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya +1,25",
+     0.4578
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya +1,5",
+     0.9597
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya +1,5",
+     0.5185
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı (3-İhtimalli)",
+   "oneri": "Paris Saint-Germain (Kadınlar) (-3)",
+   "olasilik": 0.7241,
+   "adil_oran": 1.38,
+   "en_olasi": "Chelsea LFC (Kadınlar) (+3)",
+   "en_olasi_p": 0.9898,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) (-3)",
+     0.134
+    ],
+    [
+     "X (-3)",
+     0.1419
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) (-3)",
+     0.7241
+    ],
+    [
+     "Chelsea LFC (Kadınlar) (-2)",
+     0.2759
+    ],
+    [
+     "X (-2)",
+     0.2056
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) (-2)",
+     0.5185
+    ],
+    [
+     "Chelsea LFC (Kadınlar) (-1)",
+     0.4815
+    ],
+    [
+     "X (-1)",
+     0.2238
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) (-1)",
+     0.2947
+    ],
+    [
+     "Chelsea LFC (Kadınlar) (+1)",
+     0.8747
+    ],
+    [
+     "X (+1)",
+     0.085
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) (+1)",
+     0.0403
+    ],
+    [
+     "Chelsea LFC (Kadınlar) (+2)",
+     0.9597
+    ],
+    [
+     "X (+2)",
+     0.03
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) (+2)",
+     0.0102
+    ],
+    [
+     "Chelsea LFC (Kadınlar) (+3)",
+     0.9898
+    ],
+    [
+     "X (+3)",
+     0.0083
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) (+3)",
+     0.0019
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Chelsea LFC (Kadınlar) Gol Atar ve Maç Sonucu",
+   "oneri": "1 & Chelsea LFC (Kadınlar) gol atar",
+   "olasilik": 0.7053,
+   "adil_oran": 1.42,
+   "en_olasi": "1 & Chelsea LFC (Kadınlar) gol atar",
+   "en_olasi_p": 0.7053,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Chelsea LFC (Kadınlar) gol atar",
+     0.7053
+    ],
+    [
+     "1 & Chelsea LFC (Kadınlar) gol atamaz",
+     0.0
+    ],
+    [
+     "X & Chelsea LFC (Kadınlar) gol atar",
+     0.1346
+    ],
+    [
+     "X & Chelsea LFC (Kadınlar) gol atamaz",
+     0.0348
+    ],
+    [
+     "2 & Chelsea LFC (Kadınlar) gol atar",
+     0.0728
+    ],
+    [
+     "2 & Chelsea LFC (Kadınlar) gol atamaz",
+     0.0525
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Paris Saint-Germain (Kadınlar) Gol Atar ve Maç Sonucu",
+   "oneri": "1 & Paris Saint-Germain (Kadınlar) gol atamaz",
+   "olasilik": 0.359,
+   "adil_oran": 2.79,
+   "en_olasi": "1 & Paris Saint-Germain (Kadınlar) gol atamaz",
+   "en_olasi_p": 0.359,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Paris Saint-Germain (Kadınlar) gol atar",
+     0.3462
+    ],
+    [
+     "1 & Paris Saint-Germain (Kadınlar) gol atamaz",
+     0.359
+    ],
+    [
+     "X & Paris Saint-Germain (Kadınlar) gol atar",
+     0.1346
+    ],
+    [
+     "X & Paris Saint-Germain (Kadınlar) gol atamaz",
+     0.0348
+    ],
+    [
+     "2 & Paris Saint-Germain (Kadınlar) gol atar",
+     0.1253
+    ],
+    [
+     "2 & Paris Saint-Germain (Kadınlar) gol atamaz",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Karşılıklı Gol",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.359,
+   "adil_oran": 2.79,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.359,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.3462
+    ],
+    [
+     "1 & KG Yok",
+     0.359
+    ],
+    [
+     "X & KG Var",
+     0.1346
+    ],
+    [
+     "X & KG Yok",
+     0.0348
+    ],
+    [
+     "2 & KG Var",
+     0.0728
+    ],
+    [
+     "2 & KG Yok",
+     0.0525
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Karşılıklı Gol",
+   "oneri": "1X & KG Var",
+   "olasilik": 0.4808,
+   "adil_oran": 2.08,
+   "en_olasi": "1X & KG Var",
+   "en_olasi_p": 0.4808,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & KG Var",
+     0.4808
+    ],
+    [
+     "1X & KG Yok",
+     0.3939
+    ],
+    [
+     "12 & KG Var",
+     0.4191
+    ],
+    [
+     "12 & KG Yok",
+     0.4115
+    ],
+    [
+     "X2 & KG Var",
+     0.2074
+    ],
+    [
+     "X2 & KG Yok",
+     0.0873
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 1.5",
+   "oneri": "1 & 1,5 Üst",
+   "olasilik": 0.6221,
+   "adil_oran": 1.61,
+   "en_olasi": "1 & 1,5 Üst",
+   "en_olasi_p": 0.6221,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1,5 Üst",
+     0.6221
+    ],
+    [
+     "1 & 1,5 Alt",
+     0.0832
+    ],
+    [
+     "X & 1,5 Üst",
+     0.1346
+    ],
+    [
+     "X & 1,5 Alt",
+     0.0348
+    ],
+    [
+     "2 & 1,5 Üst",
+     0.0934
+    ],
+    [
+     "2 & 1,5 Alt",
+     0.0319
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 2.5",
+   "oneri": "1 & 2,5 Üst",
+   "olasilik": 0.5198,
+   "adil_oran": 1.92,
+   "en_olasi": "1 & 2,5 Üst",
+   "en_olasi_p": 0.5198,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 2,5 Üst",
+     0.5198
+    ],
+    [
+     "1 & 2,5 Alt",
+     0.1855
+    ],
+    [
+     "X & 2,5 Üst",
+     0.0573
+    ],
+    [
+     "X & 2,5 Alt",
+     0.1121
+    ],
+    [
+     "2 & 2,5 Üst",
+     0.0787
+    ],
+    [
+     "2 & 2,5 Alt",
+     0.0466
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 3.5",
+   "oneri": "1 & 3,5 Alt",
+   "olasilik": 0.3654,
+   "adil_oran": 2.74,
+   "en_olasi": "1 & 3,5 Alt",
+   "en_olasi_p": 0.3654,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 3,5 Üst",
+     0.3399
+    ],
+    [
+     "1 & 3,5 Alt",
+     0.3654
+    ],
+    [
+     "X & 3,5 Üst",
+     0.0573
+    ],
+    [
+     "X & 3,5 Alt",
+     0.1121
+    ],
+    [
+     "2 & 3,5 Üst",
+     0.0381
+    ],
+    [
+     "2 & 3,5 Alt",
+     0.0873
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 4.5",
+   "oneri": "1 & 4,5 Alt",
+   "olasilik": 0.494,
+   "adil_oran": 2.02,
+   "en_olasi": "1 & 4,5 Alt",
+   "en_olasi_p": 0.494,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 4,5 Üst",
+     0.2113
+    ],
+    [
+     "1 & 4,5 Alt",
+     0.494
+    ],
+    [
+     "X & 4,5 Üst",
+     0.0129
+    ],
+    [
+     "X & 4,5 Alt",
+     0.1565
+    ],
+    [
+     "2 & 4,5 Üst",
+     0.0258
+    ],
+    [
+     "2 & 4,5 Alt",
+     0.0995
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Chelsea LFC (Kadınlar) : Toplam Gol",
+   "oneri": "1 & Chelsea LFC (Kadınlar) 1,5 Üst",
+   "olasilik": 0.6221,
+   "adil_oran": 1.61,
+   "en_olasi": "1 & Chelsea LFC (Kadınlar) 1,5 Üst",
+   "en_olasi_p": 0.6221,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Chelsea LFC (Kadınlar) 1,5 Üst",
+     0.6221
+    ],
+    [
+     "1 & Chelsea LFC (Kadınlar) 1,5 Alt",
+     0.0832
+    ],
+    [
+     "X & Chelsea LFC (Kadınlar) 1,5 Üst",
+     0.0573
+    ],
+    [
+     "X & Chelsea LFC (Kadınlar) 1,5 Alt",
+     0.1121
+    ],
+    [
+     "2 & Chelsea LFC (Kadınlar) 1,5 Üst",
+     0.0219
+    ],
+    [
+     "2 & Chelsea LFC (Kadınlar) 1,5 Alt",
+     0.1034
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Paris Saint-Germain (Kadınlar) : Toplam Gol",
+   "oneri": "1 & Paris Saint-Germain (Kadınlar) 0,5 Alt",
+   "olasilik": 0.359,
+   "adil_oran": 2.79,
+   "en_olasi": "1 & Paris Saint-Germain (Kadınlar) 0,5 Alt",
+   "en_olasi_p": 0.359,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Paris Saint-Germain (Kadınlar) 0,5 Üst",
+     0.3462
+    ],
+    [
+     "1 & Paris Saint-Germain (Kadınlar) 0,5 Alt",
+     0.359
+    ],
+    [
+     "X & Paris Saint-Germain (Kadınlar) 0,5 Üst",
+     0.1346
+    ],
+    [
+     "X & Paris Saint-Germain (Kadınlar) 0,5 Alt",
+     0.0348
+    ],
+    [
+     "2 & Paris Saint-Germain (Kadınlar) 0,5 Üst",
+     0.1253
+    ],
+    [
+     "2 & Paris Saint-Germain (Kadınlar) 0,5 Alt",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Toplam Gol",
+   "oneri": "X veya 2,5 Üst",
+   "olasilik": 0.7679,
+   "adil_oran": 1.3,
+   "en_olasi": "1 veya 2,5 Alt",
+   "en_olasi_p": 0.864,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 2,5 Üst",
+     0.8413
+    ],
+    [
+     "1 veya 2,5 Alt",
+     0.864
+    ],
+    [
+     "X veya 2,5 Üst",
+     0.7679
+    ],
+    [
+     "X veya 2,5 Alt",
+     0.4016
+    ],
+    [
+     "2 veya 2,5 Üst",
+     0.7024
+    ],
+    [
+     "2 veya 2,5 Alt",
+     0.4229
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol (Kesin)",
+   "oneri": "1 & 3 gol",
+   "olasilik": 0.1799,
+   "adil_oran": 5.56,
+   "en_olasi": "1 & 3 gol",
+   "en_olasi_p": 0.1799,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 0 gol",
+     0.0
+    ],
+    [
+     "1 & 1 gol",
+     0.0832
+    ],
+    [
+     "1 & 2 gol",
+     0.1023
+    ],
+    [
+     "1 & 3 gol",
+     0.1799
+    ],
+    [
+     "1 & 4 gol",
+     0.1286
+    ],
+    [
+     "1 & 5 gol",
+     0.1077
+    ],
+    [
+     "X & 0 gol",
+     0.0348
+    ],
+    [
+     "X & 1 gol",
+     0.0
+    ],
+    [
+     "X & 2 gol",
+     0.0772
+    ],
+    [
+     "X & 3 gol",
+     0.0
+    ],
+    [
+     "X & 4 gol",
+     0.0444
+    ],
+    [
+     "X & 5 gol",
+     0.0
+    ],
+    [
+     "2 & 0 gol",
+     0.0
+    ],
+    [
+     "2 & 1 gol",
+     0.0319
+    ],
+    [
+     "2 & 2 gol",
+     0.0147
+    ],
+    [
+     "2 & 3 gol",
+     0.0406
+    ],
+    [
+     "2 & 4 gol",
+     0.0122
+    ],
+    [
+     "2 & 5 gol",
+     0.0171
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "1 & 3-5 gol",
+   "olasilik": 0.4163,
+   "adil_oran": 2.4,
+   "en_olasi": "1 & 3-5 gol",
+   "en_olasi_p": 0.4163,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1-2 gol",
+     0.1855
+    ],
+    [
+     "1 & 1-3 gol",
+     0.3654
+    ],
+    [
+     "1 & 2-3 gol",
+     0.2822
+    ],
+    [
+     "1 & 2-4 gol",
+     0.4108
+    ],
+    [
+     "1 & 3-4 gol",
+     0.3085
+    ],
+    [
+     "1 & 3-5 gol",
+     0.4163
+    ],
+    [
+     "X & 1-2 gol",
+     0.0772
+    ],
+    [
+     "X & 1-3 gol",
+     0.0772
+    ],
+    [
+     "X & 2-3 gol",
+     0.0772
+    ],
+    [
+     "X & 2-4 gol",
+     0.1217
+    ],
+    [
+     "X & 3-4 gol",
+     0.0444
+    ],
+    [
+     "X & 3-5 gol",
+     0.0444
+    ],
+    [
+     "2 & 1-2 gol",
+     0.0466
+    ],
+    [
+     "2 & 1-3 gol",
+     0.0873
+    ],
+    [
+     "2 & 2-3 gol",
+     0.0553
+    ],
+    [
+     "2 & 2-4 gol",
+     0.0676
+    ],
+    [
+     "2 & 3-4 gol",
+     0.0528
+    ],
+    [
+     "2 & 3-5 gol",
+     0.0699
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "1X & 2-4 gol",
+   "olasilik": 0.5325,
+   "adil_oran": 1.88,
+   "en_olasi": "1X & 2-4 gol",
+   "en_olasi_p": 0.5325,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1-2 gol",
+     0.2627
+    ],
+    [
+     "1X & 1-3 gol",
+     0.4426
+    ],
+    [
+     "1X & 2-3 gol",
+     0.3595
+    ],
+    [
+     "1X & 2-4 gol",
+     0.5325
+    ],
+    [
+     "12 & 1-2 gol",
+     0.2321
+    ],
+    [
+     "12 & 1-3 gol",
+     0.4527
+    ],
+    [
+     "12 & 2-3 gol",
+     0.3376
+    ],
+    [
+     "12 & 2-4 gol",
+     0.4784
+    ],
+    [
+     "X2 & 1-2 gol",
+     0.1239
+    ],
+    [
+     "X2 & 1-3 gol",
+     0.1645
+    ],
+    [
+     "X2 & 2-3 gol",
+     0.1326
+    ],
+    [
+     "X2 & 2-4 gol",
+     0.1892
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Doğru Skor",
+   "oneri": "1 veya 1-1",
+   "olasilik": 0.7825,
+   "adil_oran": 1.28,
+   "en_olasi": "1 veya 1-1",
+   "en_olasi_p": 0.7825,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 1-1",
+     0.7825
+    ],
+    [
+     "X veya 2-0",
+     0.2717
+    ],
+    [
+     "X veya 2-1",
+     0.2663
+    ],
+    [
+     "X veya 1-0",
+     0.2526
+    ],
+    [
+     "X veya 3-0",
+     0.2524
+    ],
+    [
+     "X veya 3-1",
+     0.247
+    ],
+    [
+     "2 veya 2-0",
+     0.2276
+    ],
+    [
+     "2 veya 2-1",
+     0.2222
+    ],
+    [
+     "2 veya 1-0",
+     0.2085
+    ],
+    [
+     "2 veya 3-0",
+     0.2083
+    ],
+    [
+     "2 veya 3-1",
+     0.2029
+    ],
+    [
+     "2 veya 1-1",
+     0.2025
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Her İki Yarı Toplam Gol Kombinasyonu",
+   "oneri": "İY Alt 1,5 & 2Y Üst 1,5",
+   "olasilik": 0.3164,
+   "adil_oran": 3.16,
+   "en_olasi": "İY Alt 1,5 & 2Y Üst 1,5",
+   "en_olasi_p": 0.3164,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Alt 1,5 & 2Y Alt 1,5",
+     0.2456
+    ],
+    [
+     "İY Alt 1,5 & 2Y Üst 1,5",
+     0.3164
+    ],
+    [
+     "İY Üst 1,5 & 2Y Alt 1,5",
+     0.1927
+    ],
+    [
+     "İY Üst 1,5 & 2Y Üst 1,5",
+     0.2454
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Farklı Kombineler",
+   "oneri": "1 & 2Y gol olur",
+   "olasilik": 0.6263,
+   "adil_oran": 1.6,
+   "en_olasi": "1 & 2Y gol olur",
+   "en_olasi_p": 0.6263,
+   "guven": "yüksek",
+   "not_": "Sitedeki kombinasyon içerikleri farklı olabilir",
+   "secimler": [
+    [
+     "1 & 2Y gol olur",
+     0.6263
+    ],
+    [
+     "2 & 2Y gol olur",
+     0.1039
+    ],
+    [
+     "Chelsea LFC (Kadınlar) her iki yarıda gol & 1",
+     0.4483
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) her iki yarıda gol & 2",
+     0.0579
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans Kombo",
+   "oneri": "1X & 1,5 Üst",
+   "olasilik": 0.7567,
+   "adil_oran": 1.32,
+   "en_olasi": "1X & 1,5 Üst",
+   "en_olasi_p": 0.7567,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1,5 Üst",
+     0.7567
+    ],
+    [
+     "1X & 1,5 Alt",
+     0.118
+    ],
+    [
+     "1X & 2,5 Üst",
+     0.5771
+    ],
+    [
+     "1X & 2,5 Alt",
+     0.2976
+    ],
+    [
+     "1X & 3,5 Üst",
+     0.3972
+    ],
+    [
+     "1X & 3,5 Alt",
+     0.4775
+    ],
+    [
+     "12 & 1,5 Üst",
+     0.7155
+    ],
+    [
+     "12 & 1,5 Alt",
+     0.1151
+    ],
+    [
+     "12 & 2,5 Üst",
+     0.5985
+    ],
+    [
+     "12 & 2,5 Alt",
+     0.2321
+    ],
+    [
+     "12 & 3,5 Üst",
+     0.3779
+    ],
+    [
+     "12 & 3,5 Alt",
+     0.4527
+    ],
+    [
+     "X2 & 1,5 Üst",
+     0.2279
+    ],
+    [
+     "X2 & 1,5 Alt",
+     0.0668
+    ],
+    [
+     "X2 & 2,5 Üst",
+     0.136
+    ],
+    [
+     "X2 & 2,5 Alt",
+     0.1587
+    ],
+    [
+     "X2 & 3,5 Üst",
+     0.0954
+    ],
+    [
+     "X2 & 3,5 Alt",
+     0.1993
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "İlk Yarı/Maç Sonucu ve Toplam Gol",
+   "oneri": "1/1 & 2,5 Üst",
+   "olasilik": 0.3651,
+   "adil_oran": 2.74,
+   "en_olasi": "1/1 & 2,5 Üst",
+   "en_olasi_p": 0.3651,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1 & 2,5 Üst",
+     0.3651
+    ],
+    [
+     "1/1 & 2,5 Alt",
+     0.1064
+    ],
+    [
+     "1/X & 2,5 Üst",
+     0.0177
+    ],
+    [
+     "1/X & 2,5 Alt",
+     0.0196
+    ],
+    [
+     "1/2 & 2,5 Üst",
+     0.0104
+    ],
+    [
+     "1/2 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "X/1 & 2,5 Üst",
+     0.1186
+    ],
+    [
+     "X/1 & 2,5 Alt",
+     0.0791
+    ],
+    [
+     "X/X & 2,5 Üst",
+     0.0212
+    ],
+    [
+     "X/X & 2,5 Alt",
+     0.0738
+    ],
+    [
+     "X/2 & 2,5 Üst",
+     0.0249
+    ],
+    [
+     "X/2 & 2,5 Alt",
+     0.0226
+    ],
+    [
+     "2/1 & 2,5 Üst",
+     0.0361
+    ],
+    [
+     "2/1 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "2/X & 2,5 Üst",
+     0.0185
+    ],
+    [
+     "2/X & 2,5 Alt",
+     0.0187
+    ],
+    [
+     "2/2 & 2,5 Üst",
+     0.0434
+    ],
+    [
+     "2/2 & 2,5 Alt",
+     0.0241
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Her İki Yarıda Gol Olur",
+   "oneri": "Evet",
+   "olasilik": 0.6567,
+   "adil_oran": 1.52,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6567,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6567
+    ],
+    [
+     "Hayır",
+     0.3432
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım",
+   "oneri": "Chelsea LFC (Kadınlar)",
+   "olasilik": 0.6935,
+   "adil_oran": 1.44,
+   "en_olasi": "Chelsea LFC (Kadınlar)",
+   "en_olasi_p": 0.6935,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar)",
+     0.6935
+    ],
+    [
+     "Gol yok",
+     0.0348
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar)",
+     0.2716
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Son Golü Atacak Takım",
+   "oneri": "Chelsea LFC (Kadınlar)",
+   "olasilik": 0.6943,
+   "adil_oran": 1.44,
+   "en_olasi": "Chelsea LFC (Kadınlar)",
+   "en_olasi_p": 0.6943,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar)",
+     0.6943
+    ],
+    [
+     "Gol yok",
+     0.0348
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar)",
+     0.2708
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golün Atılma Şekli",
+   "oneri": "Şut",
+   "olasilik": 0.6945,
+   "adil_oran": 1.44,
+   "en_olasi": "Şut",
+   "en_olasi_p": 0.6945,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şut",
+     0.6945
+    ],
+    [
+     "Kafa",
+     0.147
+    ],
+    [
+     "Penaltı",
+     0.0606
+    ],
+    [
+     "Serbest vuruş",
+     0.0284
+    ],
+    [
+     "Kendi kalesine",
+     0.0346
+    ],
+    [
+     "Gol yok",
+     0.0348
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı",
+   "oneri": "1-27 dk",
+   "olasilik": 0.5472,
+   "adil_oran": 1.83,
+   "en_olasi": "1-27 dk",
+   "en_olasi_p": 0.5472,
+   "guven": "orta",
+   "not_": "Sınır 27. dk varsayıldı",
+   "secimler": [
+    [
+     "1-27 dk",
+     0.5472
+    ],
+    [
+     "28-90 dk",
+     0.418
+    ],
+    [
+     "Gol yok",
+     0.0348
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Chelsea LFC (Kadınlar) : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "1-10 dk",
+   "olasilik": 0.1829,
+   "adil_oran": 5.47,
+   "en_olasi": "1-10 dk",
+   "en_olasi_p": 0.1829,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.1829
+    ],
+    [
+     "11-20 dk",
+     0.1568
+    ],
+    [
+     "21-30 dk",
+     0.1318
+    ],
+    [
+     "31-40 dk",
+     0.1097
+    ],
+    [
+     "41-50 dk",
+     0.1062
+    ],
+    [
+     "51-60 dk",
+     0.0676
+    ],
+    [
+     "61-70 dk",
+     0.0576
+    ],
+    [
+     "71-80 dk",
+     0.0467
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0533
+    ],
+    [
+     "Gol yok",
+     0.0873
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Paris Saint-Germain (Kadınlar) : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.3939,
+   "adil_oran": 2.54,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.3939,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.076
+    ],
+    [
+     "11-20 dk",
+     0.0756
+    ],
+    [
+     "21-30 dk",
+     0.0718
+    ],
+    [
+     "31-40 dk",
+     0.068
+    ],
+    [
+     "41-50 dk",
+     0.0761
+    ],
+    [
+     "51-60 dk",
+     0.0578
+    ],
+    [
+     "61-70 dk",
+     0.055
+    ],
+    [
+     "71-80 dk",
+     0.0527
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0732
+    ],
+    [
+     "Gol yok",
+     0.3939
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı (15 dk.)",
+   "oneri": "1-15 dk",
+   "olasilik": 0.3487,
+   "adil_oran": 2.87,
+   "en_olasi": "1-15 dk",
+   "en_olasi_p": 0.3487,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-15 dk",
+     0.3487
+    ],
+    [
+     "16-30 dk",
+     0.24
+    ],
+    [
+     "31-45 (+uz.) dk",
+     0.1772
+    ],
+    [
+     "46-60 dk",
+     0.0934
+    ],
+    [
+     "61-75 dk",
+     0.0605
+    ],
+    [
+     "76-90 (+uz.) dk",
+     0.0453
+    ],
+    [
+     "Gol yok",
+     0.0348
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve Maç Sonucu",
+   "oneri": "İlk gol Chelsea LFC (Kadınlar) & 1",
+   "olasilik": 0.6013,
+   "adil_oran": 1.66,
+   "en_olasi": "İlk gol Chelsea LFC (Kadınlar) & 1",
+   "en_olasi_p": 0.6013,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Chelsea LFC (Kadınlar) & 1",
+     0.6013
+    ],
+    [
+     "İlk gol Chelsea LFC (Kadınlar) & X",
+     0.0672
+    ],
+    [
+     "İlk gol Chelsea LFC (Kadınlar) & 2",
+     0.025
+    ],
+    [
+     "İlk gol Paris Saint-Germain (Kadınlar) & 1",
+     0.104
+    ],
+    [
+     "İlk gol Paris Saint-Germain (Kadınlar) & X",
+     0.0673
+    ],
+    [
+     "İlk gol Paris Saint-Germain (Kadınlar) & 2",
+     0.1003
+    ],
+    [
+     "Gol yok",
+     0.0348
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 1. Yarı Sonucu",
+   "oneri": "İlk gol Chelsea LFC (Kadınlar) & İY 1",
+   "olasilik": 0.4913,
+   "adil_oran": 2.04,
+   "en_olasi": "İlk gol Chelsea LFC (Kadınlar) & İY 1",
+   "en_olasi_p": 0.4913,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Chelsea LFC (Kadınlar) & İY 1",
+     0.4913
+    ],
+    [
+     "İlk gol Chelsea LFC (Kadınlar) & İY X",
+     0.1932
+    ],
+    [
+     "İlk gol Chelsea LFC (Kadınlar) & İY 2",
+     0.009
+    ],
+    [
+     "İlk gol Paris Saint-Germain (Kadınlar) & İY 1",
+     0.0279
+    ],
+    [
+     "İlk gol Paris Saint-Germain (Kadınlar) & İY X",
+     0.112
+    ],
+    [
+     "İlk gol Paris Saint-Germain (Kadınlar) & İY 2",
+     0.1318
+    ],
+    [
+     "Gol yok",
+     0.0348
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 2. Yarı Sonucu",
+   "oneri": "İlk gol Chelsea LFC (Kadınlar) & 2Y 1",
+   "olasilik": 0.4417,
+   "adil_oran": 2.26,
+   "en_olasi": "İlk gol Chelsea LFC (Kadınlar) & 2Y 1",
+   "en_olasi_p": 0.4417,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Chelsea LFC (Kadınlar) & 2Y 1",
+     0.4417
+    ],
+    [
+     "İlk gol Chelsea LFC (Kadınlar) & 2Y X",
+     0.1703
+    ],
+    [
+     "İlk gol Chelsea LFC (Kadınlar) & 2Y 2",
+     0.0816
+    ],
+    [
+     "İlk gol Paris Saint-Germain (Kadınlar) & 2Y 1",
+     0.1384
+    ],
+    [
+     "İlk gol Paris Saint-Germain (Kadınlar) & 2Y X",
+     0.0745
+    ],
+    [
+     "İlk gol Paris Saint-Germain (Kadınlar) & 2Y 2",
+     0.0587
+    ],
+    [
+     "Gol yok",
+     0.0348
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Doğru Skor",
+   "oneri": "Diğer",
+   "olasilik": 0.1028,
+   "adil_oran": 9.73,
+   "en_olasi": "Diğer",
+   "en_olasi_p": 0.1028,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Diğer",
+     0.1028
+    ],
+    [
+     "2-0",
+     0.1023
+    ],
+    [
+     "2-1",
+     0.0969
+    ],
+    [
+     "1-0",
+     0.0832
+    ],
+    [
+     "3-0",
+     0.083
+    ],
+    [
+     "3-1",
+     0.0776
+    ],
+    [
+     "1-1",
+     0.0772
+    ],
+    [
+     "4-0",
+     0.051
+    ],
+    [
+     "4-1",
+     0.0469
+    ],
+    [
+     "2-2",
+     0.0444
+    ],
+    [
+     "3-2",
+     0.0362
+    ],
+    [
+     "1-2",
+     0.0359
+    ],
+    [
+     "0-0",
+     0.0348
+    ],
+    [
+     "0-1",
+     0.0319
+    ],
+    [
+     "4-2",
+     0.0215
+    ],
+    [
+     "0-2",
+     0.0147
+    ],
+    [
+     "2-3",
+     0.0139
+    ],
+    [
+     "3-3",
+     0.0113
+    ],
+    [
+     "1-3",
+     0.0112
+    ],
+    [
+     "4-3",
+     0.0067
+    ],
+    [
+     "0-3",
+     0.0047
+    ],
+    [
+     "2-4",
+     0.0033
+    ],
+    [
+     "1-4",
+     0.0031
+    ],
+    [
+     "3-4",
+     0.0029
+    ],
+    [
+     "4-4",
+     0.0015
+    ],
+    [
+     "0-4",
+     0.001
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Herhangi Bir Zamanda Doğru Skor",
+   "oneri": "1-0 herhangi bir anda",
+   "olasilik": 0.6865,
+   "adil_oran": 1.46,
+   "en_olasi": "1-0 herhangi bir anda",
+   "en_olasi_p": 0.6865,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-0 herhangi bir anda",
+     0.6865
+    ],
+    [
+     "2-0 herhangi bir anda",
+     0.4359
+    ],
+    [
+     "1-1 herhangi bir anda",
+     0.3356
+    ],
+    [
+     "2-1 herhangi bir anda",
+     0.2795
+    ],
+    [
+     "0-1 herhangi bir anda",
+     0.2628
+    ],
+    [
+     "3-0 herhangi bir anda",
+     0.2436
+    ],
+    [
+     "3-1 herhangi bir anda",
+     0.178
+    ],
+    [
+     "1-2 herhangi bir anda",
+     0.1076
+    ],
+    [
+     "2-2 herhangi bir anda",
+     0.1028
+    ],
+    [
+     "3-2 herhangi bir anda",
+     0.0714
+    ],
+    [
+     "0-2 herhangi bir anda",
+     0.0633
+    ],
+    [
+     "2-3 herhangi bir anda",
+     0.0277
+    ],
+    [
+     "1-3 herhangi bir anda",
+     0.0266
+    ],
+    [
+     "3-3 herhangi bir anda",
+     0.0202
+    ],
+    [
+     "0-3 herhangi bir anda",
+     0.0136
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Skor Kombinasyonları",
+   "oneri": "Chelsea LFC (Kadınlar) 1-0/2-0/2-1",
+   "olasilik": 0.2824,
+   "adil_oran": 3.54,
+   "en_olasi": "Chelsea LFC (Kadınlar) 1-0/2-0/2-1",
+   "en_olasi_p": 0.2824,
+   "guven": "yüksek",
+   "not_": "Sitedeki gruplar farklı olabilir",
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) 1-0/2-0/2-1",
+     0.2824
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 3-0/3-1/4-0",
+     0.2116
+    ],
+    [
+     "0-0/1-1",
+     0.1121
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 0-1/0-2/1-2",
+     0.0826
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 0-3/1-3/0-4",
+     0.0169
+    ],
+    [
+     "2-2/3-3",
+     0.0557
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "1.Yarı/Maç Skoru",
+   "oneri": "İY 1-0 / MS 2-0",
+   "olasilik": 0.0503,
+   "adil_oran": 19.89,
+   "en_olasi": "İY 1-0 / MS 2-0",
+   "en_olasi_p": 0.0503,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 1-0 / MS 2-0",
+     0.0503
+    ],
+    [
+     "İY 0-0 / MS 1-0",
+     0.0466
+    ],
+    [
+     "İY 1-0 / MS 1-0",
+     0.0366
+    ],
+    [
+     "İY 0-0 / MS 0-0",
+     0.0348
+    ],
+    [
+     "İY 1-0 / MS 3-0",
+     0.0339
+    ],
+    [
+     "İY 0-0 / MS 2-0",
+     0.0325
+    ],
+    [
+     "İY 2-0 / MS 3-0",
+     0.0274
+    ],
+    [
+     "İY 1-0 / MS 2-1",
+     0.0263
+    ],
+    [
+     "İY 0-0 / MS 1-1",
+     0.0242
+    ],
+    [
+     "İY 1-1 / MS 2-1",
+     0.0217
+    ],
+    [
+     "İY 1-0 / MS 1-1",
+     0.0196
+    ],
+    [
+     "İY 2-0 / MS 2-0",
+     0.0195
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Maç Skoru Beraberlik (0-0 hariç)",
+   "oneri": "Hayır",
+   "olasilik": 0.8655,
+   "adil_oran": 1.16,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8655,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1346
+    ],
+    [
+     "Hayır",
+     0.8655
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Chelsea LFC (Kadınlar) Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.2238,
+   "adil_oran": 4.47,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2238,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2238
+    ],
+    [
+     "2 farkla",
+     0.2056
+    ],
+    [
+     "3 farkla",
+     0.1419
+    ],
+    [
+     "4+ farkla",
+     0.134
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Paris Saint-Germain (Kadınlar) : Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.085,
+   "adil_oran": 11.76,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.085,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.085
+    ],
+    [
+     "2 farkla",
+     0.03
+    ],
+    [
+     "3 farkla",
+     0.0083
+    ],
+    [
+     "4+ farkla",
+     0.0019
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Chelsea LFC (Kadınlar) Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 4+ gol",
+   "olasilik": 0.226,
+   "adil_oran": 4.42,
+   "en_olasi": "Kazanır & 4+ gol",
+   "en_olasi_p": 0.226,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.0832
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.1992
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.1969
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.226
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Paris Saint-Germain (Kadınlar) Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.0507,
+   "adil_oran": 19.74,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.0507,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.0319
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.0507
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.0298
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.0129
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Chelsea LFC (Kadınlar) Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.641,
+   "adil_oran": 1.56,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.641,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.359
+    ],
+    [
+     "Hayır",
+     0.641
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Paris Saint-Germain (Kadınlar) Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9475,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9475,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0525
+    ],
+    [
+     "Hayır",
+     0.9475
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Chelsea LFC (Kadınlar) İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.6525,
+   "adil_oran": 1.53,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6525,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3475
+    ],
+    [
+     "Hayır",
+     0.6525
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Paris Saint-Germain (Kadınlar) İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9617,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9617,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0383
+    ],
+    [
+     "Hayır",
+     0.9617
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Chelsea LFC (Kadınlar) Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.6068,
+   "adil_oran": 1.65,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6068,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3932
+    ],
+    [
+     "Hayır",
+     0.6068
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Paris Saint-Germain (Kadınlar) Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.7456,
+   "adil_oran": 1.34,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7456,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2544
+    ],
+    [
+     "Hayır",
+     0.7456
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Chelsea LFC (Kadınlar) En Az Bir Yarıyı Kazanır",
+   "oneri": "Evet",
+   "olasilik": 0.7984,
+   "adil_oran": 1.25,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7984,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7984
+    ],
+    [
+     "Hayır",
+     0.2016
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Paris Saint-Germain (Kadınlar) En Az Bir Yarıyı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7389,
+   "adil_oran": 1.35,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7389,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2611
+    ],
+    [
+     "Hayır",
+     0.7389
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Chelsea LFC (Kadınlar) İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.9524,
+   "adil_oran": 1.05,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9524,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0476
+    ],
+    [
+     "Hayır",
+     0.9524
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Paris Saint-Germain (Kadınlar) İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.9267,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9267,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0733
+    ],
+    [
+     "Hayır",
+     0.9267
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Sonucu",
+   "oneri": "1 (Chelsea LFC (Kadınlar))",
+   "olasilik": 0.5192,
+   "adil_oran": 1.93,
+   "en_olasi": "1 (Chelsea LFC (Kadınlar))",
+   "en_olasi_p": 0.5192,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Chelsea LFC (Kadınlar))",
+     0.5192
+    ],
+    [
+     "X",
+     0.3401
+    ],
+    [
+     "2 (Paris Saint-Germain (Kadınlar))",
+     0.1408
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.6599,
+   "adil_oran": 1.52,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.8592,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.8592
+    ],
+    [
+     "12",
+     0.6599
+    ],
+    [
+     "X2",
+     0.4808
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.814,
+   "adil_oran": 1.23,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.814,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7738
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2262
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.4381
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.5619
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.186
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.814
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 1. Takım Toplam Gol",
+   "oneri": "Chelsea LFC (Kadınlar) 1,5 Alt",
+   "olasilik": 0.7107,
+   "adil_oran": 1.41,
+   "en_olasi": "Chelsea LFC (Kadınlar) 1,5 Alt",
+   "en_olasi_p": 0.7107,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Üst",
+     0.6591
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Alt",
+     0.3409
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Üst",
+     0.2893
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Alt",
+     0.7107
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 2. Takım Toplam Gol",
+   "oneri": "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+   "olasilik": 0.6621,
+   "adil_oran": 1.51,
+   "en_olasi": "Paris Saint-Germain (Kadınlar) 1,5 Alt",
+   "en_olasi_p": 0.9342,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Üst",
+     0.3379
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+     0.6621
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 1,5 Üst",
+     0.0659
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 1,5 Alt",
+     0.9342
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Chelsea LFC (Kadınlar) Toplam Gol Asya",
+   "oneri": "Chelsea LFC (Kadınlar) Asya 0,5 Üst",
+   "olasilik": 0.6591,
+   "adil_oran": 1.52,
+   "en_olasi": "Chelsea LFC (Kadınlar) Asya 0,5 Üst",
+   "en_olasi_p": 0.6591,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) Asya 0,5 Üst",
+     0.6591
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 0,5 Alt",
+     0.3409
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 0,75 Üst",
+     0.5817
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 0,75 Alt",
+     0.4183
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 1 Üst",
+     0.459
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 1 Alt",
+     0.541
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Paris Saint-Germain (Kadınlar) Toplam Gol Asya",
+   "oneri": "Paris Saint-Germain (Kadınlar) Asya 0,5 Alt",
+   "olasilik": 0.6621,
+   "adil_oran": 1.51,
+   "en_olasi": "Paris Saint-Germain (Kadınlar) Asya 0,5 Alt",
+   "en_olasi_p": 0.6621,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Paris Saint-Germain (Kadınlar) Asya 0,25 Üst",
+     0.5051
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya 0,25 Alt",
+     0.4949
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya 0,5 Üst",
+     0.3379
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya 0,5 Alt",
+     0.6621
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7769,
+   "adil_oran": 1.29,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7769,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2231
+    ],
+    [
+     "Hayır",
+     0.7769
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı",
+   "oneri": "Paris Saint-Germain (Kadınlar) +1,5",
+   "olasilik": 0.7808,
+   "adil_oran": 1.28,
+   "en_olasi": "Chelsea LFC (Kadınlar) +1,5",
+   "en_olasi_p": 0.9741,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) -1,5",
+     0.2192
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +1,5",
+     0.7808
+    ],
+    [
+     "Chelsea LFC (Kadınlar) -0,5",
+     0.5192
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +0,5",
+     0.4808
+    ],
+    [
+     "Chelsea LFC (Kadınlar) +0,5",
+     0.8592
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) -0,5",
+     0.1408
+    ],
+    [
+     "Chelsea LFC (Kadınlar) +1,5",
+     0.9741
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) -1,5",
+     0.0259
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Goller Asya Handikapı",
+   "oneri": "Chelsea LFC (Kadınlar) Asya +0,25",
+   "olasilik": 0.8304,
+   "adil_oran": 1.2,
+   "en_olasi": "Chelsea LFC (Kadınlar) Asya +0,5",
+   "en_olasi_p": 0.8592,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) Asya -1",
+     0.3131
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya -1",
+     0.0293
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya -0,75",
+     0.4343
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya -0,75",
+     0.0884
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya -0,5",
+     0.5192
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya -0,5",
+     0.1408
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya -0,25",
+     0.6255
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya -0,25",
+     0.1696
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya 0",
+     0.7867
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya 0",
+     0.2133
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya +0,25",
+     0.8304
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya +0,25",
+     0.3745
+    ],
+    [
+     "Chelsea LFC (Kadınlar) Asya +0,5",
+     0.8592
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) Asya +0,5",
+     0.4808
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Paris Saint-Germain (Kadınlar) (-2)",
+   "olasilik": 0.7808,
+   "adil_oran": 1.28,
+   "en_olasi": "Chelsea LFC (Kadınlar) (+2)",
+   "en_olasi_p": 0.9741,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) (-2)",
+     0.0687
+    ],
+    [
+     "X (-2)",
+     0.1505
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) (-2)",
+     0.7808
+    ],
+    [
+     "Chelsea LFC (Kadınlar) (-1)",
+     0.2192
+    ],
+    [
+     "X (-1)",
+     0.3
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) (-1)",
+     0.4808
+    ],
+    [
+     "Chelsea LFC (Kadınlar) (+1)",
+     0.8592
+    ],
+    [
+     "X (+1)",
+     0.1149
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) (+1)",
+     0.0259
+    ],
+    [
+     "Chelsea LFC (Kadınlar) (+2)",
+     0.9741
+    ],
+    [
+     "X (+2)",
+     0.0223
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) (+2)",
+     0.0036
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Asya",
+   "oneri": "Toplam Asya 0,75 Üst",
+   "olasilik": 0.7282,
+   "adil_oran": 1.37,
+   "en_olasi": "Toplam Asya 0,75 Üst",
+   "en_olasi_p": 0.7282,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam Asya 0,75 Üst",
+     0.7282
+    ],
+    [
+     "Toplam Asya 0,75 Alt",
+     0.2718
+    ],
+    [
+     "Toplam Asya 1 Üst",
+     0.6595
+    ],
+    [
+     "Toplam Asya 1 Alt",
+     0.3405
+    ],
+    [
+     "Toplam Asya 1,25 Üst",
+     0.5265
+    ],
+    [
+     "Toplam Asya 1,25 Alt",
+     0.4735
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Toplam Gol (3-İhtimalli)",
+   "oneri": "1 Üst",
+   "olasilik": 0.4381,
+   "adil_oran": 2.28,
+   "en_olasi": "1 Üst",
+   "en_olasi_p": 0.4381,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.2262
+    ],
+    [
+     "Tam 1",
+     0.3357
+    ],
+    [
+     "1 Üst",
+     0.4381
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.436,
+   "adil_oran": 2.29,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.436,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0832
+    ],
+    [
+     "1 & KG Yok",
+     0.436
+    ],
+    [
+     "X & KG Var",
+     0.1139
+    ],
+    [
+     "X & KG Yok",
+     0.2262
+    ],
+    [
+     "2 & KG Var",
+     0.026
+    ],
+    [
+     "2 & KG Yok",
+     0.1148
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Aralığı",
+   "oneri": "2-3 gol",
+   "olasilik": 0.3749,
+   "adil_oran": 2.67,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.3749,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2262
+    ],
+    [
+     "1 gol",
+     0.3357
+    ],
+    [
+     "2-3 gol",
+     0.3749
+    ],
+    [
+     "4+ gol",
+     0.0632
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Chelsea LFC (Kadınlar) Toplam Gol (Aralık)",
+   "oneri": "1 gol",
+   "olasilik": 0.3697,
+   "adil_oran": 2.7,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3697,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3409
+    ],
+    [
+     "1 gol",
+     0.3697
+    ],
+    [
+     "2+ gol",
+     0.2893
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Paris Saint-Germain (Kadınlar) Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.6621,
+   "adil_oran": 1.51,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.6621,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6621
+    ],
+    [
+     "1 gol",
+     0.272
+    ],
+    [
+     "2+ gol",
+     0.0659
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5878,
+   "adil_oran": 1.7,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5878,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.5619
+    ],
+    [
+     "1-2 gol",
+     0.5878
+    ],
+    [
+     "2-3 gol",
+     0.3749
+    ],
+    [
+     "3+ gol",
+     0.186
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7107,
+   "adil_oran": 1.41,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7107,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3409
+    ],
+    [
+     "0-1 gol",
+     0.7107
+    ],
+    [
+     "1-2 gol",
+     0.5657
+    ],
+    [
+     "2+ gol",
+     0.2893
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.6621,
+   "adil_oran": 1.51,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.9342,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6621
+    ],
+    [
+     "0-1 gol",
+     0.9342
+    ],
+    [
+     "1-2 gol",
+     0.3287
+    ],
+    [
+     "2+ gol",
+     0.0659
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3357,
+   "adil_oran": 2.98,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3357,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2262
+    ],
+    [
+     "1 gol",
+     0.3357
+    ],
+    [
+     "2 gol",
+     0.252
+    ],
+    [
+     "3 gol",
+     0.1228
+    ],
+    [
+     "4+ gol",
+     0.0632
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Chelsea LFC (Kadınlar) Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3697,
+   "adil_oran": 2.7,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3697,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3409
+    ],
+    [
+     "1 gol",
+     0.3697
+    ],
+    [
+     "2 gol",
+     0.196
+    ],
+    [
+     "3+ gol",
+     0.0933
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Paris Saint-Germain (Kadınlar) Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.6621,
+   "adil_oran": 1.51,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.6621,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6621
+    ],
+    [
+     "1 gol",
+     0.272
+    ],
+    [
+     "2 gol",
+     0.0567
+    ],
+    [
+     "3+ gol",
+     0.0092
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Chelsea LFC (Kadınlar) Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.3,
+   "adil_oran": 3.33,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.3,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.3
+    ],
+    [
+     "2 farkla",
+     0.1505
+    ],
+    [
+     "3+ farkla",
+     0.0687
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Paris Saint-Germain (Kadınlar) Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.1149,
+   "adil_oran": 8.71,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1149,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1149
+    ],
+    [
+     "2 farkla",
+     0.0223
+    ],
+    [
+     "3+ farkla",
+     0.0036
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Chelsea LFC (Kadınlar) Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.564,
+   "adil_oran": 1.77,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.564,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.436
+    ],
+    [
+     "Hayır",
+     0.564
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Paris Saint-Germain (Kadınlar) Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8852,
+   "adil_oran": 1.13,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8852,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1148
+    ],
+    [
+     "Hayır",
+     0.8852
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı İlk Golü Atacak Takım",
+   "oneri": "Chelsea LFC (Kadınlar)",
+   "olasilik": 0.5589,
+   "adil_oran": 1.79,
+   "en_olasi": "Chelsea LFC (Kadınlar)",
+   "en_olasi_p": 0.5589,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar)",
+     0.5589
+    ],
+    [
+     "Gol yok",
+     0.2262
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar)",
+     0.2149
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Son Golü Atacak Takım",
+   "oneri": "Chelsea LFC (Kadınlar)",
+   "olasilik": 0.5587,
+   "adil_oran": 1.79,
+   "en_olasi": "Chelsea LFC (Kadınlar)",
+   "en_olasi_p": 0.5587,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar)",
+     0.5587
+    ],
+    [
+     "Gol yok",
+     0.2262
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar)",
+     0.2151
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Doğru Skor",
+   "oneri": "1-0",
+   "olasilik": 0.2435,
+   "adil_oran": 4.11,
+   "en_olasi": "1-0",
+   "en_olasi_p": 0.2435,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-0",
+     0.2435
+    ],
+    [
+     "0-0",
+     0.2262
+    ],
+    [
+     "2-0",
+     0.1307
+    ],
+    [
+     "1-1",
+     0.102
+    ],
+    [
+     "0-1",
+     0.0922
+    ],
+    [
+     "2-1",
+     0.0524
+    ],
+    [
+     "3-0",
+     0.0465
+    ],
+    [
+     "Diğer",
+     0.0244
+    ],
+    [
+     "1-2",
+     0.0209
+    ],
+    [
+     "0-2",
+     0.0193
+    ],
+    [
+     "3-1",
+     0.0186
+    ],
+    [
+     "2-2",
+     0.0111
+    ],
+    [
+     "3-2",
+     0.0039
+    ],
+    [
+     "0-3",
+     0.003
+    ],
+    [
+     "1-3",
+     0.0029
+    ],
+    [
+     "2-3",
+     0.0016
+    ],
+    [
+     "3-3",
+     0.0007
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Sonucu",
+   "oneri": "1 (Chelsea LFC (Kadınlar))",
+   "olasilik": 0.5801,
+   "adil_oran": 1.72,
+   "en_olasi": "1 (Chelsea LFC (Kadınlar))",
+   "en_olasi_p": 0.5801,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Chelsea LFC (Kadınlar))",
+     0.5801
+    ],
+    [
+     "X",
+     0.2796
+    ],
+    [
+     "2 (Paris Saint-Germain (Kadınlar))",
+     0.1403
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.7204,
+   "adil_oran": 1.39,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.8598,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.8598
+    ],
+    [
+     "12",
+     0.7204
+    ],
+    [
+     "X2",
+     0.4199
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.7063,
+   "adil_oran": 1.42,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.8481,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.8481
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.1519
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.5617
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.4383
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.2937
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.7063
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Chelsea LFC (Kadınlar) Toplam Gol",
+   "oneri": "Chelsea LFC (Kadınlar) 0,5 Üst",
+   "olasilik": 0.745,
+   "adil_oran": 1.34,
+   "en_olasi": "Chelsea LFC (Kadınlar) 0,5 Üst",
+   "en_olasi_p": 0.745,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Üst",
+     0.745
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Alt",
+     0.255
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Üst",
+     0.3974
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Alt",
+     0.6026
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Paris Saint-Germain (Kadınlar) Toplam Gol",
+   "oneri": "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+   "olasilik": 0.595,
+   "adil_oran": 1.68,
+   "en_olasi": "Paris Saint-Germain (Kadınlar) 1,5 Alt",
+   "en_olasi_p": 0.9037,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Üst",
+     0.405
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+     0.595
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 1,5 Üst",
+     0.0963
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 1,5 Alt",
+     0.9037
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.6981,
+   "adil_oran": 1.43,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6981,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3019
+    ],
+    [
+     "Hayır",
+     0.6981
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı",
+   "oneri": "Paris Saint-Germain (Kadınlar) +1,5",
+   "olasilik": 0.7125,
+   "adil_oran": 1.4,
+   "en_olasi": "Chelsea LFC (Kadınlar) +1,5",
+   "en_olasi_p": 0.9691,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) -1,5",
+     0.2875
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +1,5",
+     0.7125
+    ],
+    [
+     "Chelsea LFC (Kadınlar) -0,5",
+     0.5801
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +0,5",
+     0.4199
+    ],
+    [
+     "Chelsea LFC (Kadınlar) +0,5",
+     0.8598
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) -0,5",
+     0.1403
+    ],
+    [
+     "Chelsea LFC (Kadınlar) +1,5",
+     0.9691
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) -1,5",
+     0.0309
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Paris Saint-Germain (Kadınlar) (-2)",
+   "olasilik": 0.7125,
+   "adil_oran": 1.4,
+   "en_olasi": "Chelsea LFC (Kadınlar) (+2)",
+   "en_olasi_p": 0.9691,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) (-2)",
+     0.1105
+    ],
+    [
+     "X (-2)",
+     0.177
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) (-2)",
+     0.7125
+    ],
+    [
+     "Chelsea LFC (Kadınlar) (-1)",
+     0.2875
+    ],
+    [
+     "X (-1)",
+     0.2926
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) (-1)",
+     0.4199
+    ],
+    [
+     "Chelsea LFC (Kadınlar) (+1)",
+     0.8598
+    ],
+    [
+     "X (+1)",
+     0.1094
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) (+1)",
+     0.0309
+    ],
+    [
+     "Chelsea LFC (Kadınlar) (+2)",
+     0.9691
+    ],
+    [
+     "X (+2)",
+     0.0258
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) (+2)",
+     0.0051
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.4431,
+   "adil_oran": 2.26,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.4431,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.137
+    ],
+    [
+     "1 & KG Yok",
+     0.4431
+    ],
+    [
+     "X & KG Var",
+     0.1277
+    ],
+    [
+     "X & KG Yok",
+     0.1519
+    ],
+    [
+     "2 & KG Var",
+     0.0372
+    ],
+    [
+     "2 & KG Yok",
+     0.103
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol Aralığı",
+   "oneri": "2-3 gol",
+   "olasilik": 0.4391,
+   "adil_oran": 2.28,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.4391,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.1519
+    ],
+    [
+     "1 gol",
+     0.2863
+    ],
+    [
+     "2-3 gol",
+     0.4391
+    ],
+    [
+     "4+ gol",
+     0.1227
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Chelsea LFC (Kadınlar) Toplam Gol (Aralık)",
+   "oneri": "2+ gol",
+   "olasilik": 0.3974,
+   "adil_oran": 2.52,
+   "en_olasi": "2+ gol",
+   "en_olasi_p": 0.3974,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.255
+    ],
+    [
+     "1 gol",
+     0.3476
+    ],
+    [
+     "2+ gol",
+     0.3974
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Paris Saint-Germain (Kadınlar) Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.595,
+   "adil_oran": 1.68,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.595,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.595
+    ],
+    [
+     "1 gol",
+     0.3087
+    ],
+    [
+     "2+ gol",
+     0.0963
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5543,
+   "adil_oran": 1.8,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5543,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.4383
+    ],
+    [
+     "1-2 gol",
+     0.5543
+    ],
+    [
+     "2-3 gol",
+     0.4391
+    ],
+    [
+     "3+ gol",
+     0.2937
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.6026,
+   "adil_oran": 1.66,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.6026,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.255
+    ],
+    [
+     "0-1 gol",
+     0.6026
+    ],
+    [
+     "1-2 gol",
+     0.5874
+    ],
+    [
+     "2+ gol",
+     0.3974
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.595,
+   "adil_oran": 1.68,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.9037,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.595
+    ],
+    [
+     "0-1 gol",
+     0.9037
+    ],
+    [
+     "1-2 gol",
+     0.3886
+    ],
+    [
+     "2+ gol",
+     0.0963
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.2863,
+   "adil_oran": 3.49,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.2863,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.1519
+    ],
+    [
+     "1 gol",
+     0.2863
+    ],
+    [
+     "2 gol",
+     0.268
+    ],
+    [
+     "3 gol",
+     0.1711
+    ],
+    [
+     "4+ gol",
+     0.1227
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Chelsea LFC (Kadınlar) Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3476,
+   "adil_oran": 2.88,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3476,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.255
+    ],
+    [
+     "1 gol",
+     0.3476
+    ],
+    [
+     "2 gol",
+     0.2397
+    ],
+    [
+     "3+ gol",
+     0.1577
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Paris Saint-Germain (Kadınlar) Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.595,
+   "adil_oran": 1.68,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.595,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.595
+    ],
+    [
+     "1 gol",
+     0.3087
+    ],
+    [
+     "2 gol",
+     0.0799
+    ],
+    [
+     "3+ gol",
+     0.0164
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Chelsea LFC (Kadınlar) Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.2926,
+   "adil_oran": 3.42,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2926,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2926
+    ],
+    [
+     "2 farkla",
+     0.177
+    ],
+    [
+     "3+ farkla",
+     0.1105
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Paris Saint-Germain (Kadınlar) Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.1094,
+   "adil_oran": 9.14,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1094,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1094
+    ],
+    [
+     "2 farkla",
+     0.0258
+    ],
+    [
+     "3+ farkla",
+     0.0051
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Chelsea LFC (Kadınlar) Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.5569,
+   "adil_oran": 1.8,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5569,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4431
+    ],
+    [
+     "Hayır",
+     0.5569
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Paris Saint-Germain (Kadınlar) Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.897,
+   "adil_oran": 1.11,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.897,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.103
+    ],
+    [
+     "Hayır",
+     0.897
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı İlk Golü Atacak Takım",
+   "oneri": "Chelsea LFC (Kadınlar)",
+   "olasilik": 0.6144,
+   "adil_oran": 1.63,
+   "en_olasi": "Chelsea LFC (Kadınlar)",
+   "en_olasi_p": 0.6144,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar)",
+     0.6144
+    ],
+    [
+     "Gol yok",
+     0.1519
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar)",
+     0.2337
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Son Golü Atacak Takım",
+   "oneri": "Chelsea LFC (Kadınlar)",
+   "olasilik": 0.6125,
+   "adil_oran": 1.63,
+   "en_olasi": "Chelsea LFC (Kadınlar)",
+   "en_olasi_p": 0.6125,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar)",
+     0.6125
+    ],
+    [
+     "Gol yok",
+     0.1519
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar)",
+     0.2356
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Doğru Skor",
+   "oneri": "1-0",
+   "olasilik": 0.2079,
+   "adil_oran": 4.81,
+   "en_olasi": "1-0",
+   "en_olasi_p": 0.2079,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-0",
+     0.2079
+    ],
+    [
+     "0-0",
+     0.1519
+    ],
+    [
+     "2-0",
+     0.141
+    ],
+    [
+     "1-1",
+     0.1066
+    ],
+    [
+     "0-1",
+     0.0784
+    ],
+    [
+     "2-1",
+     0.0754
+    ],
+    [
+     "3-0",
+     0.0645
+    ],
+    [
+     "Diğer",
+     0.0514
+    ],
+    [
+     "3-1",
+     0.0331
+    ],
+    [
+     "1-2",
+     0.0274
+    ],
+    [
+     "0-2",
+     0.0204
+    ],
+    [
+     "2-2",
+     0.0195
+    ],
+    [
+     "3-2",
+     0.0088
+    ],
+    [
+     "1-3",
+     0.005
+    ],
+    [
+     "0-3",
+     0.0037
+    ],
+    [
+     "2-3",
+     0.0033
+    ],
+    [
+     "3-3",
+     0.0016
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Karşılıklı Gol",
+   "oneri": "İY Yok / 2Y Yok",
+   "olasilik": 0.5421,
+   "adil_oran": 1.84,
+   "en_olasi": "İY Yok / 2Y Yok",
+   "en_olasi_p": 0.5421,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Var / 2Y Var",
+     0.0671
+    ],
+    [
+     "İY Var / 2Y Yok",
+     0.156
+    ],
+    [
+     "İY Yok / 2Y Var",
+     0.2349
+    ],
+    [
+     "İY Yok / 2Y Yok",
+     0.5421
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı veya Maç Sonucu",
+   "oneri": "İY 1 veya MS 1",
+   "olasilik": 0.7529,
+   "adil_oran": 1.33,
+   "en_olasi": "İY 1 veya MS 1",
+   "en_olasi_p": 0.7529,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 1 veya MS 1",
+     0.7529
+    ],
+    [
+     "İY X veya MS X",
+     0.4145
+    ],
+    [
+     "İY 2 veya MS 2",
+     0.1986
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarı/Maç Sonucu",
+   "oneri": "1/1",
+   "olasilik": 0.4716,
+   "adil_oran": 2.12,
+   "en_olasi": "1/1",
+   "en_olasi_p": 0.4716,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.4716
+    ],
+    [
+     "1/X",
+     0.0372
+    ],
+    [
+     "1/2",
+     0.0104
+    ],
+    [
+     "X/1",
+     0.1977
+    ],
+    [
+     "X/X",
+     0.095
+    ],
+    [
+     "X/2",
+     0.0474
+    ],
+    [
+     "2/1",
+     0.0361
+    ],
+    [
+     "2/X",
+     0.0372
+    ],
+    [
+     "2/2",
+     0.0675
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Sonucu",
+   "oneri": "1/1",
+   "olasilik": 0.3009,
+   "adil_oran": 3.32,
+   "en_olasi": "1/1",
+   "en_olasi_p": 0.3009,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.3009
+    ],
+    [
+     "1/X",
+     0.1454
+    ],
+    [
+     "1/2",
+     0.0729
+    ],
+    [
+     "X/1",
+     0.1977
+    ],
+    [
+     "X/X",
+     0.095
+    ],
+    [
+     "X/2",
+     0.0474
+    ],
+    [
+     "2/1",
+     0.0816
+    ],
+    [
+     "2/X",
+     0.0392
+    ],
+    [
+     "2/2",
+     0.0199
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.4725,
+   "adil_oran": 2.12,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.4725,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.3044
+    ],
+    [
+     "Eşit",
+     0.2231
+    ],
+    [
+     "2. Yarı",
+     0.4725
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı : Çifte Şans",
+   "oneri": "1. veya 2. Yarı",
+   "olasilik": 0.7769,
+   "adil_oran": 1.29,
+   "en_olasi": "1. veya 2. Yarı",
+   "en_olasi_p": 0.7769,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı veya Eşit",
+     0.5275
+    ],
+    [
+     "2. Yarı veya Eşit",
+     0.6956
+    ],
+    [
+     "1. veya 2. Yarı",
+     0.7769
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Chelsea LFC (Kadınlar) : En Çok Gol Attığı Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.4356,
+   "adil_oran": 2.3,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.4356,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2933
+    ],
+    [
+     "Eşit",
+     0.2711
+    ],
+    [
+     "2. Yarı",
+     0.4356
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Paris Saint-Germain (Kadınlar) : En Çok Gol Attığı Yarı",
+   "oneri": "Eşit",
+   "olasilik": 0.4818,
+   "adil_oran": 2.08,
+   "en_olasi": "Eşit",
+   "en_olasi_p": 0.4818,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2225
+    ],
+    [
+     "Eşit",
+     0.4818
+    ],
+    [
+     "2. Yarı",
+     0.2957
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Chelsea LFC (Kadınlar) : Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.5086,
+   "adil_oran": 1.97,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5086,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4914
+    ],
+    [
+     "Hayır",
+     0.5086
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Paris Saint-Germain (Kadınlar) Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8633,
+   "adil_oran": 1.16,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8633,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1367
+    ],
+    [
+     "Hayır",
+     0.8633
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Chelsea LFC (Kadınlar) : İlk Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.6591,
+   "adil_oran": 1.52,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6591,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6591
+    ],
+    [
+     "Hayır",
+     0.3409
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Paris Saint-Germain (Kadınlar) İlk Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.6621,
+   "adil_oran": 1.51,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6621,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3379
+    ],
+    [
+     "Hayır",
+     0.6621
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Chelsea LFC (Kadınlar) : İkinci Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.745,
+   "adil_oran": 1.34,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.745,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.745
+    ],
+    [
+     "Hayır",
+     0.255
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Paris Saint-Germain (Kadınlar) İkinci Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.595,
+   "adil_oran": 1.68,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.595,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.405
+    ],
+    [
+     "Hayır",
+     0.595
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.7738,
+   "adil_oran": 1.29,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7738,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7738
+    ],
+    [
+     "Hayır",
+     0.2262
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İkinci Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.8481,
+   "adil_oran": 1.18,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.8481,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.8481
+    ],
+    [
+     "Hayır",
+     0.1519
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarıda da 1.5 Üst Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7546,
+   "adil_oran": 1.33,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7546,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2454
+    ],
+    [
+     "Hayır",
+     0.7546
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarı Goller 1.5 Alt",
+   "oneri": "Hayır",
+   "olasilik": 0.7544,
+   "adil_oran": 1.33,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7544,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2456
+    ],
+    [
+     "Hayır",
+     0.7544
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Chelsea LFC (Kadınlar) : Gol Atar 1.Yarı/2.Yarı",
+   "oneri": "Evet/Evet",
+   "olasilik": 0.4914,
+   "adil_oran": 2.03,
+   "en_olasi": "Evet/Evet",
+   "en_olasi_p": 0.4914,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.4914
+    ],
+    [
+     "Evet/Hayır",
+     0.1676
+    ],
+    [
+     "Hayır/Evet",
+     0.2536
+    ],
+    [
+     "Hayır/Hayır",
+     0.0873
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Paris Saint-Germain (Kadınlar) Gol Atar İlk Yarı/İkinci Yarı",
+   "oneri": "Hayır/Hayır",
+   "olasilik": 0.3939,
+   "adil_oran": 2.54,
+   "en_olasi": "Hayır/Hayır",
+   "en_olasi_p": 0.3939,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.1367
+    ],
+    [
+     "Evet/Hayır",
+     0.2011
+    ],
+    [
+     "Hayır/Evet",
+     0.2682
+    ],
+    [
+     "Hayır/Hayır",
+     0.3939
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarıları Farklı Takımlar Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8455,
+   "adil_oran": 1.18,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8455,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1545
+    ],
+    [
+     "Hayır",
+     0.8455
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarılardan En Az Birinde Beraberlik",
+   "oneri": "Evet",
+   "olasilik": 0.5247,
+   "adil_oran": 1.91,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5247,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5247
+    ],
+    [
+     "Hayır",
+     0.4753
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1.Yarı Toplam Gol'e karşı 2. Yarı Toplam Gol Handikapı",
+   "oneri": "1. Yarı +1,5",
+   "olasilik": 0.737,
+   "adil_oran": 1.36,
+   "en_olasi": "1. Yarı +1,5",
+   "en_olasi_p": 0.737,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "2. Yarı -1,5",
+     0.263
+    ],
+    [
+     "2. Yarı -0,5",
+     0.4725
+    ],
+    [
+     "2. Yarı +0,5",
+     0.6956
+    ],
+    [
+     "1. Yarı +1,5",
+     0.737
+    ],
+    [
+     "1. Yarı +0,5",
+     0.5275
+    ],
+    [
+     "1. Yarı -0,5",
+     0.3044
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7497,
+   "adil_oran": 1.33,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7497,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2503
+    ],
+    [
+     "Hayır",
+     0.7497
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Köşe Vuruşu",
+   "oneri": "Evet",
+   "olasilik": 0.6124,
+   "adil_oran": 1.63,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6124,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6124
+    ],
+    [
+     "Hayır",
+     0.3876
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Chelsea LFC (Kadınlar) : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Chelsea LFC (Kadınlar) 0,5 Alt",
+   "olasilik": 0.5158,
+   "adil_oran": 1.94,
+   "en_olasi": "Chelsea LFC (Kadınlar) 1,5 Alt",
+   "en_olasi_p": 0.8569,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Üst",
+     0.4842
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Alt",
+     0.5158
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Üst",
+     0.1431
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Alt",
+     0.8569
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Paris Saint-Germain (Kadınlar) : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+   "olasilik": 0.7519,
+   "adil_oran": 1.33,
+   "en_olasi": "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+   "en_olasi_p": 0.7519,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Üst",
+     0.2481
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+     0.7519
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Sarı Kartlar",
+   "oneri": "Hayır",
+   "olasilik": 0.8656,
+   "adil_oran": 1.16,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8656,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1344
+    ],
+    [
+     "Hayır",
+     0.8656
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.6698,
+   "adil_oran": 1.49,
+   "en_olasi": "X",
+   "en_olasi_p": 0.6698,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Chelsea LFC (Kadınlar))",
+     0.2449
+    ],
+    [
+     "X",
+     0.6698
+    ],
+    [
+     "2 (Paris Saint-Germain (Kadınlar))",
+     0.0853
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Gol Handikapı",
+   "oneri": "Paris Saint-Germain (Kadınlar) (-1)",
+   "olasilik": 0.7551,
+   "adil_oran": 1.32,
+   "en_olasi": "Chelsea LFC (Kadınlar) (+1)",
+   "en_olasi_p": 0.9147,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) (-1)",
+     0.0362
+    ],
+    [
+     "X (-1)",
+     0.2087
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) (-1)",
+     0.7551
+    ],
+    [
+     "Chelsea LFC (Kadınlar) (+1)",
+     0.9147
+    ],
+    [
+     "X (+1)",
+     0.0806
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) (+1)",
+     0.0047
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.6448,
+   "adil_oran": 1.55,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9287,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.3552
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.6448
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0712
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9287
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Chelsea LFC (Kadınlar) Toplam Goller",
+   "oneri": "Chelsea LFC (Kadınlar) 0,5 Alt",
+   "olasilik": 0.7284,
+   "adil_oran": 1.37,
+   "en_olasi": "Chelsea LFC (Kadınlar) 1,5 Alt",
+   "en_olasi_p": 0.9599,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Üst",
+     0.2716
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Alt",
+     0.7284
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Üst",
+     0.0401
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Alt",
+     0.9599
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Paris Saint-Germain (Kadınlar) Toplam Goller",
+   "oneri": "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+   "olasilik": 0.8855,
+   "adil_oran": 1.13,
+   "en_olasi": "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+   "en_olasi_p": 0.8855,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Üst",
+     0.1145
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+     0.8855
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. İki Takım Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.9691,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9691,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0308
+    ],
+    [
+     "Hayır",
+     0.9691
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.4737,
+   "adil_oran": 2.11,
+   "en_olasi": "X",
+   "en_olasi_p": 0.4737,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Chelsea LFC (Kadınlar))",
+     0.4012
+    ],
+    [
+     "X",
+     0.4737
+    ],
+    [
+     "2 (Paris Saint-Germain (Kadınlar))",
+     0.1251
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Gol Handikapı",
+   "oneri": "Paris Saint-Germain (Kadınlar) (-1)",
+   "olasilik": 0.5988,
+   "adil_oran": 1.67,
+   "en_olasi": "Chelsea LFC (Kadınlar) (+1)",
+   "en_olasi_p": 0.8749,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) (-1)",
+     0.1157
+    ],
+    [
+     "X (-1)",
+     0.2855
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) (-1)",
+     0.5988
+    ],
+    [
+     "Chelsea LFC (Kadınlar) (+1)",
+     0.8749
+    ],
+    [
+     "X (+1)",
+     0.1105
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) (+1)",
+     0.0145
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Toplam Goller",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.7672,
+   "adil_oran": 1.3,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.7672,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.5975
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.4025
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.2328
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.7672
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Chelsea LFC (Kadınlar) Toplam Goller",
+   "oneri": "Chelsea LFC (Kadınlar) 0,5 Alt",
+   "olasilik": 0.5178,
+   "adil_oran": 1.93,
+   "en_olasi": "Chelsea LFC (Kadınlar) 1,5 Alt",
+   "en_olasi_p": 0.8589,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Üst",
+     0.4822
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Alt",
+     0.5178
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Üst",
+     0.1411
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Alt",
+     0.8589
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Paris Saint-Germain (Kadınlar) Toplam Goller",
+   "oneri": "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+   "olasilik": 0.7757,
+   "adil_oran": 1.29,
+   "en_olasi": "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+   "en_olasi_p": 0.7757,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Üst",
+     0.2243
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+     0.7757
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Galibi",
+   "oneri": "1 (Chelsea LFC (Kadınlar))",
+   "olasilik": 0.5906,
+   "adil_oran": 1.69,
+   "en_olasi": "1 (Chelsea LFC (Kadınlar))",
+   "en_olasi_p": 0.5906,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Chelsea LFC (Kadınlar))",
+     0.5906
+    ],
+    [
+     "X",
+     0.2669
+    ],
+    [
+     "2 (Paris Saint-Germain (Kadınlar))",
+     0.1425
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Gol Handikapı",
+   "oneri": "Paris Saint-Germain (Kadınlar) +1,5",
+   "olasilik": 0.6931,
+   "adil_oran": 1.44,
+   "en_olasi": "Chelsea LFC (Kadınlar) +0,5",
+   "en_olasi_p": 0.8575,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) -1,5",
+     0.3069
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +1,5",
+     0.6931
+    ],
+    [
+     "Chelsea LFC (Kadınlar) -0,5",
+     0.5906
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +0,5",
+     0.4094
+    ],
+    [
+     "Chelsea LFC (Kadınlar) +0,5",
+     0.8575
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) -0,5",
+     0.1425
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Toplam Goller",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.6743,
+   "adil_oran": 1.48,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.8651,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.8651
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.1349
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.5968
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.4032
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.3257
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.6743
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Chelsea LFC (Kadınlar) Toplam Goller",
+   "oneri": "Chelsea LFC (Kadınlar) 0,5 Üst",
+   "olasilik": 0.7649,
+   "adil_oran": 1.31,
+   "en_olasi": "Chelsea LFC (Kadınlar) 0,5 Üst",
+   "en_olasi_p": 0.7649,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Üst",
+     0.7649
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Alt",
+     0.2351
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Üst",
+     0.4259
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Alt",
+     0.5741
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Paris Saint-Germain (Kadınlar) Toplam Goller",
+   "oneri": "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+   "olasilik": 0.5738,
+   "adil_oran": 1.74,
+   "en_olasi": "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+   "en_olasi_p": 0.5738,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Üst",
+     0.4262
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+     0.5738
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.674,
+   "adil_oran": 1.48,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.674,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.326
+    ],
+    [
+     "Hayır",
+     0.674
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Galibi",
+   "oneri": "1 (Chelsea LFC (Kadınlar))",
+   "olasilik": 0.6471,
+   "adil_oran": 1.55,
+   "en_olasi": "1 (Chelsea LFC (Kadınlar))",
+   "en_olasi_p": 0.6471,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Chelsea LFC (Kadınlar))",
+     0.6471
+    ],
+    [
+     "X",
+     0.2159
+    ],
+    [
+     "2 (Paris Saint-Germain (Kadınlar))",
+     0.137
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Gol Handikapı",
+   "oneri": "Chelsea LFC (Kadınlar) -0,5",
+   "olasilik": 0.6471,
+   "adil_oran": 1.55,
+   "en_olasi": "Chelsea LFC (Kadınlar) +0,5",
+   "en_olasi_p": 0.863,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) -1,5",
+     0.3864
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +1,5",
+     0.6136
+    ],
+    [
+     "Chelsea LFC (Kadınlar) -0,5",
+     0.6471
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +0,5",
+     0.3529
+    ],
+    [
+     "Chelsea LFC (Kadınlar) +0,5",
+     0.863
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) -0,5",
+     0.137
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Toplam Goller",
+   "oneri": "Toplam 1,5 Üst",
+   "olasilik": 0.7253,
+   "adil_oran": 1.38,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.9234,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.9234
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.0766
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.7253
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.2747
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.4746
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.5254
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Chelsea LFC (Kadınlar) Toplam Goller",
+   "oneri": "Chelsea LFC (Kadınlar) 1,5 Üst",
+   "olasilik": 0.5534,
+   "adil_oran": 1.81,
+   "en_olasi": "Chelsea LFC (Kadınlar) 0,5 Üst",
+   "en_olasi_p": 0.8441,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Üst",
+     0.8441
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Alt",
+     0.1559
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Üst",
+     0.5534
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Alt",
+     0.4466
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Paris Saint-Germain (Kadınlar) Toplam Goller",
+   "oneri": "Paris Saint-Germain (Kadınlar) 0,5 Üst",
+   "olasilik": 0.5078,
+   "adil_oran": 1.97,
+   "en_olasi": "Paris Saint-Germain (Kadınlar) 0,5 Üst",
+   "en_olasi_p": 0.5078,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Üst",
+     0.5078
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+     0.4922
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.5714,
+   "adil_oran": 1.75,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5714,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4286
+    ],
+    [
+     "Hayır",
+     0.5714
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kafa Golü Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.5975,
+   "adil_oran": 1.67,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5975,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4025
+    ],
+    [
+     "Hayır",
+     0.5975
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Frikikten Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9027,
+   "adil_oran": 1.11,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9027,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0973
+    ],
+    [
+     "Hayır",
+     0.9027
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Rövaşata ile Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.993,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.993,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.007
+    ],
+    [
+     "Hayır",
+     0.993
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Ceza Sahası Dışından Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.6925,
+   "adil_oran": 1.44,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6925,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3075
+    ],
+    [
+     "Hayır",
+     0.6925
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kendi Kalesine Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.8882,
+   "adil_oran": 1.13,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8882,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1118
+    ],
+    [
+     "Hayır",
+     0.8882
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Oyuncu Hat-trick Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.969,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.969,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.031
+    ],
+    [
+     "Hayır",
+     0.969
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Kaleci Asist Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9864,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9864,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0136
+    ],
+    [
+     "Hayır",
+     0.9864
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "VAR'lar: Toplam (Yalnızca Sahada İnceleme veya Video İnceleme İşareti (TV))",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.7179,
+   "adil_oran": 1.39,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9554,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.2821
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.7179
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0446
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9554
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Sonuç",
+   "oneri": "1 (Chelsea LFC (Kadınlar))",
+   "olasilik": 0.8686,
+   "adil_oran": 1.15,
+   "en_olasi": "1 (Chelsea LFC (Kadınlar))",
+   "en_olasi_p": 0.8686,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Chelsea LFC (Kadınlar))",
+     0.8686
+    ],
+    [
+     "X",
+     0.0578
+    ],
+    [
+     "2 (Paris Saint-Germain (Kadınlar))",
+     0.0736
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam",
+   "oneri": "Toplam 7,5 Üst",
+   "olasilik": 0.7788,
+   "adil_oran": 1.28,
+   "en_olasi": "Toplam 7,5 Üst",
+   "en_olasi_p": 0.7788,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 7,5 Üst",
+     0.7788
+    ],
+    [
+     "Toplam 7,5 Alt",
+     0.2213
+    ],
+    [
+     "Toplam 8,5 Üst",
+     0.6663
+    ],
+    [
+     "Toplam 8,5 Alt",
+     0.3337
+    ],
+    [
+     "Toplam 9,5 Üst",
+     0.5418
+    ],
+    [
+     "Toplam 9,5 Alt",
+     0.4582
+    ],
+    [
+     "Toplam 10,5 Üst",
+     0.4154
+    ],
+    [
+     "Toplam 10,5 Alt",
+     0.5846
+    ],
+    [
+     "Toplam 11,5 Üst",
+     0.3021
+    ],
+    [
+     "Toplam 11,5 Alt",
+     0.6979
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Chelsea LFC (Kadınlar)",
+   "oneri": "Chelsea LFC (Kadınlar) 4,5 Üst",
+   "olasilik": 0.8256,
+   "adil_oran": 1.21,
+   "en_olasi": "Chelsea LFC (Kadınlar) 3,5 Üst",
+   "en_olasi_p": 0.9172,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) 3,5 Üst",
+     0.9172
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 3,5 Alt",
+     0.0828
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 4,5 Üst",
+     0.8256
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 4,5 Alt",
+     0.1744
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 5,5 Üst",
+     0.6967
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 5,5 Alt",
+     0.3033
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 6,5 Üst",
+     0.5478
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 6,5 Alt",
+     0.4522
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 7,5 Üst",
+     0.4006
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 7,5 Alt",
+     0.5994
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Paris Saint-Germain (Kadınlar)",
+   "oneri": "Paris Saint-Germain (Kadınlar) 4,5 Alt",
+   "olasilik": 0.8145,
+   "adil_oran": 1.23,
+   "en_olasi": "Paris Saint-Germain (Kadınlar) 4,5 Alt",
+   "en_olasi_p": 0.8145,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Paris Saint-Germain (Kadınlar) 1,5 Üst",
+     0.8021
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 1,5 Alt",
+     0.1979
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 2,5 Üst",
+     0.5767
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 2,5 Alt",
+     0.4233
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 3,5 Üst",
+     0.3527
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 3,5 Alt",
+     0.6473
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 4,5 Üst",
+     0.1855
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 4,5 Alt",
+     0.8145
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Handikap",
+   "oneri": "Chelsea LFC (Kadınlar) -1,5",
+   "olasilik": 0.7844,
+   "adil_oran": 1.27,
+   "en_olasi": "Chelsea LFC (Kadınlar) +2,5",
+   "en_olasi_p": 0.9832,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) -4,5",
+     0.425
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +4,5",
+     0.575
+    ],
+    [
+     "Chelsea LFC (Kadınlar) -3,5",
+     0.5535
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +3,5",
+     0.4465
+    ],
+    [
+     "Chelsea LFC (Kadınlar) -2,5",
+     0.6756
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +2,5",
+     0.3244
+    ],
+    [
+     "Chelsea LFC (Kadınlar) -1,5",
+     0.7844
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +1,5",
+     0.2155
+    ],
+    [
+     "Chelsea LFC (Kadınlar) -0,5",
+     0.8686
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +0,5",
+     0.1314
+    ],
+    [
+     "Chelsea LFC (Kadınlar) +0,5",
+     0.9264
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) -0,5",
+     0.0736
+    ],
+    [
+     "Chelsea LFC (Kadınlar) +1,5",
+     0.9628
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) -1,5",
+     0.0372
+    ],
+    [
+     "Chelsea LFC (Kadınlar) +2,5",
+     0.9832
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) -2,5",
+     0.0168
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (3-İhtimalli)",
+   "oneri": "9 Üst",
+   "olasilik": 0.5418,
+   "adil_oran": 1.85,
+   "en_olasi": "9 Üst",
+   "en_olasi_p": 0.5418,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "9 Alt",
+     0.3337
+    ],
+    [
+     "10 Alt",
+     0.4582
+    ],
+    [
+     "Tam 9",
+     0.1246
+    ],
+    [
+     "Tam 10",
+     0.1263
+    ],
+    [
+     "9 Üst",
+     0.5418
+    ],
+    [
+     "10 Üst",
+     0.4154
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (Aralık)",
+   "oneri": "9-11 korner",
+   "olasilik": 0.3642,
+   "adil_oran": 2.75,
+   "en_olasi": "9-11 korner",
+   "en_olasi_p": 0.3642,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "0-8 korner",
+     0.3337
+    ],
+    [
+     "9-11 korner",
+     0.3642
+    ],
+    [
+     "12+ korner",
+     0.3021
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Tek/Çift",
+   "oneri": "Çift",
+   "olasilik": 0.5038,
+   "adil_oran": 1.98,
+   "en_olasi": "Çift",
+   "en_olasi_p": 0.5038,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.4962
+    ],
+    [
+     "Çift",
+     0.5038
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Korner Yarışı",
+   "oneri": "İlk 3 korner Chelsea LFC (Kadınlar)",
+   "olasilik": 0.8234,
+   "adil_oran": 1.21,
+   "en_olasi": "İlk 3 korner Chelsea LFC (Kadınlar)",
+   "en_olasi_p": 0.8234,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk 3 korner Chelsea LFC (Kadınlar)",
+     0.8234
+    ],
+    [
+     "İlk 3 korner Paris Saint-Germain (Kadınlar)",
+     0.1576
+    ],
+    [
+     "3 kornere kimse ulaşamaz",
+     0.0132
+    ],
+    [
+     "İlk 5 korner Chelsea LFC (Kadınlar)",
+     0.78
+    ],
+    [
+     "İlk 5 korner Paris Saint-Germain (Kadınlar)",
+     0.0751
+    ],
+    [
+     "5 kornere kimse ulaşamaz",
+     0.1427
+    ],
+    [
+     "İlk 7 korner Chelsea LFC (Kadınlar)",
+     0.5414
+    ],
+    [
+     "İlk 7 korner Paris Saint-Germain (Kadınlar)",
+     0.0211
+    ],
+    [
+     "7 kornere kimse ulaşamaz",
+     0.437
+    ],
+    [
+     "İlk 9 korner Chelsea LFC (Kadınlar)",
+     0.2689
+    ],
+    [
+     "İlk 9 korner Paris Saint-Germain (Kadınlar)",
+     0.0031
+    ],
+    [
+     "9 kornere kimse ulaşamaz",
+     0.728
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Sonucu",
+   "oneri": "1 (Chelsea LFC (Kadınlar))",
+   "olasilik": 0.736,
+   "adil_oran": 1.36,
+   "en_olasi": "1 (Chelsea LFC (Kadınlar))",
+   "en_olasi_p": 0.736,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Chelsea LFC (Kadınlar))",
+     0.736
+    ],
+    [
+     "X",
+     0.1345
+    ],
+    [
+     "2 (Paris Saint-Germain (Kadınlar))",
+     0.1295
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Handikap",
+   "oneri": "Chelsea LFC (Kadınlar) -0,5",
+   "olasilik": 0.736,
+   "adil_oran": 1.36,
+   "en_olasi": "Chelsea LFC (Kadınlar) +0,5",
+   "en_olasi_p": 0.8705,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) -2,5",
+     0.3705
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +2,5",
+     0.6295
+    ],
+    [
+     "Chelsea LFC (Kadınlar) -1,5",
+     0.558
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +1,5",
+     0.442
+    ],
+    [
+     "Chelsea LFC (Kadınlar) -0,5",
+     0.736
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +0,5",
+     0.264
+    ],
+    [
+     "Chelsea LFC (Kadınlar) +0,5",
+     0.8705
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) -0,5",
+     0.1295
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Toplam",
+   "oneri": "Toplam 3,5 Üst",
+   "olasilik": 0.6893,
+   "adil_oran": 1.45,
+   "en_olasi": "Toplam 3,5 Üst",
+   "en_olasi_p": 0.6893,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 3,5 Üst",
+     0.6893
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.3107
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.5038
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.4962
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.3291
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.6709
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Chelsea LFC (Kadınlar) Toplam",
+   "oneri": "Chelsea LFC (Kadınlar) 2,5 Üst",
+   "olasilik": 0.6357,
+   "adil_oran": 1.57,
+   "en_olasi": "Chelsea LFC (Kadınlar) 1,5 Üst",
+   "en_olasi_p": 0.8393,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Üst",
+     0.8393
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Alt",
+     0.1607
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 2,5 Üst",
+     0.6357
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 2,5 Alt",
+     0.3643
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 3,5 Üst",
+     0.4153
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 3,5 Alt",
+     0.5847
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Paris Saint-Germain (Kadınlar) Toplam",
+   "oneri": "Paris Saint-Germain (Kadınlar) 0,5 Üst",
+   "olasilik": 0.7556,
+   "adil_oran": 1.32,
+   "en_olasi": "Paris Saint-Germain (Kadınlar) 0,5 Üst",
+   "en_olasi_p": 0.7556,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Üst",
+     0.7556
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+     0.2444
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 1,5 Üst",
+     0.411
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 1,5 Alt",
+     0.589
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : 2. Yarı",
+   "oneri": "Toplam 6,5 Alt",
+   "olasilik": 0.7169,
+   "adil_oran": 1.39,
+   "en_olasi": "Toplam 6,5 Alt",
+   "en_olasi_p": 0.7169,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 4,5 Üst",
+     0.6116
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.3884
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.4374
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.5626
+    ],
+    [
+     "Toplam 6,5 Üst",
+     0.2831
+    ],
+    [
+     "Toplam 6,5 Alt",
+     0.7169
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : İlk Korner",
+   "oneri": "Chelsea LFC (Kadınlar)",
+   "olasilik": 0.6248,
+   "adil_oran": 1.6,
+   "en_olasi": "Chelsea LFC (Kadınlar)",
+   "en_olasi_p": 0.6248,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar)",
+     0.6248
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar)",
+     0.3751
+    ],
+    [
+     "Korner yok",
+     0.0001
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Son Korner",
+   "oneri": "Chelsea LFC (Kadınlar)",
+   "olasilik": 0.6262,
+   "adil_oran": 1.6,
+   "en_olasi": "Chelsea LFC (Kadınlar)",
+   "en_olasi_p": 0.6262,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar)",
+     0.6262
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar)",
+     0.3738
+    ],
+    [
+     "Korner yok",
+     0.0001
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "En Fazla Korner Olan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.5125,
+   "adil_oran": 1.95,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.5125,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.3606
+    ],
+    [
+     "Eşit",
+     0.1269
+    ],
+    [
+     "2. Yarı",
+     0.5125
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan : Sonuç",
+   "oneri": "1 (Chelsea LFC (Kadınlar))",
+   "olasilik": 0.3958,
+   "adil_oran": 2.53,
+   "en_olasi": "1 (Chelsea LFC (Kadınlar))",
+   "en_olasi_p": 0.3958,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "1 (Chelsea LFC (Kadınlar))",
+     0.3958
+    ],
+    [
+     "X",
+     0.2495
+    ],
+    [
+     "2 (Paris Saint-Germain (Kadınlar))",
+     0.3547
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan Handikapı",
+   "oneri": "Paris Saint-Germain (Kadınlar) +15,5",
+   "olasilik": 0.8111,
+   "adil_oran": 1.23,
+   "en_olasi": "Chelsea LFC (Kadınlar) +15,5",
+   "en_olasi_p": 0.8409,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) -15,5",
+     0.1889
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +15,5",
+     0.8111
+    ],
+    [
+     "Chelsea LFC (Kadınlar) -5,5",
+     0.391
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +5,5",
+     0.609
+    ],
+    [
+     "Chelsea LFC (Kadınlar) +5,5",
+     0.651
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) -5,5",
+     0.349
+    ],
+    [
+     "Chelsea LFC (Kadınlar) +15,5",
+     0.8409
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) -15,5",
+     0.1591
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam Puan",
+   "oneri": "Toplam 35,5 Alt",
+   "olasilik": 0.7296,
+   "adil_oran": 1.37,
+   "en_olasi": "Toplam 55,5 Alt",
+   "en_olasi_p": 0.9339,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 25,5 Üst",
+     0.4688
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.5312
+    ],
+    [
+     "Toplam 35,5 Üst",
+     0.2704
+    ],
+    [
+     "Toplam 35,5 Alt",
+     0.7296
+    ],
+    [
+     "Toplam 45,5 Üst",
+     0.1398
+    ],
+    [
+     "Toplam 45,5 Alt",
+     0.8602
+    ],
+    [
+     "Toplam 55,5 Üst",
+     0.0661
+    ],
+    [
+     "Toplam 55,5 Alt",
+     0.9339
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Chelsea LFC (Kadınlar) : Toplam Kart Puanı",
+   "oneri": "Chelsea LFC (Kadınlar) 5,5 Üst",
+   "olasilik": 0.7142,
+   "adil_oran": 1.4,
+   "en_olasi": "Chelsea LFC (Kadınlar) 25,5 Alt",
+   "en_olasi_p": 0.8356,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) 5,5 Üst",
+     0.7142
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 5,5 Alt",
+     0.2858
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 15,5 Üst",
+     0.3771
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 15,5 Alt",
+     0.6229
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 25,5 Üst",
+     0.1645
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 25,5 Alt",
+     0.8356
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Paris Saint-Germain (Kadınlar) : Toplam Kart Puanı",
+   "oneri": "Paris Saint-Germain (Kadınlar) 5,5 Üst",
+   "olasilik": 0.6879,
+   "adil_oran": 1.45,
+   "en_olasi": "Paris Saint-Germain (Kadınlar) 35,5 Alt",
+   "en_olasi_p": 0.9461,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Paris Saint-Germain (Kadınlar) 5,5 Üst",
+     0.6879
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 5,5 Alt",
+     0.3121
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 15,5 Üst",
+     0.3448
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 15,5 Alt",
+     0.6552
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 25,5 Üst",
+     0.1429
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 25,5 Alt",
+     0.857
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 35,5 Üst",
+     0.0539
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 35,5 Alt",
+     0.9461
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam (Aralıklar)",
+   "oneri": "0-20 puan",
+   "olasilik": 0.5249,
+   "adil_oran": 1.91,
+   "en_olasi": "0-20 puan",
+   "en_olasi_p": 0.5249,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "0-20 puan",
+     0.5249
+    ],
+    [
+     "21-40 puan",
+     0.3071
+    ],
+    [
+     "41-60 puan",
+     0.1204
+    ],
+    [
+     "61+ puan",
+     0.0449
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Toplam Kart Puanı",
+   "oneri": "Toplam 15,5 Alt",
+   "olasilik": 0.7661,
+   "adil_oran": 1.31,
+   "en_olasi": "Toplam 25,5 Alt",
+   "en_olasi_p": 0.9217,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 5,5 Üst",
+     0.5775
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.4225
+    ],
+    [
+     "Toplam 15,5 Üst",
+     0.2339
+    ],
+    [
+     "Toplam 15,5 Alt",
+     0.7661
+    ],
+    [
+     "Toplam 25,5 Üst",
+     0.0783
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.9217
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Chelsea LFC (Kadınlar) : Toplam Kart Puanı",
+   "oneri": "Chelsea LFC (Kadınlar) 5,5 Alt",
+   "olasilik": 0.6389,
+   "adil_oran": 1.57,
+   "en_olasi": "Chelsea LFC (Kadınlar) 15,5 Alt",
+   "en_olasi_p": 0.9108,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) 5,5 Üst",
+     0.3611
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 5,5 Alt",
+     0.6389
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 15,5 Üst",
+     0.0892
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 15,5 Alt",
+     0.9108
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Paris Saint-Germain (Kadınlar) : Toplam Kart Puanı",
+   "oneri": "Paris Saint-Germain (Kadınlar) 5,5 Alt",
+   "olasilik": 0.6602,
+   "adil_oran": 1.51,
+   "en_olasi": "Paris Saint-Germain (Kadınlar) 15,5 Alt",
+   "en_olasi_p": 0.9197,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Paris Saint-Germain (Kadınlar) 5,5 Üst",
+     0.3398
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 5,5 Alt",
+     0.6602
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 15,5 Üst",
+     0.0803
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 15,5 Alt",
+     0.9197
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Chelsea LFC (Kadınlar) : Toplam Kart Puanı",
+   "oneri": "Chelsea LFC (Kadınlar) 15,5 Alt",
+   "olasilik": 0.787,
+   "adil_oran": 1.27,
+   "en_olasi": "Chelsea LFC (Kadınlar) 15,5 Alt",
+   "en_olasi_p": 0.787,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) 5,5 Üst",
+     0.5552
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 5,5 Alt",
+     0.4448
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 15,5 Üst",
+     0.213
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 15,5 Alt",
+     0.787
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Paris Saint-Germain (Kadınlar) : Toplam Kart Puanı",
+   "oneri": "Paris Saint-Germain (Kadınlar) 15,5 Alt",
+   "olasilik": 0.8064,
+   "adil_oran": 1.24,
+   "en_olasi": "Paris Saint-Germain (Kadınlar) 25,5 Alt",
+   "en_olasi_p": 0.9348,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Paris Saint-Germain (Kadınlar) 5,5 Üst",
+     0.5247
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 5,5 Alt",
+     0.4753
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 15,5 Üst",
+     0.1936
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 15,5 Alt",
+     0.8064
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 25,5 Üst",
+     0.0652
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 25,5 Alt",
+     0.9348
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Direkt Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9337,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9337,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0663
+    ],
+    [
+     "Hayır",
+     0.9337
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Yarıda Kart Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.5446,
+   "adil_oran": 1.84,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5446,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4554
+    ],
+    [
+     "Hayır",
+     0.5446
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kırmızı Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.9958,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9958,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0042
+    ],
+    [
+     "Hayır",
+     0.9958
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.5084,
+   "adil_oran": 1.97,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5084,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4916
+    ],
+    [
+     "Hayır",
+     0.5084
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Kart Görür",
+   "oneri": "Hayır",
+   "olasilik": 0.8772,
+   "adil_oran": 1.14,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8772,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1227
+    ],
+    [
+     "Hayır",
+     0.8772
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Her İki Yarıda Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.9641,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9641,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0359
+    ],
+    [
+     "Hayır",
+     0.9641
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İlk Kartı Görecek Takım",
+   "oneri": "Chelsea LFC (Kadınlar)",
+   "olasilik": 0.4724,
+   "adil_oran": 2.12,
+   "en_olasi": "Chelsea LFC (Kadınlar)",
+   "en_olasi_p": 0.4724,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar)",
+     0.4724
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar)",
+     0.4381
+    ],
+    [
+     "Kart yok",
+     0.0895
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Son Kartı Görecek Takım",
+   "oneri": "Chelsea LFC (Kadınlar)",
+   "olasilik": 0.4726,
+   "adil_oran": 2.12,
+   "en_olasi": "Chelsea LFC (Kadınlar)",
+   "en_olasi_p": 0.4726,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar)",
+     0.4726
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar)",
+     0.4379
+    ],
+    [
+     "Kart yok",
+     0.0895
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Maçta Penaltı, Kırmızı Kart ve Kendi Kalesine Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9968,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9968,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0032
+    ],
+    [
+     "Hayır",
+     0.9968
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarı Uzatma Dakikalarında Kart Gösterilir (90+ dak)",
+   "oneri": "Hayır",
+   "olasilik": 0.8272,
+   "adil_oran": 1.21,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8272,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1728
+    ],
+    [
+     "Hayır",
+     0.8272
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarının Uzatma Dakikalarında Kırmızı Kart veya Gol Olur (90+ dakika)",
+   "oneri": "Hayır",
+   "olasilik": 0.8032,
+   "adil_oran": 1.24,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8032,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1968
+    ],
+    [
+     "Hayır",
+     0.8032
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Toplam Kırmızı Kartlar",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.9921,
+   "adil_oran": 1.01,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9921,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.1211
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.8789
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0079
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9921
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Chelsea LFC (Kadınlar) : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9372,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9372,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0628
+    ],
+    [
+     "Hayır",
+     0.9372
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Paris Saint-Germain (Kadınlar) : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9375,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9375,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0625
+    ],
+    [
+     "Hayır",
+     0.9375
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "1. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9582,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9582,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0418
+    ],
+    [
+     "Hayır",
+     0.9582
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "2. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.917,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.917,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.083
+    ],
+    [
+     "Hayır",
+     0.917
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Sonuç",
+   "oneri": "1 (Chelsea LFC (Kadınlar))",
+   "olasilik": 0.383,
+   "adil_oran": 2.61,
+   "en_olasi": "1 (Chelsea LFC (Kadınlar))",
+   "en_olasi_p": 0.383,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Chelsea LFC (Kadınlar))",
+     0.383
+    ],
+    [
+     "X",
+     0.279
+    ],
+    [
+     "2 (Paris Saint-Germain (Kadınlar))",
+     0.3379
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.721,
+   "adil_oran": 1.39,
+   "en_olasi": "12",
+   "en_olasi_p": 0.721,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.6621
+    ],
+    [
+     "12",
+     0.721
+    ],
+    [
+     "X2",
+     0.617
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Handikap",
+   "oneri": "Paris Saint-Germain (Kadınlar) +1,5",
+   "olasilik": 0.8339,
+   "adil_oran": 1.2,
+   "en_olasi": "Chelsea LFC (Kadınlar) +1,5",
+   "en_olasi_p": 0.8651,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) -1,5",
+     0.1661
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +1,5",
+     0.8339
+    ],
+    [
+     "Chelsea LFC (Kadınlar) -0,5",
+     0.383
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +0,5",
+     0.617
+    ],
+    [
+     "Chelsea LFC (Kadınlar) +0,5",
+     0.6621
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) -0,5",
+     0.3379
+    ],
+    [
+     "Chelsea LFC (Kadınlar) +1,5",
+     0.8651
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) -1,5",
+     0.1349
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Toplam",
+   "oneri": "Toplam 3,5 Alt",
+   "olasilik": 0.7889,
+   "adil_oran": 1.27,
+   "en_olasi": "Toplam 5,5 Alt",
+   "en_olasi_p": 0.9679,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 2,5 Üst",
+     0.4188
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.5812
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.2111
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.7889
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.0897
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.9103
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.0321
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.9679
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Chelsea LFC (Kadınlar) : Toplam",
+   "oneri": "Chelsea LFC (Kadınlar) 0,5 Üst",
+   "olasilik": 0.704,
+   "adil_oran": 1.42,
+   "en_olasi": "Chelsea LFC (Kadınlar) 2,5 Alt",
+   "en_olasi_p": 0.874,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Üst",
+     0.704
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Alt",
+     0.296
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Üst",
+     0.3467
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Alt",
+     0.6533
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 2,5 Üst",
+     0.126
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 2,5 Alt",
+     0.874
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Paris Saint-Germain (Kadınlar) : Toplam",
+   "oneri": "Paris Saint-Germain (Kadınlar) 1,5 Alt",
+   "olasilik": 0.6877,
+   "adil_oran": 1.45,
+   "en_olasi": "Paris Saint-Germain (Kadınlar) 3,5 Alt",
+   "en_olasi_p": 0.9728,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Üst",
+     0.6767
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+     0.3233
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 1,5 Üst",
+     0.3123
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 1,5 Alt",
+     0.6877
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 2,5 Üst",
+     0.1038
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 2,5 Alt",
+     0.8962
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 3,5 Üst",
+     0.0272
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 3,5 Alt",
+     0.9728
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Sonucu",
+   "oneri": "X",
+   "olasilik": 0.5143,
+   "adil_oran": 1.94,
+   "en_olasi": "X",
+   "en_olasi_p": 0.5143,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Chelsea LFC (Kadınlar))",
+     0.2544
+    ],
+    [
+     "X",
+     0.5143
+    ],
+    [
+     "2 (Paris Saint-Germain (Kadınlar))",
+     0.2313
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Handikap",
+   "oneri": "Chelsea LFC (Kadınlar) +0,5",
+   "olasilik": 0.7687,
+   "adil_oran": 1.3,
+   "en_olasi": "Chelsea LFC (Kadınlar) +0,5",
+   "en_olasi_p": 0.7687,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) -0,5",
+     0.2544
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +0,5",
+     0.7456
+    ],
+    [
+     "Chelsea LFC (Kadınlar) +0,5",
+     0.7687
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) -0,5",
+     0.2313
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı : Toplam",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.7939,
+   "adil_oran": 1.26,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.947,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.5654
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.4346
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.2061
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.7939
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.053
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.947
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Chelsea LFC (Kadınlar) Toplam",
+   "oneri": "Chelsea LFC (Kadınlar) 0,5 Alt",
+   "olasilik": 0.6477,
+   "adil_oran": 1.54,
+   "en_olasi": "Chelsea LFC (Kadınlar) 1,5 Alt",
+   "en_olasi_p": 0.928,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Üst",
+     0.3523
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Alt",
+     0.6477
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Üst",
+     0.072
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Alt",
+     0.928
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Paris Saint-Germain (Kadınlar) Toplam",
+   "oneri": "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+   "olasilik": 0.6697,
+   "adil_oran": 1.49,
+   "en_olasi": "Paris Saint-Germain (Kadınlar) 1,5 Alt",
+   "en_olasi_p": 0.9377,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Üst",
+     0.3303
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+     0.6697
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 1,5 Üst",
+     0.0623
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) 1,5 Alt",
+     0.9377
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Sonuç",
+   "oneri": "X",
+   "olasilik": 0.3656,
+   "adil_oran": 2.73,
+   "en_olasi": "X",
+   "en_olasi_p": 0.3656,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Chelsea LFC (Kadınlar))",
+     0.3349
+    ],
+    [
+     "X",
+     0.3656
+    ],
+    [
+     "2 (Paris Saint-Germain (Kadınlar))",
+     0.2994
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Handikap",
+   "oneri": "Chelsea LFC (Kadınlar) +0,5",
+   "olasilik": 0.7006,
+   "adil_oran": 1.43,
+   "en_olasi": "Chelsea LFC (Kadınlar) +0,5",
+   "en_olasi_p": 0.7006,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) -0,5",
+     0.3349
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) +0,5",
+     0.6651
+    ],
+    [
+     "Chelsea LFC (Kadınlar) +0,5",
+     0.7006
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) -0,5",
+     0.2994
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Toplam",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.8049,
+   "adil_oran": 1.24,
+   "en_olasi": "Toplam 3,5 Alt",
+   "en_olasi_p": 0.9327,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 1,5 Üst",
+     0.4466
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.5534
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1951
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8049
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.0673
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.9327
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Chelsea LFC (Kadınlar) Toplam",
+   "oneri": "Chelsea LFC (Kadınlar) 1,5 Alt",
+   "olasilik": 0.8137,
+   "adil_oran": 1.23,
+   "en_olasi": "Chelsea LFC (Kadınlar) 1,5 Alt",
+   "en_olasi_p": 0.8137,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Üst",
+     0.5457
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 0,5 Alt",
+     0.4543
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Üst",
+     0.1863
+    ],
+    [
+     "Chelsea LFC (Kadınlar) 1,5 Alt",
+     0.8137
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : İlk Sarı Kartı Görür",
+   "oneri": "Chelsea LFC (Kadınlar)",
+   "olasilik": 0.4694,
+   "adil_oran": 2.13,
+   "en_olasi": "Chelsea LFC (Kadınlar)",
+   "en_olasi_p": 0.4694,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar)",
+     0.4694
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar)",
+     0.4346
+    ],
+    [
+     "Sarı kart yok",
+     0.0961
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Son Sarı Kartı Görür",
+   "oneri": "Chelsea LFC (Kadınlar)",
+   "olasilik": 0.4689,
+   "adil_oran": 2.13,
+   "en_olasi": "Chelsea LFC (Kadınlar)",
+   "en_olasi_p": 0.4689,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar)",
+     0.4689
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar)",
+     0.435
+    ],
+    [
+     "Sarı kart yok",
+     0.0961
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7596,
+   "adil_oran": 1.32,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7596,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2404
+    ],
+    [
+     "Hayır",
+     0.7596
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Chelsea LFC (Kadınlar) : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8451,
+   "adil_oran": 1.18,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8451,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1549
+    ],
+    [
+     "Hayır",
+     0.8451
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Paris Saint-Germain (Kadınlar) : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8986,
+   "adil_oran": 1.11,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8986,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1014
+    ],
+    [
+     "Hayır",
+     0.8986
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "İki Takım da Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.984,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.984,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.016
+    ],
+    [
+     "Hayır",
+     0.984
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta İki Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9682,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9682,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0318
+    ],
+    [
+     "Hayır",
+     0.9682
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "1. Yarı : Penaltı",
+   "oneri": "Hayır",
+   "olasilik": 0.8865,
+   "adil_oran": 1.13,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8865,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1134
+    ],
+    [
+     "Hayır",
+     0.8865
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltıdan Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8089,
+   "adil_oran": 1.24,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8089,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1911
+    ],
+    [
+     "Hayır",
+     0.8089
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı Kaçırır",
+   "oneri": "Hayır",
+   "olasilik": 0.9389,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9389,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0611
+    ],
+    [
+     "Hayır",
+     0.9389
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı ve Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9711,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9711,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0289
+    ],
+    [
+     "Hayır",
+     0.9711
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı veya Kırmızı Kart Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.6674,
+   "adil_oran": 1.5,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6674,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3326
+    ],
+    [
+     "Hayır",
+     0.6674
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Herhangi Bir Zamanda Gol Atar",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.3867,
+   "adil_oran": 2.59,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.3867,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.3867
+    ],
+    [
+     "Alyssa Thompson",
+     0.2834
+    ],
+    [
+     "Sandy Baltimore",
+     0.2319
+    ],
+    [
+     "Merveille Kanjinga",
+     0.1497
+    ],
+    [
+     "Naomie Feller",
+     0.1154
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İlk Golcü",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.148,
+   "adil_oran": 6.76,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.148,
+   "guven": "düşük",
+   "not_": "Takımın ilk golü × oyuncu payı",
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.148
+    ],
+    [
+     "Alyssa Thompson",
+     0.1009
+    ],
+    [
+     "Sandy Baltimore",
+     0.0807
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0527
+    ],
+    [
+     "Naomie Feller",
+     0.0395
+    ],
+    [
+     "Gol yok",
+     0.0348
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İlk Golcü Çifte Şans",
+   "oneri": "Agnes Beever-Jones ilk golü veya ikinci golü",
+   "olasilik": 0.2746,
+   "adil_oran": 3.64,
+   "en_olasi": "Agnes Beever-Jones ilk golü veya ikinci golü",
+   "en_olasi_p": 0.2746,
+   "guven": "düşük",
+   "not_": "Yaklaşık",
+   "secimler": [
+    [
+     "Agnes Beever-Jones ilk golü veya ikinci golü",
+     0.2746
+    ],
+    [
+     "Alyssa Thompson ilk golü veya ikinci golü",
+     0.1872
+    ],
+    [
+     "Sandy Baltimore ilk golü veya ikinci golü",
+     0.1498
+    ],
+    [
+     "Merveille Kanjinga ilk golü veya ikinci golü",
+     0.0978
+    ],
+    [
+     "Naomie Feller ilk golü veya ikinci golü",
+     0.0733
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Son Golcü",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.1482,
+   "adil_oran": 6.75,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.1482,
+   "guven": "düşük",
+   "not_": "Yaklaşık",
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.1482
+    ],
+    [
+     "Alyssa Thompson",
+     0.101
+    ],
+    [
+     "Sandy Baltimore",
+     0.0808
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0525
+    ],
+    [
+     "Naomie Feller",
+     0.0394
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Chelsea LFC (Kadınlar) : İlk Golü Atar",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.2008,
+   "adil_oran": 4.98,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.2008,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.2008
+    ],
+    [
+     "Alyssa Thompson",
+     0.1369
+    ],
+    [
+     "Sandy Baltimore",
+     0.1095
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Paris Saint-Germain (Kadınlar) : İlk Golü Atar",
+   "oneri": "Merveille Kanjinga",
+   "olasilik": 0.1212,
+   "adil_oran": 8.25,
+   "en_olasi": "Merveille Kanjinga",
+   "en_olasi_p": 0.1212,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Merveille Kanjinga",
+     0.1212
+    ],
+    [
+     "Naomie Feller",
+     0.0909
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Chelsea LFC (Kadınlar) : Son Golcü",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.2008,
+   "adil_oran": 4.98,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.2008,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.2008
+    ],
+    [
+     "Alyssa Thompson",
+     0.1369
+    ],
+    [
+     "Sandy Baltimore",
+     0.1095
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Paris Saint-Germain (Kadınlar) : Son Golü Atar",
+   "oneri": "Merveille Kanjinga",
+   "olasilik": 0.1212,
+   "adil_oran": 8.25,
+   "en_olasi": "Merveille Kanjinga",
+   "en_olasi_p": 0.1212,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Merveille Kanjinga",
+     0.1212
+    ],
+    [
+     "Naomie Feller",
+     0.0909
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu En Az 2 Gol Atar",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.0876,
+   "adil_oran": 11.42,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.0876,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.0876
+    ],
+    [
+     "Alyssa Thompson",
+     0.0456
+    ],
+    [
+     "Sandy Baltimore",
+     0.0304
+    ],
+    [
+     "Merveille Kanjinga",
+     0.011
+    ],
+    [
+     "Naomie Feller",
+     0.0072
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu En Az 3 Gol Atar",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.0133,
+   "adil_oran": 75.24,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.0133,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.0133
+    ],
+    [
+     "Alyssa Thompson",
+     0.0047
+    ],
+    [
+     "Sandy Baltimore",
+     0.0026
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0006
+    ],
+    [
+     "Naomie Feller",
+     0.0003
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 4 veya Daha Çok Gol Atar",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.0015,
+   "adil_oran": 685.71,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.0015,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.0015
+    ],
+    [
+     "Alyssa Thompson",
+     0.0003
+    ],
+    [
+     "Sandy Baltimore",
+     0.0001
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0
+    ],
+    [
+     "Naomie Feller",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Herhangi Bir Zaman Gol Atar Çifte Şans",
+   "oneri": "Agnes Beever-Jones veya Alyssa Thompson",
+   "olasilik": 0.5612,
+   "adil_oran": 1.78,
+   "en_olasi": "Agnes Beever-Jones veya Alyssa Thompson",
+   "en_olasi_p": 0.5612,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones veya Alyssa Thompson",
+     0.5612
+    ],
+    [
+     "Agnes Beever-Jones veya Sandy Baltimore",
+     0.5291
+    ],
+    [
+     "Agnes Beever-Jones veya Merveille Kanjinga",
+     0.4783
+    ],
+    [
+     "Agnes Beever-Jones veya Naomie Feller",
+     0.4579
+    ],
+    [
+     "Alyssa Thompson veya Sandy Baltimore",
+     0.4498
+    ],
+    [
+     "Alyssa Thompson veya Merveille Kanjinga",
+     0.3912
+    ],
+    [
+     "Alyssa Thompson veya Naomie Feller",
+     0.3661
+    ],
+    [
+     "Sandy Baltimore veya Merveille Kanjinga",
+     0.3467
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar",
+   "oneri": "Agnes Beever-Jones ve Alyssa Thompson",
+   "olasilik": 0.1089,
+   "adil_oran": 9.18,
+   "en_olasi": "Agnes Beever-Jones ve Alyssa Thompson",
+   "en_olasi_p": 0.1089,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones ve Alyssa Thompson",
+     0.1089
+    ],
+    [
+     "Agnes Beever-Jones ve Sandy Baltimore",
+     0.0895
+    ],
+    [
+     "Alyssa Thompson ve Sandy Baltimore",
+     0.0655
+    ],
+    [
+     "Agnes Beever-Jones ve Merveille Kanjinga",
+     0.058
+    ],
+    [
+     "Agnes Beever-Jones ve Naomie Feller",
+     0.0441
+    ],
+    [
+     "Alyssa Thompson ve Merveille Kanjinga",
+     0.0419
+    ],
+    [
+     "Sandy Baltimore ve Merveille Kanjinga",
+     0.0349
+    ],
+    [
+     "Alyssa Thompson ve Naomie Feller",
+     0.0327
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "2 Oyuncu Toplamda Üst 1.5 Gol Atar",
+   "oneri": "Agnes Beever-Jones + Alyssa Thompson",
+   "olasilik": 0.1997,
+   "adil_oran": 5.01,
+   "en_olasi": "Agnes Beever-Jones + Alyssa Thompson",
+   "en_olasi_p": 0.1997,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones + Alyssa Thompson",
+     0.1997
+    ],
+    [
+     "Agnes Beever-Jones + Sandy Baltimore",
+     0.1748
+    ],
+    [
+     "Agnes Beever-Jones + Merveille Kanjinga",
+     0.1391
+    ],
+    [
+     "Agnes Beever-Jones + Naomie Feller",
+     0.1263
+    ],
+    [
+     "Alyssa Thompson + Sandy Baltimore",
+     0.1221
+    ],
+    [
+     "Alyssa Thompson + Merveille Kanjinga",
+     0.0885
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "2 Oyuncu Toplamda Üst 2.5 Gol Atar",
+   "oneri": "Agnes Beever-Jones + Alyssa Thompson",
+   "olasilik": 0.0505,
+   "adil_oran": 19.82,
+   "en_olasi": "Agnes Beever-Jones + Alyssa Thompson",
+   "en_olasi_p": 0.0505,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones + Alyssa Thompson",
+     0.0505
+    ],
+    [
+     "Agnes Beever-Jones + Sandy Baltimore",
+     0.0415
+    ],
+    [
+     "Agnes Beever-Jones + Merveille Kanjinga",
+     0.0282
+    ],
+    [
+     "Agnes Beever-Jones + Naomie Feller",
+     0.024
+    ],
+    [
+     "Alyssa Thompson + Sandy Baltimore",
+     0.0236
+    ],
+    [
+     "Alyssa Thompson + Merveille Kanjinga",
+     0.0139
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "2 Oyuncu Toplamda Üst 3.5 Gol Atar",
+   "oneri": "Agnes Beever-Jones + Alyssa Thompson",
+   "olasilik": 0.0101,
+   "adil_oran": 99.09,
+   "en_olasi": "Agnes Beever-Jones + Alyssa Thompson",
+   "en_olasi_p": 0.0101,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones + Alyssa Thompson",
+     0.0101
+    ],
+    [
+     "Agnes Beever-Jones + Sandy Baltimore",
+     0.0076
+    ],
+    [
+     "Agnes Beever-Jones + Merveille Kanjinga",
+     0.0043
+    ],
+    [
+     "Agnes Beever-Jones + Naomie Feller",
+     0.0034
+    ],
+    [
+     "Alyssa Thompson + Sandy Baltimore",
+     0.0033
+    ],
+    [
+     "Alyssa Thompson + Merveille Kanjinga",
+     0.0016
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 1. Yarıda Gol Atar",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.1882,
+   "adil_oran": 5.31,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.1882,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.1882
+    ],
+    [
+     "Alyssa Thompson",
+     0.1329
+    ],
+    [
+     "Sandy Baltimore",
+     0.1068
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0678
+    ],
+    [
+     "Naomie Feller",
+     0.0526
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 2. Yarıda Gol Atar",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.2319,
+   "adil_oran": 4.31,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.2319,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.2319
+    ],
+    [
+     "Alyssa Thompson",
+     0.1681
+    ],
+    [
+     "Sandy Baltimore",
+     0.1371
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0853
+    ],
+    [
+     "Naomie Feller",
+     0.0649
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Her İki Yarıda da Gol Atar",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.0334,
+   "adil_oran": 29.91,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.0334,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.0334
+    ],
+    [
+     "Alyssa Thompson",
+     0.0175
+    ],
+    [
+     "Sandy Baltimore",
+     0.0119
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0034
+    ],
+    [
+     "Naomie Feller",
+     0.0021
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İlk 10 Dakikada Gol Atar",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.0483,
+   "adil_oran": 20.69,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.0483,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.0483
+    ],
+    [
+     "Alyssa Thompson",
+     0.0322
+    ],
+    [
+     "Sandy Baltimore",
+     0.026
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0161
+    ],
+    [
+     "Naomie Feller",
+     0.0124
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Penaltıdan Gol Atar",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.0,
+   "adil_oran": null,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.0,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.0
+    ],
+    [
+     "Alyssa Thompson",
+     0.0
+    ],
+    [
+     "Sandy Baltimore",
+     0.0
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0
+    ],
+    [
+     "Naomie Feller",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Gol Atar",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.0572,
+   "adil_oran": 17.48,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.0572,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.0572
+    ],
+    [
+     "Alyssa Thompson",
+     0.0391
+    ],
+    [
+     "Sandy Baltimore",
+     0.0307
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0194
+    ],
+    [
+     "Naomie Feller",
+     0.0153
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kale Sahası İçinden Gol Atar",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.0926,
+   "adil_oran": 10.8,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.0926,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.0926
+    ],
+    [
+     "Alyssa Thompson",
+     0.0645
+    ],
+    [
+     "Sandy Baltimore",
+     0.0511
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0325
+    ],
+    [
+     "Naomie Feller",
+     0.0248
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kafa Golü Atar",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.0795,
+   "adil_oran": 12.59,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.0795,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.0795
+    ],
+    [
+     "Alyssa Thompson",
+     0.0554
+    ],
+    [
+     "Sandy Baltimore",
+     0.044
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0269
+    ],
+    [
+     "Naomie Feller",
+     0.0204
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Serbest Vuruştan Gol Atar",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.0145,
+   "adil_oran": 68.81,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.0145,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.0145
+    ],
+    [
+     "Alyssa Thompson",
+     0.01
+    ],
+    [
+     "Sandy Baltimore",
+     0.008
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0051
+    ],
+    [
+     "Naomie Feller",
+     0.0038
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sağ Ayağıyla Gol Atar",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.2353,
+   "adil_oran": 4.25,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.2353,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.2353
+    ],
+    [
+     "Alyssa Thompson",
+     0.1678
+    ],
+    [
+     "Sandy Baltimore",
+     0.1351
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0845
+    ],
+    [
+     "Naomie Feller",
+     0.0646
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Takımı Kazanır",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.3301,
+   "adil_oran": 3.03,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.3301,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.3301
+    ],
+    [
+     "Alyssa Thompson",
+     0.2433
+    ],
+    [
+     "Sandy Baltimore",
+     0.1999
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0421
+    ],
+    [
+     "Naomie Feller",
+     0.0323
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Rakip Takım Kazanır",
+   "oneri": "Merveille Kanjinga",
+   "olasilik": 0.0747,
+   "adil_oran": 13.38,
+   "en_olasi": "Merveille Kanjinga",
+   "en_olasi_p": 0.0747,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Merveille Kanjinga",
+     0.0747
+    ],
+    [
+     "Naomie Feller",
+     0.0566
+    ],
+    [
+     "Agnes Beever-Jones",
+     0.019
+    ],
+    [
+     "Alyssa Thompson",
+     0.0133
+    ],
+    [
+     "Sandy Baltimore",
+     0.0104
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Maç Berabere Biter",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.0376,
+   "adil_oran": 26.61,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.0376,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.0376
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0329
+    ],
+    [
+     "Alyssa Thompson",
+     0.0269
+    ],
+    [
+     "Naomie Feller",
+     0.0265
+    ],
+    [
+     "Sandy Baltimore",
+     0.0216
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Asist Yapar",
+   "oneri": "Alyssa Thompson",
+   "olasilik": 0.2138,
+   "adil_oran": 4.68,
+   "en_olasi": "Alyssa Thompson",
+   "en_olasi_p": 0.2138,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alyssa Thompson",
+     0.2138
+    ],
+    [
+     "Sandy Baltimore",
+     0.2119
+    ],
+    [
+     "Agnes Beever-Jones",
+     0.1196
+    ],
+    [
+     "Naomie Feller",
+     0.0684
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0566
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar veya Asist Yapar",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.4446,
+   "adil_oran": 2.25,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.4446,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.4446
+    ],
+    [
+     "Alyssa Thompson",
+     0.4158
+    ],
+    [
+     "Sandy Baltimore",
+     0.3773
+    ],
+    [
+     "Merveille Kanjinga",
+     0.189
+    ],
+    [
+     "Naomie Feller",
+     0.1665
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar veya Asist Yapar (Çifte Şans)",
+   "oneri": "Agnes Beever-Jones veya Alyssa Thompson gol/asist",
+   "olasilik": 0.6515,
+   "adil_oran": 1.53,
+   "en_olasi": "Agnes Beever-Jones veya Alyssa Thompson gol/asist",
+   "en_olasi_p": 0.6515,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones veya Alyssa Thompson gol/asist",
+     0.6515
+    ],
+    [
+     "Agnes Beever-Jones veya Sandy Baltimore gol/asist",
+     0.6307
+    ],
+    [
+     "Alyssa Thompson veya Sandy Baltimore gol/asist",
+     0.6132
+    ],
+    [
+     "Agnes Beever-Jones veya Merveille Kanjinga gol/asist",
+     0.5494
+    ],
+    [
+     "Agnes Beever-Jones veya Naomie Feller gol/asist",
+     0.5374
+    ],
+    [
+     "Alyssa Thompson veya Merveille Kanjinga gol/asist",
+     0.5267
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Asist Yapar",
+   "oneri": "Alyssa Thompson",
+   "olasilik": 0.0815,
+   "adil_oran": 12.27,
+   "en_olasi": "Alyssa Thompson",
+   "en_olasi_p": 0.0815,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alyssa Thompson",
+     0.0815
+    ],
+    [
+     "Sandy Baltimore",
+     0.0665
+    ],
+    [
+     "Agnes Beever-Jones",
+     0.0617
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0173
+    ],
+    [
+     "Naomie Feller",
+     0.0173
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Gol Asisti Yapar Çifte Şans",
+   "oneri": "Alyssa Thompson veya Sandy Baltimore asist",
+   "olasilik": 0.3808,
+   "adil_oran": 2.63,
+   "en_olasi": "Alyssa Thompson veya Sandy Baltimore asist",
+   "en_olasi_p": 0.3808,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alyssa Thompson veya Sandy Baltimore asist",
+     0.3808
+    ],
+    [
+     "Agnes Beever-Jones veya Alyssa Thompson asist",
+     0.3076
+    ],
+    [
+     "Agnes Beever-Jones veya Sandy Baltimore asist",
+     0.3062
+    ],
+    [
+     "Alyssa Thompson veya Naomie Feller asist",
+     0.2667
+    ],
+    [
+     "Sandy Baltimore veya Naomie Feller asist",
+     0.2659
+    ],
+    [
+     "Alyssa Thompson veya Merveille Kanjinga asist",
+     0.2583
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Penaltı Kaçırır",
+   "oneri": "Agnes Beever-Jones",
+   "olasilik": 0.0,
+   "adil_oran": null,
+   "en_olasi": "Agnes Beever-Jones",
+   "en_olasi_p": 0.0,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Agnes Beever-Jones",
+     0.0
+    ],
+    [
+     "Alyssa Thompson",
+     0.0
+    ],
+    [
+     "Sandy Baltimore",
+     0.0
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0
+    ],
+    [
+     "Naomie Feller",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Penaltı Kazandıran Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu bazlı penaltı verisi yok",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kart Görür",
+   "oneri": "Naomie Feller",
+   "olasilik": 0.0609,
+   "adil_oran": 16.42,
+   "en_olasi": "Naomie Feller",
+   "en_olasi_p": 0.0609,
+   "guven": "düşük",
+   "not_": "Oyuncunun kart ihtimali girdiden",
+   "secimler": [
+    [
+     "Naomie Feller",
+     0.0609
+    ],
+    [
+     "Sandy Baltimore",
+     0.0603
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0599
+    ],
+    [
+     "Agnes Beever-Jones",
+     0.0495
+    ],
+    [
+     "Alyssa Thompson",
+     0.0492
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kart Görür Çifte Şans",
+   "oneri": "Sandy Baltimore veya Naomie Feller",
+   "olasilik": 0.1172,
+   "adil_oran": 8.53,
+   "en_olasi": "Sandy Baltimore veya Naomie Feller",
+   "en_olasi_p": 0.1172,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Sandy Baltimore veya Naomie Feller",
+     0.1172
+    ],
+    [
+     "Merveille Kanjinga veya Naomie Feller",
+     0.1172
+    ],
+    [
+     "Sandy Baltimore veya Merveille Kanjinga",
+     0.1167
+    ],
+    [
+     "Agnes Beever-Jones veya Naomie Feller",
+     0.1075
+    ],
+    [
+     "Alyssa Thompson veya Naomie Feller",
+     0.1071
+    ],
+    [
+     "Alyssa Thompson veya Sandy Baltimore",
+     0.1066
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sarı Kart Görür",
+   "oneri": "Naomie Feller",
+   "olasilik": 0.0609,
+   "adil_oran": 16.42,
+   "en_olasi": "Naomie Feller",
+   "en_olasi_p": 0.0609,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Naomie Feller",
+     0.0609
+    ],
+    [
+     "Sandy Baltimore",
+     0.0603
+    ],
+    [
+     "Merveille Kanjinga",
+     0.0599
+    ],
+    [
+     "Agnes Beever-Jones",
+     0.0495
+    ],
+    [
+     "Alyssa Thompson",
+     0.0492
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Kart Görecek İlk Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu sıralaması için yeterli veri yok",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Son Kartı Görecek Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu sıralaması için yeterli veri yok",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyundan Uzaklaştırılır",
+   "oneri": "Merveille Kanjinga",
+   "olasilik": 0.0032,
+   "adil_oran": 308.48,
+   "en_olasi": "Merveille Kanjinga",
+   "en_olasi_p": 0.0032,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Merveille Kanjinga",
+     0.0032
+    ],
+    [
+     "Naomie Feller",
+     0.0032
+    ],
+    [
+     "Sandy Baltimore",
+     0.0031
+    ],
+    [
+     "Alyssa Thompson",
+     0.0027
+    ],
+    [
+     "Agnes Beever-Jones",
+     0.0027
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Şutları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pasları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pas Denemeleri",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncunun Yaptığı Fauller",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncuya Faul Yapılır",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Topa Müdahaleler",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ofsayta Düşer",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Kaleci Kurtarışları",
+   "oneri": "Chelsea LFC (Kadınlar) kalecisi 3,5 Alt",
+   "olasilik": 0.831,
+   "adil_oran": 1.2,
+   "en_olasi": "Paris Saint-Germain (Kadınlar) kalecisi 1,5 Üst",
+   "en_olasi_p": 0.9749,
+   "guven": "düşük",
+   "not_": "Rakibin beklenen golünden türetildi",
+   "secimler": [
+    [
+     "Chelsea LFC (Kadınlar) kalecisi 1,5 Üst",
+     0.6325
+    ],
+    [
+     "Chelsea LFC (Kadınlar) kalecisi 1,5 Alt",
+     0.3675
+    ],
+    [
+     "Chelsea LFC (Kadınlar) kalecisi 2,5 Üst",
+     0.3625
+    ],
+    [
+     "Chelsea LFC (Kadınlar) kalecisi 2,5 Alt",
+     0.6375
+    ],
+    [
+     "Chelsea LFC (Kadınlar) kalecisi 3,5 Üst",
+     0.169
+    ],
+    [
+     "Chelsea LFC (Kadınlar) kalecisi 3,5 Alt",
+     0.831
+    ],
+    [
+     "Chelsea LFC (Kadınlar) kalecisi 4,5 Üst",
+     0.0657
+    ],
+    [
+     "Chelsea LFC (Kadınlar) kalecisi 4,5 Alt",
+     0.9344
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) kalecisi 1,5 Üst",
+     0.9749
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) kalecisi 1,5 Alt",
+     0.0251
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) kalecisi 2,5 Üst",
+     0.9166
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) kalecisi 2,5 Alt",
+     0.0834
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) kalecisi 3,5 Üst",
+     0.8097
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) kalecisi 3,5 Alt",
+     0.1903
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) kalecisi 4,5 Üst",
+     0.6573
+    ],
+    [
+     "Paris Saint-Germain (Kadınlar) kalecisi 4,5 Alt",
+     0.3427
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Pas Veren Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Faul Yapan Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 1. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 2. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Her İki Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Çektiği Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kafayla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sağ Ayakla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  }
+ ],
+ "eksik": []
+}
