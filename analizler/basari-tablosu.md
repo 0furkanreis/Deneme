@@ -19,6 +19,9 @@
 | 18.11 | Alianza Atlético – Melgar (çok kaynaklı) | Sarı kart toplam 4,5 Alt @1,70 | %70 (harman %61) | bekliyor | — |
 | 18.11 | Deportiva Minera – Cartagena (canlı, 32' 0-0, korner 3-0) | Toplam korner 7 Üst @1,80 | %64 (temkinli) | ✅ (8 korner, kullanıcı bildirdi) | — |
 | 18.11 | Cruzeiro – Palmeiras (çok kaynaklı) | Kornerler: Palmeiras @2,11 | %55–64 | bekliyor | — |
+| 18.11 | Flamengo – Athletico PR | Oynama (piyasayla aynı; korner/kart değerleri belirsiz) | — | — | — |
+| 18.11 | Remo – Chapecoense | Oynama | — | — | — |
+| 18.11 | Coritiba – Santos | Oynama (penaltı 2,80 < eşik 2,90) | — | — | — |
 | 18.11 | Dunipace – Linlithgow Rose | Oynama (tek fark gol altı yönünde; kural gereği piyasaya karşı alt oynanmıyor) | — | — | — |
 
 Ana öneriler: 4 tuttu / 2 tutmadı (1 değerlendirilemedi).
