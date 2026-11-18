@@ -43,6 +43,7 @@ Her öneri en az 3 bağımsız kaynakla çapraz kontrol edilir ve cevapta kaynak
 - **Önizleme/tahmin siteleri:** Sports Mole, Squawka, tips.gg vb. (görüş olarak, veri değil).
 - Erişim: curl 403 veren siteler `motor/araclar/render.js <url> <çıktı>` (Playwright) ile denenir. Lord Palace: `motor/araclar/lp4.js <klasör> <url>`.
 - Oddsportal lig sayfası (`/football/<bölge>/<lig>/`) maç satırında piyasa ortalaması 1X2'yi gösterir; `motor/araclar/oddsportal.js` maç detay sekmelerini dener. Lord Palace 1X2 marjı ~%10, piyasa ~%4-5 (bkz. `analizler/lord-palace-marj.md`).
+- **Korner kaynakları (canlı ve geçmiş):** FotMob (maç istatistiği varsa), Lord Palace canlı ekran başlığı (takım satırında 4. sayı = korner; FotMob ile doğrulandı 18.11), Livescore (`livescore.com/en/football/live/` → maç sayfası; skor/olay), **AiScore** (kullanıcı önerisi; korner istatistiği var ama Cloudflare bot doğrulaması otomatik erişimi engelliyor, aşılmaz — kullanıcı AiScore'daki korner sayılarını/ekran görüntüsünü paylaşırsa doğrudan kullanılır).
 - Erişilebilirlik (18.11): Oddsportal, Betexplorer, Pinnacle, Nesine, İddaa, Flashscore, Soccerway, Understat, Statarea, Livescore, Maçkolik, Sporx 200; Forebet, Footystats, WhoScored, Soccerstats, Oddschecker, Betfair curl'e 403.
 
 ## Cevap sonu: NİHAİ ÖNERİ (kullanıcı isteği, her analizde zorunlu)
