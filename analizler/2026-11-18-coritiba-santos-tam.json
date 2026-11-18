@@ -1,0 +1,9665 @@
+{
+ "mac": {
+  "organizasyon": "Brezilya Serie A, 35. hafta",
+  "tarih": "19 Kasım 2026, 01:30 TSİ",
+  "stadyum": "Couto Pereira, Curitiba",
+  "hakem": "Braulio da Silva Machado (12 maç: 4,5 sarı/maç, lig 4,91; 0 kırmızı; 9 penaltı)",
+  "ilk_yari_gol_payi": 0.44,
+  "korner_guven": "orta",
+  "kart_guven": "orta",
+  "var_ort": 0.35,
+  "not": "Goller Oddsportal 1X2 ortalamasından. Korner/kart FotMob son 5 maç. Hakem penaltı eğilimi yüksek."
+ },
+ "ev": "Coritiba",
+ "dep": "Santos",
+ "beklenen_gol": [
+  0.92,
+  1.4
+ ],
+ "simulasyon": 120000,
+ "pazarlar": [
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu",
+   "oneri": "2 (Santos)",
+   "olasilik": 0.4824,
+   "adil_oran": 2.07,
+   "en_olasi": "2 (Santos)",
+   "en_olasi_p": 0.4824,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Coritiba)",
+     0.2453
+    ],
+    [
+     "X",
+     0.2723
+    ],
+    [
+     "2 (Santos)",
+     0.4824
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Çifte Şans",
+   "oneri": "X2",
+   "olasilik": 0.7547,
+   "adil_oran": 1.33,
+   "en_olasi": "X2",
+   "en_olasi_p": 0.7547,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.5176
+    ],
+    [
+     "12",
+     0.7277
+    ],
+    [
+     "X2",
+     0.7547
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Beraberlikte İade",
+   "oneri": "Santos",
+   "olasilik": 0.6629,
+   "adil_oran": 1.51,
+   "en_olasi": "Santos",
+   "en_olasi_p": 0.6629,
+   "guven": "yüksek",
+   "not_": "Beraberlikte iade; olasılık iade hariç",
+   "secimler": [
+    [
+     "Coritiba",
+     0.3371
+    ],
+    [
+     "Santos",
+     0.6629
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Coritiba : Bahis Yok",
+   "oneri": "Santos",
+   "olasilik": 0.6392,
+   "adil_oran": 1.56,
+   "en_olasi": "Santos",
+   "en_olasi_p": 0.6392,
+   "guven": "yüksek",
+   "not_": "Coritiba kazanırsa iade",
+   "secimler": [
+    [
+     "X",
+     0.3608
+    ],
+    [
+     "Santos",
+     0.6392
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Santos : Bahis Yok",
+   "oneri": "X",
+   "olasilik": 0.526,
+   "adil_oran": 1.9,
+   "en_olasi": "X",
+   "en_olasi_p": 0.526,
+   "guven": "yüksek",
+   "not_": "Santos kazanırsa iade",
+   "secimler": [
+    [
+     "Coritiba",
+     0.474
+    ],
+    [
+     "X",
+     0.526
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Coritiba : Geriden Gelerek Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9675,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9675,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0325
+    ],
+    [
+     "Hayır",
+     0.9675
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Santos : Geriden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9423,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9423,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0577
+    ],
+    [
+     "Hayır",
+     0.9423
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Coritiba : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.7547,
+   "adil_oran": 1.33,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.7547,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.1613
+    ],
+    [
+     "2 fark",
+     0.0615
+    ],
+    [
+     "3 fark",
+     0.0179
+    ],
+    [
+     "4+ fark",
+     0.0046
+    ],
+    [
+     "Kazanamaz",
+     0.7547
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Santos : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.5176,
+   "adil_oran": 1.93,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.5176,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.2489
+    ],
+    [
+     "2 fark",
+     0.1455
+    ],
+    [
+     "3 fark",
+     0.0613
+    ],
+    [
+     "4+ fark",
+     0.0267
+    ],
+    [
+     "Kazanamaz",
+     0.5176
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller",
+   "oneri": "Toplam 3,5 Alt",
+   "olasilik": 0.7951,
+   "adil_oran": 1.26,
+   "en_olasi": "Toplam 5,5 Alt",
+   "en_olasi_p": 0.9673,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.9025
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.0975
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.6736
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.3264
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.4096
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.5904
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.2049
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.7951
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.0868
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.9132
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.0327
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.9673
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Coritiba : Toplam Gol",
+   "oneri": "Coritiba 1,5 Alt",
+   "olasilik": 0.7653,
+   "adil_oran": 1.31,
+   "en_olasi": "Coritiba 3,5 Alt",
+   "en_olasi_p": 0.9849,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba 0,5 Üst",
+     0.6018
+    ],
+    [
+     "Coritiba 0,5 Alt",
+     0.3982
+    ],
+    [
+     "Coritiba 1,5 Üst",
+     0.2347
+    ],
+    [
+     "Coritiba 1,5 Alt",
+     0.7653
+    ],
+    [
+     "Coritiba 2,5 Üst",
+     0.0663
+    ],
+    [
+     "Coritiba 2,5 Alt",
+     0.9337
+    ],
+    [
+     "Coritiba 3,5 Üst",
+     0.015
+    ],
+    [
+     "Coritiba 3,5 Alt",
+     0.9849
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Santos : Toplam Gol",
+   "oneri": "Santos 2,5 Alt",
+   "olasilik": 0.8331,
+   "adil_oran": 1.2,
+   "en_olasi": "Santos 3,5 Alt",
+   "en_olasi_p": 0.9459,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Santos 0,5 Üst",
+     0.7557
+    ],
+    [
+     "Santos 0,5 Alt",
+     0.2443
+    ],
+    [
+     "Santos 1,5 Üst",
+     0.4078
+    ],
+    [
+     "Santos 1,5 Alt",
+     0.5922
+    ],
+    [
+     "Santos 2,5 Üst",
+     0.1669
+    ],
+    [
+     "Santos 2,5 Alt",
+     0.8331
+    ],
+    [
+     "Santos 3,5 Üst",
+     0.0541
+    ],
+    [
+     "Santos 3,5 Alt",
+     0.9459
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller Asya",
+   "oneri": "Toplam Asya 3,25 Alt",
+   "olasilik": 0.7717,
+   "adil_oran": 1.3,
+   "en_olasi": "Toplam Asya 3,25 Alt",
+   "en_olasi_p": 0.7717,
+   "guven": "yüksek",
+   "not_": "Asya çizgisi: değer = 1/adil oran",
+   "secimler": [
+    [
+     "Toplam Asya 1,75 Üst",
+     0.6239
+    ],
+    [
+     "Toplam Asya 1,75 Alt",
+     0.3761
+    ],
+    [
+     "Toplam Asya 2 Üst",
+     0.5565
+    ],
+    [
+     "Toplam Asya 2 Alt",
+     0.4435
+    ],
+    [
+     "Toplam Asya 2,25 Üst",
+     0.4719
+    ],
+    [
+     "Toplam Asya 2,25 Alt",
+     0.5281
+    ],
+    [
+     "Toplam Asya 2,5 Üst",
+     0.4096
+    ],
+    [
+     "Toplam Asya 2,5 Alt",
+     0.5904
+    ],
+    [
+     "Toplam Asya 2,75 Üst",
+     0.3423
+    ],
+    [
+     "Toplam Asya 2,75 Alt",
+     0.6577
+    ],
+    [
+     "Toplam Asya 3 Üst",
+     0.2577
+    ],
+    [
+     "Toplam Asya 3 Alt",
+     0.7423
+    ],
+    [
+     "Toplam Asya 3,25 Üst",
+     0.2283
+    ],
+    [
+     "Toplam Asya 3,25 Alt",
+     0.7717
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Coritiba : Toplam Gol Asya",
+   "oneri": "Coritiba Asya 1,5 Alt",
+   "olasilik": 0.7653,
+   "adil_oran": 1.31,
+   "en_olasi": "Coritiba Asya 2,25 Alt",
+   "en_olasi_p": 0.9276,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba Asya 0,75 Üst",
+     0.5123
+    ],
+    [
+     "Coritiba Asya 0,75 Alt",
+     0.4877
+    ],
+    [
+     "Coritiba Asya 1 Üst",
+     0.3708
+    ],
+    [
+     "Coritiba Asya 1 Alt",
+     0.6292
+    ],
+    [
+     "Coritiba Asya 1,25 Üst",
+     0.2875
+    ],
+    [
+     "Coritiba Asya 1,25 Alt",
+     0.7125
+    ],
+    [
+     "Coritiba Asya 1,5 Üst",
+     0.2347
+    ],
+    [
+     "Coritiba Asya 1,5 Alt",
+     0.7653
+    ],
+    [
+     "Coritiba Asya 1,75 Üst",
+     0.1643
+    ],
+    [
+     "Coritiba Asya 1,75 Alt",
+     0.8357
+    ],
+    [
+     "Coritiba Asya 2 Üst",
+     0.0797
+    ],
+    [
+     "Coritiba Asya 2 Alt",
+     0.9203
+    ],
+    [
+     "Coritiba Asya 2,25 Üst",
+     0.0724
+    ],
+    [
+     "Coritiba Asya 2,25 Alt",
+     0.9276
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Santos : Toplam Gol Asya",
+   "oneri": "Santos Asya 0,5 Üst",
+   "olasilik": 0.7557,
+   "adil_oran": 1.32,
+   "en_olasi": "Santos Asya 0,25 Üst",
+   "en_olasi_p": 0.8609,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Santos Asya 0,25 Üst",
+     0.8609
+    ],
+    [
+     "Santos Asya 0,25 Alt",
+     0.1391
+    ],
+    [
+     "Santos Asya 0,5 Üst",
+     0.7557
+    ],
+    [
+     "Santos Asya 0,5 Alt",
+     0.2443
+    ],
+    [
+     "Santos Asya 0,75 Üst",
+     0.7043
+    ],
+    [
+     "Santos Asya 0,75 Alt",
+     0.2957
+    ],
+    [
+     "Santos Asya 1 Üst",
+     0.6254
+    ],
+    [
+     "Santos Asya 1 Alt",
+     0.3746
+    ],
+    [
+     "Santos Asya 1,25 Üst",
+     0.4937
+    ],
+    [
+     "Santos Asya 1,25 Alt",
+     0.5063
+    ],
+    [
+     "Santos Asya 1,5 Üst",
+     0.4078
+    ],
+    [
+     "Santos Asya 1,5 Alt",
+     0.5922
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (3-İhtimalli)",
+   "oneri": "4 Alt",
+   "olasilik": 0.7951,
+   "adil_oran": 1.26,
+   "en_olasi": "4 Alt",
+   "en_olasi_p": 0.7951,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.0975
+    ],
+    [
+     "Tam 1",
+     0.2289
+    ],
+    [
+     "1 Üst",
+     0.6736
+    ],
+    [
+     "2 Alt",
+     0.3264
+    ],
+    [
+     "Tam 2",
+     0.264
+    ],
+    [
+     "2 Üst",
+     0.4096
+    ],
+    [
+     "3 Alt",
+     0.5904
+    ],
+    [
+     "Tam 3",
+     0.2047
+    ],
+    [
+     "3 Üst",
+     0.2049
+    ],
+    [
+     "4 Alt",
+     0.7951
+    ],
+    [
+     "Tam 4",
+     0.1181
+    ],
+    [
+     "4 Üst",
+     0.0868
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol Tek/Çift",
+   "oneri": "Çift",
+   "olasilik": 0.5044,
+   "adil_oran": 1.98,
+   "en_olasi": "Çift",
+   "en_olasi_p": 0.5044,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.4955
+    ],
+    [
+     "Çift",
+     0.5044
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Kesin)",
+   "oneri": "2 gol",
+   "olasilik": 0.264,
+   "adil_oran": 3.79,
+   "en_olasi": "2 gol",
+   "en_olasi_p": 0.264,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0975
+    ],
+    [
+     "1 gol",
+     0.2289
+    ],
+    [
+     "2 gol",
+     0.264
+    ],
+    [
+     "3 gol",
+     0.2047
+    ],
+    [
+     "4 gol",
+     0.1181
+    ],
+    [
+     "5 gol",
+     0.0541
+    ],
+    [
+     "6+ gol",
+     0.0327
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Coritiba : Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.3982,
+   "adil_oran": 2.51,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.3982,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3982
+    ],
+    [
+     "1 gol",
+     0.3671
+    ],
+    [
+     "2 gol",
+     0.1684
+    ],
+    [
+     "3 gol",
+     0.0513
+    ],
+    [
+     "4+ gol",
+     0.015
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Santos : Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3479,
+   "adil_oran": 2.87,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3479,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2443
+    ],
+    [
+     "1 gol",
+     0.3479
+    ],
+    [
+     "2 gol",
+     0.2409
+    ],
+    [
+     "3 gol",
+     0.1128
+    ],
+    [
+     "4+ gol",
+     0.0541
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Aralık)",
+   "oneri": "2-3 gol",
+   "olasilik": 0.4686,
+   "adil_oran": 2.13,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.4686,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.3264
+    ],
+    [
+     "2-3 gol",
+     0.4686
+    ],
+    [
+     "4-5 gol",
+     0.1722
+    ],
+    [
+     "6+ gol",
+     0.0327
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Coritiba : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5355,
+   "adil_oran": 1.87,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5355,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3982
+    ],
+    [
+     "1-2 gol",
+     0.5355
+    ],
+    [
+     "3+ gol",
+     0.0663
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Santos : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5888,
+   "adil_oran": 1.7,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5888,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2443
+    ],
+    [
+     "1-2 gol",
+     0.5888
+    ],
+    [
+     "3+ gol",
+     0.1669
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Genişletilmiş Gol Aralığı)",
+   "oneri": "1-3 gol",
+   "olasilik": 0.6976,
+   "adil_oran": 1.43,
+   "en_olasi": "1-3 gol",
+   "en_olasi_p": 0.6976,
+   "guven": "yüksek",
+   "not_": "Sitedeki aralıklar farklı olabilir",
+   "secimler": [
+    [
+     "0 gol",
+     0.0975
+    ],
+    [
+     "1-2 gol",
+     0.4929
+    ],
+    [
+     "1-3 gol",
+     0.6976
+    ],
+    [
+     "2-3 gol",
+     0.4686
+    ],
+    [
+     "2-4 gol",
+     0.5867
+    ],
+    [
+     "3-4 gol",
+     0.3228
+    ],
+    [
+     "3-5 gol",
+     0.3769
+    ],
+    [
+     "4-6 gol",
+     0.1948
+    ],
+    [
+     "5+ gol",
+     0.0868
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Coritiba : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7653,
+   "adil_oran": 1.31,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7653,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.7653
+    ],
+    [
+     "1-2 gol",
+     0.5355
+    ],
+    [
+     "2-3 gol",
+     0.2196
+    ],
+    [
+     "3+ gol",
+     0.0663
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Santos : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.5922,
+   "adil_oran": 1.69,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.5922,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.5922
+    ],
+    [
+     "1-2 gol",
+     0.5888
+    ],
+    [
+     "2-3 gol",
+     0.3537
+    ],
+    [
+     "3+ gol",
+     0.1669
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Kesin Gol Sayısı",
+   "oneri": "2 gol",
+   "olasilik": 0.264,
+   "adil_oran": 3.79,
+   "en_olasi": "2 gol",
+   "en_olasi_p": 0.264,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0975
+    ],
+    [
+     "1 gol",
+     0.2289
+    ],
+    [
+     "2 gol",
+     0.264
+    ],
+    [
+     "3 gol",
+     0.2047
+    ],
+    [
+     "4 gol",
+     0.1181
+    ],
+    [
+     "5 gol",
+     0.0541
+    ],
+    [
+     "6 gol",
+     0.0225
+    ],
+    [
+     "7+ gol",
+     0.0102
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 1 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7711,
+   "adil_oran": 1.3,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7711,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2289
+    ],
+    [
+     "Hayır",
+     0.7711
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 2 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.736,
+   "adil_oran": 1.36,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.736,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.264
+    ],
+    [
+     "Hayır",
+     0.736
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 3 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7953,
+   "adil_oran": 1.26,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7953,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2047
+    ],
+    [
+     "Hayır",
+     0.7953
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 4 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8819,
+   "adil_oran": 1.13,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8819,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1181
+    ],
+    [
+     "Hayır",
+     0.8819
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "En Az Bir Takım Üst Gol Atar",
+   "oneri": "En az bir takım 1,5 Üst",
+   "olasilik": 0.5461,
+   "adil_oran": 1.83,
+   "en_olasi": "En az bir takım 0,5 Üst",
+   "en_olasi_p": 0.9025,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "En az bir takım 0,5 Üst",
+     0.9025
+    ],
+    [
+     "En az bir takım 1,5 Üst",
+     0.5461
+    ],
+    [
+     "En az bir takım 2,5 Üst",
+     0.2218
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Coritiba : Asist Yapar. Toplam",
+   "oneri": "Coritiba asist 0,5 Alt",
+   "olasilik": 0.634,
+   "adil_oran": 1.58,
+   "en_olasi": "Coritiba asist 2,5 Alt",
+   "en_olasi_p": 0.9887,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba asist 0,5 Üst",
+     0.366
+    ],
+    [
+     "Coritiba asist 0,5 Alt",
+     0.634
+    ],
+    [
+     "Coritiba asist 1,5 Üst",
+     0.0781
+    ],
+    [
+     "Coritiba asist 1,5 Alt",
+     0.9219
+    ],
+    [
+     "Coritiba asist 2,5 Üst",
+     0.0114
+    ],
+    [
+     "Coritiba asist 2,5 Alt",
+     0.9887
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Santos : Asist Yapar. Toplam",
+   "oneri": "Santos asist 1,5 Alt",
+   "olasilik": 0.8227,
+   "adil_oran": 1.22,
+   "en_olasi": "Santos asist 1,5 Alt",
+   "en_olasi_p": 0.8227,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Santos asist 0,5 Üst",
+     0.5351
+    ],
+    [
+     "Santos asist 0,5 Alt",
+     0.4649
+    ],
+    [
+     "Santos asist 1,5 Üst",
+     0.1773
+    ],
+    [
+     "Santos asist 1,5 Alt",
+     0.8227
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takımda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.545,
+   "adil_oran": 1.83,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.545,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.455
+    ],
+    [
+     "Hayır",
+     0.545
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.9035,
+   "adil_oran": 1.11,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9035,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0965
+    ],
+    [
+     "Hayır",
+     0.9035
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Coritiba : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.6018,
+   "adil_oran": 1.66,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6018,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6018
+    ],
+    [
+     "Hayır",
+     0.3982
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Santos : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.7557,
+   "adil_oran": 1.32,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7557,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7557
+    ],
+    [
+     "Hayır",
+     0.2443
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Karşılıklı Gol ve Toplam Goller 2.5",
+   "oneri": "KG Yok & Alt",
+   "olasilik": 0.4629,
+   "adil_oran": 2.16,
+   "en_olasi": "KG Yok & Alt",
+   "en_olasi_p": 0.4629,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "KG Var & Üst",
+     0.3275
+    ],
+    [
+     "KG Var & Alt",
+     0.1275
+    ],
+    [
+     "KG Yok & Üst",
+     0.082
+    ],
+    [
+     "KG Yok & Alt",
+     0.4629
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Yarıda da Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.9668,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9668,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0332
+    ],
+    [
+     "Hayır",
+     0.9668
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı",
+   "oneri": "Coritiba +1,5",
+   "olasilik": 0.7665,
+   "adil_oran": 1.3,
+   "en_olasi": "Santos +2,5",
+   "en_olasi_p": 0.9775,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba -2,5",
+     0.0226
+    ],
+    [
+     "Santos +2,5",
+     0.9775
+    ],
+    [
+     "Coritiba -1,5",
+     0.0841
+    ],
+    [
+     "Santos +1,5",
+     0.9159
+    ],
+    [
+     "Coritiba -0,5",
+     0.2453
+    ],
+    [
+     "Santos +0,5",
+     0.7547
+    ],
+    [
+     "Coritiba +0,5",
+     0.5176
+    ],
+    [
+     "Santos -0,5",
+     0.4824
+    ],
+    [
+     "Coritiba +1,5",
+     0.7665
+    ],
+    [
+     "Santos -1,5",
+     0.2335
+    ],
+    [
+     "Coritiba +2,5",
+     0.912
+    ],
+    [
+     "Santos -2,5",
+     0.088
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Goller Asya Handikapı",
+   "oneri": "Santos Asya +0,75",
+   "olasilik": 0.8209,
+   "adil_oran": 1.22,
+   "en_olasi": "Santos Asya +1,5",
+   "en_olasi_p": 0.9159,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba Asya -2",
+     0.024
+    ],
+    [
+     "Santos Asya -2",
+     0.103
+    ],
+    [
+     "Coritiba Asya -1,75",
+     0.055
+    ],
+    [
+     "Santos Asya -1,75",
+     0.1734
+    ],
+    [
+     "Coritiba Asya -1,5",
+     0.0841
+    ],
+    [
+     "Santos Asya -1,5",
+     0.2335
+    ],
+    [
+     "Coritiba Asya -1,25",
+     0.0914
+    ],
+    [
+     "Santos Asya -1,25",
+     0.2667
+    ],
+    [
+     "Coritiba Asya -1",
+     0.1002
+    ],
+    [
+     "Santos Asya -1",
+     0.3109
+    ],
+    [
+     "Coritiba Asya -0,75",
+     0.1791
+    ],
+    [
+     "Santos Asya -0,75",
+     0.4088
+    ],
+    [
+     "Coritiba Asya -0,5",
+     0.2453
+    ],
+    [
+     "Santos Asya -0,5",
+     0.4824
+    ],
+    [
+     "Coritiba Asya -0,25",
+     0.284
+    ],
+    [
+     "Santos Asya -0,25",
+     0.5584
+    ],
+    [
+     "Coritiba Asya 0",
+     0.3371
+    ],
+    [
+     "Santos Asya 0",
+     0.6629
+    ],
+    [
+     "Coritiba Asya +0,25",
+     0.4416
+    ],
+    [
+     "Santos Asya +0,25",
+     0.716
+    ],
+    [
+     "Coritiba Asya +0,5",
+     0.5176
+    ],
+    [
+     "Santos Asya +0,5",
+     0.7547
+    ],
+    [
+     "Coritiba Asya +0,75",
+     0.5912
+    ],
+    [
+     "Santos Asya +0,75",
+     0.8209
+    ],
+    [
+     "Coritiba Asya +1",
+     0.6891
+    ],
+    [
+     "Santos Asya +1",
+     0.8998
+    ],
+    [
+     "Coritiba Asya +1,25",
+     0.7333
+    ],
+    [
+     "Santos Asya +1,25",
+     0.9086
+    ],
+    [
+     "Coritiba Asya +1,5",
+     0.7665
+    ],
+    [
+     "Santos Asya +1,5",
+     0.9159
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı (3-İhtimalli)",
+   "oneri": "Coritiba (+2)",
+   "olasilik": 0.7665,
+   "adil_oran": 1.3,
+   "en_olasi": "Santos (-3)",
+   "en_olasi_p": 0.9775,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba (-3)",
+     0.0046
+    ],
+    [
+     "X (-3)",
+     0.0179
+    ],
+    [
+     "Santos (-3)",
+     0.9775
+    ],
+    [
+     "Coritiba (-2)",
+     0.0226
+    ],
+    [
+     "X (-2)",
+     0.0615
+    ],
+    [
+     "Santos (-2)",
+     0.9159
+    ],
+    [
+     "Coritiba (-1)",
+     0.0841
+    ],
+    [
+     "X (-1)",
+     0.1613
+    ],
+    [
+     "Santos (-1)",
+     0.7547
+    ],
+    [
+     "Coritiba (+1)",
+     0.5176
+    ],
+    [
+     "X (+1)",
+     0.2489
+    ],
+    [
+     "Santos (+1)",
+     0.2335
+    ],
+    [
+     "Coritiba (+2)",
+     0.7665
+    ],
+    [
+     "X (+2)",
+     0.1455
+    ],
+    [
+     "Santos (+2)",
+     0.088
+    ],
+    [
+     "Coritiba (+3)",
+     0.912
+    ],
+    [
+     "X (+3)",
+     0.0613
+    ],
+    [
+     "Santos (+3)",
+     0.0267
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Coritiba Gol Atar ve Maç Sonucu",
+   "oneri": "2 & Coritiba gol atamaz",
+   "olasilik": 0.3007,
+   "adil_oran": 3.33,
+   "en_olasi": "2 & Coritiba gol atamaz",
+   "en_olasi_p": 0.3007,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Coritiba gol atar",
+     0.2453
+    ],
+    [
+     "1 & Coritiba gol atamaz",
+     0.0
+    ],
+    [
+     "X & Coritiba gol atar",
+     0.1748
+    ],
+    [
+     "X & Coritiba gol atamaz",
+     0.0975
+    ],
+    [
+     "2 & Coritiba gol atar",
+     0.1817
+    ],
+    [
+     "2 & Coritiba gol atamaz",
+     0.3007
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Santos Gol Atar ve Maç Sonucu",
+   "oneri": "2 & Santos gol atar",
+   "olasilik": 0.4824,
+   "adil_oran": 2.07,
+   "en_olasi": "2 & Santos gol atar",
+   "en_olasi_p": 0.4824,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Santos gol atar",
+     0.0986
+    ],
+    [
+     "1 & Santos gol atamaz",
+     0.1468
+    ],
+    [
+     "X & Santos gol atar",
+     0.1748
+    ],
+    [
+     "X & Santos gol atamaz",
+     0.0975
+    ],
+    [
+     "2 & Santos gol atar",
+     0.4824
+    ],
+    [
+     "2 & Santos gol atamaz",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Karşılıklı Gol",
+   "oneri": "2 & KG Yok",
+   "olasilik": 0.3007,
+   "adil_oran": 3.33,
+   "en_olasi": "2 & KG Yok",
+   "en_olasi_p": 0.3007,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0986
+    ],
+    [
+     "1 & KG Yok",
+     0.1468
+    ],
+    [
+     "X & KG Var",
+     0.1748
+    ],
+    [
+     "X & KG Yok",
+     0.0975
+    ],
+    [
+     "2 & KG Var",
+     0.1817
+    ],
+    [
+     "2 & KG Yok",
+     0.3007
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Karşılıklı Gol",
+   "oneri": "12 & KG Yok",
+   "olasilik": 0.4475,
+   "adil_oran": 2.23,
+   "en_olasi": "12 & KG Yok",
+   "en_olasi_p": 0.4475,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & KG Var",
+     0.2733
+    ],
+    [
+     "1X & KG Yok",
+     0.2443
+    ],
+    [
+     "12 & KG Var",
+     0.2803
+    ],
+    [
+     "12 & KG Yok",
+     0.4475
+    ],
+    [
+     "X2 & KG Var",
+     0.3565
+    ],
+    [
+     "X2 & KG Yok",
+     0.3982
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 1.5",
+   "oneri": "2 & 1,5 Üst",
+   "olasilik": 0.3431,
+   "adil_oran": 2.91,
+   "en_olasi": "2 & 1,5 Üst",
+   "en_olasi_p": 0.3431,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1,5 Üst",
+     0.1557
+    ],
+    [
+     "1 & 1,5 Alt",
+     0.0897
+    ],
+    [
+     "X & 1,5 Üst",
+     0.1748
+    ],
+    [
+     "X & 1,5 Alt",
+     0.0975
+    ],
+    [
+     "2 & 1,5 Üst",
+     0.3431
+    ],
+    [
+     "2 & 1,5 Alt",
+     0.1392
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 2.5",
+   "oneri": "2 & 2,5 Üst",
+   "olasilik": 0.2472,
+   "adil_oran": 4.05,
+   "en_olasi": "2 & 2,5 Üst",
+   "en_olasi_p": 0.2472,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 2,5 Üst",
+     0.1151
+    ],
+    [
+     "1 & 2,5 Alt",
+     0.1303
+    ],
+    [
+     "X & 2,5 Üst",
+     0.0473
+    ],
+    [
+     "X & 2,5 Alt",
+     0.225
+    ],
+    [
+     "2 & 2,5 Üst",
+     0.2472
+    ],
+    [
+     "2 & 2,5 Alt",
+     0.2352
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 3.5",
+   "oneri": "2 & 3,5 Alt",
+   "olasilik": 0.3685,
+   "adil_oran": 2.71,
+   "en_olasi": "2 & 3,5 Alt",
+   "en_olasi_p": 0.3685,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 3,5 Üst",
+     0.0438
+    ],
+    [
+     "1 & 3,5 Alt",
+     0.2016
+    ],
+    [
+     "X & 3,5 Üst",
+     0.0473
+    ],
+    [
+     "X & 3,5 Alt",
+     0.225
+    ],
+    [
+     "2 & 3,5 Üst",
+     0.1139
+    ],
+    [
+     "2 & 3,5 Alt",
+     0.3685
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 4.5",
+   "oneri": "2 & 4,5 Alt",
+   "olasilik": 0.4253,
+   "adil_oran": 2.35,
+   "en_olasi": "2 & 4,5 Alt",
+   "en_olasi_p": 0.4253,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 4,5 Üst",
+     0.0234
+    ],
+    [
+     "1 & 4,5 Alt",
+     0.2219
+    ],
+    [
+     "X & 4,5 Üst",
+     0.0064
+    ],
+    [
+     "X & 4,5 Alt",
+     0.2659
+    ],
+    [
+     "2 & 4,5 Üst",
+     0.057
+    ],
+    [
+     "2 & 4,5 Alt",
+     0.4253
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Coritiba : Toplam Gol",
+   "oneri": "2 & Coritiba 1,5 Alt",
+   "olasilik": 0.4506,
+   "adil_oran": 2.22,
+   "en_olasi": "2 & Coritiba 1,5 Alt",
+   "en_olasi_p": 0.4506,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Coritiba 1,5 Üst",
+     0.1557
+    ],
+    [
+     "1 & Coritiba 1,5 Alt",
+     0.0897
+    ],
+    [
+     "X & Coritiba 1,5 Üst",
+     0.0473
+    ],
+    [
+     "X & Coritiba 1,5 Alt",
+     0.225
+    ],
+    [
+     "2 & Coritiba 1,5 Üst",
+     0.0318
+    ],
+    [
+     "2 & Coritiba 1,5 Alt",
+     0.4506
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Santos : Toplam Gol",
+   "oneri": "2 & Santos 0,5 Üst",
+   "olasilik": 0.4824,
+   "adil_oran": 2.07,
+   "en_olasi": "2 & Santos 0,5 Üst",
+   "en_olasi_p": 0.4824,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Santos 0,5 Üst",
+     0.0986
+    ],
+    [
+     "1 & Santos 0,5 Alt",
+     0.1468
+    ],
+    [
+     "X & Santos 0,5 Üst",
+     0.1748
+    ],
+    [
+     "X & Santos 0,5 Alt",
+     0.0975
+    ],
+    [
+     "2 & Santos 0,5 Üst",
+     0.4824
+    ],
+    [
+     "2 & Santos 0,5 Alt",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Toplam Gol",
+   "oneri": "1 veya 2,5 Alt",
+   "olasilik": 0.7055,
+   "adil_oran": 1.42,
+   "en_olasi": "2 veya 2,5 Alt",
+   "en_olasi_p": 0.8376,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 2,5 Üst",
+     0.5398
+    ],
+    [
+     "1 veya 2,5 Alt",
+     0.7055
+    ],
+    [
+     "X veya 2,5 Üst",
+     0.6346
+    ],
+    [
+     "X veya 2,5 Alt",
+     0.6377
+    ],
+    [
+     "2 veya 2,5 Üst",
+     0.6447
+    ],
+    [
+     "2 veya 2,5 Alt",
+     0.8376
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol (Kesin)",
+   "oneri": "2 & 1 gol",
+   "olasilik": 0.1392,
+   "adil_oran": 7.18,
+   "en_olasi": "2 & 1 gol",
+   "en_olasi_p": 0.1392,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 0 gol",
+     0.0
+    ],
+    [
+     "1 & 1 gol",
+     0.0897
+    ],
+    [
+     "1 & 2 gol",
+     0.0406
+    ],
+    [
+     "1 & 3 gol",
+     0.0713
+    ],
+    [
+     "1 & 4 gol",
+     0.0204
+    ],
+    [
+     "1 & 5 gol",
+     0.0167
+    ],
+    [
+     "X & 0 gol",
+     0.0975
+    ],
+    [
+     "X & 1 gol",
+     0.0
+    ],
+    [
+     "X & 2 gol",
+     0.1275
+    ],
+    [
+     "X & 3 gol",
+     0.0
+    ],
+    [
+     "X & 4 gol",
+     0.0409
+    ],
+    [
+     "X & 5 gol",
+     0.0
+    ],
+    [
+     "2 & 0 gol",
+     0.0
+    ],
+    [
+     "2 & 1 gol",
+     0.1392
+    ],
+    [
+     "2 & 2 gol",
+     0.0959
+    ],
+    [
+     "2 & 3 gol",
+     0.1333
+    ],
+    [
+     "2 & 4 gol",
+     0.0568
+    ],
+    [
+     "2 & 5 gol",
+     0.0374
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "2 & 1-3 gol",
+   "olasilik": 0.3685,
+   "adil_oran": 2.71,
+   "en_olasi": "2 & 1-3 gol",
+   "en_olasi_p": 0.3685,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1-2 gol",
+     0.1303
+    ],
+    [
+     "1 & 1-3 gol",
+     0.2016
+    ],
+    [
+     "1 & 2-3 gol",
+     0.1119
+    ],
+    [
+     "1 & 2-4 gol",
+     0.1323
+    ],
+    [
+     "1 & 3-4 gol",
+     0.0917
+    ],
+    [
+     "1 & 3-5 gol",
+     0.1083
+    ],
+    [
+     "X & 1-2 gol",
+     0.1275
+    ],
+    [
+     "X & 1-3 gol",
+     0.1275
+    ],
+    [
+     "X & 2-3 gol",
+     0.1275
+    ],
+    [
+     "X & 2-4 gol",
+     0.1684
+    ],
+    [
+     "X & 3-4 gol",
+     0.0409
+    ],
+    [
+     "X & 3-5 gol",
+     0.0409
+    ],
+    [
+     "2 & 1-2 gol",
+     0.2352
+    ],
+    [
+     "2 & 1-3 gol",
+     0.3685
+    ],
+    [
+     "2 & 2-3 gol",
+     0.2293
+    ],
+    [
+     "2 & 2-4 gol",
+     0.2861
+    ],
+    [
+     "2 & 3-4 gol",
+     0.1902
+    ],
+    [
+     "2 & 3-5 gol",
+     0.2276
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "12 & 1-3 gol",
+   "olasilik": 0.5701,
+   "adil_oran": 1.75,
+   "en_olasi": "12 & 1-3 gol",
+   "en_olasi_p": 0.5701,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1-2 gol",
+     0.2577
+    ],
+    [
+     "1X & 1-3 gol",
+     0.3291
+    ],
+    [
+     "1X & 2-3 gol",
+     0.2394
+    ],
+    [
+     "1X & 2-4 gol",
+     0.3007
+    ],
+    [
+     "12 & 1-2 gol",
+     0.3654
+    ],
+    [
+     "12 & 1-3 gol",
+     0.5701
+    ],
+    [
+     "12 & 2-3 gol",
+     0.3412
+    ],
+    [
+     "12 & 2-4 gol",
+     0.4183
+    ],
+    [
+     "X2 & 1-2 gol",
+     0.3626
+    ],
+    [
+     "X2 & 1-3 gol",
+     0.496
+    ],
+    [
+     "X2 & 2-3 gol",
+     0.3567
+    ],
+    [
+     "X2 & 2-4 gol",
+     0.4545
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Doğru Skor",
+   "oneri": "2 veya 1-1",
+   "olasilik": 0.6099,
+   "adil_oran": 1.64,
+   "en_olasi": "2 veya 1-1",
+   "en_olasi_p": 0.6099,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 0-1",
+     0.3846
+    ],
+    [
+     "1 veya 1-1",
+     0.3728
+    ],
+    [
+     "1 veya 0-0",
+     0.3428
+    ],
+    [
+     "1 veya 0-2",
+     0.3413
+    ],
+    [
+     "1 veya 1-2",
+     0.3339
+    ],
+    [
+     "X veya 0-1",
+     0.4115
+    ],
+    [
+     "X veya 0-2",
+     0.3682
+    ],
+    [
+     "X veya 1-0",
+     0.362
+    ],
+    [
+     "X veya 1-2",
+     0.3608
+    ],
+    [
+     "2 veya 1-1",
+     0.6099
+    ],
+    [
+     "2 veya 0-0",
+     0.5799
+    ],
+    [
+     "2 veya 1-0",
+     0.5721
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Her İki Yarı Toplam Gol Kombinasyonu",
+   "oneri": "İY Alt 1,5 & 2Y Alt 1,5",
+   "olasilik": 0.4576,
+   "adil_oran": 2.19,
+   "en_olasi": "İY Alt 1,5 & 2Y Alt 1,5",
+   "en_olasi_p": 0.4576,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Alt 1,5 & 2Y Alt 1,5",
+     0.4576
+    ],
+    [
+     "İY Alt 1,5 & 2Y Üst 1,5",
+     0.2697
+    ],
+    [
+     "İY Üst 1,5 & 2Y Alt 1,5",
+     0.1703
+    ],
+    [
+     "İY Üst 1,5 & 2Y Üst 1,5",
+     0.1024
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Farklı Kombineler",
+   "oneri": "2 & 2Y gol olur",
+   "olasilik": 0.3876,
+   "adil_oran": 2.58,
+   "en_olasi": "2 & 2Y gol olur",
+   "en_olasi_p": 0.3876,
+   "guven": "yüksek",
+   "not_": "Sitedeki kombinasyon içerikleri farklı olabilir",
+   "secimler": [
+    [
+     "1 & 2Y gol olur",
+     0.1911
+    ],
+    [
+     "2 & 2Y gol olur",
+     0.3876
+    ],
+    [
+     "Coritiba her iki yarıda gol & 1",
+     0.0934
+    ],
+    [
+     "Santos her iki yarıda gol & 2",
+     0.2168
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans Kombo",
+   "oneri": "X2 & 3,5 Alt",
+   "olasilik": 0.5935,
+   "adil_oran": 1.68,
+   "en_olasi": "X2 & 3,5 Alt",
+   "en_olasi_p": 0.5935,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1,5 Üst",
+     0.3304
+    ],
+    [
+     "1X & 1,5 Alt",
+     0.1872
+    ],
+    [
+     "1X & 2,5 Üst",
+     0.1624
+    ],
+    [
+     "1X & 2,5 Alt",
+     0.3553
+    ],
+    [
+     "1X & 3,5 Üst",
+     0.091
+    ],
+    [
+     "1X & 3,5 Alt",
+     0.4266
+    ],
+    [
+     "12 & 1,5 Üst",
+     0.4988
+    ],
+    [
+     "12 & 1,5 Alt",
+     0.2289
+    ],
+    [
+     "12 & 2,5 Üst",
+     0.3623
+    ],
+    [
+     "12 & 2,5 Alt",
+     0.3654
+    ],
+    [
+     "12 & 3,5 Üst",
+     0.1576
+    ],
+    [
+     "12 & 3,5 Alt",
+     0.5701
+    ],
+    [
+     "X2 & 1,5 Üst",
+     0.5179
+    ],
+    [
+     "X2 & 1,5 Alt",
+     0.2367
+    ],
+    [
+     "X2 & 2,5 Üst",
+     0.2945
+    ],
+    [
+     "X2 & 2,5 Alt",
+     0.4602
+    ],
+    [
+     "X2 & 3,5 Üst",
+     0.1612
+    ],
+    [
+     "X2 & 3,5 Alt",
+     0.5935
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "İlk Yarı/Maç Sonucu ve Toplam Gol",
+   "oneri": "X/X & 2,5 Alt",
+   "olasilik": 0.1619,
+   "adil_oran": 6.18,
+   "en_olasi": "X/X & 2,5 Alt",
+   "en_olasi_p": 0.1619,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1 & 2,5 Üst",
+     0.0657
+    ],
+    [
+     "1/1 & 2,5 Alt",
+     0.0674
+    ],
+    [
+     "1/X & 2,5 Üst",
+     0.0153
+    ],
+    [
+     "1/X & 2,5 Alt",
+     0.0313
+    ],
+    [
+     "1/2 & 2,5 Üst",
+     0.0214
+    ],
+    [
+     "1/2 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "X/1 & 2,5 Üst",
+     0.037
+    ],
+    [
+     "X/1 & 2,5 Alt",
+     0.0629
+    ],
+    [
+     "X/X & 2,5 Üst",
+     0.0169
+    ],
+    [
+     "X/X & 2,5 Alt",
+     0.1619
+    ],
+    [
+     "X/2 & 2,5 Üst",
+     0.0692
+    ],
+    [
+     "X/2 & 2,5 Alt",
+     0.1072
+    ],
+    [
+     "2/1 & 2,5 Üst",
+     0.0124
+    ],
+    [
+     "2/1 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "2/X & 2,5 Üst",
+     0.0151
+    ],
+    [
+     "2/X & 2,5 Alt",
+     0.0319
+    ],
+    [
+     "2/2 & 2,5 Üst",
+     0.1566
+    ],
+    [
+     "2/2 & 2,5 Alt",
+     0.128
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Her İki Yarıda Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.5343,
+   "adil_oran": 1.87,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5343,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4657
+    ],
+    [
+     "Hayır",
+     0.5343
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım",
+   "oneri": "Santos",
+   "olasilik": 0.5454,
+   "adil_oran": 1.83,
+   "en_olasi": "Santos",
+   "en_olasi_p": 0.5454,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba",
+     0.3571
+    ],
+    [
+     "Gol yok",
+     0.0975
+    ],
+    [
+     "Santos",
+     0.5454
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Son Golü Atacak Takım",
+   "oneri": "Santos",
+   "olasilik": 0.5456,
+   "adil_oran": 1.83,
+   "en_olasi": "Santos",
+   "en_olasi_p": 0.5456,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba",
+     0.3569
+    ],
+    [
+     "Gol yok",
+     0.0975
+    ],
+    [
+     "Santos",
+     0.5456
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golün Atılma Şekli",
+   "oneri": "Şut",
+   "olasilik": 0.523,
+   "adil_oran": 1.91,
+   "en_olasi": "Şut",
+   "en_olasi_p": 0.523,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şut",
+     0.523
+    ],
+    [
+     "Kafa",
+     0.1114
+    ],
+    [
+     "Penaltı",
+     0.2133
+    ],
+    [
+     "Serbest vuruş",
+     0.0222
+    ],
+    [
+     "Kendi kalesine",
+     0.0325
+    ],
+    [
+     "Gol yok",
+     0.0975
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı",
+   "oneri": "28-90 dk",
+   "olasilik": 0.4766,
+   "adil_oran": 2.1,
+   "en_olasi": "28-90 dk",
+   "en_olasi_p": 0.4766,
+   "guven": "orta",
+   "not_": "Sınır 27. dk varsayıldı",
+   "secimler": [
+    [
+     "1-27 dk",
+     0.4259
+    ],
+    [
+     "28-90 dk",
+     0.4766
+    ],
+    [
+     "Gol yok",
+     0.0975
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Coritiba : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.3982,
+   "adil_oran": 2.51,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.3982,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.0754
+    ],
+    [
+     "11-20 dk",
+     0.0727
+    ],
+    [
+     "21-30 dk",
+     0.0703
+    ],
+    [
+     "31-40 dk",
+     0.0683
+    ],
+    [
+     "41-50 dk",
+     0.0752
+    ],
+    [
+     "51-60 dk",
+     0.0584
+    ],
+    [
+     "61-70 dk",
+     0.0562
+    ],
+    [
+     "71-80 dk",
+     0.0529
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0724
+    ],
+    [
+     "Gol yok",
+     0.3982
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Santos : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.2443,
+   "adil_oran": 4.09,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.2443,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.1127
+    ],
+    [
+     "11-20 dk",
+     0.1045
+    ],
+    [
+     "21-30 dk",
+     0.0959
+    ],
+    [
+     "31-40 dk",
+     0.0882
+    ],
+    [
+     "41-50 dk",
+     0.094
+    ],
+    [
+     "51-60 dk",
+     0.0693
+    ],
+    [
+     "61-70 dk",
+     0.0622
+    ],
+    [
+     "71-80 dk",
+     0.0566
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0723
+    ],
+    [
+     "Gol yok",
+     0.2443
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı (15 dk.)",
+   "oneri": "1-15 dk",
+   "olasilik": 0.2589,
+   "adil_oran": 3.86,
+   "en_olasi": "1-15 dk",
+   "en_olasi_p": 0.2589,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-15 dk",
+     0.2589
+    ],
+    [
+     "16-30 dk",
+     0.2034
+    ],
+    [
+     "31-45 (+uz.) dk",
+     0.1758
+    ],
+    [
+     "46-60 dk",
+     0.1096
+    ],
+    [
+     "61-75 dk",
+     0.0811
+    ],
+    [
+     "76-90 (+uz.) dk",
+     0.0738
+    ],
+    [
+     "Gol yok",
+     0.0975
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve Maç Sonucu",
+   "oneri": "İlk gol Santos & 2",
+   "olasilik": 0.4255,
+   "adil_oran": 2.35,
+   "en_olasi": "İlk gol Santos & 2",
+   "en_olasi_p": 0.4255,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Coritiba & 1",
+     0.2135
+    ],
+    [
+     "İlk gol Coritiba & X",
+     0.0867
+    ],
+    [
+     "İlk gol Coritiba & 2",
+     0.0569
+    ],
+    [
+     "İlk gol Santos & 1",
+     0.0318
+    ],
+    [
+     "İlk gol Santos & X",
+     0.0881
+    ],
+    [
+     "İlk gol Santos & 2",
+     0.4255
+    ],
+    [
+     "Gol yok",
+     0.0975
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 1. Yarı Sonucu",
+   "oneri": "İlk gol Santos & İY 2",
+   "olasilik": 0.3316,
+   "adil_oran": 3.02,
+   "en_olasi": "İlk gol Santos & İY 2",
+   "en_olasi_p": 0.3316,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Coritiba & İY 1",
+     0.1936
+    ],
+    [
+     "İlk gol Coritiba & İY X",
+     0.1513
+    ],
+    [
+     "İlk gol Coritiba & İY 2",
+     0.0123
+    ],
+    [
+     "İlk gol Santos & İY 1",
+     0.0076
+    ],
+    [
+     "İlk gol Santos & İY X",
+     0.2062
+    ],
+    [
+     "İlk gol Santos & İY 2",
+     0.3316
+    ],
+    [
+     "Gol yok",
+     0.0975
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 2. Yarı Sonucu",
+   "oneri": "İlk gol Santos & 2Y 2",
+   "olasilik": 0.2793,
+   "adil_oran": 3.58,
+   "en_olasi": "İlk gol Santos & 2Y 2",
+   "en_olasi_p": 0.2793,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Coritiba & 2Y 1",
+     0.1302
+    ],
+    [
+     "İlk gol Coritiba & 2Y X",
+     0.1203
+    ],
+    [
+     "İlk gol Coritiba & 2Y 2",
+     0.1066
+    ],
+    [
+     "İlk gol Santos & 2Y 1",
+     0.0899
+    ],
+    [
+     "İlk gol Santos & 2Y X",
+     0.1762
+    ],
+    [
+     "İlk gol Santos & 2Y 2",
+     0.2793
+    ],
+    [
+     "Gol yok",
+     0.0975
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Doğru Skor",
+   "oneri": "0-1",
+   "olasilik": 0.1392,
+   "adil_oran": 7.18,
+   "en_olasi": "0-1",
+   "en_olasi_p": 0.1392,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1",
+     0.1392
+    ],
+    [
+     "1-1",
+     0.1275
+    ],
+    [
+     "0-0",
+     0.0975
+    ],
+    [
+     "0-2",
+     0.0959
+    ],
+    [
+     "1-0",
+     0.0897
+    ],
+    [
+     "1-2",
+     0.0886
+    ],
+    [
+     "2-1",
+     0.0583
+    ],
+    [
+     "0-3",
+     0.0448
+    ],
+    [
+     "1-3",
+     0.0415
+    ],
+    [
+     "2-2",
+     0.0409
+    ],
+    [
+     "2-0",
+     0.0406
+    ],
+    [
+     "2-3",
+     0.0188
+    ],
+    [
+     "3-1",
+     0.0175
+    ],
+    [
+     "Diğer",
+     0.0171
+    ],
+    [
+     "0-4",
+     0.0153
+    ],
+    [
+     "1-4",
+     0.0144
+    ],
+    [
+     "3-0",
+     0.013
+    ],
+    [
+     "3-2",
+     0.0118
+    ],
+    [
+     "2-4",
+     0.0073
+    ],
+    [
+     "3-3",
+     0.0059
+    ],
+    [
+     "4-1",
+     0.0043
+    ],
+    [
+     "4-2",
+     0.0031
+    ],
+    [
+     "4-0",
+     0.0028
+    ],
+    [
+     "3-4",
+     0.0021
+    ],
+    [
+     "4-3",
+     0.0014
+    ],
+    [
+     "4-4",
+     0.0004
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Herhangi Bir Zamanda Doğru Skor",
+   "oneri": "0-1 herhangi bir anda",
+   "olasilik": 0.5395,
+   "adil_oran": 1.85,
+   "en_olasi": "0-1 herhangi bir anda",
+   "en_olasi_p": 0.5395,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 herhangi bir anda",
+     0.5395
+    ],
+    [
+     "1-0 herhangi bir anda",
+     0.3522
+    ],
+    [
+     "1-1 herhangi bir anda",
+     0.3188
+    ],
+    [
+     "0-2 herhangi bir anda",
+     0.2414
+    ],
+    [
+     "1-2 herhangi bir anda",
+     0.174
+    ],
+    [
+     "2-1 herhangi bir anda",
+     0.116
+    ],
+    [
+     "2-0 herhangi bir anda",
+     0.1045
+    ],
+    [
+     "0-3 herhangi bir anda",
+     0.0888
+    ],
+    [
+     "1-3 herhangi bir anda",
+     0.071
+    ],
+    [
+     "2-2 herhangi bir anda",
+     0.0693
+    ],
+    [
+     "3-1 herhangi bir anda",
+     0.031
+    ],
+    [
+     "2-3 herhangi bir anda",
+     0.0296
+    ],
+    [
+     "3-0 herhangi bir anda",
+     0.0254
+    ],
+    [
+     "3-2 herhangi bir anda",
+     0.0186
+    ],
+    [
+     "3-3 herhangi bir anda",
+     0.0085
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Skor Kombinasyonları",
+   "oneri": "Santos 0-1/0-2/1-2",
+   "olasilik": 0.3237,
+   "adil_oran": 3.09,
+   "en_olasi": "Santos 0-1/0-2/1-2",
+   "en_olasi_p": 0.3237,
+   "guven": "yüksek",
+   "not_": "Sitedeki gruplar farklı olabilir",
+   "secimler": [
+    [
+     "Coritiba 1-0/2-0/2-1",
+     0.1885
+    ],
+    [
+     "Coritiba 3-0/3-1/4-0",
+     0.0334
+    ],
+    [
+     "0-0/1-1",
+     0.225
+    ],
+    [
+     "Santos 0-1/0-2/1-2",
+     0.3237
+    ],
+    [
+     "Santos 0-3/1-3/0-4",
+     0.1016
+    ],
+    [
+     "2-2/3-3",
+     0.0468
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "1.Yarı/Maç Skoru",
+   "oneri": "İY 0-0 / MS 0-0",
+   "olasilik": 0.0975,
+   "adil_oran": 10.26,
+   "en_olasi": "İY 0-0 / MS 0-0",
+   "en_olasi_p": 0.0975,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 0-0 / MS 0-0",
+     0.0975
+    ],
+    [
+     "İY 0-0 / MS 0-1",
+     0.0776
+    ],
+    [
+     "İY 0-1 / MS 0-1",
+     0.0616
+    ],
+    [
+     "İY 0-0 / MS 1-0",
+     0.0504
+    ],
+    [
+     "İY 0-1 / MS 0-2",
+     0.0477
+    ],
+    [
+     "İY 0-0 / MS 1-1",
+     0.0401
+    ],
+    [
+     "İY 1-0 / MS 1-0",
+     0.0393
+    ],
+    [
+     "İY 0-1 / MS 1-1",
+     0.0319
+    ],
+    [
+     "İY 1-0 / MS 1-1",
+     0.0313
+    ],
+    [
+     "İY 0-0 / MS 0-2",
+     0.0296
+    ],
+    [
+     "İY 0-1 / MS 1-2",
+     0.0249
+    ],
+    [
+     "İY 1-1 / MS 1-1",
+     0.0243
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Maç Skoru Beraberlik (0-0 hariç)",
+   "oneri": "Hayır",
+   "olasilik": 0.8252,
+   "adil_oran": 1.21,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8252,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1748
+    ],
+    [
+     "Hayır",
+     0.8252
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Coritiba Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.1613,
+   "adil_oran": 6.2,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1613,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1613
+    ],
+    [
+     "2 farkla",
+     0.0615
+    ],
+    [
+     "3 farkla",
+     0.0179
+    ],
+    [
+     "4+ farkla",
+     0.0046
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Santos : Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.2489,
+   "adil_oran": 4.02,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2489,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2489
+    ],
+    [
+     "2 farkla",
+     0.1455
+    ],
+    [
+     "3 farkla",
+     0.0613
+    ],
+    [
+     "4+ farkla",
+     0.0267
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Coritiba Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.0989,
+   "adil_oran": 10.12,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.0989,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.0897
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.0989
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.0424
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.0144
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Santos Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.1845,
+   "adil_oran": 5.42,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.1845,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.1392
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.1845
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.1051
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.0535
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Coritiba Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8532,
+   "adil_oran": 1.17,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8532,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1468
+    ],
+    [
+     "Hayır",
+     0.8532
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Santos Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.6993,
+   "adil_oran": 1.43,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6993,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3007
+    ],
+    [
+     "Hayır",
+     0.6993
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Coritiba İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9206,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9206,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0794
+    ],
+    [
+     "Hayır",
+     0.9206
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Santos İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7933,
+   "adil_oran": 1.26,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7933,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2067
+    ],
+    [
+     "Hayır",
+     0.7933
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Coritiba Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.5664,
+   "adil_oran": 1.77,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5664,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4336
+    ],
+    [
+     "Hayır",
+     0.5664
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Santos Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Evet",
+   "olasilik": 0.5212,
+   "adil_oran": 1.92,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5212,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5212
+    ],
+    [
+     "Hayır",
+     0.4788
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Coritiba En Az Bir Yarıyı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.6236,
+   "adil_oran": 1.6,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6236,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3764
+    ],
+    [
+     "Hayır",
+     0.6236
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Santos En Az Bir Yarıyı Kazanır",
+   "oneri": "Evet",
+   "olasilik": 0.5984,
+   "adil_oran": 1.67,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5984,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5984
+    ],
+    [
+     "Hayır",
+     0.4016
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Coritiba İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.932,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.932,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.068
+    ],
+    [
+     "Hayır",
+     0.932
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Santos İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.9407,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9407,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0593
+    ],
+    [
+     "Hayır",
+     0.9407
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Sonucu",
+   "oneri": "X",
+   "olasilik": 0.455,
+   "adil_oran": 2.2,
+   "en_olasi": "X",
+   "en_olasi_p": 0.455,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Coritiba)",
+     0.2011
+    ],
+    [
+     "X",
+     0.455
+    ],
+    [
+     "2 (Santos)",
+     0.3438
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Çifte Şans",
+   "oneri": "X2",
+   "olasilik": 0.7989,
+   "adil_oran": 1.25,
+   "en_olasi": "X2",
+   "en_olasi_p": 0.7989,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.6562
+    ],
+    [
+     "12",
+     0.545
+    ],
+    [
+     "X2",
+     0.7989
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.7274,
+   "adil_oran": 1.37,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.9149,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.6405
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.3595
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.2726
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.7274
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.0851
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.9149
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 1. Takım Toplam Gol",
+   "oneri": "Coritiba 0,5 Alt",
+   "olasilik": 0.6676,
+   "adil_oran": 1.5,
+   "en_olasi": "Coritiba 1,5 Alt",
+   "en_olasi_p": 0.9361,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba 0,5 Üst",
+     0.3324
+    ],
+    [
+     "Coritiba 0,5 Alt",
+     0.6676
+    ],
+    [
+     "Coritiba 1,5 Üst",
+     0.0639
+    ],
+    [
+     "Coritiba 1,5 Alt",
+     0.9361
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 2. Takım Toplam Gol",
+   "oneri": "Santos 0,5 Alt",
+   "olasilik": 0.5383,
+   "adil_oran": 1.86,
+   "en_olasi": "Santos 1,5 Alt",
+   "en_olasi_p": 0.8725,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Santos 0,5 Üst",
+     0.4617
+    ],
+    [
+     "Santos 0,5 Alt",
+     0.5383
+    ],
+    [
+     "Santos 1,5 Üst",
+     0.1275
+    ],
+    [
+     "Santos 1,5 Alt",
+     0.8725
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Coritiba Toplam Gol Asya",
+   "oneri": "Coritiba Asya 0,75 Alt",
+   "olasilik": 0.7711,
+   "adil_oran": 1.3,
+   "en_olasi": "Coritiba Asya 1 Alt",
+   "en_olasi_p": 0.9127,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba Asya 0,5 Üst",
+     0.3324
+    ],
+    [
+     "Coritiba Asya 0,5 Alt",
+     0.6676
+    ],
+    [
+     "Coritiba Asya 0,75 Üst",
+     0.2289
+    ],
+    [
+     "Coritiba Asya 0,75 Alt",
+     0.7711
+    ],
+    [
+     "Coritiba Asya 1 Üst",
+     0.0873
+    ],
+    [
+     "Coritiba Asya 1 Alt",
+     0.9127
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Santos Toplam Gol Asya",
+   "oneri": "Santos Asya 0,25 Üst",
+   "olasilik": 0.6317,
+   "adil_oran": 1.58,
+   "en_olasi": "Santos Asya 0,25 Üst",
+   "en_olasi_p": 0.6317,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Santos Asya 0,25 Üst",
+     0.6317
+    ],
+    [
+     "Santos Asya 0,25 Alt",
+     0.3683
+    ],
+    [
+     "Santos Asya 0,5 Üst",
+     0.4617
+    ],
+    [
+     "Santos Asya 0,5 Alt",
+     0.5383
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8464,
+   "adil_oran": 1.18,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8464,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1536
+    ],
+    [
+     "Hayır",
+     0.8464
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı",
+   "oneri": "Santos +0,5",
+   "olasilik": 0.7989,
+   "adil_oran": 1.25,
+   "en_olasi": "Santos +1,5",
+   "en_olasi_p": 0.9629,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba -1,5",
+     0.0371
+    ],
+    [
+     "Santos +1,5",
+     0.9629
+    ],
+    [
+     "Coritiba -0,5",
+     0.2011
+    ],
+    [
+     "Santos +0,5",
+     0.7989
+    ],
+    [
+     "Coritiba +0,5",
+     0.6562
+    ],
+    [
+     "Santos -0,5",
+     0.3438
+    ],
+    [
+     "Coritiba +1,5",
+     0.9081
+    ],
+    [
+     "Santos -1,5",
+     0.0919
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Goller Asya Handikapı",
+   "oneri": "Santos Asya +0,5",
+   "olasilik": 0.7989,
+   "adil_oran": 1.25,
+   "en_olasi": "Santos Asya +0,5",
+   "en_olasi_p": 0.7989,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba Asya -1",
+     0.0444
+    ],
+    [
+     "Santos Asya -1",
+     0.1229
+    ],
+    [
+     "Coritiba Asya -0,75",
+     0.1297
+    ],
+    [
+     "Santos Asya -0,75",
+     0.2493
+    ],
+    [
+     "Coritiba Asya -0,5",
+     0.2011
+    ],
+    [
+     "Santos Asya -0,5",
+     0.3438
+    ],
+    [
+     "Coritiba Asya -0,25",
+     0.2604
+    ],
+    [
+     "Santos Asya -0,25",
+     0.4451
+    ],
+    [
+     "Coritiba Asya 0",
+     0.369
+    ],
+    [
+     "Santos Asya 0",
+     0.631
+    ],
+    [
+     "Coritiba Asya +0,25",
+     0.5549
+    ],
+    [
+     "Santos Asya +0,25",
+     0.7396
+    ],
+    [
+     "Coritiba Asya +0,5",
+     0.6562
+    ],
+    [
+     "Santos Asya +0,5",
+     0.7989
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Santos (-1)",
+   "olasilik": 0.7989,
+   "adil_oran": 1.25,
+   "en_olasi": "Santos (-2)",
+   "en_olasi_p": 0.9629,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba (-2)",
+     0.0048
+    ],
+    [
+     "X (-2)",
+     0.0323
+    ],
+    [
+     "Santos (-2)",
+     0.9629
+    ],
+    [
+     "Coritiba (-1)",
+     0.0371
+    ],
+    [
+     "X (-1)",
+     0.164
+    ],
+    [
+     "Santos (-1)",
+     0.7989
+    ],
+    [
+     "Coritiba (+1)",
+     0.6562
+    ],
+    [
+     "X (+1)",
+     0.2519
+    ],
+    [
+     "Santos (+1)",
+     0.0919
+    ],
+    [
+     "Coritiba (+2)",
+     0.9081
+    ],
+    [
+     "X (+2)",
+     0.0745
+    ],
+    [
+     "Santos (+2)",
+     0.0174
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Asya",
+   "oneri": "Toplam Asya 1,25 Alt",
+   "olasilik": 0.6659,
+   "adil_oran": 1.5,
+   "en_olasi": "Toplam Asya 1,25 Alt",
+   "en_olasi_p": 0.6659,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam Asya 0,75 Üst",
+     0.5595
+    ],
+    [
+     "Toplam Asya 0,75 Alt",
+     0.4405
+    ],
+    [
+     "Toplam Asya 1 Üst",
+     0.4313
+    ],
+    [
+     "Toplam Asya 1 Alt",
+     0.5687
+    ],
+    [
+     "Toplam Asya 1,25 Üst",
+     0.3341
+    ],
+    [
+     "Toplam Asya 1,25 Alt",
+     0.6659
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Toplam Gol (3-İhtimalli)",
+   "oneri": "Tam 1",
+   "olasilik": 0.3678,
+   "adil_oran": 2.72,
+   "en_olasi": "Tam 1",
+   "en_olasi_p": 0.3678,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.3595
+    ],
+    [
+     "Tam 1",
+     0.3678
+    ],
+    [
+     "1 Üst",
+     0.2726
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "X & KG Yok",
+   "olasilik": 0.3595,
+   "adil_oran": 2.78,
+   "en_olasi": "X & KG Yok",
+   "en_olasi_p": 0.3595,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0223
+    ],
+    [
+     "1 & KG Yok",
+     0.1788
+    ],
+    [
+     "X & KG Var",
+     0.0955
+    ],
+    [
+     "X & KG Yok",
+     0.3595
+    ],
+    [
+     "2 & KG Var",
+     0.0358
+    ],
+    [
+     "2 & KG Yok",
+     0.3081
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Aralığı",
+   "oneri": "1 gol",
+   "olasilik": 0.3678,
+   "adil_oran": 2.72,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3678,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3595
+    ],
+    [
+     "1 gol",
+     0.3678
+    ],
+    [
+     "2-3 gol",
+     0.2519
+    ],
+    [
+     "4+ gol",
+     0.0207
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Coritiba Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.6676,
+   "adil_oran": 1.5,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.6676,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6676
+    ],
+    [
+     "1 gol",
+     0.2685
+    ],
+    [
+     "2+ gol",
+     0.0639
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Santos Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.5383,
+   "adil_oran": 1.86,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5383,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5383
+    ],
+    [
+     "1 gol",
+     0.3342
+    ],
+    [
+     "2+ gol",
+     0.1275
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7274,
+   "adil_oran": 1.37,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7274,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.7274
+    ],
+    [
+     "1-2 gol",
+     0.5554
+    ],
+    [
+     "2-3 gol",
+     0.2519
+    ],
+    [
+     "3+ gol",
+     0.0851
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.6676,
+   "adil_oran": 1.5,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.9361,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6676
+    ],
+    [
+     "0-1 gol",
+     0.9361
+    ],
+    [
+     "1-2 gol",
+     0.3241
+    ],
+    [
+     "2+ gol",
+     0.0639
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.5383,
+   "adil_oran": 1.86,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.8725,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5383
+    ],
+    [
+     "0-1 gol",
+     0.8725
+    ],
+    [
+     "1-2 gol",
+     0.4369
+    ],
+    [
+     "2+ gol",
+     0.1275
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3678,
+   "adil_oran": 2.72,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3678,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3595
+    ],
+    [
+     "1 gol",
+     0.3678
+    ],
+    [
+     "2 gol",
+     0.1876
+    ],
+    [
+     "3 gol",
+     0.0644
+    ],
+    [
+     "4+ gol",
+     0.0207
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Coritiba Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.6676,
+   "adil_oran": 1.5,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.6676,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6676
+    ],
+    [
+     "1 gol",
+     0.2685
+    ],
+    [
+     "2 gol",
+     0.0556
+    ],
+    [
+     "3+ gol",
+     0.0083
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Santos Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.5383,
+   "adil_oran": 1.86,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5383,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5383
+    ],
+    [
+     "1 gol",
+     0.3342
+    ],
+    [
+     "2 gol",
+     0.1026
+    ],
+    [
+     "3+ gol",
+     0.0248
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Coritiba Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.164,
+   "adil_oran": 6.1,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.164,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.164
+    ],
+    [
+     "2 farkla",
+     0.0323
+    ],
+    [
+     "3+ farkla",
+     0.0048
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Santos Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.2519,
+   "adil_oran": 3.97,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2519,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2519
+    ],
+    [
+     "2 farkla",
+     0.0745
+    ],
+    [
+     "3+ farkla",
+     0.0174
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Coritiba Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8212,
+   "adil_oran": 1.22,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8212,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1788
+    ],
+    [
+     "Hayır",
+     0.8212
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Santos Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.6919,
+   "adil_oran": 1.45,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6919,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3081
+    ],
+    [
+     "Hayır",
+     0.6919
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı İlk Golü Atacak Takım",
+   "oneri": "Santos",
+   "olasilik": 0.3879,
+   "adil_oran": 2.58,
+   "en_olasi": "Santos",
+   "en_olasi_p": 0.3879,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba",
+     0.2526
+    ],
+    [
+     "Gol yok",
+     0.3595
+    ],
+    [
+     "Santos",
+     0.3879
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Son Golü Atacak Takım",
+   "oneri": "Santos",
+   "olasilik": 0.3866,
+   "adil_oran": 2.59,
+   "en_olasi": "Santos",
+   "en_olasi_p": 0.3866,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba",
+     0.2539
+    ],
+    [
+     "Gol yok",
+     0.3595
+    ],
+    [
+     "Santos",
+     0.3866
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Doğru Skor",
+   "oneri": "0-0",
+   "olasilik": 0.3595,
+   "adil_oran": 2.78,
+   "en_olasi": "0-0",
+   "en_olasi_p": 0.3595,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-0",
+     0.3595
+    ],
+    [
+     "0-1",
+     0.2231
+    ],
+    [
+     "1-0",
+     0.1447
+    ],
+    [
+     "1-1",
+     0.0895
+    ],
+    [
+     "0-2",
+     0.0684
+    ],
+    [
+     "2-0",
+     0.0296
+    ],
+    [
+     "1-2",
+     0.0277
+    ],
+    [
+     "2-1",
+     0.0187
+    ],
+    [
+     "0-3",
+     0.014
+    ],
+    [
+     "2-2",
+     0.0059
+    ],
+    [
+     "1-3",
+     0.0058
+    ],
+    [
+     "Diğer",
+     0.0046
+    ],
+    [
+     "3-0",
+     0.004
+    ],
+    [
+     "3-1",
+     0.0026
+    ],
+    [
+     "2-3",
+     0.0012
+    ],
+    [
+     "3-2",
+     0.0006
+    ],
+    [
+     "3-3",
+     0.0002
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Sonucu",
+   "oneri": "X",
+   "olasilik": 0.3941,
+   "adil_oran": 2.54,
+   "en_olasi": "X",
+   "en_olasi_p": 0.3941,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Coritiba)",
+     0.22
+    ],
+    [
+     "X",
+     0.3941
+    ],
+    [
+     "2 (Santos)",
+     0.3859
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Çifte Şans",
+   "oneri": "X2",
+   "olasilik": 0.78,
+   "adil_oran": 1.28,
+   "en_olasi": "X2",
+   "en_olasi_p": 0.78,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.6141
+    ],
+    [
+     "12",
+     0.6059
+    ],
+    [
+     "X2",
+     0.78
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.7278,
+   "adil_oran": 1.37,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.857,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7278
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2722
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.3721
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.6279
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.143
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.857
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Coritiba Toplam Gol",
+   "oneri": "Coritiba 0,5 Alt",
+   "olasilik": 0.5967,
+   "adil_oran": 1.68,
+   "en_olasi": "Coritiba 1,5 Alt",
+   "en_olasi_p": 0.9053,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba 0,5 Üst",
+     0.4033
+    ],
+    [
+     "Coritiba 0,5 Alt",
+     0.5967
+    ],
+    [
+     "Coritiba 1,5 Üst",
+     0.0947
+    ],
+    [
+     "Coritiba 1,5 Alt",
+     0.9053
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Santos Toplam Gol",
+   "oneri": "Santos 1,5 Alt",
+   "olasilik": 0.8145,
+   "adil_oran": 1.23,
+   "en_olasi": "Santos 1,5 Alt",
+   "en_olasi_p": 0.8145,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Santos 0,5 Üst",
+     0.5443
+    ],
+    [
+     "Santos 0,5 Alt",
+     0.4557
+    ],
+    [
+     "Santos 1,5 Üst",
+     0.1855
+    ],
+    [
+     "Santos 1,5 Alt",
+     0.8145
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7802,
+   "adil_oran": 1.28,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7802,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2198
+    ],
+    [
+     "Hayır",
+     0.7802
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı",
+   "oneri": "Santos +0,5",
+   "olasilik": 0.78,
+   "adil_oran": 1.28,
+   "en_olasi": "Santos +1,5",
+   "en_olasi_p": 0.9517,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba -1,5",
+     0.0483
+    ],
+    [
+     "Santos +1,5",
+     0.9517
+    ],
+    [
+     "Coritiba -0,5",
+     0.22
+    ],
+    [
+     "Santos +0,5",
+     0.78
+    ],
+    [
+     "Coritiba +0,5",
+     0.6141
+    ],
+    [
+     "Santos -0,5",
+     0.3859
+    ],
+    [
+     "Coritiba +1,5",
+     0.8751
+    ],
+    [
+     "Santos -1,5",
+     0.1249
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Santos (-1)",
+   "olasilik": 0.78,
+   "adil_oran": 1.28,
+   "en_olasi": "Santos (-2)",
+   "en_olasi_p": 0.9517,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba (-2)",
+     0.0078
+    ],
+    [
+     "X (-2)",
+     0.0405
+    ],
+    [
+     "Santos (-2)",
+     0.9517
+    ],
+    [
+     "Coritiba (-1)",
+     0.0483
+    ],
+    [
+     "X (-1)",
+     0.1717
+    ],
+    [
+     "Santos (-1)",
+     0.78
+    ],
+    [
+     "Coritiba (+1)",
+     0.6141
+    ],
+    [
+     "X (+1)",
+     0.261
+    ],
+    [
+     "Santos (+1)",
+     0.1249
+    ],
+    [
+     "Coritiba (+2)",
+     0.8751
+    ],
+    [
+     "X (+2)",
+     0.0959
+    ],
+    [
+     "Santos (+2)",
+     0.029
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "2 & KG Yok",
+   "olasilik": 0.3245,
+   "adil_oran": 3.08,
+   "en_olasi": "2 & KG Yok",
+   "en_olasi_p": 0.3245,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0365
+    ],
+    [
+     "1 & KG Yok",
+     0.1835
+    ],
+    [
+     "X & KG Var",
+     0.1218
+    ],
+    [
+     "X & KG Yok",
+     0.2722
+    ],
+    [
+     "2 & KG Var",
+     0.0615
+    ],
+    [
+     "2 & KG Yok",
+     0.3245
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol Aralığı",
+   "oneri": "1 gol",
+   "olasilik": 0.3557,
+   "adil_oran": 2.81,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3557,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2722
+    ],
+    [
+     "1 gol",
+     0.3557
+    ],
+    [
+     "2-3 gol",
+     0.3283
+    ],
+    [
+     "4+ gol",
+     0.0438
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Coritiba Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.5967,
+   "adil_oran": 1.68,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5967,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5967
+    ],
+    [
+     "1 gol",
+     0.3086
+    ],
+    [
+     "2+ gol",
+     0.0947
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Santos Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.4557,
+   "adil_oran": 2.19,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4557,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4557
+    ],
+    [
+     "1 gol",
+     0.3588
+    ],
+    [
+     "2+ gol",
+     0.1855
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.6279,
+   "adil_oran": 1.59,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.6279,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.6279
+    ],
+    [
+     "1-2 gol",
+     0.5847
+    ],
+    [
+     "2-3 gol",
+     0.3283
+    ],
+    [
+     "3+ gol",
+     0.143
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.5967,
+   "adil_oran": 1.68,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.9053,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5967
+    ],
+    [
+     "0-1 gol",
+     0.9053
+    ],
+    [
+     "1-2 gol",
+     0.3877
+    ],
+    [
+     "2+ gol",
+     0.0947
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.8145,
+   "adil_oran": 1.23,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.8145,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4557
+    ],
+    [
+     "0-1 gol",
+     0.8145
+    ],
+    [
+     "1-2 gol",
+     0.4995
+    ],
+    [
+     "2+ gol",
+     0.1855
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3557,
+   "adil_oran": 2.81,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3557,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2722
+    ],
+    [
+     "1 gol",
+     0.3557
+    ],
+    [
+     "2 gol",
+     0.2291
+    ],
+    [
+     "3 gol",
+     0.0992
+    ],
+    [
+     "4+ gol",
+     0.0438
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Coritiba Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.5967,
+   "adil_oran": 1.68,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5967,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5967
+    ],
+    [
+     "1 gol",
+     0.3086
+    ],
+    [
+     "2 gol",
+     0.0791
+    ],
+    [
+     "3+ gol",
+     0.0156
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Santos Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.4557,
+   "adil_oran": 2.19,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4557,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4557
+    ],
+    [
+     "1 gol",
+     0.3588
+    ],
+    [
+     "2 gol",
+     0.1406
+    ],
+    [
+     "3+ gol",
+     0.0449
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Coritiba Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.1717,
+   "adil_oran": 5.82,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1717,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1717
+    ],
+    [
+     "2 farkla",
+     0.0405
+    ],
+    [
+     "3+ farkla",
+     0.0078
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Santos Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.261,
+   "adil_oran": 3.83,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.261,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.261
+    ],
+    [
+     "2 farkla",
+     0.0959
+    ],
+    [
+     "3+ farkla",
+     0.029
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Coritiba Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8165,
+   "adil_oran": 1.22,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8165,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1835
+    ],
+    [
+     "Hayır",
+     0.8165
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Santos Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.6755,
+   "adil_oran": 1.48,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6755,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3245
+    ],
+    [
+     "Hayır",
+     0.6755
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı İlk Golü Atacak Takım",
+   "oneri": "Santos",
+   "olasilik": 0.4395,
+   "adil_oran": 2.28,
+   "en_olasi": "Santos",
+   "en_olasi_p": 0.4395,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba",
+     0.2882
+    ],
+    [
+     "Gol yok",
+     0.2722
+    ],
+    [
+     "Santos",
+     0.4395
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Son Golü Atacak Takım",
+   "oneri": "Santos",
+   "olasilik": 0.4396,
+   "adil_oran": 2.27,
+   "en_olasi": "Santos",
+   "en_olasi_p": 0.4396,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba",
+     0.2882
+    ],
+    [
+     "Gol yok",
+     0.2722
+    ],
+    [
+     "Santos",
+     0.4396
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Doğru Skor",
+   "oneri": "0-0",
+   "olasilik": 0.2722,
+   "adil_oran": 3.67,
+   "en_olasi": "0-0",
+   "en_olasi_p": 0.2722,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-0",
+     0.2722
+    ],
+    [
+     "0-1",
+     0.2148
+    ],
+    [
+     "1-0",
+     0.1409
+    ],
+    [
+     "1-1",
+     0.11
+    ],
+    [
+     "0-2",
+     0.0836
+    ],
+    [
+     "1-2",
+     0.0433
+    ],
+    [
+     "2-0",
+     0.0355
+    ],
+    [
+     "2-1",
+     0.0286
+    ],
+    [
+     "0-3",
+     0.0211
+    ],
+    [
+     "1-3",
+     0.0117
+    ],
+    [
+     "2-2",
+     0.0113
+    ],
+    [
+     "Diğer",
+     0.0106
+    ],
+    [
+     "3-0",
+     0.0062
+    ],
+    [
+     "3-1",
+     0.0047
+    ],
+    [
+     "2-3",
+     0.0028
+    ],
+    [
+     "3-2",
+     0.0021
+    ],
+    [
+     "3-3",
+     0.0005
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Karşılıklı Gol",
+   "oneri": "İY Yok / 2Y Yok",
+   "olasilik": 0.6598,
+   "adil_oran": 1.52,
+   "en_olasi": "İY Yok / 2Y Yok",
+   "en_olasi_p": 0.6598,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Var / 2Y Var",
+     0.0332
+    ],
+    [
+     "İY Var / 2Y Yok",
+     0.1204
+    ],
+    [
+     "İY Yok / 2Y Var",
+     0.1866
+    ],
+    [
+     "İY Yok / 2Y Yok",
+     0.6598
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı veya Maç Sonucu",
+   "oneri": "İY X veya MS X",
+   "olasilik": 0.5486,
+   "adil_oran": 1.82,
+   "en_olasi": "İY X veya MS X",
+   "en_olasi_p": 0.5486,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 1 veya MS 1",
+     0.3134
+    ],
+    [
+     "İY X veya MS X",
+     0.5486
+    ],
+    [
+     "İY 2 veya MS 2",
+     0.5417
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarı/Maç Sonucu",
+   "oneri": "2/2",
+   "olasilik": 0.2846,
+   "adil_oran": 3.51,
+   "en_olasi": "2/2",
+   "en_olasi_p": 0.2846,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.1331
+    ],
+    [
+     "1/X",
+     0.0466
+    ],
+    [
+     "1/2",
+     0.0214
+    ],
+    [
+     "X/1",
+     0.0999
+    ],
+    [
+     "X/X",
+     0.1787
+    ],
+    [
+     "X/2",
+     0.1764
+    ],
+    [
+     "2/1",
+     0.0124
+    ],
+    [
+     "2/X",
+     0.0469
+    ],
+    [
+     "2/2",
+     0.2846
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Sonucu",
+   "oneri": "X/X",
+   "olasilik": 0.1787,
+   "adil_oran": 5.59,
+   "en_olasi": "X/X",
+   "en_olasi_p": 0.1787,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.0447
+    ],
+    [
+     "1/X",
+     0.0783
+    ],
+    [
+     "1/2",
+     0.0781
+    ],
+    [
+     "X/1",
+     0.0999
+    ],
+    [
+     "X/X",
+     0.1787
+    ],
+    [
+     "X/2",
+     0.1764
+    ],
+    [
+     "2/1",
+     0.0754
+    ],
+    [
+     "2/X",
+     0.137
+    ],
+    [
+     "2/2",
+     0.1314
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.4279,
+   "adil_oran": 2.34,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.4279,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.293
+    ],
+    [
+     "Eşit",
+     0.2792
+    ],
+    [
+     "2. Yarı",
+     0.4279
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı : Çifte Şans",
+   "oneri": "1. veya 2. Yarı",
+   "olasilik": 0.7208,
+   "adil_oran": 1.39,
+   "en_olasi": "1. veya 2. Yarı",
+   "en_olasi_p": 0.7208,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı veya Eşit",
+     0.5721
+    ],
+    [
+     "2. Yarı veya Eşit",
+     0.707
+    ],
+    [
+     "1. veya 2. Yarı",
+     0.7208
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Coritiba : En Çok Gol Attığı Yarı",
+   "oneri": "Eşit",
+   "olasilik": 0.4852,
+   "adil_oran": 2.06,
+   "en_olasi": "Eşit",
+   "en_olasi_p": 0.4852,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2189
+    ],
+    [
+     "Eşit",
+     0.4852
+    ],
+    [
+     "2. Yarı",
+     0.2959
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Santos : En Çok Gol Attığı Yarı",
+   "oneri": "Eşit",
+   "olasilik": 0.3787,
+   "adil_oran": 2.64,
+   "en_olasi": "Eşit",
+   "en_olasi_p": 0.3787,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2607
+    ],
+    [
+     "Eşit",
+     0.3787
+    ],
+    [
+     "2. Yarı",
+     0.3606
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Coritiba : Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8661,
+   "adil_oran": 1.15,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8661,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1339
+    ],
+    [
+     "Hayır",
+     0.8661
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Santos Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.7497,
+   "adil_oran": 1.33,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7497,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2503
+    ],
+    [
+     "Hayır",
+     0.7497
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Coritiba : İlk Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.6676,
+   "adil_oran": 1.5,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6676,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3324
+    ],
+    [
+     "Hayır",
+     0.6676
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Santos İlk Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.5383,
+   "adil_oran": 1.86,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5383,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4617
+    ],
+    [
+     "Hayır",
+     0.5383
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Coritiba : İkinci Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.5967,
+   "adil_oran": 1.68,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5967,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4033
+    ],
+    [
+     "Hayır",
+     0.5967
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Santos İkinci Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.5443,
+   "adil_oran": 1.84,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5443,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5443
+    ],
+    [
+     "Hayır",
+     0.4557
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.6405,
+   "adil_oran": 1.56,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6405,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6405
+    ],
+    [
+     "Hayır",
+     0.3595
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İkinci Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.7278,
+   "adil_oran": 1.37,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7278,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7278
+    ],
+    [
+     "Hayır",
+     0.2722
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarıda da 1.5 Üst Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8976,
+   "adil_oran": 1.11,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8976,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1024
+    ],
+    [
+     "Hayır",
+     0.8976
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarı Goller 1.5 Alt",
+   "oneri": "Hayır",
+   "olasilik": 0.5424,
+   "adil_oran": 1.84,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5424,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4576
+    ],
+    [
+     "Hayır",
+     0.5424
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Coritiba : Gol Atar 1.Yarı/2.Yarı",
+   "oneri": "Hayır/Hayır",
+   "olasilik": 0.3982,
+   "adil_oran": 2.51,
+   "en_olasi": "Hayır/Hayır",
+   "en_olasi_p": 0.3982,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.1339
+    ],
+    [
+     "Evet/Hayır",
+     0.1985
+    ],
+    [
+     "Hayır/Evet",
+     0.2694
+    ],
+    [
+     "Hayır/Hayır",
+     0.3982
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Santos Gol Atar İlk Yarı/İkinci Yarı",
+   "oneri": "Hayır/Evet",
+   "olasilik": 0.294,
+   "adil_oran": 3.4,
+   "en_olasi": "Hayır/Evet",
+   "en_olasi_p": 0.294,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.2503
+    ],
+    [
+     "Evet/Hayır",
+     0.2114
+    ],
+    [
+     "Hayır/Evet",
+     0.294
+    ],
+    [
+     "Hayır/Hayır",
+     0.2443
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarıları Farklı Takımlar Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8465,
+   "adil_oran": 1.18,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8465,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1535
+    ],
+    [
+     "Hayır",
+     0.8465
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarılardan En Az Birinde Beraberlik",
+   "oneri": "Evet",
+   "olasilik": 0.6704,
+   "adil_oran": 1.49,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6704,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6704
+    ],
+    [
+     "Hayır",
+     0.3296
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1.Yarı Toplam Gol'e karşı 2. Yarı Toplam Gol Handikapı",
+   "oneri": "1. Yarı +1,5",
+   "olasilik": 0.8052,
+   "adil_oran": 1.24,
+   "en_olasi": "1. Yarı +1,5",
+   "en_olasi_p": 0.8052,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "2. Yarı -1,5",
+     0.1948
+    ],
+    [
+     "2. Yarı -0,5",
+     0.4279
+    ],
+    [
+     "2. Yarı +0,5",
+     0.707
+    ],
+    [
+     "1. Yarı +1,5",
+     0.8052
+    ],
+    [
+     "1. Yarı +0,5",
+     0.5721
+    ],
+    [
+     "1. Yarı -0,5",
+     0.293
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8192,
+   "adil_oran": 1.22,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8192,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1808
+    ],
+    [
+     "Hayır",
+     0.8192
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Köşe Vuruşu",
+   "oneri": "Evet",
+   "olasilik": 0.6728,
+   "adil_oran": 1.49,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6728,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6728
+    ],
+    [
+     "Hayır",
+     0.3272
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Coritiba : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Coritiba 0,5 Alt",
+   "olasilik": 0.5921,
+   "adil_oran": 1.69,
+   "en_olasi": "Coritiba 1,5 Alt",
+   "en_olasi_p": 0.9025,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba 0,5 Üst",
+     0.4079
+    ],
+    [
+     "Coritiba 0,5 Alt",
+     0.5921
+    ],
+    [
+     "Coritiba 1,5 Üst",
+     0.0975
+    ],
+    [
+     "Coritiba 1,5 Alt",
+     0.9025
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Santos : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Santos 0,5 Alt",
+   "olasilik": 0.5545,
+   "adil_oran": 1.8,
+   "en_olasi": "Santos 0,5 Alt",
+   "en_olasi_p": 0.5545,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Santos 0,5 Üst",
+     0.4455
+    ],
+    [
+     "Santos 0,5 Alt",
+     0.5545
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Sarı Kartlar",
+   "oneri": "Hayır",
+   "olasilik": 0.7712,
+   "adil_oran": 1.3,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7712,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2288
+    ],
+    [
+     "Hayır",
+     0.7712
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.7557,
+   "adil_oran": 1.32,
+   "en_olasi": "X",
+   "en_olasi_p": 0.7557,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Coritiba)",
+     0.0947
+    ],
+    [
+     "X",
+     0.7557
+    ],
+    [
+     "2 (Santos)",
+     0.1496
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Gol Handikapı",
+   "oneri": "Santos (-1)",
+   "olasilik": 0.9053,
+   "adil_oran": 1.1,
+   "en_olasi": "Santos (-1)",
+   "en_olasi_p": 0.9053,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba (-1)",
+     0.0061
+    ],
+    [
+     "X (-1)",
+     0.0887
+    ],
+    [
+     "Santos (-1)",
+     0.9053
+    ],
+    [
+     "Coritiba (+1)",
+     0.8504
+    ],
+    [
+     "X (+1)",
+     0.1361
+    ],
+    [
+     "Santos (+1)",
+     0.0135
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.7394,
+   "adil_oran": 1.35,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9615,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.2606
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.7394
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0385
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9615
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Coritiba Toplam Goller",
+   "oneri": "Coritiba 1,5 Alt",
+   "olasilik": 0.9928,
+   "adil_oran": 1.01,
+   "en_olasi": "Coritiba 1,5 Alt",
+   "en_olasi_p": 0.9928,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba 0,5 Üst",
+     0.1127
+    ],
+    [
+     "Coritiba 0,5 Alt",
+     0.8873
+    ],
+    [
+     "Coritiba 1,5 Üst",
+     0.0072
+    ],
+    [
+     "Coritiba 1,5 Alt",
+     0.9928
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Santos Toplam Goller",
+   "oneri": "Santos 0,5 Alt",
+   "olasilik": 0.833,
+   "adil_oran": 1.2,
+   "en_olasi": "Santos 0,5 Alt",
+   "en_olasi_p": 0.833,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Santos 0,5 Üst",
+     0.167
+    ],
+    [
+     "Santos 0,5 Alt",
+     0.833
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. İki Takım Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.9809,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9809,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0191
+    ],
+    [
+     "Hayır",
+     0.9809
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.5869,
+   "adil_oran": 1.7,
+   "en_olasi": "X",
+   "en_olasi_p": 0.5869,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Coritiba)",
+     0.1565
+    ],
+    [
+     "X",
+     0.5869
+    ],
+    [
+     "2 (Santos)",
+     0.2566
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Gol Handikapı",
+   "oneri": "Coritiba (+1)",
+   "olasilik": 0.7434,
+   "adil_oran": 1.35,
+   "en_olasi": "Santos (-1)",
+   "en_olasi_p": 0.8436,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba (-1)",
+     0.0193
+    ],
+    [
+     "X (-1)",
+     0.1372
+    ],
+    [
+     "Santos (-1)",
+     0.8436
+    ],
+    [
+     "Coritiba (+1)",
+     0.7434
+    ],
+    [
+     "X (+1)",
+     0.2129
+    ],
+    [
+     "Santos (+1)",
+     0.0438
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.535,
+   "adil_oran": 1.87,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.8689,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.465
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.535
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.1311
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.8689
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Coritiba Toplam Goller",
+   "oneri": "Coritiba 0,5 Alt",
+   "olasilik": 0.7808,
+   "adil_oran": 1.28,
+   "en_olasi": "Coritiba 1,5 Alt",
+   "en_olasi_p": 0.9726,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba 0,5 Üst",
+     0.2192
+    ],
+    [
+     "Coritiba 0,5 Alt",
+     0.7808
+    ],
+    [
+     "Coritiba 1,5 Üst",
+     0.0274
+    ],
+    [
+     "Coritiba 1,5 Alt",
+     0.9726
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Santos Toplam Goller",
+   "oneri": "Santos 0,5 Alt",
+   "olasilik": 0.6843,
+   "adil_oran": 1.46,
+   "en_olasi": "Santos 0,5 Alt",
+   "en_olasi_p": 0.6843,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Santos 0,5 Üst",
+     0.3157
+    ],
+    [
+     "Santos 0,5 Alt",
+     0.6843
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Galibi",
+   "oneri": "2 (Santos)",
+   "olasilik": 0.3972,
+   "adil_oran": 2.52,
+   "en_olasi": "2 (Santos)",
+   "en_olasi_p": 0.3972,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Coritiba)",
+     0.2241
+    ],
+    [
+     "X",
+     0.3787
+    ],
+    [
+     "2 (Santos)",
+     0.3972
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Gol Handikapı",
+   "oneri": "Santos +0,5",
+   "olasilik": 0.7759,
+   "adil_oran": 1.29,
+   "en_olasi": "Santos +1,5",
+   "en_olasi_p": 0.9472,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba -1,5",
+     0.0528
+    ],
+    [
+     "Santos +1,5",
+     0.9472
+    ],
+    [
+     "Coritiba -0,5",
+     0.2241
+    ],
+    [
+     "Santos +0,5",
+     0.7759
+    ],
+    [
+     "Coritiba +0,5",
+     0.6028
+    ],
+    [
+     "Santos -0,5",
+     0.3972
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.7495,
+   "adil_oran": 1.33,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.8367,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7495
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2505
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.4018
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.5982
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1633
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8367
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Coritiba Toplam Goller",
+   "oneri": "Coritiba 0,5 Alt",
+   "olasilik": 0.5789,
+   "adil_oran": 1.73,
+   "en_olasi": "Coritiba 1,5 Alt",
+   "en_olasi_p": 0.8942,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba 0,5 Üst",
+     0.4211
+    ],
+    [
+     "Coritiba 0,5 Alt",
+     0.5789
+    ],
+    [
+     "Coritiba 1,5 Üst",
+     0.1058
+    ],
+    [
+     "Coritiba 1,5 Alt",
+     0.8942
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Santos Toplam Goller",
+   "oneri": "Santos 0,5 Üst",
+   "olasilik": 0.5673,
+   "adil_oran": 1.76,
+   "en_olasi": "Santos 0,5 Üst",
+   "en_olasi_p": 0.5673,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Santos 0,5 Üst",
+     0.5673
+    ],
+    [
+     "Santos 0,5 Alt",
+     0.4327
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7611,
+   "adil_oran": 1.31,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7611,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2389
+    ],
+    [
+     "Hayır",
+     0.7611
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Galibi",
+   "oneri": "2 (Santos)",
+   "olasilik": 0.4389,
+   "adil_oran": 2.28,
+   "en_olasi": "2 (Santos)",
+   "en_olasi_p": 0.4389,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Coritiba)",
+     0.237
+    ],
+    [
+     "X",
+     0.3241
+    ],
+    [
+     "2 (Santos)",
+     0.4389
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Gol Handikapı",
+   "oneri": "Santos +0,5",
+   "olasilik": 0.763,
+   "adil_oran": 1.31,
+   "en_olasi": "Santos +1,5",
+   "en_olasi_p": 0.9324,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba -1,5",
+     0.0676
+    ],
+    [
+     "Santos +1,5",
+     0.9324
+    ],
+    [
+     "Coritiba -0,5",
+     0.237
+    ],
+    [
+     "Santos +0,5",
+     0.763
+    ],
+    [
+     "Coritiba +0,5",
+     0.5611
+    ],
+    [
+     "Santos -0,5",
+     0.4389
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.8298,
+   "adil_oran": 1.21,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.8298,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.8298
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.1702
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.5279
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.4722
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.2616
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.7383
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Coritiba Toplam Goller",
+   "oneri": "Coritiba 0,5 Üst",
+   "olasilik": 0.5038,
+   "adil_oran": 1.99,
+   "en_olasi": "Coritiba 1,5 Alt",
+   "en_olasi_p": 0.843,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba 0,5 Üst",
+     0.5038
+    ],
+    [
+     "Coritiba 0,5 Alt",
+     0.4962
+    ],
+    [
+     "Coritiba 1,5 Üst",
+     0.157
+    ],
+    [
+     "Coritiba 1,5 Alt",
+     0.843
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Santos Toplam Goller",
+   "oneri": "Santos 0,5 Üst",
+   "olasilik": 0.6582,
+   "adil_oran": 1.52,
+   "en_olasi": "Santos 0,5 Üst",
+   "en_olasi_p": 0.6582,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Santos 0,5 Üst",
+     0.6582
+    ],
+    [
+     "Santos 0,5 Alt",
+     0.3418
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.6679,
+   "adil_oran": 1.5,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6679,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3322
+    ],
+    [
+     "Hayır",
+     0.6679
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kafa Golü Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7483,
+   "adil_oran": 1.34,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7483,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2517
+    ],
+    [
+     "Hayır",
+     0.7483
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Frikikten Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.945,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.945,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.055
+    ],
+    [
+     "Hayır",
+     0.945
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Rövaşata ile Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.9958,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9958,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0042
+    ],
+    [
+     "Hayır",
+     0.9958
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Ceza Sahası Dışından Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8134,
+   "adil_oran": 1.23,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8134,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1866
+    ],
+    [
+     "Hayır",
+     0.8134
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kendi Kalesine Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.9218,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9218,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0782
+    ],
+    [
+     "Hayır",
+     0.9218
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Oyuncu Hat-trick Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9761,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9761,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0238
+    ],
+    [
+     "Hayır",
+     0.9761
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Kaleci Asist Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9928,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9928,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0072
+    ],
+    [
+     "Hayır",
+     0.9928
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "VAR'lar: Toplam (Yalnızca Sahada İnceleme veya Video İnceleme İşareti (TV))",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.5141,
+   "adil_oran": 1.95,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.8355,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.5141
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.4859
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.1645
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.8355
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Sonuç",
+   "oneri": "2 (Santos)",
+   "olasilik": 0.5115,
+   "adil_oran": 1.95,
+   "en_olasi": "2 (Santos)",
+   "en_olasi_p": 0.5115,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Coritiba)",
+     0.3733
+    ],
+    [
+     "X",
+     0.1151
+    ],
+    [
+     "2 (Santos)",
+     0.5115
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam",
+   "oneri": "Toplam 8,5 Üst",
+   "olasilik": 0.8296,
+   "adil_oran": 1.21,
+   "en_olasi": "Toplam 7,5 Üst",
+   "en_olasi_p": 0.9006,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 7,5 Üst",
+     0.9006
+    ],
+    [
+     "Toplam 7,5 Alt",
+     0.0994
+    ],
+    [
+     "Toplam 8,5 Üst",
+     0.8296
+    ],
+    [
+     "Toplam 8,5 Alt",
+     0.1704
+    ],
+    [
+     "Toplam 9,5 Üst",
+     0.7379
+    ],
+    [
+     "Toplam 9,5 Alt",
+     0.2621
+    ],
+    [
+     "Toplam 10,5 Üst",
+     0.629
+    ],
+    [
+     "Toplam 10,5 Alt",
+     0.371
+    ],
+    [
+     "Toplam 11,5 Üst",
+     0.5132
+    ],
+    [
+     "Toplam 11,5 Alt",
+     0.4868
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Coritiba",
+   "oneri": "Coritiba 3,5 Üst",
+   "olasilik": 0.807,
+   "adil_oran": 1.24,
+   "en_olasi": "Coritiba 3,5 Üst",
+   "en_olasi_p": 0.807,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba 3,5 Üst",
+     0.807
+    ],
+    [
+     "Coritiba 3,5 Alt",
+     0.193
+    ],
+    [
+     "Coritiba 4,5 Üst",
+     0.6552
+    ],
+    [
+     "Coritiba 4,5 Alt",
+     0.3448
+    ],
+    [
+     "Coritiba 5,5 Üst",
+     0.4866
+    ],
+    [
+     "Coritiba 5,5 Alt",
+     0.5134
+    ],
+    [
+     "Coritiba 6,5 Üst",
+     0.3273
+    ],
+    [
+     "Coritiba 6,5 Alt",
+     0.6727
+    ],
+    [
+     "Coritiba 7,5 Üst",
+     0.2
+    ],
+    [
+     "Coritiba 7,5 Alt",
+     0.8
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Santos",
+   "oneri": "Santos 4,5 Üst",
+   "olasilik": 0.741,
+   "adil_oran": 1.35,
+   "en_olasi": "Santos 1,5 Üst",
+   "en_olasi_p": 0.9854,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Santos 1,5 Üst",
+     0.9854
+    ],
+    [
+     "Santos 1,5 Alt",
+     0.0146
+    ],
+    [
+     "Santos 2,5 Üst",
+     0.9463
+    ],
+    [
+     "Santos 2,5 Alt",
+     0.0537
+    ],
+    [
+     "Santos 3,5 Üst",
+     0.8665
+    ],
+    [
+     "Santos 3,5 Alt",
+     0.1335
+    ],
+    [
+     "Santos 4,5 Üst",
+     0.741
+    ],
+    [
+     "Santos 4,5 Alt",
+     0.259
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Handikap",
+   "oneri": "Santos +2,5",
+   "olasilik": 0.8193,
+   "adil_oran": 1.22,
+   "en_olasi": "Santos +4,5",
+   "en_olasi_p": 0.9337,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba -4,5",
+     0.0663
+    ],
+    [
+     "Santos +4,5",
+     0.9337
+    ],
+    [
+     "Coritiba -3,5",
+     0.114
+    ],
+    [
+     "Santos +3,5",
+     0.886
+    ],
+    [
+     "Coritiba -2,5",
+     0.1807
+    ],
+    [
+     "Santos +2,5",
+     0.8193
+    ],
+    [
+     "Coritiba -1,5",
+     0.2683
+    ],
+    [
+     "Santos +1,5",
+     0.7317
+    ],
+    [
+     "Coritiba -0,5",
+     0.3733
+    ],
+    [
+     "Santos +0,5",
+     0.6267
+    ],
+    [
+     "Coritiba +0,5",
+     0.4885
+    ],
+    [
+     "Santos -0,5",
+     0.5115
+    ],
+    [
+     "Coritiba +1,5",
+     0.6035
+    ],
+    [
+     "Santos -1,5",
+     0.3965
+    ],
+    [
+     "Coritiba +2,5",
+     0.7116
+    ],
+    [
+     "Santos -2,5",
+     0.2884
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (3-İhtimalli)",
+   "oneri": "9 Üst",
+   "olasilik": 0.7379,
+   "adil_oran": 1.36,
+   "en_olasi": "9 Üst",
+   "en_olasi_p": 0.7379,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "9 Alt",
+     0.1704
+    ],
+    [
+     "10 Alt",
+     0.2621
+    ],
+    [
+     "Tam 9",
+     0.0917
+    ],
+    [
+     "Tam 10",
+     0.1089
+    ],
+    [
+     "9 Üst",
+     0.7379
+    ],
+    [
+     "10 Üst",
+     0.629
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (Aralık)",
+   "oneri": "12+ korner",
+   "olasilik": 0.5132,
+   "adil_oran": 1.95,
+   "en_olasi": "12+ korner",
+   "en_olasi_p": 0.5132,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "0-8 korner",
+     0.1704
+    ],
+    [
+     "9-11 korner",
+     0.3164
+    ],
+    [
+     "12+ korner",
+     0.5132
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Tek/Çift",
+   "oneri": "Çift",
+   "olasilik": 0.502,
+   "adil_oran": 1.99,
+   "en_olasi": "Çift",
+   "en_olasi_p": 0.502,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.498
+    ],
+    [
+     "Çift",
+     0.502
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Korner Yarışı",
+   "oneri": "9 kornere kimse ulaşamaz",
+   "olasilik": 0.7333,
+   "adil_oran": 1.36,
+   "en_olasi": "9 kornere kimse ulaşamaz",
+   "en_olasi_p": 0.7333,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk 3 korner Coritiba",
+     0.4432
+    ],
+    [
+     "İlk 3 korner Santos",
+     0.541
+    ],
+    [
+     "3 kornere kimse ulaşamaz",
+     0.0044
+    ],
+    [
+     "İlk 5 korner Coritiba",
+     0.3918
+    ],
+    [
+     "İlk 5 korner Santos",
+     0.5124
+    ],
+    [
+     "5 kornere kimse ulaşamaz",
+     0.0887
+    ],
+    [
+     "İlk 7 korner Coritiba",
+     0.2524
+    ],
+    [
+     "İlk 7 korner Santos",
+     0.3582
+    ],
+    [
+     "7 kornere kimse ulaşamaz",
+     0.3865
+    ],
+    [
+     "İlk 9 korner Coritiba",
+     0.1023
+    ],
+    [
+     "İlk 9 korner Santos",
+     0.1638
+    ],
+    [
+     "9 kornere kimse ulaşamaz",
+     0.7333
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Sonucu",
+   "oneri": "2 (Santos)",
+   "olasilik": 0.4638,
+   "adil_oran": 2.16,
+   "en_olasi": "2 (Santos)",
+   "en_olasi_p": 0.4638,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Coritiba)",
+     0.3656
+    ],
+    [
+     "X",
+     0.1706
+    ],
+    [
+     "2 (Santos)",
+     0.4638
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Handikap",
+   "oneri": "Santos +1,5",
+   "olasilik": 0.7821,
+   "adil_oran": 1.28,
+   "en_olasi": "Santos +2,5",
+   "en_olasi_p": 0.8871,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba -2,5",
+     0.1129
+    ],
+    [
+     "Santos +2,5",
+     0.8871
+    ],
+    [
+     "Coritiba -1,5",
+     0.2179
+    ],
+    [
+     "Santos +1,5",
+     0.7821
+    ],
+    [
+     "Coritiba -0,5",
+     0.3656
+    ],
+    [
+     "Santos +0,5",
+     0.6344
+    ],
+    [
+     "Coritiba +0,5",
+     0.5362
+    ],
+    [
+     "Santos -0,5",
+     0.4638
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Toplam",
+   "oneri": "Toplam 3,5 Üst",
+   "olasilik": 0.8033,
+   "adil_oran": 1.24,
+   "en_olasi": "Toplam 3,5 Üst",
+   "en_olasi_p": 0.8033,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 3,5 Üst",
+     0.8033
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.1967
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.6495
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.3505
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.4785
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.5215
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Coritiba Toplam",
+   "oneri": "Coritiba 1,5 Üst",
+   "olasilik": 0.7368,
+   "adil_oran": 1.36,
+   "en_olasi": "Coritiba 1,5 Üst",
+   "en_olasi_p": 0.7368,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba 1,5 Üst",
+     0.7368
+    ],
+    [
+     "Coritiba 1,5 Alt",
+     0.2632
+    ],
+    [
+     "Coritiba 2,5 Üst",
+     0.4869
+    ],
+    [
+     "Coritiba 2,5 Alt",
+     0.5131
+    ],
+    [
+     "Coritiba 3,5 Üst",
+     0.2694
+    ],
+    [
+     "Coritiba 3,5 Alt",
+     0.7306
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Santos Toplam",
+   "oneri": "Santos 1,5 Üst",
+   "olasilik": 0.7886,
+   "adil_oran": 1.27,
+   "en_olasi": "Santos 0,5 Üst",
+   "en_olasi_p": 0.9458,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Santos 0,5 Üst",
+     0.9458
+    ],
+    [
+     "Santos 0,5 Alt",
+     0.0542
+    ],
+    [
+     "Santos 1,5 Üst",
+     0.7886
+    ],
+    [
+     "Santos 1,5 Alt",
+     0.2114
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : 2. Yarı",
+   "oneri": "Toplam 4,5 Üst",
+   "olasilik": 0.7454,
+   "adil_oran": 1.34,
+   "en_olasi": "Toplam 4,5 Üst",
+   "en_olasi_p": 0.7454,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 4,5 Üst",
+     0.7454
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.2546
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.5913
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.4087
+    ],
+    [
+     "Toplam 6,5 Üst",
+     0.4318
+    ],
+    [
+     "Toplam 6,5 Alt",
+     0.5682
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : İlk Korner",
+   "oneri": "Santos",
+   "olasilik": 0.5136,
+   "adil_oran": 1.95,
+   "en_olasi": "Santos",
+   "en_olasi_p": 0.5136,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba",
+     0.4863
+    ],
+    [
+     "Santos",
+     0.5136
+    ],
+    [
+     "Korner yok",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Son Korner",
+   "oneri": "Santos",
+   "olasilik": 0.5101,
+   "adil_oran": 1.96,
+   "en_olasi": "Santos",
+   "en_olasi_p": 0.5101,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba",
+     0.4899
+    ],
+    [
+     "Santos",
+     0.5101
+    ],
+    [
+     "Korner yok",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "En Fazla Korner Olan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.5213,
+   "adil_oran": 1.92,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.5213,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.3634
+    ],
+    [
+     "Eşit",
+     0.1153
+    ],
+    [
+     "2. Yarı",
+     0.5213
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan : Sonuç",
+   "oneri": "1 (Coritiba)",
+   "olasilik": 0.4906,
+   "adil_oran": 2.04,
+   "en_olasi": "1 (Coritiba)",
+   "en_olasi_p": 0.4906,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "1 (Coritiba)",
+     0.4906
+    ],
+    [
+     "X",
+     0.1759
+    ],
+    [
+     "2 (Santos)",
+     0.3334
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan Handikapı",
+   "oneri": "Coritiba +15,5",
+   "olasilik": 0.8229,
+   "adil_oran": 1.22,
+   "en_olasi": "Coritiba +15,5",
+   "en_olasi_p": 0.8229,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Coritiba -15,5",
+     0.3041
+    ],
+    [
+     "Santos +15,5",
+     0.6959
+    ],
+    [
+     "Coritiba -5,5",
+     0.4838
+    ],
+    [
+     "Santos +5,5",
+     0.5162
+    ],
+    [
+     "Coritiba +5,5",
+     0.674
+    ],
+    [
+     "Santos -5,5",
+     0.326
+    ],
+    [
+     "Coritiba +15,5",
+     0.8229
+    ],
+    [
+     "Santos -15,5",
+     0.1771
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam Puan",
+   "oneri": "Toplam 25,5 Üst",
+   "olasilik": 0.8054,
+   "adil_oran": 1.24,
+   "en_olasi": "Toplam 25,5 Üst",
+   "en_olasi_p": 0.8054,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 25,5 Üst",
+     0.8054
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.1946
+    ],
+    [
+     "Toplam 35,5 Üst",
+     0.634
+    ],
+    [
+     "Toplam 35,5 Alt",
+     0.366
+    ],
+    [
+     "Toplam 45,5 Üst",
+     0.4502
+    ],
+    [
+     "Toplam 45,5 Alt",
+     0.5498
+    ],
+    [
+     "Toplam 55,5 Üst",
+     0.2907
+    ],
+    [
+     "Toplam 55,5 Alt",
+     0.7093
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Coritiba : Toplam Kart Puanı",
+   "oneri": "Coritiba 15,5 Üst",
+   "olasilik": 0.6875,
+   "adil_oran": 1.45,
+   "en_olasi": "Coritiba 5,5 Üst",
+   "en_olasi_p": 0.9048,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Coritiba 5,5 Üst",
+     0.9048
+    ],
+    [
+     "Coritiba 5,5 Alt",
+     0.0953
+    ],
+    [
+     "Coritiba 15,5 Üst",
+     0.6875
+    ],
+    [
+     "Coritiba 15,5 Alt",
+     0.3125
+    ],
+    [
+     "Coritiba 25,5 Üst",
+     0.4348
+    ],
+    [
+     "Coritiba 25,5 Alt",
+     0.5652
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Santos : Toplam Kart Puanı",
+   "oneri": "Santos 25,5 Alt",
+   "olasilik": 0.6824,
+   "adil_oran": 1.47,
+   "en_olasi": "Santos 5,5 Üst",
+   "en_olasi_p": 0.8505,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Santos 5,5 Üst",
+     0.8505
+    ],
+    [
+     "Santos 5,5 Alt",
+     0.1495
+    ],
+    [
+     "Santos 15,5 Üst",
+     0.5775
+    ],
+    [
+     "Santos 15,5 Alt",
+     0.4225
+    ],
+    [
+     "Santos 25,5 Üst",
+     0.3176
+    ],
+    [
+     "Santos 25,5 Alt",
+     0.6824
+    ],
+    [
+     "Santos 35,5 Üst",
+     0.1505
+    ],
+    [
+     "Santos 35,5 Alt",
+     0.8495
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam (Aralıklar)",
+   "oneri": "21-40 puan",
+   "olasilik": 0.3455,
+   "adil_oran": 2.89,
+   "en_olasi": "21-40 puan",
+   "en_olasi_p": 0.3455,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "0-20 puan",
+     0.1938
+    ],
+    [
+     "21-40 puan",
+     0.3455
+    ],
+    [
+     "41-60 puan",
+     0.2698
+    ],
+    [
+     "61+ puan",
+     0.168
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Toplam Kart Puanı",
+   "oneri": "Toplam 25,5 Alt",
+   "olasilik": 0.7847,
+   "adil_oran": 1.27,
+   "en_olasi": "Toplam 25,5 Alt",
+   "en_olasi_p": 0.7847,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 5,5 Üst",
+     0.7843
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.2157
+    ],
+    [
+     "Toplam 15,5 Üst",
+     0.4618
+    ],
+    [
+     "Toplam 15,5 Alt",
+     0.5382
+    ],
+    [
+     "Toplam 25,5 Üst",
+     0.2153
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.7847
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Coritiba : Toplam Kart Puanı",
+   "oneri": "Coritiba 15,5 Alt",
+   "olasilik": 0.7834,
+   "adil_oran": 1.28,
+   "en_olasi": "Coritiba 15,5 Alt",
+   "en_olasi_p": 0.7834,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Coritiba 5,5 Üst",
+     0.5714
+    ],
+    [
+     "Coritiba 5,5 Alt",
+     0.4286
+    ],
+    [
+     "Coritiba 15,5 Üst",
+     0.2166
+    ],
+    [
+     "Coritiba 15,5 Alt",
+     0.7834
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Santos : Toplam Kart Puanı",
+   "oneri": "Santos 5,5 Alt",
+   "olasilik": 0.5044,
+   "adil_oran": 1.98,
+   "en_olasi": "Santos 15,5 Alt",
+   "en_olasi_p": 0.8386,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Santos 5,5 Üst",
+     0.4956
+    ],
+    [
+     "Santos 5,5 Alt",
+     0.5044
+    ],
+    [
+     "Santos 15,5 Üst",
+     0.1614
+    ],
+    [
+     "Santos 15,5 Alt",
+     0.8386
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Coritiba : Toplam Kart Puanı",
+   "oneri": "Coritiba 5,5 Üst",
+   "olasilik": 0.7764,
+   "adil_oran": 1.29,
+   "en_olasi": "Coritiba 5,5 Üst",
+   "en_olasi_p": 0.7764,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Coritiba 5,5 Üst",
+     0.7764
+    ],
+    [
+     "Coritiba 5,5 Alt",
+     0.2236
+    ],
+    [
+     "Coritiba 15,5 Üst",
+     0.4544
+    ],
+    [
+     "Coritiba 15,5 Alt",
+     0.5456
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Santos : Toplam Kart Puanı",
+   "oneri": "Santos 5,5 Üst",
+   "olasilik": 0.7049,
+   "adil_oran": 1.42,
+   "en_olasi": "Santos 25,5 Alt",
+   "en_olasi_p": 0.8555,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Santos 5,5 Üst",
+     0.7049
+    ],
+    [
+     "Santos 5,5 Alt",
+     0.2951
+    ],
+    [
+     "Santos 15,5 Üst",
+     0.3566
+    ],
+    [
+     "Santos 15,5 Alt",
+     0.6434
+    ],
+    [
+     "Santos 25,5 Üst",
+     0.1445
+    ],
+    [
+     "Santos 25,5 Alt",
+     0.8555
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Direkt Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9428,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9428,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0572
+    ],
+    [
+     "Hayır",
+     0.9428
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Yarıda Kart Olur",
+   "oneri": "Evet",
+   "olasilik": 0.7329,
+   "adil_oran": 1.36,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7329,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7329
+    ],
+    [
+     "Hayır",
+     0.2671
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kırmızı Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.9967,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9967,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0033
+    ],
+    [
+     "Hayır",
+     0.9967
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kart Alır",
+   "oneri": "Evet",
+   "olasilik": 0.7693,
+   "adil_oran": 1.3,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7693,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7693
+    ],
+    [
+     "Hayır",
+     0.2307
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Kart Görür",
+   "oneri": "Hayır",
+   "olasilik": 0.6079,
+   "adil_oran": 1.65,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6079,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3921
+    ],
+    [
+     "Hayır",
+     0.6079
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Her İki Yarıda Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.8457,
+   "adil_oran": 1.18,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8457,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1543
+    ],
+    [
+     "Hayır",
+     0.8457
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İlk Kartı Görecek Takım",
+   "oneri": "Coritiba",
+   "olasilik": 0.5433,
+   "adil_oran": 1.84,
+   "en_olasi": "Coritiba",
+   "en_olasi_p": 0.5433,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba",
+     0.5433
+    ],
+    [
+     "Santos",
+     0.4427
+    ],
+    [
+     "Kart yok",
+     0.0141
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Son Kartı Görecek Takım",
+   "oneri": "Coritiba",
+   "olasilik": 0.5422,
+   "adil_oran": 1.84,
+   "en_olasi": "Coritiba",
+   "en_olasi_p": 0.5422,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba",
+     0.5422
+    ],
+    [
+     "Santos",
+     0.4437
+    ],
+    [
+     "Kart yok",
+     0.0141
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Maçta Penaltı, Kırmızı Kart ve Kendi Kalesine Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9957,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9957,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0043
+    ],
+    [
+     "Hayır",
+     0.9957
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarı Uzatma Dakikalarında Kart Gösterilir (90+ dak)",
+   "oneri": "Hayır",
+   "olasilik": 0.7188,
+   "adil_oran": 1.39,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7188,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2812
+    ],
+    [
+     "Hayır",
+     0.7188
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarının Uzatma Dakikalarında Kırmızı Kart veya Gol Olur (90+ dakika)",
+   "oneri": "Hayır",
+   "olasilik": 0.8594,
+   "adil_oran": 1.16,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8594,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1406
+    ],
+    [
+     "Hayır",
+     0.8594
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Toplam Kırmızı Kartlar",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.9932,
+   "adil_oran": 1.01,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9932,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.1121
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.8879
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0068
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9932
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Coritiba : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9421,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9421,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.058
+    ],
+    [
+     "Hayır",
+     0.9421
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Santos : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9425,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9425,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0575
+    ],
+    [
+     "Hayır",
+     0.9425
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "1. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9624,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9624,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0376
+    ],
+    [
+     "Hayır",
+     0.9624
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "2. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9225,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9225,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0775
+    ],
+    [
+     "Hayır",
+     0.9225
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Sonuç",
+   "oneri": "1 (Coritiba)",
+   "olasilik": 0.4858,
+   "adil_oran": 2.06,
+   "en_olasi": "1 (Coritiba)",
+   "en_olasi_p": 0.4858,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Coritiba)",
+     0.4858
+    ],
+    [
+     "X",
+     0.1962
+    ],
+    [
+     "2 (Santos)",
+     0.318
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.8038,
+   "adil_oran": 1.24,
+   "en_olasi": "12",
+   "en_olasi_p": 0.8038,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.682
+    ],
+    [
+     "12",
+     0.8038
+    ],
+    [
+     "X2",
+     0.5142
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Handikap",
+   "oneri": "Santos +1,5",
+   "olasilik": 0.7052,
+   "adil_oran": 1.42,
+   "en_olasi": "Coritiba +1,5",
+   "en_olasi_p": 0.8375,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba -1,5",
+     0.2948
+    ],
+    [
+     "Santos +1,5",
+     0.7052
+    ],
+    [
+     "Coritiba -0,5",
+     0.4858
+    ],
+    [
+     "Santos +0,5",
+     0.5142
+    ],
+    [
+     "Coritiba +0,5",
+     0.682
+    ],
+    [
+     "Santos -0,5",
+     0.318
+    ],
+    [
+     "Coritiba +1,5",
+     0.8375
+    ],
+    [
+     "Santos -1,5",
+     0.1625
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Toplam",
+   "oneri": "Toplam 2,5 Üst",
+   "olasilik": 0.7898,
+   "adil_oran": 1.27,
+   "en_olasi": "Toplam 2,5 Üst",
+   "en_olasi_p": 0.7898,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 2,5 Üst",
+     0.7898
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.2102
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.6054
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.3946
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.4106
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.5894
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.2474
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.7526
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Coritiba : Toplam",
+   "oneri": "Coritiba 1,5 Üst",
+   "olasilik": 0.6753,
+   "adil_oran": 1.48,
+   "en_olasi": "Coritiba 0,5 Üst",
+   "en_olasi_p": 0.9019,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba 0,5 Üst",
+     0.9019
+    ],
+    [
+     "Coritiba 0,5 Alt",
+     0.0981
+    ],
+    [
+     "Coritiba 1,5 Üst",
+     0.6753
+    ],
+    [
+     "Coritiba 1,5 Alt",
+     0.3247
+    ],
+    [
+     "Coritiba 2,5 Üst",
+     0.411
+    ],
+    [
+     "Coritiba 2,5 Alt",
+     0.589
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Santos : Toplam",
+   "oneri": "Santos 2,5 Alt",
+   "olasilik": 0.7112,
+   "adil_oran": 1.41,
+   "en_olasi": "Santos 3,5 Alt",
+   "en_olasi_p": 0.8783,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Santos 0,5 Üst",
+     0.8462
+    ],
+    [
+     "Santos 0,5 Alt",
+     0.1538
+    ],
+    [
+     "Santos 1,5 Üst",
+     0.5605
+    ],
+    [
+     "Santos 1,5 Alt",
+     0.4395
+    ],
+    [
+     "Santos 2,5 Üst",
+     0.2888
+    ],
+    [
+     "Santos 2,5 Alt",
+     0.7112
+    ],
+    [
+     "Santos 3,5 Üst",
+     0.1217
+    ],
+    [
+     "Santos 3,5 Alt",
+     0.8783
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Sonucu",
+   "oneri": "1 (Coritiba)",
+   "olasilik": 0.365,
+   "adil_oran": 2.74,
+   "en_olasi": "1 (Coritiba)",
+   "en_olasi_p": 0.365,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Coritiba)",
+     0.365
+    ],
+    [
+     "X",
+     0.364
+    ],
+    [
+     "2 (Santos)",
+     0.2711
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Handikap",
+   "oneri": "Coritiba +0,5",
+   "olasilik": 0.7289,
+   "adil_oran": 1.37,
+   "en_olasi": "Coritiba +0,5",
+   "en_olasi_p": 0.7289,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba -0,5",
+     0.365
+    ],
+    [
+     "Santos +0,5",
+     0.635
+    ],
+    [
+     "Coritiba +0,5",
+     0.7289
+    ],
+    [
+     "Santos -0,5",
+     0.2711
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı : Toplam",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.8065,
+   "adil_oran": 1.24,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.8065,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7791
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2209
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.4455
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.5545
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1935
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8065
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Coritiba Toplam",
+   "oneri": "Coritiba 1,5 Alt",
+   "olasilik": 0.7961,
+   "adil_oran": 1.26,
+   "en_olasi": "Coritiba 1,5 Alt",
+   "en_olasi_p": 0.7961,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba 0,5 Üst",
+     0.5664
+    ],
+    [
+     "Coritiba 0,5 Alt",
+     0.4336
+    ],
+    [
+     "Coritiba 1,5 Üst",
+     0.2039
+    ],
+    [
+     "Coritiba 1,5 Alt",
+     0.7961
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Santos Toplam",
+   "oneri": "Santos 0,5 Alt",
+   "olasilik": 0.5104,
+   "adil_oran": 1.96,
+   "en_olasi": "Santos 1,5 Alt",
+   "en_olasi_p": 0.8521,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Santos 0,5 Üst",
+     0.4896
+    ],
+    [
+     "Santos 0,5 Alt",
+     0.5104
+    ],
+    [
+     "Santos 1,5 Üst",
+     0.1479
+    ],
+    [
+     "Santos 1,5 Alt",
+     0.8521
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Sonuç",
+   "oneri": "1 (Coritiba)",
+   "olasilik": 0.4393,
+   "adil_oran": 2.28,
+   "en_olasi": "1 (Coritiba)",
+   "en_olasi_p": 0.4393,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Coritiba)",
+     0.4393
+    ],
+    [
+     "X",
+     0.2539
+    ],
+    [
+     "2 (Santos)",
+     0.3068
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Handikap",
+   "oneri": "Coritiba +0,5",
+   "olasilik": 0.6932,
+   "adil_oran": 1.44,
+   "en_olasi": "Coritiba +0,5",
+   "en_olasi_p": 0.6932,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba -0,5",
+     0.4393
+    ],
+    [
+     "Santos +0,5",
+     0.5607
+    ],
+    [
+     "Coritiba +0,5",
+     0.6932
+    ],
+    [
+     "Santos -0,5",
+     0.3068
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Toplam",
+   "oneri": "Toplam 1,5 Üst",
+   "olasilik": 0.7482,
+   "adil_oran": 1.34,
+   "en_olasi": "Toplam 1,5 Üst",
+   "en_olasi_p": 0.7482,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 1,5 Üst",
+     0.7482
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.2518
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.5028
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.4972
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.2852
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.7148
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Coritiba Toplam",
+   "oneri": "Coritiba 0,5 Üst",
+   "olasilik": 0.7726,
+   "adil_oran": 1.29,
+   "en_olasi": "Coritiba 0,5 Üst",
+   "en_olasi_p": 0.7726,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba 0,5 Üst",
+     0.7726
+    ],
+    [
+     "Coritiba 0,5 Alt",
+     0.2274
+    ],
+    [
+     "Coritiba 1,5 Üst",
+     0.4393
+    ],
+    [
+     "Coritiba 1,5 Alt",
+     0.5607
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : İlk Sarı Kartı Görür",
+   "oneri": "Coritiba",
+   "olasilik": 0.543,
+   "adil_oran": 1.84,
+   "en_olasi": "Coritiba",
+   "en_olasi_p": 0.543,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba",
+     0.543
+    ],
+    [
+     "Santos",
+     0.4421
+    ],
+    [
+     "Sarı kart yok",
+     0.0149
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Son Sarı Kartı Görür",
+   "oneri": "Coritiba",
+   "olasilik": 0.5416,
+   "adil_oran": 1.85,
+   "en_olasi": "Coritiba",
+   "en_olasi_p": 0.5416,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Coritiba",
+     0.5416
+    ],
+    [
+     "Santos",
+     0.4436
+    ],
+    [
+     "Sarı kart yok",
+     0.0149
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı Olur",
+   "oneri": "Evet",
+   "olasilik": 0.5076,
+   "adil_oran": 1.97,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5076,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5076
+    ],
+    [
+     "Hayır",
+     0.4924
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Coritiba : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7187,
+   "adil_oran": 1.39,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7187,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2813
+    ],
+    [
+     "Hayır",
+     0.7187
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Santos : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.685,
+   "adil_oran": 1.46,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.685,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.315
+    ],
+    [
+     "Hayır",
+     0.685
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "İki Takım da Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9114,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9114,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0886
+    ],
+    [
+     "Hayır",
+     0.9114
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta İki Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8394,
+   "adil_oran": 1.19,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8394,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1606
+    ],
+    [
+     "Hayır",
+     0.8394
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "1. Yarı : Penaltı",
+   "oneri": "Hayır",
+   "olasilik": 0.7331,
+   "adil_oran": 1.36,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7331,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2669
+    ],
+    [
+     "Hayır",
+     0.7331
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltıdan Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.5795,
+   "adil_oran": 1.73,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5795,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4205
+    ],
+    [
+     "Hayır",
+     0.5795
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı Kaçırır",
+   "oneri": "Hayır",
+   "olasilik": 0.8485,
+   "adil_oran": 1.18,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8485,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1515
+    ],
+    [
+     "Hayır",
+     0.8485
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı ve Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9441,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9441,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0559
+    ],
+    [
+     "Hayır",
+     0.9441
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı veya Kırmızı Kart Olur",
+   "oneri": "Evet",
+   "olasilik": 0.5638,
+   "adil_oran": 1.77,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5638,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5638
+    ],
+    [
+     "Hayır",
+     0.4362
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Şutları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pasları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pas Denemeleri",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncunun Yaptığı Fauller",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncuya Faul Yapılır",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Topa Müdahaleler",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ofsayta Düşer",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Kaleci Kurtarışları",
+   "oneri": "Coritiba kalecisi 1,5 Üst",
+   "olasilik": 0.833,
+   "adil_oran": 1.2,
+   "en_olasi": "Santos kalecisi 4,5 Alt",
+   "en_olasi_p": 0.9369,
+   "guven": "düşük",
+   "not_": "Rakibin beklenen golünden türetildi",
+   "secimler": [
+    [
+     "Coritiba kalecisi 1,5 Üst",
+     0.833
+    ],
+    [
+     "Coritiba kalecisi 1,5 Alt",
+     0.167
+    ],
+    [
+     "Coritiba kalecisi 2,5 Üst",
+     0.626
+    ],
+    [
+     "Coritiba kalecisi 2,5 Alt",
+     0.374
+    ],
+    [
+     "Coritiba kalecisi 3,5 Üst",
+     0.4036
+    ],
+    [
+     "Coritiba kalecisi 3,5 Alt",
+     0.5964
+    ],
+    [
+     "Coritiba kalecisi 4,5 Üst",
+     0.224
+    ],
+    [
+     "Coritiba kalecisi 4,5 Alt",
+     0.776
+    ],
+    [
+     "Santos kalecisi 1,5 Üst",
+     0.6237
+    ],
+    [
+     "Santos kalecisi 1,5 Alt",
+     0.3763
+    ],
+    [
+     "Santos kalecisi 2,5 Üst",
+     0.3549
+    ],
+    [
+     "Santos kalecisi 2,5 Alt",
+     0.6451
+    ],
+    [
+     "Santos kalecisi 3,5 Üst",
+     0.1649
+    ],
+    [
+     "Santos kalecisi 3,5 Alt",
+     0.8351
+    ],
+    [
+     "Santos kalecisi 4,5 Üst",
+     0.0631
+    ],
+    [
+     "Santos kalecisi 4,5 Alt",
+     0.9369
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Pas Veren Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Faul Yapan Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 1. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 2. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Her İki Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Çektiği Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kafayla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sağ Ayakla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  }
+ ],
+ "eksik": [
+  "Herhangi Bir Zamanda Gol Atar",
+  "İlk Golcü",
+  "İlk Golcü Çifte Şans",
+  "Son Golcü",
+  "{EV} : İlk Golü Atar",
+  "{DEP} : İlk Golü Atar",
+  "{EV} : Son Golcü",
+  "{DEP} : Son Golü Atar",
+  "Oyuncu En Az 2 Gol Atar",
+  "Oyuncu En Az 3 Gol Atar",
+  "Oyuncu 4 veya Daha Çok Gol Atar",
+  "Herhangi Bir Zaman Gol Atar Çifte Şans",
+  "Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar",
+  "2 Oyuncu Toplamda Üst 1.5 Gol Atar",
+  "2 Oyuncu Toplamda Üst 2.5 Gol Atar",
+  "2 Oyuncu Toplamda Üst 3.5 Gol Atar",
+  "Oyuncu 1. Yarıda Gol Atar",
+  "Oyuncu 2. Yarıda Gol Atar",
+  "Oyuncu Her İki Yarıda da Gol Atar",
+  "İlk 10 Dakikada Gol Atar",
+  "Oyuncu Penaltıdan Gol Atar",
+  "Oyuncu Ceza Sahası Dışından Gol Atar",
+  "Oyuncu Kale Sahası İçinden Gol Atar",
+  "Oyuncu Kafa Golü Atar",
+  "Oyuncu Serbest Vuruştan Gol Atar",
+  "Oyuncu Sağ Ayağıyla Gol Atar",
+  "Oyuncu Gol Atar ve Takımı Kazanır",
+  "Oyuncu Gol Atar ve Rakip Takım Kazanır",
+  "Oyuncu Gol Atar ve Maç Berabere Biter",
+  "Oyuncu Asist Yapar",
+  "Oyuncu Gol Atar veya Asist Yapar",
+  "Oyuncu Gol Atar veya Asist Yapar (Çifte Şans)",
+  "Oyuncu Gol Atar ve Asist Yapar",
+  "Gol Asisti Yapar Çifte Şans",
+  "Oyuncu Penaltı Kaçırır",
+  "Penaltı Kazandıran Oyuncu",
+  "Oyuncu Kart Görür",
+  "Oyuncu Kart Görür Çifte Şans",
+  "Oyuncu Sarı Kart Görür",
+  "Kart Görecek İlk Oyuncu",
+  "Son Kartı Görecek Oyuncu",
+  "Oyundan Uzaklaştırılır"
+ ]
+}
