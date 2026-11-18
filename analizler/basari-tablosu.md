@@ -13,6 +13,7 @@
 | 17.11 | Atletico MG U20 – Sao Paulo U20 | Oynama (veri yok) | — | — | — |
 | 17.11 | Şili – Kolombiya (site oranıyla) | Toplam kart 3,5 Üst @2,12 | %61 | bekliyor | — |
 | 18.11 | Newington – H&W Welders | Oynama (veri yok, piyasayla aynı görüş) | — | — | — |
+| 18.11 | Dunipace – Linlithgow Rose | Oynama (tek fark gol altı yönünde; kural gereği piyasaya karşı alt oynanmıyor) | — | — | — |
 
 Ana öneriler: 4 tuttu / 2 tutmadı (1 değerlendirilemedi).
 
