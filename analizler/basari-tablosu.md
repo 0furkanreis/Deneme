@@ -11,6 +11,8 @@
 | 17.11 | Hollanda U21 – Danimarka U21 (site oranıyla) | Hollanda korner 5,5 Alt @1,90 | %62 | veri yok | 2-3 |
 | 17.11 | Macaristan – Kuzey İrlanda (site oranıyla) | KG Yok @1,75 | %64 | ❌ | 1-1 |
 | 17.11 | Atletico MG U20 – Sao Paulo U20 | Oynama (veri yok) | — | — | — |
+| 17.11 | Şili – Kolombiya (site oranıyla) | Toplam kart 3,5 Üst @2,12 | %61 | bekliyor | — |
+| 18.11 | Newington – H&W Welders | Oynama (veri yok, piyasayla aynı görüş) | — | — | — |
 
 Ana öneriler: 4 tuttu / 2 tutmadı (1 değerlendirilemedi).
 
