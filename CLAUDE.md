@@ -42,4 +42,5 @@ Her öneri en az 3 bağımsız kaynakla çapraz kontrol edilir ve cevapta kaynak
 - **Oran (en değerli kontrol):** Lord Palace oranı diğer bahisçilerle karşılaştırılır: Oddsportal (çok bahisçi ortalaması, `search/<takım>/` → maç sayfası), Pinnacle (keskin piyasa), Nesine/İddaa. Lord Palace oranı piyasa ortalamasından belirgin yüksekse gerçek değer adayıdır.
 - **Önizleme/tahmin siteleri:** Sports Mole, Squawka, tips.gg vb. (görüş olarak, veri değil).
 - Erişim: curl 403 veren siteler `motor/araclar/render.js <url> <çıktı>` (Playwright) ile denenir. Lord Palace: `motor/araclar/lp4.js <klasör> <url>`.
+- Oddsportal lig sayfası (`/football/<bölge>/<lig>/`) maç satırında piyasa ortalaması 1X2'yi gösterir; `motor/araclar/oddsportal.js` maç detay sekmelerini dener. Lord Palace 1X2 marjı ~%10, piyasa ~%4-5 (bkz. `analizler/lord-palace-marj.md`).
 - Erişilebilirlik (18.11): Oddsportal, Betexplorer, Pinnacle, Nesine, İddaa, Flashscore, Soccerway, Understat, Statarea, Livescore, Maçkolik, Sporx 200; Forebet, Footystats, WhoScored, Soccerstats, Oddschecker, Betfair curl'e 403.
