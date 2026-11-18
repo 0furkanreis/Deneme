@@ -1,0 +1,6807 @@
+Maç Sonucu
+Cruzeiro EC
+Beraberlik
+SE Palmeiras
+2.69
+3.60
+2.55
+Çifte Şans
+1X
+12
+X2
+1.49
+1.30
+1.44
+Beraberlikte İade
+Cruzeiro EC
+SE Palmeiras
+2.01
+1.84
+Toplam Goller
+Üst
+Alt
+0.5
+1.037
+12.90
+1
+1.045
+11.85
+1.5
+1.22
+4.50
+2
+1.32
+3.52
+2.5
+1.68
+2.23
+3
+2.14
+1.74
+3.5
+2.68
+1.49
+4
+4.13
+1.25
+4.5
+5.00
+1.19
+5
+9.30
+1.07
+5.5
+9.30
+1.07
+Cruzeiro EC : Toplam Gol
+Üst
+Alt
+0.5
+1.24
+3.75
+1
+1.44
+2.65
+1.5
+2.17
+1.64
+2
+3.70
+1.25
+2.5
+4.55
+1.17
+3
+9.10
+1.042
+3.5
+9.65
+1.035
+SE Palmeiras : Toplam Gol
+Üst
+Alt
+0.5
+1.21
+4.10
+1
+1.40
+2.80
+1.5
+2.06
+1.71
+2
+3.30
+1.30
+2.5
+4.30
+1.19
+3
+8.35
+1.052
+3.5
+8.80
+1.045
+Her iki takımda gol atar
+Evet
+Hayır
+1.57
+2.47
+Her İki Takım da 2 veya Daha Fazla Gol Atar
+YENİ
+Evet
+No
+4.25
+1.20
+Gol Handikapı
+Cruzeiro EC
+SE Palmeiras
+-2.5
+11.20
++2.5
+1.05
+-2
+10.10
++2
+1.06
+-1.5
+5.55
++1.5
+1.16
+-1
+4.50
++1
+1.22
+-0.5
+2.64
++0.5
+1.51
+0
+1.98
+0
+1.86
++0.5
+1.56
+-0.5
+2.50
++1
+1.26
+-1
+4.00
++1.5
+1.19
+-1.5
+5.00
++2
+1.07
+-2
+9.30
++2.5
+1.06
+-2.5
+10.10
+Goller Asya Handikapı
+Cruzeiro EC
+SE Palmeiras
+-2.75
+15.00
++2.75
+1.025
+-2.25
+11.20
++2.25
+1.05
+-1.75
+7.10
++1.75
+1.11
+-1.25
+5.00
++1.25
+1.19
+-0.75
+3.25
++0.75
+1.36
+-0.25
+2.32
++0.25
+1.64
++0.25
+1.70
+-0.25
+2.20
++0.75
+1.41
+-0.75
+3.00
++1.25
+1.22
+-1.25
+4.50
++1.75
+1.13
+-1.75
+6.40
++2.25
+1.06
+-2.25
+10.10
++2.75
+1.035
+-2.75
+13.20
+Gol Handikapı (3-İhtimalli)
+Cruzeiro EC
+Beraberlik : SE Palmeiras
+SE Palmeiras
+-2
+11.00
++2
+7.10
++2
+1.12
+-1
+5.20
++1
+4.15
++1
+1.44
++1
+1.49
+-1
+4.15
+-1
+4.70
++2
+1.15
+-2
+6.50
+-2
+9.50
+Toplam Goller Asya
+Üst
+Alt
+0.75
+1.03
+12.20
+1.25
+1.14
+6.10
+1.75
+1.26
+4.00
+2.25
+1.50
+2.66
+2.75
+1.85
+1.99
+3.25
+2.40
+1.60
+3.75
+3.20
+1.37
+4.25
+4.50
+1.22
+4.75
+6.40
+1.13
+5.25
+9.30
+1.07
+5.75
+12.50
+1.04
+Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+1
+1.22
+5.10
+14.00
+2
+1.68
+3.75
+4.10
+3
+2.68
+3.70
+2.23
+4
+4.60
+4.75
+1.49
+5
+9.00
+7.60
+1.16
+Cruzeiro EC : Asist Yapar. Toplam
+YENİ
+1+
+1.56
+2+
+3.55
+3+
+10.00
+4+
+23.00
+SE Palmeiras : Asist Yapar. Toplam
+YENİ
+1+
+1.52
+2+
+3.40
+3+
+9.50
+4+
+23.00
+Her iki yarıda gol olur
+Evet
+Hayır
+1.57
+2.16
+İlk Golü Atacak Takım
+Cruzeiro EC
+SE Palmeiras
+Gol Yok
+1.95
+1.98
+17.00
+Son Golü Atacak Takım
+Cruzeiro EC
+SE Palmeiras
+Gol Yok
+1.95
+1.98
+17.00
+Cruzeiro EC : Toplam Gol Asya
+Üst
+Alt
+0.75
+1.31
+3.15
+1.25
+1.78
+1.92
+1.75
+2.59
+1.44
+2.25
+4.05
+1.20
+2.75
+5.85
+1.10
+3.25
+8.70
+1.035
+SE Palmeiras : Toplam Gol Asya
+Üst
+Alt
+0.75
+1.27
+3.40
+1.25
+1.73
+1.97
+1.75
+2.40
+1.50
+2.25
+3.75
+1.23
+2.75
+5.35
+1.12
+3.25
+8.20
+1.045
+3.75
+10.00
+1.02
+Toplam Gol Tek / Çift
+Çift
+Tek
+1.83
+1.87
+Cruzeiro EC : Gol Atar
+Evet
+Hayır
+1.24
+3.75
+SE Palmeiras Gol Atar
+Evet
+Hayır
+1.21
+4.10
+Cruzeiro EC Gol Atar ve Maç Sonucu
+Evet ve Cruzeiro EC
+2.69
+Evet ve Berabere
+3.83
+Hayır ve Berabere
+17.00
+Evet ve SE Palmeiras
+3.47
+Hayır ve SE Palmeiras
+4.00
+SE Palmeiras Gol Atar ve Maç Sonucu
+Evet ve Cruzeiro EC
+3.61
+Hayır ve Cruzeiro EC
+4.20
+Evet ve Berabere
+3.83
+Hayır ve Berabere
+17.00
+Evet ve SE Palmeiras
+2.55
+Cruzeiro EC : Bahis Yok
+Beraberlik
+SE Palmeiras
+2.23
+1.61
+SE Palmeiras : Bahis Yok
+Cruzeiro EC
+Beraberlik
+1.64
+2.17
+Maç Sonucu ve Karşılıklı Gol
+Cruzeiro EC Ve Evet
+4.33
+Beraberlik Ve Hayır
+14.00
+Cruzeiro EC Ve Hayır
+4.90
+SE Palmeiras Ve Evet
+3.99
+Beraberlik ve Evet
+3.89
+SE Palmeiras Ve Hayır
+4.57
+Çifte Şans ve Karşılıklı Gol
+1X Ve Evet
+2.18
+12 Ve Hayır
+2.63
+1X Ve Hayır
+3.96
+X2 Ve Evet
+2.13
+12 Ve Evet
+2.23
+X2 Ve Hayır
+3.78
+Maç Sonucu ve Toplam Gol 1.5
+Cruzeiro EC ve Üst 1.5
+3.05
+Cruzeiro EC ve Alt 1.5
+10.00
+Beraberlik ve Üst 1.5
+3.90
+Beraberlik ve Alt 1.5
+14.00
+SE Palmeiras ve Üst 1.5
+2.88
+SE Palmeiras ve Alt 1.5
+10.00
+1X ve Üst 1.5
+1.83
+1X ve Alt 1.5
+6.40
+12 ve Üst 1.5
+1.59
+12 ve Alt 1.5
+5.40
+X2 ve Üst 1.5
+1.77
+X2 ve Alt 1.5
+6.30
+Maç Sonucu ve Toplam Gol 2.5
+Cruzeiro EC ve Üst 2.5
+3.60
+Cruzeiro EC ve Alt 2.5
+6.50
+Beraberlik ve Üst 2.5
+8.50
+Beraberlik ve Alt 2.5
+4.70
+SE Palmeiras ve Üst 2.5
+3.41
+SE Palmeiras ve Alt 2.5
+6.30
+1X ve Üst 2.5
+2.69
+1X ve Alt 2.5
+2.91
+12 ve Üst 2.5
+1.88
+12 ve Alt 2.5
+3.41
+X2 ve Üst 2.5
+2.58
+X2 ve Alt 2.5
+2.87
+Maç Sonucu ve Toplam Gol 3.5
+Cruzeiro EC ve Üst 3.5
+6.40
+Cruzeiro EC ve Alt 3.5
+3.64
+Beraberlik ve Üst 3.5
+8.50
+Beraberlik ve Alt 3.5
+4.70
+SE Palmeiras ve Üst 3.5
+5.90
+SE Palmeiras ve Alt 3.5
+3.51
+1X ve Üst 3.5
+3.90
+1X ve Alt 3.5
+2.19
+12 ve Üst 3.5
+3.28
+12 ve Alt 3.5
+1.92
+X2 ve Üst 3.5
+3.73
+X2 ve Alt 3.5
+2.15
+Maç Sonucu ve Toplam Gol 4.5
+Cruzeiro EC ve Üst 4.5
+9.70
+Cruzeiro EC ve Alt 4.5
+3.09
+Beraberlik ve Üst 4.5
+34.00
+Beraberlik ve Alt 4.5
+3.47
+SE Palmeiras ve Üst 4.5
+9.00
+SE Palmeiras ve Alt 4.5
+2.96
+1X ve Üst 4.5
+7.90
+1X ve Alt 4.5
+1.75
+12 ve Üst 4.5
+5.00
+12 ve Alt 4.5
+1.62
+X2 ve Üst 4.5
+7.50
+X2 ve Alt 4.5
+1.71
+Sonuç ve Cruzeiro EC : Toplam Gol
+Cruzeiro EC ve Üst (1.5)
+2.76
+Cruzeiro EC ve Alt (1.5)
+8.20
+Beraberlik ve Üst (1.5)
+7.10
+Beraberlik ve Alt (1.5)
+4.10
+SE Palmeiras ve Üst (1.5)
+10.00
+SE Palmeiras ve Alt (1.5)
+2.49
+Cruzeiro EC ve Üst (2.5)
+4.60
+Cruzeiro EC ve Alt (2.5)
+3.58
+Beraberlik ve Üst (2.5)
+25.00
+Beraberlik ve Alt (2.5)
+3.10
+SE Palmeiras ve Üst (2.5)
+46.00
+SE Palmeiras ve Alt (2.5)
+2.22
+Cruzeiro EC ve Üst (3.5)
+10.00
+Cruzeiro EC ve Alt (3.5)
+2.62
+Beraberlik ve Üst (3.5)
+126.00
+Beraberlik ve Alt (3.5)
+2.93
+SE Palmeiras ve Üst (3.5)
+276.00
+SE Palmeiras ve Alt (3.5)
+2.18
+Sonuç ve SE Palmeiras : Toplam Gol
+Cruzeiro EC ve Üst (1.5)
+11.00
+Cruzeiro EC ve Alt (1.5)
+2.61
+Beraberlik ve Üst (1.5)
+7.10
+Beraberlik ve Alt (1.5)
+4.10
+SE Palmeiras ve Üst (1.5)
+2.62
+SE Palmeiras ve Alt (1.5)
+8.10
+Cruzeiro EC ve Üst (2.5)
+46.00
+Cruzeiro EC ve Alt (2.5)
+2.33
+Beraberlik ve Üst (2.5)
+25.00
+Beraberlik ve Alt (2.5)
+3.10
+SE Palmeiras ve Üst (2.5)
+4.30
+SE Palmeiras ve Alt (2.5)
+3.50
+Cruzeiro EC ve Üst (3.5)
+276.00
+Cruzeiro EC ve Alt (3.5)
+2.28
+Beraberlik ve Üst (3.5)
+126.00
+Beraberlik ve Alt (3.5)
+2.93
+SE Palmeiras ve Üst (3.5)
+9.40
+SE Palmeiras ve Alt (3.5)
+2.54
+Sonuç veya Toplam Gol
+Cruzeiro EC veya Üst (2.5)
+1.31
+Cruzeiro EC veya Alt (2.5)
+1.37
+Beraberlik veya Üst (2.5)
+1.23
+Beraberlik veya Alt (2.5)
+1.67
+SE Palmeiras veya Üst (2.5)
+1.30
+SE Palmeiras veya Alt (2.5)
+1.34
+Cruzeiro EC veya Üst (3.5)
+1.51
+Cruzeiro EC veya Alt (3.5)
+1.20
+Beraberlik veya Üst (3.5)
+1.64
+Beraberlik veya Alt (3.5)
+1.25
+SE Palmeiras veya Üst (3.5)
+1.49
+SE Palmeiras veya Alt (3.5)
+1.22
+Daha Fazla Seçeneği Göster
+Maç Sonucu ve Toplam Gol (Kesin)
+Cruzeiro EC ve 1
+10.00
+Cruzeiro EC ve 2
+15.00
+Cruzeiro EC ve 3
+7.30
+Cruzeiro EC ve 4+
+6.50
+Beraberlik ve 0
+14.00
+Beraberlik ve 2
+6.30
+Beraberlik ve 4
+11.00
+Beraberlik ve 6+
+34.00
+SE Palmeiras ve 1
+9.70
+SE Palmeiras ve 2
+14.00
+SE Palmeiras ve 3
+6.70
+SE Palmeiras ve 4+
+5.80
+Sonuç ve Toplam Gol (Genişletilmiş Aralık)
+Cruzeiro EC ve 1-2
+6.50
+Cruzeiro EC ve 1-3
+3.64
+Cruzeiro EC ve 1-4
+3.09
+Cruzeiro EC ve 1-5
+2.67
+Cruzeiro EC ve 1-6
+2.56
+Cruzeiro EC ve 2-3
+5.20
+Cruzeiro EC ve 2-4
+4.10
+Cruzeiro EC ve 2-5
+3.37
+Cruzeiro EC ve 2-6
+3.20
+Cruzeiro EC ve 3-4
+5.20
+Cruzeiro EC ve 3-5
+4.10
+Cruzeiro EC ve 3-6
+3.82
+Daha Fazla Seçeneği Göster
+Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)
+1X ve 1-2
+3.45
+1X ve 1-3
+2.47
+1X ve 1-4
+1.92
+1X ve 1-5
+1.75
+1X ve 1-6
+1.66
+1X ve 2-3
+3.05
+1X ve 2-4
+2.23
+1X ve 2-5
+2.02
+1X ve 2-6
+1.89
+1X ve 3-4
+3.73
+1X ve 3-5
+3.13
+1X ve 3-6
+2.83
+1X ve 4-5
+4.90
+1X ve 4-6
+4.20
+1X ve 5-6
+9.30
+1X ve Herhangi bir diğer
+11.00
+12 ve 1-2
+3.41
+12 ve 1-3
+1.92
+Daha Fazla Seçeneği Göster
+Sonuç veya Doğru Skor
+Cruzeiro EC veya 0-0: Evet
+2.19
+Cruzeiro EC veya 0-0: Hayır
+1.57
+SE Palmeiras veya 0-0: Evet
+2.10
+SE Palmeiras veya 0-0: Hayır
+1.62
+Cruzeiro EC veya 1-1: Evet
+1.88
+Cruzeiro EC veya 1-1: Hayır
+1.86
+SE Palmeiras veya 1-1: Evet
+1.82
+SE Palmeiras veya 1-1: Hayır
+1.83
+Cruzeiro EC veya 0-1: Evet
+2.08
+Cruzeiro EC veya 0-1: Hayır
+1.63
+SE Palmeiras veya 1-0: Evet
+2.00
+SE Palmeiras veya 1-0: Hayır
+1.68
+Her İki Yarı Toplam Gol Kombinasyonu
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+2.24
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+4.10
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 0.5 Üst gol
+2.57
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+4.30
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+7.10
+İlk yarıda 0.5 Üst gol ve Maç sonucu 1.5 Üst gol
+1.37
+İlk yarıda 0.5 Üst gol ve Maç sonucu 2.5 Üst gol
+1.70
+İlk yarıda 0.5 Üst gol ve Maç sonucu 3.5 Üst gol
+2.45
+İlk yarıda 0.5 Üst gol ve Maç sonucu 4.5 Üst gol
+4.10
+İlk yarıda 1.5 Üst gol ve Maç sonucu 2.5 Üst gol
+2.39
+İlk yarıda 1.5 Üst gol ve Maç sonucu 3.5 Üst gol
+3.11
+İlk yarıda 1.5 Üst gol ve Maç sonucu 4.5 Üst gol
+4.80
+İlk yarıda 2.5 Üst gol ve Maç sonucu 3.5 Üst gol
+5.30
+İlk yarıda 2.5 Üst gol ve Maç sonucu 4.5 Üst gol
+7.10
+Toplam Gol (Kesin)
+0
+14.00
+1
+5.10
+2
+3.75
+3
+3.70
+4
+4.75
+5
+7.60
+6 veya Daha Fazla
+9.00
+Cruzeiro EC : Toplam Gol (Kesin)
+0
+3.68
+1
+2.49
+2
+3.39
+3
+6.50
+4 veya Daha Fazla
+12.00
+SE Palmeiras : Toplam Gol (Kesin)
+0
+4.10
+1
+2.55
+2
+3.31
+3
+6.00
+4 veya Daha Fazla
+11.00
+Toplam Gol (Aralık)
+0-1
+4.10
+2-3
+2.00
+4 ila 6
+2.71
+7 veya Daha fazla
+21.00
+Cruzeiro EC : Toplam Gol (Aralık)
+0-1
+1.60
+2-3
+2.39
+4 ila 6
+12.00
+7 veya Daha fazla
+501.00
+SE Palmeiras : Toplam Gol (Aralık)
+0-1
+1.67
+2-3
+2.30
+4 ila 6
+11.00
+7 veya Daha fazla
+401.00
+Toplam Gol (Genişletilmiş Gol Aralığı)
+1-2
+1.95
+1-3
+1.41
+1-4
+1.18
+1-5
+1.09
+1-6
+1.04
+2-3
+2.00
+2-4
+1.38
+2-5
+1.24
+2-6
+1.18
+3-4
+1.89
+3-5
+1.62
+3-6
+1.51
+Daha Fazla Seçeneği Göster
+Cruzeiro EC : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.50
+1-3
+1.29
+1-4
+1.23
+2-3
+2.23
+2-4
+2.04
+3-4
+4.40
+Herhangi Diğer
+3.13
+SE Palmeiras : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.50
+1-3
+1.28
+1-4
+1.21
+2-3
+2.15
+2-4
+1.95
+3-4
+4.00
+Herhangi Diğer
+3.30
+Cruzeiro EC Kesin Gol Farkıyla Kazanır
+Evet
+Hayır
+1
+4.15
+1.19
+2
+7.10
+1.065
+SE Palmeiras : Kesin Gol Farkıyla Kazanır
+Evet
+Hayır
+1
+4.15
+1.19
+2
+6.50
+1.08
+Cruzeiro EC Kazanır ve Kesin Gol Atar
+Evet
+Hayır
+1
+8.20
+1.045
+2
+5.85
+1.10
+3
+7.10
+1.065
+SE Palmeiras Kazanır ve Kesin gol atar
+Evet
+Hayır
+1
+7.85
+1.05
+2
+5.35
+1.12
+3
+6.70
+1.075
+En Az Bir Takım Üst Gol Atar
+YENİ
+Evet
+No
+1.5
+1.40
+2.70
+2.5
+2.65
+1.42
+3.5
+6.00
+1.095
+İlk Golün Atılma Şekli
+Kafa vuruşu ile
+6.60
+Diğer Bir Yöntemle
+1.39
+Serbest vuruş ile
+19.00
+Penaltı atışı ile
+8.30
+Maçta kendi kalesine gol atılır
+41.00
+Gol yok
+13.00
+1. Gol Zamanı
+1-10
+3.01
+11-20
+3.75
+21-30
+4.60
+31-40
+5.80
+41-50
+6.80
+51-60
+9.80
+61-70
+13.00
+71-80
+15.00
+81-90+
+17.00
+Gol Yok
+8.00
+Cruzeiro EC : 1. Gol Zamanı (10 dk. Ara)
+1-10
+5.00
+11-20
+6.30
+21-30
+6.70
+31-40
+7.40
+41-50
+7.80
+51-60
+9.30
+61-70
+10.00
+71-80
+12.00
+81-90+
+11.00
+Gol Yok
+2.81
+SE Palmeiras : 1. Gol Zamanı (10 dk. Ara)
+1-10
+4.85
+11-20
+5.80
+21-30
+6.50
+31-40
+7.10
+41-50
+7.30
+51-60
+9.00
+61-70
+10.00
+71-80
+12.00
+81-90+
+10.00
+Gol Yok
+3.16
+1. Gol Zamanı (15 dk.)
+1-15
+2.53
+16-30
+3.15
+31-45+
+3.85
+46-60
+6.60
+61-75
+10.00
+76-90+
+12.00
+No Goal
+12.00
+Doğru Skor
+1-0
+8.20
+0-0
+17.00
+0-1
+7.85
+2-0
+15.00
+1-1
+6.30
+0-2
+14.00
+2-1
+9.40
+2-2
+11.00
+1-2
+8.80
+3-0
+26.00
+3-3
+36.00
+0-3
+23.00
+3-1
+19.00
+4-4
+226.00
+1-3
+17.00
+3-2
+23.00
+5-5
+351.00
+2-3
+21.00
+Daha Fazla Seçeneği Göster
+Herhangi Bir Zamanda Doğru Skor
+0-1
+1.87
+0-2
+4.00
+0-3
+9.80
+0-4
+29.00
+0-5
+96.00
+1-0
+1.96
+1-1
+2.23
+1-2
+3.82
+1-3
+8.40
+1-4
+23.00
+1-5
+71.00
+2-0
+4.40
+2-1
+4.00
+2-2
+5.55
+2-3
+13.00
+2-4
+34.00
+2-5
+101.00
+3-0
+11.00
+Daha Fazla Seçeneği Göster
+1.Yarı Sonucu
+Cruzeiro EC
+Beraberlik
+SE Palmeiras
+3.19
+2.34
+2.94
+1.Yarı Çifte Şans
+1X
+12
+X2
+1.37
+1.54
+1.32
+1. Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.30
+3.30
+1
+1.61
+2.23
+1.5
+2.40
+1.53
+2
+4.30
+1.19
+2.5
+5.30
+1.13
+3
+10.55
+1.026
+3.5
+10.95
+1.022
+1. Yarı 1. Takım Toplam Gol
+Üst
+Alt
+0.5
+1.94
+1.76
+1
+4.05
+1.20
+1.5
+5.55
+1.11
+1. Yarı 2. Takım Toplam Gol
+Üst
+Alt
+0.5
+1.87
+1.83
+1
+3.75
+1.23
+1.5
+5.10
+1.13
+1. Yarı Cruzeiro EC Toplam Goller Asya
+Üst
+Alt
+0.75
+2.45
+1.48
+1.25
+4.90
+1.14
+1.75
+7.50
+1.055
+1. Yarı SE Palmeiras Toplam Gol Asya
+Üst
+Alt
+0.75
+2.35
+1.53
+1.25
+4.57
+1.16
+1.75
+7.10
+1.065
+1. Yarı Karşılıklı Gol
+Evet
+Hayır
+3.65
+1.24
+1. Yarı Gol Handikapı
+Cruzeiro EC
+SE Palmeiras
+-1.5
+8.35
++1.5
+1.052
+-1
+7.20
++1
+1.075
+-0.5
+3.05
++0.5
+1.34
+0
+1.93
+0
+1.81
++0.5
+1.39
+-0.5
+2.85
++1
+1.09
+-1
+6.50
++1.5
+1.065
+-1.5
+7.70
+1. Yarı Goller Asya Handikapı
+Cruzeiro EC
+SE Palmeiras
+-1.75
+10.65
++1.75
+1.025
+-1.25
+8.00
++1.25
+1.06
+-0.75
+4.10
++0.75
+1.21
+-0.25
+2.52
++0.25
+1.48
++0.25
+1.55
+-0.25
+2.35
++0.75
+1.23
+-0.75
+3.75
++1.25
+1.075
+-1.25
+7.20
++1.75
+1.031
+-1.75
+10.00
+1. Yarı Gol Handikapı 3 İhtimalli
+Cruzeiro EC
+Beraberlik SE Palmeiras
+SE Palmeiras
+-1
+8.35
++1
+3.90
++1
+1.34
+0
+3.19
+0
+2.34
+0
+2.94
++1
+1.39
+-1
+3.75
+-1
+7.70
+1.Yarı Toplam Gol Asya
+Üst
+Alt
+0.75
+1.41
+2.77
+1.25
+2.00
+1.75
+1.75
+2.97
+1.36
+2.25
+4.75
+1.16
+2.75
+7.00
+1.075
+3.25
+10.75
+1.024
+1. . Yarı : Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+2
+5.30
+3.70
+1.53
+1
+2.40
+2.56
+3.30
+1. Yarı: Sonuç ve Her İki Takımda Gol atar
+Cruzeiro EC Ve Evet
+11.00
+Beraberlik ve Hayır
+3.33
+Cruzeiro EC Ve Hayır
+3.57
+SE Palmeiras ve Evet
+10.00
+Beraberlik ve Evet
+5.00
+SE Palmeiras ve Hayır
+3.25
+1. Yarı Toplam Gol Aralığı
+0-1
+1.53
+2-3
+2.35
+4 ila 6
+12.00
+7 veya Daha fazla
+26.00
+1.Yarı Cruzeiro EC Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.11
+5.20
+151.00
+1.Yarı SE Palmeiras Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.13
+4.90
+126.00
+1. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.52
+1-3
+1.33
+1-4
+1.28
+2-3
+2.40
+2-4
+2.22
+3-4
+5.00
+Herhangi Diğer
+2.80
+1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.90
+1-3
+1.82
+1-4
+1.81
+2-3
+4.20
+2-4
+5.10
+3-4
+19.00
+Herhangi Diğer
+1.66
+1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.84
+1-3
+1.76
+1-4
+1.75
+2-3
+4.00
+2-4
+4.70
+3-4
+17.00
+Herhangi Diğer
+1.71
+1.Yarı Toplam Gol (Kesin)
+0
+3.30
+1
+2.56
+2
+3.70
+3
+6.00
+4 veya Daha Fazla
+10.95
+1.Yarı Cruzeiro EC Toplam Gol (Kesin)
+0
+1
+2+
+1.76
+2.63
+5.55
+1.Yarı SE Palmeiras Toplam Gol (Kesin)
+0
+1
+2+
+1.83
+2.58
+5.10
+1. Yarı Cruzeiro EC Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+3.90
+1.21
+2
+8.70
+1.035
+1. Yarı SE Palmeiras Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+3.75
+1.23
+2
+8.50
+1.04
+1. Yarı Cruzeiro EC Sıfıra Karşı Kazanır
+Evet
+Hayır
+3.57
+1.25
+1. Yarı SE Palmeiras Sıfıra Karşı Kazanır
+Evet
+Hayır
+3.25
+1.29
+1. Yarı İlk Golü Atacak Takım
+Cruzeiro EC
+SE Palmeiras
+Gol yok
+2.54
+2.40
+3.33
+1. Yarı Son Golü Atacak Takım
+Cruzeiro EC
+SE Palmeiras
+Gol yok
+2.54
+2.40
+3.33
+1.Yarı Doğru Skor
+1-0
+4.60
+0-0
+3.33
+0-1
+4.40
+2-0
+13.00
+1-1
+6.40
+0-2
+11.00
+2-1
+17.00
+2-2
+46.00
+1-2
+17.00
+3-0
+51.00
+3-3
+351.00
+0-3
+41.00
+3-1
+71.00
+1-3
+61.00
+3-2
+176.00
+2-3
+176.00
+2. Yarı Sonucu
+Cruzeiro EC
+Beraberlik
+SE Palmeiras
+2.87
+2.65
+2.68
+2. Yarı Çifte Şans
+1X
+12
+X2
+1.42
+1.42
+1.37
+2.Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.18
+4.30
+1
+1.31
+3.15
+1.5
+1.86
+1.84
+2
+2.75
+1.39
+2.5
+3.65
+1.24
+3
+6.70
+1.075
+3.5
+7.30
+1.06
+2.Yarı Cruzeiro EC Toplam Gol
+Üst
+Alt
+0.5
+1.67
+2.07
+1
+2.85
+1.37
+1.5
+4.15
+1.19
+2
+9.00
+1.03
+2.5
+9.70
+1.023
+2.Yarı SE Palmeiras Toplam Gol
+Üst
+Alt
+0.5
+1.64
+2.15
+1
+2.65
+1.42
+1.5
+3.90
+1.21
+2
+8.50
+1.04
+2.5
+9.00
+1.03
+2. Yarı Karşılıklı Gol
+Evet
+Hayır
+2.75
+1.39
+2. Yarı Gol Handikapı
+Cruzeiro EC
+SE Palmeiras
+-1.5
+6.70
++1.5
+1.075
+-1
+5.55
++1
+1.11
+0
+1.91
+0
+1.79
++1
+1.13
+-1
+5.10
++1.5
+1.09
+-1.5
+6.15
+2. Yarı Gol Handikapı 3 İhtimalli
+Cruzeiro EC
+Beraberlik SE Palmeiras
+SE Palmeiras
+-1
+6.70
++1
+3.90
++1
+1.37
+0
+2.87
+0
+2.65
+0
+2.68
++1
+1.42
+-1
+3.75
+-1
+6.15
+2.Yarı: Sonuç ve Her İki Takımda Gol Atar
+Cruzeiro EC Ve Evet
+7.40
+Beraberlik ve Hayır
+4.60
+Cruzeiro EC Ve Hayır
+3.57
+SE Palmeiras ve Evet
+7.00
+Beraberlik ve Evet
+4.33
+SE Palmeiras ve Hayır
+3.30
+2. Yarı Toplam Gol Aralığı
+0-1
+1.84
+2-3
+2.01
+4 ila 6
+6.90
+7 veya Daha fazla
+26.00
+2.Yarı Cruzeiro EC Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.19
+4.10
+76.00
+2.Yarı SE Palmeiras Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.21
+3.89
+61.00
+2. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.54
+1-3
+1.28
+1-4
+1.20
+2-3
+2.04
+2-4
+1.82
+3-4
+3.56
+Herhangi Diğer
+3.45
+2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.71
+1-3
+1.70
+1-4
+1.59
+2-3
+3.50
+2-4
+3.75
+3-4
+12.00
+Herhangi Diğer
+1.90
+2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)
+1-2
+1.68
+1-3
+1.57
+1-4
+1.55
+2-3
+3.36
+2-4
+3.53
+3-4
+11.00
+Herhangi Diğer
+1.97
+2.Yarı Toplam Gol (Kesin)
+0
+4.30
+1
+2.47
+2
+2.86
+3
+4.60
+4+
+7.30
+2.Yarı Cruzeiro EC Toplam Gol (Kesin)
+0
+1
+2+
+2.07
+2.50
+4.15
+2.Yarı SE Palmeiras Toplam Gol (Kesin)
+0
+1
+2+
+2.15
+2.48
+3.90
+2. Yarı Cruzeiro EC Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+3.90
+1.21
+2
+7.85
+1.052
+2. Yarı SE Palmeiras Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+3.75
+1.23
+2
+7.30
+1.06
+2.Yarı Cruzeiro EC Sıfıra karşı Kazanır
+Evet
+Hayır
+3.57
+1.25
+2.Yarı SE Palmeiras Sıfıra karşı Kazanır
+Evet
+Hayır
+3.30
+1.28
+2. Yarı -İlk Golü Atacak Takım
+Cruzeiro EC
+SE Palmeiras
+Gol yok
+2.29
+2.18
+4.60
+2. Yarı Son Golü Atacak Takım
+Cruzeiro EC
+SE Palmeiras
+Gol yok
+2.29
+2.18
+4.60
+2. Yarı Doğru Skor
+1-0
+4.85
+0-0
+4.60
+0-1
+4.60
+2-0
+10.00
+1-1
+5.50
+0-2
+9.50
+2-1
+12.00
+2-2
+25.00
+1-2
+11.00
+3-0
+31.00
+3-3
+226.00
+0-3
+29.00
+3-1
+36.00
+1-3
+34.00
+3-2
+76.00
+2-3
+71.00
+1. Yarı/2. Yarı Karşılıklı Gol
+Evet/Evet
+8.20
+Hayır/Evet
+3.47
+Evet/Hayır
+5.10
+Hayır/Hayır
+1.76
+1. Yarı veya Maç Sonucu
+Cruzeiro EC
+X
+SE Palmeiras
+2.05
+1.81
+1.91
+İlk Yarı/Maç Sonucu
+Cruzeiro EC/Cruzeiro EC
+4.10
+Beraberlik/Cruzeiro EC
+6.60
+SE Palmeiras/Cruzeiro EC
+29.00
+Cruzeiro EC/Beraberlik
+15.00
+Beraberlik/Beraberlik
+6.00
+SE Palmeiras/Beraberlik
+14.00
+Cruzeiro EC/SE Palmeiras
+29.00
+Beraberlik/SE Palmeiras
+6.20
+SE Palmeiras/SE Palmeiras
+3.70
+1.Yarı/2.Yarı Sonucu
+Cruzeiro EC/Cruzeiro EC
+5.30
+Cruzeiro EC/Beraberlik
+5.00
+Cruzeiro EC/SE Palmeiras
+5.00
+Beraberlik/Cruzeiro EC
+4.20
+Beraberlik/Beraberlik
+3.95
+Beraberlik/SE Palmeiras
+3.99
+SE Palmeiras/Cruzeiro EC
+5.00
+SE Palmeiras/Beraberlik
+4.70
+SE Palmeiras/SE Palmeiras
+4.70
+En Çok Gol Atılan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.97
+3.73
+2.02
+En Çok Gol Atılan Yarı : Çifte Şans
+1. Yarı veya Beraberlik
+1. veya 2.
+2. Yarı veya Beraberlik
+1.67
+1.24
+1.34
+Cruzeiro EC : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+3.45
+2.52
+2.42
+SE Palmeiras : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+3.45
+2.52
+2.42
+Kornerler : Sonuç
+Cruzeiro EC
+X
+SE Palmeiras
+1.97
+7.30
+2.11
+Kornerler : Toplam
+Üst
+Alt
+7.5
+1.10
+5.10
+9
+1.22
+3.83
+9.5
+1.34
+3.00
+10
+1.41
+2.68
+10.5
+1.58
+2.23
+11
+1.73
+1.97
+11.5
+1.94
+1.76
+12
+2.23
+1.58
+12.5
+2.50
+1.47
+13
+3.05
+1.33
+13.5
+3.25
+1.29
+14.5
+4.55
+1.13
+Toplam Korner : Cruzeiro EC
+Üst
+Alt
+4.5
+1.39
+2.75
+5
+1.52
+2.37
+5.5
+1.80
+1.90
+6
+2.17
+1.61
+6.5
+2.52
+1.46
+Toplam Korner : SE Palmeiras
+Üst
+Alt
+4.5
+1.41
+2.68
+5
+1.55
+2.30
+5.5
+1.84
+1.86
+6
+2.23
+1.58
+6.5
+2.59
+1.44
+Kornerler: Handikap
+Cruzeiro EC
+SE Palmeiras
+-2.5
+3.65
++2.5
+1.23
+-2
+3.25
++2
+1.29
+-1.5
+2.65
++1.5
+1.40
+-1
+2.28
++1
+1.50
+-0.5
+2.02
++0.5
+1.67
+0
+1.80
+0
+1.86
++0.5
+1.63
+-0.5
+2.12
++1
+1.45
+-1
+2.50
++1.5
+1.37
+-1.5
+2.75
++2
+1.24
+-2
+3.47
+Kornerler : Toplam (3-İhtimalli)
+Üst
+Kesin
+Alt
+13
+3.25
+8.40
+1.47
+12
+2.50
+7.50
+1.76
+11
+1.94
+7.20
+2.23
+10
+1.58
+7.40
+3.00
+9
+1.34
+8.10
+4.30
+Kornerler : Toplam (Aralık)
+5 veya daha az
+14.00
+6 - 8
+3.73
+9 - 11
+2.35
+12 - 14
+2.75
+15 veya daha fazla
+4.10
+Kornerler: Tek/Çift
+Çift
+Tek
+1.81
+1.81
+Korner Yarışı
+Cruzeiro EC
+SE Palmeiras
+Hiç Kimse
+9
+5.70
+9
+6.20
+9
+1.31
+7
+2.94
+7
+3.18
+7
+2.24
+5
+2.03
+5
+2.13
+5
+7.20
+3
+1.79
+3
+1.90
+3
+67.00
+Kornerler: 1. Yarı Sonucu
+Cruzeiro EC
+X
+SE Palmeiras
+2.17
+5.00
+2.27
+Kornerler: 1. Yarı Handikap
+Cruzeiro EC
+SE Palmeiras
+-0.5
+2.14
++0.5
+1.58
+0
+1.86
+0
+1.80
++0.5
+1.63
+-0.5
+2.07
+Kornerler: 1. Yarı Toplam
+Üst
+Alt
+3.5
+1.21
+3.60
+4.5
+1.58
+2.23
+5
+1.79
+1.91
+5.5
+2.07
+1.67
+6.5
+2.93
+1.31
+Kornerler: 1. Yarı Cruzeiro EC Toplam
+Üst
+Alt
+1.5
+1.28
+3.30
+2
+1.38
+2.63
+2.5
+1.84
+1.86
+3
+2.24
+1.52
+3.5
+3.05
+1.33
+Kornerler: 1.Yarı SE Palmeiras Toplam
+Üst
+Alt
+1.5
+1.31
+3.15
+2
+1.40
+2.56
+2.5
+1.88
+1.82
+3
+2.28
+1.50
+3.5
+3.15
+1.31
+Toplam Korner : 2.Yarı
+Üst
+Alt
+4.5
+1.34
+2.80
+5.5
+1.75
+1.92
+6.5
+2.32
+1.48
+Kornerler : İlk Korner
+Cruzeiro EC
+SE Palmeiras
+1.68
+1.96
+Kornerler : Son Korner
+Cruzeiro EC
+SE Palmeiras
+1.85
+1.85
+Kartlar: Puan : Sonuç
+Cruzeiro EC
+X
+SE Palmeiras
+2.22
+4.40
+2.29
+Kartlar: Puan Handikapı
+Cruzeiro EC
+SE Palmeiras
+-1.5
+3.27
++1.5
+1.25
+-0.5
+2.23
++0.5
+1.53
+0
+1.87
+0
+1.79
++0.5
+1.55
+-0.5
+2.20
+Kartlar: Toplam Puan
+Üst
+Alt
+2.5
+1.06
+6.70
+3.5
+1.15
+4.40
+4.5
+1.35
+2.70
+5
+1.54
+2.33
+5.5
+1.72
+1.96
+6
+2.15
+1.62
+6.5
+2.25
+1.52
+7.5
+2.70
+1.35
+8.5
+3.75
+1.20
+9.5
+5.20
+1.11
+10.5
+6.70
+1.06
+Kartlar: Cruzeiro EC : Toplam Kart Puanı
+Üst
+Alt
+1.5
+1.16
+4.20
+2.5
+1.52
+2.25
+3.5
+2.23
+1.53
+4.5
+3.65
+1.21
+5.5
+6.00
+1.08
+Kartlar: SE Palmeiras : Toplam Kart Puanı
+Üst
+Alt
+1.5
+1.17
+4.10
+2.5
+1.57
+2.16
+3.5
+2.30
+1.48
+4.5
+3.75
+1.20
+5.5
+6.30
+1.07
+Kartlar: Toplam (Aralıklar)
+0
+46.00
+1-2
+5.90
+3-4
+2.83
+5-6
+2.33
+7-8
+2.68
+9-10
+3.99
+11 or more
+5.90
+Kartlar: 1.Yarı : Toplam Kart Puanı
+Üst
+Alt
+1.5
+1.50
+2.28
+2.5
+2.20
+1.55
+3.5
+3.55
+1.22
+Kartlar: 1. Yarı : Cruzeiro EC : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.37
+2.61
+1.5
+2.58
+1.38
+2.5
+5.60
+1.09
+Kartlar: 1. Yarı : SE Palmeiras : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.40
+2.53
+1.5
+2.61
+1.37
+2.5
+5.60
+1.09
+Kartlar: 2. Yarı : Cruzeiro EC : Toplam Kart Puanı
+Üst
+Alt
+1.5
+1.57
+2.16
+2.5
+2.58
+1.38
+3.5
+4.80
+1.13
+Kartlar: 2. Yarı : SE Palmeiras : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.12
+5.00
+1.5
+1.58
+2.14
+2.5
+2.61
+1.37
+En Fazla Korner Olan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.60
+8.40
+1.68
+Direkt Kırmızı Kart
+Evet
+2.59
+Her İki Takım da Kırmızı Kart Alır
+Evet
+29.00
+Her İki Takım da Kart Alır
+Evet
+Hayır
+1.07
+6.90
+Her iki takım da 2 veya daha fazla kart görür
+Evet
+Hayır
+1.38
+2.80
+Her iki takım da her iki yarıda kart alır
+Evet
+2.37
+İlk Kartı Görecek Takım
+Cruzeiro EC
+SE Palmeiras
+No Card
+1.81
+1.84
+81.00
+Son Kartı Görecek Takım
+Cruzeiro EC
+SE Palmeiras
+No Card
+1.81
+1.84
+81.00
+Sarı Kartlar: Sonuç
+Cruzeiro EC
+X
+SE Palmeiras
+2.39
+4.85
+2.04
+Sarı Kartlar: Çifte Şans
+1X
+12
+X2
+1.67
+1.17
+1.49
+Sarı Kartlar: Handikap
+Cruzeiro EC
+SE Palmeiras
+-0.5
+2.39
++0.5
+1.51
+0
+1.96
+0
+1.72
++0.5
+1.67
+-0.5
+2.07
+Sarı Kartlar: Toplam
+Üst
+Alt
+4.5
+1.54
+2.33
+5
+1.76
+1.94
+5.5
+2.10
+1.65
+Sarı Kartlar: Cruzeiro EC : Toplam
+Üst
+Alt
+2.5
+1.96
+1.74
+Sarı Kartlar: SE Palmeiras : Toplam
+Üst
+Alt
+2.5
+1.81
+1.89
+Sarı Kartlar : 1. Yarı Sonucu
+Cruzeiro EC
+X
+SE Palmeiras
+2.80
+2.80
+2.50
+Sarı Kartlar : 1. Yarı Handikap
+Cruzeiro EC
+SE Palmeiras
+-0.5
+2.80
++0.5
+1.38
+0
+1.96
+0
+1.72
++0.5
+1.47
+-0.5
+2.50
+Sarı Kartlar: 1. Yarı : Toplam
+Üst
+Alt
+1.5
+1.70
+2.02
+2
+2.37
+1.52
+Sarı Kartlar : 1. Yarı Cruzeiro EC Toplam
+Üst
+Alt
+0.5
+1.60
+2.20
+1
+2.55
+1.45
+Sarı Kartlar : 1. Yarı SE Palmeiras Toplam
+Üst
+Alt
+0.5
+1.52
+2.37
+1
+2.30
+1.55
+Sarı Kartlar : 2.Yarı Sonuç
+Cruzeiro EC
+X
+SE Palmeiras
+2.50
+3.98
+2.21
+Sarı Kartlar : 2.Yarı Handikap
+Cruzeiro EC
+SE Palmeiras
+0
+1.95
+0
+1.75
++0.5
+1.59
+-0.5
+2.21
+Sarı Kartlar: 2.Yarı : Toplam
+Üst
+Alt
+3
+1.61
+2.17
+3.5
+2.02
+1.70
+Sarı Kartlar: 2. Yarı : Cruzeiro EC Toplam
+Üst
+Alt
+1.5
+1.86
+1.84
+2
+2.75
+1.39
+Sarı Kartlar: 2. Yarı : SE Palmeiras Toplam
+Üst
+Alt
+1.5
+1.75
+1.95
+2
+2.45
+1.48
+Sarı Kartlar: İlk Sarı Kartı Görür
+Cruzeiro EC
+SE Palmeiras
+1.90
+1.80
+Sarı Kartlar: Son Sarı Kartı Görür
+Cruzeiro EC
+SE Palmeiras
+1.90
+1.80
+Maçta Penaltı Olur
+Evet
+Hayır
+3.00
+1.34
+Cruzeiro EC : Penaltı Kazanır
+Evet
+5.10
+SE Palmeiras : Penaltı Kazanır
+Evet
+4.70
+İki Takım da Penaltı Kazanır
+Evet
+21.00
+Maçta İki Penaltı Olur
+Evet
+4.75
+1. . Yarı : Penaltı
+Evet
+Hayır
+5.10
+1.13
+Penaltıdan Gol Atar
+Cruzeiro EC
+SE Palmeiras
+7.00
+6.30
+Penaltı Kaçırır
+Cruzeiro EC
+SE Palmeiras
+21.00
+19.00
+Maçta Kırmzı Kartlar
+YENİ
+1+
+3.15
+2+
+12.00
+3+
+25.00
+Cruzeiro EC Kırmızı Kartlar
+YENİ
+1+
+2+
+5.60
+15.00
+SE Palmeiras Kırmızı Kartlar
+YENİ
+1+
+2+
+5.50
+15.00
+1. . Yarı : Kırmızı Kart
+Evet
+Hayır
+7.30
+1.06
+2.. Yarı : Kırmızı Kart
+Evet
+Hayır
+4.15
+1.19
+Penaltı ve Kırmızı Kart
+Evet
+Hayır
+6.70
+1.07
+Maçta Penaltı veya Kırmızı Kart olur
+Evet
+1.49
+Maçta kendi kalesine gol atılır
+Evet
+Hayır
+9.00
+1.03
+Herhangi Bir Zamanda Gol Atar
+Vitor Roque
+2.39
+Kaio Jorge
+2.41
+Flaco Lopez
+2.80
+Neiser Villarreal
+3.15
+Ramon Sosa
+3.15
+Matheus Pereira
+3.50
+Luciano Rodriguez
+3.75
+Erick Bele
+3.90
+Jhon Arias
+3.90
+Fabiano
+4.70
+Felipe Anderson
+5.30
+Wanderson
+6.00
+Daha Fazla Seçeneği Göster
+İlk Golcü
+Kaio Jorge
+5.40
+Vitor Roque
+5.50
+Flaco Lopez
+6.30
+Neiser Villarreal
+7.70
+Ramon Sosa
+7.80
+Matheus Pereira
+8.60
+Luciano Rodriguez
+8.60
+Erick Bele
+8.90
+Jhon Arias
+9.20
+Fabiano
+12.00
+Wanderson
+13.00
+Felipe Anderson
+14.00
+Daha Fazla Seçeneği Göster
+İlk Golcü. Çifte Şans
+Luis Sinisterra or Kaio Jorge
+3.60
+Jhon Arias or Kaio Jorge
+3.75
+Kaio Jorge or Ramon Sosa
+3.75
+Jhon Arias or Luis Sinisterra
+4.75
+Jhon Arias or Ramon Sosa
+4.75
+Luis Sinisterra or Ramon Sosa
+4.75
+Keny Arroyo or Matheus Pereira
+5.00
+Keny Arroyo or Mauricio Prado
+5.00
+Mauricio Prado or Matheus Pereira
+5.50
+Keny Arroyo or Andreas Pereira
+6.00
+Son Golcü
+Kaio Jorge
+5.40
+Vitor Roque
+5.50
+Flaco Lopez
+6.00
+Neiser Villarreal
+7.70
+Ramon Sosa
+7.80
+Luciano Rodriguez
+8.60
+Matheus Pereira
+8.60
+Jhon Arias
+9.20
+Erick Bele
+10.00
+Fabiano
+12.00
+Wanderson
+13.00
+Felipe Anderson
+14.00
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 2 Gol Atar
+Kaio Jorge
+9.60
+Vitor Roque
+11.00
+Flaco Lopez
+12.00
+Neiser Villarreal
+15.00
+Matheus Pereira
+19.00
+Ramon Sosa
+19.00
+Luciano Rodriguez
+23.00
+Jhon Arias
+25.00
+Erick Bele
+25.00
+Fabiano
+34.00
+Wanderson
+41.00
+Felipe Anderson
+41.00
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 3 Gol Atar
+Kaio Jorge
+51.00
+Vitor Roque
+51.00
+Flaco Lopez
+67.00
+Neiser Villarreal
+86.00
+Ramon Sosa
+111.00
+Arthur Gabriel
+126.00
+Matheus Pereira
+126.00
+Luis Pacheco
+126.00
+Marquinhos
+126.00
+Erick Bele
+126.00
+Jhon Arias
+126.00
+Luis Benedetti
+126.00
+Daha Fazla Seçeneği Göster
+Oyuncu Asist Yapar
+YENİ
+Matheus Pereira 1+
+3.45
+Andreas Pereira 1+
+4.60
+Erick Bele 1+
+4.60
+Ramon Sosa 1+
+4.80
+Fabiano 1+
+4.85
+Flaco Lopez 1+
+5.00
+Jhon Arias 1+
+5.00
+Felipe Anderson 1+
+5.30
+Luciano Rodriguez 1+
+5.40
+Gabriel Rojas 1+
+5.40
+Joao Costa 1+
+5.90
+William 1+
+6.00
+Gerson 1+
+6.00
+Marquinhos 1+
+6.20
+Vitor Roque 1+
+6.20
+Kaio Jorge 1+
+6.20
+Wanderson 1+
+6.40
+Khellven 1+
+6.50
+Fagner 1+
+6.80
+Neiser Villarreal 1+
+7.20
+Marlon Freitas 1+
+7.40
+Arthur Gabriel 1+
+7.60
+Agustin Giay 1+
+7.70
+Lucas Evangelista 1+
+7.90
+Larson 1+
+8.10
+Lucas Silva 1+
+8.10
+Matias Vina 1+
+8.40
+Luis Pacheco 1+
+8.60
+Lucas Romero 1+
+9.10
+Matheus Henrique 1+
+9.50
+Emiliano Martinez 1+
+11.00
+Ze Lucas 1+
+11.00
+Lucas Villalba 1+
+12.00
+Alexander Barboza 1+
+19.00
+Bruno Fuchs 1+
+19.00
+Luis Benedetti 1+
+21.00
+Fabricio Bruno 1+
+21.00
+Oyuncu Gol Atar veya Asist Yapar
+Vitor Roque
+1.90
+Kaio Jorge
+1.93
+Flaco Lopez
+2.00
+Matheus Pereira
+2.03
+Ramon Sosa
+2.13
+Neiser Villarreal
+2.37
+Erick Bele
+2.37
+Luciano Rodriguez
+2.42
+Jhon Arias
+2.45
+Fabiano
+2.65
+Andreas Pereira
+2.90
+Felipe Anderson
+2.90
+Daha Fazla Seçeneği Göster
+Oyuncu Gol Atar veya Asist Yapar (Çifte Şans)
+Kaio Jorge or Jhon Arias
+1.30
+Kaio Jorge or Matheus Pereira
+1.30
+Mauricio Prado or Kaio Jorge
+1.36
+Jhon Arias or Matheus Pereira
+1.40
+Mauricio Prado or Jhon Arias
+1.44
+Keny Arroyo or Luis Sinisterra
+1.44
+Ramon Sosa or Luis Sinisterra
+1.44
+Ramon Sosa or Keny Arroyo
+1.44
+Mauricio Prado or Matheus Pereira
+1.44
+Andreas Pereira or Luis Sinisterra
+1.50
+Oyuncu Gol Atar ve Asist Yapar
+YENİ
+Matheus Pereira
+7.70
+Flaco Lopez
+9.80
+Ramon Sosa
+10.00
+Erick Bele
+11.00
+Vitor Roque
+11.00
+Kaio Jorge
+11.00
+Jhon Arias
+12.00
+Luciano Rodriguez
+12.00
+Fabiano
+12.00
+Felipe Anderson
+14.00
+Neiser Villarreal
+15.00
+Andreas Pereira
+17.00
+Joao Costa
+17.00
+Marquinhos
+19.00
+Wanderson
+19.00
+Gerson
+21.00
+Larson
+25.00
+Lucas Evangelista
+25.00
+Marlon Freitas
+26.00
+Luis Pacheco
+29.00
+Lucas Romero
+36.00
+Ze Lucas
+36.00
+Oyuncu Penaltıdan Gol Atar
+YENİ
+Kaio Jorge
+5.30
+Vitor Roque
+5.80
+Flaco Lopez
+8.30
+Fabiano
+21.00
+Luciano Rodriguez
+21.00
+Erick Bele
+21.00
+Ramon Sosa
+23.00
+Wanderson
+23.00
+Matheus Pereira
+23.00
+Neiser Villarreal
+23.00
+Joao Costa
+25.00
+Marquinhos
+25.00
+Larson
+25.00
+Jhon Arias
+25.00
+Gerson
+26.00
+Luis Pacheco
+29.00
+Felipe Anderson
+29.00
+Ze Lucas
+31.00
+Matheus Henrique
+31.00
+Lucas Silva
+34.00
+Lucas Romero
+34.00
+Andreas Pereira
+36.00
+Lucas Evangelista
+36.00
+Marlon Freitas
+41.00
+Emiliano Martinez
+41.00
+Khellven
+91.00
+Arthur Gabriel
+91.00
+William
+91.00
+Alexander Barboza
+91.00
+Bruno Fuchs
+91.00
+Agustin Giay
+91.00
+Lucas Villalba
+91.00
+Gabriel Rojas
+91.00
+Fabricio Bruno
+91.00
+Matias Vina
+91.00
+Luis Benedetti
+91.00
+Fagner
+91.00
+Oyuncu Ceza Sahası Dışından Gol Atar
+Kaio Jorge
+9.10
+Flaco Lopez
+10.00
+Vitor Roque
+11.00
+Agustin Giay
+13.00
+Matheus Pereira
+15.00
+Bruno Rodrigues
+15.00
+Jhon Arias
+17.00
+Fabiano
+17.00
+Erick Bele
+17.00
+Luciano Rodriguez
+17.00
+Felipe Anderson
+21.00
+Keny Arroyo
+21.00
+Daha Fazla Seçeneği Göster
+Oyuncu Penaltı Kaçırır
+YENİ
+Kaio Jorge
+25.00
+Vitor Roque
+25.00
+Ramon Sosa
+36.00
+Neiser Villarreal
+36.00
+Luciano Rodriguez
+36.00
+Flaco Lopez
+41.00
+Matheus Pereira
+46.00
+Fabiano
+51.00
+Erick Bele
+56.00
+Marquinhos
+67.00
+Wanderson
+71.00
+Joao Costa
+76.00
+Jhon Arias
+86.00
+Larson
+91.00
+Marlon Freitas
+91.00
+Fabricio Bruno
+91.00
+Matias Vina
+91.00
+Gabriel Rojas
+91.00
+Fagner
+91.00
+Felipe Anderson
+91.00
+Andreas Pereira
+91.00
+William
+91.00
+Alexander Barboza
+91.00
+Lucas Evangelista
+91.00
+Bruno Fuchs
+91.00
+Lucas Silva
+91.00
+Khellven
+91.00
+Agustin Giay
+91.00
+Emiliano Martinez
+91.00
+Matheus Henrique
+91.00
+Arthur Gabriel
+91.00
+Luis Benedetti
+91.00
+Lucas Romero
+91.00
+Gerson
+91.00
+Lucas Villalba
+91.00
+Ze Lucas
+91.00
+Luis Pacheco
+91.00
+Penaltı Kazandıran Oyuncu
+YENİ
+Vitor Roque 1+
+9.30
+Matheus Pereira 1+
+14.00
+Neiser Villarreal 1+
+21.00
+Flaco Lopez 1+
+23.00
+Ramon Sosa 1+
+25.00
+Marquinhos 1+
+25.00
+Fabiano 1+
+26.00
+Erick Bele 1+
+26.00
+Gerson 1+
+31.00
+Kaio Jorge 1+
+31.00
+Joao Costa 1+
+31.00
+Wanderson 1+
+34.00
+Luciano Rodriguez 1+
+34.00
+Larson 1+
+36.00
+Jhon Arias 1+
+36.00
+Ze Lucas 1+
+41.00
+Agustin Giay 1+
+46.00
+Felipe Anderson 1+
+46.00
+Lucas Evangelista 1+
+46.00
+Arthur Gabriel 1+
+56.00
+Gabriel Rojas 1+
+56.00
+Khellven 1+
+61.00
+Fagner 1+
+67.00
+Luis Pacheco 1+
+71.00
+Matias Vina 1+
+71.00
+Marlon Freitas 1+
+71.00
+Matheus Henrique 1+
+71.00
+Bruno Fuchs 1+
+71.00
+Alexander Barboza 1+
+71.00
+Luis Benedetti 1+
+71.00
+Lucas Romero 1+
+71.00
+Lucas Villalba 1+
+71.00
+Fabricio Bruno 1+
+71.00
+William 1+
+71.00
+Emiliano Martinez 1+
+71.00
+Lucas Silva 1+
+71.00
+Andreas Pereira 1+
+71.00
+Oyuncu Kale Sahası İçinden Gol Atar
+YENİ
+Vitor Roque
+9.50
+Flaco Lopez
+9.50
+Kaio Jorge
+10.00
+Ze Lucas
+11.00
+Luciano Rodriguez
+14.00
+Luis Benedetti
+17.00
+Neiser Villarreal
+17.00
+Erick Bele
+17.00
+Jhon Arias
+19.00
+Matheus Pereira
+19.00
+Ramon Sosa
+21.00
+Fabiano
+23.00
+Marquinhos
+23.00
+Agustin Giay
+23.00
+Joao Costa
+23.00
+Bruno Fuchs
+26.00
+Alexander Barboza
+31.00
+Matias Vina
+31.00
+Felipe Anderson
+31.00
+Khellven
+34.00
+Larson
+34.00
+Arthur Gabriel
+34.00
+Gerson
+36.00
+Luis Pacheco
+36.00
+Andreas Pereira
+41.00
+Wanderson
+41.00
+William
+41.00
+Fabricio Bruno
+41.00
+Lucas Evangelista
+46.00
+Gabriel Rojas
+51.00
+Fagner
+51.00
+Emiliano Martinez
+51.00
+Matheus Henrique
+51.00
+Lucas Silva
+51.00
+Lucas Romero
+51.00
+Marlon Freitas
+51.00
+Lucas Villalba
+51.00
+Oyuncu Kafa Golü Atar
+Flaco Lopez
+8.30
+Vitor Roque
+10.00
+Kaio Jorge
+10.00
+Alexander Barboza
+14.00
+Ramon Sosa
+15.00
+Luis Benedetti
+17.00
+Neiser Villarreal
+19.00
+Luciano Rodriguez
+19.00
+Fabricio Bruno
+19.00
+Bruno Fuchs
+23.00
+Marquinhos
+25.00
+Ze Lucas
+29.00
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar Çifte Şans
+Kaio Jorge or Vitor Roque
+1.52
+Vitor Roque or Flaco Lopez
+1.60
+Kaio Jorge or Flaco Lopez
+1.60
+Ramon Sosa or Vitor Roque
+1.66
+Neiser Villarreal or Vitor Roque
+1.66
+Kaio Jorge or Ramon Sosa
+1.67
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar. Üçlü Şans
+Kaio Jorge or Vitor Roque or Flaco Lopez
+1.28
+Kaio Jorge or Ramon Sosa or Vitor Roque
+1.30
+Kaio Jorge or Neiser Villarreal or Vitor Roque
+1.30
+Kaio Jorge or Matheus Pereira or Vitor Roque
+1.32
+Luciano Rodriguez or Kaio Jorge or Vitor Roque
+1.33
+Kaio Jorge or Jhon Arias or Vitor Roque
+1.34
+Daha Fazla Seçeneği Göster
+Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar
+Kaio Jorge and Vitor Roque
+5.80
+Vitor Roque and Flaco Lopez
+6.70
+Kaio Jorge and Flaco Lopez
+6.70
+Ramon Sosa and Vitor Roque
+7.50
+Neiser Villarreal and Vitor Roque
+7.50
+Kaio Jorge and Ramon Sosa
+7.60
+Daha Fazla Seçeneği Göster
+Üç Oyuncu da Herhangi Bir Zamanda Gol Atar
+Kaio Jorge and Vitor Roque and Flaco Lopez
+17.00
+Kaio Jorge and Ramon Sosa and Vitor Roque
+19.00
+Kaio Jorge and Neiser Villarreal and Vitor Roque
+19.00
+Kaio Jorge and Matheus Pereira and Vitor Roque
+21.00
+Ramon Sosa and Vitor Roque and Flaco Lopez
+21.00
+Neiser Villarreal and Vitor Roque and Flaco Lopez
+21.00
+Daha Fazla Seçeneği Göster
+Oyuncu 1. Yarıda Gol Atar
+Kaio Jorge
+4.10
+Vitor Roque
+4.10
+Flaco Lopez
+4.80
+Ramon Sosa
+5.50
+Neiser Villarreal
+5.60
+Matheus Pereira
+6.20
+Luciano Rodriguez
+6.70
+Jhon Arias
+6.90
+Erick Bele
+7.10
+Fabiano
+8.60
+Felipe Anderson
+9.40
+Andreas Pereira
+11.00
+Joao Costa
+11.00
+Marquinhos
+11.00
+Wanderson
+11.00
+Gerson
+13.00
+Larson
+14.00
+Ze Lucas
+15.00
+Lucas Evangelista
+15.00
+Marlon Freitas
+17.00
+Luis Pacheco
+17.00
+Matheus Henrique
+19.00
+Agustin Giay
+19.00
+Lucas Romero
+21.00
+Lucas Silva
+21.00
+Alexander Barboza
+21.00
+Khellven
+23.00
+Arthur Gabriel
+23.00
+Emiliano Martinez
+23.00
+Luis Benedetti
+25.00
+William
+25.00
+Fabricio Bruno
+26.00
+Lucas Villalba
+26.00
+Matias Vina
+26.00
+Bruno Fuchs
+26.00
+Gabriel Rojas
+31.00
+Fagner
+34.00
+Oyuncu 2. Yarıda Gol Atar
+Vitor Roque
+3.40
+Kaio Jorge
+3.45
+Flaco Lopez
+4.10
+Ramon Sosa
+4.60
+Neiser Villarreal
+4.70
+Matheus Pereira
+5.20
+Luciano Rodriguez
+5.50
+Erick Bele
+5.60
+Jhon Arias
+5.80
+Fabiano
+6.80
+Felipe Anderson
+7.90
+Wanderson
+8.90
+Andreas Pereira
+9.40
+Joao Costa
+9.40
+Marquinhos
+9.70
+Larson
+11.00
+Gerson
+11.00
+Lucas Evangelista
+12.00
+Luis Pacheco
+13.00
+Ze Lucas
+13.00
+Marlon Freitas
+13.00
+Agustin Giay
+15.00
+Matheus Henrique
+15.00
+Lucas Romero
+17.00
+Alexander Barboza
+19.00
+Lucas Silva
+19.00
+Khellven
+19.00
+Emiliano Martinez
+19.00
+Arthur Gabriel
+19.00
+Luis Benedetti
+21.00
+William
+21.00
+Lucas Villalba
+23.00
+Fabricio Bruno
+23.00
+Bruno Fuchs
+23.00
+Matias Vina
+23.00
+Gabriel Rojas
+26.00
+Fagner
+29.00
+Oyuncu Her İki Yarıda da Gol Atar
+Kaio Jorge
+11.00
+Vitor Roque
+11.00
+Flaco Lopez
+14.00
+Ramon Sosa
+17.00
+Neiser Villarreal
+17.00
+Matheus Pereira
+21.00
+Luciano Rodriguez
+23.00
+Jhon Arias
+25.00
+Erick Bele
+25.00
+Fabiano
+34.00
+Felipe Anderson
+41.00
+Wanderson
+46.00
+Oyuncu Serbest Vuruştan Gol Atar
+YENİ
+Andreas Pereira
+19.00
+Matheus Pereira
+29.00
+Jhon Arias
+34.00
+Ramon Sosa
+36.00
+Marquinhos
+41.00
+Lucas Silva
+56.00
+Fabiano
+61.00
+Erick Bele
+61.00
+Luis Pacheco
+61.00
+Felipe Anderson
+67.00
+Larson
+67.00
+Marlon Freitas
+81.00
+Lucas Romero
+81.00
+Lucas Evangelista
+81.00
+Matheus Henrique
+81.00
+Ze Lucas
+86.00
+Flaco Lopez
+86.00
+Luciano Rodriguez
+86.00
+Gerson
+91.00
+Neiser Villarreal
+91.00
+Fagner
+91.00
+Kaio Jorge
+91.00
+William
+91.00
+Fabricio Bruno
+91.00
+Vitor Roque
+91.00
+Matias Vina
+91.00
+Khellven
+91.00
+Luis Benedetti
+91.00
+Alexander Barboza
+91.00
+Lucas Villalba
+91.00
+Gabriel Rojas
+91.00
+Agustin Giay
+91.00
+Wanderson
+91.00
+Emiliano Martinez
+91.00
+Arthur Gabriel
+91.00
+Joao Costa
+91.00
+Bruno Fuchs
+91.00
+Oyuncu Sağ Ayağıyla Gol Atar
+YENİ
+Kaio Jorge
+3.15
+Vitor Roque
+3.25
+Neiser Villarreal
+4.10
+Ramon Sosa
+4.10
+Luciano Rodriguez
+5.10
+Jhon Arias
+5.20
+Wanderson
+7.30
+Felipe Anderson
+7.30
+Andreas Pereira
+7.90
+Fabiano
+8.10
+Erick Bele
+8.30
+Larson
+9.40
+Marlon Freitas
+12.00
+Ze Lucas
+12.00
+Lucas Romero
+13.00
+Luis Pacheco
+13.00
+Lucas Silva
+14.00
+Matheus Henrique
+14.00
+Agustin Giay
+14.00
+Flaco Lopez
+17.00
+Emiliano Martinez
+17.00
+Khellven
+19.00
+Joao Costa
+19.00
+William
+21.00
+Fagner
+25.00
+Matheus Pereira
+29.00
+Lucas Evangelista
+34.00
+Marquinhos
+34.00
+Arthur Gabriel
+36.00
+Gerson
+36.00
+Fabricio Bruno
+41.00
+Bruno Fuchs
+41.00
+Gabriel Rojas
+41.00
+Matias Vina
+41.00
+Lucas Villalba
+41.00
+Luis Benedetti
+41.00
+Alexander Barboza
+41.00
+Oyuncu Sol Ayağıyla Gol Atar
+YENİ
+Flaco Lopez
+3.85
+Matheus Pereira
+3.90
+Erick Bele
+6.70
+Marquinhos
+8.40
+Vitor Roque
+9.00
+Gerson
+9.10
+Joao Costa
+9.80
+Fabiano
+10.00
+Kaio Jorge
+11.00
+Lucas Evangelista
+12.00
+Jhon Arias
+14.00
+Neiser Villarreal
+15.00
+Ramon Sosa
+15.00
+Luciano Rodriguez
+17.00
+Felipe Anderson
+19.00
+Arthur Gabriel
+21.00
+Gabriel Rojas
+25.00
+Lucas Villalba
+25.00
+Andreas Pereira
+26.00
+Matias Vina
+29.00
+Luis Pacheco
+34.00
+Wanderson
+34.00
+Alexander Barboza
+41.00
+William
+41.00
+Khellven
+41.00
+Luis Benedetti
+41.00
+Matheus Henrique
+41.00
+Lucas Romero
+41.00
+Larson
+41.00
+Fagner
+41.00
+Bruno Fuchs
+41.00
+Fabricio Bruno
+41.00
+Agustin Giay
+41.00
+Ze Lucas
+41.00
+Marlon Freitas
+41.00
+Emiliano Martinez
+41.00
+Lucas Silva
+41.00
+İlk 10 Dakikada Gol Atar
+Kaio Jorge
+15.00
+Vitor Roque
+15.00
+Flaco Lopez
+19.00
+Neiser Villarreal
+21.00
+Ramon Sosa
+21.00
+Matheus Pereira
+23.00
+Luciano Rodriguez
+25.00
+Erick Bele
+26.00
+Jhon Arias
+26.00
+Fabiano
+31.00
+Marquinhos
+34.00
+Felipe Anderson
+34.00
+Joao Costa
+36.00
+Wanderson
+36.00
+Andreas Pereira
+41.00
+Gerson
+46.00
+Larson
+46.00
+Lucas Evangelista
+51.00
+Ze Lucas
+51.00
+Luis Pacheco
+56.00
+Marlon Freitas
+56.00
+Matheus Henrique
+61.00
+Agustin Giay
+67.00
+Lucas Romero
+67.00
+Lucas Silva
+76.00
+Emiliano Martinez
+76.00
+Alexander Barboza
+76.00
+Luis Benedetti
+81.00
+Fabricio Bruno
+81.00
+Bruno Fuchs
+81.00
+Khellven
+81.00
+Gabriel Rojas
+81.00
+Fagner
+81.00
+Arthur Gabriel
+81.00
+Matias Vina
+81.00
+Lucas Villalba
+81.00
+William
+81.00
+Cruzeiro EC : İlk Golü Atar
+Kaio Jorge
+3.15
+Luciano Rodriguez
+4.90
+Marquinhos Alencar
+5.00
+Luis Sinisterra
+5.00
+Wanderson Campos
+5.00
+Matheus Pereira
+5.30
+Bruno Rodrigues
+5.50
+Neyser Villareal
+5.50
+Wesley Teixeira
+5.50
+Keny Arroyo
+5.60
+Kaique Kenji
+6.00
+Felipe Morais
+7.00
+Daha Fazla Seçeneği Göster
+SE Palmeiras : İlk Golü Atar
+Vitor Roque
+3.41
+Jose Flaco Lopez
+3.50
+Da Silva Heittor
+3.75
+Paulinho Sampaio
+5.00
+Jhon Arias
+5.30
+Erick Bele
+5.40
+Mauricio Prado
+5.50
+Fabiano Rodrigues
+5.50
+Ramon Sosa
+5.50
+Luis Felipe Pacheco
+7.00
+Larson Santos
+7.00
+Felipe Anderson
+8.00
+Daha Fazla Seçeneği Göster
+Cruzeiro EC : Son Golcü
+Kaio Jorge
+3.50
+Luis Sinisterra
+5.00
+Wanderson Campos
+5.00
+Marquinhos Alencar
+5.00
+Keny Arroyo
+5.00
+Luciano Rodriguez
+5.00
+Wesley Teixeira
+5.50
+Bruno Rodrigues
+5.50
+Neyser Villareal
+5.50
+Kaique Kenji
+6.00
+Matheus Pereira
+6.00
+Joao Costa
+7.00
+Daha Fazla Seçeneği Göster
+SE Palmeiras : Son Golü Atar
+Jose Flaco Lopez
+3.50
+Vitor Roque
+3.50
+Da Silva Heittor
+3.75
+Paulinho Sampaio
+5.00
+Ramon Sosa
+5.50
+Fabiano Rodrigues
+5.50
+Jhon Arias
+5.50
+Erick Bele
+6.00
+Mauricio Prado
+6.00
+Larson Santos
+7.00
+Luis Felipe Pacheco
+7.00
+Felipe Anderson
+9.00
+Daha Fazla Seçeneği Göster
+Gol Asisti Yapar Çifte Şans
+Andreas Pereira or Matheus Pereira
+1.62
+Jhon Arias or Matheus Pereira
+1.65
+Matheus Pereira or Marlon Freitas
+1.65
+Andreas Pereira or Marlon Freitas
+1.71
+Jhon Arias or Andreas Pereira
+1.71
+Jhon Arias or Marlon Freitas
+1.73
+Ramon Sosa or Mauricio Prado
+1.87
+Mauricio Prado or Kaio Jorge
+1.87
+Luis Sinisterra or Mauricio Prado
+1.87
+Ramon Sosa or Kaio Jorge
+1.93
+Oyuncu Kart Görür
+Alexander Barboza
+2.19
+Agustin Giay
+2.50
+Larson
+2.55
+Lucas Romero
+2.65
+Bruno Fuchs
+2.75
+Matheus Henrique
+2.85
+Fagner
+2.90
+Emiliano Martinez
+2.95
+William
+2.95
+Fabricio Bruno
+2.95
+Andreas Pereira
+2.95
+Luis Pacheco
+3.00
+Daha Fazla Seçeneği Göster
+Oyuncu Kart Görür Çifte Şans
+Keny Arroyo or Matheus Pereira
+1.53
+Murilo Paim or Keny Arroyo
+1.62
+Jhon Arias or Matheus Pereira
+1.67
+Jhon Arias or Keny Arroyo
+1.67
+Murilo Paim or Matheus Pereira
+1.67
+Jhon Arias or Murilo Paim
+1.80
+Andreas Pereira or Mauricio Prado
+2.00
+Andreas Pereira or Ramon Sosa
+2.00
+Marlon Freitas or Andreas Pereira
+2.00
+Ramon Sosa or Mauricio Prado
+2.20
+Oyuncu Sarı Kart Görür
+Alexander Barboza
+2.24
+Agustin Giay
+2.60
+Larson
+2.65
+Lucas Romero
+2.75
+Bruno Fuchs
+2.80
+Matheus Henrique
+2.90
+Fagner
+3.00
+Andreas Pereira
+3.05
+Fabricio Bruno
+3.05
+Emiliano Martinez
+3.05
+William
+3.05
+Luis Pacheco
+3.10
+Matheus Pereira
+3.10
+Ze Lucas
+3.15
+Lucas Silva
+3.15
+Arthur Gabriel
+3.25
+Khellven
+3.25
+Lucas Villalba
+3.25
+Marlon Freitas
+3.30
+Gabriel Rojas
+3.40
+Joao Costa
+3.40
+Marquinhos
+3.40
+Jhon Arias
+3.45
+Vitor Roque
+3.45
+Ramon Sosa
+3.45
+Matias Vina
+3.45
+Gerson
+3.60
+Lucas Evangelista
+3.75
+Luis Benedetti
+3.75
+Erick Bele
+4.00
+Kaio Jorge
+4.10
+Felipe Anderson
+4.30
+Flaco Lopez
+4.33
+Fabiano
+4.50
+Luciano Rodriguez
+4.70
+Wanderson
+4.80
+Neiser Villarreal
+5.20
+Carlos Miguel
+6.30
+Cassio
+7.00
+Leo Aragao
+7.10
+Marcelo Lomba
+7.80
+Otavio Costa
+10.00
+Bruno Bertinato
+13.00
+Kart Görecek İlk Oyuncu
+Larson
+8.00
+Luis Pacheco
+8.30
+Alexander Barboza
+8.60
+Lucas Silva
+9.40
+Ze Lucas
+10.00
+Joao Costa
+11.00
+Agustin Giay
+11.00
+Marquinhos
+11.00
+William
+11.00
+Lucas Romero
+11.00
+Matheus Henrique
+11.00
+Fagner
+12.00
+Daha Fazla Seçeneği Göster
+Son Kartı Görecek Oyuncu
+YENİ
+Larson
+8.00
+Luis Pacheco
+8.30
+Alexander Barboza
+8.60
+Lucas Silva
+9.40
+Ze Lucas
+10.00
+Marquinhos
+11.00
+Agustin Giay
+11.00
+Matheus Henrique
+11.00
+Lucas Romero
+11.00
+William
+11.00
+Joao Costa
+11.00
+Fabricio Bruno
+12.00
+Khellven
+12.00
+Fagner
+12.00
+Gerson
+12.00
+Matheus Pereira
+12.00
+Jhon Arias
+12.00
+Matias Vina
+12.00
+Gabriel Rojas
+12.00
+Lucas Villalba
+12.00
+Arthur Gabriel
+12.00
+Marlon Freitas
+13.00
+Andreas Pereira
+13.00
+Wanderson
+13.00
+Bruno Fuchs
+13.00
+Emiliano Martinez
+13.00
+Flaco Lopez
+14.00
+Lucas Evangelista
+14.00
+Vitor Roque
+14.00
+Ramon Sosa
+14.00
+Erick Bele
+15.00
+Luis Benedetti
+15.00
+Felipe Anderson
+15.00
+Fabiano
+15.00
+Luciano Rodriguez
+15.00
+Neiser Villarreal
+17.00
+Kaio Jorge
+19.00
+Otavio Costa
+31.00
+Cassio
+31.00
+Leo Aragao
+31.00
+Carlos Miguel
+34.00
+Bruno Bertinato
+36.00
+Marcelo Lomba
+36.00
+Oyundan Uzaklaştırılır
+YENİ
+Larson
+17.00
+Alexander Barboza
+21.00
+Joao Costa
+23.00
+Marquinhos
+23.00
+Luis Pacheco
+23.00
+Agustin Giay
+26.00
+Matheus Pereira
+29.00
+Flaco Lopez
+29.00
+Vitor Roque
+29.00
+Lucas Silva
+31.00
+Fabricio Bruno
+31.00
+Jhon Arias
+31.00
+Daha Fazla Seçeneği Göster
+Cruzeiro EC : Her İki Yarıda Gol Atar
+Evet
+Hayır
+3.25
+1.29
+SE Palmeiras Her İki Yarıda Gol Atar
+Evet
+Hayır
+3.10
+1.32
+Cruzeiro EC : Her İki Yarıda Kazanır
+Evet
+Hayır
+7.30
+1.06
+SE Palmeiras Her İki Yarıda Kazanır
+Evet
+Hayır
+6.50
+1.08
+Cruzeiro EC : İlk Yarıda Gol Atar
+Evet
+Hayır
+1.94
+1.76
+SE Palmeiras İlk Yarıda Gol Atar
+Evet
+Hayır
+1.87
+1.83
+Cruzeiro EC : İkinci Yarıda Gol Atar
+Evet
+Hayır
+1.67
+2.07
+SE Palmeiras İkinci Yarıda Gol Atar
+Evet
+Hayır
+1.64
+2.15
+İlk Yarıda Gol
+Evet
+Hayır
+1.30
+3.30
+İkinci Yarıda Gol
+Evet
+Hayır
+1.18
+4.30
+Her İki Yarııda da 1.5 Üst Gol
+Evet
+Hayır
+4.30
+1.18
+Her İki Yarı Goller 1.5 Alt
+Evet
+Hayır
+2.85
+1.37
+Cruzeiro EC Gol Yemeden Kazanır
+Evet
+Hayır
+4.90
+1.14
+SE Palmeiras Gol Yemeden Kazanır
+Evet
+Hayır
+4.57
+1.16
+Cruzeiro EC İki veya Üç Gol Farkla Kazanır
+Evet
+Hayır
+5.35
+1.12
+SE Palmeiras İki veya Üç Gol Farkla Kazanır
+Evet
+Hayır
+4.90
+1.14
+Cruzeiro EC Bir Gol Farkla Kazanır veya Berabere
+Evet
+Hayır
+1.97
+1.73
+SE Palmeiras Bir Gol Farkla Kazanır veya Berabere Kalır
+Evet
+Hayır
+1.97
+1.73
+Cruzeiro EC En Az Bir Yarıyı Kazanır
+Evet
+Hayır
+1.81
+1.89
+SE Palmeiras En Az Bir Yarıda Kazanır
+Evet
+Hayır
+1.70
+2.02
+Cruzeiro EC İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+7.85
+1.05
+SE Palmeiras İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+7.85
+1.052
+Cruzeiro EC : Gol Atar 1.Yarı/2.Yarı
+Evet/Hayır
+3.94
+Evet/Evet
+3.25
+Hayır/Hayır
+3.75
+Hayır/Evet
+2.91
+SE Palmeiras Gol Atar İlk Yarı/İkinci Yarı
+Evet/Hayır
+3.94
+Evet/Evet
+3.10
+Hayır/Hayır
+4.10
+Hayır/Evet
+2.93
+Yarıları Farklı Takımlar Kazanır
+Evet
+Hayır
+4.15
+1.19
+Yarılardan En Az Birinde Beraberlik
+Evet
+Hayır
+1.55
+2.30
+Maç Skoru Beraberlik (0-0 hariç)
+Evet
+Hayır
+3.83
+1.22
+Kesin Gol Sayısı
+Gol Yok
+14.00
+Kesin 1
+5.10
+Kesin 2
+3.75
+Kesin 3
+3.70
+Kesin 4
+4.75
+Kesin 5
+7.60
+Kesin 6 veya Fazla
+9.00
+Maçta 1 Gol Olur
+Evet
+Hayır
+5.10
+1.13
+Maçta 2 Gol Olur
+Evet
+Hayır
+3.75
+1.23
+Maçta 3 Gol Olur
+Evet
+Hayır
+3.75
+1.22
+Maçta 4 Gol Olur
+Evet
+Hayır
+4.75
+1.15
+Cruzeiro EC : Kazanma Marjı
+1
+4.15
+2
+7.10
+3
+14.00
+4+
+29.00
+SE Palmeiras : Kazanma Marjı
+1
+4.15
+2
+6.60
+3
+12.00
+4+
+25.00
+Skor Kombinasyonları
+1-0 / 2-0 / 3-0
+3.79
+4-0 / 5-0 / 6-0
+21.00
+2-1 / 3-1 / 4-1
+4.00
+3-2 / 4-2 / 4-3
+8.00
+0-1 / 0-2 / 0-3
+3.55
+0-4 / 0-5 / 0-6
+19.00
+1-2 / 1-3 / 1-4
+3.80
+2-3 / 2-4 / 3-4
+7.50
+Ofsaytlar: Toplam
+YENİ
+2+
+1.22
+3+
+1.60
+4+
+2.39
+5+
+4.00
+6+
+7.20
+Ofsaytlar: Cruzeiro EC Toplam
+YENİ
+1+
+1.29
+2+
+2.14
+3+
+4.40
+4+
+9.70
+5+
+17.00
+Ofsaytlar: SE Palmeiras Toplam
+YENİ
+1+
+1.22
+2+
+1.85
+3+
+3.45
+4+
+7.20
+5+
+14.00
+Fauller: Toplam
+YENİ
+28+
+1.41
+29+
+1.55
+30+
+1.73
+31+
+1.98
+32+
+2.30
+33+
+2.75
+34+
+3.30
+Fauller: Cruzeiro EC - Toplam
+YENİ
+13+
+1.42
+14+
+1.64
+15+
+1.97
+16+
+2.46
+17+
+3.20
+18+
+4.30
+Fauller: SE Palmeiras - Toplam
+YENİ
+15+
+1.49
+16+
+1.74
+17+
+2.09
+18+
+2.60
+19+
+3.40
+Kaleyi Bulan Şutlar: Toplam
+YENİ
+9+
+1.39
+10+
+1.64
+11+
+2.02
+12+
+2.60
+13+
+3.50
+14+
+5.00
+Kaleyi Bulan Şutlar: Cruzeiro EC - Toplam
+YENİ
+4+
+1.31
+5+
+1.65
+6+
+2.25
+7+
+3.30
+8+
+5.20
+Kaleyi Bulan Şutlar: SE Palmeiras - Toplam
+YENİ
+4+
+1.30
+5+
+1.63
+6+
+2.21
+7+
+3.25
+8+
+5.20
+Kaleyi Bulan Şutlar: 1. Yarı - Toplam
+YENİ
+3+
+1.16
+4+
+1.40
+5+
+1.84
+6+
+2.70
+7+
+4.30
+8+
+7.40
+Kaleyi Bulan Şutlar: 1. Yarı - Cruzeiro EC - Toplam
+YENİ
+2+
+1.40
+3+
+2.13
+4+
+3.75
+5+
+7.40
+6+
+14.00
+Kaleyi Bulan Şutlar: 1. Yarı - SE Palmeiras - Toplam
+YENİ
+1+
+1.11
+2+
+1.45
+3+
+2.28
+4+
+4.20
+5+
+8.70
+6+
+17.00
+Kaleyi Bulan Şutlar: 2. Yarı - Toplam
+YENİ
+4+
+1.20
+5+
+1.44
+6+
+1.87
+7+
+2.60
+8+
+4.00
+9+
+6.50
+Kaleyi Bulan Şutlar: 2. Yarı - Cruzeiro EC - Toplam
+YENİ
+2+
+1.30
+3+
+1.83
+4+
+2.95
+5+
+5.30
+6+
+10.00
+Kaleyi Bulan Şutlar: 2. Yarı - SE Palmeiras - Toplam
+YENİ
+2+
+1.26
+3+
+1.73
+4+
+2.70
+5+
+4.70
+6+
+8.80
+Şutlar: Toplam
+YENİ
+30+
+1.44
+31+
+1.57
+32+
+1.73
+33+
+1.94
+34+
+2.19
+35+
+2.50
+36+
+2.95
+Şutlar: Cruzeiro EC: Toplam
+YENİ
+14+
+1.26
+15+
+1.35
+16+
+1.48
+17+
+1.64
+18+
+1.85
+19+
+2.10
+Şutlar: SE Palmeiras: Toplam
+YENİ
+14+
+1.23
+15+
+1.33
+16+
+1.45
+17+
+1.60
+18+
+1.79
+19+
+2.02
+20+
+2.34
+Taç Atışları: Toplam
+YENİ
+39+
+1.79
+40+
+1.97
+41+
+2.20
+Taç Atışları: Cruzeiro EC - Toplam
+YENİ
+20+
+1.85
+21+
+2.16
+22+
+2.55
+Taç Atışları: SE Palmeiras - Toplam
+YENİ
+19+
+1.64
+20+
+1.87
+21+
+2.18
+22+
+2.60
+Paslar: Cruzeiro EC Toplam
+YENİ
+350+
+1.19
+400+
+1.48
+450+
+2.15
+500+
+3.50
+Paslar: SE Palmeiras Toplam
+YENİ
+350+
+1.22
+400+
+1.55
+450+
+2.33
+500+
+3.85
+Pas Denemeleri: Cruzeiro EC Toplam
+YENİ
+400+
+1.11
+450+
+1.31
+500+
+1.82
+550+
+3.00
+Pas Denemeleri: SE Palmeiras Toplam
+YENİ
+400+
+1.13
+450+
+1.36
+500+
+1.96
+550+
+3.35
+İlk 10 Dakika (00:00 - 09:59) Gol
+Üst
+Alt
+0.5
+4.15
+1.19
+İlk 10 Dakika (00:00 - 09:59) Köşe vuruşu
+Üst
+Alt
+0.5
+1.44
+2.59
+1.5
+2.95
+1.35
+Cruzeiro EC : İlk 10 Dakika (00:00 – 09:59) Kornerler
+Üst
+Alt
+0.5
+2.15
+1.62
+1.5
+6.15
+1.09
+SE Palmeiras : İlk 10 Dakika (00:00 – 09:59) Kornerler
+Üst
+Alt
+0.5
+2.21
+1.59
+1.5
+6.15
+1.09
+İlk 10 Dakika (00:00 - 09:59) Sarı Kartlar
+Üst
+Alt
+0.5
+5.10
+1.13
+1-15 Dk. Galibi
+Cruzeiro EC
+X
+SE Palmeiras
+6.50
+1.27
+6.20
+1-15 Dk. Gol Handikapı
+Cruzeiro EC
+SE Palmeiras
+0
+1.90
+0
+1.80
+1-15 Dk. Toplam Goller
+Üst
+Alt
+0.5
+2.62
+1.43
+1
+7.30
+1.06
+1-15 Dk. Cruzeiro EC Toplam Goller
+Üst
+Alt
+0.5
+4.42
+1.17
+1-15 Dk. SE Palmeiras Toplam Goller
+Üst
+Alt
+0.5
+4.30
+1.18
+1-15 Dk. İki Takım Gol Atar
+Evet
+Hayır
+10.80
+1.012
+1-30 Dk. Galibi
+Cruzeiro EC
+X
+SE Palmeiras
+3.99
+1.71
+3.76
+1-30 Dk. Gol Handikapı
+Cruzeiro EC
+SE Palmeiras
+0
+1.90
+0
+1.80
+1-30 Dk. Toplam Goller
+Üst
+Alt
+0.5
+1.62
+2.15
+1
+2.65
+1.42
+1-30 Dk. Cruzeiro EC Toplam Goller
+Üst
+Alt
+0.5
+2.62
+1.43
+1
+7.10
+1.065
+1-30 Dk. SE Palmeiras Toplam Goller
+Üst
+Alt
+0.5
+2.52
+1.46
+1
+6.70
+1.075
+1-30 Dk. Karşılıklı Gol
+Evet
+Hayır
+6.00
+1.095
+1-60 Dk. Galibi
+Cruzeiro EC
+X
+SE Palmeiras
+2.86
+2.67
+2.66
+1-60 Dk. Gol Handikapı
+Cruzeiro EC
+SE Palmeiras
+0
+1.91
+0
+1.79
+1-60 Dk. Toplam Goller
+Üst
+Alt
+1.5
+1.64
+2.12
+2
+2.23
+1.58
+1-60 Dk. Cruzeiro EC Toplam Goller
+Üst
+Alt
+0.5
+1.55
+2.30
+1
+2.39
+1.51
+1-60 Dk. SE Palmeiras Toplam Goller
+Üst
+Alt
+0.5
+1.51
+2.39
+1
+2.25
+1.57
+1-60 Dk. Karşılıklı Gol
+Evet
+Hayır
+2.39
+1.51
+1-75 Dk. Galibi
+Cruzeiro EC
+X
+SE Palmeiras
+2.68
+3.10
+2.48
+1-75 Dk. Gol Handikapı
+Cruzeiro EC
+SE Palmeiras
+0
+1.92
+0
+1.78
+1-75 Dk. Toplam Goller
+Üst
+Alt
+2
+1.55
+2.30
+2.5
+2.02
+1.70
+1-75 Dk. Cruzeiro EC Toplam Goller
+Üst
+Alt
+1
+1.75
+1.95
+1.5
+2.62
+1.43
+1-75 Dk. SE Palmeiras Toplam Goller
+Üst
+Alt
+1
+1.65
+2.10
+1.5
+2.45
+1.48
+1-75 Dk. Karşılıklı Gol
+Evet
+Hayır
+1.83
+1.87
+Farklı Kombineler
+Cruzeiro EC Kazanır veya Üst (2.5) Gol
+1.31
+Beraberlik veya Üst 2.5 Gol
+1.23
+SE Palmeiras Kazanır veya 2.5 Üst Gol
+1.30
+Cruzeiro EC Kazanır veya Alt (2.5) Gol
+1.37
+Beraberlik veya Alt 2.5 Gol
+1.67
+SE Palmeiras kazanır veya 2,5 alt gol
+1.34
+Daha Fazla Seçeneği Göster
+Çifte Şans Kombo
+1X ve Üst (2.5) Gol
+2.66
+1X ve Alt (2.5) Gol
+2.87
+X2 ve Üst (2.5) Gol
+2.56
+X2 ve Alt (2.5) Gol
+2.83
+12 ve Üst (2.5) Gol
+1.86
+12 ve Alt (2.5) Gol
+3.41
+1X ve Karşılıklı Gol Olur
+2.18
+Cruzeiro EC 0'a karşı kazanır veya Doğru Skor 0-0
+3.96
+X2 ve Karşılıklı Gol Olur
+2.13
+SE Palmeiras 0'a karşı kazanır veya Doğru Skor 0 : 0
+3.78
+12 ve Karşılıklı Gol Olur
+2.23
+Cruzeiro EC veya SE Palmeiras - Gol Yemeden Kazanır
+2.63
+Daha Fazla Seçeneği Göster
+1.Yarı/Maç Skoru
+0-0/0-0
+17.00
+0-1/0-1
+21.00
+0-2/0-2
+56.00
+0-3/0-3
+201.00
+0-4/0-4
+501.00
+1-0/1-0
+21.00
+1-1/1-1
+31.00
+1-2/1-2
+81.00
+1-3/1-3
+301.00
+1-4/1-4
+501.00
+2-0/2-0
+61.00
+2-1/2-1
+86.00
+2-2/2-2
+226.00
+2-3/2-3
+501.00
+2-4/2-4
+501.00
+3-0/3-0
+251.00
+3-1/3-1
+351.00
+3-2/3-2
+501.00
+Daha Fazla Seçeneği Göster
+Karşılıklı Gol ve Toplam Goller 2.5
+Evet ve Üst 2.5
+1.73
+Evet ve Alt 2.5
+5.20
+Hayır ve Üst 2.5
+7.10
+Hayır ve Alt 2.5
+2.57
+Karşılıklı Gol ve Toplam Goller 3.5
+Evet ve Üst 3.5
+2.42
+Evet ve Alt 3.5
+2.61
+Hayır ve Üst 3.5
+17.00
+Hayır ve Alt 3.5
+2.24
+Her İki Yarıda da Karşılıklı Gol
+Evet
+Hayır
+8.20
+1.045
+İlk Golü Atacak Takım ve Maç Sonucu
+Cruzeiro EC ve Cruzeiro EC
+2.76
+Cruzeiro EC ve Berabere
+6.50
+Cruzeiro EC ve SE Palmeiras
+10.00
+SE Palmeiras ve Cruzeiro EC
+10.00
+SE Palmeiras ve Berabere
+6.50
+SE Palmeiras ve SE Palmeiras
+2.63
+Gol Yok
+17.00
+İlk Golü Atacak Takım ve 1. Yarı Sonucu
+Cruzeiro EC ve Cruzeiro EC
+2.96
+Cruzeiro EC ve Berabere
+4.40
+Cruzeiro EC ve SE Palmeiras
+31.00
+SE Palmeiras ve Cruzeiro EC
+34.00
+SE Palmeiras ve Berabere
+4.30
+SE Palmeiras ve SE Palmeiras
+2.75
+Gol Yok
+17.00
+İlk Golü Atacak Takım ve 2. Yarı Sonucu
+Cruzeiro EC ve Cruzeiro EC
+4.00
+Cruzeiro EC ve Berabere
+5.10
+Cruzeiro EC ve SE Palmeiras
+5.85
+SE Palmeiras ve Cruzeiro EC
+5.70
+SE Palmeiras ve Berabere
+4.90
+SE Palmeiras ve SE Palmeiras
+3.66
+Gol Yok
+17.00
+1.Yarı Toplam Gol 'e karşı 2. Yarı Toplam Gol Handikapı
+İlk Yarı Toplam Goller
+İkinci Yarı Toplam Goller
++1.5
+1.25
+-1.5
+3.57
++0.5
+1.71
+-0.5
+2.02
+-0.5
+2.97
++0.5
+1.36
+Cruzeiro EC : Geriden Gelerek Kazanır
+Evet
+Hayır
+7.50
+1.055
+SE Palmeiras : Geriden Kazanır
+Evet
+Hayır
+7.30
+1.06
+İlk Yarı/Maç Sonucu ve Toplam Gol
+Cruzeiro EC/Cruzeiro EC ve Üst (1.5)
+4.30
+Cruzeiro EC/Cruzeiro EC ve Alt (1.5)
+21.00
+Cruzeiro EC/Beraberlik ve Üst (1.5)
+15.00
+Cruzeiro EC/SE Palmeiras ve Üst (1.5)
+29.00
+Beraberlik/Cruzeiro EC ve Üst (1.5)
+8.00
+Beraberlik/Cruzeiro EC ve Alt (1.5)
+17.00
+Beraberlik/Beraberlik ve Üst (1.5)
+7.80
+Beraberlik/Beraberlik ve Alt (1.5)
+17.00
+Beraberlik/SE Palmeiras ve Üst (1.5)
+7.40
+Beraberlik/SE Palmeiras ve Alt (1.5)
+17.00
+SE Palmeiras/Cruzeiro EC ve Üst (1.5)
+29.00
+SE Palmeiras/Beraberlik ve Üst (1.5)
+14.00
+Daha Fazla Seçeneği Göster
+Oyuncu Kaleyi Bulan Şutlar
+YENİ
+Agustin Giay 1+
+3.20
+Agustin Giay 2+
+11.00
+Agustin Giay 3+
+29.00
+Alexander Barboza 1+
+3.05
+Alexander Barboza 2+
+12.00
+Alexander Barboza 3+
+26.00
+Andreas Pereira 1+
+1.99
+Andreas Pereira 2+
+6.00
+Andreas Pereira 3+
+17.00
+Andreas Pereira 4+
+34.00
+Arthur Gabriel 1+
+3.70
+Arthur Gabriel 2+
+13.00
+Arthur Gabriel 3+
+36.00
+Bruno Fuchs 1+
+5.30
+Bruno Fuchs 2+
+19.00
+Emiliano Martinez 1+
+3.20
+Emiliano Martinez 2+
+12.00
+Emiliano Martinez 3+
+26.00
+Erick Bele 1+
+1.71
+Erick Bele 2+
+4.33
+Erick Bele 3+
+13.00
+Erick Bele 4+
+25.00
+Fabiano 1+
+1.59
+Fabiano 2+
+3.80
+Fabiano 3+
+11.00
+Fabiano 4+
+21.00
+Fabricio Bruno 1+
+4.20
+Fabricio Bruno 2+
+15.00
+Fabricio Bruno 3+
+36.00
+Fagner 1+
+5.30
+Fagner 2+
+17.00
+Felipe Anderson 1+
+1.86
+Felipe Anderson 2+
+5.30
+Felipe Anderson 3+
+14.00
+Felipe Anderson 4+
+29.00
+Flaco Lopez 1+
+1.32
+Flaco Lopez 2+
+2.43
+Flaco Lopez 3+
+5.70
+Flaco Lopez 4+
+14.00
+Gabriel Rojas 1+
+4.75
+Gabriel Rojas 2+
+17.00
+Gerson 1+
+2.13
+Gerson 2+
+6.90
+Gerson 3+
+19.00
+Gerson 4+
+36.00
+Jhon Arias 1+
+1.61
+Jhon Arias 2+
+3.90
+Jhon Arias 3+
+11.00
+Jhon Arias 4+
+21.00
+Joao Costa 1+
+1.78
+Joao Costa 2+
+4.80
+Joao Costa 3+
+14.00
+Joao Costa 4+
+26.00
+Kaio Jorge 1+
+1.28
+Kaio Jorge 2+
+2.23
+Kaio Jorge 3+
+5.00
+Kaio Jorge 4+
+12.00
+Khellven 1+
+3.80
+Khellven 2+
+13.00
+Larson 1+
+2.09
+Larson 2+
+6.80
+Larson 3+
+14.00
+Larson 4+
+36.00
+Lucas Evangelista 1+
+2.85
+Lucas Evangelista 2+
+11.00
+Lucas Evangelista 3+
+25.00
+Lucas Romero 1+
+3.15
+Lucas Romero 2+
+13.00
+Lucas Romero 3+
+26.00
+Lucas Silva 1+
+4.10
+Lucas Silva 2+
+14.00
+Lucas Silva 3+
+36.00
+Lucas Villalba 1+
+3.95
+Lucas Villalba 2+
+15.00
+Lucas Villalba 3+
+36.00
+Luciano Rodriguez 1+
+1.38
+Luciano Rodriguez 2+
+2.70
+Luciano Rodriguez 3+
+6.70
+Luciano Rodriguez 4+
+15.00
+Luis Benedetti 1+
+3.45
+Luis Benedetti 2+
+13.00
+Luis Benedetti 3+
+34.00
+Luis Pacheco 1+
+4.10
+Luis Pacheco 2+
+14.00
+Luis Pacheco 3+
+36.00
+Marlon Freitas 1+
+3.10
+Marlon Freitas 2+
+12.00
+Marlon Freitas 3+
+26.00
+Marquinhos 1+
+2.28
+Marquinhos 2+
+7.90
+Marquinhos 3+
+17.00
+Matheus Henrique 1+
+3.25
+Matheus Henrique 2+
+13.00
+Matheus Henrique 3+
+29.00
+Matheus Pereira 1+
+1.43
+Matheus Pereira 2+
+2.95
+Matheus Pereira 3+
+7.80
+Matheus Pereira 4+
+17.00
+Matias Vina 1+
+5.40
+Matias Vina 2+
+19.00
+Neiser Villarreal 1+
+1.40
+Neiser Villarreal 2+
+2.80
+Neiser Villarreal 3+
+7.10
+Neiser Villarreal 4+
+15.00
+Ramon Sosa 1+
+1.42
+Ramon Sosa 2+
+2.90
+Ramon Sosa 3+
+7.50
+Ramon Sosa 4+
+17.00
+Vitor Roque 1+
+1.26
+Vitor Roque 2+
+2.11
+Vitor Roque 3+
+4.60
+Vitor Roque 4+
+11.00
+Wanderson 1+
+1.72
+Wanderson 2+
+4.50
+Wanderson 3+
+13.00
+Wanderson 4+
+25.00
+William 1+
+4.00
+William 2+
+15.00
+William 3+
+36.00
+Ze Lucas 1+
+2.47
+Ze Lucas 2+
+8.90
+Ze Lucas 3+
+19.00
+Oyuncu Şutları
+YENİ
+Agustin Giay 1+
+1.47
+Agustin Giay 2+
+3.15
+Agustin Giay 3+
+8.10
+Agustin Giay 4+
+19.00
+Alexander Barboza 1+
+1.49
+Alexander Barboza 2+
+3.30
+Alexander Barboza 3+
+8.90
+Alexander Barboza 4+
+19.00
+Andreas Pereira 1+
+1.14
+Andreas Pereira 2+
+1.58
+Andreas Pereira 3+
+2.75
+Andreas Pereira 4+
+5.50
+Arthur Gabriel 1+
+1.48
+Arthur Gabriel 2+
+3.20
+Arthur Gabriel 3+
+8.40
+Arthur Gabriel 4+
+19.00
+Bruno Fuchs 1+
+2.21
+Bruno Fuchs 2+
+6.90
+Bruno Fuchs 3+
+19.00
+Emiliano Martinez 1+
+1.57
+Emiliano Martinez 2+
+3.65
+Emiliano Martinez 3+
+10.00
+Emiliano Martinez 4+
+19.00
+Erick Bele 2+
+1.38
+Erick Bele 3+
+2.12
+Erick Bele 4+
+3.90
+Erick Bele 5+
+8.00
+Fabiano 2+
+1.45
+Fabiano 3+
+2.30
+Fabiano 4+
+4.30
+Fabiano 5+
+8.90
+Fabricio Bruno 1+
+1.70
+Fabricio Bruno 2+
+4.50
+Fabricio Bruno 3+
+12.00
+Fabricio Bruno 4+
+23.00
+Fagner 1+
+1.74
+Fagner 2+
+4.70
+Fagner 3+
+13.00
+Fagner 4+
+25.00
+Felipe Anderson 2+
+1.44
+Felipe Anderson 3+
+2.30
+Felipe Anderson 4+
+4.40
+Felipe Anderson 5+
+9.30
+Flaco Lopez 3+
+1.35
+Flaco Lopez 4+
+1.85
+Flaco Lopez 5+
+2.85
+Flaco Lopez 6+
+4.85
+Gabriel Rojas 1+
+1.70
+Gabriel Rojas 2+
+4.40
+Gabriel Rojas 3+
+13.00
+Gabriel Rojas 4+
+25.00
+Gerson 1+
+1.16
+Gerson 2+
+1.68
+Gerson 3+
+3.10
+Gerson 4+
+6.70
+Jhon Arias 2+
+1.35
+Jhon Arias 3+
+2.01
+Jhon Arias 4+
+3.55
+Jhon Arias 5+
+7.20
+Joao Costa 2+
+1.45
+Joao Costa 3+
+2.33
+Joao Costa 4+
+4.50
+Joao Costa 5+
+9.50
+Kaio Jorge 2+
+1.14
+Kaio Jorge 3+
+1.43
+Kaio Jorge 4+
+2.04
+Kaio Jorge 5+
+3.35
+Kaio Jorge 6+
+6.20
+Khellven 1+
+1.43
+Khellven 2+
+2.90
+Khellven 3+
+6.90
+Khellven 4+
+17.00
+Larson 1+
+1.17
+Larson 2+
+1.72
+Larson 3+
+3.15
+Larson 4+
+6.90
+Lucas Evangelista 1+
+1.24
+Lucas Evangelista 2+
+2.03
+Lucas Evangelista 3+
+4.30
+Lucas Evangelista 4+
+10.00
+Lucas Romero 1+
+1.36
+Lucas Romero 2+
+2.60
+Lucas Romero 3+
+6.40
+Lucas Romero 4+
+15.00
+Lucas Silva 1+
+1.41
+Lucas Silva 2+
+2.85
+Lucas Silva 3+
+7.40
+Lucas Silva 4+
+17.00
+Lucas Villalba 1+
+1.58
+Lucas Villalba 2+
+3.75
+Lucas Villalba 3+
+11.00
+Lucas Villalba 4+
+21.00
+Luciano Rodriguez 2+
+1.18
+Luciano Rodriguez 3+
+1.53
+Luciano Rodriguez 4+
+2.29
+Luciano Rodriguez 5+
+3.90
+Luis Benedetti 1+
+1.56
+Luis Benedetti 2+
+3.65
+Luis Benedetti 3+
+10.00
+Luis Benedetti 4+
+21.00
+Luis Pacheco 1+
+1.38
+Luis Pacheco 2+
+2.65
+Luis Pacheco 3+
+6.60
+Luis Pacheco 4+
+17.00
+Marlon Freitas 1+
+1.30
+Marlon Freitas 2+
+2.32
+Marlon Freitas 3+
+5.30
+Marlon Freitas 4+
+13.00
+Marquinhos 1+
+1.11
+Marquinhos 2+
+1.48
+Marquinhos 3+
+2.43
+Marquinhos 4+
+4.85
+Marquinhos 5+
+10.00
+Matheus Henrique 1+
+1.34
+Matheus Henrique 2+
+2.50
+Matheus Henrique 3+
+6.00
+Matheus Henrique 4+
+14.00
+Matheus Pereira 2+
+1.19
+Matheus Pereira 3+
+1.55
+Matheus Pereira 4+
+2.35
+Matheus Pereira 5+
+4.10
+Matias Vina 1+
+1.65
+Matias Vina 2+
+4.10
+Matias Vina 3+
+11.00
+Matias Vina 4+
+23.00
+Neiser Villarreal 2+
+1.16
+Neiser Villarreal 3+
+1.48
+Neiser Villarreal 4+
+2.19
+Neiser Villarreal 5+
+3.70
+Neiser Villarreal 6+
+6.90
+Ramon Sosa 2+
+1.19
+Ramon Sosa 3+
+1.56
+Ramon Sosa 4+
+2.38
+Ramon Sosa 5+
+4.20
+Ramon Sosa 6+
+8.10
+Vitor Roque 3+
+1.33
+Vitor Roque 4+
+1.81
+Vitor Roque 5+
+2.80
+Vitor Roque 6+
+4.85
+Wanderson 2+
+1.41
+Wanderson 3+
+2.19
+Wanderson 4+
+4.10
+Wanderson 5+
+8.50
+William 1+
+1.57
+William 2+
+3.65
+William 3+
+10.00
+William 4+
+19.00
+Ze Lucas 1+
+1.32
+Ze Lucas 2+
+2.43
+Ze Lucas 3+
+5.70
+Ze Lucas 4+
+13.00
+Oyuncu Pasları
+YENİ
+Agustin Giay 40+
+1.40
+Agustin Giay 45+
+1.75
+Agustin Giay 50+
+2.38
+Agustin Giay 55+
+3.45
+Alexander Barboza 50+
+1.38
+Alexander Barboza 55+
+1.63
+Alexander Barboza 60+
+2.05
+Alexander Barboza 65+
+2.70
+Alexander Barboza 70+
+3.70
+Arthur Gabriel 35+
+1.51
+Arthur Gabriel 40+
+1.96
+Arthur Gabriel 45+
+2.80
+Bruno Fuchs 55+
+1.59
+Bruno Fuchs 60+
+1.97
+Bruno Fuchs 65+
+2.60
+Bruno Fuchs 70+
+3.50
+Emiliano Martinez 50+
+1.41
+Emiliano Martinez 55+
+1.70
+Emiliano Martinez 60+
+2.16
+Emiliano Martinez 65+
+2.90
+Erick Bele 35+
+1.49
+Erick Bele 40+
+1.92
+Erick Bele 45+
+2.75
+Fabiano 30+
+1.36
+Fabiano 35+
+1.67
+Fabiano 40+
+2.26
+Fabiano 45+
+3.35
+Fabricio Bruno 55+
+1.42
+Fabricio Bruno 60+
+1.69
+Fabricio Bruno 65+
+2.10
+Fabricio Bruno 70+
+2.75
+Fagner 35+
+1.49
+Fagner 40+
+1.92
+Fagner 45+
+2.75
+Felipe Anderson 35+
+1.30
+Felipe Anderson 40+
+1.57
+Felipe Anderson 45+
+2.06
+Felipe Anderson 50+
+3.00
+Flaco Lopez 20+
+1.51
+Flaco Lopez 25+
+1.96
+Flaco Lopez 30+
+2.80
+Gabriel Rojas 35+
+1.37
+Gabriel Rojas 40+
+1.70
+Gabriel Rojas 45+
+2.31
+Gabriel Rojas 50+
+3.45
+Jhon Arias 40+
+1.53
+Jhon Arias 45+
+2.00
+Jhon Arias 50+
+2.85
+Joao Costa 25+
+1.33
+Joao Costa 30+
+1.62
+Joao Costa 35+
+2.17
+Joao Costa 40+
+3.20
+Kaio Jorge 20+
+1.56
+Kaio Jorge 25+
+2.05
+Kaio Jorge 30+
+2.95
+Khellven 35+
+1.36
+Khellven 40+
+1.69
+Khellven 45+
+2.29
+Khellven 50+
+3.40
+Lucas Evangelista 60+
+1.55
+Lucas Evangelista 65+
+1.87
+Lucas Evangelista 70+
+2.37
+Lucas Evangelista 75+
+3.10
+Lucas Romero 60+
+1.50
+Lucas Romero 65+
+1.79
+Lucas Romero 70+
+2.24
+Lucas Romero 75+
+2.90
+Lucas Silva 50+
+1.46
+Lucas Silva 55+
+1.78
+Lucas Silva 60+
+2.31
+Lucas Silva 65+
+3.15
+Luis Benedetti 35+
+1.51
+Luis Benedetti 40+
+1.96
+Luis Benedetti 45+
+2.80
+Luis Pacheco 55+
+1.56
+Luis Pacheco 60+
+1.92
+Luis Pacheco 65+
+2.50
+Luis Pacheco 70+
+3.40
+Marlon Freitas 65+
+1.58
+Marlon Freitas 70+
+1.89
+Marlon Freitas 75+
+2.36
+Marlon Freitas 80+
+3.05
+Marquinhos 25+
+1.37
+Marquinhos 30+
+1.69
+Marquinhos 35+
+2.29
+Marquinhos 40+
+3.40
+Matheus Henrique 55+
+1.62
+Matheus Henrique 60+
+2.03
+Matheus Henrique 65+
+2.70
+Matheus Henrique 70+
+3.65
+Matheus Pereira 40+
+1.40
+Matheus Pereira 45+
+1.76
+Matheus Pereira 50+
+2.41
+Matheus Pereira 55+
+3.50
+Neiser Villarreal 15+
+2.55
+Neiser Villarreal 20+
+3.90
+Vitor Roque 15+
+1.54
+Vitor Roque 20+
+2.01
+Vitor Roque 25+
+2.90
+Wanderson 25+
+1.33
+Wanderson 30+
+1.62
+Wanderson 35+
+2.17
+Wanderson 40+
+3.20
+William 40+
+1.36
+William 45+
+1.68
+William 50+
+2.25
+William 55+
+3.20
+Ze Lucas 45+
+1.47
+Ze Lucas 50+
+1.83
+Ze Lucas 55+
+2.46
+Ze Lucas 60+
+3.50
+Oyuncu Pas Denemeleri
+YENİ
+Agustin Giay 50+
+1.55
+Agustin Giay 55+
+2.00
+Agustin Giay 60+
+2.80
+Agustin Giay 65+
+4.00
+Alexander Barboza 60+
+1.43
+Alexander Barboza 65+
+1.70
+Alexander Barboza 70+
+2.15
+Alexander Barboza 75+
+2.85
+Arthur Gabriel 40+
+1.34
+Arthur Gabriel 45+
+1.64
+Arthur Gabriel 50+
+2.21
+Arthur Gabriel 55+
+3.25
+Bruno Fuchs 60+
+1.50
+Bruno Fuchs 65+
+1.84
+Bruno Fuchs 70+
+2.39
+Bruno Fuchs 75+
+3.25
+Emiliano Martinez 60+
+1.56
+Emiliano Martinez 65+
+1.94
+Emiliano Martinez 70+
+2.55
+Emiliano Martinez 75+
+3.50
+Erick Bele 40+
+1.51
+Erick Bele 45+
+1.97
+Erick Bele 50+
+2.80
+Fabiano 35+
+1.28
+Fabiano 40+
+1.53
+Fabiano 45+
+2.00
+Fabiano 50+
+2.85
+Fabricio Bruno 65+
+1.59
+Fabricio Bruno 70+
+1.96
+Fabricio Bruno 75+
+2.55
+Fabricio Bruno 80+
+3.45
+Fagner 40+
+1.36
+Fagner 45+
+1.68
+Fagner 50+
+2.27
+Fagner 55+
+3.35
+Felipe Anderson 45+
+1.34
+Felipe Anderson 50+
+1.64
+Felipe Anderson 55+
+2.17
+Felipe Anderson 60+
+3.10
+Flaco Lopez 25+
+1.32
+Flaco Lopez 30+
+1.61
+Flaco Lopez 35+
+2.15
+Flaco Lopez 40+
+3.15
+Gabriel Rojas 45+
+1.40
+Gabriel Rojas 50+
+1.76
+Gabriel Rojas 55+
+2.42
+Gabriel Rojas 60+
+3.55
+Jhon Arias 45+
+1.48
+Jhon Arias 50+
+1.90
+Jhon Arias 55+
+2.70
+Joao Costa 35+
+1.51
+Joao Costa 40+
+1.95
+Joao Costa 45+
+2.80
+Kaio Jorge 25+
+1.52
+Kaio Jorge 30+
+1.98
+Kaio Jorge 35+
+2.85
+Khellven 45+
+1.45
+Khellven 50+
+1.85
+Khellven 55+
+2.60
+Khellven 60+
+3.85
+Lucas Evangelista 65+
+1.52
+Lucas Evangelista 70+
+1.84
+Lucas Evangelista 75+
+2.35
+Lucas Evangelista 80+
+3.15
+Lucas Romero 70+
+1.60
+Lucas Romero 75+
+1.95
+Lucas Romero 80+
+2.49
+Lucas Romero 85+
+3.30
+Lucas Silva 55+
+1.40
+Lucas Silva 60+
+1.68
+Lucas Silva 65+
+2.15
+Lucas Silva 70+
+2.90
+Luis Benedetti 40+
+1.49
+Luis Benedetti 45+
+1.92
+Luis Benedetti 50+
+2.70
+Luis Pacheco 60+
+1.52
+Luis Pacheco 65+
+1.86
+Luis Pacheco 70+
+2.43
+Luis Pacheco 75+
+3.30
+Marlon Freitas 70+
+1.46
+Marlon Freitas 75+
+1.72
+Marlon Freitas 80+
+2.12
+Marlon Freitas 85+
+2.70
+Marquinhos 30+
+1.40
+Marquinhos 35+
+1.75
+Marquinhos 40+
+2.41
+Marquinhos 45+
+3.60
+Matheus Henrique 60+
+1.57
+Matheus Henrique 65+
+1.95
+Matheus Henrique 70+
+2.60
+Matheus Henrique 75+
+3.55
+Matheus Pereira 50+
+1.50
+Matheus Pereira 55+
+1.91
+Matheus Pereira 60+
+2.65
+Matheus Pereira 65+
+3.80
+Neiser Villarreal 20+
+2.90
+Vitor Roque 20+
+1.53
+Vitor Roque 25+
+1.99
+Vitor Roque 30+
+2.85
+Wanderson 30+
+1.31
+Wanderson 35+
+1.59
+Wanderson 40+
+2.11
+Wanderson 45+
+3.10
+William 50+
+1.39
+William 55+
+1.69
+William 60+
+2.21
+William 65+
+3.10
+Ze Lucas 50+
+1.37
+Ze Lucas 55+
+1.66
+Ze Lucas 60+
+2.17
+Ze Lucas 65+
+3.00
+Oyuncunun Yaptığı Fauller
+YENİ
+Agustin Giay 1+
+1.20
+Agustin Giay 2+
+1.86
+Agustin Giay 3+
+3.70
+Agustin Giay 4+
+8.50
+Alexander Barboza 1+
+1.15
+Alexander Barboza 2+
+1.63
+Alexander Barboza 3+
+2.85
+Alexander Barboza 4+
+5.60
+Andreas Pereira 1+
+1.33
+Andreas Pereira 2+
+2.46
+Andreas Pereira 3+
+5.80
+Andreas Pereira 4+
+13.00
+Arthur Gabriel 1+
+1.30
+Arthur Gabriel 2+
+2.31
+Arthur Gabriel 3+
+5.20
+Arthur Gabriel 4+
+12.00
+Bruno Bertinato 1+
+26.00
+Bruno Fuchs 1+
+1.28
+Bruno Fuchs 2+
+2.21
+Bruno Fuchs 3+
+4.75
+Bruno Fuchs 4+
+9.70
+Carlos Miguel 1+
+26.00
+Cassio 1+
+7.20
+Emiliano Martinez 1+
+1.25
+Emiliano Martinez 2+
+2.08
+Emiliano Martinez 3+
+4.50
+Emiliano Martinez 4+
+10.00
+Erick Bele 1+
+1.32
+Erick Bele 2+
+2.44
+Erick Bele 3+
+5.80
+Erick Bele 4+
+13.00
+Fabiano 1+
+1.33
+Fabiano 2+
+2.50
+Fabiano 3+
+6.20
+Fabiano 4+
+13.00
+Fabricio Bruno 1+
+1.48
+Fabricio Bruno 2+
+3.20
+Fabricio Bruno 3+
+8.50
+Fabricio Bruno 4+
+17.00
+Fagner 1+
+1.33
+Fagner 2+
+2.48
+Fagner 3+
+6.00
+Fagner 4+
+14.00
+Felipe Anderson 1+
+1.34
+Felipe Anderson 2+
+2.50
+Felipe Anderson 3+
+6.20
+Felipe Anderson 4+
+14.00
+Flaco Lopez 1+
+1.14
+Flaco Lopez 2+
+1.61
+Flaco Lopez 3+
+2.80
+Flaco Lopez 4+
+5.80
+Gabriel Rojas 1+
+1.28
+Gabriel Rojas 2+
+2.23
+Gabriel Rojas 3+
+5.00
+Gabriel Rojas 4+
+12.00
+Gerson 1+
+1.23
+Gerson 2+
+2.01
+Gerson 3+
+4.20
+Gerson 4+
+9.50
+Jhon Arias 1+
+1.21
+Jhon Arias 2+
+1.91
+Jhon Arias 3+
+3.90
+Jhon Arias 4+
+8.90
+Joao Costa 1+
+1.14
+Joao Costa 2+
+1.60
+Joao Costa 3+
+2.85
+Joao Costa 4+
+6.20
+Kaio Jorge 1+
+1.43
+Kaio Jorge 2+
+2.95
+Kaio Jorge 3+
+7.50
+Kaio Jorge 4+
+17.00
+Khellven 1+
+1.17
+Khellven 2+
+1.74
+Khellven 3+
+3.30
+Khellven 4+
+7.10
+Larson 2+
+1.32
+Larson 3+
+1.94
+Larson 4+
+3.45
+Larson 5+
+6.90
+Leo Aragao 1+
+7.60
+Lucas Evangelista 1+
+1.23
+Lucas Evangelista 2+
+1.93
+Lucas Evangelista 3+
+3.60
+Lucas Evangelista 4+
+6.60
+Lucas Romero 1+
+1.23
+Lucas Romero 2+
+1.98
+Lucas Romero 3+
+4.10
+Lucas Romero 4+
+9.20
+Lucas Silva 1+
+1.27
+Lucas Silva 2+
+2.13
+Lucas Silva 3+
+4.60
+Lucas Silva 4+
+11.00
+Lucas Villalba 1+
+1.38
+Lucas Villalba 2+
+2.75
+Lucas Villalba 3+
+6.90
+Lucas Villalba 4+
+15.00
+Luciano Rodriguez 1+
+1.33
+Luciano Rodriguez 2+
+2.49
+Luciano Rodriguez 3+
+6.00
+Luciano Rodriguez 4+
+13.00
+Luis Benedetti 1+
+1.44
+Luis Benedetti 2+
+3.00
+Luis Benedetti 3+
+7.80
+Luis Benedetti 4+
+17.00
+Luis Pacheco 1+
+1.20
+Luis Pacheco 2+
+1.83
+Luis Pacheco 3+
+3.55
+Luis Pacheco 4+
+8.00
+Marcelo Lomba 1+
+8.80
+Marlon Freitas 1+
+1.29
+Marlon Freitas 2+
+2.28
+Marlon Freitas 3+
+5.10
+Marlon Freitas 4+
+11.00
+Marquinhos 1+
+1.14
+Marquinhos 2+
+1.61
+Marquinhos 3+
+2.90
+Marquinhos 4+
+6.20
+Matheus Henrique 1+
+1.26
+Matheus Henrique 2+
+2.15
+Matheus Henrique 3+
+4.70
+Matheus Henrique 4+
+11.00
+Matheus Pereira 1+
+1.26
+Matheus Pereira 2+
+2.13
+Matheus Pereira 3+
+4.70
+Matheus Pereira 4+
+11.00
+Matias Vina 1+
+1.43
+Matias Vina 2+
+2.95
+Matias Vina 3+
+7.80
+Matias Vina 4+
+15.00
+Neiser Villarreal 1+
+1.36
+Neiser Villarreal 2+
+2.65
+Neiser Villarreal 3+
+6.50
+Neiser Villarreal 4+
+13.00
+Otavio Costa 1+
+26.00
+Ramon Sosa 1+
+1.20
+Ramon Sosa 2+
+1.86
+Ramon Sosa 3+
+3.60
+Ramon Sosa 4+
+7.50
+Vitor Roque 1+
+1.16
+Vitor Roque 2+
+1.71
+Vitor Roque 3+
+3.20
+Vitor Roque 4+
+7.10
+Wanderson 1+
+1.35
+Wanderson 2+
+2.55
+Wanderson 3+
+6.30
+Wanderson 4+
+14.00
+William 1+
+1.19
+William 2+
+1.80
+William 3+
+3.40
+William 4+
+7.10
+Ze Lucas 1+
+1.15
+Ze Lucas 2+
+1.65
+Ze Lucas 3+
+3.00
+Ze Lucas 4+
+6.20
+Oyuncuya Faul Yapılır
+YENİ
+Agustin Giay 1+
+1.16
+Agustin Giay 2+
+1.66
+Agustin Giay 3+
+2.90
+Agustin Giay 4+
+5.60
+Alexander Barboza 1+
+1.75
+Alexander Barboza 2+
+4.60
+Alexander Barboza 3+
+10.00
+Alexander Barboza 4+
+25.00
+Andreas Pereira 1+
+1.31
+Andreas Pereira 2+
+2.38
+Andreas Pereira 3+
+5.60
+Andreas Pereira 4+
+13.00
+Arthur Gabriel 1+
+1.45
+Arthur Gabriel 2+
+3.10
+Arthur Gabriel 3+
+8.30
+Arthur Gabriel 4+
+15.00
+Bruno Fuchs 1+
+1.59
+Bruno Fuchs 2+
+3.70
+Bruno Fuchs 3+
+8.90
+Bruno Fuchs 4+
+19.00
+Emiliano Martinez 1+
+1.40
+Emiliano Martinez 2+
+2.80
+Emiliano Martinez 3+
+7.00
+Emiliano Martinez 4+
+14.00
+Erick Bele 1+
+1.20
+Erick Bele 2+
+1.87
+Erick Bele 3+
+3.80
+Erick Bele 4+
+8.70
+Fabiano 1+
+1.19
+Fabiano 2+
+1.82
+Fabiano 3+
+3.60
+Fabiano 4+
+8.20
+Fabricio Bruno 1+
+1.86
+Fabricio Bruno 2+
+5.40
+Fabricio Bruno 3+
+13.00
+Fabricio Bruno 4+
+29.00
+Fagner 1+
+1.39
+Fagner 2+
+2.75
+Fagner 3+
+6.70
+Fagner 4+
+14.00
+Felipe Anderson 1+
+1.24
+Felipe Anderson 2+
+2.04
+Felipe Anderson 3+
+4.30
+Felipe Anderson 4+
+10.00
+Flaco Lopez 2+
+1.32
+Flaco Lopez 3+
+1.93
+Flaco Lopez 4+
+3.40
+Flaco Lopez 5+
+6.80
+Gabriel Rojas 1+
+1.31
+Gabriel Rojas 2+
+2.38
+Gabriel Rojas 3+
+5.50
+Gabriel Rojas 4+
+12.00
+Gerson 2+
+1.31
+Gerson 3+
+1.92
+Gerson 4+
+3.35
+Gerson 5+
+6.70
+Jhon Arias 1+
+1.11
+Jhon Arias 2+
+1.50
+Jhon Arias 3+
+2.48
+Jhon Arias 4+
+5.00
+Joao Costa 1+
+1.38
+Joao Costa 2+
+2.75
+Joao Costa 3+
+7.00
+Joao Costa 4+
+13.00
+Kaio Jorge 1+
+1.24
+Kaio Jorge 2+
+2.06
+Kaio Jorge 3+
+4.40
+Kaio Jorge 4+
+10.00
+Khellven 1+
+1.38
+Khellven 2+
+2.70
+Khellven 3+
+6.40
+Khellven 4+
+13.00
+Larson 1+
+1.19
+Larson 2+
+1.85
+Larson 3+
+3.70
+Larson 4+
+8.50
+Lucas Evangelista 1+
+1.12
+Lucas Evangelista 2+
+1.52
+Lucas Evangelista 3+
+2.50
+Lucas Evangelista 4+
+4.85
+Lucas Romero 1+
+1.28
+Lucas Romero 2+
+2.23
+Lucas Romero 3+
+5.10
+Lucas Romero 4+
+12.00
+Lucas Silva 1+
+1.43
+Lucas Silva 2+
+3.00
+Lucas Silva 3+
+7.70
+Lucas Silva 4+
+17.00
+Lucas Villalba 1+
+1.55
+Lucas Villalba 2+
+3.65
+Lucas Villalba 3+
+10.00
+Lucas Villalba 4+
+21.00
+Luciano Rodriguez 1+
+1.23
+Luciano Rodriguez 2+
+2.01
+Luciano Rodriguez 3+
+4.30
+Luciano Rodriguez 4+
+10.00
+Luis Benedetti 1+
+1.79
+Luis Benedetti 2+
+5.10
+Luis Benedetti 3+
+12.00
+Luis Benedetti 4+
+25.00
+Luis Pacheco 1+
+1.35
+Luis Pacheco 2+
+2.60
+Luis Pacheco 3+
+6.50
+Luis Pacheco 4+
+13.00
+Marlon Freitas 1+
+1.68
+Marlon Freitas 2+
+4.33
+Marlon Freitas 3+
+12.00
+Marlon Freitas 4+
+23.00
+Marquinhos 2+
+1.42
+Marquinhos 3+
+2.25
+Marquinhos 4+
+4.33
+Marquinhos 5+
+9.00
+Matheus Henrique 1+
+1.23
+Matheus Henrique 2+
+2.02
+Matheus Henrique 3+
+4.30
+Matheus Henrique 4+
+9.50
+Matheus Pereira 2+
+1.06
+Matheus Pereira 3+
+1.19
+Matheus Pereira 4+
+1.46
+Matheus Pereira 5+
+2.01
+Matias Vina 1+
+1.35
+Matias Vina 2+
+2.55
+Matias Vina 3+
+6.20
+Matias Vina 4+
+12.00
+Neiser Villarreal 2+
+1.35
+Neiser Villarreal 3+
+2.00
+Neiser Villarreal 4+
+3.50
+Neiser Villarreal 5+
+6.90
+Ramon Sosa 1+
+1.11
+Ramon Sosa 2+
+1.50
+Ramon Sosa 3+
+2.48
+Ramon Sosa 4+
+5.00
+Vitor Roque 2+
+1.03
+Vitor Roque 3+
+1.11
+Vitor Roque 4+
+1.25
+Vitor Roque 5+
+1.50
+Wanderson 1+
+1.38
+Wanderson 2+
+2.75
+Wanderson 3+
+7.00
+Wanderson 4+
+13.00
+William 1+
+1.57
+William 2+
+3.75
+William 3+
+10.00
+William 4+
+19.00
+Ze Lucas 1+
+1.12
+Ze Lucas 2+
+1.50
+Ze Lucas 3+
+2.50
+Ze Lucas 4+
+5.10

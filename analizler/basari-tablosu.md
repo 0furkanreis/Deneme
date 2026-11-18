@@ -18,6 +18,7 @@
 | 18.11 | Juventus K – Leuven K (site oranıyla) | Sarı kart toplam 2,5 Alt @1,67 | %72 (harman %64) | bekliyor | — |
 | 18.11 | Alianza Atlético – Melgar (çok kaynaklı) | Sarı kart toplam 4,5 Alt @1,70 | %70 (harman %61) | bekliyor | — |
 | 18.11 | Deportiva Minera – Cartagena (canlı, 32' 0-0, korner 3-0) | Toplam korner 7 Üst @1,80 | %64 (temkinli) | ✅ (8 korner, kullanıcı bildirdi) | — |
+| 18.11 | Cruzeiro – Palmeiras (çok kaynaklı) | Kornerler: Palmeiras @2,11 | %55–64 | bekliyor | — |
 | 18.11 | Dunipace – Linlithgow Rose | Oynama (tek fark gol altı yönünde; kural gereği piyasaya karşı alt oynanmıyor) | — | — | — |
 
 Ana öneriler: 4 tuttu / 2 tutmadı (1 değerlendirilemedi).
