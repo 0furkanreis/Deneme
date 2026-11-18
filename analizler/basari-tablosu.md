@@ -24,6 +24,8 @@
 | 18.11 | Coritiba – Santos | Oynama (penaltı 2,80 < eşik 2,90) | — | — | — |
 | 19.11 | Corinthians – Botafogo (çok kaynaklı) | Botafogo sarı kart 2,5 Alt @1,94 | %55–73 | bekliyor | — |
 | 19.11 | Grêmio – Bahia (çok kaynaklı) | Toplam korner 11,5 Üst @2,15 (+ alternatif sarı 4,5 Alt @2,50) | %56 (temkinli) | bekliyor | — |
+| 19.11 | NBA kupon (0,5 birim) | MEM +4,5 · CHI–BKN Alt 239,5 · BOS–DEN Üst 218,5 | ~%20 (kombine) | bekliyor | — |
+| 19.11 | NBA eğlence (0,1–0,2 birim) | GS–DAL İY/MS 2/1 · BOS–DEN İY/MS 1/2 | ~%12 her biri | bekliyor | — |
 | 18.11 | Dunipace – Linlithgow Rose | Oynama (tek fark gol altı yönünde; kural gereği piyasaya karşı alt oynanmıyor) | — | — | — |
 
 Ana öneriler: 4 tuttu / 2 tutmadı (1 değerlendirilemedi).
