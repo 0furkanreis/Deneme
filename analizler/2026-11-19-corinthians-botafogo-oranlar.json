@@ -1,0 +1,970 @@
+[
+ {
+  "secim": "Sarı Kartlar 1",
+  "pazar": "Sarı Kartlar : Sonuç",
+  "etiket": "1 (Corinthians SP)",
+  "olasilik": 0.4957,
+  "oran": 2.8,
+  "deger": 0.38795999999999986
+ },
+ {
+  "secim": "Sarı Kartlar : Botafogo : Toplam 2,5 Alt",
+  "pazar": "Sarı Kartlar : Botafogo : Toplam",
+  "etiket": "Botafogo 2,5 Alt",
+  "olasilik": 0.6829,
+  "oran": 1.94,
+  "deger": 0.32482599999999984
+ },
+ {
+  "secim": "Toplam Korner : Botafogo 4,5 Üst",
+  "pazar": "Toplam Korner : Botafogo",
+  "etiket": "Botafogo 4,5 Üst",
+  "olasilik": 0.4875,
+  "oran": 2.45,
+  "deger": 0.19437499999999996
+ },
+ {
+  "secim": "Toplam Korner : Corinthians SP 5,5 Alt",
+  "pazar": "Toplam Korner : Corinthians SP",
+  "etiket": "Corinthians SP 5,5 Alt",
+  "olasilik": 0.4797,
+  "oran": 2.4,
+  "deger": 0.15128000000000008
+ },
+ {
+  "secim": "Sarı Kartlar : Toplam 4,5 Alt",
+  "pazar": "Sarı Kartlar : Toplam",
+  "etiket": "Toplam 4,5 Alt",
+  "olasilik": 0.542,
+  "oran": 2.08,
+  "deger": 0.12736000000000014
+ },
+ {
+  "secim": "Toplam Korner : Botafogo 3,5 Üst",
+  "pazar": "Toplam Korner : Botafogo",
+  "etiket": "Botafogo 3,5 Üst",
+  "olasilik": 0.6745,
+  "oran": 1.67,
+  "deger": 0.12641499999999994
+ },
+ {
+  "secim": "Toplam Korner : Corinthians SP 6,5 Alt",
+  "pazar": "Toplam Korner : Corinthians SP",
+  "etiket": "Corinthians SP 6,5 Alt",
+  "olasilik": 0.6394,
+  "oran": 1.76,
+  "deger": 0.1253439999999999
+ },
+ {
+  "secim": "Sarı Kartlar : Toplam 5,5 Alt",
+  "pazar": "Sarı Kartlar : Toplam",
+  "etiket": "Toplam 5,5 Alt",
+  "olasilik": 0.7128,
+  "oran": 1.53,
+  "deger": 0.090584
+ },
+ {
+  "secim": "Toplam Korner : Corinthians SP 7,5 Alt",
+  "pazar": "Toplam Korner : Corinthians SP",
+  "etiket": "Corinthians SP 7,5 Alt",
+  "olasilik": 0.7724,
+  "oran": 1.4,
+  "deger": 0.08135999999999988
+ },
+ {
+  "secim": "Kornerler 2",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "2 (Botafogo)",
+  "olasilik": 0.2996,
+  "oran": 3.53,
+  "deger": 0.05758799999999997
+ },
+ {
+  "secim": "2",
+  "pazar": "Maç Sonucu",
+  "etiket": "2 (Botafogo)",
+  "olasilik": 0.2114,
+  "oran": 5.0,
+  "deger": 0.05699999999999994
+ },
+ {
+  "secim": "Toplam Goller 2,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.538,
+  "oran": 1.84,
+  "deger": -0.010079999999999867
+ },
+ {
+  "secim": "Botafogo : Toplam Gol 0,5 Üst",
+  "pazar": "Botafogo : Toplam Gol",
+  "etiket": "Botafogo 0,5 Üst",
+  "olasilik": 0.6395,
+  "oran": 1.54,
+  "deger": -0.015170000000000017
+ },
+ {
+  "secim": "Botafogo : Gol Atar Evet",
+  "pazar": "Botafogo : Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.6395,
+  "oran": 1.54,
+  "deger": -0.015170000000000017
+ },
+ {
+  "secim": "Toplam Goller 1,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.7748,
+  "oran": 1.27,
+  "deger": -0.016003999999999907
+ },
+ {
+  "secim": "Toplam Goller 0,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.9411,
+  "oran": 1.042,
+  "deger": -0.019373799999999886
+ },
+ {
+  "secim": "Botafogo : Toplam Gol 1,5 Üst",
+  "pazar": "Botafogo : Toplam Gol",
+  "etiket": "Botafogo 1,5 Üst",
+  "olasilik": 0.272,
+  "oran": 3.6,
+  "deger": -0.02079999999999993
+ },
+ {
+  "secim": "Çifte Şans 12",
+  "pazar": "Çifte Şans",
+  "etiket": "12",
+  "olasilik": 0.771,
+  "oran": 1.27,
+  "deger": -0.020830000000000015
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 0,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.7117,
+  "oran": 1.37,
+  "deger": -0.024970999999999965
+ },
+ {
+  "secim": "İlk Yarıda Gol Evet",
+  "pazar": "İlk Yarıda Gol",
+  "etiket": "Evet",
+  "olasilik": 0.7117,
+  "oran": 1.37,
+  "deger": -0.024970999999999965
+ },
+ {
+  "secim": "Corinthians SP Gol Yemeden Kazanır Hayır",
+  "pazar": "Corinthians SP Gol Yemeden Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.6985,
+  "oran": 1.39,
+  "deger": -0.029085000000000027
+ },
+ {
+  "secim": "Botafogo İkinci Yarıda Gol Atar Evet",
+  "pazar": "Botafogo İkinci Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.4359,
+  "oran": 2.21,
+  "deger": -0.036660999999999944
+ },
+ {
+  "secim": "Toplam Goller 3,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 3,5 Üst",
+  "olasilik": 0.3157,
+  "oran": 3.05,
+  "deger": -0.03711500000000012
+ },
+ {
+  "secim": "Toplam Goller 5,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 5,5 Alt",
+  "olasilik": 0.9311,
+  "oran": 1.033,
+  "deger": -0.03817370000000009
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 0,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.7945,
+  "oran": 1.21,
+  "deger": -0.038654999999999995
+ },
+ {
+  "secim": "İkinci Yarıda Gol Evet",
+  "pazar": "İkinci Yarıda Gol",
+  "etiket": "Evet",
+  "olasilik": 0.7945,
+  "oran": 1.21,
+  "deger": -0.038654999999999995
+ },
+ {
+  "secim": "Her İki Yarıda Gol Olur Evet",
+  "pazar": "Her İki Yarıda Gol Olur",
+  "etiket": "Evet",
+  "olasilik": 0.5651,
+  "oran": 1.7,
+  "deger": -0.039329999999999976
+ },
+ {
+  "secim": "Corinthians SP : Toplam Gol 3,5 Alt",
+  "pazar": "Corinthians SP : Toplam Gol",
+  "etiket": "Corinthians SP 3,5 Alt",
+  "olasilik": 0.8886,
+  "oran": 1.08,
+  "deger": -0.040312000000000014
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 1,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.3552,
+  "oran": 2.7,
+  "deger": -0.040959999999999885
+ },
+ {
+  "secim": "Her İki Takımda Gol Atar Evet",
+  "pazar": "Her İki Takımda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.5354,
+  "oran": 1.79,
+  "deger": -0.04163399999999995
+ },
+ {
+  "secim": "Corinthians SP : Toplam Gol 1,5 Üst",
+  "pazar": "Corinthians SP : Toplam Gol",
+  "etiket": "Corinthians SP 1,5 Üst",
+  "olasilik": 0.5405,
+  "oran": 1.77,
+  "deger": -0.04331499999999999
+ },
+ {
+  "secim": "Botafogo : Toplam Gol 2,5 Alt",
+  "pazar": "Botafogo : Toplam Gol",
+  "etiket": "Botafogo 2,5 Alt",
+  "olasilik": 0.9149,
+  "oran": 1.045,
+  "deger": -0.043929500000000066
+ },
+ {
+  "secim": "Botafogo Gol Yemeden Kazanır Hayır",
+  "pazar": "Botafogo Gol Yemeden Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.8959,
+  "oran": 1.065,
+  "deger": -0.04586650000000003
+ },
+ {
+  "secim": "Corinthians SP : Toplam Gol 0,5 Üst",
+  "pazar": "Corinthians SP : Toplam Gol",
+  "etiket": "Corinthians SP 0,5 Üst",
+  "olasilik": 0.8369,
+  "oran": 1.14,
+  "deger": -0.04593400000000014
+ },
+ {
+  "secim": "Corinthians SP : Gol Atar Evet",
+  "pazar": "Corinthians SP : Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.8369,
+  "oran": 1.14,
+  "deger": -0.04593400000000014
+ },
+ {
+  "secim": "Botafogo İlk Yarıda Gol Atar Evet",
+  "pazar": "Botafogo İlk Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.3594,
+  "oran": 2.65,
+  "deger": -0.04759000000000002
+ },
+ {
+  "secim": "Corinthians SP : İlk Yarıda Gol Atar Evet",
+  "pazar": "Corinthians SP : İlk Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.5502,
+  "oran": 1.73,
+  "deger": -0.04815399999999992
+ },
+ {
+  "secim": "Kornerler : Toplam 11,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 11,5 Alt",
+  "olasilik": 0.6508,
+  "oran": 1.46,
+  "deger": -0.04983199999999999
+ },
+ {
+  "secim": "Çifte Şans X2",
+  "pazar": "Çifte Şans",
+  "etiket": "X2",
+  "olasilik": 0.4404,
+  "oran": 2.15,
+  "deger": -0.053139999999999965
+ },
+ {
+  "secim": "Beraberlikte İade Botafogo",
+  "pazar": "Beraberlikte İade",
+  "etiket": "Botafogo",
+  "olasilik": 0.2742,
+  "oran": 3.45,
+  "deger": -0.05401
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 2,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.8693,
+  "oran": 1.085,
+  "deger": -0.05680950000000007
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 2,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.7857,
+  "oran": 1.2,
+  "deger": -0.0571600000000001
+ },
+ {
+  "secim": "Corinthians SP En Az Bir Yarıyı Kazanır Evet",
+  "pazar": "Corinthians SP En Az Bir Yarıyı Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.6782,
+  "oran": 1.39,
+  "deger": -0.057302000000000075
+ },
+ {
+  "secim": "Toplam Goller 4,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 4,5 Alt",
+  "olasilik": 0.8413,
+  "oran": 1.12,
+  "deger": -0.057743999999999907
+ },
+ {
+  "secim": "Corinthians SP : İkinci Yarıda Gol Atar Evet",
+  "pazar": "Corinthians SP : İkinci Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.6365,
+  "oran": 1.48,
+  "deger": -0.05798000000000003
+ },
+ {
+  "secim": "Kornerler : Toplam 7,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 7,5 Üst",
+  "olasilik": 0.8111,
+  "oran": 1.16,
+  "deger": -0.059124000000000065
+ },
+ {
+  "secim": "Toplam gol Tek",
+  "pazar": "Toplam Gol Tek/Çift",
+  "etiket": "Tek",
+  "olasilik": 0.4976,
+  "oran": 1.89,
+  "deger": -0.05953600000000003
+ },
+ {
+  "secim": "Kornerler : Toplam 10,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 10,5 Alt",
+  "olasilik": 0.5335,
+  "oran": 1.76,
+  "deger": -0.061040000000000094
+ },
+ {
+  "secim": "Corinthians SP : Toplam Gol 2,5 Alt",
+  "pazar": "Corinthians SP : Toplam Gol",
+  "etiket": "Corinthians SP 2,5 Alt",
+  "olasilik": 0.727,
+  "oran": 1.29,
+  "deger": -0.06216999999999995
+ },
+ {
+  "secim": "Kornerler : Toplam 8,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 8,5 Üst",
+  "olasilik": 0.7094,
+  "oran": 1.32,
+  "deger": -0.06359199999999987
+ },
+ {
+  "secim": "2. Yarı Karşılıklı Gol Hayır",
+  "pazar": "2. Yarı Karşılıklı Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.7221,
+  "oran": 1.29,
+  "deger": -0.06849099999999997
+ },
+ {
+  "secim": "1. Yarı Karşılıklı Gol Hayır",
+  "pazar": "1. Yarı Karşılıklı Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.8022,
+  "oran": 1.16,
+  "deger": -0.06944800000000007
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 1,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.4705,
+  "oran": 1.97,
+  "deger": -0.07311500000000004
+ },
+ {
+  "secim": "Kornerler : Toplam 9,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 9,5 Üst",
+  "olasilik": 0.5895,
+  "oran": 1.57,
+  "deger": -0.07448499999999991
+ },
+ {
+  "secim": "Kornerler : Toplam 9,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 9,5 Alt",
+  "olasilik": 0.4105,
+  "oran": 2.25,
+  "deger": -0.07637500000000008
+ },
+ {
+  "secim": "1",
+  "pazar": "Maç Sonucu",
+  "etiket": "1 (Corinthians SP)",
+  "olasilik": 0.5596,
+  "oran": 1.65,
+  "deger": -0.07666000000000006
+ },
+ {
+  "secim": "Çifte Şans 1X",
+  "pazar": "Çifte Şans",
+  "etiket": "1X",
+  "olasilik": 0.7886,
+  "oran": 1.17,
+  "deger": -0.07733800000000013
+ },
+ {
+  "secim": "Botafogo : Toplam Gol 1,5 Alt",
+  "pazar": "Botafogo : Toplam Gol",
+  "etiket": "Botafogo 1,5 Alt",
+  "olasilik": 0.728,
+  "oran": 1.26,
+  "deger": -0.08272000000000002
+ },
+ {
+  "secim": "Toplam Goller 3,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 3,5 Alt",
+  "olasilik": 0.6843,
+  "oran": 1.34,
+  "deger": -0.08303799999999995
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 1,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.5295,
+  "oran": 1.73,
+  "deger": -0.08396500000000007
+ },
+ {
+  "secim": "Corinthians SP : Toplam Gol 2,5 Üst",
+  "pazar": "Corinthians SP : Toplam Gol",
+  "etiket": "Corinthians SP 2,5 Üst",
+  "olasilik": 0.273,
+  "oran": 3.35,
+  "deger": -0.08544999999999991
+ },
+ {
+  "secim": "Sarı Kartlar X",
+  "pazar": "Sarı Kartlar : Sonuç",
+  "etiket": "X",
+  "olasilik": 0.1904,
+  "oran": 4.8,
+  "deger": -0.08607999999999993
+ },
+ {
+  "secim": "Botafogo İlk Yarıda Gol Atar Hayır",
+  "pazar": "Botafogo İlk Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.6406,
+  "oran": 1.42,
+  "deger": -0.0903480000000001
+ },
+ {
+  "secim": "Toplam gol Çift",
+  "pazar": "Toplam Gol Tek/Çift",
+  "etiket": "Çift",
+  "olasilik": 0.5024,
+  "oran": 1.81,
+  "deger": -0.09065600000000007
+ },
+ {
+  "secim": "Her İki Takımda Gol Atar Hayır",
+  "pazar": "Her İki Takımda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.4646,
+  "oran": 1.95,
+  "deger": -0.09402999999999995
+ },
+ {
+  "secim": "Corinthians SP : Toplam Gol 1,5 Alt",
+  "pazar": "Corinthians SP : Toplam Gol",
+  "etiket": "Corinthians SP 1,5 Alt",
+  "olasilik": 0.4595,
+  "oran": 1.97,
+  "deger": -0.09478500000000001
+ },
+ {
+  "secim": "Kornerler : Toplam 10,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 10,5 Üst",
+  "olasilik": 0.4665,
+  "oran": 1.94,
+  "deger": -0.09499000000000002
+ },
+ {
+  "secim": "1. Yarı Karşılıklı Gol Evet",
+  "pazar": "1. Yarı Karşılıklı Gol",
+  "etiket": "Evet",
+  "olasilik": 0.1978,
+  "oran": 4.57,
+  "deger": -0.09605399999999997
+ },
+ {
+  "secim": "2. Yarı Karşılıklı Gol Evet",
+  "pazar": "2. Yarı Karşılıklı Gol",
+  "etiket": "Evet",
+  "olasilik": 0.2779,
+  "oran": 3.25,
+  "deger": -0.09682500000000005
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 1,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.6448,
+  "oran": 1.4,
+  "deger": -0.09728000000000003
+ },
+ {
+  "secim": "Kornerler : Toplam 8,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 8,5 Alt",
+  "olasilik": 0.2906,
+  "oran": 3.1,
+  "deger": -0.0991399999999999
+ },
+ {
+  "secim": "Botafogo İkinci Yarıda Gol Atar Hayır",
+  "pazar": "Botafogo İkinci Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.5641,
+  "oran": 1.59,
+  "deger": -0.10308099999999987
+ },
+ {
+  "secim": "Beraberlikte İade Corinthians SP",
+  "pazar": "Beraberlikte İade",
+  "etiket": "Corinthians SP",
+  "olasilik": 0.7258,
+  "oran": 1.23,
+  "deger": -0.10726599999999997
+ },
+ {
+  "secim": "Corinthians SP : İkinci Yarıda Gol Atar Hayır",
+  "pazar": "Corinthians SP : İkinci Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.3634,
+  "oran": 2.45,
+  "deger": -0.10966999999999993
+ },
+ {
+  "secim": "Kornerler X",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "X",
+  "olasilik": 0.1141,
+  "oran": 7.8,
+  "deger": -0.11002000000000012
+ },
+ {
+  "secim": "Corinthians SP : İlk Yarıda Gol Atar Hayır",
+  "pazar": "Corinthians SP : İlk Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.4499,
+  "oran": 1.97,
+  "deger": -0.11369699999999994
+ },
+ {
+  "secim": "Corinthians SP En Az Bir Yarıyı Kazanır Hayır",
+  "pazar": "Corinthians SP En Az Bir Yarıyı Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.3218,
+  "oran": 2.75,
+  "deger": -0.1150500000000001
+ },
+ {
+  "secim": "Toplam Goller 4,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 4,5 Üst",
+  "olasilik": 0.1587,
+  "oran": 5.55,
+  "deger": -0.11921499999999996
+ },
+ {
+  "secim": "Kornerler : Toplam 11,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 11,5 Üst",
+  "olasilik": 0.3492,
+  "oran": 2.52,
+  "deger": -0.12001600000000001
+ },
+ {
+  "secim": "Her İki Yarıda Gol Olur Hayır",
+  "pazar": "Her İki Yarıda Gol Olur",
+  "etiket": "Hayır",
+  "olasilik": 0.4349,
+  "oran": 2.02,
+  "deger": -0.121502
+ },
+ {
+  "secim": "Toplam Goller 2,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.462,
+  "oran": 1.9,
+  "deger": -0.12219999999999998
+ },
+ {
+  "secim": "En gollü yarı 1. Yarı",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "1. Yarı",
+  "olasilik": 0.3007,
+  "oran": 2.9,
+  "deger": -0.12796999999999992
+ },
+ {
+  "secim": "İlk gol Corinthians SP",
+  "pazar": "İlk Golü Atacak Takım",
+  "etiket": "Corinthians SP",
+  "olasilik": 0.6009,
+  "oran": 1.45,
+  "deger": -0.128695
+ },
+ {
+  "secim": "1. Yarı 1",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "1 (Corinthians SP)",
+  "olasilik": 0.4095,
+  "oran": 2.12,
+  "deger": -0.13185999999999998
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 2,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.2143,
+  "oran": 4.05,
+  "deger": -0.13208500000000012
+ },
+ {
+  "secim": "Kornerler : Toplam 7,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 7,5 Alt",
+  "olasilik": 0.1889,
+  "oran": 4.57,
+  "deger": -0.13672699999999993
+ },
+ {
+  "secim": "2. Yarı 1",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "1 (Corinthians SP)",
+  "olasilik": 0.4541,
+  "oran": 1.9,
+  "deger": -0.13721000000000005
+ },
+ {
+  "secim": "Botafogo : Toplam Gol 0,5 Alt",
+  "pazar": "Botafogo : Toplam Gol",
+  "etiket": "Botafogo 0,5 Alt",
+  "olasilik": 0.3605,
+  "oran": 2.38,
+  "deger": -0.14201000000000008
+ },
+ {
+  "secim": "Botafogo : Gol Atar Hayır",
+  "pazar": "Botafogo : Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.3605,
+  "oran": 2.38,
+  "deger": -0.14201000000000008
+ },
+ {
+  "secim": "2. Yarı 2",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "2 (Botafogo)",
+  "olasilik": 0.204,
+  "oran": 4.2,
+  "deger": -0.1432
+ },
+ {
+  "secim": "En gollü yarı 2. Yarı",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "2. Yarı",
+  "olasilik": 0.4532,
+  "oran": 1.89,
+  "deger": -0.14345200000000002
+ },
+ {
+  "secim": "1. Yarı 2",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "2 (Botafogo)",
+  "olasilik": 0.1903,
+  "oran": 4.5,
+  "deger": -0.14365000000000006
+ },
+ {
+  "secim": "İlk gol Botafogo",
+  "pazar": "İlk Golü Atacak Takım",
+  "etiket": "Botafogo",
+  "olasilik": 0.3401,
+  "oran": 2.51,
+  "deger": -0.14634900000000006
+ },
+ {
+  "secim": "1. Yarı X",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "X",
+  "olasilik": 0.4002,
+  "oran": 2.09,
+  "deger": -0.163582
+ },
+ {
+  "secim": "Corinthians SP : Toplam Gol 0,5 Alt",
+  "pazar": "Corinthians SP : Toplam Gol",
+  "etiket": "Corinthians SP 0,5 Alt",
+  "olasilik": 0.1631,
+  "oran": 5.1,
+  "deger": -0.16819000000000006
+ },
+ {
+  "secim": "Corinthians SP : Gol Atar Hayır",
+  "pazar": "Corinthians SP : Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.1631,
+  "oran": 5.1,
+  "deger": -0.16819000000000006
+ },
+ {
+  "secim": "X",
+  "pazar": "Maç Sonucu",
+  "etiket": "X",
+  "olasilik": 0.229,
+  "oran": 3.63,
+  "deger": -0.16873000000000005
+ },
+ {
+  "secim": "Corinthians SP Gol Yemeden Kazanır Evet",
+  "pazar": "Corinthians SP Gol Yemeden Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.3015,
+  "oran": 2.75,
+  "deger": -0.170875
+ },
+ {
+  "secim": "2. Yarı X",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "X",
+  "olasilik": 0.342,
+  "oran": 2.42,
+  "deger": -0.17235999999999996
+ },
+ {
+  "secim": "Kornerler 1",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "1 (Corinthians SP)",
+  "olasilik": 0.5863,
+  "oran": 1.41,
+  "deger": -0.17331699999999994
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 2,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.1307,
+  "oran": 6.3,
+  "deger": -0.1765899999999999
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 0,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.2883,
+  "oran": 2.85,
+  "deger": -0.17834499999999998
+ },
+ {
+  "secim": "İlk Yarıda Gol Hayır",
+  "pazar": "İlk Yarıda Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.2883,
+  "oran": 2.85,
+  "deger": -0.17834499999999998
+ },
+ {
+  "secim": "En gollü yarı Eşit",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "Eşit",
+  "olasilik": 0.2461,
+  "oran": 3.28,
+  "deger": -0.19279199999999996
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 0,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.2055,
+  "oran": 3.9,
+  "deger": -0.19855000000000012
+ },
+ {
+  "secim": "İkinci Yarıda Gol Hayır",
+  "pazar": "İkinci Yarıda Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.2055,
+  "oran": 3.9,
+  "deger": -0.19855000000000012
+ },
+ {
+  "secim": "Toplam Goller 1,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.2252,
+  "oran": 3.55,
+  "deger": -0.20054000000000005
+ },
+ {
+  "secim": "Toplam Korner : Corinthians SP 5,5 Üst",
+  "pazar": "Toplam Korner : Corinthians SP",
+  "etiket": "Corinthians SP 5,5 Üst",
+  "olasilik": 0.5203,
+  "oran": 1.5,
+  "deger": -0.21955000000000002
+ },
+ {
+  "secim": "Corinthians SP : Toplam Gol 3,5 Üst",
+  "pazar": "Corinthians SP : Toplam Gol",
+  "etiket": "Corinthians SP 3,5 Üst",
+  "olasilik": 0.1114,
+  "oran": 7.0,
+  "deger": -0.22019999999999995
+ },
+ {
+  "secim": "Sarı Kartlar : Toplam 4,5 Üst",
+  "pazar": "Sarı Kartlar : Toplam",
+  "etiket": "Toplam 4,5 Üst",
+  "olasilik": 0.458,
+  "oran": 1.66,
+  "deger": -0.23972000000000004
+ },
+ {
+  "secim": "Toplam Korner : Botafogo 4,5 Alt",
+  "pazar": "Toplam Korner : Botafogo",
+  "etiket": "Botafogo 4,5 Alt",
+  "olasilik": 0.5125,
+  "oran": 1.48,
+  "deger": -0.24150000000000005
+ },
+ {
+  "secim": "Botafogo : Toplam Gol 2,5 Üst",
+  "pazar": "Botafogo : Toplam Gol",
+  "etiket": "Botafogo 2,5 Üst",
+  "olasilik": 0.0851,
+  "oran": 8.8,
+  "deger": -0.25112
+ },
+ {
+  "secim": "Botafogo Gol Yemeden Kazanır Evet",
+  "pazar": "Botafogo Gol Yemeden Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.1041,
+  "oran": 7.1,
+  "deger": -0.26089000000000007
+ },
+ {
+  "secim": "Toplam Korner : Corinthians SP 6,5 Üst",
+  "pazar": "Toplam Korner : Corinthians SP",
+  "etiket": "Corinthians SP 6,5 Üst",
+  "olasilik": 0.3606,
+  "oran": 1.94,
+  "deger": -0.30043600000000004
+ },
+ {
+  "secim": "Toplam Goller 5,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 5,5 Üst",
+  "olasilik": 0.0689,
+  "oran": 9.85,
+  "deger": -0.32133500000000004
+ },
+ {
+  "secim": "Sarı Kartlar : Toplam 5,5 Üst",
+  "pazar": "Sarı Kartlar : Toplam",
+  "etiket": "Toplam 5,5 Üst",
+  "olasilik": 0.2872,
+  "oran": 2.35,
+  "deger": -0.3250799999999999
+ },
+ {
+  "secim": "Toplam Korner : Botafogo 3,5 Alt",
+  "pazar": "Toplam Korner : Botafogo",
+  "etiket": "Botafogo 3,5 Alt",
+  "olasilik": 0.3255,
+  "oran": 2.07,
+  "deger": -0.32621500000000003
+ },
+ {
+  "secim": "Toplam Korner : Corinthians SP 7,5 Üst",
+  "pazar": "Toplam Korner : Corinthians SP",
+  "etiket": "Corinthians SP 7,5 Üst",
+  "olasilik": 0.2276,
+  "oran": 2.7,
+  "deger": -0.38547999999999993
+ },
+ {
+  "secim": "Sarı Kartlar 2",
+  "pazar": "Sarı Kartlar : Sonuç",
+  "etiket": "2 (Botafogo)",
+  "olasilik": 0.3139,
+  "oran": 1.83,
+  "deger": -0.4255629999999999
+ },
+ {
+  "secim": "Sarı Kartlar : Botafogo : Toplam 2,5 Üst",
+  "pazar": "Sarı Kartlar : Botafogo : Toplam",
+  "etiket": "Botafogo 2,5 Üst",
+  "olasilik": 0.3171,
+  "oran": 1.76,
+  "deger": -0.44190399999999996
+ },
+ {
+  "secim": "Toplam Goller 0,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.0589,
+  "oran": 9.1,
+  "deger": -0.46401000000000003
+ }
+]

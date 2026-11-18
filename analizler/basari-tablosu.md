@@ -22,6 +22,7 @@
 | 18.11 | Flamengo – Athletico PR | Oynama (piyasayla aynı; korner/kart değerleri belirsiz) | — | — | — |
 | 18.11 | Remo – Chapecoense | Oynama | — | — | — |
 | 18.11 | Coritiba – Santos | Oynama (penaltı 2,80 < eşik 2,90) | — | — | — |
+| 19.11 | Corinthians – Botafogo (çok kaynaklı) | Botafogo sarı kart 2,5 Alt @1,94 | %55–73 | bekliyor | — |
 | 18.11 | Dunipace – Linlithgow Rose | Oynama (tek fark gol altı yönünde; kural gereği piyasaya karşı alt oynanmıyor) | — | — | — |
 
 Ana öneriler: 4 tuttu / 2 tutmadı (1 değerlendirilemedi).

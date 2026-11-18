@@ -1,0 +1,30 @@
+{
+ "organizasyon": "Brezilya Serie A, 35. hafta",
+ "tarih": "19 Kasım 2026, 03:30 TSİ",
+ "stadyum": "Neo Química Arena, São Paulo",
+ "hakem": "Wilton Pereira Sampaio (46 maç: 5,15 sarı, lig 4,79; 8 kırmızı; 12 penaltı)",
+ "ilk_yari_gol_payi": 0.44,
+ "korner_guven": "orta",
+ "kart_guven": "orta",
+ "var_ort": 0.35,
+ "not": "Kart: Corinthians maçları 5,0, Botafogo maçları 3,2 sarı; hakem ×1,075 → ~4,4. Korner: Cor 5,4/3,8, Bot 6,0/5,6. Goller piyasadan.",
+ "ev": {
+  "ad": "Corinthians SP",
+  "beklenen_gol": 1.811,
+  "korner": 5.8,
+  "sari_kart": 2.45,
+  "penalti_kazanma": 0.15,
+  "direkt_kirmizi": 0.04,
+  "model_beklenen_gol": 1.4
+ },
+ "dep": {
+  "ad": "Botafogo",
+  "beklenen_gol": 1.018,
+  "korner": 4.6,
+  "sari_kart": 1.95,
+  "penalti_kazanma": 0.12,
+  "direkt_kirmizi": 0.04,
+  "model_beklenen_gol": 0.9
+ },
+ "kalibrasyon": "Beklenen goller site oranlarından (takım gol çizgilerinin ortalaması)"
+}

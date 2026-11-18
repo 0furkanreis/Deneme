@@ -1,0 +1,6850 @@
+Maç Sonucu
+Corinthians SP
+Beraberlik
+Botafogo
+1.65
+3.63
+5.00
+Çifte Şans
+1X
+12
+X2
+1.17
+1.27
+2.15
+Beraberlikte İade
+Corinthians SP
+Botafogo
+1.23
+3.45
+Toplam Goller
+Üst
+Alt
+0.5
+1.042
+9.10
+1
+1.055
+8.20
+1.5
+1.27
+3.55
+2
+1.41
+2.77
+2.5
+1.84
+1.90
+3
+2.47
+1.50
+3.5
+3.05
+1.34
+4
+4.90
+1.15
+4.5
+5.55
+1.12
+5
+9.40
+1.038
+5.5
+9.85
+1.033
+Corinthians SP : Toplam Gol
+Üst
+Alt
+0.5
+1.14
+5.10
+1
+1.24
+3.75
+1.5
+1.77
+1.97
+2
+2.52
+1.48
+2.5
+3.35
+1.29
+3
+6.20
+1.095
+3.5
+7.00
+1.08
+Botafogo : Toplam Gol
+Üst
+Alt
+0.5
+1.54
+2.38
+1
+2.38
+1.54
+1.5
+3.60
+1.26
+2
+8.00
+1.06
+2.5
+8.80
+1.045
+Her iki takımda gol atar
+Evet
+Hayır
+1.79
+1.95
+Her İki Takım da 2 veya Daha Fazla Gol Atar
+YENİ
+Evet
+No
+6.20
+1.10
+Gol Handikapı
+Corinthians SP
+Botafogo
+-3.5
+10.55
++3.5
+1.026
+-3
+10.15
++3
+1.03
+-2.5
+5.30
++2.5
+1.13
+-2
+4.75
++2
+1.16
+-1.5
+2.90
++1.5
+1.38
+-1
+2.21
++1
+1.62
+-0.5
+1.65
++0.5
+2.15
+0
+1.25
+0
+3.70
++0.5
+1.17
+-0.5
+4.55
++1
+1.047
+-1
+8.75
++1.5
+1.045
+-1.5
+8.80
+Goller Asya Handikapı
+Corinthians SP
+Botafogo
+-3.25
+9.50
++3.25
+1.025
+-2.75
+6.90
++2.75
+1.07
+-2.25
+4.90
++2.25
+1.14
+-1.75
+3.47
++1.75
+1.26
+-1.25
+2.52
++1.25
+1.46
+-0.75
+1.83
++0.75
+1.87
+-0.25
+1.45
++0.25
+2.55
++0.25
+1.20
+-0.25
+4.05
++0.75
+1.10
+-0.75
+5.85
++1.25
+1.04
+-1.25
+8.50
++1.75
+1.023
+-1.75
+9.70
+Gol Handikapı (3-İhtimalli)
+Corinthians SP
+Beraberlik : Botafogo
+Botafogo
+-3
+11.00
++3
+7.10
++3
+1.13
+-2
+5.30
++2
+4.90
++2
+1.38
+-1
+2.90
++1
+3.25
++1
+2.15
++1
+1.17
+-1
+6.15
+-1
+10.00
+Toplam Goller Asya
+Üst
+Alt
+0.75
+1.047
+8.75
+1.25
+1.16
+4.75
+1.75
+1.33
+3.10
+2.25
+1.63
+2.18
+2.75
+2.07
+1.70
+3.25
+2.77
+1.41
+3.75
+3.75
+1.24
+4.25
+5.30
+1.13
+4.75
+7.00
+1.08
+5.25
+9.60
+1.036
+5.75
+11.40
+1.018
+Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+1
+1.23
+4.42
+9.10
+2
+1.76
+3.47
+3.10
+3
+2.95
+3.83
+1.83
+4
+5.50
+5.10
+1.30
+5
+10.00
+7.70
+1.09
+Corinthians SP : Asist Yapar. Toplam
+YENİ
+1+
+1.41
+2+
+2.80
+3+
+7.10
+4+
+19.00
+Botafogo : Asist Yapar. Toplam
+YENİ
+1+
+2.08
+2+
+6.60
+3+
+19.00
+Her iki yarıda gol olur
+Evet
+Hayır
+1.70
+2.02
+İlk Golü Atacak Takım
+Corinthians SP
+Botafogo
+Gol Yok
+1.45
+2.51
+11.00
+Son Golü Atacak Takım
+Corinthians SP
+Botafogo
+Gol Yok
+1.45
+2.51
+11.00
+Corinthians SP : Toplam Gol Asya
+Üst
+Alt
+0.75
+1.18
+4.40
+1.25
+1.51
+2.45
+1.75
+2.03
+1.73
+2.25
+2.95
+1.37
+2.75
+4.25
+1.20
+3.25
+6.50
+1.09
+3.75
+8.75
+1.047
+Botafogo : Toplam Gol Asya
+Üst
+Alt
+0.75
+1.78
+1.96
+1.25
+2.97
+1.36
+1.75
+4.75
+1.16
+2.25
+8.50
+1.045
+2.75
+11.10
+1.021
+Toplam Gol Tek / Çift
+Çift
+Tek
+1.81
+1.89
+Corinthians SP : Gol Atar
+Evet
+Hayır
+1.14
+5.10
+Botafogo Gol Atar
+Evet
+Hayır
+1.54
+2.38
+Corinthians SP Gol Atar ve Maç Sonucu
+Evet ve Corinthians SP
+1.65
+Evet ve Berabere
+4.42
+Hayır ve Berabere
+11.00
+Evet ve Botafogo
+7.30
+Hayır ve Botafogo
+7.10
+Botafogo Gol Atar ve Maç Sonucu
+Evet ve Corinthians SP
+3.03
+Hayır ve Corinthians SP
+2.75
+Evet ve Berabere
+4.42
+Hayır ve Berabere
+11.00
+Evet ve Botafogo
+4.55
+Corinthians SP : Bahis Yok
+Beraberlik
+Botafogo
+1.60
+2.11
+Botafogo : Bahis Yok
+Corinthians SP
+Beraberlik
+1.33
+2.78
+Maç Sonucu ve Karşılıklı Gol
+Corinthians SP Ve Evet
+3.03
+Beraberlik Ve Hayır
+11.00
+Corinthians SP Ve Hayır
+2.75
+Botafogo Ve Evet
+7.30
+Beraberlik ve Evet
+4.42
+Botafogo Ve Hayır
+7.10
+Çifte Şans ve Karşılıklı Gol
+1X Ve Evet
+1.93
+12 Ve Hayır
+2.03
+1X Ve Hayır
+2.38
+X2 Ve Evet
+2.87
+12 Ve Evet
+2.38
+X2 Ve Hayır
+5.10
+Maç Sonucu ve Toplam Gol 1.5
+Corinthians SP ve Üst 1.5
+1.90
+Corinthians SP ve Alt 1.5
+5.40
+Beraberlik ve Üst 1.5
+3.93
+Beraberlik ve Alt 1.5
+9.20
+Botafogo ve Üst 1.5
+5.40
+Botafogo ve Alt 1.5
+11.00
+1X ve Üst 1.5
+1.43
+1X ve Alt 1.5
+3.83
+12 ve Üst 1.5
+1.55
+12 ve Alt 1.5
+4.00
+X2 ve Üst 1.5
+2.57
+X2 ve Alt 1.5
+5.60
+Maç Sonucu ve Toplam Gol 2.5
+Corinthians SP ve Üst 2.5
+2.30
+Corinthians SP ve Alt 2.5
+3.41
+Beraberlik ve Üst 2.5
+9.60
+Beraberlik ve Alt 2.5
+3.87
+Botafogo ve Üst 2.5
+6.60
+Botafogo ve Alt 2.5
+7.70
+1X ve Üst 2.5
+2.02
+1X ve Alt 2.5
+2.05
+12 ve Üst 2.5
+1.88
+12 ve Alt 2.5
+2.63
+X2 ve Üst 2.5
+4.40
+X2 ve Alt 2.5
+2.88
+Maç Sonucu ve Toplam Gol 3.5
+Corinthians SP ve Üst 3.5
+3.88
+Corinthians SP ve Alt 3.5
+2.15
+Beraberlik ve Üst 3.5
+9.60
+Beraberlik ve Alt 3.5
+3.87
+Botafogo ve Üst 3.5
+13.00
+Botafogo ve Alt 3.5
+5.00
+1X ve Üst 3.5
+3.06
+1X ve Alt 3.5
+1.55
+12 ve Üst 3.5
+3.27
+12 ve Alt 3.5
+1.67
+X2 ve Üst 3.5
+6.20
+X2 ve Alt 3.5
+2.47
+Maç Sonucu ve Toplam Gol 4.5
+Corinthians SP ve Üst 4.5
+6.20
+Corinthians SP ve Alt 4.5
+1.83
+Beraberlik ve Üst 4.5
+41.00
+Beraberlik ve Alt 4.5
+3.18
+Botafogo ve Üst 4.5
+21.00
+Botafogo ve Alt 4.5
+4.50
+1X ve Üst 4.5
+5.70
+1X ve Alt 4.5
+1.31
+12 ve Üst 4.5
+5.20
+12 ve Alt 4.5
+1.45
+X2 ve Üst 4.5
+15.00
+X2 ve Alt 4.5
+2.11
+Sonuç ve Corinthians SP : Toplam Gol
+Corinthians SP ve Üst (1.5)
+1.90
+Corinthians SP ve Alt (1.5)
+5.85
+Beraberlik ve Üst (1.5)
+9.60
+Beraberlik ve Alt (1.5)
+3.87
+Botafogo ve Üst (1.5)
+25.00
+Botafogo ve Alt (1.5)
+4.40
+Corinthians SP ve Üst (2.5)
+3.07
+Corinthians SP ve Alt (2.5)
+2.47
+Beraberlik ve Üst (2.5)
+41.00
+Beraberlik ve Alt (2.5)
+3.18
+Botafogo ve Üst (2.5)
+141.00
+Botafogo ve Alt (2.5)
+4.10
+Corinthians SP ve Üst (3.5)
+6.40
+Corinthians SP ve Alt (3.5)
+1.82
+Beraberlik ve Üst (3.5)
+251.00
+Beraberlik ve Alt (3.5)
+3.07
+Botafogo ve Üst (3.5)
+276.00
+Botafogo ve Alt (3.5)
+4.00
+Sonuç ve Botafogo : Toplam Gol
+Corinthians SP ve Üst (1.5)
+11.00
+Corinthians SP ve Alt (1.5)
+1.68
+Beraberlik ve Üst (1.5)
+9.60
+Beraberlik ve Alt (1.5)
+3.87
+Botafogo ve Üst (1.5)
+5.40
+Botafogo ve Alt (1.5)
+9.30
+Corinthians SP ve Üst (2.5)
+61.00
+Corinthians SP ve Alt (2.5)
+1.57
+Beraberlik ve Üst (2.5)
+41.00
+Beraberlik ve Alt (2.5)
+3.18
+Botafogo ve Üst (2.5)
+11.00
+Botafogo ve Alt (2.5)
+5.30
+Corinthians SP ve Üst (3.5)
+276.00
+Corinthians SP ve Alt (3.5)
+1.55
+Beraberlik ve Üst (3.5)
+251.00
+Beraberlik ve Alt (3.5)
+3.07
+Botafogo ve Üst (3.5)
+31.00
+Botafogo ve Alt (3.5)
+4.30
+Sonuç veya Toplam Gol
+Corinthians SP veya Üst (2.5)
+1.27
+Corinthians SP veya Alt (2.5)
+1.13
+Beraberlik veya Üst (2.5)
+1.31
+Beraberlik veya Alt (2.5)
+1.60
+Botafogo veya Üst (2.5)
+1.50
+Botafogo veya Alt (2.5)
+1.52
+Corinthians SP veya Üst (3.5)
+1.35
+Corinthians SP veya Alt (3.5)
+1.07
+Beraberlik veya Üst (3.5)
+1.79
+Beraberlik veya Alt (3.5)
+1.21
+Botafogo veya Üst (3.5)
+1.96
+Botafogo veya Alt (3.5)
+1.27
+Daha Fazla Seçeneği Göster
+Maç Sonucu ve Toplam Gol (Kesin)
+Corinthians SP ve 1
+5.40
+Corinthians SP ve 2
+6.80
+Corinthians SP ve 3
+4.30
+Corinthians SP ve 4+
+3.88
+Beraberlik ve 0
+9.20
+Beraberlik ve 2
+5.50
+Beraberlik ve 4
+11.00
+Beraberlik ve 6+
+41.00
+Botafogo ve 1
+11.00
+Botafogo ve 2
+19.00
+Botafogo ve 3
+11.00
+Botafogo ve 4+
+13.00
+Sonuç ve Toplam Gol (Genişletilmiş Aralık)
+Corinthians SP ve 1-2
+3.41
+Corinthians SP ve 1-3
+2.15
+Corinthians SP ve 1-4
+1.83
+Corinthians SP ve 1-5
+1.65
+Corinthians SP ve 1-6
+1.59
+Corinthians SP ve 2-3
+2.95
+Corinthians SP ve 2-4
+2.36
+Corinthians SP ve 2-5
+2.05
+Corinthians SP ve 2-6
+1.96
+Corinthians SP ve 3-4
+3.08
+Corinthians SP ve 3-5
+2.55
+Corinthians SP ve 3-6
+2.40
+Daha Fazla Seçeneği Göster
+Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)
+1X ve 1-2
+2.37
+1X ve 1-3
+1.71
+1X ve 1-4
+1.41
+1X ve 1-5
+1.35
+1X ve 1-6
+1.29
+1X ve 2-3
+2.16
+1X ve 2-4
+1.69
+1X ve 2-5
+1.53
+1X ve 2-6
+1.46
+1X ve 3-4
+2.64
+1X ve 3-5
+2.25
+1X ve 3-6
+2.09
+1X ve 4-5
+3.70
+1X ve 4-6
+3.26
+1X ve 5-6
+6.60
+1X ve Herhangi bir diğer
+7.50
+12 ve 1-2
+2.63
+12 ve 1-3
+1.67
+Daha Fazla Seçeneği Göster
+Sonuç veya Doğru Skor
+Corinthians SP veya 0-0: Evet
+1.42
+Corinthians SP veya 0-0: Hayır
+2.25
+Botafogo veya 0-0: Evet
+3.11
+Botafogo veya 0-0: Hayır
+1.23
+Corinthians SP veya 1-1: Evet
+1.37
+Corinthians SP veya 1-1: Hayır
+2.85
+Botafogo veya 1-1: Evet
+2.62
+Botafogo veya 1-1: Hayır
+1.31
+Corinthians SP veya 0-1: Evet
+1.44
+Corinthians SP veya 0-1: Hayır
+2.19
+Botafogo veya 1-0: Evet
+2.61
+Botafogo veya 1-0: Hayır
+1.33
+Her İki Yarı Toplam Gol Kombinasyonu
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+2.51
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+4.85
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 0.5 Üst gol
+2.97
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+4.60
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+9.00
+İlk yarıda 0.5 Üst gol ve Maç sonucu 1.5 Üst gol
+1.46
+İlk yarıda 0.5 Üst gol ve Maç sonucu 2.5 Üst gol
+1.89
+İlk yarıda 0.5 Üst gol ve Maç sonucu 3.5 Üst gol
+2.87
+İlk yarıda 0.5 Üst gol ve Maç sonucu 4.5 Üst gol
+5.10
+İlk yarıda 1.5 Üst gol ve Maç sonucu 2.5 Üst gol
+2.76
+İlk yarıda 1.5 Üst gol ve Maç sonucu 3.5 Üst gol
+3.74
+İlk yarıda 1.5 Üst gol ve Maç sonucu 4.5 Üst gol
+6.00
+İlk yarıda 2.5 Üst gol ve Maç sonucu 3.5 Üst gol
+6.60
+İlk yarıda 2.5 Üst gol ve Maç sonucu 4.5 Üst gol
+9.30
+Toplam Gol (Kesin)
+0
+9.10
+1
+4.42
+2
+3.47
+3
+3.83
+4
+5.10
+5
+7.70
+6 veya Daha Fazla
+10.00
+Corinthians SP : Toplam Gol (Kesin)
+0
+5.10
+1
+2.54
+2
+2.89
+3
+4.40
+4 veya Daha Fazla
+7.00
+Botafogo : Toplam Gol (Kesin)
+0
+2.38
+1
+2.19
+2
+4.20
+3
+11.00
+4 veya Daha Fazla
+29.00
+Toplam Gol (Aralık)
+0-1
+3.10
+2-3
+1.84
+4 ila 6
+2.88
+7 veya Daha fazla
+23.00
+Corinthians SP : Toplam Gol (Aralık)
+0-1
+1.97
+2-3
+1.97
+4 ila 6
+6.40
+7 veya Daha fazla
+141.00
+Botafogo : Toplam Gol (Aralık)
+0-1
+1.26
+2-3
+3.32
+4 ila 6
+29.00
+7 veya Daha fazla
+276.00
+Toplam Gol (Genişletilmiş Gol Aralığı)
+1-2
+1.98
+1-3
+1.41
+1-4
+1.18
+1-5
+1.09
+1-6
+1.06
+2-3
+1.84
+2-4
+1.46
+2-5
+1.32
+2-6
+1.26
+3-4
+2.21
+3-5
+1.88
+3-6
+1.76
+Daha Fazla Seçeneği Göster
+Corinthians SP : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.53
+1-3
+1.26
+1-4
+1.17
+2-3
+1.97
+2-4
+1.74
+3-4
+3.31
+Herhangi Diğer
+3.78
+Botafogo : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.61
+1-3
+1.49
+1-4
+1.46
+2-3
+3.32
+2-4
+3.17
+3-4
+9.00
+Herhangi Diğer
+2.13
+Corinthians SP Kesin Gol Farkıyla Kazanır
+Evet
+Hayır
+1
+3.25
+1.29
+2
+4.90
+1.14
+3
+7.10
+1.065
+Botafogo : Kesin Gol Farkıyla Kazanır
+Evet
+Hayır
+1
+6.15
+1.09
+Corinthians SP Kazanır ve Kesin Gol Atar
+Evet
+Hayır
+1
+5.85
+1.10
+2
+4.15
+1.19
+3
+5.35
+1.12
+4
+8.50
+1.04
+Botafogo Kazanır ve Kesin gol atar
+Evet
+Hayır
+1
+9.30
+1.027
+2
+8.20
+1.047
+En Az Bir Takım Üst Gol Atar
+YENİ
+Evet
+No
+1.5
+1.48
+2.45
+2.5
+2.85
+1.37
+3.5
+6.15
+1.09
+İlk Golün Atılma Şekli
+Kafa vuruşu ile
+5.60
+Diğer Bir Yöntemle
+1.36
+Serbest vuruş ile
+15.00
+Penaltı atışı ile
+6.90
+Maçta kendi kalesine gol atılır
+31.00
+Gol yok
+9.00
+1. Gol Zamanı
+1-10
+3.28
+11-20
+3.98
+21-30
+4.90
+31-40
+6.20
+41-50
+7.20
+51-60
+9.80
+61-70
+12.00
+71-80
+17.00
+81-90+
+17.00
+Gol Yok
+7.60
+Corinthians SP : 1. Gol Zamanı (10 dk. Ara)
+1-10
+4.30
+11-20
+5.30
+21-30
+6.00
+31-40
+6.70
+41-50
+7.40
+51-60
+9.10
+61-70
+10.00
+71-80
+12.00
+81-90+
+12.00
+Gol Yok
+3.65
+Botafogo : 1. Gol Zamanı (10 dk. Ara)
+1-10
+6.70
+11-20
+8.90
+21-30
+9.40
+31-40
+9.80
+41-50
+9.60
+51-60
+11.00
+61-70
+12.00
+71-80
+13.00
+81-90+
+10.00
+Gol Yok
+1.88
+1. Gol Zamanı (15 dk.)
+1-15
+2.72
+16-30
+3.25
+31-45+
+3.84
+46-60
+6.50
+61-75
+9.10
+76-90+
+10.00
+No Goal
+9.10
+Doğru Skor
+1-0
+5.85
+0-0
+11.00
+0-1
+9.30
+2-0
+6.80
+1-1
+5.50
+0-2
+19.00
+2-1
+6.20
+2-2
+11.00
+1-2
+12.00
+3-0
+9.70
+3-3
+46.00
+0-3
+46.00
+3-1
+11.00
+4-4
+201.00
+1-3
+29.00
+3-2
+17.00
+5-5
+201.00
+2-3
+34.00
+Daha Fazla Seçeneği Göster
+Herhangi Bir Zamanda Doğru Skor
+0-1
+2.63
+0-2
+8.10
+0-3
+29.00
+0-4
+126.00
+0-5
+301.00
+1-0
+1.52
+1-1
+2.51
+1-2
+6.30
+1-3
+21.00
+1-4
+81.00
+1-5
+276.00
+2-0
+2.67
+2-1
+3.61
+2-2
+8.20
+2-3
+25.00
+2-4
+96.00
+2-5
+301.00
+3-0
+5.50
+Daha Fazla Seçeneği Göster
+1.Yarı Sonucu
+Corinthians SP
+Beraberlik
+Botafogo
+2.12
+2.09
+4.50
+1.Yarı Çifte Şans
+1X
+12
+X2
+1.15
+1.51
+1.49
+1. Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.37
+2.85
+1
+1.80
+1.90
+1.5
+2.70
+1.40
+2
+5.35
+1.12
+2.5
+6.30
+1.085
+1. Yarı 1. Takım Toplam Gol
+Üst
+Alt
+0.5
+1.73
+1.97
+1
+3.10
+1.32
+1.5
+4.42
+1.17
+2
+9.30
+1.027
+2.5
+10.00
+1.02
+1. Yarı 2. Takım Toplam Gol
+Üst
+Alt
+0.5
+2.65
+1.42
+1
+7.50
+1.055
+1.5
+8.50
+1.04
+1. Yarı Corinthians SP Toplam Goller Asya
+Üst
+Alt
+0.75
+2.10
+1.65
+1.25
+3.83
+1.22
+1.75
+6.15
+1.09
+2.25
+9.70
+1.023
+1. Yarı Botafogo Toplam Gol Asya
+Üst
+Alt
+0.75
+3.75
+1.23
+1.25
+8.50
+1.04
+1. Yarı Karşılıklı Gol
+Evet
+Hayır
+4.57
+1.16
+1. Yarı Gol Handikapı
+Corinthians SP
+Botafogo
+-1.5
+5.55
++1.5
+1.11
+-1
+4.42
++1
+1.17
+-0.5
+2.21
++0.5
+1.59
+0
+1.37
+0
+2.85
++0.5
+1.17
+-0.5
+4.42
+1. Yarı Goller Asya Handikapı
+Corinthians SP
+Botafogo
+-1.75
+7.30
++1.75
+1.06
+-1.25
+5.10
++1.25
+1.13
+-0.75
+2.80
++0.75
+1.38
+-0.25
+1.78
++0.25
+1.92
++0.25
+1.23
+-0.25
+3.75
++0.75
+1.09
+-0.75
+6.15
+1. Yarı Gol Handikapı 3 İhtimalli
+Corinthians SP
+Beraberlik Botafogo
+Botafogo
+-1
+5.55
++1
+2.95
++1
+1.51
+0
+2.12
+0
+2.09
+0
+4.60
+1.Yarı Toplam Gol Asya
+Üst
+Alt
+0.75
+1.51
+2.39
+1.25
+2.27
+1.56
+1.75
+3.47
+1.26
+2.25
+5.85
+1.10
+2.75
+8.20
+1.045
+1. . Yarı : Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+1
+2.70
+2.35
+2.85
+1. Yarı: Sonuç ve Her İki Takımda Gol atar
+Corinthians SP Ve Evet
+11.00
+Beraberlik ve Hayır
+2.85
+Corinthians SP Ve Hayır
+2.28
+Botafogo ve Evet
+21.00
+Beraberlik ve Evet
+6.20
+Botafogo ve Hayır
+4.50
+1. Yarı Toplam Gol Aralığı
+0-1
+1.40
+2-3
+2.66
+4 ila 6
+17.00
+7 veya Daha fazla
+29.00
+1.Yarı Corinthians SP Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.17
+3.66
+67.00
+1.Yarı Botafogo Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.04
+5.10
+301.00
+1. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.54
+1-3
+1.38
+1-4
+1.34
+2-3
+2.66
+2-4
+2.49
+3-4
+6.20
+Herhangi Diğer
+2.52
+1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.75
+1-3
+1.65
+1-4
+1.64
+2-3
+3.66
+2-4
+4.00
+3-4
+13.00
+Herhangi Diğer
+1.84
+1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+2.46
+1-3
+2.42
+1-4
+2.65
+2-3
+9.80
+2-4
+9.70
+3-4
+51.00
+Herhangi Diğer
+1.42
+1.Yarı Toplam Gol (Kesin)
+0
+2.85
+1
+2.35
+2
+3.50
+3
+7.50
+4 veya Daha Fazla
+11.00
+1.Yarı Corinthians SP Toplam Gol (Kesin)
+0
+1
+2+
+1.97
+2.37
+4.42
+1.Yarı Botafogo Toplam Gol (Kesin)
+0
+1
+2+
+1.42
+2.85
+12.00
+1. Yarı Corinthians SP Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+3.15
+1.31
+2
+6.70
+1.075
+1. Yarı Botafogo Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+5.10
+1.13
+1. Yarı Corinthians SP Sıfıra Karşı Kazanır
+Evet
+Hayır
+2.50
+1.47
+1. Yarı Botafogo Sıfıra Karşı Kazanır
+Evet
+Hayır
+4.90
+1.14
+1. Yarı İlk Golü Atacak Takım
+Corinthians SP
+Botafogo
+Gol yok
+1.93
+3.45
+2.85
+1. Yarı Son Golü Atacak Takım
+Corinthians SP
+Botafogo
+Gol yok
+1.93
+3.45
+2.85
+1.Yarı Doğru Skor
+1-0
+3.20
+0-0
+2.85
+0-1
+5.30
+2-0
+7.00
+1-1
+6.60
+0-2
+21.00
+2-1
+15.00
+2-2
+56.00
+1-2
+25.00
+3-0
+21.00
+3-3
+201.00
+0-3
+111.00
+3-1
+46.00
+1-3
+141.00
+3-2
+176.00
+2-3
+201.00
+2. Yarı Sonucu
+Corinthians SP
+Beraberlik
+Botafogo
+1.90
+2.42
+4.20
+2. Yarı Çifte Şans
+1X
+12
+X2
+1.17
+1.39
+1.62
+2.Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.21
+3.90
+1
+1.38
+2.80
+1.5
+1.97
+1.73
+2
+3.15
+1.31
+2.5
+4.05
+1.20
+3
+7.50
+1.055
+3.5
+8.50
+1.04
+2.Yarı Corinthians SP Toplam Gol
+Üst
+Alt
+0.5
+1.48
+2.45
+1
+2.15
+1.62
+1.5
+3.20
+1.30
+2
+6.90
+1.07
+2.5
+7.85
+1.05
+1.88
+2.44
+4.20
+2. Yarı Çifte Şans
+1X
+12
+X2
+1.17
+1.39
+1.63
+2.Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.21
+3.90
+1
+1.38
+2.80
+1.5
+1.97
+1.73
+2
+3.15
+1.31
+2.5
+4.05
+1.20
+3
+7.50
+1.055
+3.5
+8.50
+1.04
+2.Yarı Corinthians SP Toplam Gol
+Üst
+Alt
+0.5
+1.48
+2.45
+1
+2.15
+1.62
+1.5
+3.20
+1.30
+2
+6.90
+1.07
+2.5
+7.85
+1.05
+2.Yarı Botafogo Toplam Gol
+Üst
+Alt
+0.5
+2.21
+1.59
+1
+5.10
+1.13
+1.5
+6.90
+1.07
+2. Yarı Karşılıklı Gol
+Evet
+Hayır
+3.25
+1.29
+2. Yarı Gol Handikapı
+Corinthians SP
+Botafogo
+-2.5
+9.50
++2.5
+1.025
+-2
+8.70
++2
+1.035
+-1.5
+4.42
++1.5
+1.17
+-1
+3.30
++1
+1.28
+0
+1.35
+0
+2.95
++1
+1.025
+-1
+9.50
++1.5
+1.021
+-1.5
+10.00
+2. Yarı Gol Handikapı 3 İhtimalli
+Corinthians SP
+Beraberlik Botafogo
+Botafogo
+-2
+9.50
++2
+5.85
++2
+1.17
+-1
+4.33
++1
+2.96
++1
+1.63
+0
+1.88
+0
+2.44
+0
+4.20
++1
+1.17
+-1
+5.10
+-1
+10.00
+2.Yarı: Sonuç ve Her İki Takımda Gol Atar
+Corinthians SP Ve Evet
+6.90
+Beraberlik ve Hayır
+3.90
+Corinthians SP Ve Hayır
+2.21
+Botafogo ve Evet
+13.00
+Beraberlik ve Evet
+5.10
+Botafogo ve Hayır
+4.60
+2. Yarı Toplam Gol Aralığı
+0-1
+1.73
+2-3
+2.13
+4 ila 6
+8.50
+7 veya Daha fazla
+29.00
+2.Yarı Corinthians SP Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.30
+2.94
+34.00
+2.Yarı Botafogo Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.07
+4.60
+176.00
+2. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.52
+1-3
+1.29
+1-4
+1.22
+2-3
+2.13
+2-4
+1.92
+3-4
+3.93
+Herhangi Diğer
+3.25
+2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.59
+1-3
+1.46
+1-4
+1.43
+2-3
+2.94
+2-4
+2.91
+3-4
+7.90
+Herhangi Diğer
+2.23
+2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)
+1-2
+2.09
+1-3
+2.03
+1-4
+2.02
+2-3
+6.60
+2-4
+6.40
+3-4
+29.00
+Herhangi Diğer
+1.52
+2.Yarı Toplam Gol (Kesin)
+0
+3.90
+1
+2.44
+2
+3.00
+3
+5.10
+4+
+8.40
+2.Yarı Corinthians SP Toplam Gol (Kesin)
+0
+1
+2+
+2.45
+2.32
+3.20
+2.Yarı Botafogo Toplam Gol (Kesin)
+0
+1
+2+
+1.59
+2.60
+7.50
+2. Yarı Corinthians SP Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+3.15
+1.31
+2
+5.85
+1.10
+2. Yarı Botafogo Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+5.10
+1.13
+2.Yarı Corinthians SP Sıfıra karşı Kazanır
+Evet
+Hayır
+2.44
+1.49
+2.Yarı Botafogo Sıfıra karşı Kazanır
+Evet
+Hayır
+5.10
+1.13
+2. Yarı -İlk Golü Atacak Takım
+Corinthians SP
+Botafogo
+Gol yok
+1.80
+2.99
+3.90
+2. Yarı Son Golü Atacak Takım
+Corinthians SP
+Botafogo
+Gol yok
+1.80
+2.99
+3.90
+2. Yarı Doğru Skor
+1-0
+3.47
+0-0
+3.90
+0-1
+5.80
+2-0
+6.00
+1-1
+5.70
+0-2
+17.00
+2-1
+10.00
+2-2
+29.00
+1-2
+17.00
+3-0
+15.00
+3-3
+201.00
+0-3
+67.00
+3-1
+25.00
+1-3
+67.00
+3-2
+71.00
+2-3
+126.00
+1. Yarı/2. Yarı Karşılıklı Gol
+Evet/Evet
+12.00
+Hayır/Evet
+3.40
+Evet/Hayır
+5.20
+Hayır/Hayır
+1.49
+1. Yarı veya Maç Sonucu
+Corinthians SP
+X
+Botafogo
+1.43
+1.72
+2.86
+İlk Yarı/Maç Sonucu
+Corinthians SP/Corinthians SP
+2.32
+Beraberlik/Corinthians SP
+3.80
+Botafogo/Corinthians SP
+19.00
+Corinthians SP/Beraberlik
+12.00
+Beraberlik/Beraberlik
+4.85
+Botafogo/Beraberlik
+13.00
+Corinthians SP/Botafogo
+34.00
+Beraberlik/Botafogo
+7.80
+Botafogo/Botafogo
+6.20
+1.Yarı/2.Yarı Sonucu
+Corinthians SP/Corinthians SP
+3.85
+Corinthians SP/Beraberlik
+4.90
+Corinthians SP/Botafogo
+7.90
+Beraberlik/Corinthians SP
+3.80
+Beraberlik/Beraberlik
+4.85
+Beraberlik/Botafogo
+7.80
+Botafogo/Corinthians SP
+7.60
+Botafogo/Beraberlik
+9.70
+Botafogo/Botafogo
+15.00
+En Çok Gol Atılan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.90
+3.28
+1.89
+En Çok Gol Atılan Yarı : Çifte Şans
+1. Yarı veya Beraberlik
+1. veya 2.
+2. Yarı veya Beraberlik
+1.13
+1.05
+1.06
+Corinthians SP : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+3.03
+2.58
+2.17
+Botafogo : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+3.71
+1.86
+2.69
+Kornerler : Sonuç
+Corinthians SP
+X
+Botafogo
+1.41
+7.80
+3.53
+Kornerler : Toplam
+Üst
+Alt
+7.5
+1.16
+4.57
+8
+1.20
+4.05
+8.5
+1.32
+3.10
+9
+1.40
+2.70
+9.5
+1.57
+2.25
+10
+1.72
+2.00
+10.5
+1.94
+1.76
+11
+2.25
+1.57
+11.5
+2.52
+1.46
+12
+3.10
+1.32
+12.5
+3.40
+1.27
+13.5
+4.30
+1.18
+Toplam Korner : Corinthians SP
+Üst
+Alt
+5.5
+1.50
+2.40
+6
+1.67
+2.07
+6.5
+1.94
+1.76
+7
+2.37
+1.52
+7.5
+2.70
+1.40
+Toplam Korner : Botafogo
+Üst
+Alt
+3
+1.36
+2.87
+3.5
+1.67
+2.07
+4
+2.02
+1.70
+4.5
+2.45
+1.48
+5
+3.47
+1.26
+Kornerler: Handikap
+Corinthians SP
+Botafogo
+-4.5
+3.25
++4.5
+1.29
+-4
+2.95
++4
+1.35
+-3.5
+2.39
++3.5
+1.51
+-3
+2.13
++3
+1.63
+-2.5
+1.86
++2.5
+1.84
+-2
+1.64
++2
+2.12
+-1.5
+1.51
++1.5
+2.39
+-1
+1.35
++1
+2.95
+-0.5
+1.29
++0.5
+3.25
+0
+1.18
+0
+4.30
+Kornerler : Toplam (3-İhtimalli)
+Üst
+Kesin
+Alt
+12
+3.38
+8.10
+1.45
+11
+2.50
+7.20
+1.75
+10
+1.92
+6.90
+2.25
+9
+1.55
+7.10
+3.08
+8
+1.31
+7.90
+4.50
+Kornerler : Toplam (Aralık)
+5 veya daha az
+11.00
+6 - 8
+3.29
+9 - 11
+2.23
+12 - 14
+2.99
+15 veya daha fazla
+5.10
+Kornerler: Tek/Çift
+Çift
+Tek
+1.85
+1.85
+Korner Yarışı
+Corinthians SP
+Botafogo
+Hiç Kimse
+9
+3.96
+9
+15.00
+9
+1.28
+7
+2.25
+7
+5.70
+7
+2.09
+5
+1.58
+5
+3.29
+5
+6.00
+3
+1.44
+3
+2.60
+3
+51.00
+Kornerler: 1. Yarı Sonucu
+Corinthians SP
+X
+Botafogo
+1.58
+5.10
+3.41
+Kornerler: 1. Yarı Handikap
+Corinthians SP
+Botafogo
+-1.5
+2.02
++1.5
+1.70
+-1
+1.73
++1
+1.97
+-0.5
+1.53
++0.5
+2.35
+Kornerler: 1. Yarı Toplam
+Üst
+Alt
+3.5
+1.26
+3.47
+4.5
+1.71
+2.01
+5
+1.95
+1.75
+5.5
+2.27
+1.56
+6.5
+3.25
+1.29
+Kornerler: 1. Yarı Corinthians SP Toplam
+Üst
+Alt
+1.5
+1.18
+4.30
+2.5
+1.56
+2.27
+3
+1.89
+1.81
+3.5
+2.37
+1.52
+4.5
+4.05
+1.20
+Kornerler: 1.Yarı Botafogo Toplam
+Üst
+Alt
+1
+1.20
+4.05
+1.5
+1.57
+2.25
+2
+2.15
+1.62
+2.5
+2.68
+1.41
+Toplam Korner : 2.Yarı
+Üst
+Alt
+4.5
+1.46
+2.52
+5.5
+1.93
+1.77
+6.5
+2.75
+1.39
+Kornerler : İlk Korner
+Corinthians SP
+Botafogo
+1.52
+2.37
+Kornerler : Son Korner
+Corinthians SP
+Botafogo
+1.60
+2.27
+Kartlar: Puan : Sonuç
+Corinthians SP
+X
+Botafogo
+3.16
+4.70
+1.75
+Kartlar: Puan Handikapı
+Corinthians SP
+Botafogo
+-0.5
+3.15
++0.5
+1.31
+0
+2.45
+0
+1.48
++0.5
+1.91
+-0.5
+1.79
++1
+1.57
+-1
+2.25
++1.5
+1.46
+-1.5
+2.52
+Kartlar: Toplam Puan
+Üst
+Alt
+2.5
+1.085
+6.30
+3.5
+1.22
+3.83
+4
+1.28
+3.30
+4.5
+1.49
+2.44
+5
+1.72
+2.00
+5.5
+1.96
+1.74
+6
+2.59
+1.44
+6.5
+2.52
+1.46
+7.5
+3.47
+1.26
+8.5
+4.90
+1.14
+9.5
+6.70
+1.075
+10.5
+8.70
+1.035
+Kartlar: Corinthians SP : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.065
+7.10
+1.5
+1.35
+2.95
+2.5
+2.02
+1.70
+3.5
+3.47
+1.26
+4.5
+6.00
+1.095
+Kartlar: Botafogo : Toplam Kart Puanı
+Üst
+Alt
+1.5
+1.16
+4.57
+2.5
+1.51
+2.39
+3.5
+2.23
+1.58
+4.5
+3.65
+1.24
+5.5
+6.00
+1.095
+Kartlar: Toplam (Aralıklar)
+0
+46.00
+1-2
+4.75
+3-4
+2.50
+5-6
+2.27
+7-8
+2.87
+9-10
+4.70
+11 or more
+7.30
+Kartlar: 1.Yarı : Toplam Kart Puanı
+Üst
+Alt
+1.5
+1.61
+2.17
+2.5
+2.52
+1.46
+3.5
+4.30
+1.18
+Kartlar: 1. Yarı : Corinthians SP : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.55
+2.17
+1.5
+3.45
+1.23
+2.5
+7.10
+1.05
+Kartlar: 1. Yarı : Botafogo : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.37
+2.61
+1.5
+2.56
+1.40
+2.5
+5.40
+1.10
+Kartlar: 2. Yarı : Corinthians SP : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.20
+3.75
+1.5
+1.93
+1.70
+2.5
+3.75
+1.20
+Kartlar: 2. Yarı : Botafogo : Toplam Kart Puanı
+Üst
+Alt
+1.5
+1.52
+2.24
+2.5
+2.47
+1.42
+3.5
+4.80
+1.13
+En Fazla Korner Olan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.59
+6.90
+1.59
+Direkt Kırmızı Kart
+Evet
+2.73
+Her İki Takım da Kırmızı Kart Alır
+Evet
+41.00
+Her İki Takım da Kart Alır
+Evet
+Hayır
+1.11
+5.55
+Her iki takım da 2 veya daha fazla kart görür
+Evet
+Hayır
+1.54
+2.33
+Her iki takım da her iki yarıda kart alır
+Evet
+2.80
+İlk Kartı Görecek Takım
+Corinthians SP
+Botafogo
+No Card
+2.04
+1.65
+81.00
+Son Kartı Görecek Takım
+Corinthians SP
+Botafogo
+No Card
+2.04
+1.65
+81.00
+Sarı Kartlar: Sonuç
+Corinthians SP
+X
+Botafogo
+2.80
+4.80
+1.83
+Sarı Kartlar: Çifte Şans
+1X
+12
+X2
+1.87
+1.17
+1.37
+Sarı Kartlar: Handikap
+Corinthians SP
+Botafogo
+0
+2.37
+0
+1.52
++0.5
+1.87
+-0.5
+1.83
++1
+1.56
+-1
+2.27
+Sarı Kartlar: Toplam
+Üst
+Alt
+4.5
+1.66
+2.08
+5
+1.95
+1.75
+5.5
+2.35
+1.53
+Sarı Kartlar: Corinthians SP : Toplam
+Üst
+Alt
+2
+1.77
+1.93
+Sarı Kartlar: Botafogo : Toplam
+Üst
+Alt
+2.5
+1.76
+1.94
+Sarı Kartlar : 1. Yarı Sonucu
+Corinthians SP
+X
+Botafogo
+3.35
+2.72
+2.31
+Sarı Kartlar : 1. Yarı Handikap
+Corinthians SP
+Botafogo
+0
+2.25
+0
+1.57
++0.5
+1.55
+-0.5
+2.30
+Sarı Kartlar: 1. Yarı : Toplam
+Üst
+Alt
+1.5
+1.80
+1.90
+2
+2.62
+1.43
+Sarı Kartlar : 1. Yarı Corinthians SP Toplam
+Üst
+Alt
+0.5
+1.77
+1.93
+Sarı Kartlar : 1. Yarı Botafogo Toplam
+Üst
+Alt
+0.5
+1.51
+2.39
+1
+2.23
+1.58
+Sarı Kartlar : 2.Yarı Sonuç
+Corinthians SP
+X
+Botafogo
+2.59
+3.52
+2.01
+Sarı Kartlar : 2.Yarı Handikap
+Corinthians SP
+Botafogo
+0
+2.21
+0
+1.59
++0.5
+1.71
+-0.5
+2.01
+Sarı Kartlar: 2.Yarı : Toplam
+Üst
+Alt
+3
+1.75
+1.95
+3.5
+2.20
+1.60
+Sarı Kartlar: 2. Yarı : Corinthians SP Toplam
+Üst
+Alt
+1
+1.44
+2.59
+1.5
+2.10
+1.65
+Sarı Kartlar: 2. Yarı : Botafogo Toplam
+Üst
+Alt
+1.5
+1.73
+1.97
+2
+2.44
+1.49
+Sarı Kartlar: İlk Sarı Kartı Görür
+Corinthians SP
+Botafogo
+2.10
+1.72
+Sarı Kartlar: Son Sarı Kartı Görür
+Corinthians SP
+Botafogo
+2.10
+1.72
+Maçta Penaltı Olur
+Evet
+Hayır
+3.10
+1.32
+Corinthians SP : Penaltı Kazanır
+Evet
+4.60
+Botafogo : Penaltı Kazanır
+Evet
+5.70
+İki Takım da Penaltı Kazanır
+Evet
+21.00
+Maçta İki Penaltı Olur
+Evet
+4.90
+1. . Yarı : Penaltı
+Evet
+Hayır
+5.35
+1.12
+Penaltıdan Gol Atar
+Corinthians SP
+Botafogo
+6.20
+8.30
+Penaltı Kaçırır
+Corinthians SP
+Botafogo
+17.00
+25.00
+Maçta Kırmzı Kartlar
+YENİ
+1+
+3.35
+2+
+12.00
+3+
+26.00
+Corinthians SP Kırmızı Kartlar
+YENİ
+1+
+2+
+6.80
+19.00
+Botafogo Kırmızı Kartlar
+YENİ
+1+
+2+
+5.30
+14.00
+1. . Yarı : Kırmızı Kart
+Evet
+Hayır
+7.85
+1.05
+2.. Yarı : Kırmızı Kart
+Evet
+Hayır
+4.75
+1.15
+Penaltı ve Kırmızı Kart
+Evet
+Hayır
+7.10
+1.065
+Maçta Penaltı veya Kırmızı Kart olur
+Evet
+1.55
+Maçta kendi kalesine gol atılır
+Evet
+Hayır
+9.30
+1.027
+Herhangi Bir Zamanda Gol Atar
+Memphis Depay
+2.50
+Pedro Raul
+2.60
+Kaio Cesar
+3.30
+Arthur Cabral
+3.55
+Tiquinho Soares
+3.70
+Danilo Pereira
+3.90
+Matheus Bidu
+5.10
+Hakim Ziyech
+5.10
+Matheus Martins
+5.40
+Kauan Toledo
+5.70
+Edenilson
+6.20
+Breno Bidon
+6.30
+Daha Fazla Seçeneği Göster
+İlk Golcü
+Pedro Raul
+5.20
+Memphis Depay
+5.40
+Arthur Cabral
+7.10
+Kaio Cesar
+7.10
+Tiquinho Soares
+7.70
+Danilo Pereira
+8.80
+Matheus Bidu
+12.00
+Matheus Martins
+12.00
+Hakim Ziyech
+12.00
+Kauan Toledo
+13.00
+Edenilson
+14.00
+Breno Bidon
+15.00
+Daha Fazla Seçeneği Göster
+İlk Golcü. Çifte Şans
+Memphis Depay or Yuri Alberto
+2.63
+Yuri Alberto or Rodrigo Garro
+3.10
+Memphis Depay or Rodrigo Garro
+3.25
+Arthur Cabral or Yuri Alberto
+3.40
+Memphis Depay or Arthur Cabral
+3.50
+Arthur Cabral or Rodrigo Garro
+4.33
+Gustavo Henrique or Jesse Lingard
+5.50
+Andre Luiz Santos or Jesse Lingard
+5.50
+Jesse Lingard or Kauan Toledo
+6.00
+Gustavo Henrique or Andre Luiz Santos
+7.00
+Son Golcü
+Pedro Raul
+5.20
+Memphis Depay
+5.40
+Kaio Cesar
+7.10
+Tiquinho Soares
+7.70
+Arthur Cabral
+7.80
+Danilo Pereira
+8.80
+Matheus Martins
+11.00
+Hakim Ziyech
+12.00
+Edenilson
+14.00
+Matheus Bidu
+14.00
+Alvaro Montoro
+15.00
+Kauan Toledo
+15.00
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 2 Gol Atar
+Memphis Depay
+10.00
+Pedro Raul
+11.00
+Kaio Cesar
+19.00
+Arthur Cabral
+21.00
+Tiquinho Soares
+23.00
+Danilo Pereira
+26.00
+Matheus Bidu
+31.00
+Hakim Ziyech
+41.00
+Matheus Martins
+41.00
+Kauan Toledo
+56.00
+Breno Bidon
+56.00
+Edenilson
+56.00
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 3 Gol Atar
+Pedro Raul
+61.00
+Memphis Depay
+76.00
+Tiquinho Soares
+86.00
+Kaio Cesar
+111.00
+Arthur Cabral
+111.00
+Hakim Ziyech
+126.00
+Allan
+126.00
+Anthony
+126.00
+Alex Telles
+126.00
+Gabriel Justino
+126.00
+Kauan Toledo
+126.00
+Pedro Milans
+126.00
+Daha Fazla Seçeneği Göster
+Oyuncu Asist Yapar
+YENİ
+Memphis Depay 1+
+3.60
+Kaio Cesar 1+
+3.65
+Hakim Ziyech 1+
+4.33
+Matheuzinho 1+
+4.70
+Matheus Bidu 1+
+4.85
+Kauan Toledo 1+
+5.20
+Pedro Raul 1+
+5.70
+Paulinho 1+
+6.00
+Fabrizio Angileri 1+
+6.00
+Alex Telles 1+
+6.20
+Breno Bidon 1+
+6.20
+Andre Carrillo 1+
+6.50
+Vitinho 1+
+6.70
+Matheus Martins 1+
+6.90
+Alvaro Montoro 1+
+6.90
+Edenilson 1+
+7.00
+Caio Roque 1+
+7.40
+Pedro Milans 1+
+7.50
+Danilo Pereira 1+
+8.40
+Tiquinho Soares 1+
+8.50
+Leo Mana 1+
+8.60
+Jhoan Hernandez 1+
+8.70
+Cristian Medina 1+
+8.70
+Raniele 1+
+9.00
+Allan 1+
+9.00
+Arthur Cabral 1+
+9.30
+Huguinho 1+
+13.00
+Domingos Andrade 1+
+13.00
+Marcal 1+
+19.00
+Gustavo Henrique 1+
+19.00
+Gabriel Paulista 1+
+19.00
+Anthony 1+
+21.00
+Lucas Monzon 1+
+23.00
+Arthur Chaves 1+
+26.00
+Gabriel Justino 1+
+26.00
+Oyuncu Gol Atar veya Asist Yapar
+Memphis Depay
+1.77
+Pedro Raul
+1.96
+Kaio Cesar
+2.03
+Arthur Cabral
+2.65
+Hakim Ziyech
+2.65
+Tiquinho Soares
+2.70
+Matheus Bidu
+2.80
+Danilo Pereira
+2.85
+Kauan Toledo
+3.00
+Matheus Martins
+3.25
+Breno Bidon
+3.35
+Edenilson
+3.50
+Daha Fazla Seçeneği Göster
+Oyuncu Gol Atar veya Asist Yapar (Çifte Şans)
+Memphis Depay or Rodrigo Garro
+1.22
+Rodrigo Garro or Yuri Alberto
+1.22
+Memphis Depay or Yuri Alberto
+1.22
+Rodrigo Garro or Jesse Lingard
+1.30
+Yuri Alberto or Jesse Lingard
+1.33
+Memphis Depay or Jesse Lingard
+1.33
+Arthur Cabral or Breno Bidon
+1.73
+Andre Luiz Santos or Arthur Cabral
+1.73
+Andre Luiz Santos or Breno Bidon
+1.80
+Kauan Toledo or Arthur Cabral
+1.83
+Oyuncu Gol Atar ve Asist Yapar
+YENİ
+Memphis Depay
+6.90
+Kaio Cesar
+7.90
+Pedro Raul
+11.00
+Matheus Bidu
+13.00
+Hakim Ziyech
+13.00
+Breno Bidon
+19.00
+Matheus Martins
+19.00
+Danilo Pereira
+19.00
+Kauan Toledo
+19.00
+Tiquinho Soares
+19.00
+Edenilson
+21.00
+Arthur Cabral
+21.00
+Andre Carrillo
+21.00
+Alvaro Montoro
+21.00
+Alex Telles
+25.00
+Vitinho
+25.00
+Raniele
+29.00
+Matheuzinho
+29.00
+Cristian Medina
+36.00
+Oyuncu Penaltıdan Gol Atar
+YENİ
+Pedro Raul
+6.30
+Memphis Depay
+8.30
+Tiquinho Soares
+23.00
+Kauan Toledo
+23.00
+Kaio Cesar
+23.00
+Breno Bidon
+23.00
+Matheus Martins
+25.00
+Danilo Pereira
+25.00
+Arthur Cabral
+25.00
+Alvaro Montoro
+25.00
+Hakim Ziyech
+25.00
+Alex Telles
+25.00
+Andre Carrillo
+25.00
+Edenilson
+29.00
+Cristian Medina
+31.00
+Allan
+34.00
+Domingos Andrade
+36.00
+Raniele
+36.00
+Huguinho
+36.00
+Matheus Bidu
+46.00
+Vitinho
+56.00
+Paulinho
+76.00
+Arthur Chaves
+91.00
+Fabrizio Angileri
+91.00
+Pedro Milans
+91.00
+Matheuzinho
+91.00
+Marcal
+91.00
+Jhoan Hernandez
+91.00
+Gustavo Henrique
+91.00
+Anthony
+91.00
+Lucas Monzon
+91.00
+Gabriel Justino
+91.00
+Leo Mana
+91.00
+Gabriel Paulista
+91.00
+Caio Roque
+91.00
+Oyuncu Ceza Sahası Dışından Gol Atar
+Kaio
+11.00
+Gustavo Henrique
+12.00
+Tiquinho Soares
+12.00
+Kaio Cesar
+12.00
+Gui Negao
+13.00
+Vitinho
+13.00
+Andre
+13.00
+Huguinho
+14.00
+Matheus Bidu
+15.00
+Pedro Raul
+15.00
+Memphis Depay
+15.00
+Edenilson
+17.00
+Daha Fazla Seçeneği Göster
+Oyuncu Penaltı Kaçırır
+YENİ
+Pedro Raul
+25.00
+Memphis Depay
+25.00
+Tiquinho Soares
+41.00
+Kaio Cesar
+41.00
+Arthur Cabral
+41.00
+Danilo Pereira
+46.00
+Hakim Ziyech
+61.00
+Vitinho
+71.00
+Matheus Martins
+76.00
+Kauan Toledo
+76.00
+Breno Bidon
+86.00
+Alvaro Montoro
+86.00
+Alex Telles
+91.00
+Matheus Bidu
+91.00
+Gabriel Justino
+91.00
+Fabrizio Angileri
+91.00
+Huguinho
+91.00
+Gabriel Paulista
+91.00
+Jhoan Hernandez
+91.00
+Paulinho
+91.00
+Edenilson
+91.00
+Arthur Chaves
+91.00
+Lucas Monzon
+91.00
+Leo Mana
+91.00
+Marcal
+91.00
+Raniele
+91.00
+Anthony
+91.00
+Caio Roque
+91.00
+Matheuzinho
+91.00
+Andre Carrillo
+91.00
+Cristian Medina
+91.00
+Pedro Milans
+91.00
+Domingos Andrade
+91.00
+Allan
+91.00
+Gustavo Henrique
+91.00
+Penaltı Kazandıran Oyuncu
+YENİ
+Kaio Cesar 1+
+14.00
+Pedro Raul 1+
+26.00
+Matheus Bidu 1+
+26.00
+Kauan Toledo 1+
+26.00
+Tiquinho Soares 1+
+26.00
+Memphis Depay 1+
+26.00
+Danilo Pereira 1+
+31.00
+Breno Bidon 1+
+34.00
+Arthur Cabral 1+
+34.00
+Matheus Martins 1+
+34.00
+Paulinho 1+
+41.00
+Cristian Medina 1+
+41.00
+Hakim Ziyech 1+
+41.00
+Alvaro Montoro 1+
+46.00
+Vitinho 1+
+46.00
+Matheuzinho 1+
+46.00
+Caio Roque 1+
+46.00
+Pedro Milans 1+
+51.00
+Raniele 1+
+56.00
+Edenilson 1+
+56.00
+Jhoan Hernandez 1+
+56.00
+Domingos Andrade 1+
+61.00
+Leo Mana 1+
+61.00
+Huguinho 1+
+71.00
+Gabriel Justino 1+
+71.00
+Arthur Chaves 1+
+71.00
+Lucas Monzon 1+
+71.00
+Gabriel Paulista 1+
+71.00
+Fabrizio Angileri 1+
+71.00
+Alex Telles 1+
+71.00
+Allan 1+
+71.00
+Andre Carrillo 1+
+71.00
+Anthony 1+
+71.00
+Marcal 1+
+71.00
+Gustavo Henrique 1+
+71.00
+Oyuncu Kale Sahası İçinden Gol Atar
+YENİ
+Tiquinho Soares
+4.60
+Pedro Raul
+6.20
+Andre Carrillo
+9.20
+Matheus Bidu
+9.70
+Kaio Cesar
+11.00
+Memphis Depay
+12.00
+Gustavo Henrique
+13.00
+Gabriel Paulista
+15.00
+Cristian Medina
+17.00
+Arthur Cabral
+19.00
+Danilo Pereira
+21.00
+Arthur Chaves
+21.00
+Kauan Toledo
+21.00
+Hakim Ziyech
+23.00
+Raniele
+23.00
+Marcal
+26.00
+Anthony
+31.00
+Alvaro Montoro
+31.00
+Edenilson
+34.00
+Leo Mana
+36.00
+Breno Bidon
+36.00
+Pedro Milans
+41.00
+Allan
+41.00
+Caio Roque
+41.00
+Matheus Martins
+41.00
+Jhoan Hernandez
+41.00
+Vitinho
+46.00
+Gabriel Justino
+51.00
+Matheuzinho
+51.00
+Lucas Monzon
+51.00
+Fabrizio Angileri
+51.00
+Alex Telles
+51.00
+Huguinho
+51.00
+Paulinho
+51.00
+Domingos Andrade
+51.00
+Oyuncu Kafa Golü Atar
+Pedro Raul
+5.10
+Tiquinho Soares
+7.00
+Arthur Cabral
+7.70
+Gustavo Henrique
+8.30
+Raniele
+19.00
+Gabriel Paulista
+19.00
+Arthur Chaves
+21.00
+Danilo Pereira
+21.00
+Memphis Depay
+21.00
+Gabriel Justino
+25.00
+Marcal
+25.00
+Anthony
+25.00
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar Çifte Şans
+Pedro Raul or Memphis Depay
+1.59
+Memphis Depay or Kaio Cesar
+1.72
+Pedro Raul or Kaio Cesar
+1.75
+Memphis Depay or Arthur Cabral
+1.76
+Memphis Depay or Tiquinho Soares
+1.78
+Pedro Raul or Arthur Cabral
+1.79
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar. Üçlü Şans
+Pedro Raul or Memphis Depay or Kaio Cesar
+1.35
+Pedro Raul or Memphis Depay or Arthur Cabral
+1.36
+Pedro Raul or Memphis Depay or Tiquinho Soares
+1.37
+Danilo Pereira or Pedro Raul or Memphis Depay
+1.38
+Pedro Raul or Memphis Depay or Matheus Bidu
+1.42
+Pedro Raul or Hakim Ziyech or Memphis Depay
+1.42
+Daha Fazla Seçeneği Göster
+Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar
+Pedro Raul and Memphis Depay
+6.50
+Memphis Depay and Kaio Cesar
+8.30
+Pedro Raul and Kaio Cesar
+8.60
+Memphis Depay and Arthur Cabral
+8.90
+Pedro Raul and Arthur Cabral
+9.20
+Memphis Depay and Tiquinho Soares
+9.30
+Daha Fazla Seçeneği Göster
+Üç Oyuncu da Herhangi Bir Zamanda Gol Atar
+Pedro Raul and Memphis Depay and Kaio Cesar
+21.00
+Pedro Raul and Memphis Depay and Arthur Cabral
+23.00
+Pedro Raul and Memphis Depay and Tiquinho Soares
+25.00
+Danilo Pereira and Pedro Raul and Memphis Depay
+25.00
+Memphis Depay and Arthur Cabral and Kaio Cesar
+29.00
+Pedro Raul and Arthur Cabral and Kaio Cesar
+31.00
+Daha Fazla Seçeneği Göster
+Oyuncu 1. Yarıda Gol Atar
+Memphis Depay
+4.30
+Pedro Raul
+4.50
+Kaio Cesar
+5.80
+Arthur Cabral
+6.20
+Tiquinho Soares
+6.50
+Danilo Pereira
+6.90
+Matheus Bidu
+9.10
+Hakim Ziyech
+9.30
+Matheus Martins
+9.70
+Kauan Toledo
+10.00
+Edenilson
+11.00
+Breno Bidon
+11.00
+Andre Carrillo
+13.00
+Alvaro Montoro
+13.00
+Gustavo Henrique
+14.00
+Alex Telles
+15.00
+Raniele
+17.00
+Huguinho
+19.00
+Matheuzinho
+19.00
+Vitinho
+19.00
+Cristian Medina
+21.00
+Allan
+21.00
+Paulinho
+25.00
+Fabrizio Angileri
+25.00
+Gabriel Paulista
+25.00
+Arthur Chaves
+25.00
+Leo Mana
+26.00
+Pedro Milans
+26.00
+Marcal
+26.00
+Domingos Andrade
+29.00
+Jhoan Hernandez
+29.00
+Caio Roque
+29.00
+Anthony
+29.00
+Gabriel Justino
+31.00
+Lucas Monzon
+41.00
+Oyuncu 2. Yarıda Gol Atar
+Memphis Depay
+3.60
+Pedro Raul
+3.75
+Kaio Cesar
+4.85
+Arthur Cabral
+5.20
+Tiquinho Soares
+5.40
+Danilo Pereira
+5.70
+Matheus Bidu
+7.50
+Hakim Ziyech
+7.70
+Matheus Martins
+8.20
+Kauan Toledo
+8.50
+Edenilson
+9.30
+Breno Bidon
+9.40
+Alvaro Montoro
+11.00
+Andre Carrillo
+11.00
+Gustavo Henrique
+11.00
+Alex Telles
+13.00
+Raniele
+13.00
+Cristian Medina
+17.00
+Huguinho
+17.00
+Matheuzinho
+17.00
+Allan
+17.00
+Vitinho
+17.00
+Fabrizio Angileri
+21.00
+Arthur Chaves
+21.00
+Gabriel Paulista
+21.00
+Paulinho
+21.00
+Leo Mana
+23.00
+Marcal
+23.00
+Pedro Milans
+23.00
+Domingos Andrade
+23.00
+Jhoan Hernandez
+25.00
+Anthony
+25.00
+Caio Roque
+26.00
+Gabriel Justino
+26.00
+Lucas Monzon
+36.00
+Oyuncu Her İki Yarıda da Gol Atar
+Memphis Depay
+12.00
+Pedro Raul
+12.00
+Kaio Cesar
+19.00
+Arthur Cabral
+21.00
+Tiquinho Soares
+23.00
+Danilo Pereira
+26.00
+Vitinho
+36.00
+Matheus Bidu
+36.00
+Hakim Ziyech
+36.00
+Matheus Martins
+41.00
+Oyuncu Serbest Vuruştan Gol Atar
+YENİ
+Memphis Depay
+26.00
+Alex Telles
+56.00
+Vitinho
+56.00
+Breno Bidon
+71.00
+Andre Carrillo
+76.00
+Danilo Pereira
+76.00
+Allan
+81.00
+Kaio Cesar
+81.00
+Domingos Andrade
+86.00
+Edenilson
+86.00
+Pedro Raul
+86.00
+Raniele
+91.00
+Kauan Toledo
+91.00
+Pedro Milans
+91.00
+Cristian Medina
+91.00
+Arthur Cabral
+91.00
+Lucas Monzon
+91.00
+Jhoan Hernandez
+91.00
+Matheus Martins
+91.00
+Tiquinho Soares
+91.00
+Matheuzinho
+91.00
+Alvaro Montoro
+91.00
+Fabrizio Angileri
+91.00
+Hakim Ziyech
+91.00
+Arthur Chaves
+91.00
+Gabriel Justino
+91.00
+Anthony
+91.00
+Leo Mana
+91.00
+Gabriel Paulista
+91.00
+Matheus Bidu
+91.00
+Huguinho
+91.00
+Gustavo Henrique
+91.00
+Caio Roque
+91.00
+Marcal
+91.00
+Paulinho
+91.00
+Oyuncu Sağ Ayağıyla Gol Atar
+YENİ
+Memphis Depay
+3.00
+Pedro Raul
+5.40
+Danilo Pereira
+5.90
+Matheus Martins
+6.00
+Arthur Cabral
+6.20
+Kauan Toledo
+7.20
+Tiquinho Soares
+7.40
+Edenilson
+8.10
+Alvaro Montoro
+8.30
+Andre Carrillo
+10.00
+Kaio Cesar
+12.00
+Huguinho
+13.00
+Cristian Medina
+14.00
+Raniele
+15.00
+Matheuzinho
+15.00
+Matheus Bidu
+17.00
+Vitinho
+21.00
+Domingos Andrade
+23.00
+Pedro Milans
+26.00
+Hakim Ziyech
+26.00
+Leo Mana
+26.00
+Breno Bidon
+26.00
+Allan
+29.00
+Gustavo Henrique
+29.00
+Arthur Chaves
+36.00
+Gabriel Paulista
+36.00
+Fabrizio Angileri
+41.00
+Alex Telles
+41.00
+Gabriel Justino
+41.00
+Anthony
+41.00
+Paulinho
+41.00
+Lucas Monzon
+41.00
+Jhoan Hernandez
+41.00
+Marcal
+41.00
+Caio Roque
+41.00
+Oyuncu Sol Ayağıyla Gol Atar
+YENİ
+Kaio Cesar
+4.20
+Hakim Ziyech
+6.20
+Matheus Bidu
+7.30
+Breno Bidon
+8.40
+Pedro Raul
+8.70
+Alex Telles
+9.80
+Danilo Pereira
+12.00
+Memphis Depay
+12.00
+Fabrizio Angileri
+17.00
+Paulinho
+19.00
+Tiquinho Soares
+19.00
+Arthur Cabral
+19.00
+Vitinho
+26.00
+Kauan Toledo
+26.00
+Allan
+26.00
+Caio Roque
+31.00
+Jhoan Hernandez
+31.00
+Marcal
+34.00
+Edenilson
+36.00
+Domingos Andrade
+41.00
+Matheuzinho
+41.00
+Alvaro Montoro
+41.00
+Gustavo Henrique
+41.00
+Raniele
+41.00
+Leo Mana
+41.00
+Lucas Monzon
+41.00
+Gabriel Paulista
+41.00
+Matheus Martins
+41.00
+Huguinho
+41.00
+Anthony
+41.00
+Gabriel Justino
+41.00
+Andre Carrillo
+41.00
+Arthur Chaves
+41.00
+Cristian Medina
+41.00
+Pedro Milans
+41.00
+İlk 10 Dakikada Gol Atar
+Memphis Depay
+17.00
+Pedro Raul
+17.00
+Kaio Cesar
+23.00
+Arthur Cabral
+25.00
+Tiquinho Soares
+25.00
+Danilo Pereira
+26.00
+Matheus Bidu
+31.00
+Hakim Ziyech
+34.00
+Kauan Toledo
+34.00
+Matheus Martins
+36.00
+Edenilson
+36.00
+Breno Bidon
+36.00
+Alvaro Montoro
+41.00
+Andre Carrillo
+46.00
+Gustavo Henrique
+51.00
+Vitinho
+51.00
+Raniele
+56.00
+Alex Telles
+56.00
+Cristian Medina
+67.00
+Huguinho
+67.00
+Allan
+71.00
+Matheuzinho
+71.00
+Arthur Chaves
+81.00
+Paulinho
+81.00
+Fabrizio Angileri
+81.00
+Gabriel Justino
+81.00
+Leo Mana
+81.00
+Caio Roque
+81.00
+Lucas Monzon
+81.00
+Jhoan Hernandez
+81.00
+Anthony
+81.00
+Pedro Milans
+81.00
+Marcal
+81.00
+Domingos Andrade
+81.00
+Gabriel Paulista
+81.00
+Corinthians SP : İlk Golü Atar
+Memphis Depay
+3.40
+Yuri Alberto
+3.40
+Pedro Raul
+3.80
+Vitinho Coelho
+4.50
+Zakaria Labyad
+4.50
+Gui Negao
+5.00
+Rodrigo Garro
+5.00
+Kaio Cesar
+5.50
+Jesse Lingard
+5.50
+Alex Santana
+6.50
+Dieguinho Lopes
+6.50
+Kayke Guimaraes
+7.50
+Daha Fazla Seçeneği Göster
+Botafogo : İlk Golü Atar
+Arthur Cabral
+4.90
+Jose Kadir Barria
+5.00
+Danilo Pereira
+5.30
+Tiquinho Soares
+5.60
+Hakim Ziyech
+5.70
+Lucas Emanuel
+6.00
+Matheus Martins
+6.20
+Junior Santos
+6.50
+Jordan Barrera
+6.50
+Kauan Toledo
+7.40
+Danilo dos Santos
+7.50
+Lucas Villalba
+8.50
+Daha Fazla Seçeneği Göster
+Corinthians SP : Son Golcü
+Yuri Alberto
+3.40
+Pedro Raul
+3.40
+Memphis Depay
+3.60
+Vitinho Coelho
+4.50
+Zakaria Labyad
+4.50
+Rodrigo Garro
+5.00
+Kaio Cesar
+5.50
+Jesse Lingard
+5.50
+Gui Negao
+5.50
+Dieguinho Lopes
+6.50
+Alex Santana
+6.50
+Kayke Guimaraes
+7.50
+Daha Fazla Seçeneği Göster
+Botafogo : Son Golü Atar
+Matheus Martins
+4.75
+Arthur Cabral
+4.75
+Jose Kadir Barria
+5.00
+Tiquinho Soares
+5.50
+Danilo Pereira
+5.50
+Hakim Ziyech
+5.50
+Lucas Emanuel
+6.00
+Junior Santos
+6.50
+Jordan Barrera
+6.50
+Danilo dos Santos
+7.50
+Alvaro Montoro
+8.50
+Kauan Toledo
+8.50
+Daha Fazla Seçeneği Göster
+Gol Asisti Yapar Çifte Şans
+Memphis Depay or Rodrigo Garro
+1.48
+Yuri Alberto or Rodrigo Garro
+1.55
+Breno Bidon or Rodrigo Garro
+1.55
+Yuri Alberto or Memphis Depay
+1.81
+Breno Bidon or Memphis Depay
+1.81
+Breno Bidon or Yuri Alberto
+1.93
+Jesse Lingard or Andre Luiz Santos
+2.06
+Jesse Lingard or Kauan Toledo
+2.17
+Jesse Lingard or Lucas Villalba
+2.17
+Lucas Villalba or Andre Luiz Santos
+2.22
+Oyuncu Kart Görür
+Marcal
+2.47
+Gabriel Justino
+2.55
+Huguinho
+2.55
+Domingos Andrade
+2.55
+Alvaro Montoro
+2.90
+Arthur Chaves
+2.90
+Allan
+3.05
+Cristian Medina
+3.05
+Breno Bidon
+3.10
+Kauan Toledo
+3.10
+Paulinho
+3.20
+Alex Telles
+3.20
+Daha Fazla Seçeneği Göster
+Oyuncu Kart Görür Çifte Şans
+Gustavo Henrique or Cristian Medina
+1.62
+Nahuel Ferraresi or Cristian Medina
+1.67
+Arthur Cabral or Cristian Medina
+1.67
+Nahuel Ferraresi or Gustavo Henrique
+1.80
+Kauan Toledo or Gustavo Henrique
+1.83
+Arthur Cabral or Nahuel Ferraresi
+1.91
+Arthur Cabral or Kauan Toledo
+2.00
+Alex Telles or Kauan Toledo
+2.10
+Alex Telles or Breno Bidon
+2.38
+Alex Telles or Rodrigo Garro
+2.38
+Oyuncu Sarı Kart Görür
+Marcal
+2.55
+Huguinho
+2.60
+Gabriel Justino
+2.60
+Domingos Andrade
+2.60
+Arthur Chaves
+3.00
+Alvaro Montoro
+3.00
+Cristian Medina
+3.10
+Allan
+3.15
+Paulinho
+3.25
+Breno Bidon
+3.25
+Alex Telles
+3.25
+Kauan Toledo
+3.25
+Edenilson
+3.35
+Lucas Monzon
+3.35
+Raniele
+3.35
+Gustavo Henrique
+3.40
+Matheuzinho
+3.40
+Anthony
+3.45
+Arthur Cabral
+3.50
+Fabrizio Angileri
+3.50
+Andre Carrillo
+3.50
+Kaio Cesar
+3.50
+Leo Mana
+3.55
+Vitinho
+3.60
+Gabriel Paulista
+3.65
+Matheus Bidu
+3.75
+Tiquinho Soares
+3.75
+Pedro Raul
+3.80
+Matheus Martins
+3.90
+Jhoan Hernandez
+4.10
+Hakim Ziyech
+4.10
+Caio Roque
+4.20
+Memphis Depay
+4.30
+Danilo Pereira
+4.80
+Pedro Milans
+5.00
+Gabriel Batista
+6.70
+Hugo Souza
+7.70
+Kart Görecek İlk Oyuncu
+Huguinho
+8.30
+Domingos Andrade
+8.40
+Marcal
+9.10
+Allan
+10.00
+Kauan Toledo
+11.00
+Lucas Monzon
+11.00
+Andre Carrillo
+11.00
+Raniele
+12.00
+Breno Bidon
+12.00
+Anthony
+12.00
+Leo Mana
+12.00
+Vitinho
+13.00
+Daha Fazla Seçeneği Göster
+Son Kartı Görecek Oyuncu
+YENİ
+Huguinho
+8.30
+Domingos Andrade
+8.40
+Marcal
+9.10
+Allan
+10.00
+Kauan Toledo
+11.00
+Lucas Monzon
+11.00
+Andre Carrillo
+11.00
+Leo Mana
+12.00
+Raniele
+12.00
+Breno Bidon
+12.00
+Anthony
+12.00
+Cristian Medina
+13.00
+Paulinho
+13.00
+Gabriel Justino
+13.00
+Alvaro Montoro
+13.00
+Alex Telles
+13.00
+Vitinho
+13.00
+Jhoan Hernandez
+14.00
+Edenilson
+14.00
+Caio Roque
+14.00
+Gabriel Paulista
+14.00
+Pedro Raul
+14.00
+Arthur Chaves
+14.00
+Kaio Cesar
+14.00
+Matheuzinho
+15.00
+Matheus Martins
+15.00
+Matheus Bidu
+15.00
+Gustavo Henrique
+15.00
+Arthur Cabral
+17.00
+Fabrizio Angileri
+17.00
+Memphis Depay
+17.00
+Pedro Milans
+17.00
+Tiquinho Soares
+17.00
+Danilo Pereira
+19.00
+Hakim Ziyech
+19.00
+Gabriel Batista
+29.00
+Hugo Souza
+36.00
+Oyundan Uzaklaştırılır
+YENİ
+Kauan Toledo
+19.00
+Leo Mana
+23.00
+Domingos Andrade
+23.00
+Huguinho
+25.00
+Marcal
+25.00
+Alvaro Montoro
+25.00
+Breno Bidon
+26.00
+Anthony
+29.00
+Allan
+29.00
+Gabriel Justino
+29.00
+Lucas Monzon
+29.00
+Cristian Medina
+31.00
+Daha Fazla Seçeneği Göster
+Corinthians SP : Her İki Yarıda Gol Atar
+Evet
+Hayır
+2.62
+1.43
+Botafogo Her İki Yarıda Gol Atar
+Evet
+Hayır
+5.35
+1.12
+Corinthians SP : Her İki Yarıda Kazanır
+Evet
+Hayır
+4.30
+1.18
+Corinthians SP : İlk Yarıda Gol Atar
+Evet
+Hayır
+1.73
+1.97
+Botafogo İlk Yarıda Gol Atar
+Evet
+Hayır
+2.65
+1.42
+Corinthians SP : İkinci Yarıda Gol Atar
+Evet
+Hayır
+1.48
+2.45
+Botafogo İkinci Yarıda Gol Atar
+Evet
+Hayır
+2.21
+1.59
+İlk Yarıda Gol
+Evet
+Hayır
+1.37
+2.85
+İkinci Yarıda Gol
+Evet
+Hayır
+1.21
+3.90
+Her İki Yarııda da 1.5 Üst Gol
+Evet
+Hayır
+5.10
+1.13
+Her İki Yarı Goller 1.5 Alt
+Evet
+Hayır
+2.45
+1.48
+Corinthians SP Gol Yemeden Kazanır
+Evet
+Hayır
+2.75
+1.39
+Botafogo Gol Yemeden Kazanır
+Evet
+Hayır
+7.10
+1.065
+Corinthians SP İki veya Üç Gol Farkla Kazanır
+Evet
+Hayır
+3.30
+1.28
+Botafogo İki veya Üç Gol Farkla Kazanır
+Evet
+Hayır
+8.70
+1.035
+Corinthians SP Bir Gol Farkla Kazanır veya Berabere
+Evet
+Hayır
+1.81
+1.89
+Botafogo Bir Gol Farkla Kazanır veya Berabere Kalır
+Evet
+Hayır
+2.45
+1.48
+Corinthians SP En Az Bir Yarıyı Kazanır
+Evet
+Hayır
+1.39
+2.75
+Botafogo En Az Bir Yarıda Kazanır
+Evet
+Hayır
+2.65
+1.42
+Corinthians SP İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+9.00
+1.03
+Botafogo İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+8.20
+1.045
+Corinthians SP : Gol Atar 1.Yarı/2.Yarı
+Evet/Hayır
+3.69
+Evet/Evet
+2.37
+Hayır/Hayır
+5.10
+Hayır/Evet
+2.62
+Botafogo Gol Atar İlk Yarı/İkinci Yarı
+Evet/Hayır
+3.74
+Evet/Evet
+4.90
+Hayır/Hayır
+2.38
+Hayır/Evet
+2.77
+Yarıları Farklı Takımlar Kazanır
+Evet
+Hayır
+4.90
+1.14
+Yarılardan En Az Birinde Beraberlik
+Evet
+Hayır
+1.53
+2.35
+Maç Skoru Beraberlik (0-0 hariç)
+Evet
+Hayır
+4.42
+1.17
+Kesin Gol Sayısı
+Gol Yok
+9.10
+Kesin 1
+4.42
+Kesin 2
+3.47
+Kesin 3
+3.83
+Kesin 4
+5.10
+Kesin 5
+7.70
+Kesin 6 veya Fazla
+10.00
+Maçta 1 Gol Olur
+Evet
+Hayır
+4.42
+1.17
+Maçta 2 Gol Olur
+Evet
+Hayır
+3.47
+1.26
+Maçta 3 Gol Olur
+Evet
+Hayır
+3.83
+1.22
+Maçta 4 Gol Olur
+Evet
+Hayır
+5.10
+1.13
+Corinthians SP : Kazanma Marjı
+1
+3.25
+2
+4.90
+3
+7.10
+4+
+11.00
+Botafogo : Kazanma Marjı
+1
+6.15
+2
+12.00
+3
+31.00
+4+
+96.00
+Skor Kombinasyonları
+1-0 / 2-0 / 3-0
+2.79
+4-0 / 5-0 / 6-0
+14.00
+2-1 / 3-1 / 4-1
+3.89
+3-2 / 4-2 / 4-3
+11.00
+0-1 / 0-2 / 0-3
+7.00
+0-4 / 0-5 / 0-6
+126.00
+1-2 / 1-3 / 1-4
+9.10
+2-3 / 2-4 / 3-4
+25.00
+Ofsaytlar: Toplam
+YENİ
+3+
+1.31
+4+
+1.70
+5+
+2.45
+6+
+3.85
+7+
+6.40
+Ofsaytlar: Corinthians SP Toplam
+YENİ
+1+
+1.16
+2+
+1.61
+3+
+2.65
+4+
+5.10
+5+
+10.00
+Ofsaytlar: Botafogo Toplam
+YENİ
+1+
+1.16
+2+
+1.62
+3+
+2.70
+4+
+5.20
+5+
+10.00
+Fauller: Toplam
+YENİ
+27+
+1.45
+28+
+1.59
+29+
+1.76
+30+
+1.97
+31+
+2.24
+32+
+2.60
+33+
+3.00
+Fauller: Corinthians SP - Toplam
+YENİ
+11+
+1.25
+12+
+1.38
+13+
+1.57
+14+
+1.82
+15+
+2.16
+16+
+2.65
+Fauller: Botafogo - Toplam
+YENİ
+14+
+1.41
+15+
+1.61
+16+
+1.90
+17+
+2.31
+18+
+2.90
+19+
+3.75
+20+
+5.10
+Kaleyi Bulan Şutlar: Toplam
+YENİ
+8+
+1.24
+9+
+1.41
+10+
+1.68
+11+
+2.10
+12+
+2.75
+13+
+3.75
+Kaleyi Bulan Şutlar: Corinthians SP - Toplam
+YENİ
+4+
+1.18
+5+
+1.38
+6+
+1.75
+7+
+2.38
+8+
+3.50
+9+
+5.40
+Kaleyi Bulan Şutlar: Botafogo - Toplam
+YENİ
+3+
+1.24
+4+
+1.56
+5+
+2.20
+6+
+3.40
+7+
+5.70
+Kaleyi Bulan Şutlar: 1. Yarı - Toplam
+YENİ
+3+
+1.17
+4+
+1.41
+5+
+1.90
+6+
+2.85
+7+
+4.70
+8+
+8.10
+Kaleyi Bulan Şutlar: 1. Yarı - Corinthians SP - Toplam
+YENİ
+2+
+1.31
+3+
+1.87
+4+
+3.15
+5+
+6.00
+6+
+12.00
+Kaleyi Bulan Şutlar: 1. Yarı - Botafogo - Toplam
+YENİ
+1+
+1.16
+2+
+1.66
+3+
+2.95
+4+
+6.20
+5+
+13.00
+Kaleyi Bulan Şutlar: 2. Yarı - Toplam
+YENİ
+4+
+1.21
+5+
+1.45
+6+
+1.90
+7+
+2.70
+8+
+4.20
+9+
+6.80
+Kaleyi Bulan Şutlar: 2. Yarı - Corinthians SP - Toplam
+YENİ
+2+
+1.19
+3+
+1.53
+4+
+2.23
+5+
+3.65
+6+
+6.40
+Kaleyi Bulan Şutlar: 2. Yarı - Botafogo - Toplam
+YENİ
+1+
+1.11
+2+
+1.44
+3+
+2.24
+4+
+4.10
+5+
+8.00
+6+
+15.00
+Şutlar: Toplam
+YENİ
+28+
+1.36
+29+
+1.47
+30+
+1.60
+31+
+1.77
+32+
+1.98
+33+
+2.25
+34+
+2.60
+35+
+3.00
+36+
+3.50
+Şutlar: Corinthians SP: Toplam
+YENİ
+16+
+1.23
+17+
+1.32
+18+
+1.42
+19+
+1.55
+20+
+1.71
+21+
+1.92
+22+
+2.15
+Şutlar: Botafogo: Toplam
+YENİ
+11+
+1.27
+12+
+1.39
+13+
+1.56
+14+
+1.78
+15+
+2.07
+16+
+2.43
+17+
+2.90
+Taç Atışları: Toplam
+YENİ
+42+
+1.85
+43+
+2.04
+44+
+2.28
+Taç Atışları: Corinthians SP - Toplam
+YENİ
+21+
+1.70
+22+
+1.94
+23+
+2.25
+Taç Atışları: Botafogo - Toplam
+YENİ
+21+
+1.90
+22+
+2.21
+23+
+2.65
+Paslar: Corinthians SP Toplam
+YENİ
+400+
+1.17
+450+
+1.39
+500+
+1.85
+550+
+2.75
+Paslar: Botafogo Toplam
+YENİ
+300+
+1.13
+350+
+1.38
+400+
+1.99
+450+
+3.35
+Pas Denemeleri: Corinthians SP Toplam
+YENİ
+450+
+1.10
+500+
+1.25
+550+
+1.60
+600+
+2.38
+650+
+3.85
+Pas Denemeleri: Botafogo Toplam
+YENİ
+400+
+1.23
+450+
+1.64
+500+
+2.75
+İlk 10 Dakika (00:00 - 09:59) Gol
+Üst
+Alt
+0.5
+4.42
+1.17
+İlk 10 Dakika (00:00 - 09:59) Köşe vuruşu
+Üst
+Alt
+0.5
+1.45
+2.55
+1.5
+3.00
+1.34
+Corinthians SP : İlk 10 Dakika (00:00 – 09:59) Kornerler
+Üst
+Alt
+0.5
+1.90
+1.80
+1.5
+5.10
+1.13
+Botafogo : İlk 10 Dakika (00:00 – 09:59) Kornerler
+Üst
+Alt
+0.5
+2.59
+1.44
+1.5
+8.20
+1.045
+İlk 10 Dakika (00:00 - 09:59) Sarı Kartlar
+Üst
+Alt
+0.5
+5.55
+1.11
+1-15 Dk. Galibi
+Corinthians SP
+X
+Botafogo
+4.70
+1.21
+8.90
+1-15 Dk. Gol Handikapı
+Corinthians SP
+Botafogo
+0
+1.42
+0
+2.60
+1-15 Dk. Toplam Goller
+Üst
+Alt
+0.5
+2.80
+1.38
+1
+8.20
+1.045
+1-15 Dk. Corinthians SP Toplam Goller
+Üst
+Alt
+0.5
+3.83
+1.22
+1-15 Dk. Botafogo Toplam Goller
+Üst
+Alt
+0.5
+6.00
+1.095
+1-15 Dk. İki Takım Gol Atar
+Evet
+Hayır
+12.50
+1.008
+1-30 Dk. Galibi
+Corinthians SP
+X
+Botafogo
+2.84
+1.60
+5.70
+1-30 Dk. Gol Handikapı
+Corinthians SP
+Botafogo
+0
+1.38
+0
+2.75
+1-30 Dk. Toplam Goller
+Üst
+Alt
+0.5
+1.72
+2.00
+1
+3.05
+1.33
+1-30 Dk. Corinthians SP Toplam Goller
+Üst
+Alt
+0.5
+2.27
+1.56
+1
+5.55
+1.11
+1-30 Dk. Botafogo Toplam Goller
+Üst
+Alt
+0.5
+3.57
+1.25
+1-30 Dk. Karşılıklı Gol
+Evet
+Hayır
+7.10
+1.065
+1-60 Dk. Galibi
+Corinthians SP
+X
+Botafogo
+1.90
+2.52
+4.40
+1-60 Dk. Gol Handikapı
+Corinthians SP
+Botafogo
+0
+1.33
+0
+2.95
+1-60 Dk. Toplam Goller
+Üst
+Alt
+1.5
+1.79
+1.91
+2
+2.59
+1.44
+1-60 Dk. Corinthians SP Toplam Goller
+Üst
+Alt
+0.5
+1.40
+2.70
+1
+1.87
+1.83
+1-60 Dk. Botafogo Toplam Goller
+Üst
+Alt
+0.5
+2.01
+1.71
+1
+4.42
+1.17
+1-60 Dk. Karşılıklı Gol
+Evet
+Hayır
+2.85
+1.38
+1-75 Dk. Galibi
+Corinthians SP
+X
+Botafogo
+1.73
+2.98
+4.20
+1-75 Dk. Gol Handikapı
+Corinthians SP
+Botafogo
+-1
+2.45
++1
+1.47
+1-75 Dk. Toplam Goller
+Üst
+Alt
+2
+1.74
+1.96
+2.5
+2.33
+1.54
+1-75 Dk. Corinthians SP Toplam Goller
+Üst
+Alt
+1
+1.44
+2.59
+1.5
+2.12
+1.64
+1-75 Dk. Botafogo Toplam Goller
+Üst
+Alt
+0.5
+1.71
+2.01
+1
+3.10
+1.32
+1-75 Dk. Karşılıklı Gol
+Evet
+Hayır
+2.17
+1.61
+Farklı Kombineler
+Corinthians SP Kazanır veya Üst (2.5) Gol
+1.26
+Beraberlik veya Üst 2.5 Gol
+1.31
+Botafogo Kazanır veya 2.5 Üst Gol
+1.49
+Corinthians SP Kazanır veya Alt (2.5) Gol
+1.13
+Beraberlik veya Alt 2.5 Gol
+1.58
+Botafogo kazanır veya 2,5 alt gol
+1.50
+Daha Fazla Seçeneği Göster
+Çifte Şans Kombo
+1X ve Üst (2.5) Gol
+2.14
+1X ve Alt (2.5) Gol
+2.18
+X2 ve Üst (2.5) Gol
+5.00
+X2 ve Alt (2.5) Gol
+3.15
+12 ve Üst (2.5) Gol
+1.99
+12 ve Alt (2.5) Gol
+2.63
+1X ve Karşılıklı Gol Olur
+1.93
+Corinthians SP 0'a karşı kazanır veya Doğru Skor 0-0
+2.38
+X2 ve Karşılıklı Gol Olur
+2.87
+Botafogo 0'a karşı kazanır veya Doğru Skor 0 : 0
+5.10
+12 ve Karşılıklı Gol Olur
+2.56
+Corinthians SP veya Botafogo - Gol Yemeden Kazanır
+2.03
+Daha Fazla Seçeneği Göster
+1.Yarı/Maç Skoru
+0-0/0-0
+11.00
+0-1/0-1
+19.00
+0-2/0-2
+71.00
+0-3/0-3
+276.00
+0-4/0-4
+276.00
+1-0/1-0
+11.00
+1-1/1-1
+23.00
+1-2/1-2
+81.00
+1-3/1-3
+276.00
+1-4/1-4
+276.00
+2-0/2-0
+23.00
+2-1/2-1
+51.00
+2-2/2-2
+176.00
+2-3/2-3
+276.00
+2-4/2-4
+276.00
+3-0/3-0
+71.00
+3-1/3-1
+151.00
+3-2/3-2
+276.00
+Daha Fazla Seçeneği Göster
+Karşılıklı Gol ve Toplam Goller 2.5
+Evet ve Üst 2.5
+2.07
+Evet ve Alt 2.5
+5.50
+Hayır ve Üst 2.5
+5.90
+Hayır ve Alt 2.5
+2.24
+Karşılıklı Gol ve Toplam Goller 3.5
+Evet ve Üst 3.5
+3.05
+Evet ve Alt 3.5
+2.85
+Hayır ve Üst 3.5
+13.00
+Hayır ve Alt 3.5
+1.94
+Her İki Yarıda da Karşılıklı Gol
+Evet
+Hayır
+10.00
+1.02
+İlk Golü Atacak Takım ve Maç Sonucu
+Corinthians SP ve Corinthians SP
+1.74
+Corinthians SP ve Berabere
+6.90
+Corinthians SP ve Botafogo
+19.00
+Botafogo ve Corinthians SP
+8.10
+Botafogo ve Berabere
+6.90
+Botafogo ve Botafogo
+4.60
+Gol Yok
+11.00
+İlk Golü Atacak Takım ve 1. Yarı Sonucu
+Corinthians SP ve Corinthians SP
+2.11
+Corinthians SP ve Berabere
+3.50
+Corinthians SP ve Botafogo
+51.00
+Botafogo ve Corinthians SP
+29.00
+Botafogo ve Berabere
+5.00
+Botafogo ve Botafogo
+4.20
+Gol Yok
+11.00
+İlk Golü Atacak Takım ve 2. Yarı Sonucu
+Corinthians SP ve Corinthians SP
+2.35
+Corinthians SP ve Berabere
+4.10
+Corinthians SP ve Botafogo
+7.00
+Botafogo ve Corinthians SP
+5.60
+Botafogo ve Berabere
+6.30
+Botafogo ve Botafogo
+6.40
+Gol Yok
+9.10
+1.Yarı Toplam Gol 'e karşı 2. Yarı Toplam Gol Handikapı
+İlk Yarı Toplam Goller
+İkinci Yarı Toplam Goller
++1.5
+1.24
+-1.5
+3.65
++0.5
+1.13
+-0.5
+1.89
+-0.5
+2.90
++0.5
+1.06
+Corinthians SP : Geriden Gelerek Kazanır
+Evet
+Hayır
+6.20
+1.06
+Botafogo : Geriden Kazanır
+Evet
+Hayır
+8.00
+1.02
+İlk Yarı/Maç Sonucu ve Toplam Gol
+Corinthians SP/Corinthians SP ve Üst (1.5)
+2.61
+Corinthians SP/Corinthians SP ve Alt (1.5)
+11.00
+Corinthians SP/Beraberlik ve Üst (1.5)
+12.00
+Corinthians SP/Botafogo ve Üst (1.5)
+36.00
+Beraberlik/Corinthians SP ve Üst (1.5)
+5.50
+Beraberlik/Corinthians SP ve Alt (1.5)
+9.20
+Beraberlik/Beraberlik ve Üst (1.5)
+8.10
+Beraberlik/Beraberlik ve Alt (1.5)
+11.00
+Beraberlik/Botafogo ve Üst (1.5)
+13.00
+Beraberlik/Botafogo ve Alt (1.5)
+15.00
+Botafogo/Corinthians SP ve Üst (1.5)
+19.00
+Botafogo/Beraberlik ve Üst (1.5)
+12.00
+Daha Fazla Seçeneği Göster
+Oyuncu Kaleyi Bulan Şutlar
+YENİ
+Alex Telles 1+
+3.60
+Alex Telles 2+
+12.00
+Alex Telles 3+
+34.00
+Allan 1+
+3.08
+Allan 2+
+12.00
+Allan 3+
+25.00
+Alvaro Montoro 1+
+1.99
+Alvaro Montoro 2+
+6.20
+Alvaro Montoro 3+
+15.00
+Alvaro Montoro 4+
+34.00
+Andre Carrillo 1+
+3.30
+Andre Carrillo 2+
+12.00
+Andre Carrillo 3+
+31.00
+Anthony 1+
+8.30
+Anthony 2+
+23.00
+Arthur Cabral 1+
+1.39
+Arthur Cabral 2+
+2.75
+Arthur Cabral 3+
+6.90
+Arthur Cabral 4+
+15.00
+Arthur Chaves 1+
+5.70
+Arthur Chaves 2+
+19.00
+Breno Bidon 1+
+2.37
+Breno Bidon 2+
+8.40
+Breno Bidon 3+
+19.00
+Caio Roque 1+
+8.50
+Caio Roque 2+
+19.00
+Cristian Medina 1+
+2.43
+Cristian Medina 2+
+8.70
+Cristian Medina 3+
+21.00
+Danilo Pereira 1+
+1.51
+Danilo Pereira 2+
+3.35
+Danilo Pereira 3+
+9.20
+Danilo Pereira 4+
+19.00
+Domingos Andrade 1+
+3.85
+Domingos Andrade 2+
+13.00
+Edenilson 1+
+1.99
+Edenilson 2+
+6.20
+Edenilson 3+
+15.00
+Edenilson 4+
+34.00
+Fabrizio Angileri 1+
+4.33
+Fabrizio Angileri 2+
+15.00
+Gabriel Justino 1+
+4.80
+Gabriel Justino 2+
+15.00
+Gabriel Paulista 1+
+4.20
+Gabriel Paulista 2+
+14.00
+Gustavo Henrique 1+
+2.41
+Gustavo Henrique 2+
+8.50
+Gustavo Henrique 3+
+21.00
+Hakim Ziyech 1+
+1.56
+Hakim Ziyech 2+
+3.60
+Hakim Ziyech 3+
+10.00
+Hakim Ziyech 4+
+21.00
+Huguinho 1+
+3.40
+Huguinho 2+
+12.00
+Huguinho 3+
+31.00
+Jhoan Hernandez 1+
+8.20
+Jhoan Hernandez 2+
+19.00
+Kaio Cesar 1+
+1.32
+Kaio Cesar 2+
+2.39
+Kaio Cesar 3+
+5.60
+Kaio Cesar 4+
+14.00
+Kauan Toledo 1+
+1.59
+Kauan Toledo 2+
+3.80
+Kauan Toledo 3+
+11.00
+Kauan Toledo 4+
+21.00
+Leo Mana 1+
+7.60
+Leo Mana 2+
+21.00
+Lucas Monzon 1+
+5.40
+Lucas Monzon 2+
+14.00
+Marcal 1+
+4.20
+Marcal 2+
+15.00
+Marcal 3+
+36.00
+Matheus Bidu 1+
+1.77
+Matheus Bidu 2+
+4.60
+Matheus Bidu 3+
+12.00
+Matheus Bidu 4+
+26.00
+Matheus Martins 1+
+1.56
+Matheus Martins 2+
+3.60
+Matheus Martins 3+
+10.00
+Matheus Martins 4+
+19.00
+Matheuzinho 1+
+2.75
+Matheuzinho 2+
+10.00
+Matheuzinho 3+
+21.00
+Memphis Depay 1+
+1.30
+Memphis Depay 2+
+2.30
+Memphis Depay 3+
+5.20
+Memphis Depay 4+
+12.00
+Paulinho 1+
+4.20
+Paulinho 2+
+14.00
+Pedro Milans 1+
+3.35
+Pedro Milans 2+
+13.00
+Pedro Milans 3+
+29.00
+Pedro Raul 1+
+1.20
+Pedro Raul 2+
+1.88
+Pedro Raul 3+
+3.75
+Pedro Raul 4+
+8.50
+Raniele 1+
+2.55
+Raniele 2+
+9.20
+Raniele 3+
+21.00
+Tiquinho Soares 1+
+1.45
+Tiquinho Soares 2+
+3.05
+Tiquinho Soares 3+
+8.00
+Tiquinho Soares 4+
+17.00
+Vitinho 1+
+3.64
+Vitinho 2+
+9.60
+Vitinho 3+
+8.20
+Vitinho 4+
+17.00
+Oyuncu Şutları
+YENİ
+Alex Telles 1+
+1.48
+Alex Telles 2+
+3.20
+Alex Telles 3+
+8.40
+Alex Telles 4+
+19.00
+Allan 1+
+1.45
+Allan 2+
+3.10
+Allan 3+
+8.20
+Allan 4+
+17.00
+Alvaro Montoro 1+
+1.19
+Alvaro Montoro 2+
+1.81
+Alvaro Montoro 3+
+3.50
+Alvaro Montoro 4+
+8.00
+Andre Carrillo 1+
+1.31
+Andre Carrillo 2+
+2.37
+Andre Carrillo 3+
+5.50
+Andre Carrillo 4+
+13.00
+Anthony 1+
+1.96
+Anthony 2+
+5.90
+Anthony 3+
+15.00
+Anthony 4+
+34.00
+Arthur Cabral 2+
+1.25
+Arthur Cabral 3+
+1.72
+Arthur Cabral 4+
+2.80
+Arthur Cabral 5+
+5.20
+Arthur Chaves 1+
+2.01
+Arthur Chaves 2+
+6.20
+Arthur Chaves 3+
+17.00
+Arthur Chaves 4+
+36.00
+Breno Bidon 1+
+1.21
+Breno Bidon 2+
+1.92
+Breno Bidon 3+
+3.85
+Breno Bidon 4+
+9.00
+Caio Roque 1+
+1.77
+Caio Roque 2+
+5.00
+Caio Roque 3+
+13.00
+Caio Roque 4+
+25.00
+Cristian Medina 1+
+1.27
+Cristian Medina 2+
+2.19
+Cristian Medina 3+
+4.85
+Cristian Medina 4+
+12.00
+Danilo Pereira 2+
+1.27
+Danilo Pereira 3+
+1.78
+Danilo Pereira 4+
+2.95
+Danilo Pereira 5+
+5.60
+Domingos Andrade 1+
+1.61
+Domingos Andrade 2+
+3.85
+Domingos Andrade 3+
+10.00
+Domingos Andrade 4+
+23.00
+Edenilson 1+
+1.18
+Edenilson 2+
+1.78
+Edenilson 3+
+3.40
+Edenilson 4+
+7.50
+Fabrizio Angileri 1+
+1.51
+Fabrizio Angileri 2+
+3.40
+Fabrizio Angileri 3+
+9.40
+Fabrizio Angileri 4+
+19.00
+Gabriel Justino 1+
+2.07
+Gabriel Justino 2+
+6.50
+Gabriel Justino 3+
+17.00
+Gabriel Paulista 1+
+1.43
+Gabriel Paulista 2+
+2.95
+Gabriel Paulista 3+
+7.70
+Gabriel Paulista 4+
+17.00
+Gustavo Henrique 1+
+1.30
+Gustavo Henrique 2+
+2.32
+Gustavo Henrique 3+
+5.30
+Gustavo Henrique 4+
+12.00
+Hakim Ziyech 2+
+1.22
+Hakim Ziyech 3+
+1.64
+Hakim Ziyech 4+
+2.60
+Hakim Ziyech 5+
+4.70
+Hakim Ziyech 6+
+9.30
+Huguinho 1+
+1.29
+Huguinho 2+
+2.29
+Huguinho 3+
+5.20
+Huguinho 4+
+12.00
+Jhoan Hernandez 1+
+1.81
+Jhoan Hernandez 2+
+5.20
+Jhoan Hernandez 3+
+13.00
+Jhoan Hernandez 4+
+25.00
+Kaio Cesar 3+
+1.36
+Kaio Cesar 4+
+1.88
+Kaio Cesar 5+
+2.95
+Kaio Cesar 6+
+5.10
+Kauan Toledo 2+
+1.38
+Kauan Toledo 3+
+2.13
+Kauan Toledo 4+
+3.90
+Kauan Toledo 5+
+8.00
+Leo Mana 1+
+3.15
+Leo Mana 2+
+13.00
+Leo Mana 3+
+29.00
+Lucas Monzon 1+
+2.90
+Lucas Monzon 2+
+11.00
+Lucas Monzon 3+
+25.00
+Marcal 1+
+1.71
+Marcal 2+
+4.50
+Marcal 3+
+12.00
+Marcal 4+
+23.00
+Matheus Bidu 1+
+1.11
+Matheus Bidu 2+
+1.43
+Matheus Bidu 3+
+2.15
+Matheus Bidu 4+
+3.60
+Matheus Bidu 5+
+6.30
+Matheus Martins 2+
+1.31
+Matheus Martins 3+
+1.91
+Matheus Martins 4+
+3.30
+Matheus Martins 5+
+6.50
+Matheuzinho 1+
+1.39
+Matheuzinho 2+
+2.75
+Matheuzinho 3+
+7.00
+Matheuzinho 4+
+17.00
+Memphis Depay 3+
+1.34
+Memphis Depay 4+
+1.82
+Memphis Depay 5+
+2.80
+Memphis Depay 6+
+4.80
+Paulinho 1+
+1.55
+Paulinho 2+
+3.50
+Paulinho 3+
+9.80
+Paulinho 4+
+19.00
+Pedro Milans 1+
+1.61
+Pedro Milans 2+
+3.95
+Pedro Milans 3+
+11.00
+Pedro Milans 4+
+21.00
+Pedro Raul 3+
+1.34
+Pedro Raul 4+
+1.82
+Pedro Raul 5+
+2.80
+Pedro Raul 6+
+4.80
+Raniele 1+
+1.26
+Raniele 2+
+2.16
+Raniele 3+
+4.75
+Raniele 4+
+11.00
+Tiquinho Soares 2+
+1.29
+Tiquinho Soares 3+
+1.86
+Tiquinho Soares 4+
+3.15
+Tiquinho Soares 5+
+6.20
+Vitinho 1+
+1.86
+Vitinho 2+
+3.52
+Vitinho 3+
+8.70
+Vitinho 4+
+17.00
+Vitinho 5+
+4.70
+Vitinho 6+
+8.10
+Oyuncu Pasları
+YENİ
+Alex Telles 40+
+1.49
+Alex Telles 45+
+1.92
+Alex Telles 50+
+2.70
+Allan 45+
+1.35
+Allan 50+
+1.62
+Allan 55+
+2.08
+Allan 60+
+2.85
+Allan 70+
+1.55
+Allan 75+
+1.83
+Allan 80+
+2.23
+Allan 85+
+2.80
+Alvaro Montoro 35+
+1.51
+Alvaro Montoro 40+
+1.96
+Alvaro Montoro 45+
+2.80
+Anthony 40+
+1.45
+Anthony 45+
+1.84
+Anthony 50+
+2.60
+Anthony 55+
+3.80
+Arthur Cabral 15+
+2.12
+Arthur Cabral 20+
+3.10
+Arthur Chaves 45+
+1.45
+Arthur Chaves 50+
+1.81
+Arthur Chaves 55+
+2.42
+Arthur Chaves 60+
+3.40
+Caio Roque 30+
+1.42
+Caio Roque 35+
+1.79
+Caio Roque 40+
+2.49
+Caio Roque 45+
+3.80
+Danilo Pereira 20+
+1.31
+Danilo Pereira 25+
+1.59
+Danilo Pereira 30+
+2.10
+Danilo Pereira 35+
+3.05
+Domingos Andrade 45+
+1.42
+Domingos Andrade 50+
+1.75
+Domingos Andrade 55+
+2.30
+Domingos Andrade 60+
+3.20
+Fabrizio Angileri 50+
+1.53
+Fabrizio Angileri 55+
+1.90
+Fabrizio Angileri 60+
+2.50
+Fabrizio Angileri 65+
+3.50
+Gabriel Justino 35+
+1.42
+Gabriel Justino 40+
+1.79
+Gabriel Justino 45+
+2.48
+Gabriel Justino 50+
+3.75
+Gabriel Paulista 65+
+1.48
+Gabriel Paulista 70+
+1.73
+Gabriel Paulista 75+
+2.10
+Gabriel Paulista 80+
+2.65
+Gustavo Henrique 65+
+1.60
+Gustavo Henrique 70+
+1.93
+Gustavo Henrique 75+
+2.42
+Gustavo Henrique 80+
+3.15
+Huguinho 40+
+1.33
+Huguinho 45+
+1.61
+Huguinho 50+
+2.12
+Huguinho 55+
+3.00
+Jhoan Hernandez 35+
+1.43
+Jhoan Hernandez 40+
+1.81
+Jhoan Hernandez 45+
+2.55
+Jhoan Hernandez 50+
+3.85
+Kaio Cesar 30+
+1.30
+Kaio Cesar 35+
+1.57
+Kaio Cesar 40+
+2.07
+Kaio Cesar 45+
+3.00
+Kauan Toledo 25+
+1.40
+Kauan Toledo 30+
+1.75
+Kauan Toledo 35+
+2.41
+Kauan Toledo 40+
+3.65
+Leo Mana 45+
+1.46
+Leo Mana 50+
+1.82
+Leo Mana 55+
+2.45
+Leo Mana 60+
+3.45
+Lucas Monzon 45+
+1.38
+Lucas Monzon 50+
+1.67
+Lucas Monzon 55+
+2.17
+Lucas Monzon 60+
+3.00
+Lucas Monzon 65+
+4.00
+Marcal 70+
+1.64
+Marcal 75+
+1.97
+Marcal 80+
+2.45
+Marcal 85+
+3.15
+Matheus Martins 30+
+1.53
+Matheus Martins 35+
+2.00
+Matheus Martins 40+
+2.90
+Matheuzinho 50+
+1.37
+Matheuzinho 55+
+1.62
+Matheuzinho 60+
+2.03
+Matheuzinho 65+
+2.70
+Paulinho 40+
+1.52
+Paulinho 45+
+1.99
+Paulinho 50+
+2.85
+Pedro Milans 35+
+1.28
+Pedro Milans 40+
+1.54
+Pedro Milans 45+
+2.01
+Pedro Milans 50+
+2.90
+Pedro Raul 15+
+1.93
+Pedro Raul 20+
+2.75
+Tiquinho Soares 15+
+1.28
+Tiquinho Soares 20+
+1.53
+Tiquinho Soares 25+
+2.00
+Tiquinho Soares 30+
+2.85
+Vitinho 35+
+1.36
+Vitinho 40+
+1.68
+Vitinho 45+
+2.28
+Vitinho 50+
+3.38
+Oyuncu Pas Denemeleri
+YENİ
+Alex Telles 45+
+1.39
+Alex Telles 50+
+1.73
+Alex Telles 55+
+2.36
+Alex Telles 60+
+3.45
+Allan 55+
+1.48
+Allan 60+
+1.83
+Allan 65+
+2.42
+Allan 70+
+3.35
+Allan 80+
+1.65
+Allan 85+
+1.99
+Allan 90+
+2.47
+Allan 95+
+3.20
+Alvaro Montoro 40+
+1.38
+Alvaro Montoro 45+
+1.71
+Alvaro Montoro 50+
+2.33
+Alvaro Montoro 55+
+3.50
+Anthony 50+
+1.39
+Anthony 55+
+1.69
+Anthony 60+
+2.22
+Anthony 65+
+3.10
+Arthur Cabral 20+
+2.08
+Arthur Cabral 25+
+3.00
+Arthur Chaves 50+
+1.48
+Arthur Chaves 55+
+1.87
+Arthur Chaves 60+
+2.55
+Arthur Chaves 65+
+3.65
+Caio Roque 40+
+1.50
+Caio Roque 45+
+1.95
+Caio Roque 50+
+2.75
+Danilo Pereira 25+
+1.38
+Danilo Pereira 30+
+1.71
+Danilo Pereira 35+
+2.33
+Danilo Pereira 40+
+3.50
+Domingos Andrade 50+
+1.38
+Domingos Andrade 55+
+1.68
+Domingos Andrade 60+
+2.20
+Domingos Andrade 65+
+3.10
+Fabrizio Angileri 60+
+1.55
+Fabrizio Angileri 65+
+1.93
+Fabrizio Angileri 70+
+2.55
+Fabrizio Angileri 75+
+3.50
+Gabriel Justino 40+
+1.42
+Gabriel Justino 45+
+1.80
+Gabriel Justino 50+
+2.50
+Gabriel Justino 55+
+3.80
+Gabriel Paulista 70+
+1.46
+Gabriel Paulista 75+
+1.71
+Gabriel Paulista 80+
+2.10
+Gabriel Paulista 85+
+2.70
+Gustavo Henrique 70+
+1.60
+Gustavo Henrique 75+
+1.95
+Gustavo Henrique 80+
+2.49
+Gustavo Henrique 85+
+3.30
+Huguinho 50+
+1.54
+Huguinho 55+
+1.99
+Huguinho 60+
+2.75
+Huguinho 65+
+4.00
+Jhoan Hernandez 40+
+1.34
+Jhoan Hernandez 45+
+1.64
+Jhoan Hernandez 50+
+2.19
+Jhoan Hernandez 55+
+3.25
+Kaio Cesar 40+
+1.41
+Kaio Cesar 45+
+1.78
+Kaio Cesar 50+
+2.46
+Kaio Cesar 55+
+3.75
+Kauan Toledo 30+
+1.39
+Kauan Toledo 35+
+1.74
+Kauan Toledo 40+
+2.39
+Kauan Toledo 45+
+3.60
+Leo Mana 60+
+1.62
+Leo Mana 65+
+2.05
+Leo Mana 70+
+2.75
+Leo Mana 75+
+3.80
+Lucas Monzon 50+
+1.35
+Lucas Monzon 55+
+1.63
+Lucas Monzon 60+
+2.10
+Lucas Monzon 65+
+2.90
+Lucas Monzon 70+
+4.00
+Marcal 75+
+1.52
+Marcal 80+
+1.80
+Marcal 85+
+2.21
+Marcal 90+
+2.85
+Matheus Martins 35+
+1.47
+Matheus Martins 40+
+1.88
+Matheus Martins 45+
+2.65
+Matheuzinho 60+
+1.47
+Matheuzinho 65+
+1.79
+Matheuzinho 70+
+2.29
+Matheuzinho 75+
+3.10
+Paulinho 45+
+1.47
+Paulinho 50+
+1.88
+Paulinho 55+
+2.65
+Paulinho 60+
+3.95
+Pedro Milans 45+
+1.35
+Pedro Milans 50+
+1.66
+Pedro Milans 55+
+2.21
+Pedro Milans 60+
+3.15
+Pedro Raul 20+
+1.82
+Pedro Raul 25+
+2.55
+Pedro Raul 30+
+3.85
+Tiquinho Soares 25+
+1.48
+Tiquinho Soares 30+
+1.91
+Tiquinho Soares 35+
+2.70
+Vitinho 45+
+1.45
+Vitinho 50+
+1.84
+Vitinho 55+
+2.57
+Vitinho 60+
+3.40
+Oyuncunun Yaptığı Fauller
+YENİ
+Alex Telles 1+
+1.26
+Alex Telles 2+
+2.12
+Alex Telles 3+
+4.40
+Alex Telles 4+
+9.10
+Allan 1+
+1.23
+Allan 2+
+2.00
+Allan 3+
+4.20
+Allan 4+
+9.60
+Alvaro Montoro 1+
+1.27
+Alvaro Montoro 2+
+2.20
+Alvaro Montoro 3+
+5.00
+Alvaro Montoro 4+
+12.00
+Andre Carrillo 1+
+1.14
+Andre Carrillo 2+
+1.59
+Andre Carrillo 3+
+2.75
+Andre Carrillo 4+
+5.70
+Anthony 1+
+1.27
+Anthony 2+
+2.20
+Anthony 3+
+5.00
+Anthony 4+
+11.00
+Arthur Cabral 1+
+1.16
+Arthur Cabral 2+
+1.68
+Arthur Cabral 3+
+3.05
+Arthur Cabral 4+
+6.50
+Arthur Chaves 1+
+1.30
+Arthur Chaves 2+
+2.19
+Arthur Chaves 3+
+4.30
+Arthur Chaves 4+
+7.60
+Breno Bidon 1+
+1.18
+Breno Bidon 2+
+1.75
+Breno Bidon 3+
+3.30
+Breno Bidon 4+
+7.00
+Caio Roque 1+
+1.40
+Caio Roque 2+
+2.85
+Caio Roque 3+
+7.30
+Caio Roque 4+
+13.00
+Cristian Medina 1+
+1.23
+Cristian Medina 2+
+1.99
+Cristian Medina 3+
+4.10
+Cristian Medina 4+
+8.90
+Danilo Pereira 1+
+1.38
+Danilo Pereira 2+
+2.55
+Danilo Pereira 3+
+5.80
+Danilo Pereira 4+
+13.00
+Domingos Andrade 2+
+1.34
+Domingos Andrade 3+
+2.02
+Domingos Andrade 4+
+3.65
+Domingos Andrade 5+
+7.40
+Edenilson 1+
+1.27
+Edenilson 2+
+2.16
+Edenilson 3+
+4.50
+Edenilson 4+
+9.20
+Fabrizio Angileri 1+
+1.43
+Fabrizio Angileri 2+
+2.95
+Fabrizio Angileri 3+
+7.50
+Fabrizio Angileri 4+
+15.00
+Gabriel Batista 1+
+8.50
+Gabriel Justino 1+
+1.46
+Gabriel Justino 2+
+3.15
+Gabriel Justino 3+
+8.40
+Gabriel Justino 4+
+17.00
+Gabriel Paulista 1+
+1.58
+Gabriel Paulista 2+
+3.80
+Gabriel Paulista 3+
+11.00
+Gabriel Paulista 4+
+21.00
+Gustavo Henrique 1+
+1.57
+Gustavo Henrique 2+
+3.70
+Gustavo Henrique 3+
+10.00
+Gustavo Henrique 4+
+19.00
+Hakim Ziyech 1+
+1.36
+Hakim Ziyech 2+
+2.60
+Hakim Ziyech 3+
+6.30
+Hakim Ziyech 4+
+13.00
+Hugo Souza 1+
+4.60
+Huguinho 2+
+1.38
+Huguinho 3+
+2.11
+Huguinho 4+
+3.90
+Huguinho 5+
+8.00
+Jhoan Hernandez 1+
+1.33
+Jhoan Hernandez 2+
+2.50
+Jhoan Hernandez 3+
+6.20
+Jhoan Hernandez 4+
+13.00
+Kaio Cesar 1+
+1.23
+Kaio Cesar 2+
+1.97
+Kaio Cesar 3+
+4.00
+Kaio Cesar 4+
+8.60
+Kauan Toledo 2+
+1.39
+Kauan Toledo 3+
+2.16
+Kauan Toledo 4+
+4.10
+Kauan Toledo 5+
+8.40
+Leo Mana 1+
+1.19
+Leo Mana 2+
+1.81
+Leo Mana 3+
+3.60
+Leo Mana 4+
+8.10
+Lucas Monzon 1+
+1.43
+Lucas Monzon 2+
+2.95
+Lucas Monzon 3+
+7.80
+Lucas Monzon 4+
+15.00
+Marcal 1+
+1.15
+Marcal 2+
+1.64
+Marcal 3+
+2.95
+Marcal 4+
+6.20
+Matheus Bidu 1+
+1.33
+Matheus Bidu 2+
+2.48
+Matheus Bidu 3+
+5.90
+Matheus Bidu 4+
+13.00
+Matheus Martins 1+
+1.33
+Matheus Martins 2+
+2.50
+Matheus Martins 3+
+6.00
+Matheus Martins 4+
+14.00
+Matheuzinho 1+
+1.35
+Matheuzinho 2+
+2.55
+Matheuzinho 3+
+5.90
+Matheuzinho 4+
+12.00
+Memphis Depay 1+
+1.41
+Memphis Depay 2+
+2.85
+Memphis Depay 3+
+7.20
+Memphis Depay 4+
+15.00
+Paulinho 1+
+1.28
+Paulinho 2+
+2.18
+Paulinho 3+
+4.75
+Paulinho 4+
+11.00
+Pedro Milans 1+
+1.42
+Pedro Milans 2+
+2.95
+Pedro Milans 3+
+7.60
+Pedro Milans 4+
+15.00
+Pedro Raul 1+
+1.19
+Pedro Raul 2+
+1.79
+Pedro Raul 3+
+3.45
+Pedro Raul 4+
+7.30
+Raniele 1+
+1.21
+Raniele 2+
+1.93
+Raniele 3+
+4.00
+Raniele 4+
+9.20
+Tiquinho Soares 1+
+1.21
+Tiquinho Soares 2+
+1.90
+Tiquinho Soares 3+
+3.80
+Tiquinho Soares 4+
+8.50
+Vitinho 1+
+1.28
+Vitinho 2+
+2.23
+Vitinho 3+
+5.10
+Vitinho 4+
+10.00
+Oyuncuya Faul Yapılır
+YENİ
+Alex Telles 1+
+1.38
+Alex Telles 2+
+2.70
+Alex Telles 3+
+6.40
+Alex Telles 4+
+13.00
+Allan 1+
+1.39
+Allan 2+
+2.80
+Allan 3+
+7.30
+Allan 4+
+14.00
+Alvaro Montoro 1+
+1.16
+Alvaro Montoro 2+
+1.67
+Alvaro Montoro 3+
+3.05
+Alvaro Montoro 4+
+6.60
+Andre Carrillo 1+
+1.38
+Andre Carrillo 2+
+2.70
+Andre Carrillo 3+
+6.90
+Andre Carrillo 4+
+15.00
+Anthony 1+
+1.76
+Anthony 2+
+4.90
+Anthony 3+
+12.00
+Anthony 4+
+23.00
+Arthur Cabral 1+
+1.20
+Arthur Cabral 2+
+1.86
+Arthur Cabral 3+
+3.65
+Arthur Cabral 4+
+7.80
+Arthur Chaves 1+
+1.62
+Arthur Chaves 2+
+4.00
+Arthur Chaves 3+
+10.00
+Arthur Chaves 4+
+21.00
+Breno Bidon 2+
+1.21
+Breno Bidon 3+
+1.60
+Breno Bidon 4+
+2.41
+Breno Bidon 5+
+4.20
+Caio Roque 1+
+1.31
+Caio Roque 2+
+2.38
+Caio Roque 3+
+5.70
+Caio Roque 4+
+12.00
+Cristian Medina 1+
+1.10
+Cristian Medina 2+
+1.44
+Cristian Medina 3+
+2.32
+Cristian Medina 4+
+4.50
+Cristian Medina 5+
+9.40
+Danilo Pereira 1+
+1.24
+Danilo Pereira 2+
+2.05
+Danilo Pereira 3+
+4.50
+Danilo Pereira 4+
+10.00
+Domingos Andrade 1+
+1.12
+Domingos Andrade 2+
+1.51
+Domingos Andrade 3+
+2.55
+Domingos Andrade 4+
+5.20
+Edenilson 1+
+1.29
+Edenilson 2+
+2.30
+Edenilson 3+
+5.30
+Edenilson 4+
+12.00
+Fabrizio Angileri 1+
+1.58
+Fabrizio Angileri 2+
+3.80
+Fabrizio Angileri 3+
+11.00
+Fabrizio Angileri 4+
+19.00
+Gabriel Justino 1+
+1.50
+Gabriel Justino 2+
+3.35
+Gabriel Justino 3+
+8.80
+Gabriel Justino 4+
+19.00
+Gabriel Paulista 1+
+1.62
+Gabriel Paulista 2+
+3.80
+Gabriel Paulista 3+
+8.90
+Gabriel Paulista 4+
+21.00
+Gustavo Henrique 1+
+1.64
+Gustavo Henrique 2+
+4.00
+Gustavo Henrique 3+
+9.80
+Gustavo Henrique 4+
+23.00
+Hakim Ziyech 1+
+1.17
+Hakim Ziyech 2+
+1.73
+Hakim Ziyech 3+
+3.25
+Hakim Ziyech 4+
+7.10
+Huguinho 1+
+1.17
+Huguinho 2+
+1.72
+Huguinho 3+
+3.15
+Huguinho 4+
+6.40
+Jhoan Hernandez 1+
+1.41
+Jhoan Hernandez 2+
+2.90
+Jhoan Hernandez 3+
+7.60
+Jhoan Hernandez 4+
+13.00
+Kaio Cesar 2+
+1.12
+Kaio Cesar 3+
+1.35
+Kaio Cesar 4+
+1.86
+Kaio Cesar 5+
+2.95
+Kauan Toledo 2+
+1.37
+Kauan Toledo 3+
+2.10
+Kauan Toledo 4+
+3.90
+Kauan Toledo 5+
+8.00
+Leo Mana 1+
+1.57
+Leo Mana 2+
+3.80
+Leo Mana 3+
+10.00
+Leo Mana 4+
+19.00
+Lucas Monzon 1+
+1.89
+Lucas Monzon 2+
+5.60
+Lucas Monzon 3+
+14.00
+Lucas Monzon 4+
+29.00
+Marcal 1+
+1.65
+Marcal 2+
+4.20
+Marcal 3+
+11.00
+Marcal 4+
+21.00
+Matheus Bidu 2+
+1.32
+Matheus Bidu 3+
+1.93
+Matheus Bidu 4+
+3.35
+Matheus Bidu 5+
+6.70
+Matheus Martins 2+
+1.31
+Matheus Martins 3+
+1.89
+Matheus Martins 4+
+3.25
+Matheus Martins 5+
+6.30
+Matheuzinho 1+
+1.46
+Matheuzinho 2+
+3.20
+Matheuzinho 3+
+8.60
+Matheuzinho 4+
+15.00
+Memphis Depay 1+
+1.15
+Memphis Depay 2+
+1.64
+Memphis Depay 3+
+2.95
+Memphis Depay 4+
+6.20
+Paulinho 1+
+1.25
+Paulinho 2+
+2.10
+Paulinho 3+
+4.70
+Paulinho 4+
+11.00
+Pedro Milans 1+
+1.34
+Pedro Milans 2+
+2.55
+Pedro Milans 3+
+6.00
+Pedro Milans 4+
+12.00
+Pedro Raul 1+
+1.21
+Pedro Raul 2+
+1.92
+Pedro Raul 3+
+3.85
+Pedro Raul 4+
+8.30
+Raniele 1+
+1.20
+Raniele 2+
+1.87
+Raniele 3+
+3.75
+Raniele 4+
+8.60
+Tiquinho Soares 2+
+1.39
+Tiquinho Soares 3+
+2.15
+Tiquinho Soares 4+
+3.95
+Tiquinho Soares 5+
+8.00
+Vitinho 1+
+1.32
+Vitinho 2+
+2.47
+Vitinho 3+
+5.90
+Vitinho 4+
+11.00
+Oyuncu Topa Müdahaleler
+YENİ
+Alex Telles 1+
+1.18
+Alex Telles 2+
+1.79
+Alex Telles 3+
+3.45
+Alex Telles 4+
+7.70
+Allan 1+
+1.14
+Allan 2+
+1.55
+Allan 3+
+2.69
+Allan 4+
+5.50
+Allan 5+
+9.60
+Alvaro Montoro 1+
+1.31
+Alvaro Montoro 2+
+2.36
+Alvaro Montoro 3+
+5.50
+Alvaro Montoro 4+
+12.00
+Anthony 2+
+1.51
+Anthony 3+
+2.65
+Anthony 4+
+5.50
+Anthony 5+
+8.90
+Arthur Cabral 1+
+1.88
+Arthur Cabral 2+
+5.40
+Arthur Cabral 3+
+12.00
+Arthur Chaves 1+
+1.25
+Arthur Chaves 2+
+2.08
+Arthur Chaves 3+
+4.40
+Arthur Chaves 4+
+11.00
+Caio Roque 2+
+1.34
+Caio Roque 3+
+2.04
+Caio Roque 4+
+3.85
+Caio Roque 5+
+7.40
+Danilo Pereira 1+
+1.96
+Danilo Pereira 2+
+5.80
+Danilo Pereira 3+
+12.00
+Domingos Andrade 2+
+1.25
+Domingos Andrade 3+
+1.73
+Domingos Andrade 4+
+2.95
+Domingos Andrade 5+
+5.60
+Fabrizio Angileri 2+
+1.42
+Fabrizio Angileri 3+
+2.25
+Fabrizio Angileri 4+
+4.20
+Fabrizio Angileri 5+
+8.40
+Gabriel Justino 1+
+1.21
+Gabriel Justino 2+
+1.93
+Gabriel Justino 3+
+3.90
+Gabriel Justino 4+
+9.10
+Gabriel Paulista 1+
+1.36
+Gabriel Paulista 2+
+2.60
+Gabriel Paulista 3+
+6.40
+Gabriel Paulista 4+
+12.00
+Gustavo Henrique 1+
+1.36
+Gustavo Henrique 2+
+2.60
+Gustavo Henrique 3+
+6.30
+Gustavo Henrique 4+
+12.00
+Huguinho 2+
+1.41
+Huguinho 3+
+2.21
+Huguinho 4+
+4.20
+Huguinho 5+
+8.60
+Jhoan Hernandez 2+
+1.28
+Jhoan Hernandez 3+
+1.84
+Jhoan Hernandez 4+
+3.25
+Jhoan Hernandez 5+
+6.30
+Kaio Cesar 1+
+1.13
+Kaio Cesar 2+
+1.56
+Kaio Cesar 3+
+2.65
+Kaio Cesar 4+
+5.30
+Kauan Toledo 1+
+1.18
+Kauan Toledo 2+
+1.79
+Kauan Toledo 3+
+3.65
+Kauan Toledo 4+
+7.60
+Leo Mana 2+
+1.24
+Leo Mana 3+
+1.71
+Leo Mana 4+
+2.85
+Leo Mana 5+
+5.50
+Lucas Monzon 1+
+1.19
+Lucas Monzon 2+
+1.87
+Lucas Monzon 3+
+3.95
+Lucas Monzon 4+
+8.10
+Marcal 1+
+1.26
+Marcal 2+
+2.13
+Marcal 3+
+4.60
+Marcal 4+
+11.00
+Matheus Martins 1+
+1.26
+Matheus Martins 2+
+2.11
+Matheus Martins 3+
+4.60
+Matheus Martins 4+
+11.00
+Matheuzinho 1+
+1.06
+Matheuzinho 2+
+1.25
+Matheuzinho 3+
+1.71
+Matheuzinho 4+
+2.70
+Matheuzinho 5+
+4.60
+Paulinho 1+
+1.14
+Paulinho 2+
+1.60
+Paulinho 3+
+2.75
+Paulinho 4+
+5.70
+Paulinho 5+
+12.00
+Pedro Milans 1+
+1.12
+Pedro Milans 2+
+1.52
+Pedro Milans 3+
+2.55
+Pedro Milans 4+
+5.20
+Pedro Milans 5+
+11.00
+Pedro Raul 1+
+1.94
+Pedro Raul 2+
+5.80
+Pedro Raul 3+
+12.00
+Tiquinho Soares 1+
+1.83
+Tiquinho Soares 2+
+5.10
+Tiquinho Soares 3+
+12.00
+Vitinho 1+
+1.12
+Vitinho 2+
+1.49
+Vitinho 3+
+2.48
+Vitinho 4+
+5.00
+Vitinho 5+
+9.80
