@@ -1,0 +1,40 @@
+{
+ "organizasyon": "UEFA Kadınlar Şampiyonlar Ligi, 5. hafta",
+ "tarih": "18 Kasım 2026, 23:00 TSİ",
+ "stadyum": "Stadio Vittorio Pozzo, Biella",
+ "hakem": "Kristina Georgieva",
+ "ilk_yari_gol_payi": 0.44,
+ "korner_guven": "orta",
+ "kart_guven": "düşük",
+ "var_ort": 0.15,
+ "not": "Korner: son 5 maç FotMob (Juventus 5,4 kazanır/4,8 verir; Leuven 2,5/6,5). Goller site oranından.",
+ "ev": {
+  "ad": "Juventus (Kadınlar)",
+  "beklenen_gol": 2.882,
+  "korner": 6.3,
+  "sari_kart": 0.8,
+  "oyuncular": [
+   {
+    "ad": "Alba Redondo",
+    "gol_payi": 0.2,
+    "asist_payi": 0.1,
+    "kart_ihtimali": 0.05
+   },
+   {
+    "ad": "Remina Chiba",
+    "gol_payi": 0.15,
+    "asist_payi": 0.12,
+    "kart_ihtimali": 0.05
+   }
+  ],
+  "model_beklenen_gol": 2.0
+ },
+ "dep": {
+  "ad": "Oud-Heverlee Leuven (Kadınlar)",
+  "beklenen_gol": 0.802,
+  "korner": 3.3,
+  "sari_kart": 1.0,
+  "model_beklenen_gol": 0.8
+ },
+ "kalibrasyon": "Beklenen goller site oranlarından (takım gol çizgilerinin ortalaması)"
+}

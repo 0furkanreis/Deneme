@@ -1,0 +1,10474 @@
+{
+ "mac": {
+  "organizasyon": "UEFA Kadınlar Şampiyonlar Ligi, 5. hafta",
+  "tarih": "18 Kasım 2026, 23:00 TSİ",
+  "stadyum": "Stadio Vittorio Pozzo, Biella",
+  "hakem": "Kristina Georgieva",
+  "ilk_yari_gol_payi": 0.44,
+  "korner_guven": "orta",
+  "kart_guven": "düşük",
+  "var_ort": 0.15,
+  "not": "Korner: son 5 maç FotMob (Juventus 5,4 kazanır/4,8 verir; Leuven 2,5/6,5). Goller site oranından.",
+  "kalibrasyon": "Beklenen goller site oranlarından (takım gol çizgilerinin ortalaması)"
+ },
+ "ev": "Juventus (Kadınlar)",
+ "dep": "Oud-Heverlee Leuven (Kadınlar)",
+ "beklenen_gol": [
+  2.882,
+  0.802
+ ],
+ "simulasyon": 120000,
+ "pazarlar": [
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu",
+   "oneri": "1 (Juventus (Kadınlar))",
+   "olasilik": 0.798,
+   "adil_oran": 1.25,
+   "en_olasi": "1 (Juventus (Kadınlar))",
+   "en_olasi_p": 0.798,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Juventus (Kadınlar))",
+     0.798
+    ],
+    [
+     "X",
+     0.1274
+    ],
+    [
+     "2 (Oud-Heverlee Leuven (Kadınlar))",
+     0.0747
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Çifte Şans",
+   "oneri": "1X",
+   "olasilik": 0.9253,
+   "adil_oran": 1.08,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.9253,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.9253
+    ],
+    [
+     "12",
+     0.8726
+    ],
+    [
+     "X2",
+     0.2021
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Beraberlikte İade",
+   "oneri": "Juventus (Kadınlar)",
+   "olasilik": 0.9144,
+   "adil_oran": 1.09,
+   "en_olasi": "Juventus (Kadınlar)",
+   "en_olasi_p": 0.9144,
+   "guven": "yüksek",
+   "not_": "Beraberlikte iade; olasılık iade hariç",
+   "secimler": [
+    [
+     "Juventus (Kadınlar)",
+     0.9144
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar)",
+     0.0856
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Juventus (Kadınlar) : Bahis Yok",
+   "oneri": "X",
+   "olasilik": 0.6303,
+   "adil_oran": 1.59,
+   "en_olasi": "X",
+   "en_olasi_p": 0.6303,
+   "guven": "yüksek",
+   "not_": "Juventus (Kadınlar) kazanırsa iade",
+   "secimler": [
+    [
+     "X",
+     0.6303
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar)",
+     0.3697
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) : Bahis Yok",
+   "oneri": "Juventus (Kadınlar)",
+   "olasilik": 0.8624,
+   "adil_oran": 1.16,
+   "en_olasi": "Juventus (Kadınlar)",
+   "en_olasi_p": 0.8624,
+   "guven": "yüksek",
+   "not_": "Oud-Heverlee Leuven (Kadınlar) kazanırsa iade",
+   "secimler": [
+    [
+     "Juventus (Kadınlar)",
+     0.8624
+    ],
+    [
+     "X",
+     0.1376
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Juventus (Kadınlar) : Geriden Gelerek Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.893,
+   "adil_oran": 1.12,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.893,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.107
+    ],
+    [
+     "Hayır",
+     0.893
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) : Geriden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.984,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.984,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.016
+    ],
+    [
+     "Hayır",
+     0.984
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Juventus (Kadınlar) : Kazanma Marjı",
+   "oneri": "4+ fark",
+   "olasilik": 0.2178,
+   "adil_oran": 4.59,
+   "en_olasi": "4+ fark",
+   "en_olasi_p": 0.2178,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.1966
+    ],
+    [
+     "2 fark",
+     0.2107
+    ],
+    [
+     "3 fark",
+     0.1728
+    ],
+    [
+     "4+ fark",
+     0.2178
+    ],
+    [
+     "Kazanamaz",
+     0.2021
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.9253,
+   "adil_oran": 1.08,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.9253,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.0539
+    ],
+    [
+     "2 fark",
+     0.0163
+    ],
+    [
+     "3 fark",
+     0.0037
+    ],
+    [
+     "4+ fark",
+     0.0008
+    ],
+    [
+     "Kazanamaz",
+     0.9253
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller",
+   "oneri": "Toplam 5,5 Alt",
+   "olasilik": 0.8308,
+   "adil_oran": 1.2,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.9747,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.9747
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.0253
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.8816
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.1184
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.7128
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.2872
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.5037
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.4963
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.3115
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.6885
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.1692
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.8308
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Juventus (Kadınlar) : Toplam Gol",
+   "oneri": "Juventus (Kadınlar) 1,5 Üst",
+   "olasilik": 0.7829,
+   "adil_oran": 1.28,
+   "en_olasi": "Juventus (Kadınlar) 0,5 Üst",
+   "en_olasi_p": 0.9441,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) 0,5 Üst",
+     0.9441
+    ],
+    [
+     "Juventus (Kadınlar) 0,5 Alt",
+     0.0559
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Üst",
+     0.7829
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Alt",
+     0.2171
+    ],
+    [
+     "Juventus (Kadınlar) 2,5 Üst",
+     0.55
+    ],
+    [
+     "Juventus (Kadınlar) 2,5 Alt",
+     0.45
+    ],
+    [
+     "Juventus (Kadınlar) 3,5 Üst",
+     0.3276
+    ],
+    [
+     "Juventus (Kadınlar) 3,5 Alt",
+     0.6724
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) : Toplam Gol",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) 1,5 Alt",
+   "olasilik": 0.8076,
+   "adil_oran": 1.24,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) 3,5 Alt",
+   "en_olasi_p": 0.9902,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Üst",
+     0.5525
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+     0.4475
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 1,5 Üst",
+     0.1924
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 1,5 Alt",
+     0.8076
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 2,5 Üst",
+     0.0489
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 2,5 Alt",
+     0.9511
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 3,5 Üst",
+     0.0098
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 3,5 Alt",
+     0.9902
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller Asya",
+   "oneri": "Toplam Asya 2,25 Üst",
+   "olasilik": 0.7785,
+   "adil_oran": 1.28,
+   "en_olasi": "Toplam Asya 1,75 Üst",
+   "en_olasi_p": 0.8707,
+   "guven": "yüksek",
+   "not_": "Asya çizgisi: değer = 1/adil oran",
+   "secimler": [
+    [
+     "Toplam Asya 1,75 Üst",
+     0.8707
+    ],
+    [
+     "Toplam Asya 1,75 Alt",
+     0.1293
+    ],
+    [
+     "Toplam Asya 2 Üst",
+     0.8575
+    ],
+    [
+     "Toplam Asya 2 Alt",
+     0.1425
+    ],
+    [
+     "Toplam Asya 2,25 Üst",
+     0.7785
+    ],
+    [
+     "Toplam Asya 2,25 Alt",
+     0.2215
+    ],
+    [
+     "Toplam Asya 2,5 Üst",
+     0.7128
+    ],
+    [
+     "Toplam Asya 2,5 Alt",
+     0.2872
+    ],
+    [
+     "Toplam Asya 2,75 Üst",
+     0.6793
+    ],
+    [
+     "Toplam Asya 2,75 Alt",
+     0.3207
+    ],
+    [
+     "Toplam Asya 3 Üst",
+     0.6369
+    ],
+    [
+     "Toplam Asya 3 Alt",
+     0.3631
+    ],
+    [
+     "Toplam Asya 3,25 Üst",
+     0.5625
+    ],
+    [
+     "Toplam Asya 3,25 Alt",
+     0.4375
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Juventus (Kadınlar) : Toplam Gol Asya",
+   "oneri": "Juventus (Kadınlar) Asya 1,5 Üst",
+   "olasilik": 0.7829,
+   "adil_oran": 1.28,
+   "en_olasi": "Juventus (Kadınlar) Asya 0,75 Üst",
+   "en_olasi_p": 0.9392,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) Asya 0,75 Üst",
+     0.9392
+    ],
+    [
+     "Juventus (Kadınlar) Asya 0,75 Alt",
+     0.0608
+    ],
+    [
+     "Juventus (Kadınlar) Asya 1 Üst",
+     0.9334
+    ],
+    [
+     "Juventus (Kadınlar) Asya 1 Alt",
+     0.0666
+    ],
+    [
+     "Juventus (Kadınlar) Asya 1,25 Üst",
+     0.8515
+    ],
+    [
+     "Juventus (Kadınlar) Asya 1,25 Alt",
+     0.1485
+    ],
+    [
+     "Juventus (Kadınlar) Asya 1,5 Üst",
+     0.7829
+    ],
+    [
+     "Juventus (Kadınlar) Asya 1,5 Alt",
+     0.2171
+    ],
+    [
+     "Juventus (Kadınlar) Asya 1,75 Üst",
+     0.7543
+    ],
+    [
+     "Juventus (Kadınlar) Asya 1,75 Alt",
+     0.2457
+    ],
+    [
+     "Juventus (Kadınlar) Asya 2 Üst",
+     0.717
+    ],
+    [
+     "Juventus (Kadınlar) Asya 2 Alt",
+     0.283
+    ],
+    [
+     "Juventus (Kadınlar) Asya 2,25 Üst",
+     0.6225
+    ],
+    [
+     "Juventus (Kadınlar) Asya 2,25 Alt",
+     0.3775
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) : Toplam Gol Asya",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) Asya 1,5 Alt",
+   "olasilik": 0.8076,
+   "adil_oran": 1.24,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) Asya 1,5 Alt",
+   "en_olasi_p": 0.8076,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya 0,25 Üst",
+     0.7118
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya 0,25 Alt",
+     0.2882
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya 0,5 Üst",
+     0.5525
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya 0,5 Alt",
+     0.4475
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya 0,75 Üst",
+     0.4543
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya 0,75 Alt",
+     0.5457
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya 1 Üst",
+     0.3007
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya 1 Alt",
+     0.6993
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya 1,25 Üst",
+     0.2347
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya 1,25 Alt",
+     0.7653
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya 1,5 Üst",
+     0.1924
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya 1,5 Alt",
+     0.8076
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (3-İhtimalli)",
+   "oneri": "2 Üst",
+   "olasilik": 0.7128,
+   "adil_oran": 1.4,
+   "en_olasi": "1 Üst",
+   "en_olasi_p": 0.8816,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.0253
+    ],
+    [
+     "Tam 1",
+     0.0931
+    ],
+    [
+     "1 Üst",
+     0.8816
+    ],
+    [
+     "2 Alt",
+     0.1184
+    ],
+    [
+     "Tam 2",
+     0.1687
+    ],
+    [
+     "2 Üst",
+     0.7128
+    ],
+    [
+     "3 Alt",
+     0.2872
+    ],
+    [
+     "Tam 3",
+     0.2092
+    ],
+    [
+     "3 Üst",
+     0.5037
+    ],
+    [
+     "4 Alt",
+     0.4963
+    ],
+    [
+     "Tam 4",
+     0.1922
+    ],
+    [
+     "4 Üst",
+     0.3115
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol Tek/Çift",
+   "oneri": "Tek",
+   "olasilik": 0.5009,
+   "adil_oran": 2.0,
+   "en_olasi": "Tek",
+   "en_olasi_p": 0.5009,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.5009
+    ],
+    [
+     "Çift",
+     0.4991
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Kesin)",
+   "oneri": "3 gol",
+   "olasilik": 0.2092,
+   "adil_oran": 4.78,
+   "en_olasi": "3 gol",
+   "en_olasi_p": 0.2092,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0253
+    ],
+    [
+     "1 gol",
+     0.0931
+    ],
+    [
+     "2 gol",
+     0.1687
+    ],
+    [
+     "3 gol",
+     0.2092
+    ],
+    [
+     "4 gol",
+     0.1922
+    ],
+    [
+     "5 gol",
+     0.1423
+    ],
+    [
+     "6+ gol",
+     0.1692
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Juventus (Kadınlar) : Toplam Gol (Kesin)",
+   "oneri": "4+ gol",
+   "olasilik": 0.3276,
+   "adil_oran": 3.05,
+   "en_olasi": "4+ gol",
+   "en_olasi_p": 0.3276,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0559
+    ],
+    [
+     "1 gol",
+     0.1612
+    ],
+    [
+     "2 gol",
+     0.2329
+    ],
+    [
+     "3 gol",
+     0.2224
+    ],
+    [
+     "4+ gol",
+     0.3276
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) : Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.4475,
+   "adil_oran": 2.23,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4475,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4475
+    ],
+    [
+     "1 gol",
+     0.3601
+    ],
+    [
+     "2 gol",
+     0.1436
+    ],
+    [
+     "3 gol",
+     0.0391
+    ],
+    [
+     "4+ gol",
+     0.0098
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Aralık)",
+   "oneri": "2-3 gol",
+   "olasilik": 0.3779,
+   "adil_oran": 2.65,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.3779,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.1184
+    ],
+    [
+     "2-3 gol",
+     0.3779
+    ],
+    [
+     "4-5 gol",
+     0.3345
+    ],
+    [
+     "6+ gol",
+     0.1692
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Juventus (Kadınlar) : Toplam Gol (Aralık)",
+   "oneri": "3+ gol",
+   "olasilik": 0.55,
+   "adil_oran": 1.82,
+   "en_olasi": "3+ gol",
+   "en_olasi_p": 0.55,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0559
+    ],
+    [
+     "1-2 gol",
+     0.3941
+    ],
+    [
+     "3+ gol",
+     0.55
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5037,
+   "adil_oran": 1.99,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5037,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4475
+    ],
+    [
+     "1-2 gol",
+     0.5037
+    ],
+    [
+     "3+ gol",
+     0.0489
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Genişletilmiş Gol Aralığı)",
+   "oneri": "2-4 gol",
+   "olasilik": 0.5701,
+   "adil_oran": 1.75,
+   "en_olasi": "2-4 gol",
+   "en_olasi_p": 0.5701,
+   "guven": "yüksek",
+   "not_": "Sitedeki aralıklar farklı olabilir",
+   "secimler": [
+    [
+     "0 gol",
+     0.0253
+    ],
+    [
+     "1-2 gol",
+     0.2619
+    ],
+    [
+     "1-3 gol",
+     0.471
+    ],
+    [
+     "2-3 gol",
+     0.3779
+    ],
+    [
+     "2-4 gol",
+     0.5701
+    ],
+    [
+     "3-4 gol",
+     0.4013
+    ],
+    [
+     "3-5 gol",
+     0.5436
+    ],
+    [
+     "4-6 gol",
+     0.4219
+    ],
+    [
+     "5+ gol",
+     0.3115
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Juventus (Kadınlar) : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "3+ gol",
+   "olasilik": 0.55,
+   "adil_oran": 1.82,
+   "en_olasi": "3+ gol",
+   "en_olasi_p": 0.55,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.2171
+    ],
+    [
+     "1-2 gol",
+     0.3941
+    ],
+    [
+     "2-3 gol",
+     0.4553
+    ],
+    [
+     "3+ gol",
+     0.55
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.8076,
+   "adil_oran": 1.24,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.8076,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.8076
+    ],
+    [
+     "1-2 gol",
+     0.5037
+    ],
+    [
+     "2-3 gol",
+     0.1826
+    ],
+    [
+     "3+ gol",
+     0.0489
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Kesin Gol Sayısı",
+   "oneri": "3 gol",
+   "olasilik": 0.2092,
+   "adil_oran": 4.78,
+   "en_olasi": "3 gol",
+   "en_olasi_p": 0.2092,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0253
+    ],
+    [
+     "1 gol",
+     0.0931
+    ],
+    [
+     "2 gol",
+     0.1687
+    ],
+    [
+     "3 gol",
+     0.2092
+    ],
+    [
+     "4 gol",
+     0.1922
+    ],
+    [
+     "5 gol",
+     0.1423
+    ],
+    [
+     "6 gol",
+     0.0875
+    ],
+    [
+     "7+ gol",
+     0.0817
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 1 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9069,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9069,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0931
+    ],
+    [
+     "Hayır",
+     0.9069
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 2 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8313,
+   "adil_oran": 1.2,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8313,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1687
+    ],
+    [
+     "Hayır",
+     0.8313
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 3 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7909,
+   "adil_oran": 1.26,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7909,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2092
+    ],
+    [
+     "Hayır",
+     0.7909
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 4 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8078,
+   "adil_oran": 1.24,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8078,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1922
+    ],
+    [
+     "Hayır",
+     0.8078
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "En Az Bir Takım Üst Gol Atar",
+   "oneri": "En az bir takım 1,5 Üst",
+   "olasilik": 0.8235,
+   "adil_oran": 1.21,
+   "en_olasi": "En az bir takım 0,5 Üst",
+   "en_olasi_p": 0.9747,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "En az bir takım 0,5 Üst",
+     0.9747
+    ],
+    [
+     "En az bir takım 1,5 Üst",
+     0.8235
+    ],
+    [
+     "En az bir takım 2,5 Üst",
+     0.5717
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Juventus (Kadınlar) : Asist Yapar. Toplam",
+   "oneri": "Juventus (Kadınlar) asist 2,5 Alt",
+   "olasilik": 0.7035,
+   "adil_oran": 1.42,
+   "en_olasi": "Juventus (Kadınlar) asist 0,5 Üst",
+   "en_olasi_p": 0.8504,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) asist 0,5 Üst",
+     0.8504
+    ],
+    [
+     "Juventus (Kadınlar) asist 0,5 Alt",
+     0.1496
+    ],
+    [
+     "Juventus (Kadınlar) asist 1,5 Üst",
+     0.5657
+    ],
+    [
+     "Juventus (Kadınlar) asist 1,5 Alt",
+     0.4343
+    ],
+    [
+     "Juventus (Kadınlar) asist 2,5 Üst",
+     0.2965
+    ],
+    [
+     "Juventus (Kadınlar) asist 2,5 Alt",
+     0.7035
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) : Asist Yapar. Toplam",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) asist 0,5 Alt",
+   "olasilik": 0.606,
+   "adil_oran": 1.65,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) asist 1,5 Alt",
+   "en_olasi_p": 0.9079,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Oud-Heverlee Leuven (Kadınlar) asist 0,5 Üst",
+     0.394
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) asist 0,5 Alt",
+     0.606
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) asist 1,5 Üst",
+     0.0921
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) asist 1,5 Alt",
+     0.9079
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takımda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.522,
+   "adil_oran": 1.92,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.522,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.522
+    ],
+    [
+     "Hayır",
+     0.478
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8482,
+   "adil_oran": 1.18,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8482,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1518
+    ],
+    [
+     "Hayır",
+     0.8482
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Juventus (Kadınlar) : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.9441,
+   "adil_oran": 1.06,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.9441,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.9441
+    ],
+    [
+     "Hayır",
+     0.0559
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.5525,
+   "adil_oran": 1.81,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5525,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5525
+    ],
+    [
+     "Hayır",
+     0.4475
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Karşılıklı Gol ve Toplam Goller 2.5",
+   "oneri": "KG Var & Üst",
+   "olasilik": 0.4639,
+   "adil_oran": 2.16,
+   "en_olasi": "KG Var & Üst",
+   "en_olasi_p": 0.4639,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "KG Var & Üst",
+     0.4639
+    ],
+    [
+     "KG Var & Alt",
+     0.058
+    ],
+    [
+     "KG Yok & Üst",
+     0.2489
+    ],
+    [
+     "KG Yok & Alt",
+     0.2291
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Yarıda da Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.9379,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9379,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0621
+    ],
+    [
+     "Hayır",
+     0.9379
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı",
+   "oneri": "Juventus (Kadınlar) -0,5",
+   "olasilik": 0.798,
+   "adil_oran": 1.25,
+   "en_olasi": "Juventus (Kadınlar) +2,5",
+   "en_olasi_p": 0.9955,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) -2,5",
+     0.3907
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +2,5",
+     0.6093
+    ],
+    [
+     "Juventus (Kadınlar) -1,5",
+     0.6014
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +1,5",
+     0.3986
+    ],
+    [
+     "Juventus (Kadınlar) -0,5",
+     0.798
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +0,5",
+     0.2021
+    ],
+    [
+     "Juventus (Kadınlar) +0,5",
+     0.9253
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) -0,5",
+     0.0747
+    ],
+    [
+     "Juventus (Kadınlar) +1,5",
+     0.9792
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) -1,5",
+     0.0208
+    ],
+    [
+     "Juventus (Kadınlar) +2,5",
+     0.9955
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) -2,5",
+     0.0045
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Goller Asya Handikapı",
+   "oneri": "Juventus (Kadınlar) Asya -0,5",
+   "olasilik": 0.7979,
+   "adil_oran": 1.25,
+   "en_olasi": "Juventus (Kadınlar) Asya +1,5",
+   "en_olasi_p": 0.9792,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) Asya -2",
+     0.495
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya -2",
+     0.0046
+    ],
+    [
+     "Juventus (Kadınlar) Asya -1,75",
+     0.5544
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya -1,75",
+     0.0127
+    ],
+    [
+     "Juventus (Kadınlar) Asya -1,5",
+     0.6014
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya -1,5",
+     0.0208
+    ],
+    [
+     "Juventus (Kadınlar) Asya -1,25",
+     0.6669
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya -1,25",
+     0.0214
+    ],
+    [
+     "Juventus (Kadınlar) Asya -1",
+     0.7485
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya -1",
+     0.022
+    ],
+    [
+     "Juventus (Kadınlar) Asya -0,75",
+     0.7759
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya -0,75",
+     0.0491
+    ],
+    [
+     "Juventus (Kadınlar) Asya -0,5",
+     0.7979
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya -0,5",
+     0.0747
+    ],
+    [
+     "Juventus (Kadınlar) Asya -0,25",
+     0.8522
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya -0,25",
+     0.0798
+    ],
+    [
+     "Juventus (Kadınlar) Asya 0",
+     0.9144
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya 0",
+     0.0856
+    ],
+    [
+     "Juventus (Kadınlar) Asya +0,25",
+     0.9202
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya +0,25",
+     0.1478
+    ],
+    [
+     "Juventus (Kadınlar) Asya +0,5",
+     0.9253
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya +0,5",
+     0.202
+    ],
+    [
+     "Juventus (Kadınlar) Asya +0,75",
+     0.9509
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya +0,75",
+     0.2241
+    ],
+    [
+     "Juventus (Kadınlar) Asya +1",
+     0.978
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya +1",
+     0.2515
+    ],
+    [
+     "Juventus (Kadınlar) Asya +1,25",
+     0.9786
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya +1,25",
+     0.3331
+    ],
+    [
+     "Juventus (Kadınlar) Asya +1,5",
+     0.9792
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya +1,5",
+     0.3986
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı (3-İhtimalli)",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) (-3)",
+   "olasilik": 0.6093,
+   "adil_oran": 1.64,
+   "en_olasi": "Juventus (Kadınlar) (+3)",
+   "en_olasi_p": 0.9955,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) (-3)",
+     0.2178
+    ],
+    [
+     "X (-3)",
+     0.1728
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) (-3)",
+     0.6093
+    ],
+    [
+     "Juventus (Kadınlar) (-2)",
+     0.3907
+    ],
+    [
+     "X (-2)",
+     0.2107
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) (-2)",
+     0.3986
+    ],
+    [
+     "Juventus (Kadınlar) (-1)",
+     0.6014
+    ],
+    [
+     "X (-1)",
+     0.1966
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) (-1)",
+     0.2021
+    ],
+    [
+     "Juventus (Kadınlar) (+1)",
+     0.9253
+    ],
+    [
+     "X (+1)",
+     0.0539
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) (+1)",
+     0.0208
+    ],
+    [
+     "Juventus (Kadınlar) (+2)",
+     0.9792
+    ],
+    [
+     "X (+2)",
+     0.0163
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) (+2)",
+     0.0045
+    ],
+    [
+     "Juventus (Kadınlar) (+3)",
+     0.9955
+    ],
+    [
+     "X (+3)",
+     0.0037
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) (+3)",
+     0.0008
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Juventus (Kadınlar) Gol Atar ve Maç Sonucu",
+   "oneri": "1 & Juventus (Kadınlar) gol atar",
+   "olasilik": 0.798,
+   "adil_oran": 1.25,
+   "en_olasi": "1 & Juventus (Kadınlar) gol atar",
+   "en_olasi_p": 0.798,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Juventus (Kadınlar) gol atar",
+     0.798
+    ],
+    [
+     "1 & Juventus (Kadınlar) gol atamaz",
+     0.0
+    ],
+    [
+     "X & Juventus (Kadınlar) gol atar",
+     0.1021
+    ],
+    [
+     "X & Juventus (Kadınlar) gol atamaz",
+     0.0253
+    ],
+    [
+     "2 & Juventus (Kadınlar) gol atar",
+     0.0441
+    ],
+    [
+     "2 & Juventus (Kadınlar) gol atamaz",
+     0.0306
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) Gol Atar ve Maç Sonucu",
+   "oneri": "1 & Oud-Heverlee Leuven (Kadınlar) gol atamaz",
+   "olasilik": 0.4222,
+   "adil_oran": 2.37,
+   "en_olasi": "1 & Oud-Heverlee Leuven (Kadınlar) gol atamaz",
+   "en_olasi_p": 0.4222,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Oud-Heverlee Leuven (Kadınlar) gol atar",
+     0.3758
+    ],
+    [
+     "1 & Oud-Heverlee Leuven (Kadınlar) gol atamaz",
+     0.4222
+    ],
+    [
+     "X & Oud-Heverlee Leuven (Kadınlar) gol atar",
+     0.1021
+    ],
+    [
+     "X & Oud-Heverlee Leuven (Kadınlar) gol atamaz",
+     0.0253
+    ],
+    [
+     "2 & Oud-Heverlee Leuven (Kadınlar) gol atar",
+     0.0747
+    ],
+    [
+     "2 & Oud-Heverlee Leuven (Kadınlar) gol atamaz",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Karşılıklı Gol",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.4222,
+   "adil_oran": 2.37,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.4222,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.3758
+    ],
+    [
+     "1 & KG Yok",
+     0.4222
+    ],
+    [
+     "X & KG Var",
+     0.1021
+    ],
+    [
+     "X & KG Yok",
+     0.0253
+    ],
+    [
+     "2 & KG Var",
+     0.0441
+    ],
+    [
+     "2 & KG Yok",
+     0.0306
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Karşılıklı Gol",
+   "oneri": "1X & KG Var",
+   "olasilik": 0.4778,
+   "adil_oran": 2.09,
+   "en_olasi": "1X & KG Var",
+   "en_olasi_p": 0.4778,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & KG Var",
+     0.4778
+    ],
+    [
+     "1X & KG Yok",
+     0.4475
+    ],
+    [
+     "12 & KG Var",
+     0.4199
+    ],
+    [
+     "12 & KG Yok",
+     0.4527
+    ],
+    [
+     "X2 & KG Var",
+     0.1462
+    ],
+    [
+     "X2 & KG Yok",
+     0.0559
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 1.5",
+   "oneri": "1 & 1,5 Üst",
+   "olasilik": 0.7251,
+   "adil_oran": 1.38,
+   "en_olasi": "1 & 1,5 Üst",
+   "en_olasi_p": 0.7251,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1,5 Üst",
+     0.7251
+    ],
+    [
+     "1 & 1,5 Alt",
+     0.0728
+    ],
+    [
+     "X & 1,5 Üst",
+     0.1021
+    ],
+    [
+     "X & 1,5 Alt",
+     0.0253
+    ],
+    [
+     "2 & 1,5 Üst",
+     0.0544
+    ],
+    [
+     "2 & 1,5 Alt",
+     0.0203
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 2.5",
+   "oneri": "1 & 2,5 Üst",
+   "olasilik": 0.6221,
+   "adil_oran": 1.61,
+   "en_olasi": "1 & 2,5 Üst",
+   "en_olasi_p": 0.6221,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 2,5 Üst",
+     0.6221
+    ],
+    [
+     "1 & 2,5 Alt",
+     0.1758
+    ],
+    [
+     "X & 2,5 Üst",
+     0.044
+    ],
+    [
+     "X & 2,5 Alt",
+     0.0833
+    ],
+    [
+     "2 & 2,5 Üst",
+     0.0467
+    ],
+    [
+     "2 & 2,5 Alt",
+     0.028
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 3.5",
+   "oneri": "1 & 3,5 Üst",
+   "olasilik": 0.4376,
+   "adil_oran": 2.29,
+   "en_olasi": "1 & 3,5 Üst",
+   "en_olasi_p": 0.4376,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 3,5 Üst",
+     0.4376
+    ],
+    [
+     "1 & 3,5 Alt",
+     0.3604
+    ],
+    [
+     "X & 3,5 Üst",
+     0.044
+    ],
+    [
+     "X & 3,5 Alt",
+     0.0833
+    ],
+    [
+     "2 & 3,5 Üst",
+     0.0221
+    ],
+    [
+     "2 & 3,5 Alt",
+     0.0526
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 4.5",
+   "oneri": "1 & 4,5 Alt",
+   "olasilik": 0.512,
+   "adil_oran": 1.95,
+   "en_olasi": "1 & 4,5 Alt",
+   "en_olasi_p": 0.512,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 4,5 Üst",
+     0.286
+    ],
+    [
+     "1 & 4,5 Alt",
+     0.512
+    ],
+    [
+     "X & 4,5 Üst",
+     0.0101
+    ],
+    [
+     "X & 4,5 Alt",
+     0.1173
+    ],
+    [
+     "2 & 4,5 Üst",
+     0.0154
+    ],
+    [
+     "2 & 4,5 Alt",
+     0.0593
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Juventus (Kadınlar) : Toplam Gol",
+   "oneri": "1 & Juventus (Kadınlar) 1,5 Üst",
+   "olasilik": 0.7251,
+   "adil_oran": 1.38,
+   "en_olasi": "1 & Juventus (Kadınlar) 1,5 Üst",
+   "en_olasi_p": 0.7251,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Juventus (Kadınlar) 1,5 Üst",
+     0.7251
+    ],
+    [
+     "1 & Juventus (Kadınlar) 1,5 Alt",
+     0.0728
+    ],
+    [
+     "X & Juventus (Kadınlar) 1,5 Üst",
+     0.044
+    ],
+    [
+     "X & Juventus (Kadınlar) 1,5 Alt",
+     0.0833
+    ],
+    [
+     "2 & Juventus (Kadınlar) 1,5 Üst",
+     0.0137
+    ],
+    [
+     "2 & Juventus (Kadınlar) 1,5 Alt",
+     0.061
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Oud-Heverlee Leuven (Kadınlar) : Toplam Gol",
+   "oneri": "1 & Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+   "olasilik": 0.4222,
+   "adil_oran": 2.37,
+   "en_olasi": "1 & Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+   "en_olasi_p": 0.4222,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Oud-Heverlee Leuven (Kadınlar) 0,5 Üst",
+     0.3758
+    ],
+    [
+     "1 & Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+     0.4222
+    ],
+    [
+     "X & Oud-Heverlee Leuven (Kadınlar) 0,5 Üst",
+     0.1021
+    ],
+    [
+     "X & Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+     0.0253
+    ],
+    [
+     "2 & Oud-Heverlee Leuven (Kadınlar) 0,5 Üst",
+     0.0747
+    ],
+    [
+     "2 & Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Toplam Gol",
+   "oneri": "X veya 2,5 Üst",
+   "olasilik": 0.7962,
+   "adil_oran": 1.26,
+   "en_olasi": "1 veya 2,5 Alt",
+   "en_olasi_p": 0.9093,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 2,5 Üst",
+     0.8887
+    ],
+    [
+     "1 veya 2,5 Alt",
+     0.9093
+    ],
+    [
+     "X veya 2,5 Üst",
+     0.7962
+    ],
+    [
+     "X veya 2,5 Alt",
+     0.3312
+    ],
+    [
+     "2 veya 2,5 Üst",
+     0.7408
+    ],
+    [
+     "2 veya 2,5 Alt",
+     0.3338
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol (Kesin)",
+   "oneri": "1 & 3 gol",
+   "olasilik": 0.1846,
+   "adil_oran": 5.42,
+   "en_olasi": "1 & 3 gol",
+   "en_olasi_p": 0.1846,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 0 gol",
+     0.0
+    ],
+    [
+     "1 & 1 gol",
+     0.0728
+    ],
+    [
+     "1 & 2 gol",
+     0.103
+    ],
+    [
+     "1 & 3 gol",
+     0.1846
+    ],
+    [
+     "1 & 4 gol",
+     0.1516
+    ],
+    [
+     "1 & 5 gol",
+     0.1318
+    ],
+    [
+     "X & 0 gol",
+     0.0253
+    ],
+    [
+     "X & 1 gol",
+     0.0
+    ],
+    [
+     "X & 2 gol",
+     0.058
+    ],
+    [
+     "X & 3 gol",
+     0.0
+    ],
+    [
+     "X & 4 gol",
+     0.034
+    ],
+    [
+     "X & 5 gol",
+     0.0
+    ],
+    [
+     "2 & 0 gol",
+     0.0
+    ],
+    [
+     "2 & 1 gol",
+     0.0203
+    ],
+    [
+     "2 & 2 gol",
+     0.0077
+    ],
+    [
+     "2 & 3 gol",
+     0.0246
+    ],
+    [
+     "2 & 4 gol",
+     0.0067
+    ],
+    [
+     "2 & 5 gol",
+     0.0104
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "1 & 3-5 gol",
+   "olasilik": 0.468,
+   "adil_oran": 2.14,
+   "en_olasi": "1 & 3-5 gol",
+   "en_olasi_p": 0.468,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1-2 gol",
+     0.1758
+    ],
+    [
+     "1 & 1-3 gol",
+     0.3604
+    ],
+    [
+     "1 & 2-3 gol",
+     0.2876
+    ],
+    [
+     "1 & 2-4 gol",
+     0.4392
+    ],
+    [
+     "1 & 3-4 gol",
+     0.3362
+    ],
+    [
+     "1 & 3-5 gol",
+     0.468
+    ],
+    [
+     "X & 1-2 gol",
+     0.058
+    ],
+    [
+     "X & 1-3 gol",
+     0.058
+    ],
+    [
+     "X & 2-3 gol",
+     0.058
+    ],
+    [
+     "X & 2-4 gol",
+     0.092
+    ],
+    [
+     "X & 3-4 gol",
+     0.034
+    ],
+    [
+     "X & 3-5 gol",
+     0.034
+    ],
+    [
+     "2 & 1-2 gol",
+     0.028
+    ],
+    [
+     "2 & 1-3 gol",
+     0.0526
+    ],
+    [
+     "2 & 2-3 gol",
+     0.0323
+    ],
+    [
+     "2 & 2-4 gol",
+     0.0389
+    ],
+    [
+     "2 & 3-4 gol",
+     0.0312
+    ],
+    [
+     "2 & 3-5 gol",
+     0.0417
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "1X & 2-4 gol",
+   "olasilik": 0.5312,
+   "adil_oran": 1.88,
+   "en_olasi": "1X & 2-4 gol",
+   "en_olasi_p": 0.5312,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1-2 gol",
+     0.2339
+    ],
+    [
+     "1X & 1-3 gol",
+     0.4184
+    ],
+    [
+     "1X & 2-3 gol",
+     0.3456
+    ],
+    [
+     "1X & 2-4 gol",
+     0.5312
+    ],
+    [
+     "12 & 1-2 gol",
+     0.2038
+    ],
+    [
+     "12 & 1-3 gol",
+     0.413
+    ],
+    [
+     "12 & 2-3 gol",
+     0.3199
+    ],
+    [
+     "12 & 2-4 gol",
+     0.4781
+    ],
+    [
+     "X2 & 1-2 gol",
+     0.086
+    ],
+    [
+     "X2 & 1-3 gol",
+     0.1106
+    ],
+    [
+     "X2 & 2-3 gol",
+     0.0903
+    ],
+    [
+     "X2 & 2-4 gol",
+     0.1309
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Doğru Skor",
+   "oneri": "X veya 2-0",
+   "olasilik": 0.2304,
+   "adil_oran": 4.34,
+   "en_olasi": "X veya 2-0",
+   "en_olasi_p": 0.2304,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "X veya 2-0",
+     0.2304
+    ],
+    [
+     "X veya 3-0",
+     0.2273
+    ],
+    [
+     "X veya 2-1",
+     0.212
+    ],
+    [
+     "X veya 3-1",
+     0.2074
+    ],
+    [
+     "X veya 1-0",
+     0.2002
+    ],
+    [
+     "X veya 4-0",
+     0.1989
+    ],
+    [
+     "2 veya 2-0",
+     0.1777
+    ],
+    [
+     "2 veya 3-0",
+     0.1746
+    ],
+    [
+     "2 veya 2-1",
+     0.1594
+    ],
+    [
+     "2 veya 3-1",
+     0.1547
+    ],
+    [
+     "2 veya 1-0",
+     0.1475
+    ],
+    [
+     "2 veya 4-0",
+     0.1463
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Her İki Yarı Toplam Gol Kombinasyonu",
+   "oneri": "İY Alt 1,5 & 2Y Üst 1,5",
+   "olasilik": 0.3169,
+   "adil_oran": 3.16,
+   "en_olasi": "İY Alt 1,5 & 2Y Üst 1,5",
+   "en_olasi_p": 0.3169,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Alt 1,5 & 2Y Alt 1,5",
+     0.2025
+    ],
+    [
+     "İY Alt 1,5 & 2Y Üst 1,5",
+     0.3169
+    ],
+    [
+     "İY Üst 1,5 & 2Y Alt 1,5",
+     0.1845
+    ],
+    [
+     "İY Üst 1,5 & 2Y Üst 1,5",
+     0.2961
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Farklı Kombineler",
+   "oneri": "1 & 2Y gol olur",
+   "olasilik": 0.7211,
+   "adil_oran": 1.39,
+   "en_olasi": "1 & 2Y gol olur",
+   "en_olasi_p": 0.7211,
+   "guven": "yüksek",
+   "not_": "Sitedeki kombinasyon içerikleri farklı olabilir",
+   "secimler": [
+    [
+     "1 & 2Y gol olur",
+     0.7211
+    ],
+    [
+     "2 & 2Y gol olur",
+     0.0617
+    ],
+    [
+     "Juventus (Kadınlar) her iki yarıda gol & 1",
+     0.5442
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) her iki yarıda gol & 2",
+     0.0331
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans Kombo",
+   "oneri": "1X & 1,5 Üst",
+   "olasilik": 0.8272,
+   "adil_oran": 1.21,
+   "en_olasi": "1X & 1,5 Üst",
+   "en_olasi_p": 0.8272,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1,5 Üst",
+     0.8272
+    ],
+    [
+     "1X & 1,5 Alt",
+     0.0981
+    ],
+    [
+     "1X & 2,5 Üst",
+     0.6662
+    ],
+    [
+     "1X & 2,5 Alt",
+     0.2592
+    ],
+    [
+     "1X & 3,5 Üst",
+     0.4816
+    ],
+    [
+     "1X & 3,5 Alt",
+     0.4437
+    ],
+    [
+     "12 & 1,5 Üst",
+     0.7795
+    ],
+    [
+     "12 & 1,5 Alt",
+     0.0931
+    ],
+    [
+     "12 & 2,5 Üst",
+     0.6688
+    ],
+    [
+     "12 & 2,5 Alt",
+     0.2038
+    ],
+    [
+     "12 & 3,5 Üst",
+     0.4597
+    ],
+    [
+     "12 & 3,5 Alt",
+     0.413
+    ],
+    [
+     "X2 & 1,5 Üst",
+     0.1564
+    ],
+    [
+     "X2 & 1,5 Alt",
+     0.0456
+    ],
+    [
+     "X2 & 2,5 Üst",
+     0.0907
+    ],
+    [
+     "X2 & 2,5 Alt",
+     0.1114
+    ],
+    [
+     "X2 & 3,5 Üst",
+     0.0661
+    ],
+    [
+     "X2 & 3,5 Alt",
+     0.1359
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "İlk Yarı/Maç Sonucu ve Toplam Gol",
+   "oneri": "1/1 & 2,5 Üst",
+   "olasilik": 0.4624,
+   "adil_oran": 2.16,
+   "en_olasi": "1/1 & 2,5 Üst",
+   "en_olasi_p": 0.4624,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1 & 2,5 Üst",
+     0.4624
+    ],
+    [
+     "1/1 & 2,5 Alt",
+     0.103
+    ],
+    [
+     "1/X & 2,5 Üst",
+     0.0136
+    ],
+    [
+     "1/X & 2,5 Alt",
+     0.0143
+    ],
+    [
+     "1/2 & 2,5 Üst",
+     0.0065
+    ],
+    [
+     "1/2 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "X/1 & 2,5 Üst",
+     0.1245
+    ],
+    [
+     "X/1 & 2,5 Alt",
+     0.0728
+    ],
+    [
+     "X/X & 2,5 Üst",
+     0.0159
+    ],
+    [
+     "X/X & 2,5 Alt",
+     0.0538
+    ],
+    [
+     "X/2 & 2,5 Üst",
+     0.0151
+    ],
+    [
+     "X/2 & 2,5 Alt",
+     0.0138
+    ],
+    [
+     "2/1 & 2,5 Üst",
+     0.0353
+    ],
+    [
+     "2/1 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "2/X & 2,5 Üst",
+     0.0145
+    ],
+    [
+     "2/X & 2,5 Alt",
+     0.0153
+    ],
+    [
+     "2/2 & 2,5 Üst",
+     0.025
+    ],
+    [
+     "2/2 & 2,5 Alt",
+     0.0142
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Her İki Yarıda Gol Olur",
+   "oneri": "Evet",
+   "olasilik": 0.7012,
+   "adil_oran": 1.43,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7012,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7012
+    ],
+    [
+     "Hayır",
+     0.2988
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım",
+   "oneri": "Juventus (Kadınlar)",
+   "olasilik": 0.7553,
+   "adil_oran": 1.32,
+   "en_olasi": "Juventus (Kadınlar)",
+   "en_olasi_p": 0.7553,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar)",
+     0.7553
+    ],
+    [
+     "Gol yok",
+     0.0253
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar)",
+     0.2194
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Son Golü Atacak Takım",
+   "oneri": "Juventus (Kadınlar)",
+   "olasilik": 0.7583,
+   "adil_oran": 1.32,
+   "en_olasi": "Juventus (Kadınlar)",
+   "en_olasi_p": 0.7583,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar)",
+     0.7583
+    ],
+    [
+     "Gol yok",
+     0.0253
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar)",
+     0.2164
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golün Atılma Şekli",
+   "oneri": "Şut",
+   "olasilik": 0.6983,
+   "adil_oran": 1.43,
+   "en_olasi": "Şut",
+   "en_olasi_p": 0.6983,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şut",
+     0.6983
+    ],
+    [
+     "Kafa",
+     0.1501
+    ],
+    [
+     "Penaltı",
+     0.0619
+    ],
+    [
+     "Serbest vuruş",
+     0.029
+    ],
+    [
+     "Kendi kalesine",
+     0.0355
+    ],
+    [
+     "Gol yok",
+     0.0253
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı",
+   "oneri": "1-27 dk",
+   "olasilik": 0.575,
+   "adil_oran": 1.74,
+   "en_olasi": "1-27 dk",
+   "en_olasi_p": 0.575,
+   "guven": "orta",
+   "not_": "Sınır 27. dk varsayıldı",
+   "secimler": [
+    [
+     "1-27 dk",
+     0.575
+    ],
+    [
+     "28-90 dk",
+     0.3997
+    ],
+    [
+     "Gol yok",
+     0.0253
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Juventus (Kadınlar) : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "1-10 dk",
+   "olasilik": 0.2119,
+   "adil_oran": 4.72,
+   "en_olasi": "1-10 dk",
+   "en_olasi_p": 0.2119,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.2119
+    ],
+    [
+     "11-20 dk",
+     0.1711
+    ],
+    [
+     "21-30 dk",
+     0.14
+    ],
+    [
+     "31-40 dk",
+     0.1118
+    ],
+    [
+     "41-50 dk",
+     0.1039
+    ],
+    [
+     "51-60 dk",
+     0.0658
+    ],
+    [
+     "61-70 dk",
+     0.0515
+    ],
+    [
+     "71-80 dk",
+     0.0418
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0466
+    ],
+    [
+     "Gol yok",
+     0.0559
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.4475,
+   "adil_oran": 2.23,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.4475,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.0654
+    ],
+    [
+     "11-20 dk",
+     0.0656
+    ],
+    [
+     "21-30 dk",
+     0.0628
+    ],
+    [
+     "31-40 dk",
+     0.0615
+    ],
+    [
+     "41-50 dk",
+     0.0695
+    ],
+    [
+     "51-60 dk",
+     0.0555
+    ],
+    [
+     "61-70 dk",
+     0.0517
+    ],
+    [
+     "71-80 dk",
+     0.05
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0705
+    ],
+    [
+     "Gol yok",
+     0.4475
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı (15 dk.)",
+   "oneri": "1-15 dk",
+   "olasilik": 0.371,
+   "adil_oran": 2.7,
+   "en_olasi": "1-15 dk",
+   "en_olasi_p": 0.371,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-15 dk",
+     0.371
+    ],
+    [
+     "16-30 dk",
+     0.2449
+    ],
+    [
+     "31-45 (+uz.) dk",
+     0.1744
+    ],
+    [
+     "46-60 dk",
+     0.0887
+    ],
+    [
+     "61-75 dk",
+     0.0548
+    ],
+    [
+     "76-90 (+uz.) dk",
+     0.041
+    ],
+    [
+     "Gol yok",
+     0.0253
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve Maç Sonucu",
+   "oneri": "İlk gol Juventus (Kadınlar) & 1",
+   "olasilik": 0.6902,
+   "adil_oran": 1.45,
+   "en_olasi": "İlk gol Juventus (Kadınlar) & 1",
+   "en_olasi_p": 0.6902,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Juventus (Kadınlar) & 1",
+     0.6902
+    ],
+    [
+     "İlk gol Juventus (Kadınlar) & X",
+     0.0501
+    ],
+    [
+     "İlk gol Juventus (Kadınlar) & 2",
+     0.0151
+    ],
+    [
+     "İlk gol Oud-Heverlee Leuven (Kadınlar) & 1",
+     0.1078
+    ],
+    [
+     "İlk gol Oud-Heverlee Leuven (Kadınlar) & X",
+     0.052
+    ],
+    [
+     "İlk gol Oud-Heverlee Leuven (Kadınlar) & 2",
+     0.0596
+    ],
+    [
+     "Gol yok",
+     0.0253
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 1. Yarı Sonucu",
+   "oneri": "İlk gol Juventus (Kadınlar) & İY 1",
+   "olasilik": 0.5667,
+   "adil_oran": 1.76,
+   "en_olasi": "İlk gol Juventus (Kadınlar) & İY 1",
+   "en_olasi_p": 0.5667,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Juventus (Kadınlar) & İY 1",
+     0.5667
+    ],
+    [
+     "İlk gol Juventus (Kadınlar) & İY X",
+     0.1825
+    ],
+    [
+     "İlk gol Juventus (Kadınlar) & İY 2",
+     0.0062
+    ],
+    [
+     "İlk gol Oud-Heverlee Leuven (Kadınlar) & İY 1",
+     0.0331
+    ],
+    [
+     "İlk gol Oud-Heverlee Leuven (Kadınlar) & İY X",
+     0.0882
+    ],
+    [
+     "İlk gol Oud-Heverlee Leuven (Kadınlar) & İY 2",
+     0.098
+    ],
+    [
+     "Gol yok",
+     0.0253
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 2. Yarı Sonucu",
+   "oneri": "İlk gol Juventus (Kadınlar) & 2Y 1",
+   "olasilik": 0.5319,
+   "adil_oran": 1.88,
+   "en_olasi": "İlk gol Juventus (Kadınlar) & 2Y 1",
+   "en_olasi_p": 0.5319,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Juventus (Kadınlar) & 2Y 1",
+     0.5319
+    ],
+    [
+     "İlk gol Juventus (Kadınlar) & 2Y X",
+     0.1595
+    ],
+    [
+     "İlk gol Juventus (Kadınlar) & 2Y 2",
+     0.0639
+    ],
+    [
+     "İlk gol Oud-Heverlee Leuven (Kadınlar) & 2Y 1",
+     0.1326
+    ],
+    [
+     "İlk gol Oud-Heverlee Leuven (Kadınlar) & 2Y X",
+     0.052
+    ],
+    [
+     "İlk gol Oud-Heverlee Leuven (Kadınlar) & 2Y 2",
+     0.0348
+    ],
+    [
+     "Gol yok",
+     0.0253
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Doğru Skor",
+   "oneri": "Diğer",
+   "olasilik": 0.1682,
+   "adil_oran": 5.94,
+   "en_olasi": "Diğer",
+   "en_olasi_p": 0.1682,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Diğer",
+     0.1682
+    ],
+    [
+     "2-0",
+     0.103
+    ],
+    [
+     "3-0",
+     0.0999
+    ],
+    [
+     "2-1",
+     0.0847
+    ],
+    [
+     "3-1",
+     0.08
+    ],
+    [
+     "1-0",
+     0.0728
+    ],
+    [
+     "4-0",
+     0.0716
+    ],
+    [
+     "1-1",
+     0.058
+    ],
+    [
+     "4-1",
+     0.0575
+    ],
+    [
+     "2-2",
+     0.034
+    ],
+    [
+     "3-2",
+     0.0318
+    ],
+    [
+     "0-0",
+     0.0253
+    ],
+    [
+     "4-2",
+     0.0235
+    ],
+    [
+     "1-2",
+     0.0226
+    ],
+    [
+     "0-1",
+     0.0203
+    ],
+    [
+     "2-3",
+     0.009
+    ],
+    [
+     "3-3",
+     0.0086
+    ],
+    [
+     "0-2",
+     0.0077
+    ],
+    [
+     "4-3",
+     0.0065
+    ],
+    [
+     "1-3",
+     0.0063
+    ],
+    [
+     "0-3",
+     0.002
+    ],
+    [
+     "2-4",
+     0.002
+    ],
+    [
+     "3-4",
+     0.0018
+    ],
+    [
+     "4-4",
+     0.0014
+    ],
+    [
+     "1-4",
+     0.0013
+    ],
+    [
+     "0-4",
+     0.0004
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Herhangi Bir Zamanda Doğru Skor",
+   "oneri": "1-0 herhangi bir anda",
+   "olasilik": 0.7482,
+   "adil_oran": 1.34,
+   "en_olasi": "1-0 herhangi bir anda",
+   "en_olasi_p": 0.7482,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-0 herhangi bir anda",
+     0.7482
+    ],
+    [
+     "2-0 herhangi bir anda",
+     0.5288
+    ],
+    [
+     "3-0 herhangi bir anda",
+     0.3342
+    ],
+    [
+     "1-1 herhangi bir anda",
+     0.2951
+    ],
+    [
+     "2-1 herhangi bir anda",
+     0.2797
+    ],
+    [
+     "0-1 herhangi bir anda",
+     0.2094
+    ],
+    [
+     "3-1 herhangi bir anda",
+     0.2044
+    ],
+    [
+     "2-2 herhangi bir anda",
+     0.0868
+    ],
+    [
+     "1-2 herhangi bir anda",
+     0.0777
+    ],
+    [
+     "3-2 herhangi bir anda",
+     0.0696
+    ],
+    [
+     "0-2 herhangi bir anda",
+     0.041
+    ],
+    [
+     "2-3 herhangi bir anda",
+     0.0196
+    ],
+    [
+     "3-3 herhangi bir anda",
+     0.0168
+    ],
+    [
+     "1-3 herhangi bir anda",
+     0.0161
+    ],
+    [
+     "0-3 herhangi bir anda",
+     0.0073
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Skor Kombinasyonları",
+   "oneri": "Juventus (Kadınlar) 1-0/2-0/2-1",
+   "olasilik": 0.2605,
+   "adil_oran": 3.84,
+   "en_olasi": "Juventus (Kadınlar) 1-0/2-0/2-1",
+   "en_olasi_p": 0.2605,
+   "guven": "yüksek",
+   "not_": "Sitedeki gruplar farklı olabilir",
+   "secimler": [
+    [
+     "Juventus (Kadınlar) 1-0/2-0/2-1",
+     0.2605
+    ],
+    [
+     "Juventus (Kadınlar) 3-0/3-1/4-0",
+     0.2515
+    ],
+    [
+     "0-0/1-1",
+     0.0833
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0-1/0-2/1-2",
+     0.0506
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0-3/1-3/0-4",
+     0.0087
+    ],
+    [
+     "2-2/3-3",
+     0.0425
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "1.Yarı/Maç Skoru",
+   "oneri": "İY 1-0 / MS 2-0",
+   "olasilik": 0.0507,
+   "adil_oran": 19.73,
+   "en_olasi": "İY 1-0 / MS 2-0",
+   "en_olasi_p": 0.0507,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 1-0 / MS 2-0",
+     0.0507
+    ],
+    [
+     "İY 1-0 / MS 3-0",
+     0.0415
+    ],
+    [
+     "İY 0-0 / MS 1-0",
+     0.0404
+    ],
+    [
+     "İY 0-0 / MS 2-0",
+     0.0324
+    ],
+    [
+     "İY 1-0 / MS 1-0",
+     0.0324
+    ],
+    [
+     "İY 2-0 / MS 3-0",
+     0.032
+    ],
+    [
+     "İY 2-0 / MS 4-0",
+     0.0261
+    ],
+    [
+     "İY 0-0 / MS 0-0",
+     0.0253
+    ],
+    [
+     "İY 1-0 / MS 2-1",
+     0.0234
+    ],
+    [
+     "İY 1-0 / MS 4-0",
+     0.0223
+    ],
+    [
+     "İY 2-0 / MS 2-0",
+     0.0199
+    ],
+    [
+     "İY 1-1 / MS 2-1",
+     0.0184
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Maç Skoru Beraberlik (0-0 hariç)",
+   "oneri": "Hayır",
+   "olasilik": 0.898,
+   "adil_oran": 1.11,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.898,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1021
+    ],
+    [
+     "Hayır",
+     0.898
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Juventus (Kadınlar) Kesin Gol Farkıyla Kazanır",
+   "oneri": "4+ farkla",
+   "olasilik": 0.2178,
+   "adil_oran": 4.59,
+   "en_olasi": "4+ farkla",
+   "en_olasi_p": 0.2178,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1966
+    ],
+    [
+     "2 farkla",
+     0.2107
+    ],
+    [
+     "3 farkla",
+     0.1728
+    ],
+    [
+     "4+ farkla",
+     0.2178
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) : Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.0539,
+   "adil_oran": 18.55,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.0539,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.0539
+    ],
+    [
+     "2 farkla",
+     0.0163
+    ],
+    [
+     "3 farkla",
+     0.0037
+    ],
+    [
+     "4+ farkla",
+     0.0008
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Juventus (Kadınlar) Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 4+ gol",
+   "olasilik": 0.3258,
+   "adil_oran": 3.07,
+   "en_olasi": "Kazanır & 4+ gol",
+   "en_olasi_p": 0.3258,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.0728
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.1877
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.2117
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.3258
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.0302,
+   "adil_oran": 33.07,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.0302,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.0203
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.0302
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.0173
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.0068
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Juventus (Kadınlar) Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.5778,
+   "adil_oran": 1.73,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5778,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4222
+    ],
+    [
+     "Hayır",
+     0.5778
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9694,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9694,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0306
+    ],
+    [
+     "Hayır",
+     0.9694
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Juventus (Kadınlar) İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.6165,
+   "adil_oran": 1.62,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6165,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3835
+    ],
+    [
+     "Hayır",
+     0.6165
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.98,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.98,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.02
+    ],
+    [
+     "Hayır",
+     0.98
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Juventus (Kadınlar) Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.6761,
+   "adil_oran": 1.48,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6761,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.324
+    ],
+    [
+     "Hayır",
+     0.6761
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.8187,
+   "adil_oran": 1.22,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8187,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1813
+    ],
+    [
+     "Hayır",
+     0.8187
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Juventus (Kadınlar) En Az Bir Yarıyı Kazanır",
+   "oneri": "Evet",
+   "olasilik": 0.8672,
+   "adil_oran": 1.15,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.8672,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.8672
+    ],
+    [
+     "Hayır",
+     0.1328
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) En Az Bir Yarıyı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8071,
+   "adil_oran": 1.24,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8071,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1929
+    ],
+    [
+     "Hayır",
+     0.8071
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Juventus (Kadınlar) İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.9656,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9656,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0344
+    ],
+    [
+     "Hayır",
+     0.9656
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.935,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.935,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.065
+    ],
+    [
+     "Hayır",
+     0.935
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Sonucu",
+   "oneri": "1 (Juventus (Kadınlar))",
+   "olasilik": 0.5998,
+   "adil_oran": 1.67,
+   "en_olasi": "1 (Juventus (Kadınlar))",
+   "en_olasi_p": 0.5998,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Juventus (Kadınlar))",
+     0.5998
+    ],
+    [
+     "X",
+     0.296
+    ],
+    [
+     "2 (Oud-Heverlee Leuven (Kadınlar))",
+     0.1042
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.704,
+   "adil_oran": 1.42,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.8958,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.8958
+    ],
+    [
+     "12",
+     0.704
+    ],
+    [
+     "X2",
+     0.4002
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.8031,
+   "adil_oran": 1.25,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.8031,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.8031
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.1969
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.4806
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.5194
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.2208
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.7792
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 1. Takım Toplam Gol",
+   "oneri": "Juventus (Kadınlar) 0,5 Üst",
+   "olasilik": 0.7183,
+   "adil_oran": 1.39,
+   "en_olasi": "Juventus (Kadınlar) 0,5 Üst",
+   "en_olasi_p": 0.7183,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) 0,5 Üst",
+     0.7183
+    ],
+    [
+     "Juventus (Kadınlar) 0,5 Alt",
+     0.2817
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Üst",
+     0.3601
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Alt",
+     0.6399
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 2. Takım Toplam Gol",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+   "olasilik": 0.7025,
+   "adil_oran": 1.42,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) 1,5 Alt",
+   "en_olasi_p": 0.9493,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Üst",
+     0.2975
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+     0.7025
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 1,5 Üst",
+     0.0507
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 1,5 Alt",
+     0.9493
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Juventus (Kadınlar) Toplam Gol Asya",
+   "oneri": "Juventus (Kadınlar) Asya 0,5 Üst",
+   "olasilik": 0.7183,
+   "adil_oran": 1.39,
+   "en_olasi": "Juventus (Kadınlar) Asya 0,5 Üst",
+   "en_olasi_p": 0.7183,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) Asya 0,5 Üst",
+     0.7183
+    ],
+    [
+     "Juventus (Kadınlar) Asya 0,5 Alt",
+     0.2817
+    ],
+    [
+     "Juventus (Kadınlar) Asya 0,75 Üst",
+     0.6569
+    ],
+    [
+     "Juventus (Kadınlar) Asya 0,75 Alt",
+     0.3431
+    ],
+    [
+     "Juventus (Kadınlar) Asya 1 Üst",
+     0.5611
+    ],
+    [
+     "Juventus (Kadınlar) Asya 1 Alt",
+     0.4389
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Oud-Heverlee Leuven (Kadınlar) Toplam Gol Asya",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) Asya 0,5 Alt",
+   "olasilik": 0.7025,
+   "adil_oran": 1.42,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) Asya 0,5 Alt",
+   "en_olasi_p": 0.7025,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya 0,25 Üst",
+     0.4585
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya 0,25 Alt",
+     0.5415
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya 0,5 Üst",
+     0.2975
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya 0,5 Alt",
+     0.7025
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7873,
+   "adil_oran": 1.27,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7873,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2127
+    ],
+    [
+     "Hayır",
+     0.7873
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) +1,5",
+   "olasilik": 0.7111,
+   "adil_oran": 1.41,
+   "en_olasi": "Juventus (Kadınlar) +1,5",
+   "en_olasi_p": 0.9837,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) -1,5",
+     0.2888
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +1,5",
+     0.7111
+    ],
+    [
+     "Juventus (Kadınlar) -0,5",
+     0.5998
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +0,5",
+     0.4002
+    ],
+    [
+     "Juventus (Kadınlar) +0,5",
+     0.8958
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) -0,5",
+     0.1042
+    ],
+    [
+     "Juventus (Kadınlar) +1,5",
+     0.9837
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) -1,5",
+     0.0163
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Goller Asya Handikapı",
+   "oneri": "Juventus (Kadınlar) Asya -0,25",
+   "olasilik": 0.704,
+   "adil_oran": 1.42,
+   "en_olasi": "Juventus (Kadınlar) Asya +0,5",
+   "en_olasi_p": 0.8958,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) Asya -1",
+     0.4192
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya -1",
+     0.0179
+    ],
+    [
+     "Juventus (Kadınlar) Asya -0,75",
+     0.5261
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya -0,75",
+     0.0631
+    ],
+    [
+     "Juventus (Kadınlar) Asya -0,5",
+     0.5998
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya -0,5",
+     0.1042
+    ],
+    [
+     "Juventus (Kadınlar) Asya -0,25",
+     0.704
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya -0,25",
+     0.1223
+    ],
+    [
+     "Juventus (Kadınlar) Asya 0",
+     0.8519
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya 0",
+     0.1481
+    ],
+    [
+     "Juventus (Kadınlar) Asya +0,25",
+     0.8777
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya +0,25",
+     0.296
+    ],
+    [
+     "Juventus (Kadınlar) Asya +0,5",
+     0.8958
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) Asya +0,5",
+     0.4002
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) (-2)",
+   "olasilik": 0.7111,
+   "adil_oran": 1.41,
+   "en_olasi": "Juventus (Kadınlar) (+2)",
+   "en_olasi_p": 0.9837,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) (-2)",
+     0.1041
+    ],
+    [
+     "X (-2)",
+     0.1848
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) (-2)",
+     0.7111
+    ],
+    [
+     "Juventus (Kadınlar) (-1)",
+     0.2888
+    ],
+    [
+     "X (-1)",
+     0.3109
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) (-1)",
+     0.4002
+    ],
+    [
+     "Juventus (Kadınlar) (+1)",
+     0.8958
+    ],
+    [
+     "X (+1)",
+     0.0879
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) (+1)",
+     0.0163
+    ],
+    [
+     "Juventus (Kadınlar) (+2)",
+     0.9837
+    ],
+    [
+     "X (+2)",
+     0.0142
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) (+2)",
+     0.0021
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Asya",
+   "oneri": "Toplam Asya 0,75 Üst",
+   "olasilik": 0.7652,
+   "adil_oran": 1.31,
+   "en_olasi": "Toplam Asya 0,75 Üst",
+   "en_olasi_p": 0.7652,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam Asya 0,75 Üst",
+     0.7652
+    ],
+    [
+     "Toplam Asya 0,75 Alt",
+     0.2348
+    ],
+    [
+     "Toplam Asya 1 Üst",
+     0.7094
+    ],
+    [
+     "Toplam Asya 1 Alt",
+     0.2906
+    ],
+    [
+     "Toplam Asya 1,25 Üst",
+     0.573
+    ],
+    [
+     "Toplam Asya 1,25 Alt",
+     0.427
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Toplam Gol (3-İhtimalli)",
+   "oneri": "1 Üst",
+   "olasilik": 0.4806,
+   "adil_oran": 2.08,
+   "en_olasi": "1 Üst",
+   "en_olasi_p": 0.4806,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.1969
+    ],
+    [
+     "Tam 1",
+     0.3225
+    ],
+    [
+     "1 Üst",
+     0.4806
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.5056,
+   "adil_oran": 1.98,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.5056,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0942
+    ],
+    [
+     "1 & KG Yok",
+     0.5056
+    ],
+    [
+     "X & KG Var",
+     0.0991
+    ],
+    [
+     "X & KG Yok",
+     0.1969
+    ],
+    [
+     "2 & KG Var",
+     0.0195
+    ],
+    [
+     "2 & KG Yok",
+     0.0848
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Aralığı",
+   "oneri": "2-3 gol",
+   "olasilik": 0.3991,
+   "adil_oran": 2.51,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.3991,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.1969
+    ],
+    [
+     "1 gol",
+     0.3225
+    ],
+    [
+     "2-3 gol",
+     0.3991
+    ],
+    [
+     "4+ gol",
+     0.0816
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Juventus (Kadınlar) Toplam Gol (Aralık)",
+   "oneri": "2+ gol",
+   "olasilik": 0.3601,
+   "adil_oran": 2.78,
+   "en_olasi": "2+ gol",
+   "en_olasi_p": 0.3601,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2817
+    ],
+    [
+     "1 gol",
+     0.3582
+    ],
+    [
+     "2+ gol",
+     0.3601
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Oud-Heverlee Leuven (Kadınlar) Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.7025,
+   "adil_oran": 1.42,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.7025,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.7025
+    ],
+    [
+     "1 gol",
+     0.2468
+    ],
+    [
+     "2+ gol",
+     0.0507
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5823,
+   "adil_oran": 1.72,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5823,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.5194
+    ],
+    [
+     "1-2 gol",
+     0.5823
+    ],
+    [
+     "2-3 gol",
+     0.3991
+    ],
+    [
+     "3+ gol",
+     0.2208
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.6399,
+   "adil_oran": 1.56,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.6399,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2817
+    ],
+    [
+     "0-1 gol",
+     0.6399
+    ],
+    [
+     "1-2 gol",
+     0.5837
+    ],
+    [
+     "2+ gol",
+     0.3601
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.7025,
+   "adil_oran": 1.42,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.9493,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.7025
+    ],
+    [
+     "0-1 gol",
+     0.9493
+    ],
+    [
+     "1-2 gol",
+     0.2914
+    ],
+    [
+     "2+ gol",
+     0.0507
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3225,
+   "adil_oran": 3.1,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3225,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.1969
+    ],
+    [
+     "1 gol",
+     0.3225
+    ],
+    [
+     "2 gol",
+     0.2599
+    ],
+    [
+     "3 gol",
+     0.1392
+    ],
+    [
+     "4+ gol",
+     0.0816
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Juventus (Kadınlar) Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3582,
+   "adil_oran": 2.79,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3582,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2817
+    ],
+    [
+     "1 gol",
+     0.3582
+    ],
+    [
+     "2 gol",
+     0.2255
+    ],
+    [
+     "3+ gol",
+     0.1346
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Oud-Heverlee Leuven (Kadınlar) Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.7025,
+   "adil_oran": 1.42,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.7025,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.7025
+    ],
+    [
+     "1 gol",
+     0.2468
+    ],
+    [
+     "2 gol",
+     0.0446
+    ],
+    [
+     "3+ gol",
+     0.0061
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Juventus (Kadınlar) Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.3109,
+   "adil_oran": 3.22,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.3109,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.3109
+    ],
+    [
+     "2 farkla",
+     0.1848
+    ],
+    [
+     "3+ farkla",
+     0.1041
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Oud-Heverlee Leuven (Kadınlar) Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.0879,
+   "adil_oran": 11.37,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.0879,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.0879
+    ],
+    [
+     "2 farkla",
+     0.0142
+    ],
+    [
+     "3+ farkla",
+     0.0021
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Juventus (Kadınlar) Sıfıra Karşı Kazanır",
+   "oneri": "Evet",
+   "olasilik": 0.5056,
+   "adil_oran": 1.98,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5056,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5056
+    ],
+    [
+     "Hayır",
+     0.4944
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Oud-Heverlee Leuven (Kadınlar) Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9152,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9152,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0848
+    ],
+    [
+     "Hayır",
+     0.9152
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı İlk Golü Atacak Takım",
+   "oneri": "Juventus (Kadınlar)",
+   "olasilik": 0.6265,
+   "adil_oran": 1.6,
+   "en_olasi": "Juventus (Kadınlar)",
+   "en_olasi_p": 0.6265,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar)",
+     0.6265
+    ],
+    [
+     "Gol yok",
+     0.1969
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar)",
+     0.1766
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Son Golü Atacak Takım",
+   "oneri": "Juventus (Kadınlar)",
+   "olasilik": 0.6269,
+   "adil_oran": 1.6,
+   "en_olasi": "Juventus (Kadınlar)",
+   "en_olasi_p": 0.6269,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar)",
+     0.6269
+    ],
+    [
+     "Gol yok",
+     0.1969
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar)",
+     0.1761
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Doğru Skor",
+   "oneri": "1-0",
+   "olasilik": 0.2517,
+   "adil_oran": 3.97,
+   "en_olasi": "1-0",
+   "en_olasi_p": 0.2517,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-0",
+     0.2517
+    ],
+    [
+     "0-0",
+     0.1969
+    ],
+    [
+     "2-0",
+     0.1594
+    ],
+    [
+     "1-1",
+     0.0883
+    ],
+    [
+     "0-1",
+     0.0708
+    ],
+    [
+     "3-0",
+     0.0669
+    ],
+    [
+     "2-1",
+     0.0546
+    ],
+    [
+     "Diğer",
+     0.0394
+    ],
+    [
+     "3-1",
+     0.0238
+    ],
+    [
+     "1-2",
+     0.0159
+    ],
+    [
+     "0-2",
+     0.0121
+    ],
+    [
+     "2-2",
+     0.0102
+    ],
+    [
+     "3-2",
+     0.0045
+    ],
+    [
+     "1-3",
+     0.002
+    ],
+    [
+     "0-3",
+     0.0017
+    ],
+    [
+     "2-3",
+     0.0012
+    ],
+    [
+     "3-3",
+     0.0005
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Sonucu",
+   "oneri": "1 (Juventus (Kadınlar))",
+   "olasilik": 0.6645,
+   "adil_oran": 1.5,
+   "en_olasi": "1 (Juventus (Kadınlar))",
+   "en_olasi_p": 0.6645,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Juventus (Kadınlar))",
+     0.6645
+    ],
+    [
+     "X",
+     0.2369
+    ],
+    [
+     "2 (Oud-Heverlee Leuven (Kadınlar))",
+     0.0986
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.7631,
+   "adil_oran": 1.31,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.9014,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.9014
+    ],
+    [
+     "12",
+     0.7631
+    ],
+    [
+     "X2",
+     0.3355
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.6565,
+   "adil_oran": 1.52,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.8728,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.8728
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.1272
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.613
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.387
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.3435
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.6565
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Juventus (Kadınlar) Toplam Gol",
+   "oneri": "Juventus (Kadınlar) 0,5 Üst",
+   "olasilik": 0.802,
+   "adil_oran": 1.25,
+   "en_olasi": "Juventus (Kadınlar) 0,5 Üst",
+   "en_olasi_p": 0.802,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) 0,5 Üst",
+     0.802
+    ],
+    [
+     "Juventus (Kadınlar) 0,5 Alt",
+     0.198
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Üst",
+     0.4823
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Alt",
+     0.5177
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Oud-Heverlee Leuven (Kadınlar) Toplam Gol",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+   "olasilik": 0.6383,
+   "adil_oran": 1.57,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) 1,5 Alt",
+   "en_olasi_p": 0.924,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Üst",
+     0.3617
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+     0.6383
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 1,5 Üst",
+     0.076
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 1,5 Alt",
+     0.924
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7092,
+   "adil_oran": 1.41,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7092,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2908
+    ],
+    [
+     "Hayır",
+     0.7092
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı",
+   "oneri": "Juventus (Kadınlar) -0,5",
+   "olasilik": 0.6645,
+   "adil_oran": 1.5,
+   "en_olasi": "Juventus (Kadınlar) +1,5",
+   "en_olasi_p": 0.9813,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) -1,5",
+     0.3762
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +1,5",
+     0.6238
+    ],
+    [
+     "Juventus (Kadınlar) -0,5",
+     0.6645
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +0,5",
+     0.3355
+    ],
+    [
+     "Juventus (Kadınlar) +0,5",
+     0.9014
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) -0,5",
+     0.0986
+    ],
+    [
+     "Juventus (Kadınlar) +1,5",
+     0.9813
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) -1,5",
+     0.0187
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) (-2)",
+   "olasilik": 0.6238,
+   "adil_oran": 1.6,
+   "en_olasi": "Juventus (Kadınlar) (+2)",
+   "en_olasi_p": 0.9813,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) (-2)",
+     0.167
+    ],
+    [
+     "X (-2)",
+     0.2093
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) (-2)",
+     0.6238
+    ],
+    [
+     "Juventus (Kadınlar) (-1)",
+     0.3762
+    ],
+    [
+     "X (-1)",
+     0.2883
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) (-1)",
+     0.3355
+    ],
+    [
+     "Juventus (Kadınlar) (+1)",
+     0.9014
+    ],
+    [
+     "X (+1)",
+     0.0799
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) (+1)",
+     0.0187
+    ],
+    [
+     "Juventus (Kadınlar) (+2)",
+     0.9813
+    ],
+    [
+     "X (+2)",
+     0.016
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) (+2)",
+     0.0027
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.5112,
+   "adil_oran": 1.96,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.5112,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.1533
+    ],
+    [
+     "1 & KG Yok",
+     0.5112
+    ],
+    [
+     "X & KG Var",
+     0.1097
+    ],
+    [
+     "X & KG Yok",
+     0.1272
+    ],
+    [
+     "2 & KG Var",
+     0.0278
+    ],
+    [
+     "2 & KG Yok",
+     0.0708
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol Aralığı",
+   "oneri": "2-3 gol",
+   "olasilik": 0.4566,
+   "adil_oran": 2.19,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.4566,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.1272
+    ],
+    [
+     "1 gol",
+     0.2598
+    ],
+    [
+     "2-3 gol",
+     0.4566
+    ],
+    [
+     "4+ gol",
+     0.1564
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Juventus (Kadınlar) Toplam Gol (Aralık)",
+   "oneri": "2+ gol",
+   "olasilik": 0.4823,
+   "adil_oran": 2.07,
+   "en_olasi": "2+ gol",
+   "en_olasi_p": 0.4823,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.198
+    ],
+    [
+     "1 gol",
+     0.3196
+    ],
+    [
+     "2+ gol",
+     0.4823
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Oud-Heverlee Leuven (Kadınlar) Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.6383,
+   "adil_oran": 1.57,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.6383,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6383
+    ],
+    [
+     "1 gol",
+     0.2856
+    ],
+    [
+     "2+ gol",
+     0.076
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5293,
+   "adil_oran": 1.89,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5293,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.387
+    ],
+    [
+     "1-2 gol",
+     0.5293
+    ],
+    [
+     "2-3 gol",
+     0.4566
+    ],
+    [
+     "3+ gol",
+     0.3435
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.58,
+   "adil_oran": 1.72,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.58,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.198
+    ],
+    [
+     "0-1 gol",
+     0.5177
+    ],
+    [
+     "1-2 gol",
+     0.58
+    ],
+    [
+     "2+ gol",
+     0.4823
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.6383,
+   "adil_oran": 1.57,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.924,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6383
+    ],
+    [
+     "0-1 gol",
+     0.924
+    ],
+    [
+     "1-2 gol",
+     0.3502
+    ],
+    [
+     "2+ gol",
+     0.076
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Kesin)",
+   "oneri": "2 gol",
+   "olasilik": 0.2695,
+   "adil_oran": 3.71,
+   "en_olasi": "2 gol",
+   "en_olasi_p": 0.2695,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.1272
+    ],
+    [
+     "1 gol",
+     0.2598
+    ],
+    [
+     "2 gol",
+     0.2695
+    ],
+    [
+     "3 gol",
+     0.1871
+    ],
+    [
+     "4+ gol",
+     0.1564
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Juventus (Kadınlar) Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3196,
+   "adil_oran": 3.13,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3196,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.198
+    ],
+    [
+     "1 gol",
+     0.3196
+    ],
+    [
+     "2 gol",
+     0.2604
+    ],
+    [
+     "3+ gol",
+     0.222
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Oud-Heverlee Leuven (Kadınlar) Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.6383,
+   "adil_oran": 1.57,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.6383,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6383
+    ],
+    [
+     "1 gol",
+     0.2856
+    ],
+    [
+     "2 gol",
+     0.0646
+    ],
+    [
+     "3+ gol",
+     0.0114
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Juventus (Kadınlar) Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.2883,
+   "adil_oran": 3.47,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2883,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2883
+    ],
+    [
+     "2 farkla",
+     0.2093
+    ],
+    [
+     "3+ farkla",
+     0.167
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Oud-Heverlee Leuven (Kadınlar) Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.0799,
+   "adil_oran": 12.51,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.0799,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.0799
+    ],
+    [
+     "2 farkla",
+     0.016
+    ],
+    [
+     "3+ farkla",
+     0.0027
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Juventus (Kadınlar) Sıfıra Karşı Kazanır",
+   "oneri": "Evet",
+   "olasilik": 0.5112,
+   "adil_oran": 1.96,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5112,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5112
+    ],
+    [
+     "Hayır",
+     0.4888
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Oud-Heverlee Leuven (Kadınlar) Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9292,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9292,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0708
+    ],
+    [
+     "Hayır",
+     0.9292
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı İlk Golü Atacak Takım",
+   "oneri": "Juventus (Kadınlar)",
+   "olasilik": 0.6819,
+   "adil_oran": 1.47,
+   "en_olasi": "Juventus (Kadınlar)",
+   "en_olasi_p": 0.6819,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar)",
+     0.6819
+    ],
+    [
+     "Gol yok",
+     0.1272
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar)",
+     0.1909
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Son Golü Atacak Takım",
+   "oneri": "Juventus (Kadınlar)",
+   "olasilik": 0.6823,
+   "adil_oran": 1.47,
+   "en_olasi": "Juventus (Kadınlar)",
+   "en_olasi_p": 0.6823,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar)",
+     0.6823
+    ],
+    [
+     "Gol yok",
+     0.1272
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar)",
+     0.1905
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Doğru Skor",
+   "oneri": "1-0",
+   "olasilik": 0.2038,
+   "adil_oran": 4.91,
+   "en_olasi": "1-0",
+   "en_olasi_p": 0.2038,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-0",
+     0.2038
+    ],
+    [
+     "2-0",
+     0.1658
+    ],
+    [
+     "0-0",
+     0.1272
+    ],
+    [
+     "1-1",
+     0.0914
+    ],
+    [
+     "3-0",
+     0.0893
+    ],
+    [
+     "Diğer",
+     0.0833
+    ],
+    [
+     "2-1",
+     0.0747
+    ],
+    [
+     "0-1",
+     0.0561
+    ],
+    [
+     "3-1",
+     0.0398
+    ],
+    [
+     "1-2",
+     0.021
+    ],
+    [
+     "2-2",
+     0.0169
+    ],
+    [
+     "0-2",
+     0.0124
+    ],
+    [
+     "3-2",
+     0.0092
+    ],
+    [
+     "1-3",
+     0.0032
+    ],
+    [
+     "2-3",
+     0.0027
+    ],
+    [
+     "0-3",
+     0.0021
+    ],
+    [
+     "3-3",
+     0.0014
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Karşılıklı Gol",
+   "oneri": "İY Yok / 2Y Yok",
+   "olasilik": 0.5586,
+   "adil_oran": 1.79,
+   "en_olasi": "İY Yok / 2Y Yok",
+   "en_olasi_p": 0.5586,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Var / 2Y Var",
+     0.0621
+    ],
+    [
+     "İY Var / 2Y Yok",
+     0.1506
+    ],
+    [
+     "İY Yok / 2Y Var",
+     0.2287
+    ],
+    [
+     "İY Yok / 2Y Yok",
+     0.5586
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı veya Maç Sonucu",
+   "oneri": "İY 1 veya MS 1",
+   "olasilik": 0.8324,
+   "adil_oran": 1.2,
+   "en_olasi": "İY 1 veya MS 1",
+   "en_olasi_p": 0.8324,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 1 veya MS 1",
+     0.8324
+    ],
+    [
+     "İY X veya MS X",
+     0.3536
+    ],
+    [
+     "İY 2 veya MS 2",
+     0.1397
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarı/Maç Sonucu",
+   "oneri": "1/1",
+   "olasilik": 0.5654,
+   "adil_oran": 1.77,
+   "en_olasi": "1/1",
+   "en_olasi_p": 0.5654,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.5654
+    ],
+    [
+     "1/X",
+     0.0279
+    ],
+    [
+     "1/2",
+     0.0065
+    ],
+    [
+     "X/1",
+     0.1973
+    ],
+    [
+     "X/X",
+     0.0698
+    ],
+    [
+     "X/2",
+     0.0289
+    ],
+    [
+     "2/1",
+     0.0353
+    ],
+    [
+     "2/X",
+     0.0297
+    ],
+    [
+     "2/2",
+     0.0392
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Sonucu",
+   "oneri": "1/1",
+   "olasilik": 0.3971,
+   "adil_oran": 2.52,
+   "en_olasi": "1/1",
+   "en_olasi_p": 0.3971,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.3971
+    ],
+    [
+     "1/X",
+     0.1429
+    ],
+    [
+     "1/2",
+     0.0597
+    ],
+    [
+     "X/1",
+     0.1973
+    ],
+    [
+     "X/X",
+     0.0698
+    ],
+    [
+     "X/2",
+     0.0289
+    ],
+    [
+     "2/1",
+     0.0701
+    ],
+    [
+     "2/X",
+     0.0242
+    ],
+    [
+     "2/2",
+     0.01
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.4844,
+   "adil_oran": 2.06,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.4844,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.3034
+    ],
+    [
+     "Eşit",
+     0.2122
+    ],
+    [
+     "2. Yarı",
+     0.4844
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı : Çifte Şans",
+   "oneri": "1. veya 2. Yarı",
+   "olasilik": 0.7878,
+   "adil_oran": 1.27,
+   "en_olasi": "1. veya 2. Yarı",
+   "en_olasi_p": 0.7878,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı veya Eşit",
+     0.5156
+    ],
+    [
+     "2. Yarı veya Eşit",
+     0.6966
+    ],
+    [
+     "1. veya 2. Yarı",
+     0.7878
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Juventus (Kadınlar) : En Çok Gol Attığı Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.4579,
+   "adil_oran": 2.18,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.4579,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2975
+    ],
+    [
+     "Eşit",
+     0.2446
+    ],
+    [
+     "2. Yarı",
+     0.4579
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) : En Çok Gol Attığı Yarı",
+   "oneri": "Eşit",
+   "olasilik": 0.5204,
+   "adil_oran": 1.92,
+   "en_olasi": "Eşit",
+   "en_olasi_p": 0.5204,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2059
+    ],
+    [
+     "Eşit",
+     0.5204
+    ],
+    [
+     "2. Yarı",
+     0.2736
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Juventus (Kadınlar) : Her İki Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.5762,
+   "adil_oran": 1.74,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5762,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5762
+    ],
+    [
+     "Hayır",
+     0.4238
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8934,
+   "adil_oran": 1.12,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8934,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1066
+    ],
+    [
+     "Hayır",
+     0.8934
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Juventus (Kadınlar) : İlk Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.7183,
+   "adil_oran": 1.39,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7183,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7183
+    ],
+    [
+     "Hayır",
+     0.2817
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) İlk Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.7025,
+   "adil_oran": 1.42,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7025,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2975
+    ],
+    [
+     "Hayır",
+     0.7025
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Juventus (Kadınlar) : İkinci Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.802,
+   "adil_oran": 1.25,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.802,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.802
+    ],
+    [
+     "Hayır",
+     0.198
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) İkinci Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.6383,
+   "adil_oran": 1.57,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6383,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3617
+    ],
+    [
+     "Hayır",
+     0.6383
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.8031,
+   "adil_oran": 1.25,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.8031,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.8031
+    ],
+    [
+     "Hayır",
+     0.1969
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İkinci Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.8728,
+   "adil_oran": 1.15,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.8728,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.8728
+    ],
+    [
+     "Hayır",
+     0.1272
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarıda da 1.5 Üst Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7039,
+   "adil_oran": 1.42,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7039,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2961
+    ],
+    [
+     "Hayır",
+     0.7039
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarı Goller 1.5 Alt",
+   "oneri": "Hayır",
+   "olasilik": 0.7975,
+   "adil_oran": 1.25,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7975,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2025
+    ],
+    [
+     "Hayır",
+     0.7975
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Juventus (Kadınlar) : Gol Atar 1.Yarı/2.Yarı",
+   "oneri": "Evet/Evet",
+   "olasilik": 0.5762,
+   "adil_oran": 1.74,
+   "en_olasi": "Evet/Evet",
+   "en_olasi_p": 0.5762,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.5762
+    ],
+    [
+     "Evet/Hayır",
+     0.1421
+    ],
+    [
+     "Hayır/Evet",
+     0.2258
+    ],
+    [
+     "Hayır/Hayır",
+     0.0559
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) Gol Atar İlk Yarı/İkinci Yarı",
+   "oneri": "Hayır/Hayır",
+   "olasilik": 0.4475,
+   "adil_oran": 2.23,
+   "en_olasi": "Hayır/Hayır",
+   "en_olasi_p": 0.4475,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.1066
+    ],
+    [
+     "Evet/Hayır",
+     0.1909
+    ],
+    [
+     "Hayır/Evet",
+     0.255
+    ],
+    [
+     "Hayır/Hayır",
+     0.4475
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarıları Farklı Takımlar Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8702,
+   "adil_oran": 1.15,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8702,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1298
+    ],
+    [
+     "Hayır",
+     0.8702
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarılardan En Az Birinde Beraberlik",
+   "oneri": "Hayır",
+   "olasilik": 0.5369,
+   "adil_oran": 1.86,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5369,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4631
+    ],
+    [
+     "Hayır",
+     0.5369
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1.Yarı Toplam Gol'e karşı 2. Yarı Toplam Gol Handikapı",
+   "oneri": "1. Yarı +1,5",
+   "olasilik": 0.7195,
+   "adil_oran": 1.39,
+   "en_olasi": "1. Yarı +1,5",
+   "en_olasi_p": 0.7195,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "2. Yarı -1,5",
+     0.2805
+    ],
+    [
+     "2. Yarı -0,5",
+     0.4844
+    ],
+    [
+     "2. Yarı +0,5",
+     0.6966
+    ],
+    [
+     "1. Yarı +1,5",
+     0.7195
+    ],
+    [
+     "1. Yarı +0,5",
+     0.5156
+    ],
+    [
+     "1. Yarı -0,5",
+     0.3034
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7285,
+   "adil_oran": 1.37,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7285,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2715
+    ],
+    [
+     "Hayır",
+     0.7285
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Köşe Vuruşu",
+   "oneri": "Evet",
+   "olasilik": 0.5945,
+   "adil_oran": 1.68,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5945,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5945
+    ],
+    [
+     "Hayır",
+     0.4055
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Juventus (Kadınlar) : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Juventus (Kadınlar) 0,5 Alt",
+   "olasilik": 0.5528,
+   "adil_oran": 1.81,
+   "en_olasi": "Juventus (Kadınlar) 1,5 Alt",
+   "en_olasi_p": 0.8802,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) 0,5 Üst",
+     0.4472
+    ],
+    [
+     "Juventus (Kadınlar) 0,5 Alt",
+     0.5528
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Üst",
+     0.1198
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Alt",
+     0.8802
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+   "olasilik": 0.7322,
+   "adil_oran": 1.37,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+   "en_olasi_p": 0.7322,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Üst",
+     0.2677
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+     0.7322
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Sarı Kartlar",
+   "oneri": "Hayır",
+   "olasilik": 0.8931,
+   "adil_oran": 1.12,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8931,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1069
+    ],
+    [
+     "Hayır",
+     0.8931
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.643,
+   "adil_oran": 1.56,
+   "en_olasi": "X",
+   "en_olasi_p": 0.643,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Juventus (Kadınlar))",
+     0.2876
+    ],
+    [
+     "X",
+     0.643
+    ],
+    [
+     "2 (Oud-Heverlee Leuven (Kadınlar))",
+     0.0694
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Gol Handikapı",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) (-1)",
+   "olasilik": 0.7124,
+   "adil_oran": 1.4,
+   "en_olasi": "Juventus (Kadınlar) (+1)",
+   "en_olasi_p": 0.9306,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) (-1)",
+     0.0506
+    ],
+    [
+     "X (-1)",
+     0.237
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) (-1)",
+     0.7124
+    ],
+    [
+     "Juventus (Kadınlar) (+1)",
+     0.9306
+    ],
+    [
+     "X (+1)",
+     0.0658
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) (+1)",
+     0.0036
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.6189,
+   "adil_oran": 1.62,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9161,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.3811
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.6189
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0839
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9161
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Juventus (Kadınlar) Toplam Goller",
+   "oneri": "Juventus (Kadınlar) 0,5 Alt",
+   "olasilik": 0.6869,
+   "adil_oran": 1.46,
+   "en_olasi": "Juventus (Kadınlar) 1,5 Alt",
+   "en_olasi_p": 0.945,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) 0,5 Üst",
+     0.3131
+    ],
+    [
+     "Juventus (Kadınlar) 0,5 Alt",
+     0.6869
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Üst",
+     0.055
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Alt",
+     0.945
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Oud-Heverlee Leuven (Kadınlar) Toplam Goller",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+   "olasilik": 0.9016,
+   "adil_oran": 1.11,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+   "en_olasi_p": 0.9016,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Üst",
+     0.0984
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+     0.9016
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. İki Takım Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.9697,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9697,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0303
+    ],
+    [
+     "Hayır",
+     0.9697
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Galibi",
+   "oneri": "1 (Juventus (Kadınlar))",
+   "olasilik": 0.4676,
+   "adil_oran": 2.14,
+   "en_olasi": "1 (Juventus (Kadınlar))",
+   "en_olasi_p": 0.4676,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Juventus (Kadınlar))",
+     0.4676
+    ],
+    [
+     "X",
+     0.4353
+    ],
+    [
+     "2 (Oud-Heverlee Leuven (Kadınlar))",
+     0.0972
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Gol Handikapı",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) (-1)",
+   "olasilik": 0.5324,
+   "adil_oran": 1.88,
+   "en_olasi": "Juventus (Kadınlar) (+1)",
+   "en_olasi_p": 0.9028,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) (-1)",
+     0.1547
+    ],
+    [
+     "X (-1)",
+     0.3129
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) (-1)",
+     0.5324
+    ],
+    [
+     "Juventus (Kadınlar) (+1)",
+     0.9028
+    ],
+    [
+     "X (+1)",
+     0.0873
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) (+1)",
+     0.0098
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Toplam Goller",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.7389,
+   "adil_oran": 1.35,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.7389,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.6299
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.3701
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.2611
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.7389
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Juventus (Kadınlar) Toplam Goller",
+   "oneri": "Juventus (Kadınlar) 1,5 Alt",
+   "olasilik": 0.8178,
+   "adil_oran": 1.22,
+   "en_olasi": "Juventus (Kadınlar) 1,5 Alt",
+   "en_olasi_p": 0.8178,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) 0,5 Üst",
+     0.5401
+    ],
+    [
+     "Juventus (Kadınlar) 0,5 Alt",
+     0.4599
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Üst",
+     0.1822
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Alt",
+     0.8178
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Oud-Heverlee Leuven (Kadınlar) Toplam Goller",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+   "olasilik": 0.8056,
+   "adil_oran": 1.24,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+   "en_olasi_p": 0.8056,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Üst",
+     0.1944
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+     0.8056
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Galibi",
+   "oneri": "1 (Juventus (Kadınlar))",
+   "olasilik": 0.6769,
+   "adil_oran": 1.48,
+   "en_olasi": "1 (Juventus (Kadınlar))",
+   "en_olasi_p": 0.6769,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Juventus (Kadınlar))",
+     0.6769
+    ],
+    [
+     "X",
+     0.2246
+    ],
+    [
+     "2 (Oud-Heverlee Leuven (Kadınlar))",
+     0.0985
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Gol Handikapı",
+   "oneri": "Juventus (Kadınlar) -0,5",
+   "olasilik": 0.6769,
+   "adil_oran": 1.48,
+   "en_olasi": "Juventus (Kadınlar) +0,5",
+   "en_olasi_p": 0.9015,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) -1,5",
+     0.3957
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +1,5",
+     0.6043
+    ],
+    [
+     "Juventus (Kadınlar) -0,5",
+     0.6769
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +0,5",
+     0.3231
+    ],
+    [
+     "Juventus (Kadınlar) +0,5",
+     0.9015
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) -0,5",
+     0.0985
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Toplam Goller",
+   "oneri": "Toplam 1,5 Üst",
+   "olasilik": 0.6432,
+   "adil_oran": 1.55,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.8883,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.8883
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.1117
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.6432
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.3568
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.3759
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.6241
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Juventus (Kadınlar) Toplam Goller",
+   "oneri": "Juventus (Kadınlar) 0,5 Üst",
+   "olasilik": 0.8196,
+   "adil_oran": 1.22,
+   "en_olasi": "Juventus (Kadınlar) 0,5 Üst",
+   "en_olasi_p": 0.8196,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) 0,5 Üst",
+     0.8196
+    ],
+    [
+     "Juventus (Kadınlar) 0,5 Alt",
+     0.1804
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Üst",
+     0.5104
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Alt",
+     0.4896
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Oud-Heverlee Leuven (Kadınlar) Toplam Goller",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+   "olasilik": 0.6189,
+   "adil_oran": 1.62,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+   "en_olasi_p": 0.6189,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Üst",
+     0.3811
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+     0.6189
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.6876,
+   "adil_oran": 1.45,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6876,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3124
+    ],
+    [
+     "Hayır",
+     0.6876
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Galibi",
+   "oneri": "1 (Juventus (Kadınlar))",
+   "olasilik": 0.7373,
+   "adil_oran": 1.36,
+   "en_olasi": "1 (Juventus (Kadınlar))",
+   "en_olasi_p": 0.7373,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Juventus (Kadınlar))",
+     0.7373
+    ],
+    [
+     "X",
+     0.1739
+    ],
+    [
+     "2 (Oud-Heverlee Leuven (Kadınlar))",
+     0.0887
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Gol Handikapı",
+   "oneri": "Juventus (Kadınlar) -0,5",
+   "olasilik": 0.7373,
+   "adil_oran": 1.36,
+   "en_olasi": "Juventus (Kadınlar) +0,5",
+   "en_olasi_p": 0.9113,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) -1,5",
+     0.4928
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +1,5",
+     0.5072
+    ],
+    [
+     "Juventus (Kadınlar) -0,5",
+     0.7373
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +0,5",
+     0.2627
+    ],
+    [
+     "Juventus (Kadınlar) +0,5",
+     0.9113
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) -0,5",
+     0.0887
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Toplam Goller",
+   "oneri": "Toplam 1,5 Üst",
+   "olasilik": 0.7691,
+   "adil_oran": 1.3,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.9391,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.9391
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.0609
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.7691
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.2309
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.5331
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.4669
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Juventus (Kadınlar) Toplam Goller",
+   "oneri": "Juventus (Kadınlar) 1,5 Üst",
+   "olasilik": 0.6436,
+   "adil_oran": 1.55,
+   "en_olasi": "Juventus (Kadınlar) 0,5 Üst",
+   "en_olasi_p": 0.8883,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) 0,5 Üst",
+     0.8883
+    ],
+    [
+     "Juventus (Kadınlar) 0,5 Alt",
+     0.1117
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Üst",
+     0.6436
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Alt",
+     0.3564
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Oud-Heverlee Leuven (Kadınlar) Toplam Goller",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+   "olasilik": 0.5426,
+   "adil_oran": 1.84,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+   "en_olasi_p": 0.5426,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Üst",
+     0.4574
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+     0.5426
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.5934,
+   "adil_oran": 1.69,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5934,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4066
+    ],
+    [
+     "Hayır",
+     0.5934
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kafa Golü Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.5677,
+   "adil_oran": 1.76,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5677,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4323
+    ],
+    [
+     "Hayır",
+     0.5677
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Frikikten Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.896,
+   "adil_oran": 1.12,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.896,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.104
+    ],
+    [
+     "Hayır",
+     0.896
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Rövaşata ile Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.9915,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9915,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0085
+    ],
+    [
+     "Hayır",
+     0.9915
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Ceza Sahası Dışından Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.667,
+   "adil_oran": 1.5,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.667,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.333
+    ],
+    [
+     "Hayır",
+     0.667
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kendi Kalesine Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.8785,
+   "adil_oran": 1.14,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8785,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1215
+    ],
+    [
+     "Hayır",
+     0.8785
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Oyuncu Hat-trick Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9488,
+   "adil_oran": 1.05,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9488,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0512
+    ],
+    [
+     "Hayır",
+     0.9488
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Kaleci Asist Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.985,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.985,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.015
+    ],
+    [
+     "Hayır",
+     0.985
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "VAR'lar: Toplam (Yalnızca Sahada İnceleme veya Video İnceleme İşareti (TV))",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.7134,
+   "adil_oran": 1.4,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9549,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.2867
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.7134
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0451
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9549
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Sonuç",
+   "oneri": "1 (Juventus (Kadınlar))",
+   "olasilik": 0.7896,
+   "adil_oran": 1.27,
+   "en_olasi": "1 (Juventus (Kadınlar))",
+   "en_olasi_p": 0.7896,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Juventus (Kadınlar))",
+     0.7896
+    ],
+    [
+     "X",
+     0.0843
+    ],
+    [
+     "2 (Oud-Heverlee Leuven (Kadınlar))",
+     0.126
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam",
+   "oneri": "Toplam 7,5 Üst",
+   "olasilik": 0.7408,
+   "adil_oran": 1.35,
+   "en_olasi": "Toplam 7,5 Üst",
+   "en_olasi_p": 0.7408,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 7,5 Üst",
+     0.7408
+    ],
+    [
+     "Toplam 7,5 Alt",
+     0.2592
+    ],
+    [
+     "Toplam 8,5 Üst",
+     0.6193
+    ],
+    [
+     "Toplam 8,5 Alt",
+     0.3807
+    ],
+    [
+     "Toplam 9,5 Üst",
+     0.4912
+    ],
+    [
+     "Toplam 9,5 Alt",
+     0.5088
+    ],
+    [
+     "Toplam 10,5 Üst",
+     0.3674
+    ],
+    [
+     "Toplam 10,5 Alt",
+     0.6326
+    ],
+    [
+     "Toplam 11,5 Üst",
+     0.2599
+    ],
+    [
+     "Toplam 11,5 Alt",
+     0.7401
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Juventus (Kadınlar)",
+   "oneri": "Juventus (Kadınlar) 4,5 Üst",
+   "olasilik": 0.751,
+   "adil_oran": 1.33,
+   "en_olasi": "Juventus (Kadınlar) 3,5 Üst",
+   "en_olasi_p": 0.872,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) 3,5 Üst",
+     0.872
+    ],
+    [
+     "Juventus (Kadınlar) 3,5 Alt",
+     0.128
+    ],
+    [
+     "Juventus (Kadınlar) 4,5 Üst",
+     0.751
+    ],
+    [
+     "Juventus (Kadınlar) 4,5 Alt",
+     0.249
+    ],
+    [
+     "Juventus (Kadınlar) 5,5 Üst",
+     0.5991
+    ],
+    [
+     "Juventus (Kadınlar) 5,5 Alt",
+     0.4008
+    ],
+    [
+     "Juventus (Kadınlar) 6,5 Üst",
+     0.4401
+    ],
+    [
+     "Juventus (Kadınlar) 6,5 Alt",
+     0.5599
+    ],
+    [
+     "Juventus (Kadınlar) 7,5 Üst",
+     0.2972
+    ],
+    [
+     "Juventus (Kadınlar) 7,5 Alt",
+     0.7028
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Oud-Heverlee Leuven (Kadınlar)",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) 4,5 Alt",
+   "olasilik": 0.7627,
+   "adil_oran": 1.31,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) 1,5 Üst",
+   "en_olasi_p": 0.8412,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 1,5 Üst",
+     0.8412
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 1,5 Alt",
+     0.1588
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 2,5 Üst",
+     0.6411
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 2,5 Alt",
+     0.3589
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 3,5 Üst",
+     0.4196
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 3,5 Alt",
+     0.5804
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 4,5 Üst",
+     0.2373
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 4,5 Alt",
+     0.7627
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Handikap",
+   "oneri": "Juventus (Kadınlar) -0,5",
+   "olasilik": 0.7896,
+   "adil_oran": 1.27,
+   "en_olasi": "Juventus (Kadınlar) +2,5",
+   "en_olasi_p": 0.9648,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) -4,5",
+     0.3044
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +4,5",
+     0.6956
+    ],
+    [
+     "Juventus (Kadınlar) -3,5",
+     0.4256
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +3,5",
+     0.5744
+    ],
+    [
+     "Juventus (Kadınlar) -2,5",
+     0.5551
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +2,5",
+     0.4449
+    ],
+    [
+     "Juventus (Kadınlar) -1,5",
+     0.6818
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +1,5",
+     0.3182
+    ],
+    [
+     "Juventus (Kadınlar) -0,5",
+     0.7896
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +0,5",
+     0.2104
+    ],
+    [
+     "Juventus (Kadınlar) +0,5",
+     0.874
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) -0,5",
+     0.126
+    ],
+    [
+     "Juventus (Kadınlar) +1,5",
+     0.9304
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) -1,5",
+     0.0696
+    ],
+    [
+     "Juventus (Kadınlar) +2,5",
+     0.9648
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) -2,5",
+     0.0352
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (3-İhtimalli)",
+   "oneri": "10 Alt",
+   "olasilik": 0.5088,
+   "adil_oran": 1.97,
+   "en_olasi": "10 Alt",
+   "en_olasi_p": 0.5088,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "9 Alt",
+     0.3807
+    ],
+    [
+     "10 Alt",
+     0.5088
+    ],
+    [
+     "Tam 9",
+     0.1282
+    ],
+    [
+     "Tam 10",
+     0.1238
+    ],
+    [
+     "9 Üst",
+     0.4912
+    ],
+    [
+     "10 Üst",
+     0.3674
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (Aralık)",
+   "oneri": "0-8 korner",
+   "olasilik": 0.3807,
+   "adil_oran": 2.63,
+   "en_olasi": "0-8 korner",
+   "en_olasi_p": 0.3807,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "0-8 korner",
+     0.3807
+    ],
+    [
+     "9-11 korner",
+     0.3595
+    ],
+    [
+     "12+ korner",
+     0.2599
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Tek/Çift",
+   "oneri": "Çift",
+   "olasilik": 0.502,
+   "adil_oran": 1.99,
+   "en_olasi": "Çift",
+   "en_olasi_p": 0.502,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.498
+    ],
+    [
+     "Çift",
+     0.502
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Korner Yarışı",
+   "oneri": "9 kornere kimse ulaşamaz",
+   "olasilik": 0.8102,
+   "adil_oran": 1.23,
+   "en_olasi": "9 kornere kimse ulaşamaz",
+   "en_olasi_p": 0.8102,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk 3 korner Juventus (Kadınlar)",
+     0.7569
+    ],
+    [
+     "İlk 3 korner Oud-Heverlee Leuven (Kadınlar)",
+     0.2181
+    ],
+    [
+     "3 kornere kimse ulaşamaz",
+     0.0182
+    ],
+    [
+     "İlk 5 korner Juventus (Kadınlar)",
+     0.6894
+    ],
+    [
+     "İlk 5 korner Oud-Heverlee Leuven (Kadınlar)",
+     0.1179
+    ],
+    [
+     "5 kornere kimse ulaşamaz",
+     0.1901
+    ],
+    [
+     "İlk 7 korner Juventus (Kadınlar)",
+     0.4311
+    ],
+    [
+     "İlk 7 korner Oud-Heverlee Leuven (Kadınlar)",
+     0.0378
+    ],
+    [
+     "7 kornere kimse ulaşamaz",
+     0.5306
+    ],
+    [
+     "İlk 9 korner Juventus (Kadınlar)",
+     0.1834
+    ],
+    [
+     "İlk 9 korner Oud-Heverlee Leuven (Kadınlar)",
+     0.0064
+    ],
+    [
+     "9 kornere kimse ulaşamaz",
+     0.8102
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Sonucu",
+   "oneri": "1 (Juventus (Kadınlar))",
+   "olasilik": 0.6616,
+   "adil_oran": 1.51,
+   "en_olasi": "1 (Juventus (Kadınlar))",
+   "en_olasi_p": 0.6616,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Juventus (Kadınlar))",
+     0.6616
+    ],
+    [
+     "X",
+     0.16
+    ],
+    [
+     "2 (Oud-Heverlee Leuven (Kadınlar))",
+     0.1784
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Handikap",
+   "oneri": "Juventus (Kadınlar) +0,5",
+   "olasilik": 0.8216,
+   "adil_oran": 1.22,
+   "en_olasi": "Juventus (Kadınlar) +0,5",
+   "en_olasi_p": 0.8216,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) -2,5",
+     0.2893
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +2,5",
+     0.7107
+    ],
+    [
+     "Juventus (Kadınlar) -1,5",
+     0.4683
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +1,5",
+     0.5317
+    ],
+    [
+     "Juventus (Kadınlar) -0,5",
+     0.6616
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +0,5",
+     0.3384
+    ],
+    [
+     "Juventus (Kadınlar) +0,5",
+     0.8216
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) -0,5",
+     0.1784
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Toplam",
+   "oneri": "Toplam 5,5 Alt",
+   "olasilik": 0.7014,
+   "adil_oran": 1.43,
+   "en_olasi": "Toplam 5,5 Alt",
+   "en_olasi_p": 0.7014,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 3,5 Üst",
+     0.6595
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.3405
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.4698
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.5302
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.2986
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.7014
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Juventus (Kadınlar) Toplam",
+   "oneri": "Juventus (Kadınlar) 1,5 Üst",
+   "olasilik": 0.7946,
+   "adil_oran": 1.26,
+   "en_olasi": "Juventus (Kadınlar) 1,5 Üst",
+   "en_olasi_p": 0.7946,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) 1,5 Üst",
+     0.7946
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Alt",
+     0.2054
+    ],
+    [
+     "Juventus (Kadınlar) 2,5 Üst",
+     0.567
+    ],
+    [
+     "Juventus (Kadınlar) 2,5 Alt",
+     0.433
+    ],
+    [
+     "Juventus (Kadınlar) 3,5 Üst",
+     0.3427
+    ],
+    [
+     "Juventus (Kadınlar) 3,5 Alt",
+     0.6573
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Oud-Heverlee Leuven (Kadınlar) Toplam",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) 0,5 Üst",
+   "olasilik": 0.7893,
+   "adil_oran": 1.27,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) 0,5 Üst",
+   "en_olasi_p": 0.7893,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Üst",
+     0.7893
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+     0.2107
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 1,5 Üst",
+     0.4612
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 1,5 Alt",
+     0.5388
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : 2. Yarı",
+   "oneri": "Toplam 6,5 Alt",
+   "olasilik": 0.749,
+   "adil_oran": 1.34,
+   "en_olasi": "Toplam 6,5 Alt",
+   "en_olasi_p": 0.749,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 4,5 Üst",
+     0.5743
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.4257
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.3997
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.6003
+    ],
+    [
+     "Toplam 6,5 Üst",
+     0.251
+    ],
+    [
+     "Toplam 6,5 Alt",
+     0.749
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : İlk Korner",
+   "oneri": "Juventus (Kadınlar)",
+   "olasilik": 0.5992,
+   "adil_oran": 1.67,
+   "en_olasi": "Juventus (Kadınlar)",
+   "en_olasi_p": 0.5992,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar)",
+     0.5992
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar)",
+     0.4007
+    ],
+    [
+     "Korner yok",
+     0.0001
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Son Korner",
+   "oneri": "Juventus (Kadınlar)",
+   "olasilik": 0.6036,
+   "adil_oran": 1.66,
+   "en_olasi": "Juventus (Kadınlar)",
+   "en_olasi_p": 0.6036,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar)",
+     0.6036
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar)",
+     0.3963
+    ],
+    [
+     "Korner yok",
+     0.0001
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "En Fazla Korner Olan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.5083,
+   "adil_oran": 1.97,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.5083,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.3626
+    ],
+    [
+     "Eşit",
+     0.1291
+    ],
+    [
+     "2. Yarı",
+     0.5083
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan : Sonuç",
+   "oneri": "2 (Oud-Heverlee Leuven (Kadınlar))",
+   "olasilik": 0.4027,
+   "adil_oran": 2.48,
+   "en_olasi": "2 (Oud-Heverlee Leuven (Kadınlar))",
+   "en_olasi_p": 0.4027,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "1 (Juventus (Kadınlar))",
+     0.3056
+    ],
+    [
+     "X",
+     0.2917
+    ],
+    [
+     "2 (Oud-Heverlee Leuven (Kadınlar))",
+     0.4027
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan Handikapı",
+   "oneri": "Juventus (Kadınlar) +15,5",
+   "olasilik": 0.8207,
+   "adil_oran": 1.22,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) +15,5",
+   "en_olasi_p": 0.8786,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Juventus (Kadınlar) -15,5",
+     0.1214
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +15,5",
+     0.8786
+    ],
+    [
+     "Juventus (Kadınlar) -5,5",
+     0.3009
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +5,5",
+     0.6991
+    ],
+    [
+     "Juventus (Kadınlar) +5,5",
+     0.6008
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) -5,5",
+     0.3992
+    ],
+    [
+     "Juventus (Kadınlar) +15,5",
+     0.8207
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) -15,5",
+     0.1793
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam Puan",
+   "oneri": "Toplam 35,5 Alt",
+   "olasilik": 0.8206,
+   "adil_oran": 1.22,
+   "en_olasi": "Toplam 55,5 Alt",
+   "en_olasi_p": 0.9633,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 25,5 Üst",
+     0.3456
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.6544
+    ],
+    [
+     "Toplam 35,5 Üst",
+     0.1794
+    ],
+    [
+     "Toplam 35,5 Alt",
+     0.8206
+    ],
+    [
+     "Toplam 45,5 Üst",
+     0.0837
+    ],
+    [
+     "Toplam 45,5 Alt",
+     0.9163
+    ],
+    [
+     "Toplam 55,5 Üst",
+     0.0367
+    ],
+    [
+     "Toplam 55,5 Alt",
+     0.9633
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Juventus (Kadınlar) : Toplam Kart Puanı",
+   "oneri": "Juventus (Kadınlar) 15,5 Alt",
+   "olasilik": 0.7592,
+   "adil_oran": 1.32,
+   "en_olasi": "Juventus (Kadınlar) 25,5 Alt",
+   "en_olasi_p": 0.9072,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Juventus (Kadınlar) 5,5 Üst",
+     0.5757
+    ],
+    [
+     "Juventus (Kadınlar) 5,5 Alt",
+     0.4243
+    ],
+    [
+     "Juventus (Kadınlar) 15,5 Üst",
+     0.2408
+    ],
+    [
+     "Juventus (Kadınlar) 15,5 Alt",
+     0.7592
+    ],
+    [
+     "Juventus (Kadınlar) 25,5 Üst",
+     0.0928
+    ],
+    [
+     "Juventus (Kadınlar) 25,5 Alt",
+     0.9072
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Oud-Heverlee Leuven (Kadınlar) : Toplam Kart Puanı",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) 15,5 Alt",
+   "olasilik": 0.6918,
+   "adil_oran": 1.45,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) 35,5 Alt",
+   "en_olasi_p": 0.9546,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 5,5 Üst",
+     0.6542
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 5,5 Alt",
+     0.3458
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 15,5 Üst",
+     0.3082
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 15,5 Alt",
+     0.6918
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 25,5 Üst",
+     0.1243
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 25,5 Alt",
+     0.8757
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 35,5 Üst",
+     0.0454
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 35,5 Alt",
+     0.9546
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam (Aralıklar)",
+   "oneri": "0-20 puan",
+   "olasilik": 0.6445,
+   "adil_oran": 1.55,
+   "en_olasi": "0-20 puan",
+   "en_olasi_p": 0.6445,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "0-20 puan",
+     0.6445
+    ],
+    [
+     "21-40 puan",
+     0.2401
+    ],
+    [
+     "41-60 puan",
+     0.0862
+    ],
+    [
+     "61+ puan",
+     0.0279
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Toplam Kart Puanı",
+   "oneri": "Toplam 15,5 Alt",
+   "olasilik": 0.8268,
+   "adil_oran": 1.21,
+   "en_olasi": "Toplam 25,5 Alt",
+   "en_olasi_p": 0.9454,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 5,5 Üst",
+     0.4962
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.5038
+    ],
+    [
+     "Toplam 15,5 Üst",
+     0.1732
+    ],
+    [
+     "Toplam 15,5 Alt",
+     0.8268
+    ],
+    [
+     "Toplam 25,5 Üst",
+     0.0546
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.9454
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Juventus (Kadınlar) : Toplam Kart Puanı",
+   "oneri": "Juventus (Kadınlar) 5,5 Alt",
+   "olasilik": 0.7334,
+   "adil_oran": 1.36,
+   "en_olasi": "Juventus (Kadınlar) 15,5 Alt",
+   "en_olasi_p": 0.9449,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Juventus (Kadınlar) 5,5 Üst",
+     0.2666
+    ],
+    [
+     "Juventus (Kadınlar) 5,5 Alt",
+     0.7334
+    ],
+    [
+     "Juventus (Kadınlar) 15,5 Üst",
+     0.0551
+    ],
+    [
+     "Juventus (Kadınlar) 15,5 Alt",
+     0.9449
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Oud-Heverlee Leuven (Kadınlar) : Toplam Kart Puanı",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) 5,5 Alt",
+   "olasilik": 0.6858,
+   "adil_oran": 1.46,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) 15,5 Alt",
+   "en_olasi_p": 0.9302,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 5,5 Üst",
+     0.3141
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 5,5 Alt",
+     0.6858
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 15,5 Üst",
+     0.0698
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 15,5 Alt",
+     0.9302
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Juventus (Kadınlar) : Toplam Kart Puanı",
+   "oneri": "Juventus (Kadınlar) 5,5 Alt",
+   "olasilik": 0.5773,
+   "adil_oran": 1.73,
+   "en_olasi": "Juventus (Kadınlar) 15,5 Alt",
+   "en_olasi_p": 0.8685,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Juventus (Kadınlar) 5,5 Üst",
+     0.4227
+    ],
+    [
+     "Juventus (Kadınlar) 5,5 Alt",
+     0.5773
+    ],
+    [
+     "Juventus (Kadınlar) 15,5 Üst",
+     0.1315
+    ],
+    [
+     "Juventus (Kadınlar) 15,5 Alt",
+     0.8685
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Oud-Heverlee Leuven (Kadınlar) : Toplam Kart Puanı",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) 15,5 Alt",
+   "olasilik": 0.8287,
+   "adil_oran": 1.21,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) 25,5 Alt",
+   "en_olasi_p": 0.9423,
+   "guven": "düşük",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 5,5 Üst",
+     0.4953
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 5,5 Alt",
+     0.5047
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 15,5 Üst",
+     0.1713
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 15,5 Alt",
+     0.8287
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 25,5 Üst",
+     0.0577
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 25,5 Alt",
+     0.9423
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Direkt Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9334,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9334,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0666
+    ],
+    [
+     "Hayır",
+     0.9334
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Yarıda Kart Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.6483,
+   "adil_oran": 1.54,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6483,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3517
+    ],
+    [
+     "Hayır",
+     0.6483
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kırmızı Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.9959,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9959,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0042
+    ],
+    [
+     "Hayır",
+     0.9959
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.622,
+   "adil_oran": 1.61,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.622,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.378
+    ],
+    [
+     "Hayır",
+     0.622
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Kart Görür",
+   "oneri": "Hayır",
+   "olasilik": 0.932,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.932,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.068
+    ],
+    [
+     "Hayır",
+     0.932
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Her İki Yarıda Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.9819,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9819,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0181
+    ],
+    [
+     "Hayır",
+     0.9819
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İlk Kartı Görecek Takım",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar)",
+   "olasilik": 0.4702,
+   "adil_oran": 2.13,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar)",
+   "en_olasi_p": 0.4702,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar)",
+     0.3817
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar)",
+     0.4702
+    ],
+    [
+     "Kart yok",
+     0.1481
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Son Kartı Görecek Takım",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar)",
+   "olasilik": 0.4722,
+   "adil_oran": 2.12,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar)",
+   "en_olasi_p": 0.4722,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar)",
+     0.3797
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar)",
+     0.4722
+    ],
+    [
+     "Kart yok",
+     0.1481
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Maçta Penaltı, Kırmızı Kart ve Kendi Kalesine Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9964,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9964,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0036
+    ],
+    [
+     "Hayır",
+     0.9964
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarı Uzatma Dakikalarında Kart Gösterilir (90+ dak)",
+   "oneri": "Hayır",
+   "olasilik": 0.8612,
+   "adil_oran": 1.16,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8612,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1388
+    ],
+    [
+     "Hayır",
+     0.8612
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarının Uzatma Dakikalarında Kırmızı Kart veya Gol Olur (90+ dakika)",
+   "oneri": "Hayır",
+   "olasilik": 0.7891,
+   "adil_oran": 1.27,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7891,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2109
+    ],
+    [
+     "Hayır",
+     0.7891
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Toplam Kırmızı Kartlar",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.9919,
+   "adil_oran": 1.01,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9919,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.1204
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.8796
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0081
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9919
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Juventus (Kadınlar) : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9376,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9376,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0624
+    ],
+    [
+     "Hayır",
+     0.9376
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9378,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9378,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0622
+    ],
+    [
+     "Hayır",
+     0.9378
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "1. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9588,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9588,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0412
+    ],
+    [
+     "Hayır",
+     0.9588
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "2. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9171,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9171,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0829
+    ],
+    [
+     "Hayır",
+     0.9171
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Sonuç",
+   "oneri": "2 (Oud-Heverlee Leuven (Kadınlar))",
+   "olasilik": 0.3922,
+   "adil_oran": 2.55,
+   "en_olasi": "2 (Oud-Heverlee Leuven (Kadınlar))",
+   "en_olasi_p": 0.3922,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Juventus (Kadınlar))",
+     0.284
+    ],
+    [
+     "X",
+     0.3239
+    ],
+    [
+     "2 (Oud-Heverlee Leuven (Kadınlar))",
+     0.3922
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Çifte Şans",
+   "oneri": "X2",
+   "olasilik": 0.716,
+   "adil_oran": 1.4,
+   "en_olasi": "X2",
+   "en_olasi_p": 0.716,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.6078
+    ],
+    [
+     "12",
+     0.6761
+    ],
+    [
+     "X2",
+     0.716
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Handikap",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) +0,5",
+   "olasilik": 0.716,
+   "adil_oran": 1.4,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) +1,5",
+   "en_olasi_p": 0.9072,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) -1,5",
+     0.0928
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +1,5",
+     0.9072
+    ],
+    [
+     "Juventus (Kadınlar) -0,5",
+     0.284
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +0,5",
+     0.716
+    ],
+    [
+     "Juventus (Kadınlar) +0,5",
+     0.6078
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) -0,5",
+     0.3922
+    ],
+    [
+     "Juventus (Kadınlar) +1,5",
+     0.8469
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) -1,5",
+     0.1531
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Toplam",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.7166,
+   "adil_oran": 1.4,
+   "en_olasi": "Toplam 5,5 Alt",
+   "en_olasi_p": 0.9889,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 2,5 Üst",
+     0.2834
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.7166
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.1185
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.8815
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.0403
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.9597
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.0111
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.9889
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Juventus (Kadınlar) : Toplam",
+   "oneri": "Juventus (Kadınlar) 1,5 Alt",
+   "olasilik": 0.7987,
+   "adil_oran": 1.25,
+   "en_olasi": "Juventus (Kadınlar) 2,5 Alt",
+   "en_olasi_p": 0.9478,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) 0,5 Üst",
+     0.5609
+    ],
+    [
+     "Juventus (Kadınlar) 0,5 Alt",
+     0.439
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Üst",
+     0.2013
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Alt",
+     0.7987
+    ],
+    [
+     "Juventus (Kadınlar) 2,5 Üst",
+     0.0522
+    ],
+    [
+     "Juventus (Kadınlar) 2,5 Alt",
+     0.9478
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Oud-Heverlee Leuven (Kadınlar) : Toplam",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) 1,5 Alt",
+   "olasilik": 0.7267,
+   "adil_oran": 1.38,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) 3,5 Alt",
+   "en_olasi_p": 0.9798,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Üst",
+     0.6425
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+     0.3575
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 1,5 Üst",
+     0.2733
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 1,5 Alt",
+     0.7267
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 2,5 Üst",
+     0.0842
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 2,5 Alt",
+     0.9158
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 3,5 Üst",
+     0.0202
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 3,5 Alt",
+     0.9798
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Sonucu",
+   "oneri": "X",
+   "olasilik": 0.5752,
+   "adil_oran": 1.74,
+   "en_olasi": "X",
+   "en_olasi_p": 0.5752,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Juventus (Kadınlar))",
+     0.1868
+    ],
+    [
+     "X",
+     0.5752
+    ],
+    [
+     "2 (Oud-Heverlee Leuven (Kadınlar))",
+     0.238
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Handikap",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) +0,5",
+   "olasilik": 0.8132,
+   "adil_oran": 1.23,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) +0,5",
+   "en_olasi_p": 0.8132,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) -0,5",
+     0.1868
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +0,5",
+     0.8132
+    ],
+    [
+     "Juventus (Kadınlar) +0,5",
+     0.762
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) -0,5",
+     0.238
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı : Toplam",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.5176,
+   "adil_oran": 1.93,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.97,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.4824
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.5176
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.1425
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.8575
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.03
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.97
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Juventus (Kadınlar) Toplam",
+   "oneri": "Juventus (Kadınlar) 0,5 Alt",
+   "olasilik": 0.7438,
+   "adil_oran": 1.34,
+   "en_olasi": "Juventus (Kadınlar) 1,5 Alt",
+   "en_olasi_p": 0.9637,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) 0,5 Üst",
+     0.2562
+    ],
+    [
+     "Juventus (Kadınlar) 0,5 Alt",
+     0.7438
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Üst",
+     0.0363
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Alt",
+     0.9637
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Oud-Heverlee Leuven (Kadınlar) Toplam",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+   "olasilik": 0.695,
+   "adil_oran": 1.44,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) 1,5 Alt",
+   "en_olasi_p": 0.9478,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Üst",
+     0.305
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 0,5 Alt",
+     0.695
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 1,5 Üst",
+     0.0522
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) 1,5 Alt",
+     0.9478
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Sonuç",
+   "oneri": "X",
+   "olasilik": 0.422,
+   "adil_oran": 2.37,
+   "en_olasi": "X",
+   "en_olasi_p": 0.422,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Juventus (Kadınlar))",
+     0.2466
+    ],
+    [
+     "X",
+     0.422
+    ],
+    [
+     "2 (Oud-Heverlee Leuven (Kadınlar))",
+     0.3314
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Handikap",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) +0,5",
+   "olasilik": 0.7534,
+   "adil_oran": 1.33,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) +0,5",
+   "en_olasi_p": 0.7534,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) -0,5",
+     0.2466
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) +0,5",
+     0.7534
+    ],
+    [
+     "Juventus (Kadınlar) +0,5",
+     0.6686
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) -0,5",
+     0.3314
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Toplam",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.6656,
+   "adil_oran": 1.5,
+   "en_olasi": "Toplam 3,5 Alt",
+   "en_olasi_p": 0.9665,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 1,5 Üst",
+     0.3344
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.6656
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1191
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8809
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.0335
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.9665
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Juventus (Kadınlar) Toplam",
+   "oneri": "Juventus (Kadınlar) 0,5 Alt",
+   "olasilik": 0.5896,
+   "adil_oran": 1.7,
+   "en_olasi": "Juventus (Kadınlar) 1,5 Alt",
+   "en_olasi_p": 0.8999,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar) 0,5 Üst",
+     0.4104
+    ],
+    [
+     "Juventus (Kadınlar) 0,5 Alt",
+     0.5896
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Üst",
+     0.1001
+    ],
+    [
+     "Juventus (Kadınlar) 1,5 Alt",
+     0.8999
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : İlk Sarı Kartı Görür",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar)",
+   "olasilik": 0.466,
+   "adil_oran": 2.15,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar)",
+   "en_olasi_p": 0.466,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar)",
+     0.3755
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar)",
+     0.466
+    ],
+    [
+     "Sarı kart yok",
+     0.1585
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Son Sarı Kartı Görür",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar)",
+   "olasilik": 0.468,
+   "adil_oran": 2.14,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar)",
+   "en_olasi_p": 0.468,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Juventus (Kadınlar)",
+     0.3735
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar)",
+     0.468
+    ],
+    [
+     "Sarı kart yok",
+     0.1585
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7494,
+   "adil_oran": 1.33,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7494,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2506
+    ],
+    [
+     "Hayır",
+     0.7494
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Juventus (Kadınlar) : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.83,
+   "adil_oran": 1.2,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.83,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.17
+    ],
+    [
+     "Hayır",
+     0.83
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9023,
+   "adil_oran": 1.11,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9023,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0977
+    ],
+    [
+     "Hayır",
+     0.9023
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "İki Takım da Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9829,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9829,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0171
+    ],
+    [
+     "Hayır",
+     0.9829
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta İki Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9651,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9651,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0349
+    ],
+    [
+     "Hayır",
+     0.9651
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "1. Yarı : Penaltı",
+   "oneri": "Hayır",
+   "olasilik": 0.8808,
+   "adil_oran": 1.14,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8808,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1192
+    ],
+    [
+     "Hayır",
+     0.8808
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltıdan Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8002,
+   "adil_oran": 1.25,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8002,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1998
+    ],
+    [
+     "Hayır",
+     0.8002
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı Kaçırır",
+   "oneri": "Hayır",
+   "olasilik": 0.9361,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9361,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0639
+    ],
+    [
+     "Hayır",
+     0.9361
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı ve Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9702,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9702,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0298
+    ],
+    [
+     "Hayır",
+     0.9702
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı veya Kırmızı Kart Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.6588,
+   "adil_oran": 1.52,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6588,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3412
+    ],
+    [
+     "Hayır",
+     0.6588
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Herhangi Bir Zamanda Gol Atar",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.4118,
+   "adil_oran": 2.43,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.4118,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.4118
+    ],
+    [
+     "Remina Chiba",
+     0.3265
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İlk Golcü",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.1465,
+   "adil_oran": 6.82,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.1465,
+   "guven": "düşük",
+   "not_": "Takımın ilk golü × oyuncu payı",
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.1465
+    ],
+    [
+     "Remina Chiba",
+     0.1099
+    ],
+    [
+     "Gol yok",
+     0.0253
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İlk Golcü Çifte Şans",
+   "oneri": "Alba Redondo ilk golü veya ikinci golü",
+   "olasilik": 0.2719,
+   "adil_oran": 3.68,
+   "en_olasi": "Alba Redondo ilk golü veya ikinci golü",
+   "en_olasi_p": 0.2719,
+   "guven": "düşük",
+   "not_": "Yaklaşık",
+   "secimler": [
+    [
+     "Alba Redondo ilk golü veya ikinci golü",
+     0.2719
+    ],
+    [
+     "Remina Chiba ilk golü veya ikinci golü",
+     0.2039
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Son Golcü",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.1471,
+   "adil_oran": 6.8,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.1471,
+   "guven": "düşük",
+   "not_": "Yaklaşık",
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.1471
+    ],
+    [
+     "Remina Chiba",
+     0.1103
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Juventus (Kadınlar) : İlk Golü Atar",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.1888,
+   "adil_oran": 5.3,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.1888,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.1888
+    ],
+    [
+     "Remina Chiba",
+     0.1416
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) : İlk Golü Atar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Juventus (Kadınlar) : Son Golcü",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.1888,
+   "adil_oran": 5.3,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.1888,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.1888
+    ],
+    [
+     "Remina Chiba",
+     0.1416
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oud-Heverlee Leuven (Kadınlar) : Son Golü Atar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Takımın ilk/son golünü atan oyuncu (yaklaşık)",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu En Az 2 Gol Atar",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.0998,
+   "adil_oran": 10.02,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.0998,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.0998
+    ],
+    [
+     "Remina Chiba",
+     0.0602
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu En Az 3 Gol Atar",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.0166,
+   "adil_oran": 60.3,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.0166,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.0166
+    ],
+    [
+     "Remina Chiba",
+     0.0076
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 4 veya Daha Çok Gol Atar",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.0022,
+   "adil_oran": 447.76,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.0022,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.0022
+    ],
+    [
+     "Remina Chiba",
+     0.0008
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Herhangi Bir Zaman Gol Atar Çifte Şans",
+   "oneri": "Alba Redondo veya Remina Chiba",
+   "olasilik": 0.6037,
+   "adil_oran": 1.66,
+   "en_olasi": "Alba Redondo veya Remina Chiba",
+   "en_olasi_p": 0.6037,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo veya Remina Chiba",
+     0.6037
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar",
+   "oneri": "Alba Redondo ve Remina Chiba",
+   "olasilik": 0.1347,
+   "adil_oran": 7.42,
+   "en_olasi": "Alba Redondo ve Remina Chiba",
+   "en_olasi_p": 0.1347,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo ve Remina Chiba",
+     0.1347
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "2 Oyuncu Toplamda Üst 1.5 Gol Atar",
+   "oneri": "Alba Redondo + Remina Chiba",
+   "olasilik": 0.2368,
+   "adil_oran": 4.22,
+   "en_olasi": "Alba Redondo + Remina Chiba",
+   "en_olasi_p": 0.2368,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo + Remina Chiba",
+     0.2368
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "2 Oyuncu Toplamda Üst 2.5 Gol Atar",
+   "oneri": "Alba Redondo + Remina Chiba",
+   "olasilik": 0.0674,
+   "adil_oran": 14.85,
+   "en_olasi": "Alba Redondo + Remina Chiba",
+   "en_olasi_p": 0.0674,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo + Remina Chiba",
+     0.0674
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "2 Oyuncu Toplamda Üst 3.5 Gol Atar",
+   "oneri": "Alba Redondo + Remina Chiba",
+   "olasilik": 0.015,
+   "adil_oran": 66.52,
+   "en_olasi": "Alba Redondo + Remina Chiba",
+   "en_olasi_p": 0.015,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo + Remina Chiba",
+     0.015
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 1. Yarıda Gol Atar",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.2009,
+   "adil_oran": 4.98,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.2009,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.2009
+    ],
+    [
+     "Remina Chiba",
+     0.1557
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 2. Yarıda Gol Atar",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.2515,
+   "adil_oran": 3.98,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.2515,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.2515
+    ],
+    [
+     "Remina Chiba",
+     0.1949
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Her İki Yarıda da Gol Atar",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.0406,
+   "adil_oran": 24.65,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.0406,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.0406
+    ],
+    [
+     "Remina Chiba",
+     0.024
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "İlk 10 Dakikada Gol Atar",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.0525,
+   "adil_oran": 19.05,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.0525,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.0525
+    ],
+    [
+     "Remina Chiba",
+     0.0392
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Penaltıdan Gol Atar",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.0,
+   "adil_oran": null,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.0,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.0
+    ],
+    [
+     "Remina Chiba",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Gol Atar",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.0608,
+   "adil_oran": 16.44,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.0608,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.0608
+    ],
+    [
+     "Remina Chiba",
+     0.0465
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kale Sahası İçinden Gol Atar",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.0996,
+   "adil_oran": 10.04,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.0996,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.0996
+    ],
+    [
+     "Remina Chiba",
+     0.0751
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kafa Golü Atar",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.0863,
+   "adil_oran": 11.58,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.0863,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.0863
+    ],
+    [
+     "Remina Chiba",
+     0.0643
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Serbest Vuruştan Gol Atar",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.0156,
+   "adil_oran": 64.0,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.0156,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.0156
+    ],
+    [
+     "Remina Chiba",
+     0.0115
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sağ Ayağıyla Gol Atar",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.2533,
+   "adil_oran": 3.95,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.2533,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.2533
+    ],
+    [
+     "Remina Chiba",
+     0.1954
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Takımı Kazanır",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.3745,
+   "adil_oran": 2.67,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.3745,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.3745
+    ],
+    [
+     "Remina Chiba",
+     0.2981
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Rakip Takım Kazanır",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.0106,
+   "adil_oran": 94.64,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.0106,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.0106
+    ],
+    [
+     "Remina Chiba",
+     0.0083
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – GOL",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Maç Berabere Biter",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.0268,
+   "adil_oran": 37.37,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.0268,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.0268
+    ],
+    [
+     "Remina Chiba",
+     0.0202
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Asist Yapar",
+   "oneri": "Remina Chiba",
+   "olasilik": 0.2049,
+   "adil_oran": 4.88,
+   "en_olasi": "Remina Chiba",
+   "en_olasi_p": 0.2049,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Remina Chiba",
+     0.2049
+    ],
+    [
+     "Alba Redondo",
+     0.1732
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar veya Asist Yapar",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.495,
+   "adil_oran": 2.02,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.495,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.495
+    ],
+    [
+     "Remina Chiba",
+     0.4458
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar veya Asist Yapar (Çifte Şans)",
+   "oneri": "Alba Redondo veya Remina Chiba gol/asist",
+   "olasilik": 0.699,
+   "adil_oran": 1.43,
+   "en_olasi": "Alba Redondo veya Remina Chiba gol/asist",
+   "en_olasi_p": 0.699,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo veya Remina Chiba gol/asist",
+     0.699
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Gol Atar ve Asist Yapar",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.0901,
+   "adil_oran": 11.1,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.0901,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.0901
+    ],
+    [
+     "Remina Chiba",
+     0.0856
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Gol Asisti Yapar Çifte Şans",
+   "oneri": "Alba Redondo veya Remina Chiba asist",
+   "olasilik": 0.343,
+   "adil_oran": 2.92,
+   "en_olasi": "Alba Redondo veya Remina Chiba asist",
+   "en_olasi_p": 0.343,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo veya Remina Chiba asist",
+     0.343
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Penaltı Kaçırır",
+   "oneri": "Alba Redondo",
+   "olasilik": 0.0,
+   "adil_oran": null,
+   "en_olasi": "Alba Redondo",
+   "en_olasi_p": 0.0,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo",
+     0.0
+    ],
+    [
+     "Remina Chiba",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – ASİST / PENALTI",
+   "yontem": "oyuncu",
+   "pazar": "Penaltı Kazandıran Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu bazlı penaltı verisi yok",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kart Görür",
+   "oneri": "Remina Chiba",
+   "olasilik": 0.0495,
+   "adil_oran": 20.18,
+   "en_olasi": "Remina Chiba",
+   "en_olasi_p": 0.0495,
+   "guven": "düşük",
+   "not_": "Oyuncunun kart ihtimali girdiden",
+   "secimler": [
+    [
+     "Remina Chiba",
+     0.0495
+    ],
+    [
+     "Alba Redondo",
+     0.0495
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kart Görür Çifte Şans",
+   "oneri": "Alba Redondo veya Remina Chiba",
+   "olasilik": 0.0965,
+   "adil_oran": 10.36,
+   "en_olasi": "Alba Redondo veya Remina Chiba",
+   "en_olasi_p": 0.0965,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Alba Redondo veya Remina Chiba",
+     0.0965
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sarı Kart Görür",
+   "oneri": "Remina Chiba",
+   "olasilik": 0.0495,
+   "adil_oran": 20.18,
+   "en_olasi": "Remina Chiba",
+   "en_olasi_p": 0.0495,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Remina Chiba",
+     0.0495
+    ],
+    [
+     "Alba Redondo",
+     0.0495
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Kart Görecek İlk Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu sıralaması için yeterli veri yok",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Son Kartı Görecek Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu sıralaması için yeterli veri yok",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – KART",
+   "yontem": "oyuncu",
+   "pazar": "Oyundan Uzaklaştırılır",
+   "oneri": "Remina Chiba",
+   "olasilik": 0.0028,
+   "adil_oran": 360.36,
+   "en_olasi": "Remina Chiba",
+   "en_olasi_p": 0.0028,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Remina Chiba",
+     0.0028
+    ],
+    [
+     "Alba Redondo",
+     0.0027
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Şutları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pasları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pas Denemeleri",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncunun Yaptığı Fauller",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncuya Faul Yapılır",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Topa Müdahaleler",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ofsayta Düşer",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Kaleci Kurtarışları",
+   "oneri": "Oud-Heverlee Leuven (Kadınlar) kalecisi 4,5 Üst",
+   "olasilik": 0.7899,
+   "adil_oran": 1.27,
+   "en_olasi": "Oud-Heverlee Leuven (Kadınlar) kalecisi 1,5 Üst",
+   "en_olasi_p": 0.9895,
+   "guven": "düşük",
+   "not_": "Rakibin beklenen golünden türetildi",
+   "secimler": [
+    [
+     "Juventus (Kadınlar) kalecisi 1,5 Üst",
+     0.5496
+    ],
+    [
+     "Juventus (Kadınlar) kalecisi 1,5 Alt",
+     0.4504
+    ],
+    [
+     "Juventus (Kadınlar) kalecisi 2,5 Üst",
+     0.281
+    ],
+    [
+     "Juventus (Kadınlar) kalecisi 2,5 Alt",
+     0.719
+    ],
+    [
+     "Juventus (Kadınlar) kalecisi 3,5 Üst",
+     0.1165
+    ],
+    [
+     "Juventus (Kadınlar) kalecisi 3,5 Alt",
+     0.8835
+    ],
+    [
+     "Juventus (Kadınlar) kalecisi 4,5 Üst",
+     0.04
+    ],
+    [
+     "Juventus (Kadınlar) kalecisi 4,5 Alt",
+     0.96
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) kalecisi 1,5 Üst",
+     0.9895
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) kalecisi 1,5 Alt",
+     0.0105
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) kalecisi 2,5 Üst",
+     0.9594
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) kalecisi 2,5 Alt",
+     0.0406
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) kalecisi 3,5 Üst",
+     0.8953
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) kalecisi 3,5 Alt",
+     0.1047
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) kalecisi 4,5 Üst",
+     0.7899
+    ],
+    [
+     "Oud-Heverlee Leuven (Kadınlar) kalecisi 4,5 Alt",
+     0.2101
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Pas Veren Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Faul Yapan Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 1. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 2. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Her İki Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Çektiği Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kafayla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sağ Ayakla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  }
+ ],
+ "eksik": []
+}
