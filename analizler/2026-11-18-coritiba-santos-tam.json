@@ -11,7 +11,7 @@
   "not": "Goller Oddsportal 1X2 ortalamasından. Korner/kart FotMob son 5 maç. Hakem penaltı eğilimi yüksek."
  },
  "ev": "Coritiba",
- "dep": "Santos",
+ "dep": "Santos SP",
  "beklenen_gol": [
   0.92,
   1.4
@@ -22,10 +22,10 @@
    "kategori": "MAÇ SONUCU / TEMEL",
    "yontem": "gol",
    "pazar": "Maç Sonucu",
-   "oneri": "2 (Santos)",
+   "oneri": "2 (Santos SP)",
    "olasilik": 0.4824,
    "adil_oran": 2.07,
-   "en_olasi": "2 (Santos)",
+   "en_olasi": "2 (Santos SP)",
    "en_olasi_p": 0.4824,
    "guven": "yüksek",
    "not_": null,
@@ -39,7 +39,7 @@
      0.2723
     ],
     [
-     "2 (Santos)",
+     "2 (Santos SP)",
      0.4824
     ]
    ]
@@ -74,10 +74,10 @@
    "kategori": "MAÇ SONUCU / TEMEL",
    "yontem": "gol",
    "pazar": "Beraberlikte İade",
-   "oneri": "Santos",
+   "oneri": "Santos SP",
    "olasilik": 0.6629,
    "adil_oran": 1.51,
-   "en_olasi": "Santos",
+   "en_olasi": "Santos SP",
    "en_olasi_p": 0.6629,
    "guven": "yüksek",
    "not_": "Beraberlikte iade; olasılık iade hariç",
@@ -87,7 +87,7 @@
      0.3371
     ],
     [
-     "Santos",
+     "Santos SP",
      0.6629
     ]
    ]
@@ -96,10 +96,10 @@
    "kategori": "MAÇ SONUCU / TEMEL",
    "yontem": "gol",
    "pazar": "Coritiba : Bahis Yok",
-   "oneri": "Santos",
+   "oneri": "Santos SP",
    "olasilik": 0.6392,
    "adil_oran": 1.56,
-   "en_olasi": "Santos",
+   "en_olasi": "Santos SP",
    "en_olasi_p": 0.6392,
    "guven": "yüksek",
    "not_": "Coritiba kazanırsa iade",
@@ -109,7 +109,7 @@
      0.3608
     ],
     [
-     "Santos",
+     "Santos SP",
      0.6392
     ]
    ]
@@ -117,14 +117,14 @@
   {
    "kategori": "MAÇ SONUCU / TEMEL",
    "yontem": "gol",
-   "pazar": "Santos : Bahis Yok",
+   "pazar": "Santos SP : Bahis Yok",
    "oneri": "X",
    "olasilik": 0.526,
    "adil_oran": 1.9,
    "en_olasi": "X",
    "en_olasi_p": 0.526,
    "guven": "yüksek",
-   "not_": "Santos kazanırsa iade",
+   "not_": "Santos SP kazanırsa iade",
    "secimler": [
     [
      "Coritiba",
@@ -161,7 +161,7 @@
   {
    "kategori": "MAÇ SONUCU / TEMEL",
    "yontem": "gol",
-   "pazar": "Santos : Geriden Kazanır",
+   "pazar": "Santos SP : Geriden Kazanır",
    "oneri": "Hayır",
    "olasilik": 0.9423,
    "adil_oran": 1.06,
@@ -217,7 +217,7 @@
   {
    "kategori": "MAÇ SONUCU / TEMEL",
    "yontem": "gol",
-   "pazar": "Santos : Kazanma Marjı",
+   "pazar": "Santos SP : Kazanma Marjı",
    "oneri": "Kazanamaz",
    "olasilik": 0.5176,
    "adil_oran": 1.93,
@@ -359,45 +359,45 @@
   {
    "kategori": "TOPLAM GOL",
    "yontem": "gol",
-   "pazar": "Santos : Toplam Gol",
-   "oneri": "Santos 2,5 Alt",
+   "pazar": "Santos SP : Toplam Gol",
+   "oneri": "Santos SP 2,5 Alt",
    "olasilik": 0.8331,
    "adil_oran": 1.2,
-   "en_olasi": "Santos 3,5 Alt",
+   "en_olasi": "Santos SP 3,5 Alt",
    "en_olasi_p": 0.9459,
    "guven": "yüksek",
    "not_": null,
    "secimler": [
     [
-     "Santos 0,5 Üst",
+     "Santos SP 0,5 Üst",
      0.7557
     ],
     [
-     "Santos 0,5 Alt",
+     "Santos SP 0,5 Alt",
      0.2443
     ],
     [
-     "Santos 1,5 Üst",
+     "Santos SP 1,5 Üst",
      0.4078
     ],
     [
-     "Santos 1,5 Alt",
+     "Santos SP 1,5 Alt",
      0.5922
     ],
     [
-     "Santos 2,5 Üst",
+     "Santos SP 2,5 Üst",
      0.1669
     ],
     [
-     "Santos 2,5 Alt",
+     "Santos SP 2,5 Alt",
      0.8331
     ],
     [
-     "Santos 3,5 Üst",
+     "Santos SP 3,5 Üst",
      0.0541
     ],
     [
-     "Santos 3,5 Alt",
+     "Santos SP 3,5 Alt",
      0.9459
     ]
    ]
@@ -545,61 +545,61 @@
   {
    "kategori": "TOPLAM GOL",
    "yontem": "gol",
-   "pazar": "Santos : Toplam Gol Asya",
-   "oneri": "Santos Asya 0,5 Üst",
+   "pazar": "Santos SP : Toplam Gol Asya",
+   "oneri": "Santos SP Asya 0,5 Üst",
    "olasilik": 0.7557,
    "adil_oran": 1.32,
-   "en_olasi": "Santos Asya 0,25 Üst",
+   "en_olasi": "Santos SP Asya 0,25 Üst",
    "en_olasi_p": 0.8609,
    "guven": "yüksek",
    "not_": null,
    "secimler": [
     [
-     "Santos Asya 0,25 Üst",
+     "Santos SP Asya 0,25 Üst",
      0.8609
     ],
     [
-     "Santos Asya 0,25 Alt",
+     "Santos SP Asya 0,25 Alt",
      0.1391
     ],
     [
-     "Santos Asya 0,5 Üst",
+     "Santos SP Asya 0,5 Üst",
      0.7557
     ],
     [
-     "Santos Asya 0,5 Alt",
+     "Santos SP Asya 0,5 Alt",
      0.2443
     ],
     [
-     "Santos Asya 0,75 Üst",
+     "Santos SP Asya 0,75 Üst",
      0.7043
     ],
     [
-     "Santos Asya 0,75 Alt",
+     "Santos SP Asya 0,75 Alt",
      0.2957
     ],
     [
-     "Santos Asya 1 Üst",
+     "Santos SP Asya 1 Üst",
      0.6254
     ],
     [
-     "Santos Asya 1 Alt",
+     "Santos SP Asya 1 Alt",
      0.3746
     ],
     [
-     "Santos Asya 1,25 Üst",
+     "Santos SP Asya 1,25 Üst",
      0.4937
     ],
     [
-     "Santos Asya 1,25 Alt",
+     "Santos SP Asya 1,25 Alt",
      0.5063
     ],
     [
-     "Santos Asya 1,5 Üst",
+     "Santos SP Asya 1,5 Üst",
      0.4078
     ],
     [
-     "Santos Asya 1,5 Alt",
+     "Santos SP Asya 1,5 Alt",
      0.5922
     ]
    ]
@@ -767,7 +767,7 @@
   {
    "kategori": "TOPLAM GOL",
    "yontem": "gol",
-   "pazar": "Santos : Toplam Gol (Kesin)",
+   "pazar": "Santos SP : Toplam Gol (Kesin)",
    "oneri": "1 gol",
    "olasilik": 0.3479,
    "adil_oran": 2.87,
@@ -857,7 +857,7 @@
   {
    "kategori": "TOPLAM GOL",
    "yontem": "gol",
-   "pazar": "Santos : Toplam Gol (Aralık)",
+   "pazar": "Santos SP : Toplam Gol (Aralık)",
    "oneri": "1-2 gol",
    "olasilik": 0.5888,
    "adil_oran": 1.7,
@@ -963,7 +963,7 @@
   {
    "kategori": "TOPLAM GOL",
    "yontem": "gol",
-   "pazar": "Santos : Toplam Gol (Genişletilmiş Aralıklar)",
+   "pazar": "Santos SP : Toplam Gol (Genişletilmiş Aralıklar)",
    "oneri": "0-1 gol",
    "olasilik": 0.5922,
    "adil_oran": 1.69,
@@ -1191,29 +1191,29 @@
   {
    "kategori": "TOPLAM GOL",
    "yontem": "gol",
-   "pazar": "Santos : Asist Yapar. Toplam",
-   "oneri": "Santos asist 1,5 Alt",
+   "pazar": "Santos SP : Asist Yapar. Toplam",
+   "oneri": "Santos SP asist 1,5 Alt",
    "olasilik": 0.8227,
    "adil_oran": 1.22,
-   "en_olasi": "Santos asist 1,5 Alt",
+   "en_olasi": "Santos SP asist 1,5 Alt",
    "en_olasi_p": 0.8227,
    "guven": "yüksek",
    "not_": null,
    "secimler": [
     [
-     "Santos asist 0,5 Üst",
+     "Santos SP asist 0,5 Üst",
      0.5351
     ],
     [
-     "Santos asist 0,5 Alt",
+     "Santos SP asist 0,5 Alt",
      0.4649
     ],
     [
-     "Santos asist 1,5 Üst",
+     "Santos SP asist 1,5 Üst",
      0.1773
     ],
     [
-     "Santos asist 1,5 Alt",
+     "Santos SP asist 1,5 Alt",
      0.8227
     ]
    ]
@@ -1287,7 +1287,7 @@
   {
    "kategori": "KARŞILIKLI GOL",
    "yontem": "gol",
-   "pazar": "Santos : Gol Atar",
+   "pazar": "Santos SP : Gol Atar",
    "oneri": "Evet",
    "olasilik": 0.7557,
    "adil_oran": 1.32,
@@ -1365,7 +1365,7 @@
    "oneri": "Coritiba +1,5",
    "olasilik": 0.7665,
    "adil_oran": 1.3,
-   "en_olasi": "Santos +2,5",
+   "en_olasi": "Santos SP +2,5",
    "en_olasi_p": 0.9775,
    "guven": "yüksek",
    "not_": null,
@@ -1375,7 +1375,7 @@
      0.0226
     ],
     [
-     "Santos +2,5",
+     "Santos SP +2,5",
      0.9775
     ],
     [
@@ -1383,7 +1383,7 @@
      0.0841
     ],
     [
-     "Santos +1,5",
+     "Santos SP +1,5",
      0.9159
     ],
     [
@@ -1391,7 +1391,7 @@
      0.2453
     ],
     [
-     "Santos +0,5",
+     "Santos SP +0,5",
      0.7547
     ],
     [
@@ -1399,7 +1399,7 @@
      0.5176
     ],
     [
-     "Santos -0,5",
+     "Santos SP -0,5",
      0.4824
     ],
     [
@@ -1407,7 +1407,7 @@
      0.7665
     ],
     [
-     "Santos -1,5",
+     "Santos SP -1,5",
      0.2335
     ],
     [
@@ -1415,7 +1415,7 @@
      0.912
     ],
     [
-     "Santos -2,5",
+     "Santos SP -2,5",
      0.088
     ]
    ]
@@ -1424,10 +1424,10 @@
    "kategori": "HANDİKAP",
    "yontem": "gol",
    "pazar": "Goller Asya Handikapı",
-   "oneri": "Santos Asya +0,75",
+   "oneri": "Santos SP Asya +0,75",
    "olasilik": 0.8209,
    "adil_oran": 1.22,
-   "en_olasi": "Santos Asya +1,5",
+   "en_olasi": "Santos SP Asya +1,5",
    "en_olasi_p": 0.9159,
    "guven": "yüksek",
    "not_": null,
@@ -1437,7 +1437,7 @@
      0.024
     ],
     [
-     "Santos Asya -2",
+     "Santos SP Asya -2",
      0.103
     ],
     [
@@ -1445,7 +1445,7 @@
      0.055
     ],
     [
-     "Santos Asya -1,75",
+     "Santos SP Asya -1,75",
      0.1734
     ],
     [
@@ -1453,7 +1453,7 @@
      0.0841
     ],
     [
-     "Santos Asya -1,5",
+     "Santos SP Asya -1,5",
      0.2335
     ],
     [
@@ -1461,7 +1461,7 @@
      0.0914
     ],
     [
-     "Santos Asya -1,25",
+     "Santos SP Asya -1,25",
      0.2667
     ],
     [
@@ -1469,7 +1469,7 @@
      0.1002
     ],
     [
-     "Santos Asya -1",
+     "Santos SP Asya -1",
      0.3109
     ],
     [
@@ -1477,7 +1477,7 @@
      0.1791
     ],
     [
-     "Santos Asya -0,75",
+     "Santos SP Asya -0,75",
      0.4088
     ],
     [
@@ -1485,7 +1485,7 @@
      0.2453
     ],
     [
-     "Santos Asya -0,5",
+     "Santos SP Asya -0,5",
      0.4824
     ],
     [
@@ -1493,7 +1493,7 @@
      0.284
     ],
     [
-     "Santos Asya -0,25",
+     "Santos SP Asya -0,25",
      0.5584
     ],
     [
@@ -1501,7 +1501,7 @@
      0.3371
     ],
     [
-     "Santos Asya 0",
+     "Santos SP Asya 0",
      0.6629
     ],
     [
@@ -1509,7 +1509,7 @@
      0.4416
     ],
     [
-     "Santos Asya +0,25",
+     "Santos SP Asya +0,25",
      0.716
     ],
     [
@@ -1517,7 +1517,7 @@
      0.5176
     ],
     [
-     "Santos Asya +0,5",
+     "Santos SP Asya +0,5",
      0.7547
     ],
     [
@@ -1525,7 +1525,7 @@
      0.5912
     ],
     [
-     "Santos Asya +0,75",
+     "Santos SP Asya +0,75",
      0.8209
     ],
     [
@@ -1533,7 +1533,7 @@
      0.6891
     ],
     [
-     "Santos Asya +1",
+     "Santos SP Asya +1",
      0.8998
     ],
     [
@@ -1541,7 +1541,7 @@
      0.7333
     ],
     [
-     "Santos Asya +1,25",
+     "Santos SP Asya +1,25",
      0.9086
     ],
     [
@@ -1549,7 +1549,7 @@
      0.7665
     ],
     [
-     "Santos Asya +1,5",
+     "Santos SP Asya +1,5",
      0.9159
     ]
    ]
@@ -1561,7 +1561,7 @@
    "oneri": "Coritiba (+2)",
    "olasilik": 0.7665,
    "adil_oran": 1.3,
-   "en_olasi": "Santos (-3)",
+   "en_olasi": "Santos SP (-3)",
    "en_olasi_p": 0.9775,
    "guven": "yüksek",
    "not_": null,
@@ -1575,7 +1575,7 @@
      0.0179
     ],
     [
-     "Santos (-3)",
+     "Santos SP (-3)",
      0.9775
     ],
     [
@@ -1587,7 +1587,7 @@
      0.0615
     ],
     [
-     "Santos (-2)",
+     "Santos SP (-2)",
      0.9159
     ],
     [
@@ -1599,7 +1599,7 @@
      0.1613
     ],
     [
-     "Santos (-1)",
+     "Santos SP (-1)",
      0.7547
     ],
     [
@@ -1611,7 +1611,7 @@
      0.2489
     ],
     [
-     "Santos (+1)",
+     "Santos SP (+1)",
      0.2335
     ],
     [
@@ -1623,7 +1623,7 @@
      0.1455
     ],
     [
-     "Santos (+2)",
+     "Santos SP (+2)",
      0.088
     ],
     [
@@ -1635,7 +1635,7 @@
      0.0613
     ],
     [
-     "Santos (+3)",
+     "Santos SP (+3)",
      0.0267
     ]
    ]
@@ -1681,37 +1681,37 @@
   {
    "kategori": "KOMBİNE (SONUÇ + GOL)",
    "yontem": "gol",
-   "pazar": "Santos Gol Atar ve Maç Sonucu",
-   "oneri": "2 & Santos gol atar",
+   "pazar": "Santos SP Gol Atar ve Maç Sonucu",
+   "oneri": "2 & Santos SP gol atar",
    "olasilik": 0.4824,
    "adil_oran": 2.07,
-   "en_olasi": "2 & Santos gol atar",
+   "en_olasi": "2 & Santos SP gol atar",
    "en_olasi_p": 0.4824,
    "guven": "yüksek",
    "not_": null,
    "secimler": [
     [
-     "1 & Santos gol atar",
+     "1 & Santos SP gol atar",
      0.0986
     ],
     [
-     "1 & Santos gol atamaz",
+     "1 & Santos SP gol atamaz",
      0.1468
     ],
     [
-     "X & Santos gol atar",
+     "X & Santos SP gol atar",
      0.1748
     ],
     [
-     "X & Santos gol atamaz",
+     "X & Santos SP gol atamaz",
      0.0975
     ],
     [
-     "2 & Santos gol atar",
+     "2 & Santos SP gol atar",
      0.4824
     ],
     [
-     "2 & Santos gol atamaz",
+     "2 & Santos SP gol atamaz",
      0.0
     ]
    ]
@@ -1985,37 +1985,37 @@
   {
    "kategori": "KOMBİNE (SONUÇ + GOL)",
    "yontem": "gol",
-   "pazar": "Sonuç ve Santos : Toplam Gol",
-   "oneri": "2 & Santos 0,5 Üst",
+   "pazar": "Sonuç ve Santos SP : Toplam Gol",
+   "oneri": "2 & Santos SP 0,5 Üst",
    "olasilik": 0.4824,
    "adil_oran": 2.07,
-   "en_olasi": "2 & Santos 0,5 Üst",
+   "en_olasi": "2 & Santos SP 0,5 Üst",
    "en_olasi_p": 0.4824,
    "guven": "yüksek",
    "not_": null,
    "secimler": [
     [
-     "1 & Santos 0,5 Üst",
+     "1 & Santos SP 0,5 Üst",
      0.0986
     ],
     [
-     "1 & Santos 0,5 Alt",
+     "1 & Santos SP 0,5 Alt",
      0.1468
     ],
     [
-     "X & Santos 0,5 Üst",
+     "X & Santos SP 0,5 Üst",
      0.1748
     ],
     [
-     "X & Santos 0,5 Alt",
+     "X & Santos SP 0,5 Alt",
      0.0975
     ],
     [
-     "2 & Santos 0,5 Üst",
+     "2 & Santos SP 0,5 Üst",
      0.4824
     ],
     [
-     "2 & Santos 0,5 Alt",
+     "2 & Santos SP 0,5 Alt",
      0.0
     ]
    ]
@@ -2409,7 +2409,7 @@
      0.0934
     ],
     [
-     "Santos her iki yarıda gol & 2",
+     "Santos SP her iki yarıda gol & 2",
      0.2168
     ]
    ]
@@ -2612,10 +2612,10 @@
    "kategori": "GOL SÜRESİ / İLK-SON GOL",
    "yontem": "gol-zaman",
    "pazar": "İlk Golü Atacak Takım",
-   "oneri": "Santos",
+   "oneri": "Santos SP",
    "olasilik": 0.5454,
    "adil_oran": 1.83,
-   "en_olasi": "Santos",
+   "en_olasi": "Santos SP",
    "en_olasi_p": 0.5454,
    "guven": "orta",
    "not_": null,
@@ -2629,7 +2629,7 @@
      0.0975
     ],
     [
-     "Santos",
+     "Santos SP",
      0.5454
     ]
    ]
@@ -2638,10 +2638,10 @@
    "kategori": "GOL SÜRESİ / İLK-SON GOL",
    "yontem": "gol-zaman",
    "pazar": "Son Golü Atacak Takım",
-   "oneri": "Santos",
+   "oneri": "Santos SP",
    "olasilik": 0.5456,
    "adil_oran": 1.83,
-   "en_olasi": "Santos",
+   "en_olasi": "Santos SP",
    "en_olasi_p": 0.5456,
    "guven": "orta",
    "not_": null,
@@ -2655,7 +2655,7 @@
      0.0975
     ],
     [
-     "Santos",
+     "Santos SP",
      0.5456
     ]
    ]
@@ -2781,7 +2781,7 @@
   {
    "kategori": "GOL SÜRESİ / İLK-SON GOL",
    "yontem": "gol-zaman",
-   "pazar": "Santos : 1. Gol Zamanı (10 dk. Ara)",
+   "pazar": "Santos SP : 1. Gol Zamanı (10 dk. Ara)",
    "oneri": "Gol yok",
    "olasilik": 0.2443,
    "adil_oran": 4.09,
@@ -2878,10 +2878,10 @@
    "kategori": "GOL SÜRESİ / İLK-SON GOL",
    "yontem": "gol-zaman",
    "pazar": "İlk Golü Atacak Takım ve Maç Sonucu",
-   "oneri": "İlk gol Santos & 2",
+   "oneri": "İlk gol Santos SP & 2",
    "olasilik": 0.4255,
    "adil_oran": 2.35,
-   "en_olasi": "İlk gol Santos & 2",
+   "en_olasi": "İlk gol Santos SP & 2",
    "en_olasi_p": 0.4255,
    "guven": "orta",
    "not_": null,
@@ -2899,15 +2899,15 @@
      0.0569
     ],
     [
-     "İlk gol Santos & 1",
+     "İlk gol Santos SP & 1",
      0.0318
     ],
     [
-     "İlk gol Santos & X",
+     "İlk gol Santos SP & X",
      0.0881
     ],
     [
-     "İlk gol Santos & 2",
+     "İlk gol Santos SP & 2",
      0.4255
     ],
     [
@@ -2920,10 +2920,10 @@
    "kategori": "GOL SÜRESİ / İLK-SON GOL",
    "yontem": "gol-zaman",
    "pazar": "İlk Golü Atacak Takım ve 1. Yarı Sonucu",
-   "oneri": "İlk gol Santos & İY 2",
+   "oneri": "İlk gol Santos SP & İY 2",
    "olasilik": 0.3316,
    "adil_oran": 3.02,
-   "en_olasi": "İlk gol Santos & İY 2",
+   "en_olasi": "İlk gol Santos SP & İY 2",
    "en_olasi_p": 0.3316,
    "guven": "orta",
    "not_": null,
@@ -2941,15 +2941,15 @@
      0.0123
     ],
     [
-     "İlk gol Santos & İY 1",
+     "İlk gol Santos SP & İY 1",
      0.0076
     ],
     [
-     "İlk gol Santos & İY X",
+     "İlk gol Santos SP & İY X",
      0.2062
     ],
     [
-     "İlk gol Santos & İY 2",
+     "İlk gol Santos SP & İY 2",
      0.3316
     ],
     [
@@ -2962,10 +2962,10 @@
    "kategori": "GOL SÜRESİ / İLK-SON GOL",
    "yontem": "gol-zaman",
    "pazar": "İlk Golü Atacak Takım ve 2. Yarı Sonucu",
-   "oneri": "İlk gol Santos & 2Y 2",
+   "oneri": "İlk gol Santos SP & 2Y 2",
    "olasilik": 0.2793,
    "adil_oran": 3.58,
-   "en_olasi": "İlk gol Santos & 2Y 2",
+   "en_olasi": "İlk gol Santos SP & 2Y 2",
    "en_olasi_p": 0.2793,
    "guven": "orta",
    "not_": null,
@@ -2983,15 +2983,15 @@
      0.1066
     ],
     [
-     "İlk gol Santos & 2Y 1",
+     "İlk gol Santos SP & 2Y 1",
      0.0899
     ],
     [
-     "İlk gol Santos & 2Y X",
+     "İlk gol Santos SP & 2Y X",
      0.1762
     ],
     [
-     "İlk gol Santos & 2Y 2",
+     "İlk gol Santos SP & 2Y 2",
      0.2793
     ],
     [
@@ -3196,10 +3196,10 @@
    "kategori": "DOĞRU SKOR",
    "yontem": "gol",
    "pazar": "Skor Kombinasyonları",
-   "oneri": "Santos 0-1/0-2/1-2",
+   "oneri": "Santos SP 0-1/0-2/1-2",
    "olasilik": 0.3237,
    "adil_oran": 3.09,
-   "en_olasi": "Santos 0-1/0-2/1-2",
+   "en_olasi": "Santos SP 0-1/0-2/1-2",
    "en_olasi_p": 0.3237,
    "guven": "yüksek",
    "not_": "Sitedeki gruplar farklı olabilir",
@@ -3217,11 +3217,11 @@
      0.225
     ],
     [
-     "Santos 0-1/0-2/1-2",
+     "Santos SP 0-1/0-2/1-2",
      0.3237
     ],
     [
-     "Santos 0-3/1-3/0-4",
+     "Santos SP 0-3/1-3/0-4",
      0.1016
     ],
     [
@@ -3347,7 +3347,7 @@
   {
    "kategori": "KAZANMA ŞEKLİ",
    "yontem": "gol",
-   "pazar": "Santos : Kesin Gol Farkıyla Kazanır",
+   "pazar": "Santos SP : Kesin Gol Farkıyla Kazanır",
    "oneri": "1 farkla",
    "olasilik": 0.2489,
    "adil_oran": 4.02,
@@ -3407,7 +3407,7 @@
   {
    "kategori": "KAZANMA ŞEKLİ",
    "yontem": "gol",
-   "pazar": "Santos Kazanır ve Kesin Gol Atar",
+   "pazar": "Santos SP Kazanır ve Kesin Gol Atar",
    "oneri": "Kazanır & 2 gol",
    "olasilik": 0.1845,
    "adil_oran": 5.42,
@@ -3459,7 +3459,7 @@
   {
    "kategori": "KAZANMA ŞEKLİ",
    "yontem": "gol",
-   "pazar": "Santos Gol Yemeden Kazanır",
+   "pazar": "Santos SP Gol Yemeden Kazanır",
    "oneri": "Hayır",
    "olasilik": 0.6993,
    "adil_oran": 1.43,
@@ -3503,7 +3503,7 @@
   {
    "kategori": "KAZANMA ŞEKLİ",
    "yontem": "gol",
-   "pazar": "Santos İki veya Üç Gol Farkla Kazanır",
+   "pazar": "Santos SP İki veya Üç Gol Farkla Kazanır",
    "oneri": "Hayır",
    "olasilik": 0.7933,
    "adil_oran": 1.26,
@@ -3547,7 +3547,7 @@
   {
    "kategori": "KAZANMA ŞEKLİ",
    "yontem": "gol",
-   "pazar": "Santos Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "pazar": "Santos SP Bir Gol Farkla Kazanır veya Berabere Kalır",
    "oneri": "Evet",
    "olasilik": 0.5212,
    "adil_oran": 1.92,
@@ -3591,7 +3591,7 @@
   {
    "kategori": "KAZANMA ŞEKLİ",
    "yontem": "gol",
-   "pazar": "Santos En Az Bir Yarıyı Kazanır",
+   "pazar": "Santos SP En Az Bir Yarıyı Kazanır",
    "oneri": "Evet",
    "olasilik": 0.5984,
    "adil_oran": 1.67,
@@ -3635,7 +3635,7 @@
   {
    "kategori": "KAZANMA ŞEKLİ",
    "yontem": "gol",
-   "pazar": "Santos İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "pazar": "Santos SP İlk Yarıyı Kazanır ve Maçı Kazanamaz",
    "oneri": "Hayır",
    "olasilik": 0.9407,
    "adil_oran": 1.06,
@@ -3675,7 +3675,7 @@
      0.455
     ],
     [
-     "2 (Santos)",
+     "2 (Santos SP)",
      0.3438
     ]
    ]
@@ -3778,28 +3778,28 @@
    "kategori": "1. YARI",
    "yontem": "gol-yari",
    "pazar": "1. Yarı 2. Takım Toplam Gol",
-   "oneri": "Santos 0,5 Alt",
+   "oneri": "Santos SP 0,5 Alt",
    "olasilik": 0.5383,
    "adil_oran": 1.86,
-   "en_olasi": "Santos 1,5 Alt",
+   "en_olasi": "Santos SP 1,5 Alt",
    "en_olasi_p": 0.8725,
    "guven": "yüksek",
    "not_": null,
    "secimler": [
     [
-     "Santos 0,5 Üst",
+     "Santos SP 0,5 Üst",
      0.4617
     ],
     [
-     "Santos 0,5 Alt",
+     "Santos SP 0,5 Alt",
      0.5383
     ],
     [
-     "Santos 1,5 Üst",
+     "Santos SP 1,5 Üst",
      0.1275
     ],
     [
-     "Santos 1,5 Alt",
+     "Santos SP 1,5 Alt",
      0.8725
     ]
    ]
@@ -3845,29 +3845,29 @@
   {
    "kategori": "1. YARI",
    "yontem": "gol-yari",
-   "pazar": "1. Yarı Santos Toplam Gol Asya",
-   "oneri": "Santos Asya 0,25 Üst",
+   "pazar": "1. Yarı Santos SP Toplam Gol Asya",
+   "oneri": "Santos SP Asya 0,25 Üst",
    "olasilik": 0.6317,
    "adil_oran": 1.58,
-   "en_olasi": "Santos Asya 0,25 Üst",
+   "en_olasi": "Santos SP Asya 0,25 Üst",
    "en_olasi_p": 0.6317,
    "guven": "yüksek",
    "not_": null,
    "secimler": [
     [
-     "Santos Asya 0,25 Üst",
+     "Santos SP Asya 0,25 Üst",
      0.6317
     ],
     [
-     "Santos Asya 0,25 Alt",
+     "Santos SP Asya 0,25 Alt",
      0.3683
     ],
     [
-     "Santos Asya 0,5 Üst",
+     "Santos SP Asya 0,5 Üst",
      0.4617
     ],
     [
-     "Santos Asya 0,5 Alt",
+     "Santos SP Asya 0,5 Alt",
      0.5383
     ]
    ]
@@ -3898,10 +3898,10 @@
    "kategori": "1. YARI",
    "yontem": "gol-yari",
    "pazar": "1. Yarı Gol Handikapı",
-   "oneri": "Santos +0,5",
+   "oneri": "Santos SP +0,5",
    "olasilik": 0.7989,
    "adil_oran": 1.25,
-   "en_olasi": "Santos +1,5",
+   "en_olasi": "Santos SP +1,5",
    "en_olasi_p": 0.9629,
    "guven": "yüksek",
    "not_": null,
@@ -3911,7 +3911,7 @@
      0.0371
     ],
     [
-     "Santos +1,5",
+     "Santos SP +1,5",
      0.9629
     ],
     [
@@ -3919,7 +3919,7 @@
      0.2011
     ],
     [
-     "Santos +0,5",
+     "Santos SP +0,5",
      0.7989
     ],
     [
@@ -3927,7 +3927,7 @@
      0.6562
     ],
     [
-     "Santos -0,5",
+     "Santos SP -0,5",
      0.3438
     ],
     [
@@ -3935,7 +3935,7 @@
      0.9081
     ],
     [
-     "Santos -1,5",
+     "Santos SP -1,5",
      0.0919
     ]
    ]
@@ -3944,10 +3944,10 @@
    "kategori": "1. YARI",
    "yontem": "gol-yari",
    "pazar": "1. Yarı Goller Asya Handikapı",
-   "oneri": "Santos Asya +0,5",
+   "oneri": "Santos SP Asya +0,5",
    "olasilik": 0.7989,
    "adil_oran": 1.25,
-   "en_olasi": "Santos Asya +0,5",
+   "en_olasi": "Santos SP Asya +0,5",
    "en_olasi_p": 0.7989,
    "guven": "yüksek",
    "not_": null,
@@ -3957,7 +3957,7 @@
      0.0444
     ],
     [
-     "Santos Asya -1",
+     "Santos SP Asya -1",
      0.1229
     ],
     [
@@ -3965,7 +3965,7 @@
      0.1297
     ],
     [
-     "Santos Asya -0,75",
+     "Santos SP Asya -0,75",
      0.2493
     ],
     [
@@ -3973,7 +3973,7 @@
      0.2011
     ],
     [
-     "Santos Asya -0,5",
+     "Santos SP Asya -0,5",
      0.3438
     ],
     [
@@ -3981,7 +3981,7 @@
      0.2604
     ],
     [
-     "Santos Asya -0,25",
+     "Santos SP Asya -0,25",
      0.4451
     ],
     [
@@ -3989,7 +3989,7 @@
      0.369
     ],
     [
-     "Santos Asya 0",
+     "Santos SP Asya 0",
      0.631
     ],
     [
@@ -3997,7 +3997,7 @@
      0.5549
     ],
     [
-     "Santos Asya +0,25",
+     "Santos SP Asya +0,25",
      0.7396
     ],
     [
@@ -4005,7 +4005,7 @@
      0.6562
     ],
     [
-     "Santos Asya +0,5",
+     "Santos SP Asya +0,5",
      0.7989
     ]
    ]
@@ -4014,10 +4014,10 @@
    "kategori": "1. YARI",
    "yontem": "gol-yari",
    "pazar": "1. Yarı Gol Handikapı 3 İhtimalli",
-   "oneri": "Santos (-1)",
+   "oneri": "Santos SP (-1)",
    "olasilik": 0.7989,
    "adil_oran": 1.25,
-   "en_olasi": "Santos (-2)",
+   "en_olasi": "Santos SP (-2)",
    "en_olasi_p": 0.9629,
    "guven": "yüksek",
    "not_": null,
@@ -4031,7 +4031,7 @@
      0.0323
     ],
     [
-     "Santos (-2)",
+     "Santos SP (-2)",
      0.9629
     ],
     [
@@ -4043,7 +4043,7 @@
      0.164
     ],
     [
-     "Santos (-1)",
+     "Santos SP (-1)",
      0.7989
     ],
     [
@@ -4055,7 +4055,7 @@
      0.2519
     ],
     [
-     "Santos (+1)",
+     "Santos SP (+1)",
      0.0919
     ],
     [
@@ -4067,7 +4067,7 @@
      0.0745
     ],
     [
-     "Santos (+2)",
+     "Santos SP (+2)",
      0.0174
     ]
    ]
@@ -4233,7 +4233,7 @@
   {
    "kategori": "1. YARI",
    "yontem": "gol-yari",
-   "pazar": "1. Yarı Santos Toplam Gol (Aralık)",
+   "pazar": "1. Yarı Santos SP Toplam Gol (Aralık)",
    "oneri": "0 gol",
    "olasilik": 0.5383,
    "adil_oran": 1.86,
@@ -4413,7 +4413,7 @@
   {
    "kategori": "1. YARI",
    "yontem": "gol-yari",
-   "pazar": "1. Yarı Santos Toplam Gol (Kesin)",
+   "pazar": "1. Yarı Santos SP Toplam Gol (Kesin)",
    "oneri": "0 gol",
    "olasilik": 0.5383,
    "adil_oran": 1.86,
@@ -4469,7 +4469,7 @@
   {
    "kategori": "1. YARI",
    "yontem": "gol-yari",
-   "pazar": "1. Yarı Santos Kazanır Kesin Gol Farkla",
+   "pazar": "1. Yarı Santos SP Kazanır Kesin Gol Farkla",
    "oneri": "1 farkla",
    "olasilik": 0.2519,
    "adil_oran": 3.97,
@@ -4517,7 +4517,7 @@
   {
    "kategori": "1. YARI",
    "yontem": "gol-yari",
-   "pazar": "1. Yarı Santos Sıfıra Karşı Kazanır",
+   "pazar": "1. Yarı Santos SP Sıfıra Karşı Kazanır",
    "oneri": "Hayır",
    "olasilik": 0.6919,
    "adil_oran": 1.45,
@@ -4540,10 +4540,10 @@
    "kategori": "1. YARI",
    "yontem": "gol-yari",
    "pazar": "1. Yarı İlk Golü Atacak Takım",
-   "oneri": "Santos",
+   "oneri": "Santos SP",
    "olasilik": 0.3879,
    "adil_oran": 2.58,
-   "en_olasi": "Santos",
+   "en_olasi": "Santos SP",
    "en_olasi_p": 0.3879,
    "guven": "yüksek",
    "not_": null,
@@ -4557,7 +4557,7 @@
      0.3595
     ],
     [
-     "Santos",
+     "Santos SP",
      0.3879
     ]
    ]
@@ -4566,10 +4566,10 @@
    "kategori": "1. YARI",
    "yontem": "gol-yari",
    "pazar": "1. Yarı Son Golü Atacak Takım",
-   "oneri": "Santos",
+   "oneri": "Santos SP",
    "olasilik": 0.3866,
    "adil_oran": 2.59,
-   "en_olasi": "Santos",
+   "en_olasi": "Santos SP",
    "en_olasi_p": 0.3866,
    "guven": "yüksek",
    "not_": null,
@@ -4583,7 +4583,7 @@
      0.3595
     ],
     [
-     "Santos",
+     "Santos SP",
      0.3866
     ]
    ]
@@ -4691,7 +4691,7 @@
      0.3941
     ],
     [
-     "2 (Santos)",
+     "2 (Santos SP)",
      0.3859
     ]
    ]
@@ -4793,29 +4793,29 @@
   {
    "kategori": "2. YARI",
    "yontem": "gol-yari",
-   "pazar": "2. Yarı Santos Toplam Gol",
-   "oneri": "Santos 1,5 Alt",
+   "pazar": "2. Yarı Santos SP Toplam Gol",
+   "oneri": "Santos SP 1,5 Alt",
    "olasilik": 0.8145,
    "adil_oran": 1.23,
-   "en_olasi": "Santos 1,5 Alt",
+   "en_olasi": "Santos SP 1,5 Alt",
    "en_olasi_p": 0.8145,
    "guven": "yüksek",
    "not_": null,
    "secimler": [
     [
-     "Santos 0,5 Üst",
+     "Santos SP 0,5 Üst",
      0.5443
     ],
     [
-     "Santos 0,5 Alt",
+     "Santos SP 0,5 Alt",
      0.4557
     ],
     [
-     "Santos 1,5 Üst",
+     "Santos SP 1,5 Üst",
      0.1855
     ],
     [
-     "Santos 1,5 Alt",
+     "Santos SP 1,5 Alt",
      0.8145
     ]
    ]
@@ -4846,10 +4846,10 @@
    "kategori": "2. YARI",
    "yontem": "gol-yari",
    "pazar": "2. Yarı Gol Handikapı",
-   "oneri": "Santos +0,5",
+   "oneri": "Santos SP +0,5",
    "olasilik": 0.78,
    "adil_oran": 1.28,
-   "en_olasi": "Santos +1,5",
+   "en_olasi": "Santos SP +1,5",
    "en_olasi_p": 0.9517,
    "guven": "yüksek",
    "not_": null,
@@ -4859,7 +4859,7 @@
      0.0483
     ],
     [
-     "Santos +1,5",
+     "Santos SP +1,5",
      0.9517
     ],
     [
@@ -4867,7 +4867,7 @@
      0.22
     ],
     [
-     "Santos +0,5",
+     "Santos SP +0,5",
      0.78
     ],
     [
@@ -4875,7 +4875,7 @@
      0.6141
     ],
     [
-     "Santos -0,5",
+     "Santos SP -0,5",
      0.3859
     ],
     [
@@ -4883,7 +4883,7 @@
      0.8751
     ],
     [
-     "Santos -1,5",
+     "Santos SP -1,5",
      0.1249
     ]
    ]
@@ -4892,10 +4892,10 @@
    "kategori": "2. YARI",
    "yontem": "gol-yari",
    "pazar": "2. Yarı Gol Handikapı 3 İhtimalli",
-   "oneri": "Santos (-1)",
+   "oneri": "Santos SP (-1)",
    "olasilik": 0.78,
    "adil_oran": 1.28,
-   "en_olasi": "Santos (-2)",
+   "en_olasi": "Santos SP (-2)",
    "en_olasi_p": 0.9517,
    "guven": "yüksek",
    "not_": null,
@@ -4909,7 +4909,7 @@
      0.0405
     ],
     [
-     "Santos (-2)",
+     "Santos SP (-2)",
      0.9517
     ],
     [
@@ -4921,7 +4921,7 @@
      0.1717
     ],
     [
-     "Santos (-1)",
+     "Santos SP (-1)",
      0.78
     ],
     [
@@ -4933,7 +4933,7 @@
      0.261
     ],
     [
-     "Santos (+1)",
+     "Santos SP (+1)",
      0.1249
     ],
     [
@@ -4945,7 +4945,7 @@
      0.0959
     ],
     [
-     "Santos (+2)",
+     "Santos SP (+2)",
      0.029
     ]
    ]
@@ -5047,7 +5047,7 @@
   {
    "kategori": "2. YARI",
    "yontem": "gol-yari",
-   "pazar": "2. Yarı Santos Toplam Gol (Aralık)",
+   "pazar": "2. Yarı Santos SP Toplam Gol (Aralık)",
    "oneri": "0 gol",
    "olasilik": 0.4557,
    "adil_oran": 2.19,
@@ -5227,7 +5227,7 @@
   {
    "kategori": "2. YARI",
    "yontem": "gol-yari",
-   "pazar": "2. Yarı Santos Toplam Gol (Kesin)",
+   "pazar": "2. Yarı Santos SP Toplam Gol (Kesin)",
    "oneri": "0 gol",
    "olasilik": 0.4557,
    "adil_oran": 2.19,
@@ -5283,7 +5283,7 @@
   {
    "kategori": "2. YARI",
    "yontem": "gol-yari",
-   "pazar": "2. Yarı Santos Kazanır Kesin Gol Farkla",
+   "pazar": "2. Yarı Santos SP Kazanır Kesin Gol Farkla",
    "oneri": "1 farkla",
    "olasilik": 0.261,
    "adil_oran": 3.83,
@@ -5331,7 +5331,7 @@
   {
    "kategori": "2. YARI",
    "yontem": "gol-yari",
-   "pazar": "2. Yarı Santos Sıfıra Karşı Kazanır",
+   "pazar": "2. Yarı Santos SP Sıfıra Karşı Kazanır",
    "oneri": "Hayır",
    "olasilik": 0.6755,
    "adil_oran": 1.48,
@@ -5354,10 +5354,10 @@
    "kategori": "2. YARI",
    "yontem": "gol-yari",
    "pazar": "2. Yarı İlk Golü Atacak Takım",
-   "oneri": "Santos",
+   "oneri": "Santos SP",
    "olasilik": 0.4395,
    "adil_oran": 2.28,
-   "en_olasi": "Santos",
+   "en_olasi": "Santos SP",
    "en_olasi_p": 0.4395,
    "guven": "yüksek",
    "not_": null,
@@ -5371,7 +5371,7 @@
      0.2722
     ],
     [
-     "Santos",
+     "Santos SP",
      0.4395
     ]
    ]
@@ -5380,10 +5380,10 @@
    "kategori": "2. YARI",
    "yontem": "gol-yari",
    "pazar": "2. Yarı Son Golü Atacak Takım",
-   "oneri": "Santos",
+   "oneri": "Santos SP",
    "olasilik": 0.4396,
    "adil_oran": 2.27,
-   "en_olasi": "Santos",
+   "en_olasi": "Santos SP",
    "en_olasi_p": 0.4396,
    "guven": "yüksek",
    "not_": null,
@@ -5397,7 +5397,7 @@
      0.2722
     ],
     [
-     "Santos",
+     "Santos SP",
      0.4396
     ]
    ]
@@ -5721,7 +5721,7 @@
   {
    "kategori": "YARI KARŞILAŞTIRMA",
    "yontem": "gol-yari",
-   "pazar": "Santos : En Çok Gol Attığı Yarı",
+   "pazar": "Santos SP : En Çok Gol Attığı Yarı",
    "oneri": "Eşit",
    "olasilik": 0.3787,
    "adil_oran": 2.64,
@@ -5769,7 +5769,7 @@
   {
    "kategori": "YARI KARŞILAŞTIRMA",
    "yontem": "gol-yari",
-   "pazar": "Santos Her İki Yarıda Gol Atar",
+   "pazar": "Santos SP Her İki Yarıda Gol Atar",
    "oneri": "Hayır",
    "olasilik": 0.7497,
    "adil_oran": 1.33,
@@ -5813,7 +5813,7 @@
   {
    "kategori": "YARI KARŞILAŞTIRMA",
    "yontem": "gol-yari",
-   "pazar": "Santos İlk Yarıda Gol Atar",
+   "pazar": "Santos SP İlk Yarıda Gol Atar",
    "oneri": "Hayır",
    "olasilik": 0.5383,
    "adil_oran": 1.86,
@@ -5857,7 +5857,7 @@
   {
    "kategori": "YARI KARŞILAŞTIRMA",
    "yontem": "gol-yari",
-   "pazar": "Santos İkinci Yarıda Gol Atar",
+   "pazar": "Santos SP İkinci Yarıda Gol Atar",
    "oneri": "Evet",
    "olasilik": 0.5443,
    "adil_oran": 1.84,
@@ -5997,7 +5997,7 @@
   {
    "kategori": "YARI KARŞILAŞTIRMA",
    "yontem": "gol-yari",
-   "pazar": "Santos Gol Atar İlk Yarı/İkinci Yarı",
+   "pazar": "Santos SP Gol Atar İlk Yarı/İkinci Yarı",
    "oneri": "Hayır/Evet",
    "olasilik": 0.294,
    "adil_oran": 3.4,
@@ -6183,21 +6183,21 @@
   {
    "kategori": "DAKİKA ARALIKLARI",
    "yontem": "gol-zaman",
-   "pazar": "Santos : İlk 10 Dakika (00:00 - 09:59) Kornerler",
-   "oneri": "Santos 0,5 Alt",
+   "pazar": "Santos SP : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Santos SP 0,5 Alt",
    "olasilik": 0.5545,
    "adil_oran": 1.8,
-   "en_olasi": "Santos 0,5 Alt",
+   "en_olasi": "Santos SP 0,5 Alt",
    "en_olasi_p": 0.5545,
    "guven": "orta",
    "not_": null,
    "secimler": [
     [
-     "Santos 0,5 Üst",
+     "Santos SP 0,5 Üst",
      0.4455
     ],
     [
-     "Santos 0,5 Alt",
+     "Santos SP 0,5 Alt",
      0.5545
     ]
    ]
@@ -6245,7 +6245,7 @@
      0.7557
     ],
     [
-     "2 (Santos)",
+     "2 (Santos SP)",
      0.1496
     ]
    ]
@@ -6254,10 +6254,10 @@
    "kategori": "DAKİKA ARALIKLARI",
    "yontem": "gol-zaman",
    "pazar": "1-15 Dk. Gol Handikapı",
-   "oneri": "Santos (-1)",
+   "oneri": "Santos SP (-1)",
    "olasilik": 0.9053,
    "adil_oran": 1.1,
-   "en_olasi": "Santos (-1)",
+   "en_olasi": "Santos SP (-1)",
    "en_olasi_p": 0.9053,
    "guven": "orta",
    "not_": null,
@@ -6271,7 +6271,7 @@
      0.0887
     ],
     [
-     "Santos (-1)",
+     "Santos SP (-1)",
      0.9053
     ],
     [
@@ -6283,7 +6283,7 @@
      0.1361
     ],
     [
-     "Santos (+1)",
+     "Santos SP (+1)",
      0.0135
     ]
    ]
@@ -6351,21 +6351,21 @@
   {
    "kategori": "DAKİKA ARALIKLARI",
    "yontem": "gol-zaman",
-   "pazar": "1-15 Dk. Santos Toplam Goller",
-   "oneri": "Santos 0,5 Alt",
+   "pazar": "1-15 Dk. Santos SP Toplam Goller",
+   "oneri": "Santos SP 0,5 Alt",
    "olasilik": 0.833,
    "adil_oran": 1.2,
-   "en_olasi": "Santos 0,5 Alt",
+   "en_olasi": "Santos SP 0,5 Alt",
    "en_olasi_p": 0.833,
    "guven": "orta",
    "not_": null,
    "secimler": [
     [
-     "Santos 0,5 Üst",
+     "Santos SP 0,5 Üst",
      0.167
     ],
     [
-     "Santos 0,5 Alt",
+     "Santos SP 0,5 Alt",
      0.833
     ]
    ]
@@ -6413,7 +6413,7 @@
      0.5869
     ],
     [
-     "2 (Santos)",
+     "2 (Santos SP)",
      0.2566
     ]
    ]
@@ -6425,7 +6425,7 @@
    "oneri": "Coritiba (+1)",
    "olasilik": 0.7434,
    "adil_oran": 1.35,
-   "en_olasi": "Santos (-1)",
+   "en_olasi": "Santos SP (-1)",
    "en_olasi_p": 0.8436,
    "guven": "orta",
    "not_": null,
@@ -6439,7 +6439,7 @@
      0.1372
     ],
     [
-     "Santos (-1)",
+     "Santos SP (-1)",
      0.8436
     ],
     [
@@ -6451,7 +6451,7 @@
      0.2129
     ],
     [
-     "Santos (+1)",
+     "Santos SP (+1)",
      0.0438
     ]
    ]
@@ -6519,21 +6519,21 @@
   {
    "kategori": "DAKİKA ARALIKLARI",
    "yontem": "gol-zaman",
-   "pazar": "1-30 Dk. Santos Toplam Goller",
-   "oneri": "Santos 0,5 Alt",
+   "pazar": "1-30 Dk. Santos SP Toplam Goller",
+   "oneri": "Santos SP 0,5 Alt",
    "olasilik": 0.6843,
    "adil_oran": 1.46,
-   "en_olasi": "Santos 0,5 Alt",
+   "en_olasi": "Santos SP 0,5 Alt",
    "en_olasi_p": 0.6843,
    "guven": "orta",
    "not_": null,
    "secimler": [
     [
-     "Santos 0,5 Üst",
+     "Santos SP 0,5 Üst",
      0.3157
     ],
     [
-     "Santos 0,5 Alt",
+     "Santos SP 0,5 Alt",
      0.6843
     ]
    ]
@@ -6542,10 +6542,10 @@
    "kategori": "DAKİKA ARALIKLARI",
    "yontem": "gol-zaman",
    "pazar": "1-60 Dk. Galibi",
-   "oneri": "2 (Santos)",
+   "oneri": "2 (Santos SP)",
    "olasilik": 0.3972,
    "adil_oran": 2.52,
-   "en_olasi": "2 (Santos)",
+   "en_olasi": "2 (Santos SP)",
    "en_olasi_p": 0.3972,
    "guven": "orta",
    "not_": null,
@@ -6559,7 +6559,7 @@
      0.3787
     ],
     [
-     "2 (Santos)",
+     "2 (Santos SP)",
      0.3972
     ]
    ]
@@ -6568,10 +6568,10 @@
    "kategori": "DAKİKA ARALIKLARI",
    "yontem": "gol-zaman",
    "pazar": "1-60 Dk. Gol Handikapı",
-   "oneri": "Santos +0,5",
+   "oneri": "Santos SP +0,5",
    "olasilik": 0.7759,
    "adil_oran": 1.29,
-   "en_olasi": "Santos +1,5",
+   "en_olasi": "Santos SP +1,5",
    "en_olasi_p": 0.9472,
    "guven": "orta",
    "not_": null,
@@ -6581,7 +6581,7 @@
      0.0528
     ],
     [
-     "Santos +1,5",
+     "Santos SP +1,5",
      0.9472
     ],
     [
@@ -6589,7 +6589,7 @@
      0.2241
     ],
     [
-     "Santos +0,5",
+     "Santos SP +0,5",
      0.7759
     ],
     [
@@ -6597,7 +6597,7 @@
      0.6028
     ],
     [
-     "Santos -0,5",
+     "Santos SP -0,5",
      0.3972
     ]
    ]
@@ -6673,21 +6673,21 @@
   {
    "kategori": "DAKİKA ARALIKLARI",
    "yontem": "gol-zaman",
-   "pazar": "1-60 Dk. Santos Toplam Goller",
-   "oneri": "Santos 0,5 Üst",
+   "pazar": "1-60 Dk. Santos SP Toplam Goller",
+   "oneri": "Santos SP 0,5 Üst",
    "olasilik": 0.5673,
    "adil_oran": 1.76,
-   "en_olasi": "Santos 0,5 Üst",
+   "en_olasi": "Santos SP 0,5 Üst",
    "en_olasi_p": 0.5673,
    "guven": "orta",
    "not_": null,
    "secimler": [
     [
-     "Santos 0,5 Üst",
+     "Santos SP 0,5 Üst",
      0.5673
     ],
     [
-     "Santos 0,5 Alt",
+     "Santos SP 0,5 Alt",
      0.4327
     ]
    ]
@@ -6718,10 +6718,10 @@
    "kategori": "DAKİKA ARALIKLARI",
    "yontem": "gol-zaman",
    "pazar": "1-75 Dk. Galibi",
-   "oneri": "2 (Santos)",
+   "oneri": "2 (Santos SP)",
    "olasilik": 0.4389,
    "adil_oran": 2.28,
-   "en_olasi": "2 (Santos)",
+   "en_olasi": "2 (Santos SP)",
    "en_olasi_p": 0.4389,
    "guven": "orta",
    "not_": null,
@@ -6735,7 +6735,7 @@
      0.3241
     ],
     [
-     "2 (Santos)",
+     "2 (Santos SP)",
      0.4389
     ]
    ]
@@ -6744,10 +6744,10 @@
    "kategori": "DAKİKA ARALIKLARI",
    "yontem": "gol-zaman",
    "pazar": "1-75 Dk. Gol Handikapı",
-   "oneri": "Santos +0,5",
+   "oneri": "Santos SP +0,5",
    "olasilik": 0.763,
    "adil_oran": 1.31,
-   "en_olasi": "Santos +1,5",
+   "en_olasi": "Santos SP +1,5",
    "en_olasi_p": 0.9324,
    "guven": "orta",
    "not_": null,
@@ -6757,7 +6757,7 @@
      0.0676
     ],
     [
-     "Santos +1,5",
+     "Santos SP +1,5",
      0.9324
     ],
     [
@@ -6765,7 +6765,7 @@
      0.237
     ],
     [
-     "Santos +0,5",
+     "Santos SP +0,5",
      0.763
     ],
     [
@@ -6773,7 +6773,7 @@
      0.5611
     ],
     [
-     "Santos -0,5",
+     "Santos SP -0,5",
      0.4389
     ]
    ]
@@ -6849,21 +6849,21 @@
   {
    "kategori": "DAKİKA ARALIKLARI",
    "yontem": "gol-zaman",
-   "pazar": "1-75 Dk. Santos Toplam Goller",
-   "oneri": "Santos 0,5 Üst",
+   "pazar": "1-75 Dk. Santos SP Toplam Goller",
+   "oneri": "Santos SP 0,5 Üst",
    "olasilik": 0.6582,
    "adil_oran": 1.52,
-   "en_olasi": "Santos 0,5 Üst",
+   "en_olasi": "Santos SP 0,5 Üst",
    "en_olasi_p": 0.6582,
    "guven": "orta",
    "not_": null,
    "secimler": [
     [
-     "Santos 0,5 Üst",
+     "Santos SP 0,5 Üst",
      0.6582
     ],
     [
-     "Santos 0,5 Alt",
+     "Santos SP 0,5 Alt",
      0.3418
     ]
    ]
@@ -7078,10 +7078,10 @@
    "kategori": "KORNER",
    "yontem": "korner",
    "pazar": "Kornerler : Sonuç",
-   "oneri": "2 (Santos)",
+   "oneri": "2 (Santos SP)",
    "olasilik": 0.5115,
    "adil_oran": 1.95,
-   "en_olasi": "2 (Santos)",
+   "en_olasi": "2 (Santos SP)",
    "en_olasi_p": 0.5115,
    "guven": "orta",
    "not_": null,
@@ -7095,7 +7095,7 @@
      0.1151
     ],
     [
-     "2 (Santos)",
+     "2 (Santos SP)",
      0.5115
     ]
    ]
@@ -7211,45 +7211,45 @@
   {
    "kategori": "KORNER",
    "yontem": "korner",
-   "pazar": "Toplam Korner : Santos",
-   "oneri": "Santos 4,5 Üst",
+   "pazar": "Toplam Korner : Santos SP",
+   "oneri": "Santos SP 4,5 Üst",
    "olasilik": 0.741,
    "adil_oran": 1.35,
-   "en_olasi": "Santos 1,5 Üst",
+   "en_olasi": "Santos SP 1,5 Üst",
    "en_olasi_p": 0.9854,
    "guven": "orta",
    "not_": null,
    "secimler": [
     [
-     "Santos 1,5 Üst",
+     "Santos SP 1,5 Üst",
      0.9854
     ],
     [
-     "Santos 1,5 Alt",
+     "Santos SP 1,5 Alt",
      0.0146
     ],
     [
-     "Santos 2,5 Üst",
+     "Santos SP 2,5 Üst",
      0.9463
     ],
     [
-     "Santos 2,5 Alt",
+     "Santos SP 2,5 Alt",
      0.0537
     ],
     [
-     "Santos 3,5 Üst",
+     "Santos SP 3,5 Üst",
      0.8665
     ],
     [
-     "Santos 3,5 Alt",
+     "Santos SP 3,5 Alt",
      0.1335
     ],
     [
-     "Santos 4,5 Üst",
+     "Santos SP 4,5 Üst",
      0.741
     ],
     [
-     "Santos 4,5 Alt",
+     "Santos SP 4,5 Alt",
      0.259
     ]
    ]
@@ -7258,10 +7258,10 @@
    "kategori": "KORNER",
    "yontem": "korner",
    "pazar": "Kornerler : Handikap",
-   "oneri": "Santos +2,5",
+   "oneri": "Santos SP +2,5",
    "olasilik": 0.8193,
    "adil_oran": 1.22,
-   "en_olasi": "Santos +4,5",
+   "en_olasi": "Santos SP +4,5",
    "en_olasi_p": 0.9337,
    "guven": "orta",
    "not_": null,
@@ -7271,7 +7271,7 @@
      0.0663
     ],
     [
-     "Santos +4,5",
+     "Santos SP +4,5",
      0.9337
     ],
     [
@@ -7279,7 +7279,7 @@
      0.114
     ],
     [
-     "Santos +3,5",
+     "Santos SP +3,5",
      0.886
     ],
     [
@@ -7287,7 +7287,7 @@
      0.1807
     ],
     [
-     "Santos +2,5",
+     "Santos SP +2,5",
      0.8193
     ],
     [
@@ -7295,7 +7295,7 @@
      0.2683
     ],
     [
-     "Santos +1,5",
+     "Santos SP +1,5",
      0.7317
     ],
     [
@@ -7303,7 +7303,7 @@
      0.3733
     ],
     [
-     "Santos +0,5",
+     "Santos SP +0,5",
      0.6267
     ],
     [
@@ -7311,7 +7311,7 @@
      0.4885
     ],
     [
-     "Santos -0,5",
+     "Santos SP -0,5",
      0.5115
     ],
     [
@@ -7319,7 +7319,7 @@
      0.6035
     ],
     [
-     "Santos -1,5",
+     "Santos SP -1,5",
      0.3965
     ],
     [
@@ -7327,7 +7327,7 @@
      0.7116
     ],
     [
-     "Santos -2,5",
+     "Santos SP -2,5",
      0.2884
     ]
    ]
@@ -7435,7 +7435,7 @@
      0.4432
     ],
     [
-     "İlk 3 korner Santos",
+     "İlk 3 korner Santos SP",
      0.541
     ],
     [
@@ -7447,7 +7447,7 @@
      0.3918
     ],
     [
-     "İlk 5 korner Santos",
+     "İlk 5 korner Santos SP",
      0.5124
     ],
     [
@@ -7459,7 +7459,7 @@
      0.2524
     ],
     [
-     "İlk 7 korner Santos",
+     "İlk 7 korner Santos SP",
      0.3582
     ],
     [
@@ -7471,7 +7471,7 @@
      0.1023
     ],
     [
-     "İlk 9 korner Santos",
+     "İlk 9 korner Santos SP",
      0.1638
     ],
     [
@@ -7484,10 +7484,10 @@
    "kategori": "KORNER",
    "yontem": "korner",
    "pazar": "Kornerler : 1. Yarı Sonucu",
-   "oneri": "2 (Santos)",
+   "oneri": "2 (Santos SP)",
    "olasilik": 0.4638,
    "adil_oran": 2.16,
-   "en_olasi": "2 (Santos)",
+   "en_olasi": "2 (Santos SP)",
    "en_olasi_p": 0.4638,
    "guven": "orta",
    "not_": null,
@@ -7501,7 +7501,7 @@
      0.1706
     ],
     [
-     "2 (Santos)",
+     "2 (Santos SP)",
      0.4638
     ]
    ]
@@ -7510,10 +7510,10 @@
    "kategori": "KORNER",
    "yontem": "korner",
    "pazar": "Kornerler : 1. Yarı Handikap",
-   "oneri": "Santos +1,5",
+   "oneri": "Santos SP +1,5",
    "olasilik": 0.7821,
    "adil_oran": 1.28,
-   "en_olasi": "Santos +2,5",
+   "en_olasi": "Santos SP +2,5",
    "en_olasi_p": 0.8871,
    "guven": "orta",
    "not_": null,
@@ -7523,7 +7523,7 @@
      0.1129
     ],
     [
-     "Santos +2,5",
+     "Santos SP +2,5",
      0.8871
     ],
     [
@@ -7531,7 +7531,7 @@
      0.2179
     ],
     [
-     "Santos +1,5",
+     "Santos SP +1,5",
      0.7821
     ],
     [
@@ -7539,7 +7539,7 @@
      0.3656
     ],
     [
-     "Santos +0,5",
+     "Santos SP +0,5",
      0.6344
     ],
     [
@@ -7547,7 +7547,7 @@
      0.5362
     ],
     [
-     "Santos -0,5",
+     "Santos SP -0,5",
      0.4638
     ]
    ]
@@ -7631,29 +7631,29 @@
   {
    "kategori": "KORNER",
    "yontem": "korner",
-   "pazar": "Kornerler : 1. Yarı Santos Toplam",
-   "oneri": "Santos 1,5 Üst",
+   "pazar": "Kornerler : 1. Yarı Santos SP Toplam",
+   "oneri": "Santos SP 1,5 Üst",
    "olasilik": 0.7886,
    "adil_oran": 1.27,
-   "en_olasi": "Santos 0,5 Üst",
+   "en_olasi": "Santos SP 0,5 Üst",
    "en_olasi_p": 0.9458,
    "guven": "orta",
    "not_": null,
    "secimler": [
     [
-     "Santos 0,5 Üst",
+     "Santos SP 0,5 Üst",
      0.9458
     ],
     [
-     "Santos 0,5 Alt",
+     "Santos SP 0,5 Alt",
      0.0542
     ],
     [
-     "Santos 1,5 Üst",
+     "Santos SP 1,5 Üst",
      0.7886
     ],
     [
-     "Santos 1,5 Alt",
+     "Santos SP 1,5 Alt",
      0.2114
     ]
    ]
@@ -7700,10 +7700,10 @@
    "kategori": "KORNER",
    "yontem": "korner",
    "pazar": "Kornerler : İlk Korner",
-   "oneri": "Santos",
+   "oneri": "Santos SP",
    "olasilik": 0.5136,
    "adil_oran": 1.95,
-   "en_olasi": "Santos",
+   "en_olasi": "Santos SP",
    "en_olasi_p": 0.5136,
    "guven": "orta",
    "not_": null,
@@ -7713,7 +7713,7 @@
      0.4863
     ],
     [
-     "Santos",
+     "Santos SP",
      0.5136
     ],
     [
@@ -7726,10 +7726,10 @@
    "kategori": "KORNER",
    "yontem": "korner",
    "pazar": "Kornerler : Son Korner",
-   "oneri": "Santos",
+   "oneri": "Santos SP",
    "olasilik": 0.5101,
    "adil_oran": 1.96,
-   "en_olasi": "Santos",
+   "en_olasi": "Santos SP",
    "en_olasi_p": 0.5101,
    "guven": "orta",
    "not_": null,
@@ -7739,7 +7739,7 @@
      0.4899
     ],
     [
-     "Santos",
+     "Santos SP",
      0.5101
     ],
     [
@@ -7795,7 +7795,7 @@
      0.1759
     ],
     [
-     "2 (Santos)",
+     "2 (Santos SP)",
      0.3334
     ]
    ]
@@ -7817,7 +7817,7 @@
      0.3041
     ],
     [
-     "Santos +15,5",
+     "Santos SP +15,5",
      0.6959
     ],
     [
@@ -7825,7 +7825,7 @@
      0.4838
     ],
     [
-     "Santos +5,5",
+     "Santos SP +5,5",
      0.5162
     ],
     [
@@ -7833,7 +7833,7 @@
      0.674
     ],
     [
-     "Santos -5,5",
+     "Santos SP -5,5",
      0.326
     ],
     [
@@ -7841,7 +7841,7 @@
      0.8229
     ],
     [
-     "Santos -15,5",
+     "Santos SP -15,5",
      0.1771
     ]
    ]
@@ -7933,45 +7933,45 @@
   {
    "kategori": "KART (PUAN)",
    "yontem": "kart",
-   "pazar": "Kartlar : Santos : Toplam Kart Puanı",
-   "oneri": "Santos 25,5 Alt",
+   "pazar": "Kartlar : Santos SP : Toplam Kart Puanı",
+   "oneri": "Santos SP 25,5 Alt",
    "olasilik": 0.6824,
    "adil_oran": 1.47,
-   "en_olasi": "Santos 5,5 Üst",
+   "en_olasi": "Santos SP 5,5 Üst",
    "en_olasi_p": 0.8505,
    "guven": "orta",
    "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
    "secimler": [
     [
-     "Santos 5,5 Üst",
+     "Santos SP 5,5 Üst",
      0.8505
     ],
     [
-     "Santos 5,5 Alt",
+     "Santos SP 5,5 Alt",
      0.1495
     ],
     [
-     "Santos 15,5 Üst",
+     "Santos SP 15,5 Üst",
      0.5775
     ],
     [
-     "Santos 15,5 Alt",
+     "Santos SP 15,5 Alt",
      0.4225
     ],
     [
-     "Santos 25,5 Üst",
+     "Santos SP 25,5 Üst",
      0.3176
     ],
     [
-     "Santos 25,5 Alt",
+     "Santos SP 25,5 Alt",
      0.6824
     ],
     [
-     "Santos 35,5 Üst",
+     "Santos SP 35,5 Üst",
      0.1505
     ],
     [
-     "Santos 35,5 Alt",
+     "Santos SP 35,5 Alt",
      0.8495
     ]
    ]
@@ -8077,29 +8077,29 @@
   {
    "kategori": "KART (PUAN)",
    "yontem": "kart",
-   "pazar": "Kartlar : 1. Yarı : Santos : Toplam Kart Puanı",
-   "oneri": "Santos 5,5 Alt",
+   "pazar": "Kartlar : 1. Yarı : Santos SP : Toplam Kart Puanı",
+   "oneri": "Santos SP 5,5 Alt",
    "olasilik": 0.5044,
    "adil_oran": 1.98,
-   "en_olasi": "Santos 15,5 Alt",
+   "en_olasi": "Santos SP 15,5 Alt",
    "en_olasi_p": 0.8386,
    "guven": "orta",
    "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
    "secimler": [
     [
-     "Santos 5,5 Üst",
+     "Santos SP 5,5 Üst",
      0.4956
     ],
     [
-     "Santos 5,5 Alt",
+     "Santos SP 5,5 Alt",
      0.5044
     ],
     [
-     "Santos 15,5 Üst",
+     "Santos SP 15,5 Üst",
      0.1614
     ],
     [
-     "Santos 15,5 Alt",
+     "Santos SP 15,5 Alt",
      0.8386
     ]
    ]
@@ -8137,37 +8137,37 @@
   {
    "kategori": "KART (PUAN)",
    "yontem": "kart",
-   "pazar": "Kartlar : 2. Yarı : Santos : Toplam Kart Puanı",
-   "oneri": "Santos 5,5 Üst",
+   "pazar": "Kartlar : 2. Yarı : Santos SP : Toplam Kart Puanı",
+   "oneri": "Santos SP 5,5 Üst",
    "olasilik": 0.7049,
    "adil_oran": 1.42,
-   "en_olasi": "Santos 25,5 Alt",
+   "en_olasi": "Santos SP 25,5 Alt",
    "en_olasi_p": 0.8555,
    "guven": "orta",
    "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
    "secimler": [
     [
-     "Santos 5,5 Üst",
+     "Santos SP 5,5 Üst",
      0.7049
     ],
     [
-     "Santos 5,5 Alt",
+     "Santos SP 5,5 Alt",
      0.2951
     ],
     [
-     "Santos 15,5 Üst",
+     "Santos SP 15,5 Üst",
      0.3566
     ],
     [
-     "Santos 15,5 Alt",
+     "Santos SP 15,5 Alt",
      0.6434
     ],
     [
-     "Santos 25,5 Üst",
+     "Santos SP 25,5 Üst",
      0.1445
     ],
     [
-     "Santos 25,5 Alt",
+     "Santos SP 25,5 Alt",
      0.8555
     ]
    ]
@@ -8321,7 +8321,7 @@
      0.5433
     ],
     [
-     "Santos",
+     "Santos SP",
      0.4427
     ],
     [
@@ -8347,7 +8347,7 @@
      0.5422
     ],
     [
-     "Santos",
+     "Santos SP",
      0.4437
     ],
     [
@@ -8477,7 +8477,7 @@
   {
    "kategori": "KART (GENEL)",
    "yontem": "kart",
-   "pazar": "Santos : Kırmızı Kart",
+   "pazar": "Santos SP : Kırmızı Kart",
    "oneri": "Hayır",
    "olasilik": 0.9425,
    "adil_oran": 1.06,
@@ -8561,7 +8561,7 @@
      0.1962
     ],
     [
-     "2 (Santos)",
+     "2 (Santos SP)",
      0.318
     ]
    ]
@@ -8596,7 +8596,7 @@
    "kategori": "SARI KART",
    "yontem": "kart",
    "pazar": "Sarı Kartlar : Handikap",
-   "oneri": "Santos +1,5",
+   "oneri": "Santos SP +1,5",
    "olasilik": 0.7052,
    "adil_oran": 1.42,
    "en_olasi": "Coritiba +1,5",
@@ -8609,7 +8609,7 @@
      0.2948
     ],
     [
-     "Santos +1,5",
+     "Santos SP +1,5",
      0.7052
     ],
     [
@@ -8617,7 +8617,7 @@
      0.4858
     ],
     [
-     "Santos +0,5",
+     "Santos SP +0,5",
      0.5142
     ],
     [
@@ -8625,7 +8625,7 @@
      0.682
     ],
     [
-     "Santos -0,5",
+     "Santos SP -0,5",
      0.318
     ],
     [
@@ -8633,7 +8633,7 @@
      0.8375
     ],
     [
-     "Santos -1,5",
+     "Santos SP -1,5",
      0.1625
     ]
    ]
@@ -8725,45 +8725,45 @@
   {
    "kategori": "SARI KART",
    "yontem": "kart",
-   "pazar": "Sarı Kartlar : Santos : Toplam",
-   "oneri": "Santos 2,5 Alt",
+   "pazar": "Sarı Kartlar : Santos SP : Toplam",
+   "oneri": "Santos SP 2,5 Alt",
    "olasilik": 0.7112,
    "adil_oran": 1.41,
-   "en_olasi": "Santos 3,5 Alt",
+   "en_olasi": "Santos SP 3,5 Alt",
    "en_olasi_p": 0.8783,
    "guven": "orta",
    "not_": null,
    "secimler": [
     [
-     "Santos 0,5 Üst",
+     "Santos SP 0,5 Üst",
      0.8462
     ],
     [
-     "Santos 0,5 Alt",
+     "Santos SP 0,5 Alt",
      0.1538
     ],
     [
-     "Santos 1,5 Üst",
+     "Santos SP 1,5 Üst",
      0.5605
     ],
     [
-     "Santos 1,5 Alt",
+     "Santos SP 1,5 Alt",
      0.4395
     ],
     [
-     "Santos 2,5 Üst",
+     "Santos SP 2,5 Üst",
      0.2888
     ],
     [
-     "Santos 2,5 Alt",
+     "Santos SP 2,5 Alt",
      0.7112
     ],
     [
-     "Santos 3,5 Üst",
+     "Santos SP 3,5 Üst",
      0.1217
     ],
     [
-     "Santos 3,5 Alt",
+     "Santos SP 3,5 Alt",
      0.8783
     ]
    ]
@@ -8789,7 +8789,7 @@
      0.364
     ],
     [
-     "2 (Santos)",
+     "2 (Santos SP)",
      0.2711
     ]
    ]
@@ -8811,7 +8811,7 @@
      0.365
     ],
     [
-     "Santos +0,5",
+     "Santos SP +0,5",
      0.635
     ],
     [
@@ -8819,7 +8819,7 @@
      0.7289
     ],
     [
-     "Santos -0,5",
+     "Santos SP -0,5",
      0.2711
     ]
    ]
@@ -8895,29 +8895,29 @@
   {
    "kategori": "SARI KART",
    "yontem": "kart",
-   "pazar": "Sarı Kartlar : 1. Yarı Santos Toplam",
-   "oneri": "Santos 0,5 Alt",
+   "pazar": "Sarı Kartlar : 1. Yarı Santos SP Toplam",
+   "oneri": "Santos SP 0,5 Alt",
    "olasilik": 0.5104,
    "adil_oran": 1.96,
-   "en_olasi": "Santos 1,5 Alt",
+   "en_olasi": "Santos SP 1,5 Alt",
    "en_olasi_p": 0.8521,
    "guven": "orta",
    "not_": null,
    "secimler": [
     [
-     "Santos 0,5 Üst",
+     "Santos SP 0,5 Üst",
      0.4896
     ],
     [
-     "Santos 0,5 Alt",
+     "Santos SP 0,5 Alt",
      0.5104
     ],
     [
-     "Santos 1,5 Üst",
+     "Santos SP 1,5 Üst",
      0.1479
     ],
     [
-     "Santos 1,5 Alt",
+     "Santos SP 1,5 Alt",
      0.8521
     ]
    ]
@@ -8943,7 +8943,7 @@
      0.2539
     ],
     [
-     "2 (Santos)",
+     "2 (Santos SP)",
      0.3068
     ]
    ]
@@ -8965,7 +8965,7 @@
      0.4393
     ],
     [
-     "Santos +0,5",
+     "Santos SP +0,5",
      0.5607
     ],
     [
@@ -8973,7 +8973,7 @@
      0.6932
     ],
     [
-     "Santos -0,5",
+     "Santos SP -0,5",
      0.3068
     ]
    ]
@@ -9063,7 +9063,7 @@
      0.543
     ],
     [
-     "Santos",
+     "Santos SP",
      0.4421
     ],
     [
@@ -9089,7 +9089,7 @@
      0.5416
     ],
     [
-     "Santos",
+     "Santos SP",
      0.4436
     ],
     [
@@ -9145,7 +9145,7 @@
   {
    "kategori": "PENALTI",
    "yontem": "penalti",
-   "pazar": "Santos : Penaltı Kazanır",
+   "pazar": "Santos SP : Penaltı Kazanır",
    "oneri": "Hayır",
    "olasilik": 0.685,
    "adil_oran": 1.46,
@@ -9429,7 +9429,7 @@
    "oneri": "Coritiba kalecisi 1,5 Üst",
    "olasilik": 0.833,
    "adil_oran": 1.2,
-   "en_olasi": "Santos kalecisi 4,5 Alt",
+   "en_olasi": "Santos SP kalecisi 4,5 Alt",
    "en_olasi_p": 0.9369,
    "guven": "düşük",
    "not_": "Rakibin beklenen golünden türetildi",
@@ -9467,35 +9467,35 @@
      0.776
     ],
     [
-     "Santos kalecisi 1,5 Üst",
+     "Santos SP kalecisi 1,5 Üst",
      0.6237
     ],
     [
-     "Santos kalecisi 1,5 Alt",
+     "Santos SP kalecisi 1,5 Alt",
      0.3763
     ],
     [
-     "Santos kalecisi 2,5 Üst",
+     "Santos SP kalecisi 2,5 Üst",
      0.3549
     ],
     [
-     "Santos kalecisi 2,5 Alt",
+     "Santos SP kalecisi 2,5 Alt",
      0.6451
     ],
     [
-     "Santos kalecisi 3,5 Üst",
+     "Santos SP kalecisi 3,5 Üst",
      0.1649
     ],
     [
-     "Santos kalecisi 3,5 Alt",
+     "Santos SP kalecisi 3,5 Alt",
      0.8351
     ],
     [
-     "Santos kalecisi 4,5 Üst",
+     "Santos SP kalecisi 4,5 Üst",
      0.0631
     ],
     [
-     "Santos kalecisi 4,5 Alt",
+     "Santos SP kalecisi 4,5 Alt",
      0.9369
     ]
    ]

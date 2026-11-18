@@ -1,0 +1,922 @@
+[
+ {
+  "secim": "Toplam Goller 1,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.3264,
+  "oran": 4.1,
+  "deger": 0.3382399999999999
+ },
+ {
+  "secim": "Sarı Kartlar 1",
+  "pazar": "Sarı Kartlar : Sonuç",
+  "etiket": "1 (Coritiba)",
+  "olasilik": 0.4858,
+  "oran": 2.65,
+  "deger": 0.2873699999999999
+ },
+ {
+  "secim": "Toplam Goller 2,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.5904,
+  "oran": 2.14,
+  "deger": 0.26345600000000013
+ },
+ {
+  "secim": "Coritiba : Toplam Gol 0,5 Alt",
+  "pazar": "Coritiba : Toplam Gol",
+  "etiket": "Coritiba 0,5 Alt",
+  "olasilik": 0.3982,
+  "oran": 3.15,
+  "deger": 0.25432999999999995
+ },
+ {
+  "secim": "Coritiba : Gol Atar Hayır",
+  "pazar": "Coritiba : Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.3982,
+  "oran": 3.15,
+  "deger": 0.25432999999999995
+ },
+ {
+  "secim": "Her İki Takımda Gol Atar Hayır",
+  "pazar": "Her İki Takımda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.545,
+  "oran": 2.3,
+  "deger": 0.25350000000000006
+ },
+ {
+  "secim": "Sarı Kartlar : Santos SP : Toplam 2,5 Alt",
+  "pazar": "Sarı Kartlar : Santos SP : Toplam",
+  "etiket": "Santos SP 2,5 Alt",
+  "olasilik": 0.7112,
+  "oran": 1.67,
+  "deger": 0.1877040000000001
+ },
+ {
+  "secim": "Her İki Yarıda Gol Olur Hayır",
+  "pazar": "Her İki Yarıda Gol Olur",
+  "etiket": "Hayır",
+  "olasilik": 0.5343,
+  "oran": 2.21,
+  "deger": 0.18080300000000005
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 0,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.2722,
+  "oran": 4.3,
+  "deger": 0.17045999999999983
+ },
+ {
+  "secim": "İkinci Yarıda Gol Hayır",
+  "pazar": "İkinci Yarıda Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.2722,
+  "oran": 4.3,
+  "deger": 0.17045999999999983
+ },
+ {
+  "secim": "Santos SP : Toplam Gol 0,5 Alt",
+  "pazar": "Santos SP : Toplam Gol",
+  "etiket": "Santos SP 0,5 Alt",
+  "olasilik": 0.2443,
+  "oran": 4.75,
+  "deger": 0.16042500000000004
+ },
+ {
+  "secim": "Santos SP : Gol Atar Hayır",
+  "pazar": "Santos SP : Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.2443,
+  "oran": 4.75,
+  "deger": 0.16042500000000004
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 1,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.6279,
+  "oran": 1.84,
+  "deger": 0.15533600000000014
+ },
+ {
+  "secim": "Toplam Goller 3,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 3,5 Alt",
+  "olasilik": 0.7951,
+  "oran": 1.45,
+  "deger": 0.152895
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 0,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.3595,
+  "oran": 3.2,
+  "deger": 0.1504000000000001
+ },
+ {
+  "secim": "Santos SP Gol Yemeden Kazanır Evet",
+  "pazar": "Santos SP Gol Yemeden Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.3007,
+  "oran": 3.75,
+  "deger": 0.1276250000000001
+ },
+ {
+  "secim": "Coritiba : Toplam Gol 1,5 Alt",
+  "pazar": "Coritiba : Toplam Gol",
+  "etiket": "Coritiba 1,5 Alt",
+  "olasilik": 0.7653,
+  "oran": 1.47,
+  "deger": 0.12499099999999985
+ },
+ {
+  "secim": "Coritiba : İkinci Yarıda Gol Atar Hayır",
+  "pazar": "Coritiba : İkinci Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.5967,
+  "oran": 1.88,
+  "deger": 0.12179600000000002
+ },
+ {
+  "secim": "Santos SP : Toplam Gol 1,5 Alt",
+  "pazar": "Santos SP : Toplam Gol",
+  "etiket": "Santos SP 1,5 Alt",
+  "olasilik": 0.5922,
+  "oran": 1.89,
+  "deger": 0.11925799999999986
+ },
+ {
+  "secim": "İlk Yarıda Gol Hayır",
+  "pazar": "İlk Yarıda Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.3595,
+  "oran": 3.08,
+  "deger": 0.10725999999999991
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 1,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.7274,
+  "oran": 1.5,
+  "deger": 0.09109999999999996
+ },
+ {
+  "secim": "2. Yarı Karşılıklı Gol Hayır",
+  "pazar": "2. Yarı Karşılıklı Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.7802,
+  "oran": 1.38,
+  "deger": 0.07667599999999997
+ },
+ {
+  "secim": "Santos SP İkinci Yarıda Gol Atar Hayır",
+  "pazar": "Santos SP İkinci Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.4557,
+  "oran": 2.35,
+  "deger": 0.07089499999999993
+ },
+ {
+  "secim": "Toplam Goller 4,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 4,5 Alt",
+  "olasilik": 0.9132,
+  "oran": 1.17,
+  "deger": 0.06844399999999995
+ },
+ {
+  "secim": "Coritiba : İlk Yarıda Gol Atar Hayır",
+  "pazar": "Coritiba : İlk Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.6676,
+  "oran": 1.6,
+  "deger": 0.06816
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 2,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.857,
+  "oran": 1.24,
+  "deger": 0.06268000000000007
+ },
+ {
+  "secim": "Santos SP İlk Yarıda Gol Atar Hayır",
+  "pazar": "Santos SP İlk Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.5383,
+  "oran": 1.96,
+  "deger": 0.055067999999999895
+ },
+ {
+  "secim": "Santos SP : Toplam Gol 2,5 Alt",
+  "pazar": "Santos SP : Toplam Gol",
+  "etiket": "Santos SP 2,5 Alt",
+  "olasilik": 0.8331,
+  "oran": 1.26,
+  "deger": 0.04970600000000003
+ },
+ {
+  "secim": "Kornerler : Toplam 11,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 11,5 Üst",
+  "olasilik": 0.5132,
+  "oran": 2.04,
+  "deger": 0.04692800000000008
+ },
+ {
+  "secim": "1. Yarı Karşılıklı Gol Hayır",
+  "pazar": "1. Yarı Karşılıklı Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.8464,
+  "oran": 1.23,
+  "deger": 0.041072
+ },
+ {
+  "secim": "Sarı Kartlar : Toplam 4,5 Alt",
+  "pazar": "Sarı Kartlar : Toplam",
+  "etiket": "Toplam 4,5 Alt",
+  "olasilik": 0.5894,
+  "oran": 1.76,
+  "deger": 0.037344000000000044
+ },
+ {
+  "secim": "Coritiba : Toplam Gol 2,5 Alt",
+  "pazar": "Coritiba : Toplam Gol",
+  "etiket": "Coritiba 2,5 Alt",
+  "olasilik": 0.9337,
+  "oran": 1.11,
+  "deger": 0.03640700000000008
+ },
+ {
+  "secim": "Kornerler : Toplam 10,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 10,5 Üst",
+  "olasilik": 0.629,
+  "oran": 1.64,
+  "deger": 0.03156000000000003
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 2,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.9149,
+  "oran": 1.12,
+  "deger": 0.024688000000000043
+ },
+ {
+  "secim": "Coritiba En Az Bir Yarıyı Kazanır Hayır",
+  "pazar": "Coritiba En Az Bir Yarıyı Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.6236,
+  "oran": 1.64,
+  "deger": 0.022704000000000057
+ },
+ {
+  "secim": "Toplam Korner : Coritiba 5,5 Üst",
+  "pazar": "Toplam Korner : Coritiba",
+  "etiket": "Coritiba 5,5 Üst",
+  "olasilik": 0.4866,
+  "oran": 2.1,
+  "deger": 0.02185999999999999
+ },
+ {
+  "secim": "Toplam Goller 5,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 5,5 Alt",
+  "olasilik": 0.9673,
+  "oran": 1.055,
+  "deger": 0.02050149999999995
+ },
+ {
+  "secim": "Kornerler : Toplam 9,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 9,5 Üst",
+  "olasilik": 0.7379,
+  "oran": 1.38,
+  "deger": 0.01830199999999982
+ },
+ {
+  "secim": "Kornerler : Toplam 7,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 7,5 Üst",
+  "olasilik": 0.9006,
+  "oran": 1.13,
+  "deger": 0.01767799999999986
+ },
+ {
+  "secim": "Toplam Korner : Coritiba 6,5 Üst",
+  "pazar": "Toplam Korner : Coritiba",
+  "etiket": "Coritiba 6,5 Üst",
+  "olasilik": 0.3273,
+  "oran": 3.1,
+  "deger": 0.01462999999999992
+ },
+ {
+  "secim": "Toplam Korner : Coritiba 4,5 Üst",
+  "pazar": "Toplam Korner : Coritiba",
+  "etiket": "Coritiba 4,5 Üst",
+  "olasilik": 0.6552,
+  "oran": 1.54,
+  "deger": 0.009008000000000127
+ },
+ {
+  "secim": "Santos SP : Toplam Gol 3,5 Alt",
+  "pazar": "Santos SP : Toplam Gol",
+  "etiket": "Santos SP 3,5 Alt",
+  "olasilik": 0.9459,
+  "oran": 1.065,
+  "deger": 0.007383499999999987
+ },
+ {
+  "secim": "Toplam Goller 0,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.0975,
+  "oran": 10.25,
+  "deger": -0.0006249999999999867
+ },
+ {
+  "secim": "1. Yarı X",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "X",
+  "olasilik": 0.455,
+  "oran": 2.19,
+  "deger": -0.003549999999999942
+ },
+ {
+  "secim": "Toplam Korner : Santos SP 4,5 Üst",
+  "pazar": "Toplam Korner : Santos SP",
+  "etiket": "Santos SP 4,5 Üst",
+  "olasilik": 0.741,
+  "oran": 1.34,
+  "deger": -0.007059999999999955
+ },
+ {
+  "secim": "2. Yarı X",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "X",
+  "olasilik": 0.3941,
+  "oran": 2.48,
+  "deger": -0.022631999999999985
+ },
+ {
+  "secim": "Çifte Şans X2",
+  "pazar": "Çifte Şans",
+  "etiket": "X2",
+  "olasilik": 0.7547,
+  "oran": 1.29,
+  "deger": -0.026436999999999933
+ },
+ {
+  "secim": "En gollü yarı Eşit",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "Eşit",
+  "olasilik": 0.2792,
+  "oran": 3.41,
+  "deger": -0.04792799999999997
+ },
+ {
+  "secim": "2",
+  "pazar": "Maç Sonucu",
+  "etiket": "2 (Santos SP)",
+  "olasilik": 0.4824,
+  "oran": 1.97,
+  "deger": -0.04967200000000005
+ },
+ {
+  "secim": "Beraberlikte İade Santos SP",
+  "pazar": "Beraberlikte İade",
+  "etiket": "Santos SP",
+  "olasilik": 0.6629,
+  "oran": 1.43,
+  "deger": -0.052053000000000016
+ },
+ {
+  "secim": "X",
+  "pazar": "Maç Sonucu",
+  "etiket": "X",
+  "olasilik": 0.2723,
+  "oran": 3.45,
+  "deger": -0.06056499999999998
+ },
+ {
+  "secim": "Çifte Şans 12",
+  "pazar": "Çifte Şans",
+  "etiket": "12",
+  "olasilik": 0.7277,
+  "oran": 1.29,
+  "deger": -0.06126699999999996
+ },
+ {
+  "secim": "Kornerler 1",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "1 (Coritiba)",
+  "olasilik": 0.3733,
+  "oran": 2.5,
+  "deger": -0.06674999999999998
+ },
+ {
+  "secim": "Coritiba Gol Yemeden Kazanır Hayır",
+  "pazar": "Coritiba Gol Yemeden Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.8532,
+  "oran": 1.09,
+  "deger": -0.07001199999999996
+ },
+ {
+  "secim": "Toplam Goller 0,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.9025,
+  "oran": 1.029,
+  "deger": -0.0713275000000001
+ },
+ {
+  "secim": "Toplam gol Tek",
+  "pazar": "Toplam Gol Tek/Çift",
+  "etiket": "Tek",
+  "olasilik": 0.4955,
+  "oran": 1.87,
+  "deger": -0.07341500000000001
+ },
+ {
+  "secim": "Toplam gol Çift",
+  "pazar": "Toplam Gol Tek/Çift",
+  "etiket": "Çift",
+  "olasilik": 0.5044,
+  "oran": 1.83,
+  "deger": -0.07694800000000002
+ },
+ {
+  "secim": "Çifte Şans 1X",
+  "pazar": "Çifte Şans",
+  "etiket": "1X",
+  "olasilik": 0.5176,
+  "oran": 1.75,
+  "deger": -0.09420000000000006
+ },
+ {
+  "secim": "Coritiba Gol Yemeden Kazanır Evet",
+  "pazar": "Coritiba Gol Yemeden Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.1468,
+  "oran": 6.15,
+  "deger": -0.09717999999999982
+ },
+ {
+  "secim": "Toplam Korner : Coritiba 6,5 Alt",
+  "pazar": "Toplam Korner : Coritiba",
+  "etiket": "Coritiba 6,5 Alt",
+  "olasilik": 0.6727,
+  "oran": 1.32,
+  "deger": -0.11203600000000002
+ },
+ {
+  "secim": "Sarı Kartlar X",
+  "pazar": "Sarı Kartlar : Sonuç",
+  "etiket": "X",
+  "olasilik": 0.1962,
+  "oran": 4.5,
+  "deger": -0.11709999999999998
+ },
+ {
+  "secim": "Santos SP : Toplam Gol 0,5 Üst",
+  "pazar": "Santos SP : Toplam Gol",
+  "etiket": "Santos SP 0,5 Üst",
+  "olasilik": 0.7557,
+  "oran": 1.16,
+  "deger": -0.12338800000000005
+ },
+ {
+  "secim": "Santos SP : Gol Atar Evet",
+  "pazar": "Santos SP : Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.7557,
+  "oran": 1.16,
+  "deger": -0.12338800000000005
+ },
+ {
+  "secim": "Kornerler 2",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "2 (Santos SP)",
+  "olasilik": 0.5115,
+  "oran": 1.71,
+  "deger": -0.12533500000000009
+ },
+ {
+  "secim": "İlk gol Santos SP",
+  "pazar": "İlk Golü Atacak Takım",
+  "etiket": "Santos SP",
+  "olasilik": 0.5454,
+  "oran": 1.59,
+  "deger": -0.132814
+ },
+ {
+  "secim": "1",
+  "pazar": "Maç Sonucu",
+  "etiket": "1 (Coritiba)",
+  "olasilik": 0.2453,
+  "oran": 3.52,
+  "deger": -0.136544
+ },
+ {
+  "secim": "Santos SP Gol Yemeden Kazanır Hayır",
+  "pazar": "Santos SP Gol Yemeden Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.6993,
+  "oran": 1.23,
+  "deger": -0.139861
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 0,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.7278,
+  "oran": 1.18,
+  "deger": -0.141196
+ },
+ {
+  "secim": "İkinci Yarıda Gol Evet",
+  "pazar": "İkinci Yarıda Gol",
+  "etiket": "Evet",
+  "olasilik": 0.7278,
+  "oran": 1.18,
+  "deger": -0.141196
+ },
+ {
+  "secim": "Toplam Korner : Coritiba 5,5 Alt",
+  "pazar": "Toplam Korner : Coritiba",
+  "etiket": "Coritiba 5,5 Alt",
+  "olasilik": 0.5134,
+  "oran": 1.65,
+  "deger": -0.15289000000000008
+ },
+ {
+  "secim": "Kornerler X",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "X",
+  "olasilik": 0.1151,
+  "oran": 7.3,
+  "deger": -0.15977000000000008
+ },
+ {
+  "secim": "2. Yarı 2",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "2 (Santos SP)",
+  "olasilik": 0.3859,
+  "oran": 2.16,
+  "deger": -0.16645599999999994
+ },
+ {
+  "secim": "Santos SP İkinci Yarıda Gol Atar Evet",
+  "pazar": "Santos SP İkinci Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.5443,
+  "oran": 1.53,
+  "deger": -0.16722099999999995
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 0,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.6405,
+  "oran": 1.3,
+  "deger": -0.16735
+ },
+ {
+  "secim": "İlk Yarıda Gol Evet",
+  "pazar": "İlk Yarıda Gol",
+  "etiket": "Evet",
+  "olasilik": 0.6405,
+  "oran": 1.3,
+  "deger": -0.16735
+ },
+ {
+  "secim": "1. Yarı 2",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "2 (Santos SP)",
+  "olasilik": 0.3438,
+  "oran": 2.4,
+  "deger": -0.17488000000000004
+ },
+ {
+  "secim": "Kornerler : Toplam 11,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 11,5 Alt",
+  "olasilik": 0.4868,
+  "oran": 1.69,
+  "deger": -0.17730800000000002
+ },
+ {
+  "secim": "Beraberlikte İade Coritiba",
+  "pazar": "Beraberlikte İade",
+  "etiket": "Coritiba",
+  "olasilik": 0.3371,
+  "oran": 2.43,
+  "deger": -0.18084699999999987
+ },
+ {
+  "secim": "Toplam Goller 1,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.6736,
+  "oran": 1.21,
+  "deger": -0.184944
+ },
+ {
+  "secim": "En gollü yarı 1. Yarı",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "1. Yarı",
+  "olasilik": 0.293,
+  "oran": 2.78,
+  "deger": -0.18546000000000007
+ },
+ {
+  "secim": "En gollü yarı 2. Yarı",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "2. Yarı",
+  "olasilik": 0.4279,
+  "oran": 1.9,
+  "deger": -0.18699
+ },
+ {
+  "secim": "Toplam Korner : Coritiba 4,5 Alt",
+  "pazar": "Toplam Korner : Coritiba",
+  "etiket": "Coritiba 4,5 Alt",
+  "olasilik": 0.3448,
+  "oran": 2.33,
+  "deger": -0.196616
+ },
+ {
+  "secim": "Santos SP İlk Yarıda Gol Atar Evet",
+  "pazar": "Santos SP İlk Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.4617,
+  "oran": 1.74,
+  "deger": -0.19664199999999998
+ },
+ {
+  "secim": "Coritiba En Az Bir Yarıyı Kazanır Evet",
+  "pazar": "Coritiba En Az Bir Yarıyı Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.3764,
+  "oran": 2.12,
+  "deger": -0.20203199999999988
+ },
+ {
+  "secim": "Sarı Kartlar : Toplam 4,5 Üst",
+  "pazar": "Sarı Kartlar : Toplam",
+  "etiket": "Toplam 4,5 Üst",
+  "olasilik": 0.4106,
+  "oran": 1.94,
+  "deger": -0.20343599999999995
+ },
+ {
+  "secim": "Coritiba : Toplam Gol 0,5 Üst",
+  "pazar": "Coritiba : Toplam Gol",
+  "etiket": "Coritiba 0,5 Üst",
+  "olasilik": 0.6018,
+  "oran": 1.32,
+  "deger": -0.20562399999999992
+ },
+ {
+  "secim": "Coritiba : Gol Atar Evet",
+  "pazar": "Coritiba : Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.6018,
+  "oran": 1.32,
+  "deger": -0.20562399999999992
+ },
+ {
+  "secim": "Kornerler : Toplam 10,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 10,5 Alt",
+  "olasilik": 0.371,
+  "oran": 2.12,
+  "deger": -0.21348
+ },
+ {
+  "secim": "Toplam Korner : Santos SP 4,5 Alt",
+  "pazar": "Toplam Korner : Santos SP",
+  "etiket": "Santos SP 4,5 Alt",
+  "olasilik": 0.259,
+  "oran": 3.0,
+  "deger": -0.22299999999999998
+ },
+ {
+  "secim": "Santos SP : Toplam Gol 1,5 Üst",
+  "pazar": "Santos SP : Toplam Gol",
+  "etiket": "Santos SP 1,5 Üst",
+  "olasilik": 0.4078,
+  "oran": 1.85,
+  "deger": -0.24556999999999995
+ },
+ {
+  "secim": "İlk gol Coritiba",
+  "pazar": "İlk Golü Atacak Takım",
+  "etiket": "Coritiba",
+  "olasilik": 0.3571,
+  "oran": 2.09,
+  "deger": -0.25366100000000014
+ },
+ {
+  "secim": "Her İki Yarıda Gol Olur Evet",
+  "pazar": "Her İki Yarıda Gol Olur",
+  "etiket": "Evet",
+  "olasilik": 0.4657,
+  "oran": 1.59,
+  "deger": -0.2595369999999999
+ },
+ {
+  "secim": "1. Yarı 1",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "1 (Coritiba)",
+  "olasilik": 0.2011,
+  "oran": 3.65,
+  "deger": -0.265985
+ },
+ {
+  "secim": "Coritiba : İkinci Yarıda Gol Atar Evet",
+  "pazar": "Coritiba : İkinci Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.4033,
+  "oran": 1.82,
+  "deger": -0.26599399999999995
+ },
+ {
+  "secim": "Kornerler : Toplam 9,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 9,5 Alt",
+  "olasilik": 0.2621,
+  "oran": 2.8,
+  "deger": -0.26612
+ },
+ {
+  "secim": "Coritiba : İlk Yarıda Gol Atar Evet",
+  "pazar": "Coritiba : İlk Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.3324,
+  "oran": 2.2,
+  "deger": -0.26871999999999996
+ },
+ {
+  "secim": "Her İki Takımda Gol Atar Evet",
+  "pazar": "Her İki Takımda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.455,
+  "oran": 1.57,
+  "deger": -0.28564999999999996
+ },
+ {
+  "secim": "2. Yarı 1",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "1 (Coritiba)",
+  "olasilik": 0.22,
+  "oran": 3.19,
+  "deger": -0.2982
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 1,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.3721,
+  "oran": 1.86,
+  "deger": -0.307894
+ },
+ {
+  "secim": "Toplam Goller 2,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.4096,
+  "oran": 1.66,
+  "deger": -0.320064
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 1,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.2726,
+  "oran": 2.4,
+  "deger": -0.34575999999999996
+ },
+ {
+  "secim": "Sarı Kartlar 2",
+  "pazar": "Sarı Kartlar : Sonuç",
+  "etiket": "2 (Santos SP)",
+  "olasilik": 0.318,
+  "oran": 1.94,
+  "deger": -0.38308
+ },
+ {
+  "secim": "2. Yarı Karşılıklı Gol Evet",
+  "pazar": "2. Yarı Karşılıklı Gol",
+  "etiket": "Evet",
+  "olasilik": 0.2198,
+  "oran": 2.8,
+  "deger": -0.38456
+ },
+ {
+  "secim": "Coritiba : Toplam Gol 1,5 Üst",
+  "pazar": "Coritiba : Toplam Gol",
+  "etiket": "Coritiba 1,5 Üst",
+  "olasilik": 0.2347,
+  "oran": 2.57,
+  "deger": -0.3968210000000001
+ },
+ {
+  "secim": "Santos SP : Toplam Gol 2,5 Üst",
+  "pazar": "Santos SP : Toplam Gol",
+  "etiket": "Santos SP 2,5 Üst",
+  "olasilik": 0.1669,
+  "oran": 3.6,
+  "deger": -0.39915999999999996
+ },
+ {
+  "secim": "Sarı Kartlar : Santos SP : Toplam 2,5 Üst",
+  "pazar": "Sarı Kartlar : Santos SP : Toplam",
+  "etiket": "Santos SP 2,5 Üst",
+  "olasilik": 0.2888,
+  "oran": 2.07,
+  "deger": -0.4021840000000001
+ },
+ {
+  "secim": "1. Yarı Karşılıklı Gol Evet",
+  "pazar": "1. Yarı Karşılıklı Gol",
+  "etiket": "Evet",
+  "olasilik": 0.1536,
+  "oran": 3.75,
+  "deger": -0.42400000000000004
+ },
+ {
+  "secim": "Toplam Goller 3,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 3,5 Üst",
+  "olasilik": 0.2049,
+  "oran": 2.62,
+  "deger": -0.46316199999999996
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 2,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.143,
+  "oran": 3.65,
+  "deger": -0.4780500000000001
+ },
+ {
+  "secim": "Kornerler : Toplam 7,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 7,5 Alt",
+  "olasilik": 0.0994,
+  "oran": 5.1,
+  "deger": -0.49306000000000005
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 2,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.0851,
+  "oran": 5.35,
+  "deger": -0.5447150000000001
+ },
+ {
+  "secim": "Santos SP : Toplam Gol 3,5 Üst",
+  "pazar": "Santos SP : Toplam Gol",
+  "etiket": "Santos SP 3,5 Üst",
+  "olasilik": 0.0541,
+  "oran": 7.7,
+  "deger": -0.5834299999999999
+ },
+ {
+  "secim": "Coritiba : Toplam Gol 2,5 Üst",
+  "pazar": "Coritiba : Toplam Gol",
+  "etiket": "Coritiba 2,5 Üst",
+  "olasilik": 0.0663,
+  "oran": 6.0,
+  "deger": -0.6022000000000001
+ },
+ {
+  "secim": "Toplam Goller 4,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 4,5 Üst",
+  "olasilik": 0.0868,
+  "oran": 4.55,
+  "deger": -0.6050599999999999
+ },
+ {
+  "secim": "Toplam Goller 5,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 5,5 Üst",
+  "olasilik": 0.0327,
+  "oran": 8.2,
+  "deger": -0.73186
+ }
+]
