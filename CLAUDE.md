@@ -25,4 +25,13 @@ Kullanıcı Türkçe konuşur; tüm yanıtlar Türkçe olmalı.
 3. Sayfa verisi: `veri/maclar.json` dizinine maçı ekle (ana öneri, gerekçe, riskler, kaynaklar) ve `veri/<slug>.json` ince sürümünü üret (bkz. git geçmişi: `-tam.json` → `{ev,dep,beklenen_gol,simulasyon,pazarlar:[{k,y,p,g,n,s}]}`).
 4. Sayfa: `sayfa/mac-onu.html`, yayın adresi https://claude.ai/artifact/UYrg8ESS8tYYVNpMHhi1CE (`veri/*.json` dosyalarıyla birlikte yayımlanır).
 - Oyuncu istatistik pazarları (şut, pas, faul vb.) oyuncu başına 90 dk verisi girilmeden değerlendirilmez.
-- Bu ortamda istatistik sitelerine doğrudan erişim yok; veriler web aramasıyla toplanıyor.
+- Ağ erişimi sınırsız (17.11'den beri). SofaScore ve FBref otomatik erişimi kendileri engelliyor (403).
+
+## Araştırma kuralı: "bulamadım" yok
+Kullanıcı açıkça istedi: her eksik bilgi için tüm kaynaklar sırayla taranır, tek kaynakta durulmaz.
+1. FotMob API: `api/data/matches?date=YYYYMMDD`, `api/data/matchDetails?matchId=`. infoBox.Referee.stats → hakemin maç başı sarı/kırmızı/penaltı/faul ortalaması; teamForm → son 5 maçın her biri için matchDetails (korner, kart, xG); lineup; h2h; oddspoll Facts.
+2. Transfermarkt: hakem profili (`/profil/schiedsrichter/<id>`, arama `schnellsuche?query=`), kadro, sakatlıklar.
+3. Flashscore, footballwebpages.co.uk (alt ligler), worldfootball.net, soccerway, lig resmi siteleri.
+4. WebSearch (standard, gerekirse extended) farklı dillerde (TR, EN, maçın ülkesinin dili).
+5. Lord Palace sayfası (lp4.js ile kaydırarak): oranlar + sitenin gösterdiği puan durumu ve form.
+Veri gerçekten hiçbir kaynakta yoksa hangi kaynakların denendiği yazılır.
