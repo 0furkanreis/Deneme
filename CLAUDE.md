@@ -35,3 +35,11 @@ Kullanıcı açıkça istedi: her eksik bilgi için tüm kaynaklar sırayla tara
 4. WebSearch (standard, gerekirse extended) farklı dillerde (TR, EN, maçın ülkesinin dili).
 5. Lord Palace sayfası (lp4.js ile kaydırarak): oranlar + sitenin gösterdiği puan durumu ve form.
 Veri gerçekten hiçbir kaynakta yoksa hangi kaynakların denendiği yazılır.
+
+## Çok kaynaklı analiz (kullanıcı isteği: tek siteye / tek ölçüye bağlı kalma)
+Her öneri en az 3 bağımsız kaynakla çapraz kontrol edilir ve cevapta kaynak kaynak gösterilir:
+- **İstatistik:** FotMob + en az bir başkası (Flashscore, Soccerway, Understat, Statarea, Maçkolik, Sporx, ESPN, BBC; alt ligde Football Web Pages).
+- **Oran (en değerli kontrol):** Lord Palace oranı diğer bahisçilerle karşılaştırılır: Oddsportal (çok bahisçi ortalaması, `search/<takım>/` → maç sayfası), Pinnacle (keskin piyasa), Nesine/İddaa. Lord Palace oranı piyasa ortalamasından belirgin yüksekse gerçek değer adayıdır.
+- **Önizleme/tahmin siteleri:** Sports Mole, Squawka, tips.gg vb. (görüş olarak, veri değil).
+- Erişim: curl 403 veren siteler `motor/araclar/render.js <url> <çıktı>` (Playwright) ile denenir. Lord Palace: `motor/araclar/lp4.js <klasör> <url>`.
+- Erişilebilirlik (18.11): Oddsportal, Betexplorer, Pinnacle, Nesine, İddaa, Flashscore, Soccerway, Understat, Statarea, Livescore, Maçkolik, Sporx 200; Forebet, Footystats, WhoScored, Soccerstats, Oddschecker, Betfair curl'e 403.
