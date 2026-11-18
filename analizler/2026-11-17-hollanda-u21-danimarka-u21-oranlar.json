@@ -1,0 +1,470 @@
+[
+ {
+  "secim": "Hollanda korner 5,5 Alt",
+  "olasilik": 0.6167,
+  "oran": 1.9,
+  "deger": 0.17172999999999994
+ },
+ {
+  "secim": "Danimarka korner 4,5 Üst",
+  "olasilik": 0.4304,
+  "oran": 2.5,
+  "deger": 0.07600000000000007
+ },
+ {
+  "secim": "İY 1,5 Alt",
+  "olasilik": 0.657,
+  "oran": 1.59,
+  "deger": 0.04463000000000017
+ },
+ {
+  "secim": "Hollanda 1,5 Alt",
+  "olasilik": 0.4334,
+  "oran": 2.4,
+  "deger": 0.040159999999999973
+ },
+ {
+  "secim": "Danimarka korner 3,5 Üst",
+  "olasilik": 0.6227,
+  "oran": 1.67,
+  "deger": 0.03990899999999997
+ },
+ {
+  "secim": "2,5 Alt",
+  "olasilik": 0.4334,
+  "oran": 2.37,
+  "deger": 0.027158000000000015
+ },
+ {
+  "secim": "İY 0,5 Alt",
+  "olasilik": 0.2955,
+  "oran": 3.47,
+  "deger": 0.02538499999999999
+ },
+ {
+  "secim": "Hollanda 2,5 Alt",
+  "olasilik": 0.7023,
+  "oran": 1.46,
+  "deger": 0.02535799999999999
+ },
+ {
+  "secim": "Korner 9,5 Alt",
+  "olasilik": 0.5476,
+  "oran": 1.87,
+  "deger": 0.024011999999999922
+ },
+ {
+  "secim": "Korner 10,5 Alt",
+  "olasilik": 0.6708,
+  "oran": 1.52,
+  "deger": 0.019615999999999856
+ },
+ {
+  "secim": "3,5 Alt",
+  "olasilik": 0.6564,
+  "oran": 1.55,
+  "deger": 0.01741999999999999
+ },
+ {
+  "secim": "İY X",
+  "olasilik": 0.4041,
+  "oran": 2.51,
+  "deger": 0.014291000000000054
+ },
+ {
+  "secim": "ÇŞ X2",
+  "olasilik": 0.429,
+  "oran": 2.35,
+  "deger": 0.008150000000000102
+ },
+ {
+  "secim": "Her iki yarıda gol yok",
+  "olasilik": 0.4199,
+  "oran": 2.4,
+  "deger": 0.007759999999999989
+ },
+ {
+  "secim": "4,5 Alt",
+  "olasilik": 0.8224,
+  "oran": 1.22,
+  "deger": 0.0033279999999999976
+ },
+ {
+  "secim": "Ber. İade Danimarka",
+  "olasilik": 0.2654,
+  "oran": 3.75,
+  "deger": -0.004749999999999921
+ },
+ {
+  "secim": "MS 2",
+  "olasilik": 0.2063,
+  "oran": 4.8,
+  "deger": -0.009759999999999991
+ },
+ {
+  "secim": "Korner sonucu Danimarka",
+  "olasilik": 0.3486,
+  "oran": 2.82,
+  "deger": -0.016947999999999963
+ },
+ {
+  "secim": "En gollü yarı 2.",
+  "olasilik": 0.4968,
+  "oran": 1.95,
+  "deger": -0.031239999999999934
+ },
+ {
+  "secim": "KG Yok",
+  "olasilik": 0.4464,
+  "oran": 2.17,
+  "deger": -0.031312000000000006
+ },
+ {
+  "secim": "Hollanda 1 farkla veya X",
+  "olasilik": 0.4587,
+  "oran": 2.1,
+  "deger": -0.03672999999999993
+ },
+ {
+  "secim": "Danimarka İY gol atmaz",
+  "olasilik": 0.6505,
+  "oran": 1.48,
+  "deger": -0.03726000000000007
+ },
+ {
+  "secim": "Sarı 4,5 Alt",
+  "olasilik": 0.6778,
+  "oran": 1.42,
+  "deger": -0.03752400000000011
+ },
+ {
+  "secim": "2Y 2,5 Alt",
+  "olasilik": 0.7451,
+  "oran": 1.29,
+  "deger": -0.038820999999999994
+ },
+ {
+  "secim": "Danimarka 1,5 Alt",
+  "olasilik": 0.7163,
+  "oran": 1.34,
+  "deger": -0.040157999999999916
+ },
+ {
+  "secim": "MS X",
+  "olasilik": 0.2228,
+  "oran": 4.3,
+  "deger": -0.04196
+ },
+ {
+  "secim": "2Y 0,5 Üst",
+  "olasilik": 0.8226,
+  "oran": 1.15,
+  "deger": -0.054010000000000113
+ },
+ {
+  "secim": "Sarı sonuç Danimarka",
+  "olasilik": 0.4543,
+  "oran": 2.08,
+  "deger": -0.055055999999999994
+ },
+ {
+  "secim": "Sarı 3,5 Alt",
+  "olasilik": 0.4839,
+  "oran": 1.95,
+  "deger": -0.05639499999999997
+ },
+ {
+  "secim": "1,5 Alt",
+  "olasilik": 0.2062,
+  "oran": 4.57,
+  "deger": -0.057665999999999995
+ },
+ {
+  "secim": "2Y 1,5 Alt",
+  "olasilik": 0.4805,
+  "oran": 1.96,
+  "deger": -0.05822000000000005
+ },
+ {
+  "secim": "ÇŞ 12",
+  "olasilik": 0.7772,
+  "oran": 1.2,
+  "deger": -0.06736000000000009
+ },
+ {
+  "secim": "Danimarka 2Y gol atar",
+  "olasilik": 0.4636,
+  "oran": 2.01,
+  "deger": -0.06816400000000011
+ },
+ {
+  "secim": "Danimarka 0,5 Üst",
+  "olasilik": 0.6509,
+  "oran": 1.43,
+  "deger": -0.06921299999999997
+ },
+ {
+  "secim": "ÇŞ 1X",
+  "olasilik": 0.7937,
+  "oran": 1.17,
+  "deger": -0.07137100000000007
+ },
+ {
+  "secim": "Çift",
+  "olasilik": 0.5033,
+  "oran": 1.84,
+  "deger": -0.073928
+ },
+ {
+  "secim": "Tek",
+  "olasilik": 0.4967,
+  "oran": 1.86,
+  "deger": -0.07613800000000004
+ },
+ {
+  "secim": "En gollü yarı eşit",
+  "olasilik": 0.2377,
+  "oran": 3.88,
+  "deger": -0.07772400000000002
+ },
+ {
+  "secim": "1,5 Üst",
+  "olasilik": 0.7938,
+  "oran": 1.16,
+  "deger": -0.07919200000000015
+ },
+ {
+  "secim": "Danimarka 2Y gol atmaz",
+  "olasilik": 0.5364,
+  "oran": 1.71,
+  "deger": -0.08275600000000005
+ },
+ {
+  "secim": "Danimarka 0,5 Alt",
+  "olasilik": 0.3491,
+  "oran": 2.62,
+  "deger": -0.08535799999999993
+ },
+ {
+  "secim": "Danimarka sarı 1,5 Üst",
+  "olasilik": 0.6012,
+  "oran": 1.52,
+  "deger": -0.08617600000000003
+ },
+ {
+  "secim": "Hollanda 2Y gol atar",
+  "olasilik": 0.6717,
+  "oran": 1.36,
+  "deger": -0.08648800000000001
+ },
+ {
+  "secim": "2Y 1,5 Üst",
+  "olasilik": 0.5195,
+  "oran": 1.74,
+  "deger": -0.0960700000000001
+ },
+ {
+  "secim": "Ber. İade Hollanda",
+  "olasilik": 0.7346,
+  "oran": 1.23,
+  "deger": -0.09644200000000003
+ },
+ {
+  "secim": "İY 2",
+  "olasilik": 0.1873,
+  "oran": 4.8,
+  "deger": -0.10096000000000005
+ },
+ {
+  "secim": "KG Var",
+  "olasilik": 0.5536,
+  "oran": 1.61,
+  "deger": -0.10870400000000002
+ },
+ {
+  "secim": "İlk gol Danimarka",
+  "olasilik": 0.3387,
+  "oran": 2.63,
+  "deger": -0.10921900000000007
+ },
+ {
+  "secim": "Hollanda en az 1 yarıyı kazanır",
+  "olasilik": 0.6892,
+  "oran": 1.29,
+  "deger": -0.11093199999999992
+ },
+ {
+  "secim": "İY 0,5 Üst",
+  "olasilik": 0.7045,
+  "oran": 1.26,
+  "deger": -0.11232999999999993
+ },
+ {
+  "secim": "İlk gol Hollanda",
+  "olasilik": 0.6084,
+  "oran": 1.44,
+  "deger": -0.1239039999999999
+ },
+ {
+  "secim": "Hollanda gol yemeden kazanır",
+  "olasilik": 0.2961,
+  "oran": 2.95,
+  "deger": -0.12650499999999998
+ },
+ {
+  "secim": "Her iki yarıda gol",
+  "olasilik": 0.5801,
+  "oran": 1.5,
+  "deger": -0.12985000000000002
+ },
+ {
+  "secim": "MS 1",
+  "olasilik": 0.571,
+  "oran": 1.52,
+  "deger": -0.1320800000000001
+ },
+ {
+  "secim": "Korner 8,5 Üst",
+  "olasilik": 0.5833,
+  "oran": 1.48,
+  "deger": -0.13671599999999995
+ },
+ {
+  "secim": "2,5 Üst",
+  "olasilik": 0.5666,
+  "oran": 1.52,
+  "deger": -0.138768
+ },
+ {
+  "secim": "Danimarka İY gol atar",
+  "olasilik": 0.3495,
+  "oran": 2.45,
+  "deger": -0.143725
+ },
+ {
+  "secim": "Sarı 3,5 Üst",
+  "olasilik": 0.5161,
+  "oran": 1.65,
+  "deger": -0.1484350000000001
+ },
+ {
+  "secim": "Danimarka 1,5 Üst",
+  "olasilik": 0.2837,
+  "oran": 3.0,
+  "deger": -0.14890000000000003
+ },
+ {
+  "secim": "Hollanda 1,5 Üst",
+  "olasilik": 0.5666,
+  "oran": 1.5,
+  "deger": -0.1501
+ },
+ {
+  "secim": "Hollanda İY gol atar",
+  "olasilik": 0.5438,
+  "oran": 1.54,
+  "deger": -0.16254800000000003
+ },
+ {
+  "secim": "Hollanda sarı 1,5 Üst",
+  "olasilik": 0.5134,
+  "oran": 1.62,
+  "deger": -0.168292
+ },
+ {
+  "secim": "2Y 2,5 Üst",
+  "olasilik": 0.2549,
+  "oran": 3.25,
+  "deger": -0.17157499999999992
+ },
+ {
+  "secim": "Korner 9,5 Üst",
+  "olasilik": 0.4524,
+  "oran": 1.83,
+  "deger": -0.17210799999999993
+ },
+ {
+  "secim": "Daal gol",
+  "olasilik": 0.241,
+  "oran": 3.4,
+  "deger": -0.1806000000000001
+ },
+ {
+  "secim": "İY 1",
+  "olasilik": 0.4086,
+  "oran": 1.97,
+  "deger": -0.19505799999999995
+ },
+ {
+  "secim": "Hollanda 2-3 farkla",
+  "olasilik": 0.2714,
+  "oran": 2.95,
+  "deger": -0.19937000000000005
+ },
+ {
+  "secim": "3,5 Üst",
+  "olasilik": 0.3436,
+  "oran": 2.3,
+  "deger": -0.20972000000000002
+ },
+ {
+  "secim": "Korner sonucu Hollanda",
+  "olasilik": 0.5244,
+  "oran": 1.5,
+  "deger": -0.21340000000000003
+ },
+ {
+  "secim": "Sarı sonuç Hollanda",
+  "olasilik": 0.333,
+  "oran": 2.35,
+  "deger": -0.21744999999999992
+ },
+ {
+  "secim": "En gollü yarı 1.",
+  "olasilik": 0.2655,
+  "oran": 2.94,
+  "deger": -0.21943000000000001
+ },
+ {
+  "secim": "Hollanda korner 4,5 Üst",
+  "olasilik": 0.5578,
+  "oran": 1.39,
+  "deger": -0.22465800000000014
+ },
+ {
+  "secim": "İY 1,5 Üst",
+  "olasilik": 0.343,
+  "oran": 2.21,
+  "deger": -0.2419699999999999
+ },
+ {
+  "secim": "Hollanda 2,5 Üst",
+  "olasilik": 0.2977,
+  "oran": 2.52,
+  "deger": -0.2497959999999999
+ },
+ {
+  "secim": "4,5 Üst",
+  "olasilik": 0.1776,
+  "oran": 3.83,
+  "deger": -0.31979199999999997
+ },
+ {
+  "secim": "Van Bergen gol",
+  "olasilik": 0.266,
+  "oran": 2.24,
+  "deger": -0.40415999999999996
+ },
+ {
+  "secim": "Konadu gol",
+  "olasilik": 0.187,
+  "oran": 2.33,
+  "deger": -0.56429
+ },
+ {
+  "secim": "Maçta kırmızı kart",
+  "olasilik": 0.1212,
+  "oran": 3.05,
+  "deger": -0.63034
+ }
+]

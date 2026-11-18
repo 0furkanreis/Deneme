@@ -1,0 +1,8512 @@
+Maç Sonucu
+Coritiba
+Beraberlik
+Santos SP
+3.52
+3.45
+1.97
+Çifte Şans
+1X
+12
+X2
+1.75
+1.29
+1.29
+Beraberlikte İade
+Coritiba
+Santos SP
+2.43
+1.43
+Toplam Goller
+Üst
+Alt
+0.5
+1.029
+10.25
+1
+1.037
+9.50
+1.5
+1.21
+4.10
+2
+1.30
+3.30
+2.5
+1.66
+2.14
+3
+2.08
+1.69
+3.5
+2.62
+1.45
+4
+4.00
+1.22
+4.5
+4.55
+1.17
+5
+8.00
+1.06
+5.5
+8.20
+1.055
+Coritiba : Toplam Gol
+Üst
+Alt
+0.5
+1.32
+3.15
+1
+1.68
+2.10
+1.5
+2.57
+1.47
+2
+4.90
+1.15
+2.5
+6.00
+1.11
+3
+11.40
+1.017
+Santos SP : Toplam Gol
+Üst
+Alt
+0.5
+1.16
+4.75
+1
+1.28
+3.40
+1.5
+1.85
+1.89
+2
+2.77
+1.41
+2.5
+3.60
+1.26
+3
+7.00
+1.08
+3.5
+7.70
+1.065
+Her iki takımda gol atar
+Evet
+Hayır
+1.57
+2.30
+Her İki Takım da 2 veya Daha Fazla Gol Atar
+YENİ
+Evet
+No
+4.40
+1.18
+Gol Handikapı
+Coritiba
+Santos SP
+-2
+11.40
++2
+1.018
+-1.5
+6.70
++1.5
+1.085
+-1
+6.00
++1
+1.11
+-0.5
+3.35
++0.5
+1.29
+0
+2.57
+0
+1.47
++0.5
+1.79
+-0.5
+1.95
++1
+1.38
+-1
+2.90
++1.5
+1.25
+-1.5
+3.70
++2
+1.10
+-2
+6.20
++2.5
+1.085
+-2.5
+6.70
+Goller Asya Handikapı
+Coritiba
+Santos SP
+-2.25
+10.30
++2.25
+1.017
+-1.75
+8.20
++1.75
+1.045
+-1.25
+6.15
++1.25
+1.09
+-0.75
+4.15
++0.75
+1.19
+-0.25
+2.95
++0.25
+1.35
++0.25
+2.02
+-0.25
+1.70
++0.75
+1.57
+-0.75
+2.25
++1.25
+1.30
+-1.25
+3.20
++1.75
+1.17
+-1.75
+4.42
++2.25
+1.085
+-2.25
+6.30
++2.75
+1.045
+-2.75
+8.20
+Gol Handikapı (3-İhtimalli)
+Coritiba
+Beraberlik : Santos SP
+Santos SP
+-1
+6.70
++1
+5.10
++1
+1.29
++1
+1.75
+-1
+3.57
+-1
+3.70
++2
+1.25
+-2
+5.60
+-2
+6.70
+Toplam Goller Asya
+Üst
+Alt
+0.75
+1.033
+9.85
+1.25
+1.12
+5.55
+1.75
+1.25
+3.70
+2.25
+1.48
+2.52
+2.75
+1.83
+1.91
+3.25
+2.38
+1.54
+3.75
+3.10
+1.33
+4.25
+4.30
+1.19
+4.75
+6.00
+1.11
+5.25
+8.00
+1.06
+5.75
+10.00
+1.031
+Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+1
+1.17
+5.10
+11.00
+2
+1.59
+3.75
+3.61
+3
+2.51
+3.75
+2.06
+4
+4.40
+4.75
+1.40
+5
+8.20
+6.50
+1.14
+Coritiba : Asist Yapar. Toplam
+YENİ
+1+
+1.69
+2+
+4.30
+3+
+13.00
+4+
+25.00
+Santos SP : Asist Yapar. Toplam
+YENİ
+1+
+1.41
+2+
+2.85
+3+
+7.20
+4+
+19.00
+Her iki yarıda gol olur
+Evet
+Hayır
+1.59
+2.21
+İlk Golü Atacak Takım
+Coritiba
+Santos SP
+Gol Yok
+2.09
+1.59
+14.00
+Son Golü Atacak Takım
+Coritiba
+Santos SP
+Gol Yok
+2.09
+1.59
+14.00
+Coritiba : Toplam Gol Asya
+Üst
+Alt
+0.75
+1.44
+2.65
+1.25
+2.14
+1.66
+1.75
+3.20
+1.31
+2.25
+5.30
+1.13
+2.75
+8.00
+1.06
+3.25
+11.40
+1.018
+Santos SP : Toplam Gol Asya
+Üst
+Alt
+0.75
+1.20
+4.25
+1.25
+1.57
+2.30
+1.75
+2.15
+1.65
+2.25
+3.15
+1.32
+2.75
+4.55
+1.17
+3.25
+7.20
+1.075
+3.75
+9.25
+1.04
+Toplam Gol Tek / Çift
+Çift
+Tek
+1.83
+1.87
+Coritiba : Gol Atar
+Evet
+Hayır
+1.32
+3.15
+Santos SP Gol Atar
+Evet
+Hayır
+1.16
+4.75
+Coritiba Gol Atar ve Maç Sonucu
+Evet ve Coritiba
+3.35
+Evet ve Berabere
+3.50
+Hayır ve Berabere
+14.00
+Evet ve Santos SP
+3.06
+Hayır ve Santos SP
+3.75
+Santos SP Gol Atar ve Maç Sonucu
+Evet ve Coritiba
+4.90
+Hayır ve Coritiba
+6.15
+Evet ve Berabere
+3.50
+Hayır ve Berabere
+14.00
+Evet ve Santos SP
+1.97
+Coritiba : Bahis Yok
+Beraberlik
+Santos SP
+2.40
+1.45
+Santos SP : Bahis Yok
+Coritiba
+Beraberlik
+1.84
+1.82
+Maç Sonucu ve Karşılıklı Gol
+Coritiba Ve Evet
+4.90
+Beraberlik Ve Hayır
+14.00
+Coritiba Ve Hayır
+6.15
+Santos SP Ve Evet
+3.06
+Beraberlik ve Evet
+3.50
+Santos SP Ve Hayır
+3.75
+Çifte Şans ve Karşılıklı Gol
+1X Ve Evet
+2.30
+12 Ve Hayır
+2.34
+1X Ve Hayır
+4.20
+X2 Ve Evet
+1.85
+12 Ve Evet
+2.12
+X2 Ve Hayır
+3.15
+Maç Sonucu ve Toplam Gol 1.5
+Coritiba ve Üst 1.5
+3.66
+Coritiba ve Alt 1.5
+10.00
+Beraberlik ve Üst 1.5
+3.50
+Beraberlik ve Alt 1.5
+11.00
+Santos SP ve Üst 1.5
+2.16
+Santos SP ve Alt 1.5
+6.80
+1X ve Üst 1.5
+2.02
+1X ve Alt 1.5
+6.00
+12 ve Üst 1.5
+1.53
+12 ve Alt 1.5
+4.60
+X2 ve Üst 1.5
+1.50
+X2 ve Alt 1.5
+4.75
+Maç Sonucu ve Toplam Gol 2.5
+Coritiba ve Üst 2.5
+4.30
+Coritiba ve Alt 2.5
+6.80
+Beraberlik ve Üst 2.5
+7.30
+Beraberlik ve Alt 2.5
+4.00
+Santos SP ve Üst 2.5
+2.52
+Santos SP ve Alt 2.5
+4.40
+1X ve Üst 2.5
+3.04
+1X ve Alt 2.5
+2.84
+12 ve Üst 2.5
+1.78
+12 ve Alt 2.5
+3.01
+X2 ve Üst 2.5
+2.07
+X2 ve Alt 2.5
+2.39
+Maç Sonucu ve Toplam Gol 3.5
+Coritiba ve Üst 3.5
+7.40
+Coritiba ve Alt 3.5
+4.10
+Beraberlik ve Üst 3.5
+7.30
+Beraberlik ve Alt 3.5
+4.00
+Santos SP ve Üst 3.5
+4.10
+Santos SP ve Alt 3.5
+2.61
+1X ve Üst 3.5
+4.20
+1X ve Alt 3.5
+2.30
+12 ve Üst 3.5
+2.98
+12 ve Alt 3.5
+1.80
+X2 ve Üst 3.5
+2.96
+X2 ve Alt 3.5
+1.79
+Maç Sonucu ve Toplam Gol 4.5
+Coritiba ve Üst 4.5
+11.00
+Coritiba ve Alt 4.5
+3.56
+Beraberlik ve Üst 4.5
+26.00
+Beraberlik ve Alt 4.5
+3.09
+Santos SP ve Üst 4.5
+6.20
+Santos SP ve Alt 4.5
+2.22
+1X ve Üst 4.5
+8.60
+1X ve Alt 4.5
+1.87
+12 ve Üst 4.5
+4.40
+12 ve Alt 4.5
+1.54
+X2 ve Üst 4.5
+5.40
+X2 ve Alt 4.5
+1.46
+Sonuç ve Coritiba : Toplam Gol
+Coritiba ve Üst (1.5)
+3.66
+Coritiba ve Alt (1.5)
+10.00
+Beraberlik ve Üst (1.5)
+7.30
+Beraberlik ve Alt (1.5)
+4.00
+Santos SP ve Üst (1.5)
+9.10
+Santos SP ve Alt (1.5)
+2.04
+Coritiba ve Üst (2.5)
+6.40
+Coritiba ve Alt (2.5)
+4.50
+Beraberlik ve Üst (2.5)
+26.00
+Beraberlik ve Alt (2.5)
+3.09
+Santos SP ve Üst (2.5)
+41.00
+Santos SP ve Alt (2.5)
+1.83
+Coritiba ve Üst (3.5)
+15.00
+Coritiba ve Alt (3.5)
+3.33
+Beraberlik ve Üst (3.5)
+141.00
+Beraberlik ve Alt (3.5)
+2.94
+Santos SP ve Üst (3.5)
+276.00
+Santos SP ve Alt (3.5)
+1.80
+Sonuç ve Santos SP : Toplam Gol
+Coritiba ve Üst (1.5)
+14.00
+Coritiba ve Alt (1.5)
+3.38
+Beraberlik ve Üst (1.5)
+7.30
+Beraberlik ve Alt (1.5)
+4.00
+Santos SP ve Üst (1.5)
+2.16
+Santos SP ve Alt (1.5)
+7.10
+Coritiba ve Üst (2.5)
+67.00
+Coritiba ve Alt (2.5)
+3.02
+Beraberlik ve Üst (2.5)
+26.00
+Beraberlik ve Alt (2.5)
+3.09
+Santos SP ve Üst (2.5)
+3.45
+Santos SP ve Alt (2.5)
+2.95
+Coritiba ve Üst (3.5)
+276.00
+Coritiba ve Alt (3.5)
+2.97
+Beraberlik ve Üst (3.5)
+141.00
+Beraberlik ve Alt (3.5)
+2.94
+Santos SP ve Üst (3.5)
+7.20
+Santos SP ve Alt (3.5)
+2.13
+Sonuç veya Toplam Gol
+Coritiba veya Üst (2.5)
+1.37
+Coritiba veya Alt (2.5)
+1.50
+Beraberlik veya Üst (2.5)
+1.25
+Beraberlik veya Alt (2.5)
+1.68
+Santos SP veya Üst (2.5)
+1.27
+Santos SP veya Alt (2.5)
+1.24
+Coritiba veya Üst (3.5)
+1.68
+Coritiba veya Alt (3.5)
+1.25
+Beraberlik veya Üst (3.5)
+1.67
+Beraberlik veya Alt (3.5)
+1.25
+Santos SP veya Üst (3.5)
+1.40
+Santos SP veya Alt (3.5)
+1.14
+Daha Fazla Seçeneği Göster
+Maç Sonucu ve Toplam Gol (Kesin)
+Coritiba ve 1
+10.00
+Coritiba ve 2
+15.00
+Coritiba ve 3
+7.90
+Coritiba ve 4+
+7.60
+Beraberlik ve 0
+11.00
+Beraberlik ve 2
+5.30
+Beraberlik ve 4
+8.90
+Beraberlik ve 6+
+26.00
+Santos SP ve 1
+6.70
+Santos SP ve 2
+9.20
+Santos SP ve 3
+4.75
+Santos SP ve 4+
+4.10
+Sonuç ve Toplam Gol (Genişletilmiş Aralık)
+Coritiba ve 1-2
+6.80
+Coritiba ve 1-3
+4.10
+Coritiba ve 1-4
+3.56
+Coritiba ve 1-5
+3.15
+Coritiba ve 1-6
+3.05
+Coritiba ve 2-3
+5.70
+Coritiba ve 2-4
+4.70
+Coritiba ve 2-5
+3.97
+Coritiba ve 2-6
+3.80
+Coritiba ve 3-4
+5.90
+Coritiba ve 3-5
+4.75
+Coritiba ve 3-6
+4.50
+Daha Fazla Seçeneği Göster
+Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)
+1X ve 1-2
+3.38
+1X ve 1-3
+2.62
+1X ve 1-4
+2.07
+1X ve 1-5
+1.94
+1X ve 1-6
+1.85
+1X ve 2-3
+3.13
+1X ve 2-4
+2.36
+1X ve 2-5
+2.19
+1X ve 2-6
+2.07
+1X ve 3-4
+3.99
+1X ve 3-5
+3.47
+1X ve 3-6
+3.16
+1X ve 4-5
+5.10
+1X ve 4-6
+4.40
+1X ve 5-6
+10.00
+1X ve Herhangi bir diğer
+9.40
+12 ve 1-2
+3.01
+12 ve 1-3
+1.80
+Daha Fazla Seçeneği Göster
+Sonuç veya Doğru Skor
+Coritiba veya 0-0: Evet
+2.55
+Coritiba veya 0-0: Hayır
+1.33
+Santos SP veya 0-0: Evet
+1.66
+Santos SP veya 0-0: Hayır
+1.81
+Coritiba veya 1-1: Evet
+2.14
+Coritiba veya 1-1: Hayır
+1.46
+Santos SP veya 1-1: Evet
+1.48
+Santos SP veya 1-1: Hayır
+2.09
+Coritiba veya 0-1: Evet
+2.30
+Coritiba veya 0-1: Hayır
+1.40
+Santos SP veya 1-0: Evet
+1.64
+Santos SP veya 1-0: Hayır
+1.84
+Her İki Yarı Toplam Gol Kombinasyonu
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+2.27
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+4.20
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 0.5 Üst gol
+2.60
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+4.42
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+7.30
+İlk yarıda 0.5 Üst gol ve Maç sonucu 1.5 Üst gol
+1.37
+İlk yarıda 0.5 Üst gol ve Maç sonucu 2.5 Üst gol
+1.71
+İlk yarıda 0.5 Üst gol ve Maç sonucu 3.5 Üst gol
+2.49
+İlk yarıda 0.5 Üst gol ve Maç sonucu 4.5 Üst gol
+4.20
+İlk yarıda 1.5 Üst gol ve Maç sonucu 2.5 Üst gol
+2.42
+İlk yarıda 1.5 Üst gol ve Maç sonucu 3.5 Üst gol
+3.17
+İlk yarıda 1.5 Üst gol ve Maç sonucu 4.5 Üst gol
+4.90
+İlk yarıda 2.5 Üst gol ve Maç sonucu 3.5 Üst gol
+5.40
+İlk yarıda 2.5 Üst gol ve Maç sonucu 4.5 Üst gol
+7.20
+Toplam Gol (Kesin)
+0
+11.00
+1
+5.10
+2
+3.75
+3
+3.75
+4
+4.75
+5
+6.50
+6 veya Daha Fazla
+8.20
+Coritiba : Toplam Gol (Kesin)
+0
+3.15
+1
+2.22
+2
+3.36
+3
+6.90
+4 veya Daha Fazla
+14.00
+Santos SP : Toplam Gol (Kesin)
+0
+4.20
+1
+2.48
+2
+2.89
+3
+4.60
+4 veya Daha Fazla
+6.90
+Toplam Gol (Aralık)
+0-1
+3.61
+2-3
+1.88
+4 ila 6
+2.54
+7 veya Daha fazla
+17.00
+Coritiba : Toplam Gol (Aralık)
+0-1
+1.47
+2-3
+2.53
+4 ila 6
+14.00
+7 veya Daha fazla
+276.00
+Santos SP : Toplam Gol (Aralık)
+0-1
+1.89
+2-3
+2.01
+4 ila 6
+7.10
+7 veya Daha fazla
+176.00
+Toplam Gol (Genişletilmiş Gol Aralığı)
+1-2
+2.17
+1-3
+1.48
+1-4
+1.22
+1-5
+1.10
+1-6
+1.05
+2-3
+1.88
+2-4
+1.46
+2-5
+1.29
+2-6
+1.22
+3-4
+2.12
+3-5
+1.76
+3-6
+1.63
+Daha Fazla Seçeneği Göster
+Coritiba : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.51
+1-3
+1.34
+1-4
+1.29
+2-3
+2.53
+2-4
+2.35
+3-4
+5.50
+Herhangi Diğer
+2.72
+Santos SP : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.51
+1-3
+1.26
+1-4
+1.18
+2-3
+2.01
+2-4
+1.80
+3-4
+3.51
+Herhangi Diğer
+3.68
+Coritiba Kesin Gol Farkıyla Kazanır
+Evet
+Hayır
+1
+5.10
+1.13
+2
+8.20
+1.045
+Santos SP : Kesin Gol Farkıyla Kazanır
+Evet
+Hayır
+1
+3.57
+1.25
+2
+5.85
+1.10
+3
+8.50
+1.04
+Coritiba Kazanır ve Kesin Gol Atar
+Evet
+Hayır
+1
+9.00
+1.03
+2
+6.90
+1.07
+3
+8.50
+1.04
+Santos SP Kazanır ve Kesin gol atar
+Evet
+Hayır
+1
+7.10
+1.065
+2
+4.75
+1.15
+3
+5.85
+1.10
+4
+9.00
+1.03
+En Az Bir Takım Üst Gol Atar
+YENİ
+Evet
+No
+1.5
+1.41
+2.68
+2.5
+2.62
+1.43
+3.5
+5.85
+1.10
+İlk Golün Atılma Şekli
+Kafa vuruşu ile
+5.40
+Diğer Bir Yöntemle
+1.35
+Serbest vuruş ile
+15.00
+Penaltı atışı ile
+6.80
+Maçta kendi kalesine gol atılır
+31.00
+Gol yok
+11.00
+1. Gol Zamanı
+1-10
+3.05
+11-20
+3.88
+21-30
+4.75
+31-40
+6.20
+41-50
+7.20
+51-60
+10.00
+61-70
+13.00
+71-80
+17.00
+81-90+
+17.00
+Gol Yok
+8.90
+Coritiba : 1. Gol Zamanı (10 dk. Ara)
+1-10
+5.50
+11-20
+7.10
+21-30
+7.30
+31-40
+7.90
+41-50
+8.10
+51-60
+9.60
+61-70
+10.00
+71-80
+12.00
+81-90+
+10.00
+Gol Yok
+2.47
+Santos SP : 1. Gol Zamanı (10 dk. Ara)
+1-10
+4.30
+11-20
+5.50
+21-30
+6.20
+31-40
+6.70
+41-50
+7.10
+51-60
+9.10
+61-70
+10.00
+71-80
+12.00
+81-90+
+11.00
+Gol Yok
+3.65
+1. Gol Zamanı (15 dk.)
+1-15
+2.52
+16-30
+3.19
+31-45+
+3.85
+46-60
+6.50
+61-75
+10.00
+76-90+
+12.00
+No Goal
+12.00
+Doğru Skor
+1-0
+10.00
+0-0
+11.00
+0-1
+6.70
+2-0
+15.00
+1-1
+5.30
+0-2
+9.20
+2-1
+9.70
+2-2
+8.90
+1-2
+6.30
+3-0
+29.00
+3-3
+29.00
+0-3
+13.00
+3-1
+19.00
+4-4
+151.00
+1-3
+12.00
+3-2
+23.00
+5-5
+201.00
+2-3
+15.00
+Daha Fazla Seçeneği Göster
+Herhangi Bir Zamanda Doğru Skor
+0-1
+1.68
+0-2
+3.20
+0-3
+7.00
+0-4
+19.00
+0-5
+51.00
+1-0
+2.19
+1-1
+2.25
+1-2
+3.45
+1-3
+6.80
+1-4
+17.00
+1-5
+46.00
+2-0
+5.40
+2-1
+4.50
+2-2
+6.20
+2-3
+12.00
+2-4
+26.00
+2-5
+76.00
+3-0
+15.00
+Daha Fazla Seçeneği Göster
+1.Yarı Sonucu
+Coritiba
+Beraberlik
+Santos SP
+3.65
+2.19
+2.40
+1.Yarı Çifte Şans
+1X
+12
+X2
+1.50
+1.47
+1.24
+1. Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.30
+3.20
+1
+1.61
+2.17
+1.5
+2.40
+1.50
+2
+4.30
+1.18
+2.5
+5.35
+1.12
+3
+9.70
+1.023
+3.5
+10.00
+1.02
+1. Yarı 1. Takım Toplam Gol
+Üst
+Alt
+0.5
+2.20
+1.60
+1
+5.10
+1.13
+1.5
+6.70
+1.075
+1. Yarı 2. Takım Toplam Gol
+Üst
+Alt
+0.5
+1.74
+1.96
+1
+3.10
+1.32
+1.5
+4.57
+1.16
+2
+9.70
+1.023
+2.5
+10.30
+1.017
+1. Yarı Coritiba Toplam Goller Asya
+Üst
+Alt
+0.75
+2.85
+1.37
+1.25
+6.00
+1.095
+1.75
+8.70
+1.035
+1. Yarı Santos SP Toplam Gol Asya
+Üst
+Alt
+0.75
+2.10
+1.65
+1.25
+3.83
+1.22
+1.75
+6.00
+1.095
+2.25
+10.00
+1.02
+1. Yarı Karşılıklı Gol
+Evet
+Hayır
+3.75
+1.23
+1. Yarı Gol Handikapı
+Coritiba
+Santos SP
+-1.5
+9.30
++1.5
+1.027
+-1
+8.50
++1
+1.04
+-0.5
+3.65
++0.5
+1.24
+0
+2.37
+0
+1.52
++0.5
+1.50
+-0.5
+2.40
++1
+1.14
+-1
+4.90
++1.5
+1.09
+-1.5
+6.15
+1. Yarı Goller Asya Handikapı
+Coritiba
+Santos SP
+-1.25
+9.00
++1.25
+1.03
+-0.75
+4.90
++0.75
+1.14
+-0.25
+3.05
++0.25
+1.33
++0.25
+1.72
+-0.25
+2.00
++0.75
+1.32
+-0.75
+3.10
++1.25
+1.11
+-1.25
+5.55
++1.75
+1.045
+-1.75
+8.20
+1. Yarı Gol Handikapı 3 İhtimalli
+Coritiba
+Beraberlik Santos SP
+Santos SP
+-1
+12.00
++1
+4.00
++1
+1.24
+0
+3.65
+0
+2.19
+0
+2.40
++1
+1.50
+-1
+3.30
+-1
+6.40
+1.Yarı Toplam Gol Asya
+Üst
+Alt
+0.75
+1.41
+2.68
+1.25
+2.01
+1.71
+1.75
+3.00
+1.34
+2.25
+4.90
+1.14
+2.75
+6.90
+1.07
+3.25
+10.00
+1.02
+1. . Yarı : Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+2
+5.30
+3.41
+1.44
+1
+2.28
+2.41
+3.08
+1. Yarı: Sonuç ve Her İki Takımda Gol atar
+Coritiba Ve Evet
+14.00
+Beraberlik ve Hayır
+3.07
+Coritiba Ve Hayır
+3.80
+Santos SP ve Evet
+9.80
+Beraberlik ve Evet
+5.40
+Santos SP ve Hayır
+2.80
+1. Yarı Toplam Gol Aralığı
+0-1
+1.44
+2-3
+2.42
+4 ila 6
+13.00
+7 veya Daha fazla
+29.00
+1.Yarı Coritiba Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.05
+4.60
+176.00
+1.Yarı Santos SP Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.16
+3.69
+71.00
+1. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.52
+1-3
+1.34
+1-4
+1.32
+2-3
+2.42
+2-4
+2.24
+3-4
+5.10
+Herhangi Diğer
+2.78
+1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+2.08
+1-3
+2.02
+1-4
+2.01
+2-3
+6.50
+2-4
+6.40
+3-4
+26.00
+Herhangi Diğer
+1.52
+1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.75
+1-3
+1.66
+1-4
+1.64
+2-3
+4.20
+2-4
+4.10
+3-4
+13.00
+Herhangi Diğer
+1.83
+1.Yarı Toplam Gol (Kesin)
+0
+3.08
+1
+2.41
+2
+3.41
+3
+6.40
+4 veya Daha Fazla
+13.00
+1.Yarı Coritiba Toplam Gol (Kesin)
+0
+1
+2+
+1.60
+2.59
+7.40
+1.Yarı Santos SP Toplam Gol (Kesin)
+0
+1
+2+
+1.96
+2.37
+4.50
+1. Yarı Coritiba Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+4.57
+1.16
+1. Yarı Santos SP Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+3.30
+1.28
+2
+7.10
+1.065
+1. Yarı Coritiba Sıfıra Karşı Kazanır
+Evet
+Hayır
+4.30
+1.18
+1. Yarı Santos SP Sıfıra Karşı Kazanır
+Evet
+Hayır
+2.80
+1.38
+1. Yarı İlk Golü Atacak Takım
+Coritiba
+Santos SP
+Gol yok
+2.79
+2.02
+3.07
+1. Yarı Son Golü Atacak Takım
+Coritiba
+Santos SP
+Gol yok
+2.79
+2.02
+3.07
+1.Yarı Doğru Skor
+1-0
+4.75
+0-0
+2.86
+0-1
+3.56
+2-0
+14.00
+1-1
+5.90
+0-2
+7.90
+2-1
+17.00
+2-2
+36.00
+1-2
+13.00
+3-0
+56.00
+3-3
+201.00
+0-3
+25.00
+3-1
+71.00
+1-3
+41.00
+3-2
+151.00
+2-3
+111.00
+2. Yarı Sonucu
+Coritiba
+Beraberlik
+Santos SP
+3.19
+2.48
+2.16
+2. Yarı Çifte Şans
+1X
+12
+X2
+1.48
+1.38
+1.25
+2.Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.18
+4.30
+1
+1.31
+3.15
+1.5
+1.86
+1.84
+2
+2.80
+1.38
+2.5
+3.65
+1.24
+3
+6.90
+1.07
+3.5
+7.50
+1.055
+2.Yarı Coritiba Toplam Gol
+Üst
+Alt
+0.5
+1.82
+1.88
+1
+3.47
+1.26
+1.5
+4.90
+1.14
+2
+10.30
+1.018
+2.Yarı Santos SP Toplam Gol
+Üst
+Alt
+0.5
+1.53
+2.35
+1
+2.35
+1.53
+1.5
+3.47
+1.26
+2
+7.50
+1.055
+2.5
+8.20
+1.045
+2. Yarı Karşılıklı Gol
+Evet
+Hayır
+2.80
+1.38
+2. Yarı Gol Handikapı
+Coritiba
+Santos SP
+-1.5
+8.20
++1.5
+1.045
+-1
+7.30
++1
+1.06
+0
+2.30
+0
+1.55
++1
+1.19
+-1
+4.15
++1.5
+1.12
+-1.5
+5.35
++2
+1.02
+-2
+10.00
++2.5
+1.018
+-2.5
+10.30
+2. Yarı Gol Handikapı 3 İhtimalli
+Coritiba
+Beraberlik Santos SP
+Santos SP
+-1
+9.20
++1
+3.94
++1
+1.24
+0
+3.19
+0
+2.48
+0
+2.16
++1
+1.48
+-1
+3.23
+-1
+5.30
++2
+1.12
+-2
+6.50
+-2
+10.30
+2.Yarı: Sonuç ve Her İki Takımda Gol Atar
+Coritiba Ve Evet
+9.20
+Beraberlik ve Hayır
+3.81
+Coritiba Ve Hayır
+3.71
+Santos SP ve Evet
+6.80
+Beraberlik ve Evet
+4.60
+Santos SP ve Hayır
+2.95
+2. Yarı Toplam Gol Aralığı
+0-1
+1.84
+2-3
+2.04
+4 ila 6
+7.30
+7 veya Daha fazla
+29.00
+2.Yarı Coritiba Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.14
+3.92
+91.00
+2.Yarı Santos SP Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.26
+3.11
+41.00
+2. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.54
+1-3
+1.28
+1-4
+1.20
+2-3
+2.25
+2-4
+1.84
+3-4
+4.05
+Herhangi Diğer
+3.41
+2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.81
+1-3
+1.72
+1-4
+1.71
+2-3
+4.60
+2-4
+4.40
+3-4
+15.00
+Herhangi Diğer
+1.75
+2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)
+1-2
+1.62
+1-3
+1.50
+1-4
+1.47
+2-3
+3.11
+2-4
+3.14
+3-4
+8.90
+Herhangi Diğer
+2.11
+2.Yarı Toplam Gol (Kesin)
+0
+4.30
+1
+2.51
+2
+2.94
+3
+4.80
+4+
+7.50
+2.Yarı Coritiba Toplam Gol (Kesin)
+0
+1
+2+
+1.88
+2.40
+5.00
+2.Yarı Santos SP Toplam Gol (Kesin)
+0
+1
+2+
+2.35
+2.32
+3.47
+2. Yarı Coritiba Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+4.42
+1.17
+2
+9.00
+1.03
+2. Yarı Santos SP Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+3.40
+1.27
+2
+6.50
+1.08
+2.Yarı Coritiba Sıfıra karşı Kazanır
+Evet
+Hayır
+4.15
+1.19
+2.Yarı Santos SP Sıfıra karşı Kazanır
+Evet
+Hayır
+2.95
+1.35
+2. Yarı -İlk Golü Atacak Takım
+Coritiba
+Santos SP
+Gol yok
+2.44
+1.88
+4.20
+2. Yarı Son Golü Atacak Takım
+Coritiba
+Santos SP
+Gol yok
+2.44
+1.88
+4.20
+2. Yarı Doğru Skor
+1-0
+5.10
+0-0
+4.20
+0-1
+3.95
+2-0
+12.00
+1-1
+5.30
+0-2
+7.20
+2-1
+13.00
+2-2
+23.00
+1-2
+9.70
+3-0
+41.00
+3-3
+201.00
+0-3
+19.00
+3-1
+41.00
+1-3
+25.00
+3-2
+76.00
+2-3
+56.00
+1. Yarı/2. Yarı Karşılıklı Gol
+Evet/Evet
+8.30
+Hayır/Evet
+3.18
+Evet/Hayır
+4.50
+Hayır/Hayır
+1.63
+1. Yarı veya Maç Sonucu
+Coritiba
+X
+Santos SP
+2.28
+1.74
+1.58
+İlk Yarı/Maç Sonucu
+Coritiba/Coritiba
+4.60
+Beraberlik/Coritiba
+6.40
+Santos SP/Coritiba
+25.00
+Coritiba/Beraberlik
+11.00
+Beraberlik/Beraberlik
+5.10
+Santos SP/Beraberlik
+11.00
+Coritiba/Santos SP
+17.00
+Beraberlik/Santos SP
+4.40
+Santos SP/Santos SP
+2.62
+1.Yarı/2.Yarı Sonucu
+Coritiba/Coritiba
+10.00
+Coritiba/Beraberlik
+7.90
+Coritiba/Santos SP
+6.90
+Beraberlik/Coritiba
+6.40
+Beraberlik/Beraberlik
+5.10
+Beraberlik/Santos SP
+4.40
+Santos SP/Coritiba
+6.70
+Santos SP/Beraberlik
+5.30
+Santos SP/Santos SP
+4.60
+En Çok Gol Atılan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.78
+3.41
+1.90
+En Çok Gol Atılan Yarı : Çifte Şans
+1. Yarı veya Beraberlik
+1. veya 2.
+2. Yarı veya Beraberlik
+1.13
+1.05
+1.07
+Coritiba : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+3.28
+2.14
+2.46
+Santos SP : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+3.09
+2.49
+2.21
+Kornerler : Sonuç
+Coritiba
+X
+Santos SP
+2.50
+7.30
+1.71
+Kornerler : Toplam
+Üst
+Alt
+7.5
+1.13
+5.10
+9
+1.25
+3.57
+9.5
+1.38
+2.80
+10
+1.47
+2.50
+10.5
+1.64
+2.12
+11
+1.82
+1.88
+11.5
+2.04
+1.69
+12
+2.39
+1.51
+12.5
+2.65
+1.42
+13
+3.25
+1.29
+13.5
+3.57
+1.25
+14.5
+5.10
+1.13
+Toplam Korner : Coritiba
+Üst
+Alt
+4.5
+1.54
+2.33
+5
+1.77
+1.93
+5.5
+2.10
+1.65
+6
+2.68
+1.41
+6.5
+3.10
+1.32
+Toplam Korner : Santos SP
+Üst
+Alt
+4.5
+1.34
+3.00
+5
+1.44
+2.59
+5.5
+1.70
+2.02
+6
+1.97
+1.73
+6.5
+2.35
+1.53
+Kornerler: Handikap
+Coritiba
+Santos SP
+-1.5
+3.30
++1.5
+1.28
+-1
+3.10
++1
+1.32
+-0.5
+2.50
++0.5
+1.47
+0
+2.21
+0
+1.59
++0.5
+1.92
+-0.5
+1.78
++1
+1.71
+-1
+2.01
++1.5
+1.56
+-1.5
+2.27
++2
+1.40
+-2
+2.70
++2.5
+1.34
+-2.5
+3.00
++3
+1.22
+-3
+3.83
+Kornerler : Toplam (3-İhtimalli)
+Üst
+Kesin
+Alt
+13
+3.51
+8.50
+1.41
+12
+2.61
+7.60
+1.68
+11
+2.02
+7.20
+2.11
+10
+1.62
+7.30
+2.81
+9
+1.36
+7.90
+4.00
+Kornerler : Toplam (Aralık)
+5 veya daha az
+12.00
+6 - 8
+3.53
+9 - 11
+2.33
+12 - 14
+2.83
+15 veya daha fazla
+4.40
+Kornerler: Tek/Çift
+Çift
+Tek
+1.85
+1.85
+Korner Yarışı
+Coritiba
+Santos SP
+Hiç Kimse
+9
+8.10
+9
+5.00
+9
+1.29
+7
+3.85
+7
+2.68
+7
+2.14
+5
+2.52
+5
+1.81
+5
+6.60
+3
+2.09
+3
+1.66
+3
+51.00
+Kornerler: 1. Yarı Sonucu
+Coritiba
+X
+Santos SP
+2.69
+4.85
+1.84
+Kornerler: 1. Yarı Handikap
+Coritiba
+Santos SP
+0
+2.15
+0
+1.62
++0.5
+1.80
+-0.5
+1.90
++1
+1.55
+-1
+2.30
+Kornerler: 1. Yarı Toplam
+Üst
+Alt
+3.5
+1.24
+3.65
+4.5
+1.61
+2.17
+5
+1.83
+1.87
+5.5
+2.12
+1.64
+6.5
+3.10
+1.32
+Kornerler: 1. Yarı Coritiba Toplam
+Üst
+Alt
+1.5
+1.41
+2.68
+2
+1.55
+2.30
+2.5
+2.15
+1.62
+3
+2.70
+1.40
+3.5
+3.83
+1.22
+Kornerler: 1.Yarı Santos SP Toplam
+Üst
+Alt
+1.5
+1.22
+3.83
+2.5
+1.68
+2.05
+3
+2.04
+1.69
+3.5
+2.59
+1.44
+Toplam Korner : 2.Yarı
+Üst
+Alt
+4.5
+1.39
+2.75
+5.5
+1.81
+1.89
+6.5
+2.52
+1.46
+Kornerler : İlk Korner
+Coritiba
+Santos SP
+2.00
+1.72
+Kornerler : Son Korner
+Coritiba
+Santos SP
+2.05
+1.77
+Kartlar: Puan : Sonuç
+Coritiba
+X
+Santos SP
+2.60
+4.20
+2.09
+Kartlar: Puan Handikapı
+Coritiba
+Santos SP
+-0.5
+2.45
++0.5
+1.48
+0
+2.25
+0
+1.57
++0.5
+1.71
+-0.5
+2.01
++1
+1.46
+-1
+2.52
++1.5
+1.25
+-1.5
+3.57
+Kartlar: Toplam Puan
+Üst
+Alt
+1.5
+1.035
+8.70
+2.5
+1.13
+5.10
+3.5
+1.32
+3.10
+4
+1.38
+2.80
+4.5
+1.65
+2.10
+5
+1.92
+1.78
+5.5
+2.27
+1.56
+6
+3.05
+1.33
+6.5
+3.00
+1.34
+7.5
+4.15
+1.19
+8.5
+5.85
+1.10
+9.5
+7.85
+1.05
+Kartlar: Coritiba : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.065
+7.10
+1.5
+1.33
+3.05
+3.5
+3.30
+1.28
+4.5
+6.00
+1.095
+Kartlar: Santos SP : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.055
+7.50
+1.5
+1.29
+3.25
+2.5
+1.85
+1.85
+3.5
+3.05
+1.33
+4.5
+5.35
+1.12
+Kartlar: Toplam (Aralıklar)
+0
+31.00
+1-2
+3.84
+3-4
+2.29
+5-6
+2.27
+7-8
+3.17
+9-10
+5.60
+11 or more
+10.00
+Kartlar: 1.Yarı : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.21
+3.90
+1.5
+1.75
+1.95
+2.5
+2.85
+1.37
+Kartlar: 1. Yarı : Coritiba : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.55
+2.17
+1.5
+3.35
+1.24
+2.5
+7.10
+1.05
+Kartlar: 1. Yarı : Santos SP : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.50
+2.28
+1.5
+3.15
+1.27
+2.5
+6.70
+1.06
+Kartlar: 2. Yarı : Coritiba : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.19
+3.85
+1.5
+1.87
+1.75
+2.5
+3.65
+1.21
+Kartlar: 2. Yarı : Santos SP : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.17
+4.10
+1.5
+1.77
+1.85
+2.5
+3.27
+1.25
+En Fazla Korner Olan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.35
+7.20
+1.58
+Direkt Kırmızı Kart
+Evet
+2.88
+Her İki Takım da Kırmızı Kart Alır
+Evet
+41.00
+Her İki Takım da Kart Alır
+Evet
+Hayır
+1.12
+5.35
+Her iki takım da 2 veya daha fazla kart görür
+Evet
+Hayır
+1.65
+2.10
+Her iki takım da her iki yarıda kart alır
+Evet
+3.05
+İlk Kartı Görecek Takım
+Coritiba
+Santos SP
+No Card
+1.88
+1.80
+51.00
+Son Kartı Görecek Takım
+Coritiba
+Santos SP
+No Card
+1.88
+1.80
+51.00
+Sarı Kartlar: Sonuç
+Coritiba
+X
+Santos SP
+2.65
+4.50
+1.94
+Sarı Kartlar: Çifte Şans
+1X
+12
+X2
+1.76
+1.18
+1.41
+Sarı Kartlar: Handikap
+Coritiba
+Santos SP
+0
+2.20
+0
+1.60
++0.5
+1.76
+-0.5
+1.94
+Sarı Kartlar: Toplam
+Üst
+Alt
+4
+1.61
+2.17
+4.5
+1.94
+1.76
+5
+2.50
+1.47
+Sarı Kartlar: Coritiba : Toplam
+Üst
+Alt
+2
+1.95
+1.75
+Sarı Kartlar: Santos SP : Toplam
+Üst
+Alt
+2.5
+2.07
+1.67
+Sarı Kartlar : 1. Yarı Sonucu
+Coritiba
+X
+Santos SP
+3.26
+2.55
+2.45
+Sarı Kartlar : 1. Yarı Handikap
+Coritiba
+Santos SP
+0
+2.12
+0
+1.64
++0.5
+1.48
+-0.5
+2.45
+Sarı Kartlar: 1. Yarı : Toplam
+Üst
+Alt
+1
+1.38
+2.80
+1.5
+2.00
+1.72
+Sarı Kartlar : 1. Yarı Coritiba Toplam
+Üst
+Alt
+0.5
+1.84
+1.86
+Sarı Kartlar : 1. Yarı Santos SP Toplam
+Üst
+Alt
+0.5
+1.62
+2.15
+1
+2.68
+1.41
+Sarı Kartlar : 2.Yarı Sonuç
+Coritiba
+X
+Santos SP
+2.53
+3.32
+2.13
+Sarı Kartlar : 2.Yarı Handikap
+Coritiba
+Santos SP
+0
+2.10
+0
+1.65
++0.5
+1.63
+-0.5
+2.13
+Sarı Kartlar: 2.Yarı : Toplam
+Üst
+Alt
+2.5
+1.64
+2.12
+3
+2.05
+1.68
+Sarı Kartlar: 2. Yarı : Coritiba Toplam
+Üst
+Alt
+1
+1.54
+2.33
+1.5
+2.30
+1.55
+Sarı Kartlar: 2. Yarı : Santos SP Toplam
+Üst
+Alt
+1
+1.35
+2.95
+1.5
+1.94
+1.76
+2
+3.05
+1.33
+Sarı Kartlar: İlk Sarı Kartı Görür
+Coritiba
+Santos SP
+2.06
+1.76
+Sarı Kartlar: Son Sarı Kartı Görür
+Coritiba
+Santos SP
+2.06
+1.76
+Maçta Penaltı Olur
+Evet
+Hayır
+2.80
+1.38
+Coritiba : Penaltı Kazanır
+Evet
+4.85
+Santos SP : Penaltı Kazanır
+Evet
+4.40
+İki Takım da Penaltı Kazanır
+Evet
+21.00
+Maçta İki Penaltı Olur
+Evet
+4.70
+1. . Yarı : Penaltı
+Evet
+Hayır
+4.90
+1.14
+Penaltıdan Gol Atar
+Coritiba
+Santos SP
+6.60
+5.80
+Penaltı Kaçırır
+Coritiba
+Santos SP
+21.00
+17.00
+Maçta Kırmzı Kartlar
+YENİ
+1+
+3.65
+2+
+12.00
+3+
+31.00
+Coritiba Kırmızı Kartlar
+YENİ
+1+
+2+
+6.60
+19.00
+Santos SP Kırmızı Kartlar
+YENİ
+1+
+2+
+6.60
+19.00
+1. . Yarı : Kırmızı Kart
+Evet
+Hayır
+8.50
+1.04
+2.. Yarı : Kırmızı Kart
+Evet
+Hayır
+4.75
+1.15
+Penaltı ve Kırmızı Kart
+Evet
+Hayır
+7.30
+1.06
+Maçta Penaltı veya Kırmızı Kart olur
+Evet
+1.55
+Maçta kendi kalesine gol atılır
+Evet
+Hayır
+9.30
+1.027
+Herhangi Bir Zamanda Gol Atar
+Gabriel Barbosa
+2.06
+Neymar
+2.25
+Pedro Rocha
+3.05
+Philippe Coutinho
+3.05
+Thaciano
+3.30
+Rodrigo Rodrigues
+3.30
+Renato Marques
+3.55
+Rony
+3.60
+Paulo Roberto
+3.60
+Breno Lopes
+3.80
+Gustavo Caballero
+4.00
+Benjamin Rollheiser
+4.00
+Daha Fazla Seçeneği Göster
+İlk Golcü
+Gabriel Barbosa
+4.50
+Neymar
+5.10
+Thaciano
+7.60
+Rodrigo Rodrigues
+7.70
+Philippe Coutinho
+7.80
+Pedro Rocha
+7.80
+Rony
+8.00
+Renato Marques
+8.60
+Benjamin Rollheiser
+9.40
+Breno Lopes
+9.60
+Paulo Roberto
+9.70
+Gustavo Caballero
+10.00
+Daha Fazla Seçeneği Göster
+İlk Golcü. Çifte Şans
+Gabriel Barbosa or Pedro Rocha
+3.25
+Alvaro Barreal or Gabriel Barbosa
+3.50
+Breno Lopes or Gabriel Barbosa
+3.75
+Alvaro Barreal or Pedro Rocha
+4.00
+Breno Lopes or Pedro Rocha
+4.33
+Breno Lopes or Alvaro Barreal
+4.50
+Gabriel Bontempo or Benjamin Rollheiser
+5.00
+Benjamin Rollheiser or Renato Marques
+5.00
+Benjamin Rollheiser or Lucas Ronier
+5.00
+Renato Marques or Lucas Ronier
+5.50
+Son Golcü
+Gabriel Barbosa
+4.50
+Neymar
+5.10
+Thaciano
+7.60
+Rodrigo Rodrigues
+7.70
+Philippe Coutinho
+7.80
+Pedro Rocha
+7.90
+Rony
+8.00
+Paulo Roberto
+8.60
+Renato Marques
+8.60
+Gustavo Caballero
+9.00
+Benjamin Rollheiser
+9.40
+Breno Lopes
+9.60
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 2 Gol Atar
+Gabriel Barbosa
+6.70
+Neymar
+8.30
+Philippe Coutinho
+17.00
+Pedro Rocha
+17.00
+Thaciano
+17.00
+Rodrigo Rodrigues
+19.00
+Renato Marques
+21.00
+Breno Lopes
+21.00
+Paulo Roberto
+23.00
+Rony
+23.00
+Benjamin Rollheiser
+25.00
+Gustavo Caballero
+26.00
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 3 Gol Atar
+Gabriel Barbosa
+31.00
+Neymar
+41.00
+Gustavo Caballero
+96.00
+Philippe Coutinho
+101.00
+Thaciano
+111.00
+Pedro Rocha
+111.00
+Rodrigo Rodrigues
+111.00
+Josue
+126.00
+Tiago
+126.00
+Rony
+126.00
+Rodinei
+126.00
+Willian Arao
+126.00
+Daha Fazla Seçeneği Göster
+Oyuncu Asist Yapar
+YENİ
+Neymar 1+
+3.00
+Benjamin Rollheiser 1+
+3.45
+Everton Cebolinha 1+
+3.85
+Philippe Coutinho 1+
+4.00
+Gustavo Caballero 1+
+4.00
+Josue 1+
+4.10
+Gabriel Barbosa 1+
+4.85
+Breno Lopes 1+
+4.90
+Rony 1+
+5.00
+Davizinho 1+
+5.30
+Brian Ocampo 1+
+5.40
+Rodinei 1+
+5.70
+Rafael Gonzaga 1+
+5.90
+Pedro Rocha 1+
+6.00
+Lima 1+
+6.00
+Paulo Roberto 1+
+6.20
+Gabriel Menino 1+
+6.30
+Igor Vinicius 1+
+6.40
+Thaciano 1+
+6.50
+Arthur Melo 1+
+6.60
+Joaquin Lavega 1+
+7.10
+Gustavinho 1+
+7.10
+Gonzalo Escobar 1+
+7.70
+Rodrigo Rodrigues 1+
+7.80
+Renato Marques 1+
+8.10
+Samuel Pierri 1+
+8.50
+Felipe Jonatan 1+
+8.60
+Nicolas Fonseca 1+
+8.70
+Christian Oliva 1+
+8.80
+Vini Paulista 1+
+8.90
+Tinga 1+
+9.00
+Fabricio Bustos 1+
+9.00
+Joao Schmidt 1+
+9.30
+Tissi 1+
+10.00
+Richard 1+
+10.00
+Sebastian Gomez 1+
+10.00
+Rodrigo Gelado 1+
+11.00
+Bruno Melo 1+
+11.00
+Thiago Santos 1+
+13.00
+Willian Arao 1+
+13.00
+Joao Alencar 1+
+17.00
+Luan Peres 1+
+17.00
+Maicon 1+
+19.00
+Tiago 1+
+21.00
+Jacy 1+
+21.00
+Rodrigo Moledo 1+
+23.00
+Oyuncu Gol Atar veya Asist Yapar
+Neymar
+1.59
+Gabriel Barbosa
+1.66
+Philippe Coutinho
+2.00
+Benjamin Rollheiser
+2.15
+Pedro Rocha
+2.23
+Gustavo Caballero
+2.25
+Everton Cebolinha
+2.31
+Rony
+2.32
+Thaciano
+2.36
+Breno Lopes
+2.42
+Josue
+2.47
+Rodrigo Rodrigues
+2.49
+Daha Fazla Seçeneği Göster
+Oyuncu Gol Atar veya Asist Yapar (Çifte Şans)
+Alvaro Barreal or Gabriel Barbosa
+1.25
+Gabriel Barbosa or Benjamin Rollheiser
+1.25
+Alvaro Barreal or Benjamin Rollheiser
+1.29
+Pedro Rocha or Gabriel Barbosa
+1.30
+Pedro Rocha or Benjamin Rollheiser
+1.33
+Pedro Rocha or Alvaro Barreal
+1.33
+Breno Lopes or Josue Pesqueira
+1.44
+Lucas Ronier or Josue Pesqueira
+1.44
+Breno Lopes or Lucas Ronier
+1.44
+Josue Pesqueira or Gabriel Bontempo
+1.50
+Oyuncu Gol Atar ve Asist Yapar
+YENİ
+Neymar
+5.20
+Gabriel Barbosa
+8.00
+Philippe Coutinho
+8.30
+Benjamin Rollheiser
+8.80
+Gustavo Caballero
+9.40
+Everton Cebolinha
+10.00
+Breno Lopes
+11.00
+Rony
+11.00
+Josue
+11.00
+Pedro Rocha
+13.00
+Thaciano
+14.00
+Paulo Roberto
+14.00
+Brian Ocampo
+15.00
+Davizinho
+17.00
+Lima
+17.00
+Rodrigo Rodrigues
+17.00
+Renato Marques
+19.00
+Joaquin Lavega
+19.00
+Gabriel Menino
+19.00
+Vini Paulista
+26.00
+Christian Oliva
+26.00
+Joao Schmidt
+31.00
+Samuel Pierri
+31.00
+Arthur Melo
+31.00
+Tissi
+36.00
+Nicolas Fonseca
+36.00
+Sebastian Gomez
+36.00
+Oyuncu Penaltıdan Gol Atar
+YENİ
+Neymar
+5.40
+Josue
+6.40
+Benjamin Rollheiser
+9.70
+Gabriel Barbosa
+10.00
+Pedro Rocha
+11.00
+Rodrigo Rodrigues
+17.00
+Renato Marques
+17.00
+Paulo Roberto
+21.00
+Joaquin Lavega
+23.00
+Breno Lopes
+23.00
+Davizinho
+23.00
+Brian Ocampo
+23.00
+Lima
+23.00
+Vini Paulista
+25.00
+Nicolas Fonseca
+25.00
+Tissi
+25.00
+Samuel Pierri
+25.00
+Philippe Coutinho
+25.00
+Sebastian Gomez
+25.00
+Richard
+29.00
+Thiago Santos
+29.00
+Thaciano
+31.00
+Rony
+34.00
+Gustavo Caballero
+36.00
+Everton Cebolinha
+36.00
+Arthur Melo
+41.00
+Felipe Jonatan
+56.00
+Christian Oliva
+61.00
+Gabriel Menino
+61.00
+Gustavinho
+61.00
+Joao Schmidt
+61.00
+Fabricio Bustos
+67.00
+Tinga
+76.00
+Rodrigo Gelado
+76.00
+Rodrigo Moledo
+91.00
+Tiago
+91.00
+Bruno Melo
+91.00
+Joao Alencar
+91.00
+Rafael Gonzaga
+91.00
+Igor Vinicius
+91.00
+Luan Peres
+91.00
+Gonzalo Escobar
+91.00
+Willian Arao
+91.00
+Maicon
+91.00
+Rodinei
+91.00
+Jacy
+91.00
+Oyuncu Ceza Sahası Dışından Gol Atar
+Neymar
+8.70
+Pedro Rocha
+9.50
+Paulo Roberto
+10.00
+Thaciano
+12.00
+Josue
+15.00
+Rony
+15.00
+Breno Lopes
+17.00
+Davizinho
+19.00
+Gabriel Menino
+19.00
+Rodrigo Rodrigues
+19.00
+Everton Cebolinha
+19.00
+Benjamin Rollheiser
+19.00
+Daha Fazla Seçeneği Göster
+Oyuncu Penaltı Kaçırır
+YENİ
+Neymar
+25.00
+Gabriel Barbosa
+25.00
+Rodrigo Rodrigues
+29.00
+Renato Marques
+31.00
+Pedro Rocha
+31.00
+Benjamin Rollheiser
+34.00
+Paulo Roberto
+36.00
+Josue
+41.00
+Thaciano
+51.00
+Breno Lopes
+56.00
+Joaquin Lavega
+56.00
+Philippe Coutinho
+61.00
+Rony
+67.00
+Brian Ocampo
+71.00
+Davizinho
+76.00
+Gustavo Caballero
+76.00
+Everton Cebolinha
+86.00
+Tinga
+91.00
+Richard
+91.00
+Fabricio Bustos
+91.00
+Thiago Santos
+91.00
+Luan Peres
+91.00
+Tiago
+91.00
+Felipe Jonatan
+91.00
+Gustavinho
+91.00
+Rafael Gonzaga
+91.00
+Nicolas Fonseca
+91.00
+Sebastian Gomez
+91.00
+Jacy
+91.00
+Rodrigo Moledo
+91.00
+Joao Alencar
+91.00
+Rodinei
+91.00
+Lima
+91.00
+Joao Schmidt
+91.00
+Bruno Melo
+91.00
+Gabriel Menino
+91.00
+Samuel Pierri
+91.00
+Arthur Melo
+91.00
+Vini Paulista
+91.00
+Maicon
+91.00
+Tissi
+91.00
+Igor Vinicius
+91.00
+Gonzalo Escobar
+91.00
+Rodrigo Gelado
+91.00
+Christian Oliva
+91.00
+Willian Arao
+91.00
+Penaltı Kazandıran Oyuncu
+YENİ
+Neymar 1+
+11.00
+Gustavo Caballero 1+
+25.00
+Rony 1+
+26.00
+Brian Ocampo 1+
+26.00
+Renato Marques 1+
+29.00
+Lima 1+
+31.00
+Davizinho 1+
+31.00
+Everton Cebolinha 1+
+31.00
+Rodrigo Rodrigues 1+
+31.00
+Paulo Roberto 1+
+31.00
+Breno Lopes 1+
+36.00
+Josue 1+
+36.00
+Pedro Rocha 1+
+36.00
+Philippe Coutinho 1+
+41.00
+Arthur Melo 1+
+41.00
+Gabriel Menino 1+
+41.00
+Gabriel Barbosa 1+
+41.00
+Thaciano 1+
+41.00
+Benjamin Rollheiser 1+
+41.00
+Rafael Gonzaga 1+
+46.00
+Rodinei 1+
+51.00
+Thiago Santos 1+
+51.00
+Joaquin Lavega 1+
+51.00
+Tissi 1+
+56.00
+Gustavinho 1+
+56.00
+Samuel Pierri 1+
+61.00
+Rodrigo Gelado 1+
+67.00
+Igor Vinicius 1+
+71.00
+Bruno Melo 1+
+71.00
+Sebastian Gomez 1+
+71.00
+Nicolas Fonseca 1+
+71.00
+Felipe Jonatan 1+
+71.00
+Christian Oliva 1+
+71.00
+Vini Paulista 1+
+71.00
+Tinga 1+
+71.00
+Maicon 1+
+71.00
+Luan Peres 1+
+71.00
+Joao Schmidt 1+
+71.00
+Richard 1+
+71.00
+Joao Alencar 1+
+71.00
+Jacy 1+
+71.00
+Tiago 1+
+71.00
+Fabricio Bustos 1+
+71.00
+Rodrigo Moledo 1+
+71.00
+Willian Arao 1+
+71.00
+Gonzalo Escobar 1+
+71.00
+Oyuncu Kale Sahası İçinden Gol Atar
+YENİ
+Pedro Rocha
+7.50
+Philippe Coutinho
+8.40
+Gabriel Barbosa
+8.70
+Rony
+12.00
+Tiago
+13.00
+Rodrigo Rodrigues
+17.00
+Maicon
+19.00
+Breno Lopes
+19.00
+Christian Oliva
+19.00
+Neymar
+21.00
+Joaquin Lavega
+21.00
+Joao Schmidt
+21.00
+Thaciano
+21.00
+Renato Marques
+23.00
+Tinga
+23.00
+Bruno Melo
+23.00
+Paulo Roberto
+25.00
+Davizinho
+26.00
+Gustavo Caballero
+26.00
+Joao Alencar
+26.00
+Tissi
+29.00
+Josue
+31.00
+Rodinei
+34.00
+Lima
+36.00
+Everton Cebolinha
+36.00
+Benjamin Rollheiser
+36.00
+Samuel Pierri
+36.00
+Rafael Gonzaga
+41.00
+Arthur Melo
+41.00
+Gustavinho
+41.00
+Rodrigo Gelado
+41.00
+Igor Vinicius
+41.00
+Gonzalo Escobar
+41.00
+Gabriel Menino
+41.00
+Brian Ocampo
+46.00
+Rodrigo Moledo
+46.00
+Jacy
+46.00
+Nicolas Fonseca
+46.00
+Luan Peres
+46.00
+Willian Arao
+51.00
+Felipe Jonatan
+51.00
+Fabricio Bustos
+51.00
+Richard
+51.00
+Vini Paulista
+51.00
+Sebastian Gomez
+51.00
+Thiago Santos
+51.00
+Oyuncu Kafa Golü Atar
+Rodrigo Rodrigues
+8.30
+Thaciano
+9.80
+Rodrigo Moledo
+11.00
+Paulo Roberto
+12.00
+Renato Marques
+13.00
+Tiago
+13.00
+Rony
+17.00
+Gabriel Barbosa
+17.00
+Pedro Rocha
+17.00
+Jacy
+19.00
+Willian Arao
+21.00
+Luan Peres
+21.00
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar Çifte Şans
+Neymar or Gabriel Barbosa
+1.40
+Pedro Rocha or Gabriel Barbosa
+1.53
+Philippe Coutinho or Gabriel Barbosa
+1.53
+Thaciano or Gabriel Barbosa
+1.56
+Rodrigo Rodrigues or Gabriel Barbosa
+1.56
+Renato Marques or Gabriel Barbosa
+1.59
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar. Üçlü Şans
+Neymar or Philippe Coutinho or Gabriel Barbosa
+1.24
+Neymar or Pedro Rocha or Gabriel Barbosa
+1.24
+Thaciano or Neymar or Gabriel Barbosa
+1.25
+Neymar or Rodrigo Rodrigues or Gabriel Barbosa
+1.25
+Neymar or Renato Marques or Gabriel Barbosa
+1.26
+Rony or Neymar or Gabriel Barbosa
+1.26
+Daha Fazla Seçeneği Göster
+Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar
+Neymar and Gabriel Barbosa
+4.60
+Pedro Rocha and Gabriel Barbosa
+6.30
+Philippe Coutinho and Gabriel Barbosa
+6.30
+Thaciano and Gabriel Barbosa
+6.80
+Rodrigo Rodrigues and Gabriel Barbosa
+6.80
+Neymar and Pedro Rocha
+6.90
+Daha Fazla Seçeneği Göster
+Üç Oyuncu da Herhangi Bir Zamanda Gol Atar
+Neymar and Philippe Coutinho and Gabriel Barbosa
+14.00
+Neymar and Pedro Rocha and Gabriel Barbosa
+14.00
+Thaciano and Neymar and Gabriel Barbosa
+15.00
+Neymar and Rodrigo Rodrigues and Gabriel Barbosa
+15.00
+Neymar and Renato Marques and Gabriel Barbosa
+17.00
+Rony and Neymar and Gabriel Barbosa
+17.00
+Daha Fazla Seçeneği Göster
+Oyuncu 1. Yarıda Gol Atar
+Gabriel Barbosa
+3.45
+Neymar
+3.80
+Philippe Coutinho
+5.30
+Pedro Rocha
+5.40
+Rodrigo Rodrigues
+5.80
+Thaciano
+5.80
+Renato Marques
+6.30
+Rony
+6.30
+Paulo Roberto
+6.40
+Breno Lopes
+6.70
+Gustavo Caballero
+7.10
+Benjamin Rollheiser
+7.20
+Everton Cebolinha
+7.70
+Joaquin Lavega
+8.20
+Josue
+8.30
+Brian Ocampo
+10.00
+Lima
+10.00
+Davizinho
+11.00
+Gabriel Menino
+11.00
+Christian Oliva
+14.00
+Vini Paulista
+15.00
+Joao Schmidt
+17.00
+Samuel Pierri
+17.00
+Bruno Melo
+19.00
+Rodrigo Moledo
+19.00
+Tissi
+19.00
+Tiago
+19.00
+Willian Arao
+21.00
+Gustavinho
+21.00
+Arthur Melo
+21.00
+Sebastian Gomez
+21.00
+Rodinei
+21.00
+Nicolas Fonseca
+23.00
+Richard
+23.00
+Rafael Gonzaga
+25.00
+Thiago Santos
+25.00
+Luan Peres
+25.00
+Gonzalo Escobar
+26.00
+Rodrigo Gelado
+26.00
+Jacy
+26.00
+Felipe Jonatan
+26.00
+Igor Vinicius
+26.00
+Tinga
+26.00
+Fabricio Bustos
+26.00
+Joao Alencar
+26.00
+Maicon
+29.00
+Oyuncu 2. Yarıda Gol Atar
+Gabriel Barbosa
+2.90
+Neymar
+3.20
+Philippe Coutinho
+4.50
+Pedro Rocha
+4.50
+Rodrigo Rodrigues
+4.80
+Thaciano
+4.80
+Renato Marques
+5.20
+Rony
+5.30
+Paulo Roberto
+5.40
+Breno Lopes
+5.60
+Benjamin Rollheiser
+5.90
+Gustavo Caballero
+5.90
+Everton Cebolinha
+6.40
+Joaquin Lavega
+6.80
+Josue
+6.90
+Lima
+8.10
+Brian Ocampo
+8.40
+Davizinho
+8.50
+Gabriel Menino
+9.30
+Christian Oliva
+12.00
+Samuel Pierri
+13.00
+Vini Paulista
+13.00
+Joao Schmidt
+14.00
+Rodrigo Moledo
+15.00
+Bruno Melo
+15.00
+Tissi
+17.00
+Tiago
+17.00
+Arthur Melo
+17.00
+Rodinei
+17.00
+Willian Arao
+17.00
+Sebastian Gomez
+17.00
+Gustavinho
+17.00
+Nicolas Fonseca
+19.00
+Richard
+19.00
+Rafael Gonzaga
+21.00
+Thiago Santos
+21.00
+Luan Peres
+21.00
+Gonzalo Escobar
+23.00
+Jacy
+23.00
+Tinga
+23.00
+Rodrigo Gelado
+23.00
+Igor Vinicius
+23.00
+Joao Alencar
+23.00
+Fabricio Bustos
+23.00
+Felipe Jonatan
+23.00
+Maicon
+25.00
+Oyuncu Her İki Yarıda da Gol Atar
+Gabriel Barbosa
+7.90
+Neymar
+9.40
+Pedro Rocha
+17.00
+Philippe Coutinho
+17.00
+Thaciano
+19.00
+Rodrigo Rodrigues
+19.00
+Renato Marques
+21.00
+Rony
+21.00
+Paulo Roberto
+23.00
+Breno Lopes
+23.00
+Gustavo Caballero
+25.00
+Benjamin Rollheiser
+26.00
+Everton Cebolinha
+29.00
+Joaquin Lavega
+31.00
+Josue
+31.00
+Lima
+41.00
+Brian Ocampo
+41.00
+Davizinho
+46.00
+Gabriel Menino
+51.00
+Oyuncu Serbest Vuruştan Gol Atar
+YENİ
+Neymar
+15.00
+Philippe Coutinho
+21.00
+Josue
+31.00
+Samuel Pierri
+56.00
+Gabriel Menino
+61.00
+Benjamin Rollheiser
+61.00
+Arthur Melo
+61.00
+Gabriel Barbosa
+67.00
+Lima
+67.00
+Davizinho
+67.00
+Joao Schmidt
+71.00
+Christian Oliva
+71.00
+Richard
+76.00
+Gustavinho
+76.00
+Brian Ocampo
+81.00
+Tissi
+86.00
+Everton Cebolinha
+91.00
+Igor Vinicius
+91.00
+Thaciano
+91.00
+Bruno Melo
+91.00
+Jacy
+91.00
+Felipe Jonatan
+91.00
+Rafael Gonzaga
+91.00
+Renato Marques
+91.00
+Tinga
+91.00
+Willian Arao
+91.00
+Pedro Rocha
+91.00
+Nicolas Fonseca
+91.00
+Vini Paulista
+91.00
+Joao Alencar
+91.00
+Rodinei
+91.00
+Paulo Roberto
+91.00
+Maicon
+91.00
+Thiago Santos
+91.00
+Breno Lopes
+91.00
+Rony
+91.00
+Joaquin Lavega
+91.00
+Rodrigo Rodrigues
+91.00
+Luan Peres
+91.00
+Tiago
+91.00
+Fabricio Bustos
+91.00
+Gonzalo Escobar
+91.00
+Rodrigo Moledo
+91.00
+Gustavo Caballero
+91.00
+Sebastian Gomez
+91.00
+Rodrigo Gelado
+91.00
+Oyuncu Sağ Ayağıyla Gol Atar
+YENİ
+Neymar
+2.70
+Philippe Coutinho
+3.40
+Pedro Rocha
+4.30
+Rony
+4.70
+Thaciano
+4.75
+Everton Cebolinha
+5.00
+Breno Lopes
+5.10
+Rodrigo Rodrigues
+5.30
+Renato Marques
+5.30
+Paulo Roberto
+5.40
+Gustavo Caballero
+5.70
+Brian Ocampo
+7.50
+Lima
+7.90
+Gabriel Menino
+8.30
+Christian Oliva
+9.70
+Davizinho
+10.00
+Gabriel Barbosa
+11.00
+Vini Paulista
+12.00
+Arthur Melo
+14.00
+Gustavinho
+14.00
+Tissi
+15.00
+Samuel Pierri
+15.00
+Nicolas Fonseca
+15.00
+Rodinei
+19.00
+Richard
+19.00
+Joaquin Lavega
+21.00
+Fabricio Bustos
+23.00
+Thiago Santos
+23.00
+Willian Arao
+23.00
+Benjamin Rollheiser
+23.00
+Igor Vinicius
+25.00
+Tiago
+25.00
+Tinga
+31.00
+Rafael Gonzaga
+36.00
+Maicon
+36.00
+Rodrigo Moledo
+41.00
+Joao Alencar
+41.00
+Sebastian Gomez
+41.00
+Josue
+41.00
+Joao Schmidt
+41.00
+Rodrigo Gelado
+41.00
+Gonzalo Escobar
+41.00
+Jacy
+41.00
+Bruno Melo
+41.00
+Luan Peres
+41.00
+Felipe Jonatan
+41.00
+Oyuncu Sol Ayağıyla Gol Atar
+YENİ
+Gabriel Barbosa
+2.35
+Benjamin Rollheiser
+4.70
+Josue
+5.00
+Joaquin Lavega
+5.80
+Neymar
+8.40
+Pedro Rocha
+11.00
+Davizinho
+13.00
+Breno Lopes
+13.00
+Renato Marques
+14.00
+Gustavo Caballero
+14.00
+Sebastian Gomez
+15.00
+Rodrigo Rodrigues
+15.00
+Joao Schmidt
+17.00
+Paulo Roberto
+17.00
+Bruno Melo
+17.00
+Lima
+19.00
+Thaciano
+19.00
+Rony
+21.00
+Felipe Jonatan
+21.00
+Brian Ocampo
+21.00
+Rodrigo Gelado
+25.00
+Gabriel Menino
+25.00
+Philippe Coutinho
+25.00
+Rafael Gonzaga
+26.00
+Everton Cebolinha
+26.00
+Gonzalo Escobar
+26.00
+Vini Paulista
+31.00
+Samuel Pierri
+31.00
+Rodinei
+31.00
+Luan Peres
+31.00
+Tiago
+41.00
+Tinga
+41.00
+Maicon
+41.00
+Rodrigo Moledo
+41.00
+Christian Oliva
+41.00
+Fabricio Bustos
+41.00
+Willian Arao
+41.00
+Richard
+41.00
+Thiago Santos
+41.00
+Jacy
+41.00
+Tissi
+41.00
+Joao Alencar
+41.00
+Gustavinho
+41.00
+Nicolas Fonseca
+41.00
+Arthur Melo
+41.00
+Igor Vinicius
+41.00
+İlk 10 Dakikada Gol Atar
+Gabriel Barbosa
+13.00
+Neymar
+14.00
+Philippe Coutinho
+21.00
+Thaciano
+21.00
+Pedro Rocha
+21.00
+Rodrigo Rodrigues
+23.00
+Rony
+23.00
+Paulo Roberto
+25.00
+Renato Marques
+25.00
+Breno Lopes
+25.00
+Benjamin Rollheiser
+26.00
+Gustavo Caballero
+26.00
+Everton Cebolinha
+26.00
+Joaquin Lavega
+31.00
+Josue
+31.00
+Davizinho
+34.00
+Lima
+34.00
+Brian Ocampo
+36.00
+Gabriel Menino
+36.00
+Christian Oliva
+46.00
+Samuel Pierri
+51.00
+Vini Paulista
+51.00
+Tissi
+56.00
+Joao Schmidt
+61.00
+Rodrigo Moledo
+61.00
+Arthur Melo
+61.00
+Gustavinho
+67.00
+Willian Arao
+67.00
+Bruno Melo
+71.00
+Tiago
+71.00
+Rodinei
+71.00
+Nicolas Fonseca
+71.00
+Sebastian Gomez
+76.00
+Richard
+81.00
+Joao Alencar
+81.00
+Fabricio Bustos
+81.00
+Tinga
+81.00
+Gonzalo Escobar
+81.00
+Rodrigo Gelado
+81.00
+Igor Vinicius
+81.00
+Rafael Gonzaga
+81.00
+Felipe Jonatan
+81.00
+Luan Peres
+81.00
+Jacy
+81.00
+Maicon
+81.00
+Thiago Santos
+81.00
+Coritiba : İlk Golü Atar
+Pedro Rocha
+3.90
+Rodrigo Rodrigues
+4.00
+Breno Lopes
+4.40
+Fabinho da Silva
+4.75
+Paulo Roberto
+4.80
+Renato Marques
+5.00
+Lucas Ronier
+5.50
+Keno
+5.50
+Joaquin Lavega
+5.80
+Josue Pesqueira
+6.50
+Brian Ocampo
+7.00
+Gustavo Oliveira
+7.50
+Daha Fazla Seçeneği Göster
+Coritiba : Son Golcü
+Pedro Rocha
+3.75
+Rodrigo Rodrigues
+4.00
+Fabinho da Silva
+4.75
+Paulo Roberto
+5.00
+Breno Lopes
+5.00
+Renato Marques
+5.00
+Lucas Ronier
+5.50
+Keno
+5.50
+Joaquin Lavega
+6.50
+Josue Pesqueira
+6.50
+Brian Ocampo
+7.00
+Gustavo Oliveira
+7.50
+Daha Fazla Seçeneği Göster
+Santos SP : Son Golü Atar
+Neymar
+3.00
+Gabriel Barbosa
+3.60
+Miguelito
+3.60
+Philippe Coutinho
+4.00
+Rony
+4.33
+Pedro Assis
+4.50
+Thaciano
+4.50
+Moises Vieira
+4.75
+Vinicius Lima
+5.00
+Alvaro Barreal
+5.00
+Gustavo Caballero
+5.50
+Everton Cebolinha
+5.50
+Daha Fazla Seçeneği Göster
+Gol Asisti Yapar Çifte Şans
+Benjamin Rollheiser or Alvaro Barreal
+1.48
+Josue Pesqueira or Benjamin Rollheiser
+1.50
+Benjamin Rollheiser or Lucas Ronier
+1.55
+Josue Pesqueira or Alvaro Barreal
+1.57
+Lucas Ronier or Alvaro Barreal
+1.62
+Josue Pesqueira or Lucas Ronier
+1.65
+Gabriel Bontempo or Gabriel Barbosa
+1.81
+Pedro Rocha or Gabriel Barbosa
+1.87
+Gabriel Barbosa or Breno Lopes
+1.87
+Gabriel Bontempo or Pedro Rocha
+2.00
+Oyuncu Kart Görür
+Neymar
+2.48
+Nicolas Fonseca
+2.60
+Thiago Santos
+2.60
+Igor Vinicius
+2.80
+Christian Oliva
+2.90
+Gonzalo Escobar
+3.05
+Tissi
+3.05
+Luan Peres
+3.05
+Gustavinho
+3.10
+Joao Schmidt
+3.10
+Gabriel Barbosa
+3.15
+Rodrigo Moledo
+3.15
+Daha Fazla Seçeneği Göster
+Oyuncu Kart Görür Çifte Şans
+Thiago Santos or Gonzalo Escobar
+1.62
+Gabriel Barbosa or Gonzalo Escobar
+1.67
+Gabriel Barbosa or Thiago Santos
+1.67
+Gabriel Bontempo or Gonzalo Escobar
+1.73
+Gabriel Bontempo or Gabriel Barbosa
+1.80
+Gabriel Bontempo or Thiago Santos
+1.80
+Renato Marques or Jacy Maranhao
+2.20
+Renato Marques or Lucas Verissimo
+2.20
+Jacy Maranhao or Lucas Verissimo
+2.20
+Alvaro Barreal or Jacy Maranhao
+2.20
+Oyuncu Sarı Kart Görür
+Neymar
+2.55
+Thiago Santos
+2.65
+Nicolas Fonseca
+2.70
+Igor Vinicius
+2.90
+Christian Oliva
+3.00
+Tissi
+3.15
+Gonzalo Escobar
+3.15
+Luan Peres
+3.15
+Joao Schmidt
+3.20
+Joao Alencar
+3.20
+Gustavinho
+3.20
+Rodrigo Moledo
+3.25
+Gabriel Barbosa
+3.30
+Bruno Melo
+3.30
+Brian Ocampo
+3.30
+Gabriel Menino
+3.30
+Samuel Pierri
+3.35
+Rafael Gonzaga
+3.40
+Rodinei
+3.40
+Benjamin Rollheiser
+3.45
+Willian Arao
+3.45
+Sebastian Gomez
+3.70
+Vini Paulista
+3.70
+Rony
+3.75
+Arthur Melo
+3.75
+Josue
+3.75
+Jacy
+3.75
+Renato Marques
+3.75
+Richard
+3.80
+Tiago
+3.85
+Joaquin Lavega
+3.90
+Everton Cebolinha
+3.90
+Rodrigo Gelado
+4.10
+Breno Lopes
+4.20
+Fabricio Bustos
+4.20
+Lima
+4.30
+Gustavo Caballero
+4.33
+Tinga
+4.40
+Davizinho
+4.40
+Paulo Roberto
+4.50
+Thaciano
+4.50
+Pedro Rocha
+4.60
+Felipe Jonatan
+4.60
+Maicon
+4.75
+Philippe Coutinho
+4.75
+Rodrigo Rodrigues
+4.80
+Diogenes
+9.30
+Keiller
+9.60
+Pedro Rangel
+11.00
+Joao Paulo
+12.00
+Kart Görecek İlk Oyuncu
+Nicolas Fonseca
+7.80
+Thiago Santos
+7.80
+Joao Schmidt
+9.00
+Tissi
+9.30
+Neymar
+9.80
+Gustavinho
+10.00
+Brian Ocampo
+10.00
+Sebastian Gomez
+11.00
+Joao Alencar
+11.00
+Samuel Pierri
+11.00
+Everton Cebolinha
+11.00
+Rony
+12.00
+Daha Fazla Seçeneği Göster
+Son Kartı Görecek Oyuncu
+YENİ
+Thiago Santos
+7.80
+Nicolas Fonseca
+7.80
+Joao Schmidt
+9.00
+Tissi
+9.30
+Neymar
+9.80
+Brian Ocampo
+10.00
+Gustavinho
+10.00
+Everton Cebolinha
+11.00
+Samuel Pierri
+11.00
+Joao Alencar
+11.00
+Sebastian Gomez
+11.00
+Richard
+12.00
+Christian Oliva
+12.00
+Gustavo Caballero
+12.00
+Rodrigo Gelado
+12.00
+Vini Paulista
+12.00
+Tiago
+12.00
+Rony
+12.00
+Gonzalo Escobar
+12.00
+Luan Peres
+12.00
+Rodinei
+13.00
+Lima
+13.00
+Gabriel Menino
+13.00
+Jacy
+13.00
+Arthur Melo
+13.00
+Fabricio Bustos
+13.00
+Rodrigo Moledo
+13.00
+Igor Vinicius
+13.00
+Davizinho
+13.00
+Benjamin Rollheiser
+13.00
+Willian Arao
+14.00
+Joaquin Lavega
+14.00
+Rodrigo Rodrigues
+15.00
+Rafael Gonzaga
+15.00
+Maicon
+15.00
+Thaciano
+15.00
+Bruno Melo
+15.00
+Philippe Coutinho
+15.00
+Renato Marques
+17.00
+Tinga
+17.00
+Josue
+17.00
+Paulo Roberto
+17.00
+Felipe Jonatan
+17.00
+Breno Lopes
+17.00
+Gabriel Barbosa
+17.00
+Pedro Rocha
+17.00
+Keiller
+29.00
+Pedro Rangel
+31.00
+Joao Paulo
+36.00
+Diogenes
+36.00
+Oyundan Uzaklaştırılır
+YENİ
+Nicolas Fonseca
+19.00
+Renato Marques
+23.00
+Neymar
+23.00
+Thiago Santos
+23.00
+Tissi
+23.00
+Brian Ocampo
+26.00
+Gonzalo Escobar
+26.00
+Rodrigo Rodrigues
+26.00
+Igor Vinicius
+29.00
+Tiago
+29.00
+Gabriel Barbosa
+29.00
+Christian Oliva
+29.00
+Daha Fazla Seçeneği Göster
+Coritiba : Her İki Yarıda Gol Atar
+Evet
+Hayır
+3.90
+1.21
+Santos SP Her İki Yarıda Gol Atar
+Evet
+Hayır
+2.68
+1.41
+Coritiba : Her İki Yarıda Kazanır
+Evet
+Hayır
+8.70
+1.035
+Santos SP Her İki Yarıda Kazanır
+Evet
+Hayır
+5.10
+1.13
+Coritiba : İlk Yarıda Gol Atar
+Evet
+Hayır
+2.20
+1.60
+Santos SP İlk Yarıda Gol Atar
+Evet
+Hayır
+1.74
+1.96
+Coritiba : İkinci Yarıda Gol Atar
+Evet
+Hayır
+1.82
+1.88
+Santos SP İkinci Yarıda Gol Atar
+Evet
+Hayır
+1.53
+2.35
+İlk Yarıda Gol
+Evet
+Hayır
+1.30
+3.08
+İkinci Yarıda Gol
+Evet
+Hayır
+1.18
+4.30
+Her İki Yarııda da 1.5 Üst Gol
+Evet
+Hayır
+4.42
+1.17
+Her İki Yarı Goller 1.5 Alt
+Evet
+Hayır
+2.80
+1.38
+Coritiba Gol Yemeden Kazanır
+Evet
+Hayır
+6.15
+1.09
+Santos SP Gol Yemeden Kazanır
+Evet
+Hayır
+3.75
+1.23
+Coritiba İki veya Üç Gol Farkla Kazanır
+Evet
+Hayır
+6.90
+1.07
+Santos SP İki veya Üç Gol Farkla Kazanır
+Evet
+Hayır
+4.05
+1.20
+Coritiba Bir Gol Farkla Kazanır veya Berabere
+Evet
+Hayır
+2.21
+1.59
+Santos SP Bir Gol Farkla Kazanır veya Berabere Kalır
+Evet
+Hayır
+1.83
+1.87
+Coritiba En Az Bir Yarıyı Kazanır
+Evet
+Hayır
+2.12
+1.64
+Santos SP En Az Bir Yarıda Kazanır
+Evet
+Hayır
+1.51
+2.39
+Coritiba İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+7.85
+1.05
+Santos SP İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+8.20
+1.045
+Coritiba : Gol Atar 1.Yarı/2.Yarı
+Evet/Hayır
+3.52
+Evet/Evet
+3.50
+Hayır/Hayır
+3.15
+Hayır/Evet
+2.63
+Santos SP Gol Atar İlk Yarı/İkinci Yarı
+Evet/Hayır
+3.50
+Evet/Evet
+2.68
+Hayır/Hayır
+4.30
+Hayır/Evet
+2.70
+Yarıları Farklı Takımlar Kazanır
+Evet
+Hayır
+4.30
+1.18
+Yarılardan En Az Birinde Beraberlik
+Evet
+Hayır
+1.56
+2.27
+Maç Skoru Beraberlik (0-0 hariç)
+Evet
+Hayır
+3.90
+1.21
+Kesin Gol Sayısı
+Gol Yok
+11.00
+Kesin 1
+5.10
+Kesin 2
+3.75
+Kesin 3
+3.75
+Kesin 4
+4.75
+Kesin 5
+6.50
+Kesin 6 veya Fazla
+8.20
+Maçta 1 Gol Olur
+Evet
+Hayır
+5.10
+1.13
+Maçta 2 Gol Olur
+Evet
+Hayır
+3.75
+1.23
+Maçta 3 Gol Olur
+Evet
+Hayır
+3.75
+1.23
+Maçta 4 Gol Olur
+Evet
+Hayır
+4.75
+1.15
+Coritiba : Kazanma Marjı
+1
+5.10
+2
+8.50
+3
+17.00
+4+
+41.00
+Santos SP : Kazanma Marjı
+1
+3.57
+2
+5.60
+3
+8.60
+4+
+15.00
+Skor Kombinasyonları
+1-0 / 2-0 / 3-0
+5.90
+4-0 / 5-0 / 6-0
+56.00
+2-1 / 3-1 / 4-1
+6.50
+3-2 / 4-2 / 4-3
+15.00
+0-1 / 0-2 / 0-3
+3.65
+0-4 / 0-5 / 0-6
+21.00
+1-2 / 1-3 / 1-4
+4.10
+2-3 / 2-4 / 3-4
+9.40
+Ofsaytlar: Toplam
+YENİ
+2+
+1.23
+3+
+1.63
+4+
+2.48
+5+
+4.30
+6+
+7.60
+Ofsaytlar: Coritiba Toplam
+YENİ
+1+
+1.28
+2+
+2.12
+3+
+4.33
+4+
+9.50
+5+
+17.00
+Ofsaytlar: Santos SP Toplam
+YENİ
+1+
+1.24
+2+
+1.95
+3+
+3.75
+4+
+8.00
+5+
+14.00
+Fauller: Toplam
+YENİ
+26+
+1.62
+27+
+1.84
+28+
+2.14
+29+
+2.55
+30+
+3.10
+Fauller: Coritiba - Toplam
+YENİ
+12+
+1.43
+13+
+1.67
+14+
+2.04
+15+
+2.60
+16+
+3.45
+Fauller: Santos SP - Toplam
+YENİ
+12+
+1.36
+13+
+1.56
+14+
+1.85
+15+
+2.28
+16+
+2.95
+17+
+3.90
+Kaleyi Bulan Şutlar: Toplam
+YENİ
+8+
+1.26
+9+
+1.45
+10+
+1.75
+11+
+2.21
+12+
+2.95
+13+
+4.10
+Kaleyi Bulan Şutlar: Coritiba - Toplam
+YENİ
+3+
+1.21
+4+
+1.50
+5+
+2.06
+6+
+3.10
+7+
+5.10
+Kaleyi Bulan Şutlar: Santos SP - Toplam
+YENİ
+4+
+1.23
+5+
+1.49
+6+
+1.94
+7+
+2.75
+8+
+4.20
+9+
+6.70
+Kaleyi Bulan Şutlar: 1. Yarı - Toplam
+YENİ
+3+
+1.18
+4+
+1.44
+5+
+1.94
+6+
+2.90
+7+
+4.85
+8+
+8.60
+Kaleyi Bulan Şutlar: 1. Yarı - Coritiba - Toplam
+YENİ
+1+
+1.13
+2+
+1.57
+3+
+2.65
+4+
+5.30
+5+
+11.00
+Kaleyi Bulan Şutlar: 1. Yarı - Santos SP - Toplam
+YENİ
+2+
+1.37
+3+
+2.04
+4+
+3.55
+5+
+7.00
+6+
+14.00
+Kaleyi Bulan Şutlar: 2. Yarı - Toplam
+YENİ
+4+
+1.23
+5+
+1.50
+6+
+1.99
+7+
+2.90
+8+
+4.50
+9+
+7.50
+Kaleyi Bulan Şutlar: 2. Yarı - Coritiba - Toplam
+YENİ
+2+
+1.43
+3+
+2.20
+4+
+3.95
+5+
+7.80
+6+
+15.00
+Kaleyi Bulan Şutlar: 2. Yarı - Santos SP - Toplam
+YENİ
+2+
+1.23
+3+
+1.63
+4+
+2.44
+5+
+4.10
+6+
+7.50
+Şutlar: Toplam
+YENİ
+30+
+1.42
+31+
+1.54
+32+
+1.69
+33+
+1.88
+34+
+2.12
+35+
+2.42
+36+
+2.80
+37+
+3.30
+Şutlar: Coritiba: Toplam
+YENİ
+13+
+1.29
+14+
+1.41
+15+
+1.57
+16+
+1.77
+17+
+2.02
+18+
+2.36
+Şutlar: Santos SP: Toplam
+YENİ
+16+
+1.26
+17+
+1.35
+18+
+1.47
+19+
+1.62
+20+
+1.80
+21+
+2.02
+22+
+2.31
+Taç Atışları: Toplam
+YENİ
+43+
+1.76
+44+
+1.93
+45+
+2.13
+Taç Atışları: Coritiba - Toplam
+YENİ
+21+
+1.64
+22+
+1.86
+23+
+2.14
+24+
+2.50
+Taç Atışları: Santos SP - Toplam
+YENİ
+22+
+1.81
+23+
+2.08
+24+
+2.44
+Paslar: Coritiba Toplam
+YENİ
+300+
+1.22
+350+
+1.66
+400+
+2.75
+Paslar: Santos SP Toplam
+YENİ
+400+
+1.16
+450+
+1.35
+500+
+1.75
+550+
+2.55
+600+
+3.90
+Pas Denemeleri: Coritiba Toplam
+YENİ
+400+
+1.29
+450+
+1.86
+500+
+3.25
+Pas Denemeleri: Santos SP Toplam
+YENİ
+500+
+1.18
+550+
+1.42
+600+
+1.94
+650+
+3.05
+İlk 10 Dakika (00:00 - 09:59) Gol
+Üst
+Alt
+0.5
+4.15
+1.19
+İlk 10 Dakika (00:00 - 09:59) Köşe vuruşu
+Üst
+Alt
+0.5
+1.44
+2.59
+1.5
+2.95
+1.35
+Coritiba : İlk 10 Dakika (00:00 – 09:59) Kornerler
+Üst
+Alt
+0.5
+2.37
+1.52
+1.5
+7.10
+1.065
+Santos SP : İlk 10 Dakika (00:00 – 09:59) Kornerler
+Üst
+Alt
+0.5
+1.97
+1.73
+1.5
+5.35
+1.12
+İlk 10 Dakika (00:00 - 09:59) Sarı Kartlar
+Üst
+Alt
+0.5
+6.30
+1.085
+1-15 Dk. Galibi
+Coritiba
+X
+Santos SP
+6.90
+1.24
+5.00
+1-15 Dk. Gol Handikapı
+Coritiba
+Santos SP
+0
+2.17
+0
+1.62
+1-15 Dk. Toplam Goller
+Üst
+Alt
+0.5
+2.65
+1.42
+1
+7.30
+1.06
+1-15 Dk. Coritiba Toplam Goller
+Üst
+Alt
+0.5
+4.90
+1.14
+1-15 Dk. Santos SP Toplam Goller
+Üst
+Alt
+0.5
+3.90
+1.21
+1-15 Dk. İki Takım Gol Atar
+Evet
+Hayır
+10.90
+1.011
+1-30 Dk. Galibi
+Coritiba
+X
+Santos SP
+4.40
+1.66
+3.12
+1-30 Dk. Gol Handikapı
+Coritiba
+Santos SP
+0
+2.21
+0
+1.60
+1-30 Dk. Toplam Goller
+Üst
+Alt
+0.5
+1.63
+2.13
+1
+2.68
+1.41
+1-30 Dk. Coritiba Toplam Goller
+Üst
+Alt
+0.5
+2.87
+1.36
+1
+8.50
+1.04
+1-30 Dk. Santos SP Toplam Goller
+Üst
+Alt
+0.5
+2.35
+1.53
+1
+6.00
+1.095
+1-30 Dk. Karşılıklı Gol
+Evet
+Hayır
+6.15
+1.09
+1-60 Dk. Galibi
+Coritiba
+X
+Santos SP
+3.30
+2.57
+2.19
+1-60 Dk. Gol Handikapı
+Coritiba
+Santos SP
+0
+2.28
+0
+1.55
+1-60 Dk. Toplam Goller
+Üst
+Alt
+1.5
+1.65
+2.10
+2
+2.25
+1.57
+1-60 Dk. Coritiba Toplam Goller
+Üst
+Alt
+0.5
+1.68
+2.05
+1
+2.87
+1.36
+1-60 Dk. Santos SP Toplam Goller
+Üst
+Alt
+0.5
+1.43
+2.62
+1
+1.97
+1.73
+1-60 Dk. Karşılıklı Gol
+Evet
+Hayır
+2.45
+1.48
+1-75 Dk. Galibi
+Coritiba
+X
+Santos SP
+3.14
+2.98
+2.02
+1-75 Dk. Gol Handikapı
+Coritiba
+Santos SP
+0
+2.35
+0
+1.52
+1-75 Dk. Toplam Goller
+Üst
+Alt
+2
+1.56
+2.27
+2.5
+2.05
+1.68
+1-75 Dk. Coritiba Toplam Goller
+Üst
+Alt
+0.5
+1.45
+2.55
+1
+2.05
+1.68
+1-75 Dk. Santos SP Toplam Goller
+Üst
+Alt
+1
+1.51
+2.39
+1.5
+2.21
+1.59
+1-75 Dk. Karşılıklı Gol
+Evet
+Hayır
+1.89
+1.81
+Farklı Kombineler
+Coritiba Kazanır veya Üst (2.5) Gol
+1.37
+Beraberlik veya Üst 2.5 Gol
+1.25
+Santos SP Kazanır veya 2.5 Üst Gol
+1.27
+Coritiba Kazanır veya Alt (2.5) Gol
+1.50
+Beraberlik veya Alt 2.5 Gol
+1.68
+Santos SP kazanır veya 2,5 alt gol
+1.24
+Daha Fazla Seçeneği Göster
+Çifte Şans Kombo
+1X ve Üst (2.5) Gol
+3.35
+1X ve Alt (2.5) Gol
+3.11
+X2 ve Üst (2.5) Gol
+2.20
+X2 ve Alt (2.5) Gol
+2.57
+12 ve Üst (2.5) Gol
+1.87
+12 ve Alt (2.5) Gol
+3.01
+1X ve Karşılıklı Gol Olur
+2.30
+Coritiba 0'a karşı kazanır veya Doğru Skor 0-0
+4.20
+X2 ve Karşılıklı Gol Olur
+1.85
+Santos SP 0'a karşı kazanır veya Doğru Skor 0 : 0
+3.15
+12 ve Karşılıklı Gol Olur
+2.12
+Coritiba veya Santos SP - Gol Yemeden Kazanır
+2.34
+Daha Fazla Seçeneği Göster
+1.Yarı/Maç Skoru
+0-0/0-0
+14.00
+0-1/0-1
+14.00
+0-2/0-2
+31.00
+0-3/0-3
+96.00
+0-4/0-4
+276.00
+1-0/1-0
+19.00
+1-1/1-1
+23.00
+1-2/1-2
+51.00
+1-3/1-3
+151.00
+1-4/1-4
+276.00
+2-0/2-0
+51.00
+2-1/2-1
+67.00
+2-2/2-2
+141.00
+2-3/2-3
+276.00
+2-4/2-4
+276.00
+3-0/3-0
+201.00
+3-1/3-1
+251.00
+3-2/3-2
+276.00
+Daha Fazla Seçeneği Göster
+Karşılıklı Gol ve Toplam Goller 2.5
+Evet ve Üst 2.5
+1.81
+Evet ve Alt 2.5
+5.40
+Hayır ve Üst 2.5
+6.80
+Hayır ve Alt 2.5
+2.57
+Karşılıklı Gol ve Toplam Goller 3.5
+Evet ve Üst 3.5
+2.56
+Evet ve Alt 3.5
+2.73
+Hayır ve Üst 3.5
+15.00
+Hayır ve Alt 3.5
+2.22
+Her İki Yarıda da Karşılıklı Gol
+Evet
+Hayır
+8.30
+1.04
+İlk Golü Atacak Takım ve Maç Sonucu
+Coritiba ve Coritiba
+3.45
+Coritiba ve Berabere
+6.20
+Coritiba ve Santos SP
+8.00
+Santos SP ve Coritiba
+13.00
+Santos SP ve Berabere
+6.20
+Santos SP ve Santos SP
+2.08
+Gol Yok
+14.00
+İlk Golü Atacak Takım ve 1. Yarı Sonucu
+Coritiba ve Coritiba
+3.41
+Coritiba ve Berabere
+4.50
+Coritiba ve Santos SP
+25.00
+Santos SP ve Coritiba
+36.00
+Santos SP ve Berabere
+3.84
+Santos SP ve Santos SP
+2.29
+Gol Yok
+11.00
+İlk Golü Atacak Takım ve 2. Yarı Sonucu
+Coritiba ve Coritiba
+4.85
+Coritiba ve Berabere
+5.50
+Coritiba ve Santos SP
+5.30
+Santos SP ve Coritiba
+5.70
+Santos SP ve Berabere
+4.20
+Santos SP ve Santos SP
+2.85
+Gol Yok
+11.00
+1.Yarı Toplam Gol 'e karşı 2. Yarı Toplam Gol Handikapı
+İlk Yarı Toplam Goller
+İkinci Yarı Toplam Goller
++1.5
+1.25
+-1.5
+3.57
++0.5
+1.13
+-0.5
+1.90
+-0.5
+2.75
++0.5
+1.07
+Coritiba : Geriden Gelerek Kazanır
+Evet
+Hayır
+7.45
+1.03
+Santos SP : Geriden Kazanır
+Evet
+Hayır
+6.20
+1.06
+İlk Yarı/Maç Sonucu ve Toplam Gol
+Coritiba/Coritiba ve Üst (1.5)
+5.40
+Coritiba/Coritiba ve Alt (1.5)
+19.00
+Coritiba/Beraberlik ve Üst (1.5)
+11.00
+Coritiba/Santos SP ve Üst (1.5)
+17.00
+Beraberlik/Coritiba ve Üst (1.5)
+9.20
+Beraberlik/Coritiba ve Alt (1.5)
+15.00
+Beraberlik/Beraberlik ve Üst (1.5)
+7.50
+Beraberlik/Beraberlik ve Alt (1.5)
+11.00
+Beraberlik/Santos SP ve Üst (1.5)
+6.00
+Beraberlik/Santos SP ve Alt (1.5)
+11.00
+Santos SP/Coritiba ve Üst (1.5)
+25.00
+Santos SP/Beraberlik ve Üst (1.5)
+11.00
+Daha Fazla Seçeneği Göster
+Oyuncu Şutları
+YENİ
+Arthur Melo 1+
+1.42
+Arthur Melo 2+
+2.95
+Arthur Melo 3+
+7.60
+Arthur Melo 4+
+17.00
+Benjamin Rollheiser 2+
+1.25
+Benjamin Rollheiser 3+
+1.72
+Benjamin Rollheiser 4+
+2.75
+Benjamin Rollheiser 5+
+5.20
+Breno Lopes 2+
+1.41
+Breno Lopes 3+
+2.21
+Breno Lopes 4+
+4.20
+Breno Lopes 5+
+8.70
+Brian Ocampo 2+
+1.48
+Brian Ocampo 3+
+2.38
+Brian Ocampo 4+
+4.50
+Brian Ocampo 5+
+9.50
+Bruno Melo 1+
+1.60
+Bruno Melo 2+
+3.85
+Bruno Melo 3+
+11.00
+Bruno Melo 4+
+23.00
+Christian Oliva 1+
+1.33
+Christian Oliva 2+
+2.48
+Christian Oliva 3+
+5.90
+Christian Oliva 4+
+14.00
+Davizinho 1+
+1.20
+Davizinho 2+
+1.84
+Davizinho 3+
+3.55
+Davizinho 4+
+8.10
+Everton Cebolinha 3+
+1.49
+Everton Cebolinha 4+
+2.19
+Everton Cebolinha 5+
+3.70
+Everton Cebolinha 6+
+6.90
+Fabricio Bustos 1+
+1.79
+Fabricio Bustos 2+
+4.85
+Fabricio Bustos 3+
+14.00
+Fabricio Bustos 4+
+26.00
+Felipe Jonatan 1+
+1.57
+Felipe Jonatan 2+
+3.60
+Felipe Jonatan 3+
+10.00
+Felipe Jonatan 4+
+19.00
+Gabriel Barbosa 3+
+1.21
+Gabriel Barbosa 4+
+1.52
+Gabriel Barbosa 5+
+2.13
+Gabriel Barbosa 6+
+3.35
+Gabriel Barbosa 7+
+5.70
+Gabriel Menino 2+
+1.46
+Gabriel Menino 3+
+2.37
+Gabriel Menino 4+
+4.60
+Gabriel Menino 5+
+9.80
+Gonzalo Escobar 1+
+1.80
+Gonzalo Escobar 2+
+5.00
+Gonzalo Escobar 3+
+14.00
+Gonzalo Escobar 4+
+26.00
+Gustavinho 1+
+1.47
+Gustavinho 2+
+3.15
+Gustavinho 3+
+8.40
+Gustavinho 4+
+19.00
+Gustavo Caballero 2+
+1.28
+Gustavo Caballero 3+
+1.82
+Gustavo Caballero 4+
+3.05
+Gustavo Caballero 5+
+5.90
+Igor Vinicius 1+
+2.03
+Igor Vinicius 2+
+6.20
+Igor Vinicius 3+
+17.00
+Igor Vinicius 4+
+36.00
+Jacy 1+
+1.58
+Jacy 2+
+3.75
+Jacy 3+
+10.00
+Jacy 4+
+21.00
+Joao Alencar 1+
+2.65
+Joao Alencar 2+
+9.30
+Joao Alencar 3+
+23.00
+Joao Schmidt 1+
+1.54
+Joao Schmidt 2+
+3.50
+Joao Schmidt 3+
+9.80
+Joao Schmidt 4+
+19.00
+Joaquin Lavega 2+
+1.43
+Joaquin Lavega 3+
+2.26
+Joaquin Lavega 4+
+4.30
+Joaquin Lavega 5+
+9.10
+Josue 2+
+1.33
+Josue 3+
+1.96
+Josue 4+
+3.45
+Josue 5+
+6.80
+Lima 1+
+1.13
+Lima 2+
+1.54
+Lima 3+
+2.60
+Lima 4+
+5.10
+Luan Peres 1+
+1.98
+Luan Peres 2+
+6.20
+Luan Peres 3+
+15.00
+Luan Peres 4+
+34.00
+Maicon 1+
+2.60
+Maicon 2+
+9.60
+Maicon 3+
+21.00
+Neymar 3+
+1.18
+Neymar 4+
+1.44
+Neymar 5+
+1.95
+Neymar 6+
+2.95
+Neymar 7+
+4.85
+Nicolas Fonseca 1+
+1.29
+Nicolas Fonseca 2+
+2.26
+Nicolas Fonseca 3+
+5.10
+Nicolas Fonseca 4+
+12.00
+Paulo Roberto 2+
+1.33
+Paulo Roberto 3+
+1.96
+Paulo Roberto 4+
+3.45
+Paulo Roberto 5+
+6.90
+Pedro Rocha 3+
+1.52
+Pedro Rocha 4+
+2.26
+Pedro Rocha 5+
+3.90
+Pedro Rocha 6+
+7.40
+Philippe Coutinho 3+
+1.49
+Philippe Coutinho 4+
+2.19
+Philippe Coutinho 5+
+3.70
+Philippe Coutinho 6+
+7.00
+Rafael Gonzaga 1+
+1.79
+Rafael Gonzaga 2+
+5.00
+Rafael Gonzaga 3+
+14.00
+Rafael Gonzaga 4+
+26.00
+Renato Marques 3+
+1.44
+Renato Marques 4+
+2.07
+Renato Marques 5+
+3.40
+Renato Marques 6+
+6.30
+Richard 1+
+1.47
+Richard 2+
+3.05
+Richard 3+
+8.00
+Richard 4+
+17.00
+Rodinei 1+
+1.48
+Rodinei 2+
+3.20
+Rodinei 3+
+8.60
+Rodinei 4+
+19.00
+Rodrigo Gelado 1+
+1.66
+Rodrigo Gelado 2+
+4.10
+Rodrigo Gelado 3+
+12.00
+Rodrigo Gelado 4+
+23.00
+Rodrigo Moledo 1+
+1.56
+Rodrigo Moledo 2+
+3.45
+Rodrigo Moledo 3+
+9.30
+Rodrigo Moledo 4+
+19.00
+Rodrigo Rodrigues 2+
+1.33
+Rodrigo Rodrigues 3+
+1.97
+Rodrigo Rodrigues 4+
+3.45
+Rodrigo Rodrigues 5+
+6.90
+Rony 2+
+1.27
+Rony 3+
+1.78
+Rony 4+
+2.95
+Rony 5+
+5.60
+Rony 6+
+11.00
+Samuel Pierri 1+
+1.38
+Samuel Pierri 2+
+2.70
+Samuel Pierri 3+
+6.80
+Samuel Pierri 4+
+17.00
+Sebastian Gomez 1+
+1.23
+Sebastian Gomez 2+
+2.02
+Sebastian Gomez 3+
+4.30
+Sebastian Gomez 4+
+10.00
+Thaciano 2+
+1.23
+Thaciano 3+
+1.69
+Thaciano 4+
+2.70
+Thaciano 5+
+5.00
+Thiago Santos 1+
+1.60
+Thiago Santos 2+
+3.85
+Thiago Santos 3+
+11.00
+Thiago Santos 4+
+21.00
+Tiago 1+
+1.74
+Tiago 2+
+4.70
+Tiago 3+
+13.00
+Tiago 4+
+25.00
+Tinga 1+
+1.52
+Tinga 2+
+3.40
+Tinga 3+
+9.40
+Tinga 4+
+19.00
+Tissi 1+
+1.36
+Tissi 2+
+2.65
+Tissi 3+
+6.70
+Tissi 4+
+14.00
+Vini Paulista 1+
+1.26
+Vini Paulista 2+
+2.09
+Vini Paulista 3+
+4.40
+Vini Paulista 4+
+11.00
+Willian Arao 1+
+1.61
+Willian Arao 2+
+3.90
+Willian Arao 3+
+11.00
+Willian Arao 4+
+23.00
+Oyuncu Pasları
+YENİ
+Arthur Melo 75+
+1.59
+Arthur Melo 80+
+1.86
+Arthur Melo 85+
+2.25
+Arthur Melo 90+
+2.80
+Benjamin Rollheiser 55+
+1.49
+Benjamin Rollheiser 60+
+1.80
+Benjamin Rollheiser 65+
+2.29
+Benjamin Rollheiser 70+
+3.05
+Breno Lopes 25+
+1.32
+Breno Lopes 30+
+1.60
+Breno Lopes 35+
+2.12
+Breno Lopes 40+
+3.10
+Brian Ocampo 30+
+1.37
+Brian Ocampo 35+
+1.70
+Brian Ocampo 40+
+2.31
+Brian Ocampo 45+
+3.45
+Christian Oliva 55+
+1.55
+Christian Oliva 60+
+1.91
+Christian Oliva 65+
+2.48
+Christian Oliva 70+
+3.35
+Everton Cebolinha 35+
+1.37
+Everton Cebolinha 40+
+1.70
+Everton Cebolinha 45+
+2.31
+Everton Cebolinha 50+
+3.45
+Fabricio Bustos 30+
+1.22
+Fabricio Bustos 35+
+1.47
+Fabricio Bustos 40+
+1.89
+Fabricio Bustos 45+
+2.65
+Fabricio Bustos 50+
+4.00
+Felipe Jonatan 40+
+1.45
+Felipe Jonatan 45+
+1.85
+Felipe Jonatan 50+
+2.60
+Felipe Jonatan 55+
+3.80
+Gabriel Barbosa 25+
+1.32
+Gabriel Barbosa 30+
+1.61
+Gabriel Barbosa 35+
+2.15
+Gabriel Barbosa 40+
+3.15
+Gonzalo Escobar 50+
+1.53
+Gonzalo Escobar 55+
+1.91
+Gonzalo Escobar 60+
+2.55
+Gonzalo Escobar 65+
+3.55
+Gustavinho 50+
+1.49
+Gustavinho 55+
+1.84
+Gustavinho 60+
+2.41
+Gustavinho 65+
+3.30
+Gustavo Caballero 25+
+1.64
+Gustavo Caballero 30+
+2.20
+Gustavo Caballero 35+
+3.25
+Igor Vinicius 45+
+1.44
+Igor Vinicius 50+
+1.78
+Igor Vinicius 55+
+2.37
+Igor Vinicius 60+
+3.35
+Jacy 35+
+1.29
+Jacy 40+
+1.54
+Jacy 45+
+2.02
+Jacy 50+
+2.90
+Joao Alencar 50+
+1.53
+Joao Alencar 55+
+1.91
+Joao Alencar 60+
+2.55
+Joao Alencar 65+
+3.55
+Joao Schmidt 55+
+1.42
+Joao Schmidt 60+
+1.68
+Joao Schmidt 65+
+2.10
+Joao Schmidt 70+
+2.75
+Joao Schmidt 75+
+3.70
+Joaquin Lavega 25+
+1.54
+Joaquin Lavega 30+
+2.01
+Joaquin Lavega 35+
+2.90
+Luan Peres 60+
+1.46
+Luan Peres 65+
+1.72
+Luan Peres 70+
+2.12
+Luan Peres 75+
+2.70
+Maicon 35+
+1.34
+Maicon 40+
+1.65
+Maicon 45+
+2.22
+Maicon 50+
+3.25
+Rafael Gonzaga 35+
+1.22
+Rafael Gonzaga 40+
+1.43
+Rafael Gonzaga 45+
+1.80
+Rafael Gonzaga 50+
+2.49
+Renato Marques 15+
+1.33
+Renato Marques 20+
+1.63
+Renato Marques 25+
+2.18
+Renato Marques 30+
+3.20
+Richard 35+
+1.33
+Richard 40+
+1.63
+Richard 45+
+2.18
+Richard 50+
+3.20
+Richard 55+
+4.00
+Rodinei 40+
+1.45
+Rodinei 45+
+1.85
+Rodinei 50+
+2.60
+Rodinei 55+
+3.80
+Rodrigo Gelado 35+
+1.46
+Rodrigo Gelado 40+
+1.86
+Rodrigo Gelado 45+
+2.60
+Rodrigo Gelado 50+
+4.00
+Rodrigo Moledo 30+
+1.42
+Rodrigo Moledo 35+
+1.80
+Rodrigo Moledo 40+
+2.50
+Rodrigo Moledo 45+
+3.80
+Rodrigo Rodrigues 15+
+2.28
+Rodrigo Rodrigues 20+
+3.40
+Samuel Pierri 40+
+1.46
+Samuel Pierri 45+
+1.86
+Samuel Pierri 50+
+2.60
+Samuel Pierri 55+
+3.85
+Sebastian Gomez 30+
+1.33
+Sebastian Gomez 35+
+1.62
+Sebastian Gomez 40+
+2.17
+Sebastian Gomez 45+
+3.20
+Thiago Santos 35+
+1.28
+Thiago Santos 40+
+1.54
+Thiago Santos 45+
+2.01
+Thiago Santos 50+
+2.90
+Tiago 35+
+1.44
+Tiago 40+
+1.83
+Tiago 45+
+2.55
+Tiago 50+
+3.90
+Tinga 30+
+1.31
+Tinga 35+
+1.58
+Tinga 40+
+2.09
+Tinga 45+
+3.05
+Tissi 40+
+1.49
+Tissi 45+
+1.92
+Tissi 50+
+2.75
+Tissi 55+
+4.00
+Vini Paulista 30+
+1.43
+Vini Paulista 35+
+1.80
+Vini Paulista 40+
+2.50
+Vini Paulista 45+
+3.80
+Oyuncu Pas Denemeleri
+YENİ
+Arthur Melo 100+
+3.20
+Arthur Melo 85+
+1.69
+Arthur Melo 90+
+2.02
+Arthur Melo 95+
+2.50
+Benjamin Rollheiser 65+
+1.42
+Benjamin Rollheiser 70+
+1.66
+Benjamin Rollheiser 75+
+2.05
+Benjamin Rollheiser 80+
+2.65
+Benjamin Rollheiser 85+
+3.55
+Breno Lopes 30+
+1.29
+Breno Lopes 35+
+1.55
+Breno Lopes 40+
+2.02
+Breno Lopes 45+
+2.90
+Brian Ocampo 35+
+1.29
+Brian Ocampo 40+
+1.55
+Brian Ocampo 45+
+2.04
+Brian Ocampo 50+
+2.95
+Christian Oliva 65+
+1.61
+Christian Oliva 70+
+2.00
+Christian Oliva 75+
+2.60
+Christian Oliva 80+
+3.55
+Everton Cebolinha 45+
+1.45
+Everton Cebolinha 50+
+1.84
+Everton Cebolinha 55+
+2.60
+Everton Cebolinha 60+
+3.85
+Fabricio Bustos 40+
+1.24
+Fabricio Bustos 45+
+1.46
+Fabricio Bustos 50+
+1.87
+Fabricio Bustos 55+
+2.65
+Fabricio Bustos 60+
+3.90
+Felipe Jonatan 45+
+1.34
+Felipe Jonatan 50+
+1.63
+Felipe Jonatan 55+
+2.16
+Felipe Jonatan 60+
+3.10
+Gabriel Barbosa 35+
+1.57
+Gabriel Barbosa 40+
+2.07
+Gabriel Barbosa 45+
+3.00
+Gonzalo Escobar 60+
+1.57
+Gonzalo Escobar 65+
+1.96
+Gonzalo Escobar 70+
+2.60
+Gonzalo Escobar 75+
+3.60
+Gustavinho 55+
+1.36
+Gustavinho 60+
+1.62
+Gustavinho 65+
+2.04
+Gustavinho 70+
+2.75
+Gustavinho 75+
+3.80
+Gustavo Caballero 30+
+1.36
+Gustavo Caballero 35+
+1.67
+Gustavo Caballero 40+
+2.26
+Gustavo Caballero 45+
+3.35
+Igor Vinicius 55+
+1.55
+Igor Vinicius 60+
+1.95
+Igor Vinicius 65+
+2.65
+Igor Vinicius 70+
+3.70
+Jacy 45+
+1.41
+Jacy 50+
+1.76
+Jacy 55+
+2.43
+Jacy 60+
+3.55
+Joao Alencar 60+
+1.59
+Joao Alencar 65+
+2.00
+Joao Alencar 70+
+2.65
+Joao Alencar 75+
+3.65
+Joao Schmidt 65+
+1.46
+Joao Schmidt 70+
+1.73
+Joao Schmidt 75+
+2.17
+Joao Schmidt 80+
+2.85
+Joaquin Lavega 30+
+1.36
+Joaquin Lavega 35+
+1.68
+Joaquin Lavega 40+
+2.28
+Joaquin Lavega 45+
+3.40
+Luan Peres 70+
+1.55
+Luan Peres 75+
+1.86
+Luan Peres 80+
+2.34
+Luan Peres 85+
+3.05
+Maicon 40+
+1.28
+Maicon 45+
+1.53
+Maicon 50+
+2.00
+Maicon 55+
+2.85
+Rafael Gonzaga 50+
+1.30
+Rafael Gonzaga 55+
+1.54
+Rafael Gonzaga 60+
+1.93
+Rafael Gonzaga 65+
+2.60
+Renato Marques 25+
+1.50
+Renato Marques 30+
+1.94
+Renato Marques 35+
+2.75
+Richard 45+
+1.36
+Richard 50+
+1.68
+Richard 55+
+2.26
+Richard 60+
+3.25
+Richard 65+
+4.00
+Rodinei 50+
+1.54
+Rodinei 55+
+1.98
+Rodinei 60+
+2.75
+Rodinei 65+
+4.00
+Rodrigo Gelado 45+
+1.32
+Rodrigo Gelado 50+
+1.59
+Rodrigo Gelado 55+
+2.09
+Rodrigo Gelado 60+
+2.95
+Rodrigo Gelado 65+
+4.00
+Rodrigo Moledo 40+
+1.47
+Rodrigo Moledo 45+
+1.89
+Rodrigo Moledo 50+
+2.65
+Rodrigo Moledo 55+
+4.00
+Rodrigo Rodrigues 20+
+1.32
+Rodrigo Rodrigues 25+
+1.61
+Rodrigo Rodrigues 30+
+2.14
+Rodrigo Rodrigues 35+
+3.15
+Samuel Pierri 55+
+1.44
+Samuel Pierri 60+
+1.75
+Samuel Pierri 65+
+2.28
+Samuel Pierri 70+
+3.15
+Sebastian Gomez 35+
+1.30
+Sebastian Gomez 40+
+1.57
+Sebastian Gomez 45+
+2.07
+Sebastian Gomez 50+
+3.00
+Thiago Santos 45+
+1.44
+Thiago Santos 50+
+1.83
+Thiago Santos 55+
+2.55
+Thiago Santos 60+
+3.75
+Tiago 40+
+1.33
+Tiago 45+
+1.62
+Tiago 50+
+2.17
+Tiago 55+
+3.20
+Tinga 45+
+1.50
+Tinga 50+
+1.94
+Tinga 55+
+2.75
+Tissi 45+
+1.34
+Tissi 50+
+1.63
+Tissi 55+
+2.16
+Tissi 60+
+3.10
+Tissi 65+
+4.00
+Vini Paulista 35+
+1.36
+Vini Paulista 40+
+1.68
+Vini Paulista 45+
+2.28
+Vini Paulista 50+
+3.40
+Oyuncunun Yaptığı Fauller
+YENİ
+Arthur Melo 1+
+1.31
+Arthur Melo 2+
+2.37
+Arthur Melo 3+
+5.60
+Arthur Melo 4+
+13.00
+Benjamin Rollheiser 1+
+1.29
+Benjamin Rollheiser 2+
+2.28
+Benjamin Rollheiser 3+
+5.30
+Benjamin Rollheiser 4+
+12.00
+Breno Lopes 1+
+1.58
+Breno Lopes 2+
+3.80
+Breno Lopes 3+
+11.00
+Breno Lopes 4+
+21.00
+Brian Ocampo 1+
+1.22
+Brian Ocampo 2+
+1.91
+Brian Ocampo 3+
+3.70
+Brian Ocampo 4+
+8.20
+Bruno Melo 1+
+1.57
+Bruno Melo 2+
+3.75
+Bruno Melo 3+
+10.00
+Bruno Melo 4+
+21.00
+Christian Oliva 1+
+1.21
+Christian Oliva 2+
+1.92
+Christian Oliva 3+
+3.95
+Christian Oliva 4+
+9.00
+Davizinho 1+
+1.31
+Davizinho 2+
+2.37
+Davizinho 3+
+5.60
+Davizinho 4+
+12.00
+Diogenes 1+
+26.00
+Everton Cebolinha 1+
+1.19
+Everton Cebolinha 2+
+1.82
+Everton Cebolinha 3+
+3.60
+Everton Cebolinha 4+
+8.20
+Fabricio Bustos 1+
+1.38
+Fabricio Bustos 2+
+2.70
+Fabricio Bustos 3+
+6.90
+Fabricio Bustos 4+
+15.00
+Felipe Jonatan 1+
+1.49
+Felipe Jonatan 2+
+3.30
+Felipe Jonatan 3+
+8.90
+Felipe Jonatan 4+
+19.00
+Gabriel Barbosa 1+
+1.70
+Gabriel Barbosa 2+
+4.50
+Gabriel Barbosa 3+
+12.00
+Gabriel Barbosa 4+
+23.00
+Gabriel Menino 1+
+1.29
+Gabriel Menino 2+
+2.27
+Gabriel Menino 3+
+5.20
+Gabriel Menino 4+
+12.00
+Gonzalo Escobar 1+
+1.27
+Gonzalo Escobar 2+
+2.19
+Gonzalo Escobar 3+
+4.90
+Gonzalo Escobar 4+
+11.00
+Gustavinho 1+
+1.19
+Gustavinho 2+
+1.81
+Gustavinho 3+
+3.55
+Gustavinho 4+
+8.00
+Gustavo Caballero 1+
+1.20
+Gustavo Caballero 2+
+1.87
+Gustavo Caballero 3+
+3.75
+Gustavo Caballero 4+
+8.70
+Igor Vinicius 1+
+1.27
+Igor Vinicius 2+
+2.20
+Igor Vinicius 3+
+4.90
+Igor Vinicius 4+
+11.00
+Jacy 1+
+1.38
+Jacy 2+
+2.70
+Jacy 3+
+6.80
+Jacy 4+
+14.00
+Joao Alencar 1+
+1.31
+Joao Alencar 2+
+2.36
+Joao Alencar 3+
+5.40
+Joao Alencar 4+
+12.00
+Joao Paulo 1+
+26.00
+Joao Schmidt 1+
+1.30
+Joao Schmidt 2+
+2.05
+Joao Schmidt 3+
+3.85
+Joao Schmidt 4+
+8.20
+Joaquin Lavega 1+
+1.34
+Joaquin Lavega 2+
+2.55
+Joaquin Lavega 3+
+6.20
+Joaquin Lavega 4+
+14.00
+Josue 1+
+1.36
+Josue 2+
+2.60
+Josue 3+
+6.40
+Josue 4+
+13.00
+Keiller 1+
+26.00
+Lima 1+
+1.26
+Lima 2+
+2.16
+Lima 3+
+4.85
+Lima 4+
+11.00
+Luan Peres 1+
+1.38
+Luan Peres 2+
+2.70
+Luan Peres 3+
+6.60
+Luan Peres 4+
+13.00
+Maicon 1+
+1.67
+Maicon 2+
+4.30
+Maicon 3+
+12.00
+Maicon 4+
+23.00
+Neymar 1+
+1.19
+Neymar 2+
+1.81
+Neymar 3+
+3.55
+Neymar 4+
+8.00
+Nicolas Fonseca 2+
+1.31
+Nicolas Fonseca 3+
+1.91
+Nicolas Fonseca 4+
+3.30
+Nicolas Fonseca 5+
+6.60
+Paulo Roberto 1+
+1.33
+Paulo Roberto 2+
+2.46
+Paulo Roberto 3+
+5.90
+Paulo Roberto 4+
+13.00
+Pedro Rangel 1+
+26.00
+Pedro Rocha 1+
+1.34
+Pedro Rocha 2+
+2.50
+Pedro Rocha 3+
+6.20
+Pedro Rocha 4+
+13.00
+Philippe Coutinho 1+
+1.50
+Philippe Coutinho 2+
+3.35
+Philippe Coutinho 3+
+9.10
+Philippe Coutinho 4+
+17.00
+Rafael Gonzaga 1+
+1.34
+Rafael Gonzaga 2+
+2.55
+Rafael Gonzaga 3+
+6.20
+Rafael Gonzaga 4+
+14.00
+Renato Marques 1+
+1.25
+Renato Marques 2+
+2.10
+Renato Marques 3+
+4.70
+Renato Marques 4+
+11.00
+Richard 1+
+1.23
+Richard 2+
+1.99
+Richard 3+
+4.20
+Richard 4+
+9.60
+Rodinei 1+
+1.25
+Rodinei 2+
+2.06
+Rodinei 3+
+4.30
+Rodinei 4+
+9.10
+Rodrigo Gelado 1+
+1.41
+Rodrigo Gelado 2+
+2.80
+Rodrigo Gelado 3+
+6.90
+Rodrigo Gelado 4+
+15.00
+Rodrigo Moledo 1+
+1.55
+Rodrigo Moledo 2+
+3.60
+Rodrigo Moledo 3+
+10.00
+Rodrigo Moledo 4+
+19.00
+Rodrigo Rodrigues 1+
+1.17
+Rodrigo Rodrigues 2+
+1.73
+Rodrigo Rodrigues 3+
+3.30
+Rodrigo Rodrigues 4+
+7.30
+Rony 1+
+1.21
+Rony 2+
+1.92
+Rony 3+
+3.95
+Rony 4+
+9.10
+Samuel Pierri 1+
+1.17
+Samuel Pierri 2+
+1.71
+Samuel Pierri 3+
+3.25
+Samuel Pierri 4+
+7.20
+Sebastian Gomez 1+
+1.19
+Sebastian Gomez 2+
+1.82
+Sebastian Gomez 3+
+3.55
+Sebastian Gomez 4+
+7.90
+Thaciano 1+
+1.44
+Thaciano 2+
+3.05
+Thaciano 3+
+7.80
+Thaciano 4+
+17.00
+Thiago Santos 2+
+1.44
+Thiago Santos 3+
+2.32
+Thiago Santos 4+
+4.50
+Thiago Santos 5+
+9.40
+Tiago 1+
+1.29
+Tiago 2+
+2.25
+Tiago 3+
+4.90
+Tiago 4+
+10.00
+Tinga 1+
+1.56
+Tinga 2+
+3.65
+Tinga 3+
+10.00
+Tinga 4+
+19.00
+Tissi 1+
+1.23
+Tissi 2+
+2.02
+Tissi 3+
+4.33
+Tissi 4+
+10.00
+Vini Paulista 1+
+1.24
+Vini Paulista 2+
+2.04
+Vini Paulista 3+
+4.33
+Vini Paulista 4+
+10.00
+Willian Arao 1+
+1.34
+Willian Arao 2+
+2.46
+Willian Arao 3+
+5.30
+Willian Arao 4+
+10.00
+Oyuncuya Faul Yapılır
+YENİ
+Arthur Melo 2+
+1.16
+Arthur Melo 3+
+1.49
+Arthur Melo 4+
+2.20
+Arthur Melo 5+
+3.75
+Benjamin Rollheiser 1+
+1.22
+Benjamin Rollheiser 2+
+1.95
+Benjamin Rollheiser 3+
+4.00
+Benjamin Rollheiser 4+
+9.20
+Breno Lopes 1+
+1.15
+Breno Lopes 2+
+1.67
+Breno Lopes 3+
+3.05
+Breno Lopes 4+
+6.60
+Brian Ocampo 2+
+1.37
+Brian Ocampo 3+
+2.10
+Brian Ocampo 4+
+3.90
+Brian Ocampo 5+
+8.00
+Bruno Melo 1+
+1.63
+Bruno Melo 2+
+4.10
+Bruno Melo 3+
+11.00
+Bruno Melo 4+
+21.00
+Christian Oliva 1+
+1.34
+Christian Oliva 2+
+2.55
+Christian Oliva 3+
+6.20
+Christian Oliva 4+
+13.00
+Davizinho 1+
+1.23
+Davizinho 2+
+2.01
+Davizinho 3+
+4.30
+Davizinho 4+
+10.00
+Everton Cebolinha 1+
+1.19
+Everton Cebolinha 2+
+1.84
+Everton Cebolinha 3+
+3.70
+Everton Cebolinha 4+
+8.40
+Fabricio Bustos 1+
+1.49
+Fabricio Bustos 2+
+3.30
+Fabricio Bustos 3+
+8.60
+Fabricio Bustos 4+
+19.00
+Felipe Jonatan 1+
+1.52
+Felipe Jonatan 2+
+3.45
+Felipe Jonatan 3+
+9.30
+Felipe Jonatan 4+
+19.00
+Gabriel Barbosa 1+
+1.55
+Gabriel Barbosa 2+
+3.60
+Gabriel Barbosa 3+
+10.00
+Gabriel Barbosa 4+
+19.00
+Gabriel Menino 1+
+1.16
+Gabriel Menino 2+
+1.70
+Gabriel Menino 3+
+3.15
+Gabriel Menino 4+
+6.80
+Gonzalo Escobar 1+
+1.49
+Gonzalo Escobar 2+
+3.30
+Gonzalo Escobar 3+
+9.00
+Gonzalo Escobar 4+
+17.00
+Gustavinho 1+
+1.21
+Gustavinho 2+
+1.90
+Gustavinho 3+
+3.90
+Gustavinho 4+
+9.00
+Gustavo Caballero 1+
+1.19
+Gustavo Caballero 2+
+1.80
+Gustavo Caballero 3+
+3.55
+Gustavo Caballero 4+
+8.10
+Igor Vinicius 1+
+1.40
+Igor Vinicius 2+
+2.85
+Igor Vinicius 3+
+7.30
+Igor Vinicius 4+
+14.00
+Jacy 1+
+1.59
+Jacy 2+
+3.90
+Jacy 3+
+11.00
+Jacy 4+
+19.00
+Joao Alencar 1+
+1.84
+Joao Alencar 2+
+5.40
+Joao Alencar 3+
+12.00
+Joao Alencar 4+
+25.00
+Joao Schmidt 1+
+1.59
+Joao Schmidt 2+
+3.80
+Joao Schmidt 3+
+11.00
+Joao Schmidt 4+
+21.00
+Joaquin Lavega 1+
+1.34
+Joaquin Lavega 2+
+2.48
+Joaquin Lavega 3+
+5.70
+Joaquin Lavega 4+
+11.00
+Josue 2+
+1.27
+Josue 3+
+1.80
+Josue 4+
+3.00
+Josue 5+
+5.70
+Lima 2+
+1.37
+Lima 3+
+2.08
+Lima 4+
+3.85
+Lima 5+
+7.90
+Luan Peres 1+
+1.66
+Luan Peres 2+
+4.30
+Luan Peres 3+
+12.00
+Luan Peres 4+
+21.00
+Maicon 1+
+1.96
+Maicon 2+
+6.00
+Maicon 3+
+14.00
+Neymar 2+
+1.04
+Neymar 3+
+1.11
+Neymar 4+
+1.25
+Neymar 5+
+1.48
+Nicolas Fonseca 1+
+1.47
+Nicolas Fonseca 2+
+3.20
+Nicolas Fonseca 3+
+8.50
+Nicolas Fonseca 4+
+17.00
+Paulo Roberto 1+
+1.31
+Paulo Roberto 2+
+2.40
+Paulo Roberto 3+
+5.80
+Paulo Roberto 4+
+13.00
+Pedro Rocha 1+
+1.23
+Pedro Rocha 2+
+2.02
+Pedro Rocha 3+
+4.30
+Pedro Rocha 4+
+10.00
+Philippe Coutinho 1+
+1.24
+Philippe Coutinho 2+
+2.02
+Philippe Coutinho 3+
+4.30
+Philippe Coutinho 4+
+10.00
+Rafael Gonzaga 1+
+1.45
+Rafael Gonzaga 2+
+3.15
+Rafael Gonzaga 3+
+8.40
+Rafael Gonzaga 4+
+15.00
+Renato Marques 1+
+1.12
+Renato Marques 2+
+1.52
+Renato Marques 3+
+2.60
+Renato Marques 4+
+5.30
+Richard 1+
+1.29
+Richard 2+
+2.29
+Richard 3+
+5.20
+Richard 4+
+12.00
+Rodinei 1+
+1.30
+Rodinei 2+
+2.34
+Rodinei 3+
+5.50
+Rodinei 4+
+13.00
+Rodrigo Gelado 1+
+1.55
+Rodrigo Gelado 2+
+3.65
+Rodrigo Gelado 3+
+10.00
+Rodrigo Gelado 4+
+19.00
+Rodrigo Moledo 1+
+1.62
+Rodrigo Moledo 2+
+4.00
+Rodrigo Moledo 3+
+11.00
+Rodrigo Moledo 4+
+21.00
+Rodrigo Rodrigues 1+
+1.26
+Rodrigo Rodrigues 2+
+2.16
+Rodrigo Rodrigues 3+
+4.85
+Rodrigo Rodrigues 4+
+11.00
+Rony 1+
+1.13
+Rony 2+
+1.56
+Rony 3+
+2.70
+Rony 4+
+5.60
+Samuel Pierri 1+
+1.30
+Samuel Pierri 2+
+2.34
+Samuel Pierri 3+
+5.50
+Samuel Pierri 4+
+12.00
+Sebastian Gomez 1+
+1.38
+Sebastian Gomez 2+
+2.75
+Sebastian Gomez 3+
+6.90
+Sebastian Gomez 4+
+14.00
+Thaciano 1+
+1.43
+Thaciano 2+
+3.00
+Thaciano 3+
+7.90
+Thaciano 4+
+15.00
+Thiago Santos 1+
+1.14
+Thiago Santos 2+
+1.59
+Thiago Santos 3+
+2.80
+Thiago Santos 4+
+6.00
+Tiago 1+
+1.73
+Tiago 2+
+4.60
+Tiago 3+
+12.00
+Tiago 4+
+25.00
+Tinga 1+
+1.58
+Tinga 2+
+3.75
+Tinga 3+
+10.00
+Tinga 4+
+19.00
+Tissi 1+
+1.20
+Tissi 2+
+1.88
+Tissi 3+
+3.85
+Tissi 4+
+8.80
+Vini Paulista 1+
+1.31
+Vini Paulista 2+
+2.36
+Vini Paulista 3+
+5.50
+Vini Paulista 4+
+13.00
+Willian Arao 1+
+1.57
+Willian Arao 2+
+3.60
+Willian Arao 3+
+8.90
+Willian Arao 4+
+19.00
+Oyuncu Topa Müdahaleler
+YENİ
+Arthur Melo 1+
+1.11
+Arthur Melo 2+
+1.48
+Arthur Melo 3+
+2.44
+Arthur Melo 4+
+4.80
+Arthur Melo 5+
+10.00
+Benjamin Rollheiser 1+
+1.36
+Benjamin Rollheiser 2+
+2.55
+Benjamin Rollheiser 3+
+6.20
+Benjamin Rollheiser 4+
+12.00
+Breno Lopes 1+
+1.43
+Breno Lopes 2+
+2.95
+Breno Lopes 3+
+7.70
+Breno Lopes 4+
+12.00
+Brian Ocampo 1+
+1.23
+Brian Ocampo 2+
+1.94
+Brian Ocampo 3+
+3.80
+Brian Ocampo 4+
+8.60
+Christian Oliva 2+
+1.45
+Christian Oliva 3+
+2.33
+Christian Oliva 4+
+4.50
+Christian Oliva 5+
+9.40
+Everton Cebolinha 1+
+1.25
+Everton Cebolinha 2+
+2.09
+Everton Cebolinha 3+
+4.50
+Everton Cebolinha 4+
+11.00
+Fabricio Bustos 1+
+1.13
+Fabricio Bustos 2+
+1.57
+Fabricio Bustos 3+
+2.65
+Fabricio Bustos 4+
+5.40
+Fabricio Bustos 5+
+12.00
+Felipe Jonatan 1+
+1.19
+Felipe Jonatan 2+
+1.84
+Felipe Jonatan 3+
+3.60
+Felipe Jonatan 4+
+8.20
+Gabriel Barbosa 1+
+2.29
+Gabriel Barbosa 2+
+7.90
+Gabriel Barbosa 3+
+12.00
+Gonzalo Escobar 2+
+1.42
+Gonzalo Escobar 3+
+2.24
+Gonzalo Escobar 4+
+4.30
+Gonzalo Escobar 5+
+8.90
+Gustavinho 2+
+1.13
+Gustavinho 3+
+1.40
+Gustavinho 4+
+1.98
+Gustavinho 5+
+3.20
+Gustavo Caballero 1+
+1.21
+Gustavo Caballero 2+
+1.95
+Gustavo Caballero 3+
+4.30
+Gustavo Caballero 4+
+8.30
+Igor Vinicius 2+
+1.43
+Igor Vinicius 3+
+2.28
+Igor Vinicius 4+
+4.33
+Igor Vinicius 5+
+9.10
+Jacy 1+
+1.18
+Jacy 2+
+1.80
+Jacy 3+
+3.45
+Jacy 4+
+7.80
+Joao Alencar 1+
+1.31
+Joao Alencar 2+
+2.32
+Joao Alencar 3+
+5.30
+Joao Alencar 4+
+12.00
+Joao Schmidt 2+
+1.41
+Joao Schmidt 3+
+2.23
+Joao Schmidt 4+
+4.20
+Joao Schmidt 5+
+8.50
+Joaquin Lavega 1+
+1.30
+Joaquin Lavega 2+
+2.30
+Joaquin Lavega 3+
+5.20
+Joaquin Lavega 4+
+12.00
+Luan Peres 1+
+1.15
+Luan Peres 2+
+1.65
+Luan Peres 3+
+3.00
+Luan Peres 4+
+6.20
+Maicon 1+
+1.24
+Maicon 2+
+2.08
+Maicon 3+
+4.70
+Maicon 4+
+8.40
+Rafael Gonzaga 2+
+1.47
+Rafael Gonzaga 3+
+2.37
+Rafael Gonzaga 4+
+4.60
+Rafael Gonzaga 5+
+9.60
+Renato Marques 1+
+1.42
+Renato Marques 2+
+3.10
+Renato Marques 3+
+7.50
+Richard 2+
+1.31
+Richard 3+
+1.93
+Richard 4+
+3.50
+Richard 5+
+6.80
+Rodinei 1+
+1.14
+Rodinei 2+
+1.61
+Rodinei 3+
+2.85
+Rodinei 4+
+5.90
+Rodrigo Gelado 1+
+1.12
+Rodrigo Gelado 2+
+1.53
+Rodrigo Gelado 3+
+2.60
+Rodrigo Gelado 4+
+5.20
+Rodrigo Gelado 5+
+11.00
+Rodrigo Moledo 1+
+1.27
+Rodrigo Moledo 2+
+2.19
+Rodrigo Moledo 3+
+4.80
+Rodrigo Moledo 4+
+12.00
+Rodrigo Rodrigues 1+
+1.48
+Rodrigo Rodrigues 2+
+3.45
+Rodrigo Rodrigues 3+
+7.90
+Samuel Pierri 2+
+1.19
+Samuel Pierri 3+
+1.57
+Samuel Pierri 4+
+2.47
+Samuel Pierri 5+
+4.60
+Sebastian Gomez 2+
+1.35
+Sebastian Gomez 3+
+2.06
+Sebastian Gomez 4+
+3.90
+Sebastian Gomez 5+
+7.50
+Thiago Santos 2+
+1.40
+Thiago Santos 3+
+2.17
+Thiago Santos 4+
+4.00
+Thiago Santos 5+
+8.30
+Tiago 1+
+1.21
+Tiago 2+
+1.95
+Tiago 3+
+4.20
+Tiago 4+
+8.30
+Tinga 1+
+1.17
+Tinga 2+
+1.73
+Tinga 3+
+3.25
+Tinga 4+
+7.10
+Tinga 5+
+12.00
+Tissi 2+
+1.35
+Tissi 3+
+2.05
+Tissi 4+
+3.85
+Tissi 5+
+7.50
+Vini Paulista 2+
+1.47
+Vini Paulista 3+
+2.36
+Vini Paulista 4+
+4.60
+Vini Paulista 5+
+9.60
+Oyuncu Ofsayta Düşer
+YENİ
+Arthur Melo 1+
+19.00
+Benjamin Rollheiser 1+
+5.30
+Benjamin Rollheiser 2+
+14.00
+Breno Lopes 1+
+2.50
+Breno Lopes 2+
+9.30
+Breno Lopes 3+
+21.00
+Brian Ocampo 1+
+4.30
+Brian Ocampo 2+
+12.00
+Bruno Melo 1+
+8.60
+Christian Oliva 1+
+19.00
+Davizinho 1+
+3.30
+Davizinho 2+
+11.00
+Everton Cebolinha 1+
+4.33
+Everton Cebolinha 2+
+13.00
+Fabricio Bustos 1+
+8.00
+Fabricio Bustos 2+
+21.00
+Felipe Jonatan 1+
+8.60
+Felipe Jonatan 2+
+21.00
+Gabriel Barbosa 1+
+1.90
+Gabriel Barbosa 2+
+5.60
+Gabriel Barbosa 3+
+14.00
+Gabriel Menino 1+
+9.60
+Gonzalo Escobar 1+
+12.00
+Gustavinho 1+
+15.00
+Gustavo Caballero 1+
+3.10
+Gustavo Caballero 2+
+11.00
+Igor Vinicius 1+
+12.00
+Jacy 1+
+15.00
+Joao Alencar 1+
+15.00
+Joao Schmidt 1+
+21.00
+Joaquin Lavega 1+
+4.60
+Joaquin Lavega 2+
+13.00
+Josue 1+
+4.50
+Josue 2+
+15.00
+Lima 1+
+5.70
+Lima 2+
+15.00
+Luan Peres 1+
+21.00
+Maicon 1+
+15.00
+Neymar 1+
+3.80
+Neymar 2+
+13.00
+Nicolas Fonseca 1+
+13.00
+Paulo Roberto 1+
+2.55
+Paulo Roberto 2+
+8.80
+Pedro Rocha 1+
+2.75
+Pedro Rocha 2+
+10.00
+Pedro Rocha 3+
+21.00
+Philippe Coutinho 1+
+5.00
+Philippe Coutinho 2+
+13.00
+Rafael Gonzaga 1+
+8.60
+Rafael Gonzaga 2+
+21.00
+Renato Marques 1+
+2.34
+Renato Marques 2+
+8.20
+Renato Marques 3+
+17.00
+Richard 1+
+15.00
+Rodinei 1+
+11.00
+Rodrigo Gelado 1+
+8.50
+Rodrigo Gelado 2+
+21.00
+Rodrigo Moledo 1+
+13.00
+Rodrigo Rodrigues 1+
+2.24
+Rodrigo Rodrigues 2+
+7.70
+Rodrigo Rodrigues 3+
+17.00
+Rony 1+
+2.60
+Rony 2+
+9.60
+Rony 3+
+21.00
+Samuel Pierri 1+
+12.00
+Sebastian Gomez 1+
+13.00
+Thaciano 1+
+2.40
+Thaciano 2+
+8.60
+Thaciano 3+
+19.00
+Thiago Santos 1+
+17.00
+Tiago 1+
+14.00
+Tinga 1+
+9.00
+Tinga 2+
+21.00
+Tissi 1+
+9.50
+Vini Paulista 1+
+11.00
+Vini Paulista 2+
+21.00
+Willian Arao 1+
+21.00
+Oyuncu Pas Denemeleri
+YENİ
+Arthur Melo 100+
+3.20
+Arthur Melo 85+
+1.69
+Arthur Melo 90+
+2.02
+Arthur Melo 95+
+2.50
+Benjamin Rollheiser 65+
+1.42
+Benjamin Rollheiser 70+
+1.66
+Benjamin Rollheiser 75+
+2.05
+Benjamin Rollheiser 80+
+2.65
+Benjamin Rollheiser 85+
+3.55
+Breno Lopes 30+
+1.29
+Breno Lopes 35+
+1.55
+Breno Lopes 40+
+2.02
+Breno Lopes 45+
+2.90
+Brian Ocampo 35+
+1.29
+Brian Ocampo 40+
+1.55
+Brian Ocampo 45+
+2.04
+Brian Ocampo 50+
+2.95
+Christian Oliva 65+
+1.61
+Christian Oliva 70+
+2.00
+Christian Oliva 75+
+2.60
+Christian Oliva 80+
+3.55
+Everton Cebolinha 45+
+1.45
+Everton Cebolinha 50+
+1.84
+Everton Cebolinha 55+
+2.60
+Everton Cebolinha 60+
+3.85
+Fabricio Bustos 40+
+1.24
+Fabricio Bustos 45+
+1.46
+Fabricio Bustos 50+
+1.87
+Fabricio Bustos 55+
+2.65
+Fabricio Bustos 60+
+3.90
+Felipe Jonatan 45+
+1.34
+Felipe Jonatan 50+
+1.63
+Felipe Jonatan 55+
+2.16
+Felipe Jonatan 60+
+3.10
+Gabriel Barbosa 35+
+1.57
+Gabriel Barbosa 40+
+2.07
+Gabriel Barbosa 45+
+3.00
+Gonzalo Escobar 60+
+1.57
+Gonzalo Escobar 65+
+1.96
+Gonzalo Escobar 70+
+2.60
+Gonzalo Escobar 75+
+3.60
+Gustavinho 55+
+1.36
+Gustavinho 60+
+1.62
+Gustavinho 65+
+2.04
+Gustavinho 70+
+2.75
+Gustavinho 75+
+3.80
+Gustavo Caballero 30+
+1.36
+Gustavo Caballero 35+
+1.67
+Gustavo Caballero 40+
+2.26
+Gustavo Caballero 45+
+3.35
+Igor Vinicius 55+
+1.55
+Igor Vinicius 60+
+1.95
+Igor Vinicius 65+
+2.65
+Igor Vinicius 70+
+3.70
+Jacy 45+
+1.41
+Jacy 50+
+1.76
+Jacy 55+
+2.43
+Jacy 60+
+3.55
+Joao Alencar 60+
+1.59
+Joao Alencar 65+
+2.00
+Joao Alencar 70+
+2.65
+Joao Alencar 75+
+3.65
+Joao Schmidt 65+
+1.46
+Joao Schmidt 70+
+1.73
+Joao Schmidt 75+
+2.17
+Joao Schmidt 80+
+2.85
+Joaquin Lavega 30+
+1.36
+Joaquin Lavega 35+
+1.68
+Joaquin Lavega 40+
+2.28
+Joaquin Lavega 45+
+3.40
+Luan Peres 70+
+1.55
+Luan Peres 75+
+1.86
+Luan Peres 80+
+2.34
+Luan Peres 85+
+3.05
+Maicon 40+
+1.28
+Maicon 45+
+1.53
+Maicon 50+
+2.00
+Maicon 55+
+2.85
+Rafael Gonzaga 50+
+1.30
+Rafael Gonzaga 55+
+1.54
+Rafael Gonzaga 60+
+1.93
+Rafael Gonzaga 65+
+2.60
+Renato Marques 25+
+1.50
+Renato Marques 30+
+1.94
+Renato Marques 35+
+2.75
+Richard 45+
+1.36
+Richard 50+
+1.68
+Richard 55+
+2.26
+Richard 60+
+3.25
+Richard 65+
+4.00
+Rodinei 50+
+1.54
+Rodinei 55+
+1.98
+Rodinei 60+
+2.75
+Rodinei 65+
+4.00
+Rodrigo Gelado 45+
+1.32
+Rodrigo Gelado 50+
+1.59
+Rodrigo Gelado 55+
+2.09
+Rodrigo Gelado 60+
+2.95
+Rodrigo Gelado 65+
+4.00
+Rodrigo Moledo 40+
+1.47
+Rodrigo Moledo 45+
+1.89
+Rodrigo Moledo 50+
+2.65
+Rodrigo Moledo 55+
+4.00
+Rodrigo Rodrigues 20+
+1.32
+Rodrigo Rodrigues 25+
+1.61
+Rodrigo Rodrigues 30+
+2.14
+Rodrigo Rodrigues 35+
+3.15
+Samuel Pierri 55+
+1.44
+Samuel Pierri 60+
+1.75
+Samuel Pierri 65+
+2.28
+Samuel Pierri 70+
+3.15
+Sebastian Gomez 35+
+1.30
+Sebastian Gomez 40+
+1.57
+Sebastian Gomez 45+
+2.07
+Sebastian Gomez 50+
+3.00
+Thiago Santos 45+
+1.44
+Thiago Santos 50+
+1.83
+Thiago Santos 55+
+2.55
+Thiago Santos 60+
+3.75
+Tiago 40+
+1.33
+Tiago 45+
+1.62
+Tiago 50+
+2.17
+Tiago 55+
+3.20
+Tinga 45+
+1.50
+Tinga 50+
+1.94
+Tinga 55+
+2.75
+Tissi 45+
+1.34
+Tissi 50+
+1.63
+Tissi 55+
+2.16
+Tissi 60+
+3.10
+Tissi 65+
+4.00
+Vini Paulista 35+
+1.36
+Vini Paulista 40+
+1.68
+Vini Paulista 45+
+2.28
+Vini Paulista 50+
+3.40
+Oyuncunun Yaptığı Fauller
+YENİ
+Arthur Melo 1+
+1.31
+Arthur Melo 2+
+2.37
+Arthur Melo 3+
+5.60
+Arthur Melo 4+
+13.00
+Benjamin Rollheiser 1+
+1.29
+Benjamin Rollheiser 2+
+2.28
+Benjamin Rollheiser 3+
+5.30
+Benjamin Rollheiser 4+
+12.00
+Breno Lopes 1+
+1.58
+Breno Lopes 2+
+3.80
+Breno Lopes 3+
+11.00
+Breno Lopes 4+
+21.00
+Brian Ocampo 1+
+1.22
+Brian Ocampo 2+
+1.91
+Brian Ocampo 3+
+3.70
+Brian Ocampo 4+
+8.20
+Bruno Melo 1+
+1.57
+Bruno Melo 2+
+3.75
+Bruno Melo 3+
+10.00
+Bruno Melo 4+
+21.00
+Christian Oliva 1+
+1.21
+Christian Oliva 2+
+1.92
+Christian Oliva 3+
+3.95
+Christian Oliva 4+
+9.00
+Davizinho 1+
+1.31
+Davizinho 2+
+2.37
+Davizinho 3+
+5.60
+Davizinho 4+
+12.00
+Diogenes 1+
+26.00
+Everton Cebolinha 1+
+1.19
+Everton Cebolinha 2+
+1.82
+Everton Cebolinha 3+
+3.60
+Everton Cebolinha 4+
+8.20
+Fabricio Bustos 1+
+1.38
+Fabricio Bustos 2+
+2.70
+Fabricio Bustos 3+
+6.90
+Fabricio Bustos 4+
+15.00
+Felipe Jonatan 1+
+1.49
+Felipe Jonatan 2+
+3.30
+Felipe Jonatan 3+
+8.90
+Felipe Jonatan 4+
+19.00
+Gabriel Barbosa 1+
+1.70
+Gabriel Barbosa 2+
+4.50
+Gabriel Barbosa 3+
+12.00
+Gabriel Barbosa 4+
+23.00
+Gabriel Menino 1+
+1.29
+Gabriel Menino 2+
+2.27
+Gabriel Menino 3+
+5.20
+Gabriel Menino 4+
+12.00
+Gonzalo Escobar 1+
+1.27
+Gonzalo Escobar 2+
+2.19
+Gonzalo Escobar 3+
+4.90
+Gonzalo Escobar 4+
+11.00
+Gustavinho 1+
+1.19
+Gustavinho 2+
+1.81
+Gustavinho 3+
+3.55
+Gustavinho 4+
+8.00
+Gustavo Caballero 1+
+1.20
+Gustavo Caballero 2+
+1.87
+Gustavo Caballero 3+
+3.75
+Gustavo Caballero 4+
+8.70
+Igor Vinicius 1+
+1.27
+Igor Vinicius 2+
+2.20
+Igor Vinicius 3+
+4.90
+Igor Vinicius 4+
+11.00
+Jacy 1+
+1.38
+Jacy 2+
+2.70
+Jacy 3+
+6.80
+Jacy 4+
+14.00
+Joao Alencar 1+
+1.31
+Joao Alencar 2+
+2.36
+Joao Alencar 3+
+5.40
+Joao Alencar 4+
+12.00
+Joao Paulo 1+
+26.00
+Joao Schmidt 1+
+1.30
+Joao Schmidt 2+
+2.05
+Joao Schmidt 3+
+3.85
+Joao Schmidt 4+
+8.20
+Joaquin Lavega 1+
+1.34
+Joaquin Lavega 2+
+2.55
+Joaquin Lavega 3+
+6.20
+Joaquin Lavega 4+
+14.00
+Josue 1+
+1.36
+Josue 2+
+2.60
+Josue 3+
+6.40
+Josue 4+
+13.00
+Keiller 1+
+26.00
+Lima 1+
+1.26
+Lima 2+
+2.16
+Lima 3+
+4.85
+Lima 4+
+11.00
+Luan Peres 1+
+1.38
+Luan Peres 2+
+2.70
+Luan Peres 3+
+6.60
+Luan Peres 4+
+13.00
+Maicon 1+
+1.67
+Maicon 2+
+4.30
+Maicon 3+
+12.00
+Maicon 4+
+23.00
+Neymar 1+
+1.19
+Neymar 2+
+1.81
+Neymar 3+
+3.55
+Neymar 4+
+8.00
+Nicolas Fonseca 2+
+1.31
+Nicolas Fonseca 3+
+1.91
+Nicolas Fonseca 4+
+3.30
+Nicolas Fonseca 5+
+6.60
+Paulo Roberto 1+
+1.33
+Paulo Roberto 2+
+2.46
+Paulo Roberto 3+
+5.90
+Paulo Roberto 4+
+13.00
+Pedro Rangel 1+
+26.00
+Pedro Rocha 1+
+1.34
+Pedro Rocha 2+
+2.50
+Pedro Rocha 3+
+6.20
+Pedro Rocha 4+
+13.00
+Philippe Coutinho 1+
+1.50
+Philippe Coutinho 2+
+3.35
+Philippe Coutinho 3+
+9.10
+Philippe Coutinho 4+
+17.00
+Rafael Gonzaga 1+
+1.34
+Rafael Gonzaga 2+
+2.55
+Rafael Gonzaga 3+
+6.20
+Rafael Gonzaga 4+
+14.00
+Renato Marques 1+
+1.25
+Renato Marques 2+
+2.10
+Renato Marques 3+
+4.70
+Renato Marques 4+
+11.00
+Richard 1+
+1.23
+Richard 2+
+1.99
+Richard 3+
+4.20
+Richard 4+
+9.60
+Rodinei 1+
+1.25
+Rodinei 2+
+2.06
+Rodinei 3+
+4.30
+Rodinei 4+
+9.10
+Rodrigo Gelado 1+
+1.41
+Rodrigo Gelado 2+
+2.80
+Rodrigo Gelado 3+
+6.90
+Rodrigo Gelado 4+
+15.00
+Rodrigo Moledo 1+
+1.55
+Rodrigo Moledo 2+
+3.60
+Rodrigo Moledo 3+
+10.00
+Rodrigo Moledo 4+
+19.00
+Rodrigo Rodrigues 1+
+1.17
+Rodrigo Rodrigues 2+
+1.73
+Rodrigo Rodrigues 3+
+3.30
+Rodrigo Rodrigues 4+
+7.30
+Rony 1+
+1.21
+Rony 2+
+1.92
+Rony 3+
+3.95
+Rony 4+
+9.10
+Samuel Pierri 1+
+1.17
+Samuel Pierri 2+
+1.71
+Samuel Pierri 3+
+3.25
+Samuel Pierri 4+
+7.20
+Sebastian Gomez 1+
+1.19
+Sebastian Gomez 2+
+1.82
+Sebastian Gomez 3+
+3.55
+Sebastian Gomez 4+
+7.90
+Thaciano 1+
+1.44
+Thaciano 2+
+3.05
+Thaciano 3+
+7.80
+Thaciano 4+
+17.00
+Thiago Santos 2+
+1.44
+Thiago Santos 3+
+2.32
+Thiago Santos 4+
+4.50
+Thiago Santos 5+
+9.40
+Tiago 1+
+1.29
+Tiago 2+
+2.25
+Tiago 3+
+4.90
+Tiago 4+
+10.00
+Tinga 1+
+1.56
+Tinga 2+
+3.65
+Tinga 3+
+10.00
+Tinga 4+
+19.00
+Tissi 1+
+1.23
+Tissi 2+
+2.02
+Tissi 3+
+4.33
+Tissi 4+
+10.00
+Vini Paulista 1+
+1.24
+Vini Paulista 2+
+2.04
+Vini Paulista 3+
+4.33
+Vini Paulista 4+
+10.00
+Willian Arao 1+
+1.34
+Willian Arao 2+
+2.46
+Willian Arao 3+
+5.30
+Willian Arao 4+
+10.00
+Oyuncuya Faul Yapılır
+YENİ
+Arthur Melo 2+
+1.16
+Arthur Melo 3+
+1.49
+Arthur Melo 4+
+2.20
+Arthur Melo 5+
+3.75
+Benjamin Rollheiser 1+
+1.22
+Benjamin Rollheiser 2+
+1.95
+Benjamin Rollheiser 3+
+4.00
+Benjamin Rollheiser 4+
+9.20
+Breno Lopes 1+
+1.15
+Breno Lopes 2+
+1.67
+Breno Lopes 3+
+3.05
+Breno Lopes 4+
+6.60
+Brian Ocampo 2+
+1.37
+Brian Ocampo 3+
+2.10
+Brian Ocampo 4+
+3.90
+Brian Ocampo 5+
+8.00
+Bruno Melo 1+
+1.63
+Bruno Melo 2+
+4.10
+Bruno Melo 3+
+11.00
+Bruno Melo 4+
+21.00
+Christian Oliva 1+
+1.34
+Christian Oliva 2+
+2.55
+Christian Oliva 3+
+6.20
+Christian Oliva 4+
+13.00
+Davizinho 1+
+1.23
+Davizinho 2+
+2.01
+Davizinho 3+
+4.30
+Davizinho 4+
+10.00
+Everton Cebolinha 1+
+1.19
+Everton Cebolinha 2+
+1.84
+Everton Cebolinha 3+
+3.70
+Everton Cebolinha 4+
+8.40
+Fabricio Bustos 1+
+1.49
+Fabricio Bustos 2+
+3.30
+Fabricio Bustos 3+
+8.60
+Fabricio Bustos 4+
+19.00
+Felipe Jonatan 1+
+1.52
+Felipe Jonatan 2+
+3.45
+Felipe Jonatan 3+
+9.30
+Felipe Jonatan 4+
+19.00
+Gabriel Barbosa 1+
+1.55
+Gabriel Barbosa 2+
+3.60
+Gabriel Barbosa 3+
+10.00
+Gabriel Barbosa 4+
+19.00
+Gabriel Menino 1+
+1.16
+Gabriel Menino 2+
+1.70
+Gabriel Menino 3+
+3.15
+Gabriel Menino 4+
+6.80
+Gonzalo Escobar 1+
+1.49
+Gonzalo Escobar 2+
+3.30
+Gonzalo Escobar 3+
+9.00
+Gonzalo Escobar 4+
+17.00
+Gustavinho 1+
+1.21
+Gustavinho 2+
+1.90
+Gustavinho 3+
+3.90
+Gustavinho 4+
+9.00
+Gustavo Caballero 1+
+1.19
+Gustavo Caballero 2+
+1.80
+Gustavo Caballero 3+
+3.55
+Gustavo Caballero 4+
+8.10
+Igor Vinicius 1+
+1.40
+Igor Vinicius 2+
+2.85
+Igor Vinicius 3+
+7.30
+Igor Vinicius 4+
+14.00
+Jacy 1+
+1.59
+Jacy 2+
+3.90
+Jacy 3+
+11.00
+Jacy 4+
+19.00
+Joao Alencar 1+
+1.84
+Joao Alencar 2+
+5.40
+Joao Alencar 3+
+12.00
+Joao Alencar 4+
+25.00
+Joao Schmidt 1+
+1.59
+Joao Schmidt 2+
+3.80
+Joao Schmidt 3+
+11.00
+Joao Schmidt 4+
+21.00
+Joaquin Lavega 1+
+1.34
+Joaquin Lavega 2+
+2.48
+Joaquin Lavega 3+
+5.70
+Joaquin Lavega 4+
+11.00
+Josue 2+
+1.27
+Josue 3+
+1.80
+Josue 4+
+3.00
+Josue 5+
+5.70
+Lima 2+
+1.37
+Lima 3+
+2.08
+Lima 4+
+3.85
+Lima 5+
+7.90
+Luan Peres 1+
+1.66
+Luan Peres 2+
+4.30
+Luan Peres 3+
+12.00
+Luan Peres 4+
+21.00
+Maicon 1+
+1.96
+Maicon 2+
+6.00
+Maicon 3+
+14.00
+Neymar 2+
+1.04
+Neymar 3+
+1.11
+Neymar 4+
+1.25
+Neymar 5+
+1.48
+Nicolas Fonseca 1+
+1.47
+Nicolas Fonseca 2+
+3.20
+Nicolas Fonseca 3+
+8.50
+Nicolas Fonseca 4+
+17.00
+Paulo Roberto 1+
+1.31
+Paulo Roberto 2+
+2.40
+Paulo Roberto 3+
+5.80
+Paulo Roberto 4+
+13.00
+Pedro Rocha 1+
+1.23
+Pedro Rocha 2+
+2.02
+Pedro Rocha 3+
+4.30
+Pedro Rocha 4+
+10.00
+Philippe Coutinho 1+
+1.24
+Philippe Coutinho 2+
+2.02
+Philippe Coutinho 3+
+4.30
+Philippe Coutinho 4+
+10.00
+Rafael Gonzaga 1+
+1.45
+Rafael Gonzaga 2+
+3.15
+Rafael Gonzaga 3+
+8.40
+Rafael Gonzaga 4+
+15.00
+Renato Marques 1+
+1.12
+Renato Marques 2+
+1.52
+Renato Marques 3+
+2.60
+Renato Marques 4+
+5.30
+Richard 1+
+1.29
+Richard 2+
+2.29
+Richard 3+
+5.20
+Richard 4+
+12.00
+Rodinei 1+
+1.30
+Rodinei 2+
+2.34
+Rodinei 3+
+5.50
+Rodinei 4+
+13.00
+Rodrigo Gelado 1+
+1.55
+Rodrigo Gelado 2+
+3.65
+Rodrigo Gelado 3+
+10.00
+Rodrigo Gelado 4+
+19.00
+Rodrigo Moledo 1+
+1.62
+Rodrigo Moledo 2+
+4.00
+Rodrigo Moledo 3+
+11.00
+Rodrigo Moledo 4+
+21.00
+Rodrigo Rodrigues 1+
+1.26
+Rodrigo Rodrigues 2+
+2.16
+Rodrigo Rodrigues 3+
+4.85
+Rodrigo Rodrigues 4+
+11.00
+Rony 1+
+1.13
+Rony 2+
+1.56
+Rony 3+
+2.70
+Rony 4+
+5.60
+Samuel Pierri 1+
+1.30
+Samuel Pierri 2+
+2.34
+Samuel Pierri 3+
+5.50
+Samuel Pierri 4+
+12.00
+Sebastian Gomez 1+
+1.38
+Sebastian Gomez 2+
+2.75
+Sebastian Gomez 3+
+6.90
+Sebastian Gomez 4+
+14.00
+Thaciano 1+
+1.43
+Thaciano 2+
+3.00
+Thaciano 3+
+7.90
+Thaciano 4+
+15.00
+Thiago Santos 1+
+1.14
+Thiago Santos 2+
+1.59
+Thiago Santos 3+
+2.80
+Thiago Santos 4+
+6.00
+Tiago 1+
+1.73
+Tiago 2+
+4.60
+Tiago 3+
+12.00
+Tiago 4+
+25.00
+Tinga 1+
+1.58
+Tinga 2+
+3.75
+Tinga 3+
+10.00
+Tinga 4+
+19.00
+Tissi 1+
+1.20
+Tissi 2+
+1.88
+Tissi 3+
+3.85
+Tissi 4+
+8.80
+Vini Paulista 1+
+1.31
+Vini Paulista 2+
+2.36
+Vini Paulista 3+
+5.50
+Vini Paulista 4+
+13.00
+Willian Arao 1+
+1.57
+Willian Arao 2+
+3.60
+Willian Arao 3+
+8.90
+Willian Arao 4+
+19.00

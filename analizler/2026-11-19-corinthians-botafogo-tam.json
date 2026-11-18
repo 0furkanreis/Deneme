@@ -1,0 +1,9666 @@
+{
+ "mac": {
+  "organizasyon": "Brezilya Serie A, 35. hafta",
+  "tarih": "19 Kasım 2026, 03:30 TSİ",
+  "stadyum": "Neo Química Arena, São Paulo",
+  "hakem": "Wilton Pereira Sampaio (46 maç: 5,15 sarı, lig 4,79; 8 kırmızı; 12 penaltı)",
+  "ilk_yari_gol_payi": 0.44,
+  "korner_guven": "orta",
+  "kart_guven": "orta",
+  "var_ort": 0.35,
+  "not": "Kart: Corinthians maçları 5,0, Botafogo maçları 3,2 sarı; hakem ×1,075 → ~4,4. Korner: Cor 5,4/3,8, Bot 6,0/5,6. Goller piyasadan.",
+  "kalibrasyon": "Beklenen goller site oranlarından (takım gol çizgilerinin ortalaması)"
+ },
+ "ev": "Corinthians SP",
+ "dep": "Botafogo",
+ "beklenen_gol": [
+  1.811,
+  1.018
+ ],
+ "simulasyon": 120000,
+ "pazarlar": [
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu",
+   "oneri": "1 (Corinthians SP)",
+   "olasilik": 0.5596,
+   "adil_oran": 1.79,
+   "en_olasi": "1 (Corinthians SP)",
+   "en_olasi_p": 0.5596,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Corinthians SP)",
+     0.5596
+    ],
+    [
+     "X",
+     0.229
+    ],
+    [
+     "2 (Botafogo)",
+     0.2114
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Çifte Şans",
+   "oneri": "1X",
+   "olasilik": 0.7886,
+   "adil_oran": 1.27,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.7886,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.7886
+    ],
+    [
+     "12",
+     0.771
+    ],
+    [
+     "X2",
+     0.4404
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Beraberlikte İade",
+   "oneri": "Corinthians SP",
+   "olasilik": 0.7258,
+   "adil_oran": 1.38,
+   "en_olasi": "Corinthians SP",
+   "en_olasi_p": 0.7258,
+   "guven": "yüksek",
+   "not_": "Beraberlikte iade; olasılık iade hariç",
+   "secimler": [
+    [
+     "Corinthians SP",
+     0.7258
+    ],
+    [
+     "Botafogo",
+     0.2742
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Corinthians SP : Bahis Yok",
+   "oneri": "X",
+   "olasilik": 0.52,
+   "adil_oran": 1.92,
+   "en_olasi": "X",
+   "en_olasi_p": 0.52,
+   "guven": "yüksek",
+   "not_": "Corinthians SP kazanırsa iade",
+   "secimler": [
+    [
+     "X",
+     0.52
+    ],
+    [
+     "Botafogo",
+     0.48
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Botafogo : Bahis Yok",
+   "oneri": "Corinthians SP",
+   "olasilik": 0.7096,
+   "adil_oran": 1.41,
+   "en_olasi": "Corinthians SP",
+   "en_olasi_p": 0.7096,
+   "guven": "yüksek",
+   "not_": "Botafogo kazanırsa iade",
+   "secimler": [
+    [
+     "Corinthians SP",
+     0.7096
+    ],
+    [
+     "X",
+     0.2904
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Corinthians SP : Geriden Gelerek Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9189,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9189,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0811
+    ],
+    [
+     "Hayır",
+     0.9189
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Botafogo : Geriden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9632,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9632,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0368
+    ],
+    [
+     "Hayır",
+     0.9632
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Corinthians SP : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.4404,
+   "adil_oran": 2.27,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.4404,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.2418
+    ],
+    [
+     "2 fark",
+     0.1708
+    ],
+    [
+     "3 fark",
+     0.09
+    ],
+    [
+     "4+ fark",
+     0.057
+    ],
+    [
+     "Kazanamaz",
+     0.4404
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Botafogo : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.7886,
+   "adil_oran": 1.27,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.7886,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.1354
+    ],
+    [
+     "2 fark",
+     0.0553
+    ],
+    [
+     "3 fark",
+     0.0157
+    ],
+    [
+     "4+ fark",
+     0.0049
+    ],
+    [
+     "Kazanamaz",
+     0.7886
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller",
+   "oneri": "Toplam 1,5 Üst",
+   "olasilik": 0.7748,
+   "adil_oran": 1.29,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.9411,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.9411
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.0589
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.7748
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.2252
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.538
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.462
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.3157
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.6843
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.1587
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.8413
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.0689
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.9311
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Corinthians SP : Toplam Gol",
+   "oneri": "Corinthians SP 2,5 Alt",
+   "olasilik": 0.727,
+   "adil_oran": 1.38,
+   "en_olasi": "Corinthians SP 3,5 Alt",
+   "en_olasi_p": 0.8886,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP 0,5 Üst",
+     0.8369
+    ],
+    [
+     "Corinthians SP 0,5 Alt",
+     0.1631
+    ],
+    [
+     "Corinthians SP 1,5 Üst",
+     0.5405
+    ],
+    [
+     "Corinthians SP 1,5 Alt",
+     0.4595
+    ],
+    [
+     "Corinthians SP 2,5 Üst",
+     0.273
+    ],
+    [
+     "Corinthians SP 2,5 Alt",
+     0.727
+    ],
+    [
+     "Corinthians SP 3,5 Üst",
+     0.1114
+    ],
+    [
+     "Corinthians SP 3,5 Alt",
+     0.8886
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Botafogo : Toplam Gol",
+   "oneri": "Botafogo 1,5 Alt",
+   "olasilik": 0.728,
+   "adil_oran": 1.37,
+   "en_olasi": "Botafogo 3,5 Alt",
+   "en_olasi_p": 0.9794,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Botafogo 0,5 Üst",
+     0.6395
+    ],
+    [
+     "Botafogo 0,5 Alt",
+     0.3605
+    ],
+    [
+     "Botafogo 1,5 Üst",
+     0.272
+    ],
+    [
+     "Botafogo 1,5 Alt",
+     0.728
+    ],
+    [
+     "Botafogo 2,5 Üst",
+     0.0851
+    ],
+    [
+     "Botafogo 2,5 Alt",
+     0.9149
+    ],
+    [
+     "Botafogo 3,5 Üst",
+     0.0206
+    ],
+    [
+     "Botafogo 3,5 Alt",
+     0.9794
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller Asya",
+   "oneri": "Toplam Asya 1,75 Üst",
+   "olasilik": 0.7445,
+   "adil_oran": 1.34,
+   "en_olasi": "Toplam Asya 1,75 Üst",
+   "en_olasi_p": 0.7445,
+   "guven": "yüksek",
+   "not_": "Asya çizgisi: değer = 1/adil oran",
+   "secimler": [
+    [
+     "Toplam Asya 1,75 Üst",
+     0.7445
+    ],
+    [
+     "Toplam Asya 1,75 Alt",
+     0.2555
+    ],
+    [
+     "Toplam Asya 2 Üst",
+     0.7049
+    ],
+    [
+     "Toplam Asya 2 Alt",
+     0.2951
+    ],
+    [
+     "Toplam Asya 2,25 Üst",
+     0.6102
+    ],
+    [
+     "Toplam Asya 2,25 Alt",
+     0.3898
+    ],
+    [
+     "Toplam Asya 2,5 Üst",
+     0.538
+    ],
+    [
+     "Toplam Asya 2,5 Alt",
+     0.462
+    ],
+    [
+     "Toplam Asya 2,75 Üst",
+     0.4802
+    ],
+    [
+     "Toplam Asya 2,75 Alt",
+     0.5198
+    ],
+    [
+     "Toplam Asya 3 Üst",
+     0.406
+    ],
+    [
+     "Toplam Asya 3 Alt",
+     0.594
+    ],
+    [
+     "Toplam Asya 3,25 Üst",
+     0.3552
+    ],
+    [
+     "Toplam Asya 3,25 Alt",
+     0.6448
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Corinthians SP : Toplam Gol Asya",
+   "oneri": "Corinthians SP Asya 0,75 Üst",
+   "olasilik": 0.8085,
+   "adil_oran": 1.24,
+   "en_olasi": "Corinthians SP Asya 0,75 Üst",
+   "en_olasi_p": 0.8085,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP Asya 0,75 Üst",
+     0.8085
+    ],
+    [
+     "Corinthians SP Asya 0,75 Alt",
+     0.1915
+    ],
+    [
+     "Corinthians SP Asya 1 Üst",
+     0.7682
+    ],
+    [
+     "Corinthians SP Asya 1 Alt",
+     0.2318
+    ],
+    [
+     "Corinthians SP Asya 1,25 Üst",
+     0.6345
+    ],
+    [
+     "Corinthians SP Asya 1,25 Alt",
+     0.3655
+    ],
+    [
+     "Corinthians SP Asya 1,5 Üst",
+     0.5405
+    ],
+    [
+     "Corinthians SP Asya 1,5 Alt",
+     0.4595
+    ],
+    [
+     "Corinthians SP Asya 1,75 Üst",
+     0.4696
+    ],
+    [
+     "Corinthians SP Asya 1,75 Alt",
+     0.5304
+    ],
+    [
+     "Corinthians SP Asya 2 Üst",
+     0.3727
+    ],
+    [
+     "Corinthians SP Asya 2 Alt",
+     0.6273
+    ],
+    [
+     "Corinthians SP Asya 2,25 Üst",
+     0.3152
+    ],
+    [
+     "Corinthians SP Asya 2,25 Alt",
+     0.6848
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Botafogo : Toplam Gol Asya",
+   "oneri": "Botafogo Asya 0,25 Üst",
+   "olasilik": 0.7801,
+   "adil_oran": 1.28,
+   "en_olasi": "Botafogo Asya 0,25 Üst",
+   "en_olasi_p": 0.7801,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Botafogo Asya 0,25 Üst",
+     0.7801
+    ],
+    [
+     "Botafogo Asya 0,25 Alt",
+     0.2199
+    ],
+    [
+     "Botafogo Asya 0,5 Üst",
+     0.6395
+    ],
+    [
+     "Botafogo Asya 0,5 Alt",
+     0.3605
+    ],
+    [
+     "Botafogo Asya 0,75 Üst",
+     0.5583
+    ],
+    [
+     "Botafogo Asya 0,75 Alt",
+     0.4417
+    ],
+    [
+     "Botafogo Asya 1 Üst",
+     0.43
+    ],
+    [
+     "Botafogo Asya 1 Alt",
+     0.57
+    ],
+    [
+     "Botafogo Asya 1,25 Üst",
+     0.3332
+    ],
+    [
+     "Botafogo Asya 1,25 Alt",
+     0.6668
+    ],
+    [
+     "Botafogo Asya 1,5 Üst",
+     0.272
+    ],
+    [
+     "Botafogo Asya 1,5 Alt",
+     0.728
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (3-İhtimalli)",
+   "oneri": "1 Üst",
+   "olasilik": 0.7748,
+   "adil_oran": 1.29,
+   "en_olasi": "1 Üst",
+   "en_olasi_p": 0.7748,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.0589
+    ],
+    [
+     "Tam 1",
+     0.1663
+    ],
+    [
+     "1 Üst",
+     0.7748
+    ],
+    [
+     "2 Alt",
+     0.2252
+    ],
+    [
+     "Tam 2",
+     0.2368
+    ],
+    [
+     "2 Üst",
+     0.538
+    ],
+    [
+     "3 Alt",
+     0.462
+    ],
+    [
+     "Tam 3",
+     0.2223
+    ],
+    [
+     "3 Üst",
+     0.3157
+    ],
+    [
+     "4 Alt",
+     0.6843
+    ],
+    [
+     "Tam 4",
+     0.157
+    ],
+    [
+     "4 Üst",
+     0.1587
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol Tek/Çift",
+   "oneri": "Çift",
+   "olasilik": 0.5024,
+   "adil_oran": 1.99,
+   "en_olasi": "Çift",
+   "en_olasi_p": 0.5024,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.4976
+    ],
+    [
+     "Çift",
+     0.5024
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Kesin)",
+   "oneri": "2 gol",
+   "olasilik": 0.2368,
+   "adil_oran": 4.22,
+   "en_olasi": "2 gol",
+   "en_olasi_p": 0.2368,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0589
+    ],
+    [
+     "1 gol",
+     0.1663
+    ],
+    [
+     "2 gol",
+     0.2368
+    ],
+    [
+     "3 gol",
+     0.2223
+    ],
+    [
+     "4 gol",
+     0.157
+    ],
+    [
+     "5 gol",
+     0.0897
+    ],
+    [
+     "6+ gol",
+     0.0689
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Corinthians SP : Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.2964,
+   "adil_oran": 3.37,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.2964,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.1631
+    ],
+    [
+     "1 gol",
+     0.2964
+    ],
+    [
+     "2 gol",
+     0.2675
+    ],
+    [
+     "3 gol",
+     0.1616
+    ],
+    [
+     "4+ gol",
+     0.1114
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Botafogo : Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3676,
+   "adil_oran": 2.72,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3676,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3605
+    ],
+    [
+     "1 gol",
+     0.3676
+    ],
+    [
+     "2 gol",
+     0.1869
+    ],
+    [
+     "3 gol",
+     0.0644
+    ],
+    [
+     "4+ gol",
+     0.0206
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Aralık)",
+   "oneri": "2-3 gol",
+   "olasilik": 0.4591,
+   "adil_oran": 2.18,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.4591,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.2252
+    ],
+    [
+     "2-3 gol",
+     0.4591
+    ],
+    [
+     "4-5 gol",
+     0.2468
+    ],
+    [
+     "6+ gol",
+     0.0689
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Corinthians SP : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5639,
+   "adil_oran": 1.77,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5639,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.1631
+    ],
+    [
+     "1-2 gol",
+     0.5639
+    ],
+    [
+     "3+ gol",
+     0.273
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Botafogo : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5544,
+   "adil_oran": 1.8,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5544,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3605
+    ],
+    [
+     "1-2 gol",
+     0.5544
+    ],
+    [
+     "3+ gol",
+     0.0851
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Genişletilmiş Gol Aralığı)",
+   "oneri": "1-3 gol",
+   "olasilik": 0.6253,
+   "adil_oran": 1.6,
+   "en_olasi": "1-3 gol",
+   "en_olasi_p": 0.6253,
+   "guven": "yüksek",
+   "not_": "Sitedeki aralıklar farklı olabilir",
+   "secimler": [
+    [
+     "0 gol",
+     0.0589
+    ],
+    [
+     "1-2 gol",
+     0.4031
+    ],
+    [
+     "1-3 gol",
+     0.6253
+    ],
+    [
+     "2-3 gol",
+     0.4591
+    ],
+    [
+     "2-4 gol",
+     0.6161
+    ],
+    [
+     "3-4 gol",
+     0.3793
+    ],
+    [
+     "3-5 gol",
+     0.4691
+    ],
+    [
+     "4-6 gol",
+     0.2895
+    ],
+    [
+     "5+ gol",
+     0.1587
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Corinthians SP : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5639,
+   "adil_oran": 1.77,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5639,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.4595
+    ],
+    [
+     "1-2 gol",
+     0.5639
+    ],
+    [
+     "2-3 gol",
+     0.4291
+    ],
+    [
+     "3+ gol",
+     0.273
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Botafogo : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.728,
+   "adil_oran": 1.37,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.728,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.728
+    ],
+    [
+     "1-2 gol",
+     0.5544
+    ],
+    [
+     "2-3 gol",
+     0.2513
+    ],
+    [
+     "3+ gol",
+     0.0851
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Kesin Gol Sayısı",
+   "oneri": "2 gol",
+   "olasilik": 0.2368,
+   "adil_oran": 4.22,
+   "en_olasi": "2 gol",
+   "en_olasi_p": 0.2368,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0589
+    ],
+    [
+     "1 gol",
+     0.1663
+    ],
+    [
+     "2 gol",
+     0.2368
+    ],
+    [
+     "3 gol",
+     0.2223
+    ],
+    [
+     "4 gol",
+     0.157
+    ],
+    [
+     "5 gol",
+     0.0897
+    ],
+    [
+     "6 gol",
+     0.0427
+    ],
+    [
+     "7+ gol",
+     0.0262
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 1 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8337,
+   "adil_oran": 1.2,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8337,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1663
+    ],
+    [
+     "Hayır",
+     0.8337
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 2 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7632,
+   "adil_oran": 1.31,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7632,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2368
+    ],
+    [
+     "Hayır",
+     0.7632
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 3 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7777,
+   "adil_oran": 1.29,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7777,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2223
+    ],
+    [
+     "Hayır",
+     0.7777
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 4 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.843,
+   "adil_oran": 1.19,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.843,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.157
+    ],
+    [
+     "Hayır",
+     0.843
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "En Az Bir Takım Üst Gol Atar",
+   "oneri": "En az bir takım 1,5 Üst",
+   "olasilik": 0.6656,
+   "adil_oran": 1.5,
+   "en_olasi": "En az bir takım 0,5 Üst",
+   "en_olasi_p": 0.9411,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "En az bir takım 0,5 Üst",
+     0.9411
+    ],
+    [
+     "En az bir takım 1,5 Üst",
+     0.6656
+    ],
+    [
+     "En az bir takım 2,5 Üst",
+     0.3346
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Corinthians SP : Asist Yapar. Toplam",
+   "oneri": "Corinthians SP asist 0,5 Üst",
+   "olasilik": 0.6914,
+   "adil_oran": 1.45,
+   "en_olasi": "Corinthians SP asist 2,5 Alt",
+   "en_olasi_p": 0.8848,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP asist 0,5 Üst",
+     0.6914
+    ],
+    [
+     "Corinthians SP asist 0,5 Alt",
+     0.3086
+    ],
+    [
+     "Corinthians SP asist 1,5 Üst",
+     0.3281
+    ],
+    [
+     "Corinthians SP asist 1,5 Alt",
+     0.6718
+    ],
+    [
+     "Corinthians SP asist 2,5 Üst",
+     0.1152
+    ],
+    [
+     "Corinthians SP asist 2,5 Alt",
+     0.8848
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Botafogo : Asist Yapar. Toplam",
+   "oneri": "Botafogo asist 0,5 Alt",
+   "olasilik": 0.5265,
+   "adil_oran": 1.9,
+   "en_olasi": "Botafogo asist 1,5 Alt",
+   "en_olasi_p": 0.8633,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Botafogo asist 0,5 Üst",
+     0.4735
+    ],
+    [
+     "Botafogo asist 0,5 Alt",
+     0.5265
+    ],
+    [
+     "Botafogo asist 1,5 Üst",
+     0.1367
+    ],
+    [
+     "Botafogo asist 1,5 Alt",
+     0.8633
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takımda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.5354,
+   "adil_oran": 1.87,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5354,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5354
+    ],
+    [
+     "Hayır",
+     0.4646
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8531,
+   "adil_oran": 1.17,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8531,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1469
+    ],
+    [
+     "Hayır",
+     0.8531
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Corinthians SP : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.8369,
+   "adil_oran": 1.19,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.8369,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.8369
+    ],
+    [
+     "Hayır",
+     0.1631
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Botafogo : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.6395,
+   "adil_oran": 1.56,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6395,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6395
+    ],
+    [
+     "Hayır",
+     0.3605
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Karşılıklı Gol ve Toplam Goller 2.5",
+   "oneri": "KG Var & Üst",
+   "olasilik": 0.4262,
+   "adil_oran": 2.35,
+   "en_olasi": "KG Var & Üst",
+   "en_olasi_p": 0.4262,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "KG Var & Üst",
+     0.4262
+    ],
+    [
+     "KG Var & Alt",
+     0.1092
+    ],
+    [
+     "KG Yok & Üst",
+     0.1118
+    ],
+    [
+     "KG Yok & Alt",
+     0.3528
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Yarıda da Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.9455,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9455,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0545
+    ],
+    [
+     "Hayır",
+     0.9455
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı",
+   "oneri": "Corinthians SP +0,5",
+   "olasilik": 0.7886,
+   "adil_oran": 1.27,
+   "en_olasi": "Corinthians SP +2,5",
+   "en_olasi_p": 0.9794,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP -2,5",
+     0.147
+    ],
+    [
+     "Botafogo +2,5",
+     0.853
+    ],
+    [
+     "Corinthians SP -1,5",
+     0.3178
+    ],
+    [
+     "Botafogo +1,5",
+     0.6822
+    ],
+    [
+     "Corinthians SP -0,5",
+     0.5596
+    ],
+    [
+     "Botafogo +0,5",
+     0.4404
+    ],
+    [
+     "Corinthians SP +0,5",
+     0.7886
+    ],
+    [
+     "Botafogo -0,5",
+     0.2114
+    ],
+    [
+     "Corinthians SP +1,5",
+     0.9241
+    ],
+    [
+     "Botafogo -1,5",
+     0.076
+    ],
+    [
+     "Corinthians SP +2,5",
+     0.9794
+    ],
+    [
+     "Botafogo -2,5",
+     0.0206
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Goller Asya Handikapı",
+   "oneri": "Corinthians SP Asya +0,5",
+   "olasilik": 0.7886,
+   "adil_oran": 1.27,
+   "en_olasi": "Corinthians SP Asya +1,5",
+   "en_olasi_p": 0.924,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP Asya -2",
+     0.1773
+    ],
+    [
+     "Botafogo Asya -2",
+     0.0219
+    ],
+    [
+     "Corinthians SP Asya -1,75",
+     0.2541
+    ],
+    [
+     "Botafogo Asya -1,75",
+     0.0497
+    ],
+    [
+     "Corinthians SP Asya -1,5",
+     0.3178
+    ],
+    [
+     "Botafogo Asya -1,5",
+     0.076
+    ],
+    [
+     "Corinthians SP Asya -1,25",
+     0.3615
+    ],
+    [
+     "Botafogo Asya -1,25",
+     0.0815
+    ],
+    [
+     "Corinthians SP Asya -1",
+     0.4192
+    ],
+    [
+     "Botafogo Asya -1",
+     0.0878
+    ],
+    [
+     "Corinthians SP Asya -0,75",
+     0.499
+    ],
+    [
+     "Botafogo Asya -0,75",
+     0.1541
+    ],
+    [
+     "Corinthians SP Asya -0,5",
+     0.5596
+    ],
+    [
+     "Botafogo Asya -0,5",
+     0.2114
+    ],
+    [
+     "Corinthians SP Asya -0,25",
+     0.632
+    ],
+    [
+     "Botafogo Asya -0,25",
+     0.2387
+    ],
+    [
+     "Corinthians SP Asya 0",
+     0.7258
+    ],
+    [
+     "Botafogo Asya 0",
+     0.2742
+    ],
+    [
+     "Corinthians SP Asya +0,25",
+     0.7613
+    ],
+    [
+     "Botafogo Asya +0,25",
+     0.368
+    ],
+    [
+     "Corinthians SP Asya +0,5",
+     0.7886
+    ],
+    [
+     "Botafogo Asya +0,5",
+     0.4404
+    ],
+    [
+     "Corinthians SP Asya +0,75",
+     0.8459
+    ],
+    [
+     "Botafogo Asya +0,75",
+     0.501
+    ],
+    [
+     "Corinthians SP Asya +1",
+     0.9122
+    ],
+    [
+     "Botafogo Asya +1",
+     0.5808
+    ],
+    [
+     "Corinthians SP Asya +1,25",
+     0.9185
+    ],
+    [
+     "Botafogo Asya +1,25",
+     0.6385
+    ],
+    [
+     "Corinthians SP Asya +1,5",
+     0.924
+    ],
+    [
+     "Botafogo Asya +1,5",
+     0.6822
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı (3-İhtimalli)",
+   "oneri": "Corinthians SP (+1)",
+   "olasilik": 0.7886,
+   "adil_oran": 1.27,
+   "en_olasi": "Corinthians SP (+3)",
+   "en_olasi_p": 0.9794,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP (-3)",
+     0.057
+    ],
+    [
+     "X (-3)",
+     0.09
+    ],
+    [
+     "Botafogo (-3)",
+     0.853
+    ],
+    [
+     "Corinthians SP (-2)",
+     0.147
+    ],
+    [
+     "X (-2)",
+     0.1708
+    ],
+    [
+     "Botafogo (-2)",
+     0.6822
+    ],
+    [
+     "Corinthians SP (-1)",
+     0.3178
+    ],
+    [
+     "X (-1)",
+     0.2418
+    ],
+    [
+     "Botafogo (-1)",
+     0.4404
+    ],
+    [
+     "Corinthians SP (+1)",
+     0.7886
+    ],
+    [
+     "X (+1)",
+     0.1354
+    ],
+    [
+     "Botafogo (+1)",
+     0.076
+    ],
+    [
+     "Corinthians SP (+2)",
+     0.9241
+    ],
+    [
+     "X (+2)",
+     0.0553
+    ],
+    [
+     "Botafogo (+2)",
+     0.0206
+    ],
+    [
+     "Corinthians SP (+3)",
+     0.9794
+    ],
+    [
+     "X (+3)",
+     0.0157
+    ],
+    [
+     "Botafogo (+3)",
+     0.0049
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Corinthians SP Gol Atar ve Maç Sonucu",
+   "oneri": "1 & Corinthians SP gol atar",
+   "olasilik": 0.5596,
+   "adil_oran": 1.79,
+   "en_olasi": "1 & Corinthians SP gol atar",
+   "en_olasi_p": 0.5596,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Corinthians SP gol atar",
+     0.5596
+    ],
+    [
+     "1 & Corinthians SP gol atamaz",
+     0.0
+    ],
+    [
+     "X & Corinthians SP gol atar",
+     0.1701
+    ],
+    [
+     "X & Corinthians SP gol atamaz",
+     0.0589
+    ],
+    [
+     "2 & Corinthians SP gol atar",
+     0.1072
+    ],
+    [
+     "2 & Corinthians SP gol atamaz",
+     0.1041
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Botafogo Gol Atar ve Maç Sonucu",
+   "oneri": "1 & Botafogo gol atamaz",
+   "olasilik": 0.3015,
+   "adil_oran": 3.32,
+   "en_olasi": "1 & Botafogo gol atamaz",
+   "en_olasi_p": 0.3015,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Botafogo gol atar",
+     0.2581
+    ],
+    [
+     "1 & Botafogo gol atamaz",
+     0.3015
+    ],
+    [
+     "X & Botafogo gol atar",
+     0.1701
+    ],
+    [
+     "X & Botafogo gol atamaz",
+     0.0589
+    ],
+    [
+     "2 & Botafogo gol atar",
+     0.2114
+    ],
+    [
+     "2 & Botafogo gol atamaz",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Karşılıklı Gol",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.3015,
+   "adil_oran": 3.32,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.3015,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.2581
+    ],
+    [
+     "1 & KG Yok",
+     0.3015
+    ],
+    [
+     "X & KG Var",
+     0.1701
+    ],
+    [
+     "X & KG Yok",
+     0.0589
+    ],
+    [
+     "2 & KG Var",
+     0.1072
+    ],
+    [
+     "2 & KG Yok",
+     0.1041
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Karşılıklı Gol",
+   "oneri": "1X & KG Var",
+   "olasilik": 0.4281,
+   "adil_oran": 2.34,
+   "en_olasi": "1X & KG Var",
+   "en_olasi_p": 0.4281,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & KG Var",
+     0.4281
+    ],
+    [
+     "1X & KG Yok",
+     0.3605
+    ],
+    [
+     "12 & KG Var",
+     0.3653
+    ],
+    [
+     "12 & KG Yok",
+     0.4057
+    ],
+    [
+     "X2 & KG Var",
+     0.2773
+    ],
+    [
+     "X2 & KG Yok",
+     0.1631
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 1.5",
+   "oneri": "1 & 1,5 Üst",
+   "olasilik": 0.4527,
+   "adil_oran": 2.21,
+   "en_olasi": "1 & 1,5 Üst",
+   "en_olasi_p": 0.4527,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1,5 Üst",
+     0.4527
+    ],
+    [
+     "1 & 1,5 Alt",
+     0.1069
+    ],
+    [
+     "X & 1,5 Üst",
+     0.1701
+    ],
+    [
+     "X & 1,5 Alt",
+     0.0589
+    ],
+    [
+     "2 & 1,5 Üst",
+     0.152
+    ],
+    [
+     "2 & 1,5 Alt",
+     0.0594
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 2.5",
+   "oneri": "1 & 2,5 Üst",
+   "olasilik": 0.3563,
+   "adil_oran": 2.81,
+   "en_olasi": "1 & 2,5 Üst",
+   "en_olasi_p": 0.3563,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 2,5 Üst",
+     0.3563
+    ],
+    [
+     "1 & 2,5 Alt",
+     0.2033
+    ],
+    [
+     "X & 2,5 Üst",
+     0.0609
+    ],
+    [
+     "X & 2,5 Alt",
+     0.1681
+    ],
+    [
+     "2 & 2,5 Üst",
+     0.1208
+    ],
+    [
+     "2 & 2,5 Alt",
+     0.0906
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 3.5",
+   "oneri": "1 & 3,5 Alt",
+   "olasilik": 0.3601,
+   "adil_oran": 2.78,
+   "en_olasi": "1 & 3,5 Alt",
+   "en_olasi_p": 0.3601,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 3,5 Üst",
+     0.1995
+    ],
+    [
+     "1 & 3,5 Alt",
+     0.3601
+    ],
+    [
+     "X & 3,5 Üst",
+     0.0609
+    ],
+    [
+     "X & 3,5 Alt",
+     0.1681
+    ],
+    [
+     "2 & 3,5 Üst",
+     0.0553
+    ],
+    [
+     "2 & 3,5 Alt",
+     0.1561
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 4.5",
+   "oneri": "1 & 4,5 Alt",
+   "olasilik": 0.4462,
+   "adil_oran": 2.24,
+   "en_olasi": "1 & 4,5 Alt",
+   "en_olasi_p": 0.4462,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 4,5 Üst",
+     0.1134
+    ],
+    [
+     "1 & 4,5 Alt",
+     0.4462
+    ],
+    [
+     "X & 4,5 Üst",
+     0.0118
+    ],
+    [
+     "X & 4,5 Alt",
+     0.2172
+    ],
+    [
+     "2 & 4,5 Üst",
+     0.0334
+    ],
+    [
+     "2 & 4,5 Alt",
+     0.1779
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Corinthians SP : Toplam Gol",
+   "oneri": "1 & Corinthians SP 1,5 Üst",
+   "olasilik": 0.4527,
+   "adil_oran": 2.21,
+   "en_olasi": "1 & Corinthians SP 1,5 Üst",
+   "en_olasi_p": 0.4527,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Corinthians SP 1,5 Üst",
+     0.4527
+    ],
+    [
+     "1 & Corinthians SP 1,5 Alt",
+     0.1069
+    ],
+    [
+     "X & Corinthians SP 1,5 Üst",
+     0.0609
+    ],
+    [
+     "X & Corinthians SP 1,5 Alt",
+     0.1681
+    ],
+    [
+     "2 & Corinthians SP 1,5 Üst",
+     0.0269
+    ],
+    [
+     "2 & Corinthians SP 1,5 Alt",
+     0.1845
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Botafogo : Toplam Gol",
+   "oneri": "1 & Botafogo 0,5 Alt",
+   "olasilik": 0.3015,
+   "adil_oran": 3.32,
+   "en_olasi": "1 & Botafogo 0,5 Alt",
+   "en_olasi_p": 0.3015,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Botafogo 0,5 Üst",
+     0.2581
+    ],
+    [
+     "1 & Botafogo 0,5 Alt",
+     0.3015
+    ],
+    [
+     "X & Botafogo 0,5 Üst",
+     0.1701
+    ],
+    [
+     "X & Botafogo 0,5 Alt",
+     0.0589
+    ],
+    [
+     "2 & Botafogo 0,5 Üst",
+     0.2114
+    ],
+    [
+     "2 & Botafogo 0,5 Alt",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Toplam Gol",
+   "oneri": "1 veya 2,5 Alt",
+   "olasilik": 0.8183,
+   "adil_oran": 1.22,
+   "en_olasi": "1 veya 2,5 Alt",
+   "en_olasi_p": 0.8183,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 2,5 Üst",
+     0.7413
+    ],
+    [
+     "1 veya 2,5 Alt",
+     0.8183
+    ],
+    [
+     "X veya 2,5 Üst",
+     0.7061
+    ],
+    [
+     "X veya 2,5 Alt",
+     0.5229
+    ],
+    [
+     "2 veya 2,5 Üst",
+     0.6286
+    ],
+    [
+     "2 veya 2,5 Alt",
+     0.5828
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol (Kesin)",
+   "oneri": "1 & 3 gol",
+   "olasilik": 0.1568,
+   "adil_oran": 6.38,
+   "en_olasi": "1 & 3 gol",
+   "en_olasi_p": 0.1568,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 0 gol",
+     0.0
+    ],
+    [
+     "1 & 1 gol",
+     0.1069
+    ],
+    [
+     "1 & 2 gol",
+     0.0964
+    ],
+    [
+     "1 & 3 gol",
+     0.1568
+    ],
+    [
+     "1 & 4 gol",
+     0.0861
+    ],
+    [
+     "1 & 5 gol",
+     0.0671
+    ],
+    [
+     "X & 0 gol",
+     0.0589
+    ],
+    [
+     "X & 1 gol",
+     0.0
+    ],
+    [
+     "X & 2 gol",
+     0.1092
+    ],
+    [
+     "X & 3 gol",
+     0.0
+    ],
+    [
+     "X & 4 gol",
+     0.0491
+    ],
+    [
+     "X & 5 gol",
+     0.0
+    ],
+    [
+     "2 & 0 gol",
+     0.0
+    ],
+    [
+     "2 & 1 gol",
+     0.0594
+    ],
+    [
+     "2 & 2 gol",
+     0.0312
+    ],
+    [
+     "2 & 3 gol",
+     0.0655
+    ],
+    [
+     "2 & 4 gol",
+     0.0219
+    ],
+    [
+     "2 & 5 gol",
+     0.0226
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "1 & 1-3 gol",
+   "olasilik": 0.3601,
+   "adil_oran": 2.78,
+   "en_olasi": "1 & 1-3 gol",
+   "en_olasi_p": 0.3601,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1-2 gol",
+     0.2033
+    ],
+    [
+     "1 & 1-3 gol",
+     0.3601
+    ],
+    [
+     "1 & 2-3 gol",
+     0.2532
+    ],
+    [
+     "1 & 2-4 gol",
+     0.3393
+    ],
+    [
+     "1 & 3-4 gol",
+     0.2429
+    ],
+    [
+     "1 & 3-5 gol",
+     0.31
+    ],
+    [
+     "X & 1-2 gol",
+     0.1092
+    ],
+    [
+     "X & 1-3 gol",
+     0.1092
+    ],
+    [
+     "X & 2-3 gol",
+     0.1092
+    ],
+    [
+     "X & 2-4 gol",
+     0.1583
+    ],
+    [
+     "X & 3-4 gol",
+     0.0491
+    ],
+    [
+     "X & 3-5 gol",
+     0.0491
+    ],
+    [
+     "2 & 1-2 gol",
+     0.0906
+    ],
+    [
+     "2 & 1-3 gol",
+     0.1561
+    ],
+    [
+     "2 & 2-3 gol",
+     0.0967
+    ],
+    [
+     "2 & 2-4 gol",
+     0.1186
+    ],
+    [
+     "2 & 3-4 gol",
+     0.0873
+    ],
+    [
+     "2 & 3-5 gol",
+     0.11
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "12 & 1-3 gol",
+   "olasilik": 0.5161,
+   "adil_oran": 1.94,
+   "en_olasi": "12 & 1-3 gol",
+   "en_olasi_p": 0.5161,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1-2 gol",
+     0.3125
+    ],
+    [
+     "1X & 1-3 gol",
+     0.4693
+    ],
+    [
+     "1X & 2-3 gol",
+     0.3624
+    ],
+    [
+     "1X & 2-4 gol",
+     0.4975
+    ],
+    [
+     "12 & 1-2 gol",
+     0.2939
+    ],
+    [
+     "12 & 1-3 gol",
+     0.5161
+    ],
+    [
+     "12 & 2-3 gol",
+     0.3499
+    ],
+    [
+     "12 & 2-4 gol",
+     0.4578
+    ],
+    [
+     "X2 & 1-2 gol",
+     0.1998
+    ],
+    [
+     "X2 & 1-3 gol",
+     0.2653
+    ],
+    [
+     "X2 & 2-3 gol",
+     0.2059
+    ],
+    [
+     "X2 & 2-4 gol",
+     0.2768
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Doğru Skor",
+   "oneri": "1 veya 1-1",
+   "olasilik": 0.6688,
+   "adil_oran": 1.5,
+   "en_olasi": "1 veya 1-1",
+   "en_olasi_p": 0.6688,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 1-1",
+     0.6688
+    ],
+    [
+     "1 veya 0-1",
+     0.619
+    ],
+    [
+     "X veya 1-0",
+     0.3359
+    ],
+    [
+     "X veya 2-1",
+     0.328
+    ],
+    [
+     "X veya 2-0",
+     0.3254
+    ],
+    [
+     "X veya 0-1",
+     0.2884
+    ],
+    [
+     "X veya 3-1",
+     0.288
+    ],
+    [
+     "2 veya 1-1",
+     0.3206
+    ],
+    [
+     "2 veya 1-0",
+     0.3183
+    ],
+    [
+     "2 veya 2-1",
+     0.3103
+    ],
+    [
+     "2 veya 2-0",
+     0.3077
+    ],
+    [
+     "2 veya 3-1",
+     0.2704
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Her İki Yarı Toplam Gol Kombinasyonu",
+   "oneri": "İY Alt 1,5 & 2Y Alt 1,5",
+   "olasilik": 0.3411,
+   "adil_oran": 2.93,
+   "en_olasi": "İY Alt 1,5 & 2Y Alt 1,5",
+   "en_olasi_p": 0.3411,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Alt 1,5 & 2Y Alt 1,5",
+     0.3411
+    ],
+    [
+     "İY Alt 1,5 & 2Y Üst 1,5",
+     0.3037
+    ],
+    [
+     "İY Üst 1,5 & 2Y Alt 1,5",
+     0.1884
+    ],
+    [
+     "İY Üst 1,5 & 2Y Üst 1,5",
+     0.1668
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Farklı Kombineler",
+   "oneri": "1 & 2Y gol olur",
+   "olasilik": 0.4757,
+   "adil_oran": 2.1,
+   "en_olasi": "1 & 2Y gol olur",
+   "en_olasi_p": 0.4757,
+   "guven": "yüksek",
+   "not_": "Sitedeki kombinasyon içerikleri farklı olabilir",
+   "secimler": [
+    [
+     "1 & 2Y gol olur",
+     0.4757
+    ],
+    [
+     "2 & 2Y gol olur",
+     0.1721
+    ],
+    [
+     "Corinthians SP her iki yarıda gol & 1",
+     0.3028
+    ],
+    [
+     "Botafogo her iki yarıda gol & 2",
+     0.0921
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans Kombo",
+   "oneri": "1X & 1,5 Üst",
+   "olasilik": 0.6228,
+   "adil_oran": 1.61,
+   "en_olasi": "1X & 1,5 Üst",
+   "en_olasi_p": 0.6228,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1,5 Üst",
+     0.6228
+    ],
+    [
+     "1X & 1,5 Alt",
+     0.1658
+    ],
+    [
+     "1X & 2,5 Üst",
+     0.4172
+    ],
+    [
+     "1X & 2,5 Alt",
+     0.3714
+    ],
+    [
+     "1X & 3,5 Üst",
+     0.2604
+    ],
+    [
+     "1X & 3,5 Alt",
+     0.5282
+    ],
+    [
+     "12 & 1,5 Üst",
+     0.6047
+    ],
+    [
+     "12 & 1,5 Alt",
+     0.1663
+    ],
+    [
+     "12 & 2,5 Üst",
+     0.4771
+    ],
+    [
+     "12 & 2,5 Alt",
+     0.2939
+    ],
+    [
+     "12 & 3,5 Üst",
+     0.2548
+    ],
+    [
+     "12 & 3,5 Alt",
+     0.5161
+    ],
+    [
+     "X2 & 1,5 Üst",
+     0.3221
+    ],
+    [
+     "X2 & 1,5 Alt",
+     0.1183
+    ],
+    [
+     "X2 & 2,5 Üst",
+     0.1817
+    ],
+    [
+     "X2 & 2,5 Alt",
+     0.2587
+    ],
+    [
+     "X2 & 3,5 Üst",
+     0.1162
+    ],
+    [
+     "X2 & 3,5 Alt",
+     0.3242
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "İlk Yarı/Maç Sonucu ve Toplam Gol",
+   "oneri": "1/1 & 2,5 Üst",
+   "olasilik": 0.2352,
+   "adil_oran": 4.25,
+   "en_olasi": "1/1 & 2,5 Üst",
+   "en_olasi_p": 0.2352,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1 & 2,5 Üst",
+     0.2352
+    ],
+    [
+     "1/1 & 2,5 Alt",
+     0.1133
+    ],
+    [
+     "1/X & 2,5 Üst",
+     0.0194
+    ],
+    [
+     "1/X & 2,5 Alt",
+     0.0268
+    ],
+    [
+     "1/2 & 2,5 Üst",
+     0.0149
+    ],
+    [
+     "1/2 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "X/1 & 2,5 Üst",
+     0.0921
+    ],
+    [
+     "X/1 & 2,5 Alt",
+     0.09
+    ],
+    [
+     "X/X & 2,5 Üst",
+     0.0226
+    ],
+    [
+     "X/X & 2,5 Alt",
+     0.1145
+    ],
+    [
+     "X/2 & 2,5 Üst",
+     0.0375
+    ],
+    [
+     "X/2 & 2,5 Alt",
+     0.0436
+    ],
+    [
+     "2/1 & 2,5 Üst",
+     0.029
+    ],
+    [
+     "2/1 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "2/X & 2,5 Üst",
+     0.0189
+    ],
+    [
+     "2/X & 2,5 Alt",
+     0.0268
+    ],
+    [
+     "2/2 & 2,5 Üst",
+     0.0684
+    ],
+    [
+     "2/2 & 2,5 Alt",
+     0.047
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Her İki Yarıda Gol Olur",
+   "oneri": "Evet",
+   "olasilik": 0.5651,
+   "adil_oran": 1.77,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5651,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5651
+    ],
+    [
+     "Hayır",
+     0.4349
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım",
+   "oneri": "Corinthians SP",
+   "olasilik": 0.6009,
+   "adil_oran": 1.66,
+   "en_olasi": "Corinthians SP",
+   "en_olasi_p": 0.6009,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP",
+     0.6009
+    ],
+    [
+     "Gol yok",
+     0.0589
+    ],
+    [
+     "Botafogo",
+     0.3401
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Son Golü Atacak Takım",
+   "oneri": "Corinthians SP",
+   "olasilik": 0.5995,
+   "adil_oran": 1.67,
+   "en_olasi": "Corinthians SP",
+   "en_olasi_p": 0.5995,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP",
+     0.5995
+    ],
+    [
+     "Gol yok",
+     0.0589
+    ],
+    [
+     "Botafogo",
+     0.3415
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golün Atılma Şekli",
+   "oneri": "Şut",
+   "olasilik": 0.6663,
+   "adil_oran": 1.5,
+   "en_olasi": "Şut",
+   "en_olasi_p": 0.6663,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şut",
+     0.6663
+    ],
+    [
+     "Kafa",
+     0.1428
+    ],
+    [
+     "Penaltı",
+     0.0716
+    ],
+    [
+     "Serbest vuruş",
+     0.0271
+    ],
+    [
+     "Kendi kalesine",
+     0.0333
+    ],
+    [
+     "Gol yok",
+     0.0589
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı",
+   "oneri": "1-27 dk",
+   "olasilik": 0.4893,
+   "adil_oran": 2.04,
+   "en_olasi": "1-27 dk",
+   "en_olasi_p": 0.4893,
+   "guven": "orta",
+   "not_": "Sınır 27. dk varsayıldı",
+   "secimler": [
+    [
+     "1-27 dk",
+     0.4893
+    ],
+    [
+     "28-90 dk",
+     0.4517
+    ],
+    [
+     "Gol yok",
+     0.0589
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Corinthians SP : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.1631,
+   "adil_oran": 6.13,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.1631,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.1414
+    ],
+    [
+     "11-20 dk",
+     0.1274
+    ],
+    [
+     "21-30 dk",
+     0.112
+    ],
+    [
+     "31-40 dk",
+     0.1011
+    ],
+    [
+     "41-50 dk",
+     0.103
+    ],
+    [
+     "51-60 dk",
+     0.0701
+    ],
+    [
+     "61-70 dk",
+     0.061
+    ],
+    [
+     "71-80 dk",
+     0.0534
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0675
+    ],
+    [
+     "Gol yok",
+     0.1631
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Botafogo : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.3605,
+   "adil_oran": 2.77,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.3605,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.0827
+    ],
+    [
+     "11-20 dk",
+     0.0799
+    ],
+    [
+     "21-30 dk",
+     0.0755
+    ],
+    [
+     "31-40 dk",
+     0.0726
+    ],
+    [
+     "41-50 dk",
+     0.0795
+    ],
+    [
+     "51-60 dk",
+     0.0619
+    ],
+    [
+     "61-70 dk",
+     0.0584
+    ],
+    [
+     "71-80 dk",
+     0.0542
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0747
+    ],
+    [
+     "Gol yok",
+     0.3605
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı (15 dk.)",
+   "oneri": "1-15 dk",
+   "olasilik": 0.3042,
+   "adil_oran": 3.29,
+   "en_olasi": "1-15 dk",
+   "en_olasi_p": 0.3042,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-15 dk",
+     0.3042
+    ],
+    [
+     "16-30 dk",
+     0.2237
+    ],
+    [
+     "31-45 (+uz.) dk",
+     0.1799
+    ],
+    [
+     "46-60 dk",
+     0.1027
+    ],
+    [
+     "61-75 dk",
+     0.0707
+    ],
+    [
+     "76-90 (+uz.) dk",
+     0.0599
+    ],
+    [
+     "Gol yok",
+     0.0589
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve Maç Sonucu",
+   "oneri": "İlk gol Corinthians SP & 1",
+   "olasilik": 0.4801,
+   "adil_oran": 2.08,
+   "en_olasi": "İlk gol Corinthians SP & 1",
+   "en_olasi_p": 0.4801,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Corinthians SP & 1",
+     0.4801
+    ],
+    [
+     "İlk gol Corinthians SP & X",
+     0.0855
+    ],
+    [
+     "İlk gol Corinthians SP & 2",
+     0.0353
+    ],
+    [
+     "İlk gol Botafogo & 1",
+     0.0795
+    ],
+    [
+     "İlk gol Botafogo & X",
+     0.0846
+    ],
+    [
+     "İlk gol Botafogo & 2",
+     0.1761
+    ],
+    [
+     "Gol yok",
+     0.0589
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 1. Yarı Sonucu",
+   "oneri": "İlk gol Corinthians SP & İY 1",
+   "olasilik": 0.3901,
+   "adil_oran": 2.56,
+   "en_olasi": "İlk gol Corinthians SP & İY 1",
+   "en_olasi_p": 0.3901,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Corinthians SP & İY 1",
+     0.3901
+    ],
+    [
+     "İlk gol Corinthians SP & İY X",
+     0.201
+    ],
+    [
+     "İlk gol Corinthians SP & İY 2",
+     0.0098
+    ],
+    [
+     "İlk gol Botafogo & İY 1",
+     0.0194
+    ],
+    [
+     "İlk gol Botafogo & İY X",
+     0.1403
+    ],
+    [
+     "İlk gol Botafogo & İY 2",
+     0.1805
+    ],
+    [
+     "Gol yok",
+     0.0589
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 2. Yarı Sonucu",
+   "oneri": "İlk gol Corinthians SP & 2Y 1",
+   "olasilik": 0.3267,
+   "adil_oran": 3.06,
+   "en_olasi": "İlk gol Corinthians SP & 2Y 1",
+   "en_olasi_p": 0.3267,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Corinthians SP & 2Y 1",
+     0.3267
+    ],
+    [
+     "İlk gol Corinthians SP & 2Y X",
+     0.1764
+    ],
+    [
+     "İlk gol Corinthians SP & 2Y 2",
+     0.0978
+    ],
+    [
+     "İlk gol Botafogo & 2Y 1",
+     0.1273
+    ],
+    [
+     "İlk gol Botafogo & 2Y X",
+     0.1067
+    ],
+    [
+     "İlk gol Botafogo & 2Y 2",
+     0.1061
+    ],
+    [
+     "Gol yok",
+     0.0589
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Doğru Skor",
+   "oneri": "1-1",
+   "olasilik": 0.1092,
+   "adil_oran": 9.16,
+   "en_olasi": "1-1",
+   "en_olasi_p": 0.1092,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-1",
+     0.1092
+    ],
+    [
+     "1-0",
+     0.1069
+    ],
+    [
+     "2-1",
+     0.0989
+    ],
+    [
+     "2-0",
+     0.0964
+    ],
+    [
+     "0-1",
+     0.0594
+    ],
+    [
+     "3-1",
+     0.059
+    ],
+    [
+     "0-0",
+     0.0589
+    ],
+    [
+     "3-0",
+     0.0579
+    ],
+    [
+     "1-2",
+     0.0554
+    ],
+    [
+     "2-2",
+     0.0491
+    ],
+    [
+     "Diğer",
+     0.0417
+    ],
+    [
+     "0-2",
+     0.0312
+    ],
+    [
+     "3-2",
+     0.0307
+    ],
+    [
+     "4-0",
+     0.0271
+    ],
+    [
+     "4-1",
+     0.0268
+    ],
+    [
+     "1-3",
+     0.019
+    ],
+    [
+     "2-3",
+     0.0176
+    ],
+    [
+     "4-2",
+     0.0135
+    ],
+    [
+     "3-3",
+     0.0105
+    ],
+    [
+     "0-3",
+     0.01
+    ],
+    [
+     "4-3",
+     0.0048
+    ],
+    [
+     "1-4",
+     0.0046
+    ],
+    [
+     "2-4",
+     0.0044
+    ],
+    [
+     "0-4",
+     0.0029
+    ],
+    [
+     "3-4",
+     0.0029
+    ],
+    [
+     "4-4",
+     0.0012
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Herhangi Bir Zamanda Doğru Skor",
+   "oneri": "1-0 herhangi bir anda",
+   "olasilik": 0.5943,
+   "adil_oran": 1.68,
+   "en_olasi": "1-0 herhangi bir anda",
+   "en_olasi_p": 0.5943,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-0 herhangi bir anda",
+     0.5943
+    ],
+    [
+     "1-1 herhangi bir anda",
+     0.3514
+    ],
+    [
+     "0-1 herhangi bir anda",
+     0.3338
+    ],
+    [
+     "2-0 herhangi bir anda",
+     0.3129
+    ],
+    [
+     "2-1 herhangi bir anda",
+     0.2344
+    ],
+    [
+     "3-0 herhangi bir anda",
+     0.139
+    ],
+    [
+     "1-2 herhangi bir anda",
+     0.1313
+    ],
+    [
+     "3-1 herhangi bir anda",
+     0.1164
+    ],
+    [
+     "0-2 herhangi bir anda",
+     0.0994
+    ],
+    [
+     "2-2 herhangi bir anda",
+     0.0983
+    ],
+    [
+     "3-2 herhangi bir anda",
+     0.0536
+    ],
+    [
+     "1-3 herhangi bir anda",
+     0.0374
+    ],
+    [
+     "2-3 herhangi bir anda",
+     0.0302
+    ],
+    [
+     "0-3 herhangi bir anda",
+     0.0244
+    ],
+    [
+     "3-3 herhangi bir anda",
+     0.0166
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Skor Kombinasyonları",
+   "oneri": "Corinthians SP 1-0/2-0/2-1",
+   "olasilik": 0.3022,
+   "adil_oran": 3.31,
+   "en_olasi": "Corinthians SP 1-0/2-0/2-1",
+   "en_olasi_p": 0.3022,
+   "guven": "yüksek",
+   "not_": "Sitedeki gruplar farklı olabilir",
+   "secimler": [
+    [
+     "Corinthians SP 1-0/2-0/2-1",
+     0.3022
+    ],
+    [
+     "Corinthians SP 3-0/3-1/4-0",
+     0.144
+    ],
+    [
+     "0-0/1-1",
+     0.1681
+    ],
+    [
+     "Botafogo 0-1/0-2/1-2",
+     0.1461
+    ],
+    [
+     "Botafogo 0-3/1-3/0-4",
+     0.0319
+    ],
+    [
+     "2-2/3-3",
+     0.0595
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "1.Yarı/Maç Skoru",
+   "oneri": "İY 0-0 / MS 1-0",
+   "olasilik": 0.0596,
+   "adil_oran": 16.78,
+   "en_olasi": "İY 0-0 / MS 1-0",
+   "en_olasi_p": 0.0596,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 0-0 / MS 1-0",
+     0.0596
+    ],
+    [
+     "İY 0-0 / MS 0-0",
+     0.0589
+    ],
+    [
+     "İY 1-0 / MS 1-0",
+     0.0473
+    ],
+    [
+     "İY 1-0 / MS 2-0",
+     0.0472
+    ],
+    [
+     "İY 0-0 / MS 1-1",
+     0.0344
+    ],
+    [
+     "İY 0-0 / MS 0-1",
+     0.0334
+    ],
+    [
+     "İY 0-0 / MS 2-0",
+     0.0304
+    ],
+    [
+     "İY 1-0 / MS 2-1",
+     0.0277
+    ],
+    [
+     "İY 1-0 / MS 1-1",
+     0.0268
+    ],
+    [
+     "İY 0-1 / MS 1-1",
+     0.0268
+    ],
+    [
+     "İY 0-1 / MS 0-1",
+     0.026
+    ],
+    [
+     "İY 1-0 / MS 3-0",
+     0.0234
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Maç Skoru Beraberlik (0-0 hariç)",
+   "oneri": "Hayır",
+   "olasilik": 0.8299,
+   "adil_oran": 1.2,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8299,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1701
+    ],
+    [
+     "Hayır",
+     0.8299
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Corinthians SP Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.2418,
+   "adil_oran": 4.14,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2418,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2418
+    ],
+    [
+     "2 farkla",
+     0.1708
+    ],
+    [
+     "3 farkla",
+     0.09
+    ],
+    [
+     "4+ farkla",
+     0.057
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Botafogo : Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.1354,
+   "adil_oran": 7.38,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1354,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1354
+    ],
+    [
+     "2 farkla",
+     0.0553
+    ],
+    [
+     "3 farkla",
+     0.0157
+    ],
+    [
+     "4+ farkla",
+     0.0049
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Corinthians SP Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.1953,
+   "adil_oran": 5.12,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.1953,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.1069
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.1953
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.1475
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.1099
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Botafogo Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.0867,
+   "adil_oran": 11.54,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.0867,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.0594
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.0867
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.0466
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.0187
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Corinthians SP Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.6985,
+   "adil_oran": 1.43,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6985,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3015
+    ],
+    [
+     "Hayır",
+     0.6985
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Botafogo Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8959,
+   "adil_oran": 1.12,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8959,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1041
+    ],
+    [
+     "Hayır",
+     0.8959
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Corinthians SP İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7392,
+   "adil_oran": 1.35,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7392,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2608
+    ],
+    [
+     "Hayır",
+     0.7392
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Botafogo İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.929,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.929,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.071
+    ],
+    [
+     "Hayır",
+     0.929
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Corinthians SP Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.5292,
+   "adil_oran": 1.89,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5292,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4708
+    ],
+    [
+     "Hayır",
+     0.5292
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Botafogo Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.6355,
+   "adil_oran": 1.57,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6355,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3644
+    ],
+    [
+     "Hayır",
+     0.6355
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Corinthians SP En Az Bir Yarıyı Kazanır",
+   "oneri": "Evet",
+   "olasilik": 0.6782,
+   "adil_oran": 1.47,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6782,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6782
+    ],
+    [
+     "Hayır",
+     0.3218
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Botafogo En Az Bir Yarıyı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.6447,
+   "adil_oran": 1.55,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6447,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3553
+    ],
+    [
+     "Hayır",
+     0.6447
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Corinthians SP İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.939,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.939,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.061
+    ],
+    [
+     "Hayır",
+     0.939
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Botafogo İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.9252,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9252,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0748
+    ],
+    [
+     "Hayır",
+     0.9252
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Sonucu",
+   "oneri": "1 (Corinthians SP)",
+   "olasilik": 0.4095,
+   "adil_oran": 2.44,
+   "en_olasi": "1 (Corinthians SP)",
+   "en_olasi_p": 0.4095,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Corinthians SP)",
+     0.4095
+    ],
+    [
+     "X",
+     0.4002
+    ],
+    [
+     "2 (Botafogo)",
+     0.1903
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Çifte Şans",
+   "oneri": "1X",
+   "olasilik": 0.8097,
+   "adil_oran": 1.23,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.8097,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.8097
+    ],
+    [
+     "12",
+     0.5998
+    ],
+    [
+     "X2",
+     0.5905
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.7117,
+   "adil_oran": 1.41,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.8693,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7117
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2883
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.3552
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.6448
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1307
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8693
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 1. Takım Toplam Gol",
+   "oneri": "Corinthians SP 1,5 Alt",
+   "olasilik": 0.8081,
+   "adil_oran": 1.24,
+   "en_olasi": "Corinthians SP 1,5 Alt",
+   "en_olasi_p": 0.8081,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP 0,5 Üst",
+     0.5502
+    ],
+    [
+     "Corinthians SP 0,5 Alt",
+     0.4499
+    ],
+    [
+     "Corinthians SP 1,5 Üst",
+     0.1919
+    ],
+    [
+     "Corinthians SP 1,5 Alt",
+     0.8081
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 2. Takım Toplam Gol",
+   "oneri": "Botafogo 0,5 Alt",
+   "olasilik": 0.6406,
+   "adil_oran": 1.56,
+   "en_olasi": "Botafogo 1,5 Alt",
+   "en_olasi_p": 0.9235,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Botafogo 0,5 Üst",
+     0.3594
+    ],
+    [
+     "Botafogo 0,5 Alt",
+     0.6406
+    ],
+    [
+     "Botafogo 1,5 Üst",
+     0.0765
+    ],
+    [
+     "Botafogo 1,5 Alt",
+     0.9235
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Corinthians SP Toplam Gol Asya",
+   "oneri": "Corinthians SP Asya 1 Alt",
+   "olasilik": 0.7009,
+   "adil_oran": 1.43,
+   "en_olasi": "Corinthians SP Asya 1 Alt",
+   "en_olasi_p": 0.7009,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP Asya 0,5 Üst",
+     0.5502
+    ],
+    [
+     "Corinthians SP Asya 0,5 Alt",
+     0.4498
+    ],
+    [
+     "Corinthians SP Asya 0,75 Üst",
+     0.452
+    ],
+    [
+     "Corinthians SP Asya 0,75 Alt",
+     0.548
+    ],
+    [
+     "Corinthians SP Asya 1 Üst",
+     0.2991
+    ],
+    [
+     "Corinthians SP Asya 1 Alt",
+     0.7009
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Botafogo Toplam Gol Asya",
+   "oneri": "Botafogo Asya 0,5 Alt",
+   "olasilik": 0.6406,
+   "adil_oran": 1.56,
+   "en_olasi": "Botafogo Asya 0,5 Alt",
+   "en_olasi_p": 0.6406,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Botafogo Asya 0,25 Üst",
+     0.5288
+    ],
+    [
+     "Botafogo Asya 0,25 Alt",
+     0.4712
+    ],
+    [
+     "Botafogo Asya 0,5 Üst",
+     0.3594
+    ],
+    [
+     "Botafogo Asya 0,5 Alt",
+     0.6406
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8022,
+   "adil_oran": 1.25,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8022,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1978
+    ],
+    [
+     "Hayır",
+     0.8022
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı",
+   "oneri": "Corinthians SP +0,5",
+   "olasilik": 0.8097,
+   "adil_oran": 1.23,
+   "en_olasi": "Corinthians SP +1,5",
+   "en_olasi_p": 0.9614,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP -1,5",
+     0.1368
+    ],
+    [
+     "Botafogo +1,5",
+     0.8632
+    ],
+    [
+     "Corinthians SP -0,5",
+     0.4095
+    ],
+    [
+     "Botafogo +0,5",
+     0.5905
+    ],
+    [
+     "Corinthians SP +0,5",
+     0.8097
+    ],
+    [
+     "Botafogo -0,5",
+     0.1903
+    ],
+    [
+     "Corinthians SP +1,5",
+     0.9614
+    ],
+    [
+     "Botafogo -1,5",
+     0.0386
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Goller Asya Handikapı",
+   "oneri": "Corinthians SP Asya +0,5",
+   "olasilik": 0.8098,
+   "adil_oran": 1.23,
+   "en_olasi": "Corinthians SP Asya +0,5",
+   "en_olasi_p": 0.8098,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP Asya -1",
+     0.1881
+    ],
+    [
+     "Botafogo Asya -1",
+     0.0455
+    ],
+    [
+     "Corinthians SP Asya -0,75",
+     0.3163
+    ],
+    [
+     "Botafogo Asya -0,75",
+     0.1238
+    ],
+    [
+     "Corinthians SP Asya -0,5",
+     0.4095
+    ],
+    [
+     "Botafogo Asya -0,5",
+     0.1902
+    ],
+    [
+     "Corinthians SP Asya -0,25",
+     0.512
+    ],
+    [
+     "Botafogo Asya -0,25",
+     0.2378
+    ],
+    [
+     "Corinthians SP Asya 0",
+     0.6828
+    ],
+    [
+     "Botafogo Asya 0",
+     0.3172
+    ],
+    [
+     "Corinthians SP Asya +0,25",
+     0.7622
+    ],
+    [
+     "Botafogo Asya +0,25",
+     0.488
+    ],
+    [
+     "Corinthians SP Asya +0,5",
+     0.8098
+    ],
+    [
+     "Botafogo Asya +0,5",
+     0.5905
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Corinthians SP (+1)",
+   "olasilik": 0.8097,
+   "adil_oran": 1.23,
+   "en_olasi": "Corinthians SP (+2)",
+   "en_olasi_p": 0.9614,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP (-2)",
+     0.0326
+    ],
+    [
+     "X (-2)",
+     0.1042
+    ],
+    [
+     "Botafogo (-2)",
+     0.8632
+    ],
+    [
+     "Corinthians SP (-1)",
+     0.1368
+    ],
+    [
+     "X (-1)",
+     0.2727
+    ],
+    [
+     "Botafogo (-1)",
+     0.5905
+    ],
+    [
+     "Corinthians SP (+1)",
+     0.8097
+    ],
+    [
+     "X (+1)",
+     0.1517
+    ],
+    [
+     "Botafogo (+1)",
+     0.0386
+    ],
+    [
+     "Corinthians SP (+2)",
+     0.9614
+    ],
+    [
+     "X (+2)",
+     0.0333
+    ],
+    [
+     "Botafogo (+2)",
+     0.0053
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Asya",
+   "oneri": "Toplam Asya 0,75 Üst",
+   "olasilik": 0.6492,
+   "adil_oran": 1.54,
+   "en_olasi": "Toplam Asya 0,75 Üst",
+   "en_olasi_p": 0.6492,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam Asya 0,75 Üst",
+     0.6492
+    ],
+    [
+     "Toplam Asya 0,75 Alt",
+     0.3508
+    ],
+    [
+     "Toplam Asya 1 Üst",
+     0.552
+    ],
+    [
+     "Toplam Asya 1 Alt",
+     0.448
+    ],
+    [
+     "Toplam Asya 1,25 Üst",
+     0.4322
+    ],
+    [
+     "Toplam Asya 1,25 Alt",
+     0.5678
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Toplam Gol (3-İhtimalli)",
+   "oneri": "Tam 1",
+   "olasilik": 0.3565,
+   "adil_oran": 2.81,
+   "en_olasi": "Tam 1",
+   "en_olasi_p": 0.3565,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.2883
+    ],
+    [
+     "Tam 1",
+     0.3565
+    ],
+    [
+     "1 Üst",
+     0.3552
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.3523,
+   "adil_oran": 2.84,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.3523,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0572
+    ],
+    [
+     "1 & KG Yok",
+     0.3523
+    ],
+    [
+     "X & KG Var",
+     0.1119
+    ],
+    [
+     "X & KG Yok",
+     0.2883
+    ],
+    [
+     "2 & KG Var",
+     0.0287
+    ],
+    [
+     "2 & KG Yok",
+     0.1615
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Aralığı",
+   "oneri": "1 gol",
+   "olasilik": 0.3565,
+   "adil_oran": 2.81,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3565,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2883
+    ],
+    [
+     "1 gol",
+     0.3565
+    ],
+    [
+     "2-3 gol",
+     0.3166
+    ],
+    [
+     "4+ gol",
+     0.0386
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Corinthians SP Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.4499,
+   "adil_oran": 2.22,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4499,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4499
+    ],
+    [
+     "1 gol",
+     0.3582
+    ],
+    [
+     "2+ gol",
+     0.1919
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Botafogo Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.6406,
+   "adil_oran": 1.56,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.6406,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6406
+    ],
+    [
+     "1 gol",
+     0.2828
+    ],
+    [
+     "2+ gol",
+     0.0765
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.6448,
+   "adil_oran": 1.55,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.6448,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.6448
+    ],
+    [
+     "1-2 gol",
+     0.581
+    ],
+    [
+     "2-3 gol",
+     0.3166
+    ],
+    [
+     "3+ gol",
+     0.1307
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.8081,
+   "adil_oran": 1.24,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.8081,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4499
+    ],
+    [
+     "0-1 gol",
+     0.8081
+    ],
+    [
+     "1-2 gol",
+     0.5031
+    ],
+    [
+     "2+ gol",
+     0.1919
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.6406,
+   "adil_oran": 1.56,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.9235,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6406
+    ],
+    [
+     "0-1 gol",
+     0.9235
+    ],
+    [
+     "1-2 gol",
+     0.3485
+    ],
+    [
+     "2+ gol",
+     0.0765
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3565,
+   "adil_oran": 2.81,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3565,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2883
+    ],
+    [
+     "1 gol",
+     0.3565
+    ],
+    [
+     "2 gol",
+     0.2245
+    ],
+    [
+     "3 gol",
+     0.0921
+    ],
+    [
+     "4+ gol",
+     0.0386
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Corinthians SP Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.4499,
+   "adil_oran": 2.22,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4499,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4499
+    ],
+    [
+     "1 gol",
+     0.3582
+    ],
+    [
+     "2 gol",
+     0.1449
+    ],
+    [
+     "3+ gol",
+     0.047
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Botafogo Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.6406,
+   "adil_oran": 1.56,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.6406,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6406
+    ],
+    [
+     "1 gol",
+     0.2828
+    ],
+    [
+     "2 gol",
+     0.0656
+    ],
+    [
+     "3+ gol",
+     0.0109
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Corinthians SP Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.2727,
+   "adil_oran": 3.67,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2727,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2727
+    ],
+    [
+     "2 farkla",
+     0.1042
+    ],
+    [
+     "3+ farkla",
+     0.0326
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Botafogo Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.1517,
+   "adil_oran": 6.59,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1517,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1517
+    ],
+    [
+     "2 farkla",
+     0.0333
+    ],
+    [
+     "3+ farkla",
+     0.0053
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Corinthians SP Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.6477,
+   "adil_oran": 1.54,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6477,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3523
+    ],
+    [
+     "Hayır",
+     0.6477
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Botafogo Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8385,
+   "adil_oran": 1.19,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8385,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1615
+    ],
+    [
+     "Hayır",
+     0.8385
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı İlk Golü Atacak Takım",
+   "oneri": "Corinthians SP",
+   "olasilik": 0.4565,
+   "adil_oran": 2.19,
+   "en_olasi": "Corinthians SP",
+   "en_olasi_p": 0.4565,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP",
+     0.4565
+    ],
+    [
+     "Gol yok",
+     0.2883
+    ],
+    [
+     "Botafogo",
+     0.2552
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Son Golü Atacak Takım",
+   "oneri": "Corinthians SP",
+   "olasilik": 0.4569,
+   "adil_oran": 2.19,
+   "en_olasi": "Corinthians SP",
+   "en_olasi_p": 0.4569,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP",
+     0.4569
+    ],
+    [
+     "Gol yok",
+     0.2883
+    ],
+    [
+     "Botafogo",
+     0.2548
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Doğru Skor",
+   "oneri": "0-0",
+   "olasilik": 0.2883,
+   "adil_oran": 3.47,
+   "en_olasi": "0-0",
+   "en_olasi_p": 0.2883,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-0",
+     0.2883
+    ],
+    [
+     "1-0",
+     0.2294
+    ],
+    [
+     "0-1",
+     0.1271
+    ],
+    [
+     "1-1",
+     0.1019
+    ],
+    [
+     "2-0",
+     0.0929
+    ],
+    [
+     "2-1",
+     0.0406
+    ],
+    [
+     "0-2",
+     0.0297
+    ],
+    [
+     "3-0",
+     0.0242
+    ],
+    [
+     "1-2",
+     0.0231
+    ],
+    [
+     "3-1",
+     0.0107
+    ],
+    [
+     "Diğer",
+     0.0103
+    ],
+    [
+     "2-2",
+     0.0096
+    ],
+    [
+     "0-3",
+     0.0042
+    ],
+    [
+     "1-3",
+     0.0033
+    ],
+    [
+     "3-2",
+     0.0026
+    ],
+    [
+     "2-3",
+     0.0015
+    ],
+    [
+     "3-3",
+     0.0004
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Sonucu",
+   "oneri": "1 (Corinthians SP)",
+   "olasilik": 0.4541,
+   "adil_oran": 2.2,
+   "en_olasi": "1 (Corinthians SP)",
+   "en_olasi_p": 0.4541,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Corinthians SP)",
+     0.4541
+    ],
+    [
+     "X",
+     0.342
+    ],
+    [
+     "2 (Botafogo)",
+     0.204
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Çifte Şans",
+   "oneri": "1X",
+   "olasilik": 0.796,
+   "adil_oran": 1.26,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.796,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.796
+    ],
+    [
+     "12",
+     0.658
+    ],
+    [
+     "X2",
+     0.5459
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.7945,
+   "adil_oran": 1.26,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.7945,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7945
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2055
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.4705
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.5295
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.2143
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.7857
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Corinthians SP Toplam Gol",
+   "oneri": "Corinthians SP 1,5 Alt",
+   "olasilik": 0.7311,
+   "adil_oran": 1.37,
+   "en_olasi": "Corinthians SP 1,5 Alt",
+   "en_olasi_p": 0.7311,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP 0,5 Üst",
+     0.6365
+    ],
+    [
+     "Corinthians SP 0,5 Alt",
+     0.3634
+    ],
+    [
+     "Corinthians SP 1,5 Üst",
+     0.2689
+    ],
+    [
+     "Corinthians SP 1,5 Alt",
+     0.7311
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Botafogo Toplam Gol",
+   "oneri": "Botafogo 0,5 Alt",
+   "olasilik": 0.5641,
+   "adil_oran": 1.77,
+   "en_olasi": "Botafogo 1,5 Alt",
+   "en_olasi_p": 0.8863,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Botafogo 0,5 Üst",
+     0.4359
+    ],
+    [
+     "Botafogo 0,5 Alt",
+     0.5641
+    ],
+    [
+     "Botafogo 1,5 Üst",
+     0.1137
+    ],
+    [
+     "Botafogo 1,5 Alt",
+     0.8863
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7221,
+   "adil_oran": 1.38,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7221,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2779
+    ],
+    [
+     "Hayır",
+     0.7221
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı",
+   "oneri": "Botafogo +1,5",
+   "olasilik": 0.8199,
+   "adil_oran": 1.22,
+   "en_olasi": "Corinthians SP +1,5",
+   "en_olasi_p": 0.9505,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP -1,5",
+     0.1801
+    ],
+    [
+     "Botafogo +1,5",
+     0.8199
+    ],
+    [
+     "Corinthians SP -0,5",
+     0.4541
+    ],
+    [
+     "Botafogo +0,5",
+     0.5459
+    ],
+    [
+     "Corinthians SP +0,5",
+     0.796
+    ],
+    [
+     "Botafogo -0,5",
+     0.204
+    ],
+    [
+     "Corinthians SP +1,5",
+     0.9505
+    ],
+    [
+     "Botafogo -1,5",
+     0.0495
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Botafogo (-2)",
+   "olasilik": 0.8199,
+   "adil_oran": 1.22,
+   "en_olasi": "Corinthians SP (+2)",
+   "en_olasi_p": 0.9505,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP (-2)",
+     0.0542
+    ],
+    [
+     "X (-2)",
+     0.1258
+    ],
+    [
+     "Botafogo (-2)",
+     0.8199
+    ],
+    [
+     "Corinthians SP (-1)",
+     0.1801
+    ],
+    [
+     "X (-1)",
+     0.274
+    ],
+    [
+     "Botafogo (-1)",
+     0.5459
+    ],
+    [
+     "Corinthians SP (+1)",
+     0.796
+    ],
+    [
+     "X (+1)",
+     0.1544
+    ],
+    [
+     "Botafogo (+1)",
+     0.0495
+    ],
+    [
+     "Corinthians SP (+2)",
+     0.9505
+    ],
+    [
+     "X (+2)",
+     0.041
+    ],
+    [
+     "Botafogo (+2)",
+     0.0085
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.3586,
+   "adil_oran": 2.79,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.3586,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0954
+    ],
+    [
+     "1 & KG Yok",
+     0.3586
+    ],
+    [
+     "X & KG Var",
+     0.1364
+    ],
+    [
+     "X & KG Yok",
+     0.2055
+    ],
+    [
+     "2 & KG Var",
+     0.0461
+    ],
+    [
+     "2 & KG Yok",
+     0.1579
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol Aralığı",
+   "oneri": "2-3 gol",
+   "olasilik": 0.3933,
+   "adil_oran": 2.54,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.3933,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2055
+    ],
+    [
+     "1 gol",
+     0.324
+    ],
+    [
+     "2-3 gol",
+     0.3933
+    ],
+    [
+     "4+ gol",
+     0.0771
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Corinthians SP Toplam Gol (Aralık)",
+   "oneri": "1 gol",
+   "olasilik": 0.3676,
+   "adil_oran": 2.72,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3676,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3634
+    ],
+    [
+     "1 gol",
+     0.3676
+    ],
+    [
+     "2+ gol",
+     0.2689
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Botafogo Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.5641,
+   "adil_oran": 1.77,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5641,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5641
+    ],
+    [
+     "1 gol",
+     0.3221
+    ],
+    [
+     "2+ gol",
+     0.1137
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5802,
+   "adil_oran": 1.72,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5802,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.5295
+    ],
+    [
+     "1-2 gol",
+     0.5802
+    ],
+    [
+     "2-3 gol",
+     0.3933
+    ],
+    [
+     "3+ gol",
+     0.2143
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7311,
+   "adil_oran": 1.37,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7311,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3634
+    ],
+    [
+     "0-1 gol",
+     0.7311
+    ],
+    [
+     "1-2 gol",
+     0.5528
+    ],
+    [
+     "2+ gol",
+     0.2689
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.5641,
+   "adil_oran": 1.77,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.8863,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5641
+    ],
+    [
+     "0-1 gol",
+     0.8863
+    ],
+    [
+     "1-2 gol",
+     0.415
+    ],
+    [
+     "2+ gol",
+     0.1137
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.324,
+   "adil_oran": 3.09,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.324,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2055
+    ],
+    [
+     "1 gol",
+     0.324
+    ],
+    [
+     "2 gol",
+     0.2562
+    ],
+    [
+     "3 gol",
+     0.1372
+    ],
+    [
+     "4+ gol",
+     0.0771
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Corinthians SP Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3676,
+   "adil_oran": 2.72,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3676,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3634
+    ],
+    [
+     "1 gol",
+     0.3676
+    ],
+    [
+     "2 gol",
+     0.1852
+    ],
+    [
+     "3+ gol",
+     0.0837
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Botafogo Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.5641,
+   "adil_oran": 1.77,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5641,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5641
+    ],
+    [
+     "1 gol",
+     0.3221
+    ],
+    [
+     "2 gol",
+     0.0929
+    ],
+    [
+     "3+ gol",
+     0.0208
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Corinthians SP Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.274,
+   "adil_oran": 3.65,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.274,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.274
+    ],
+    [
+     "2 farkla",
+     0.1258
+    ],
+    [
+     "3+ farkla",
+     0.0542
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Botafogo Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.1544,
+   "adil_oran": 6.48,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1544,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1544
+    ],
+    [
+     "2 farkla",
+     0.041
+    ],
+    [
+     "3+ farkla",
+     0.0085
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Corinthians SP Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.6414,
+   "adil_oran": 1.56,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6414,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3586
+    ],
+    [
+     "Hayır",
+     0.6414
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Botafogo Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8421,
+   "adil_oran": 1.19,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8421,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1579
+    ],
+    [
+     "Hayır",
+     0.8421
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı İlk Golü Atacak Takım",
+   "oneri": "Corinthians SP",
+   "olasilik": 0.5077,
+   "adil_oran": 1.97,
+   "en_olasi": "Corinthians SP",
+   "en_olasi_p": 0.5077,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP",
+     0.5077
+    ],
+    [
+     "Gol yok",
+     0.2055
+    ],
+    [
+     "Botafogo",
+     0.2867
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Son Golü Atacak Takım",
+   "oneri": "Corinthians SP",
+   "olasilik": 0.5066,
+   "adil_oran": 1.97,
+   "en_olasi": "Corinthians SP",
+   "en_olasi_p": 0.5066,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP",
+     0.5066
+    ],
+    [
+     "Gol yok",
+     0.2055
+    ],
+    [
+     "Botafogo",
+     0.2879
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Doğru Skor",
+   "oneri": "1-0",
+   "olasilik": 0.2074,
+   "adil_oran": 4.82,
+   "en_olasi": "1-0",
+   "en_olasi_p": 0.2074,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-0",
+     0.2074
+    ],
+    [
+     "0-0",
+     0.2055
+    ],
+    [
+     "1-1",
+     0.1182
+    ],
+    [
+     "0-1",
+     0.1166
+    ],
+    [
+     "2-0",
+     0.104
+    ],
+    [
+     "2-1",
+     0.0604
+    ],
+    [
+     "3-0",
+     0.0362
+    ],
+    [
+     "1-2",
+     0.0343
+    ],
+    [
+     "0-2",
+     0.0339
+    ],
+    [
+     "Diğer",
+     0.0229
+    ],
+    [
+     "3-1",
+     0.0201
+    ],
+    [
+     "2-2",
+     0.0169
+    ],
+    [
+     "1-3",
+     0.0066
+    ],
+    [
+     "0-3",
+     0.0062
+    ],
+    [
+     "3-2",
+     0.0059
+    ],
+    [
+     "2-3",
+     0.0034
+    ],
+    [
+     "3-3",
+     0.0013
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Karşılıklı Gol",
+   "oneri": "İY Yok / 2Y Yok",
+   "olasilik": 0.5787,
+   "adil_oran": 1.73,
+   "en_olasi": "İY Yok / 2Y Yok",
+   "en_olasi_p": 0.5787,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Var / 2Y Var",
+     0.0545
+    ],
+    [
+     "İY Var / 2Y Yok",
+     0.1433
+    ],
+    [
+     "İY Yok / 2Y Var",
+     0.2234
+    ],
+    [
+     "İY Yok / 2Y Yok",
+     0.5787
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı veya Maç Sonucu",
+   "oneri": "İY 1 veya MS 1",
+   "olasilik": 0.6206,
+   "adil_oran": 1.61,
+   "en_olasi": "İY 1 veya MS 1",
+   "en_olasi_p": 0.6206,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 1 veya MS 1",
+     0.6206
+    ],
+    [
+     "İY X veya MS X",
+     0.4921
+    ],
+    [
+     "İY 2 veya MS 2",
+     0.2861
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarı/Maç Sonucu",
+   "oneri": "1/1",
+   "olasilik": 0.3485,
+   "adil_oran": 2.87,
+   "en_olasi": "1/1",
+   "en_olasi_p": 0.3485,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.3485
+    ],
+    [
+     "1/X",
+     0.0462
+    ],
+    [
+     "1/2",
+     0.0149
+    ],
+    [
+     "X/1",
+     0.1821
+    ],
+    [
+     "X/X",
+     0.1371
+    ],
+    [
+     "X/2",
+     0.081
+    ],
+    [
+     "2/1",
+     0.029
+    ],
+    [
+     "2/X",
+     0.0457
+    ],
+    [
+     "2/2",
+     0.1155
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Sonucu",
+   "oneri": "1/1",
+   "olasilik": 0.1853,
+   "adil_oran": 5.4,
+   "en_olasi": "1/1",
+   "en_olasi_p": 0.1853,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.1853
+    ],
+    [
+     "1/X",
+     0.1402
+    ],
+    [
+     "1/2",
+     0.084
+    ],
+    [
+     "X/1",
+     0.1821
+    ],
+    [
+     "X/X",
+     0.1371
+    ],
+    [
+     "X/2",
+     0.081
+    ],
+    [
+     "2/1",
+     0.0867
+    ],
+    [
+     "2/X",
+     0.0647
+    ],
+    [
+     "2/2",
+     0.0389
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.4532,
+   "adil_oran": 2.21,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.4532,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.3007
+    ],
+    [
+     "Eşit",
+     0.2461
+    ],
+    [
+     "2. Yarı",
+     0.4532
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı : Çifte Şans",
+   "oneri": "1. veya 2. Yarı",
+   "olasilik": 0.7539,
+   "adil_oran": 1.33,
+   "en_olasi": "1. veya 2. Yarı",
+   "en_olasi_p": 0.7539,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı veya Eşit",
+     0.5468
+    ],
+    [
+     "2. Yarı veya Eşit",
+     0.6993
+    ],
+    [
+     "1. veya 2. Yarı",
+     0.7539
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Corinthians SP : En Çok Gol Attığı Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.3955,
+   "adil_oran": 2.53,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.3955,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2801
+    ],
+    [
+     "Eşit",
+     0.3244
+    ],
+    [
+     "2. Yarı",
+     0.3955
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Botafogo : En Çok Gol Attığı Yarı",
+   "oneri": "Eşit",
+   "olasilik": 0.4568,
+   "adil_oran": 2.19,
+   "en_olasi": "Eşit",
+   "en_olasi_p": 0.4568,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2294
+    ],
+    [
+     "Eşit",
+     0.4568
+    ],
+    [
+     "2. Yarı",
+     0.3138
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Corinthians SP : Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.6502,
+   "adil_oran": 1.54,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6502,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3498
+    ],
+    [
+     "Hayır",
+     0.6502
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Botafogo Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8443,
+   "adil_oran": 1.18,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8443,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1557
+    ],
+    [
+     "Hayır",
+     0.8443
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Corinthians SP : İlk Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.5502,
+   "adil_oran": 1.82,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5502,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5502
+    ],
+    [
+     "Hayır",
+     0.4499
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Botafogo İlk Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.6406,
+   "adil_oran": 1.56,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6406,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3594
+    ],
+    [
+     "Hayır",
+     0.6406
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Corinthians SP : İkinci Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.6365,
+   "adil_oran": 1.57,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6365,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6365
+    ],
+    [
+     "Hayır",
+     0.3634
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Botafogo İkinci Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.5641,
+   "adil_oran": 1.77,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5641,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4359
+    ],
+    [
+     "Hayır",
+     0.5641
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.7117,
+   "adil_oran": 1.41,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7117,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7117
+    ],
+    [
+     "Hayır",
+     0.2883
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İkinci Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.7945,
+   "adil_oran": 1.26,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7945,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7945
+    ],
+    [
+     "Hayır",
+     0.2055
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarıda da 1.5 Üst Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8332,
+   "adil_oran": 1.2,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8332,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1668
+    ],
+    [
+     "Hayır",
+     0.8332
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarı Goller 1.5 Alt",
+   "oneri": "Hayır",
+   "olasilik": 0.6589,
+   "adil_oran": 1.52,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6589,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3411
+    ],
+    [
+     "Hayır",
+     0.6589
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Corinthians SP : Gol Atar 1.Yarı/2.Yarı",
+   "oneri": "Evet/Evet",
+   "olasilik": 0.3498,
+   "adil_oran": 2.86,
+   "en_olasi": "Evet/Evet",
+   "en_olasi_p": 0.3498,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.3498
+    ],
+    [
+     "Evet/Hayır",
+     0.2004
+    ],
+    [
+     "Hayır/Evet",
+     0.2868
+    ],
+    [
+     "Hayır/Hayır",
+     0.1631
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Botafogo Gol Atar İlk Yarı/İkinci Yarı",
+   "oneri": "Hayır/Hayır",
+   "olasilik": 0.3605,
+   "adil_oran": 2.77,
+   "en_olasi": "Hayır/Hayır",
+   "en_olasi_p": 0.3605,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.1557
+    ],
+    [
+     "Evet/Hayır",
+     0.2036
+    ],
+    [
+     "Hayır/Evet",
+     0.2801
+    ],
+    [
+     "Hayır/Hayır",
+     0.3605
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarıları Farklı Takımlar Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8293,
+   "adil_oran": 1.21,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8293,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1707
+    ],
+    [
+     "Hayır",
+     0.8293
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarılardan En Az Birinde Beraberlik",
+   "oneri": "Evet",
+   "olasilik": 0.6051,
+   "adil_oran": 1.65,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6051,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6051
+    ],
+    [
+     "Hayır",
+     0.3949
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1.Yarı Toplam Gol'e karşı 2. Yarı Toplam Gol Handikapı",
+   "oneri": "1. Yarı +1,5",
+   "olasilik": 0.7678,
+   "adil_oran": 1.3,
+   "en_olasi": "1. Yarı +1,5",
+   "en_olasi_p": 0.7678,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "2. Yarı -1,5",
+     0.2322
+    ],
+    [
+     "2. Yarı -0,5",
+     0.4532
+    ],
+    [
+     "2. Yarı +0,5",
+     0.6993
+    ],
+    [
+     "1. Yarı +1,5",
+     0.7678
+    ],
+    [
+     "1. Yarı +0,5",
+     0.5468
+    ],
+    [
+     "1. Yarı -0,5",
+     0.3007
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7853,
+   "adil_oran": 1.27,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7853,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2147
+    ],
+    [
+     "Hayır",
+     0.7853
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Köşe Vuruşu",
+   "oneri": "Evet",
+   "olasilik": 0.6255,
+   "adil_oran": 1.6,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6255,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6255
+    ],
+    [
+     "Hayır",
+     0.3745
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Corinthians SP : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Corinthians SP 0,5 Alt",
+   "olasilik": 0.579,
+   "adil_oran": 1.73,
+   "en_olasi": "Corinthians SP 1,5 Alt",
+   "en_olasi_p": 0.8962,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP 0,5 Üst",
+     0.421
+    ],
+    [
+     "Corinthians SP 0,5 Alt",
+     0.579
+    ],
+    [
+     "Corinthians SP 1,5 Üst",
+     0.1038
+    ],
+    [
+     "Corinthians SP 1,5 Alt",
+     0.8962
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Botafogo : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Botafogo 0,5 Alt",
+   "olasilik": 0.6453,
+   "adil_oran": 1.55,
+   "en_olasi": "Botafogo 0,5 Alt",
+   "en_olasi_p": 0.6453,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Botafogo 0,5 Üst",
+     0.3547
+    ],
+    [
+     "Botafogo 0,5 Alt",
+     0.6453
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Sarı Kartlar",
+   "oneri": "Hayır",
+   "olasilik": 0.7604,
+   "adil_oran": 1.32,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7604,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2396
+    ],
+    [
+     "Hayır",
+     0.7604
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.7147,
+   "adil_oran": 1.4,
+   "en_olasi": "X",
+   "en_olasi_p": 0.7147,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Corinthians SP)",
+     0.1863
+    ],
+    [
+     "X",
+     0.7147
+    ],
+    [
+     "2 (Botafogo)",
+     0.099
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Gol Handikapı",
+   "oneri": "Botafogo (-1)",
+   "olasilik": 0.8137,
+   "adil_oran": 1.23,
+   "en_olasi": "Corinthians SP (+1)",
+   "en_olasi_p": 0.901,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP (-1)",
+     0.0207
+    ],
+    [
+     "X (-1)",
+     0.1656
+    ],
+    [
+     "Botafogo (-1)",
+     0.8137
+    ],
+    [
+     "Corinthians SP (+1)",
+     0.901
+    ],
+    [
+     "X (+1)",
+     0.0926
+    ],
+    [
+     "Botafogo (+1)",
+     0.0063
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.6927,
+   "adil_oran": 1.44,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9467,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.3073
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.6927
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0533
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9467
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Corinthians SP Toplam Goller",
+   "oneri": "Corinthians SP 0,5 Alt",
+   "olasilik": 0.7901,
+   "adil_oran": 1.27,
+   "en_olasi": "Corinthians SP 1,5 Alt",
+   "en_olasi_p": 0.9764,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP 0,5 Üst",
+     0.2099
+    ],
+    [
+     "Corinthians SP 0,5 Alt",
+     0.7901
+    ],
+    [
+     "Corinthians SP 1,5 Üst",
+     0.0237
+    ],
+    [
+     "Corinthians SP 1,5 Alt",
+     0.9764
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Botafogo Toplam Goller",
+   "oneri": "Botafogo 0,5 Alt",
+   "olasilik": 0.8761,
+   "adil_oran": 1.14,
+   "en_olasi": "Botafogo 0,5 Alt",
+   "en_olasi_p": 0.8761,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Botafogo 0,5 Üst",
+     0.1239
+    ],
+    [
+     "Botafogo 0,5 Alt",
+     0.8761
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. İki Takım Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.9735,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9735,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0266
+    ],
+    [
+     "Hayır",
+     0.9735
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.5321,
+   "adil_oran": 1.88,
+   "en_olasi": "X",
+   "en_olasi_p": 0.5321,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Corinthians SP)",
+     0.3114
+    ],
+    [
+     "X",
+     0.5321
+    ],
+    [
+     "2 (Botafogo)",
+     0.1565
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Gol Handikapı",
+   "oneri": "Botafogo (-1)",
+   "olasilik": 0.6886,
+   "adil_oran": 1.45,
+   "en_olasi": "Corinthians SP (+1)",
+   "en_olasi_p": 0.8435,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP (-1)",
+     0.068
+    ],
+    [
+     "X (-1)",
+     0.2434
+    ],
+    [
+     "Botafogo (-1)",
+     0.6886
+    ],
+    [
+     "Corinthians SP (+1)",
+     0.8435
+    ],
+    [
+     "X (+1)",
+     0.1362
+    ],
+    [
+     "Botafogo (+1)",
+     0.0204
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Toplam Goller",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.8229,
+   "adil_oran": 1.22,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.8229,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.532
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.468
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.1771
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.8229
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Corinthians SP Toplam Goller",
+   "oneri": "Corinthians SP 0,5 Alt",
+   "olasilik": 0.6146,
+   "adil_oran": 1.63,
+   "en_olasi": "Corinthians SP 1,5 Alt",
+   "en_olasi_p": 0.9137,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP 0,5 Üst",
+     0.3854
+    ],
+    [
+     "Corinthians SP 0,5 Alt",
+     0.6146
+    ],
+    [
+     "Corinthians SP 1,5 Üst",
+     0.0863
+    ],
+    [
+     "Corinthians SP 1,5 Alt",
+     0.9137
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Botafogo Toplam Goller",
+   "oneri": "Botafogo 0,5 Alt",
+   "olasilik": 0.7608,
+   "adil_oran": 1.31,
+   "en_olasi": "Botafogo 0,5 Alt",
+   "en_olasi_p": 0.7608,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Botafogo 0,5 Üst",
+     0.2392
+    ],
+    [
+     "Botafogo 0,5 Alt",
+     0.7608
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Galibi",
+   "oneri": "1 (Corinthians SP)",
+   "olasilik": 0.4669,
+   "adil_oran": 2.14,
+   "en_olasi": "1 (Corinthians SP)",
+   "en_olasi_p": 0.4669,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Corinthians SP)",
+     0.4669
+    ],
+    [
+     "X",
+     0.3286
+    ],
+    [
+     "2 (Botafogo)",
+     0.2044
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Gol Handikapı",
+   "oneri": "Botafogo +1,5",
+   "olasilik": 0.8057,
+   "adil_oran": 1.24,
+   "en_olasi": "Botafogo +1,5",
+   "en_olasi_p": 0.8057,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP -1,5",
+     0.1943
+    ],
+    [
+     "Botafogo +1,5",
+     0.8057
+    ],
+    [
+     "Corinthians SP -0,5",
+     0.4669
+    ],
+    [
+     "Botafogo +0,5",
+     0.5331
+    ],
+    [
+     "Corinthians SP +0,5",
+     0.7955
+    ],
+    [
+     "Botafogo -0,5",
+     0.2044
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.8135,
+   "adil_oran": 1.23,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.8135,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.8135
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.1865
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.5018
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.4982
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.2393
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.7607
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Corinthians SP Toplam Goller",
+   "oneri": "Corinthians SP 1,5 Alt",
+   "olasilik": 0.7071,
+   "adil_oran": 1.41,
+   "en_olasi": "Corinthians SP 1,5 Alt",
+   "en_olasi_p": 0.7071,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP 0,5 Üst",
+     0.6597
+    ],
+    [
+     "Corinthians SP 0,5 Alt",
+     0.3403
+    ],
+    [
+     "Corinthians SP 1,5 Üst",
+     0.2929
+    ],
+    [
+     "Corinthians SP 1,5 Alt",
+     0.7071
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Botafogo Toplam Goller",
+   "oneri": "Botafogo 0,5 Alt",
+   "olasilik": 0.5468,
+   "adil_oran": 1.83,
+   "en_olasi": "Botafogo 0,5 Alt",
+   "en_olasi_p": 0.5468,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Botafogo 0,5 Üst",
+     0.4532
+    ],
+    [
+     "Botafogo 0,5 Alt",
+     0.5468
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7006,
+   "adil_oran": 1.43,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7006,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2994
+    ],
+    [
+     "Hayır",
+     0.7006
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Galibi",
+   "oneri": "1 (Corinthians SP)",
+   "olasilik": 0.511,
+   "adil_oran": 1.96,
+   "en_olasi": "1 (Corinthians SP)",
+   "en_olasi_p": 0.511,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Corinthians SP)",
+     0.511
+    ],
+    [
+     "X",
+     0.278
+    ],
+    [
+     "2 (Botafogo)",
+     0.211
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Gol Handikapı",
+   "oneri": "Corinthians SP +0,5",
+   "olasilik": 0.789,
+   "adil_oran": 1.27,
+   "en_olasi": "Corinthians SP +0,5",
+   "en_olasi_p": 0.789,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP -1,5",
+     0.2493
+    ],
+    [
+     "Botafogo +1,5",
+     0.7507
+    ],
+    [
+     "Corinthians SP -0,5",
+     0.511
+    ],
+    [
+     "Botafogo +0,5",
+     0.489
+    ],
+    [
+     "Corinthians SP +0,5",
+     0.789
+    ],
+    [
+     "Botafogo -0,5",
+     0.211
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Toplam Goller",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.6345,
+   "adil_oran": 1.58,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.8829,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.8829
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.1171
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.633
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.367
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.3655
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.6345
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Corinthians SP Toplam Goller",
+   "oneri": "Corinthians SP 0,5 Üst",
+   "olasilik": 0.7472,
+   "adil_oran": 1.34,
+   "en_olasi": "Corinthians SP 0,5 Üst",
+   "en_olasi_p": 0.7472,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP 0,5 Üst",
+     0.7472
+    ],
+    [
+     "Corinthians SP 0,5 Alt",
+     0.2528
+    ],
+    [
+     "Corinthians SP 1,5 Üst",
+     0.4005
+    ],
+    [
+     "Corinthians SP 1,5 Alt",
+     0.5995
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Botafogo Toplam Goller",
+   "oneri": "Botafogo 0,5 Üst",
+   "olasilik": 0.5387,
+   "adil_oran": 1.86,
+   "en_olasi": "Botafogo 0,5 Üst",
+   "en_olasi_p": 0.5387,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Botafogo 0,5 Üst",
+     0.5387
+    ],
+    [
+     "Botafogo 0,5 Alt",
+     0.4613
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.597,
+   "adil_oran": 1.68,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.597,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.403
+    ],
+    [
+     "Hayır",
+     0.597
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kafa Golü Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.6501,
+   "adil_oran": 1.54,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6501,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3499
+    ],
+    [
+     "Hayır",
+     0.6501
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Frikikten Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9193,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9193,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0807
+    ],
+    [
+     "Hayır",
+     0.9193
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Rövaşata ile Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.994,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.994,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.006
+    ],
+    [
+     "Hayır",
+     0.994
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Ceza Sahası Dışından Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7357,
+   "adil_oran": 1.36,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7357,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2643
+    ],
+    [
+     "Hayır",
+     0.7357
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kendi Kalesine Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.905,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.905,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.095
+    ],
+    [
+     "Hayır",
+     0.905
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Oyuncu Hat-trick Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9748,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9748,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0252
+    ],
+    [
+     "Hayır",
+     0.9748
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Kaleci Asist Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9888,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9888,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0112
+    ],
+    [
+     "Hayır",
+     0.9888
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "VAR'lar: Toplam (Yalnızca Sahada İnceleme veya Video İnceleme İşareti (TV))",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.5864,
+   "adil_oran": 1.71,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.8986,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.4136
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.5864
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.1014
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.8986
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Sonuç",
+   "oneri": "1 (Corinthians SP)",
+   "olasilik": 0.5863,
+   "adil_oran": 1.71,
+   "en_olasi": "1 (Corinthians SP)",
+   "en_olasi_p": 0.5863,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Corinthians SP)",
+     0.5863
+    ],
+    [
+     "X",
+     0.1141
+    ],
+    [
+     "2 (Botafogo)",
+     0.2996
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam",
+   "oneri": "Toplam 7,5 Üst",
+   "olasilik": 0.8111,
+   "adil_oran": 1.23,
+   "en_olasi": "Toplam 7,5 Üst",
+   "en_olasi_p": 0.8111,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 7,5 Üst",
+     0.8111
+    ],
+    [
+     "Toplam 7,5 Alt",
+     0.1889
+    ],
+    [
+     "Toplam 8,5 Üst",
+     0.7094
+    ],
+    [
+     "Toplam 8,5 Alt",
+     0.2906
+    ],
+    [
+     "Toplam 9,5 Üst",
+     0.5895
+    ],
+    [
+     "Toplam 9,5 Alt",
+     0.4105
+    ],
+    [
+     "Toplam 10,5 Üst",
+     0.4665
+    ],
+    [
+     "Toplam 10,5 Alt",
+     0.5335
+    ],
+    [
+     "Toplam 11,5 Üst",
+     0.3492
+    ],
+    [
+     "Toplam 11,5 Alt",
+     0.6508
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Corinthians SP",
+   "oneri": "Corinthians SP 3,5 Üst",
+   "olasilik": 0.8284,
+   "adil_oran": 1.21,
+   "en_olasi": "Corinthians SP 3,5 Üst",
+   "en_olasi_p": 0.8284,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP 3,5 Üst",
+     0.8284
+    ],
+    [
+     "Corinthians SP 3,5 Alt",
+     0.1716
+    ],
+    [
+     "Corinthians SP 4,5 Üst",
+     0.6859
+    ],
+    [
+     "Corinthians SP 4,5 Alt",
+     0.3141
+    ],
+    [
+     "Corinthians SP 5,5 Üst",
+     0.5203
+    ],
+    [
+     "Corinthians SP 5,5 Alt",
+     0.4797
+    ],
+    [
+     "Corinthians SP 6,5 Üst",
+     0.3606
+    ],
+    [
+     "Corinthians SP 6,5 Alt",
+     0.6394
+    ],
+    [
+     "Corinthians SP 7,5 Üst",
+     0.2276
+    ],
+    [
+     "Corinthians SP 7,5 Alt",
+     0.7724
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Botafogo",
+   "oneri": "Botafogo 3,5 Üst",
+   "olasilik": 0.6745,
+   "adil_oran": 1.48,
+   "en_olasi": "Botafogo 1,5 Üst",
+   "en_olasi_p": 0.9447,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Botafogo 1,5 Üst",
+     0.9447
+    ],
+    [
+     "Botafogo 1,5 Alt",
+     0.0553
+    ],
+    [
+     "Botafogo 2,5 Üst",
+     0.8386
+    ],
+    [
+     "Botafogo 2,5 Alt",
+     0.1614
+    ],
+    [
+     "Botafogo 3,5 Üst",
+     0.6745
+    ],
+    [
+     "Botafogo 3,5 Alt",
+     0.3255
+    ],
+    [
+     "Botafogo 4,5 Üst",
+     0.4875
+    ],
+    [
+     "Botafogo 4,5 Alt",
+     0.5125
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Handikap",
+   "oneri": "Corinthians SP +1,5",
+   "olasilik": 0.7997,
+   "adil_oran": 1.25,
+   "en_olasi": "Corinthians SP +2,5",
+   "en_olasi_p": 0.8759,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP -4,5",
+     0.1482
+    ],
+    [
+     "Botafogo +4,5",
+     0.8518
+    ],
+    [
+     "Corinthians SP -3,5",
+     0.2306
+    ],
+    [
+     "Botafogo +3,5",
+     0.7694
+    ],
+    [
+     "Corinthians SP -2,5",
+     0.3381
+    ],
+    [
+     "Botafogo +2,5",
+     0.6619
+    ],
+    [
+     "Corinthians SP -1,5",
+     0.4601
+    ],
+    [
+     "Botafogo +1,5",
+     0.5399
+    ],
+    [
+     "Corinthians SP -0,5",
+     0.5863
+    ],
+    [
+     "Botafogo +0,5",
+     0.4137
+    ],
+    [
+     "Corinthians SP +0,5",
+     0.7004
+    ],
+    [
+     "Botafogo -0,5",
+     0.2996
+    ],
+    [
+     "Corinthians SP +1,5",
+     0.7997
+    ],
+    [
+     "Botafogo -1,5",
+     0.2003
+    ],
+    [
+     "Corinthians SP +2,5",
+     0.8759
+    ],
+    [
+     "Botafogo -2,5",
+     0.1241
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (3-İhtimalli)",
+   "oneri": "9 Üst",
+   "olasilik": 0.5895,
+   "adil_oran": 1.7,
+   "en_olasi": "9 Üst",
+   "en_olasi_p": 0.5895,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "9 Alt",
+     0.2906
+    ],
+    [
+     "10 Alt",
+     0.4105
+    ],
+    [
+     "Tam 9",
+     0.12
+    ],
+    [
+     "Tam 10",
+     0.123
+    ],
+    [
+     "9 Üst",
+     0.5895
+    ],
+    [
+     "10 Üst",
+     0.4665
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (Aralık)",
+   "oneri": "9-11 korner",
+   "olasilik": 0.3603,
+   "adil_oran": 2.78,
+   "en_olasi": "9-11 korner",
+   "en_olasi_p": 0.3603,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "0-8 korner",
+     0.2906
+    ],
+    [
+     "9-11 korner",
+     0.3603
+    ],
+    [
+     "12+ korner",
+     0.3492
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Tek/Çift",
+   "oneri": "Tek",
+   "olasilik": 0.5035,
+   "adil_oran": 1.99,
+   "en_olasi": "Tek",
+   "en_olasi_p": 0.5035,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.5035
+    ],
+    [
+     "Çift",
+     0.4965
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Korner Yarışı",
+   "oneri": "9 kornere kimse ulaşamaz",
+   "olasilik": 0.8294,
+   "adil_oran": 1.21,
+   "en_olasi": "9 kornere kimse ulaşamaz",
+   "en_olasi_p": 0.8294,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk 3 korner Corinthians SP",
+     0.5941
+    ],
+    [
+     "İlk 3 korner Botafogo",
+     0.3852
+    ],
+    [
+     "3 kornere kimse ulaşamaz",
+     0.011
+    ],
+    [
+     "İlk 5 korner Corinthians SP",
+     0.5391
+    ],
+    [
+     "İlk 5 korner Botafogo",
+     0.2949
+    ],
+    [
+     "5 kornere kimse ulaşamaz",
+     0.161
+    ],
+    [
+     "İlk 7 korner Corinthians SP",
+     0.3312
+    ],
+    [
+     "İlk 7 korner Botafogo",
+     0.1446
+    ],
+    [
+     "7 kornere kimse ulaşamaz",
+     0.5226
+    ],
+    [
+     "İlk 9 korner Corinthians SP",
+     0.1286
+    ],
+    [
+     "İlk 9 korner Botafogo",
+     0.0419
+    ],
+    [
+     "9 kornere kimse ulaşamaz",
+     0.8294
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Sonucu",
+   "oneri": "1 (Corinthians SP)",
+   "olasilik": 0.5064,
+   "adil_oran": 1.97,
+   "en_olasi": "1 (Corinthians SP)",
+   "en_olasi_p": 0.5064,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Corinthians SP)",
+     0.5064
+    ],
+    [
+     "X",
+     0.1787
+    ],
+    [
+     "2 (Botafogo)",
+     0.315
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Handikap",
+   "oneri": "Botafogo +2,5",
+   "olasilik": 0.8176,
+   "adil_oran": 1.22,
+   "en_olasi": "Botafogo +2,5",
+   "en_olasi_p": 0.8176,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP -2,5",
+     0.1824
+    ],
+    [
+     "Botafogo +2,5",
+     0.8176
+    ],
+    [
+     "Corinthians SP -1,5",
+     0.3251
+    ],
+    [
+     "Botafogo +1,5",
+     0.6749
+    ],
+    [
+     "Corinthians SP -0,5",
+     0.5064
+    ],
+    [
+     "Botafogo +0,5",
+     0.4936
+    ],
+    [
+     "Corinthians SP +0,5",
+     0.6851
+    ],
+    [
+     "Botafogo -0,5",
+     0.315
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Toplam",
+   "oneri": "Toplam 3,5 Üst",
+   "olasilik": 0.7189,
+   "adil_oran": 1.39,
+   "en_olasi": "Toplam 3,5 Üst",
+   "en_olasi_p": 0.7189,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 3,5 Üst",
+     0.7189
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.2811
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.539
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.461
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.363
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.637
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Corinthians SP Toplam",
+   "oneri": "Corinthians SP 1,5 Üst",
+   "olasilik": 0.755,
+   "adil_oran": 1.32,
+   "en_olasi": "Corinthians SP 1,5 Üst",
+   "en_olasi_p": 0.755,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP 1,5 Üst",
+     0.755
+    ],
+    [
+     "Corinthians SP 1,5 Alt",
+     0.245
+    ],
+    [
+     "Corinthians SP 2,5 Üst",
+     0.5109
+    ],
+    [
+     "Corinthians SP 2,5 Alt",
+     0.4891
+    ],
+    [
+     "Corinthians SP 3,5 Üst",
+     0.2894
+    ],
+    [
+     "Corinthians SP 3,5 Alt",
+     0.7106
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Botafogo Toplam",
+   "oneri": "Botafogo 1,5 Üst",
+   "olasilik": 0.6386,
+   "adil_oran": 1.57,
+   "en_olasi": "Botafogo 0,5 Üst",
+   "en_olasi_p": 0.886,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Botafogo 0,5 Üst",
+     0.886
+    ],
+    [
+     "Botafogo 0,5 Alt",
+     0.114
+    ],
+    [
+     "Botafogo 1,5 Üst",
+     0.6386
+    ],
+    [
+     "Botafogo 1,5 Alt",
+     0.3614
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : 2. Yarı",
+   "oneri": "Toplam 6,5 Alt",
+   "olasilik": 0.6846,
+   "adil_oran": 1.46,
+   "en_olasi": "Toplam 6,5 Alt",
+   "en_olasi_p": 0.6846,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 4,5 Üst",
+     0.6446
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.3554
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.4735
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.5265
+    ],
+    [
+     "Toplam 6,5 Üst",
+     0.3154
+    ],
+    [
+     "Toplam 6,5 Alt",
+     0.6846
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : İlk Korner",
+   "oneri": "Corinthians SP",
+   "olasilik": 0.5311,
+   "adil_oran": 1.88,
+   "en_olasi": "Corinthians SP",
+   "en_olasi_p": 0.5311,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP",
+     0.5311
+    ],
+    [
+     "Botafogo",
+     0.4689
+    ],
+    [
+     "Korner yok",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Son Korner",
+   "oneri": "Corinthians SP",
+   "olasilik": 0.5338,
+   "adil_oran": 1.87,
+   "en_olasi": "Corinthians SP",
+   "en_olasi_p": 0.5338,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP",
+     0.5338
+    ],
+    [
+     "Botafogo",
+     0.4662
+    ],
+    [
+     "Korner yok",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "En Fazla Korner Olan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.5133,
+   "adil_oran": 1.95,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.5133,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.363
+    ],
+    [
+     "Eşit",
+     0.1237
+    ],
+    [
+     "2. Yarı",
+     0.5133
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan : Sonuç",
+   "oneri": "1 (Corinthians SP)",
+   "olasilik": 0.5,
+   "adil_oran": 2.0,
+   "en_olasi": "1 (Corinthians SP)",
+   "en_olasi_p": 0.5,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "1 (Corinthians SP)",
+     0.5
+    ],
+    [
+     "X",
+     0.1676
+    ],
+    [
+     "2 (Botafogo)",
+     0.3325
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan Handikapı",
+   "oneri": "Corinthians SP +15,5",
+   "olasilik": 0.8193,
+   "adil_oran": 1.22,
+   "en_olasi": "Corinthians SP +15,5",
+   "en_olasi_p": 0.8193,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Corinthians SP -15,5",
+     0.3169
+    ],
+    [
+     "Botafogo +15,5",
+     0.6831
+    ],
+    [
+     "Corinthians SP -5,5",
+     0.4912
+    ],
+    [
+     "Botafogo +5,5",
+     0.5088
+    ],
+    [
+     "Corinthians SP +5,5",
+     0.677
+    ],
+    [
+     "Botafogo -5,5",
+     0.323
+    ],
+    [
+     "Corinthians SP +15,5",
+     0.8193
+    ],
+    [
+     "Botafogo -15,5",
+     0.1807
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam Puan",
+   "oneri": "Toplam 35,5 Üst",
+   "olasilik": 0.6805,
+   "adil_oran": 1.47,
+   "en_olasi": "Toplam 25,5 Üst",
+   "en_olasi_p": 0.8371,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 25,5 Üst",
+     0.8371
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.1629
+    ],
+    [
+     "Toplam 35,5 Üst",
+     0.6805
+    ],
+    [
+     "Toplam 35,5 Alt",
+     0.3195
+    ],
+    [
+     "Toplam 45,5 Üst",
+     0.5021
+    ],
+    [
+     "Toplam 45,5 Alt",
+     0.4979
+    ],
+    [
+     "Toplam 55,5 Üst",
+     0.3367
+    ],
+    [
+     "Toplam 55,5 Alt",
+     0.6633
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Corinthians SP : Toplam Kart Puanı",
+   "oneri": "Corinthians SP 15,5 Üst",
+   "olasilik": 0.722,
+   "adil_oran": 1.39,
+   "en_olasi": "Corinthians SP 5,5 Üst",
+   "en_olasi_p": 0.9189,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Corinthians SP 5,5 Üst",
+     0.9189
+    ],
+    [
+     "Corinthians SP 5,5 Alt",
+     0.0811
+    ],
+    [
+     "Corinthians SP 15,5 Üst",
+     0.722
+    ],
+    [
+     "Corinthians SP 15,5 Alt",
+     0.278
+    ],
+    [
+     "Corinthians SP 25,5 Üst",
+     0.4751
+    ],
+    [
+     "Corinthians SP 25,5 Alt",
+     0.5249
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Botafogo : Toplam Kart Puanı",
+   "oneri": "Botafogo 35,5 Alt",
+   "olasilik": 0.8289,
+   "adil_oran": 1.21,
+   "en_olasi": "Botafogo 5,5 Üst",
+   "en_olasi_p": 0.8658,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Botafogo 5,5 Üst",
+     0.8658
+    ],
+    [
+     "Botafogo 5,5 Alt",
+     0.1342
+    ],
+    [
+     "Botafogo 15,5 Üst",
+     0.6084
+    ],
+    [
+     "Botafogo 15,5 Alt",
+     0.3916
+    ],
+    [
+     "Botafogo 25,5 Üst",
+     0.3499
+    ],
+    [
+     "Botafogo 25,5 Alt",
+     0.6501
+    ],
+    [
+     "Botafogo 35,5 Üst",
+     0.1711
+    ],
+    [
+     "Botafogo 35,5 Alt",
+     0.8289
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam (Aralıklar)",
+   "oneri": "21-40 puan",
+   "olasilik": 0.3246,
+   "adil_oran": 3.08,
+   "en_olasi": "21-40 puan",
+   "en_olasi_p": 0.3246,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "0-20 puan",
+     0.162
+    ],
+    [
+     "21-40 puan",
+     0.3246
+    ],
+    [
+     "41-60 puan",
+     0.284
+    ],
+    [
+     "61+ puan",
+     0.1976
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Toplam Kart Puanı",
+   "oneri": "Toplam 5,5 Üst",
+   "olasilik": 0.8036,
+   "adil_oran": 1.24,
+   "en_olasi": "Toplam 5,5 Üst",
+   "en_olasi_p": 0.8036,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 5,5 Üst",
+     0.8036
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.1964
+    ],
+    [
+     "Toplam 15,5 Üst",
+     0.4932
+    ],
+    [
+     "Toplam 15,5 Alt",
+     0.5068
+    ],
+    [
+     "Toplam 25,5 Üst",
+     0.242
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.758
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Corinthians SP : Toplam Kart Puanı",
+   "oneri": "Corinthians SP 15,5 Alt",
+   "olasilik": 0.7618,
+   "adil_oran": 1.31,
+   "en_olasi": "Corinthians SP 15,5 Alt",
+   "en_olasi_p": 0.7618,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Corinthians SP 5,5 Üst",
+     0.5952
+    ],
+    [
+     "Corinthians SP 5,5 Alt",
+     0.4048
+    ],
+    [
+     "Corinthians SP 15,5 Üst",
+     0.2382
+    ],
+    [
+     "Corinthians SP 15,5 Alt",
+     0.7618
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Botafogo : Toplam Kart Puanı",
+   "oneri": "Botafogo 15,5 Alt",
+   "olasilik": 0.8237,
+   "adil_oran": 1.21,
+   "en_olasi": "Botafogo 15,5 Alt",
+   "en_olasi_p": 0.8237,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Botafogo 5,5 Üst",
+     0.5156
+    ],
+    [
+     "Botafogo 5,5 Alt",
+     0.4844
+    ],
+    [
+     "Botafogo 15,5 Üst",
+     0.1762
+    ],
+    [
+     "Botafogo 15,5 Alt",
+     0.8237
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Corinthians SP : Toplam Kart Puanı",
+   "oneri": "Corinthians SP 5,5 Üst",
+   "olasilik": 0.7998,
+   "adil_oran": 1.25,
+   "en_olasi": "Corinthians SP 5,5 Üst",
+   "en_olasi_p": 0.7998,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Corinthians SP 5,5 Üst",
+     0.7998
+    ],
+    [
+     "Corinthians SP 5,5 Alt",
+     0.2002
+    ],
+    [
+     "Corinthians SP 15,5 Üst",
+     0.4874
+    ],
+    [
+     "Corinthians SP 15,5 Alt",
+     0.5126
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Botafogo : Toplam Kart Puanı",
+   "oneri": "Botafogo 5,5 Üst",
+   "olasilik": 0.7238,
+   "adil_oran": 1.38,
+   "en_olasi": "Botafogo 25,5 Alt",
+   "en_olasi_p": 0.8377,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Botafogo 5,5 Üst",
+     0.7238
+    ],
+    [
+     "Botafogo 5,5 Alt",
+     0.2762
+    ],
+    [
+     "Botafogo 15,5 Üst",
+     0.3835
+    ],
+    [
+     "Botafogo 15,5 Alt",
+     0.6166
+    ],
+    [
+     "Botafogo 25,5 Üst",
+     0.1623
+    ],
+    [
+     "Botafogo 25,5 Alt",
+     0.8377
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Direkt Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.924,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.924,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0761
+    ],
+    [
+     "Hayır",
+     0.924
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Yarıda Kart Olur",
+   "oneri": "Evet",
+   "olasilik": 0.7599,
+   "adil_oran": 1.32,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7599,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7599
+    ],
+    [
+     "Hayır",
+     0.2401
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kırmızı Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.9955,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9955,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0045
+    ],
+    [
+     "Hayır",
+     0.9955
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kart Alır",
+   "oneri": "Evet",
+   "olasilik": 0.7957,
+   "adil_oran": 1.26,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7957,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7957
+    ],
+    [
+     "Hayır",
+     0.2043
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Kart Görür",
+   "oneri": "Hayır",
+   "olasilik": 0.5673,
+   "adil_oran": 1.76,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5673,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4327
+    ],
+    [
+     "Hayır",
+     0.5673
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Her İki Yarıda Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.8229,
+   "adil_oran": 1.22,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8229,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1771
+    ],
+    [
+     "Hayır",
+     0.8229
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İlk Kartı Görecek Takım",
+   "oneri": "Corinthians SP",
+   "olasilik": 0.5453,
+   "adil_oran": 1.83,
+   "en_olasi": "Corinthians SP",
+   "en_olasi_p": 0.5453,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP",
+     0.5453
+    ],
+    [
+     "Botafogo",
+     0.4438
+    ],
+    [
+     "Kart yok",
+     0.011
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Son Kartı Görecek Takım",
+   "oneri": "Corinthians SP",
+   "olasilik": 0.5485,
+   "adil_oran": 1.82,
+   "en_olasi": "Corinthians SP",
+   "en_olasi_p": 0.5485,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP",
+     0.5485
+    ],
+    [
+     "Botafogo",
+     0.4405
+    ],
+    [
+     "Kart yok",
+     0.011
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Maçta Penaltı, Kırmızı Kart ve Kendi Kalesine Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9971,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9971,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0029
+    ],
+    [
+     "Hayır",
+     0.9971
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarı Uzatma Dakikalarında Kart Gösterilir (90+ dak)",
+   "oneri": "Hayır",
+   "olasilik": 0.703,
+   "adil_oran": 1.42,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.703,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.297
+    ],
+    [
+     "Hayır",
+     0.703
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarının Uzatma Dakikalarında Kırmızı Kart veya Gol Olur (90+ dakika)",
+   "oneri": "Hayır",
+   "olasilik": 0.8306,
+   "adil_oran": 1.2,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8306,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1694
+    ],
+    [
+     "Hayır",
+     0.8306
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Toplam Kırmızı Kartlar",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.9909,
+   "adil_oran": 1.01,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9909,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.1307
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.8693
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0091
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9909
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Corinthians SP : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9323,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9323,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0677
+    ],
+    [
+     "Hayır",
+     0.9323
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Botafogo : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9325,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9325,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0675
+    ],
+    [
+     "Hayır",
+     0.9325
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "1. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9543,
+   "adil_oran": 1.05,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9543,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0457
+    ],
+    [
+     "Hayır",
+     0.9543
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "2. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9106,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9106,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0893
+    ],
+    [
+     "Hayır",
+     0.9106
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Sonuç",
+   "oneri": "1 (Corinthians SP)",
+   "olasilik": 0.4957,
+   "adil_oran": 2.02,
+   "en_olasi": "1 (Corinthians SP)",
+   "en_olasi_p": 0.4957,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Corinthians SP)",
+     0.4957
+    ],
+    [
+     "X",
+     0.1904
+    ],
+    [
+     "2 (Botafogo)",
+     0.3139
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.8096,
+   "adil_oran": 1.24,
+   "en_olasi": "12",
+   "en_olasi_p": 0.8096,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.6861
+    ],
+    [
+     "12",
+     0.8096
+    ],
+    [
+     "X2",
+     0.5043
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Handikap",
+   "oneri": "Corinthians SP +1,5",
+   "olasilik": 0.8346,
+   "adil_oran": 1.2,
+   "en_olasi": "Corinthians SP +1,5",
+   "en_olasi_p": 0.8346,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP -1,5",
+     0.3076
+    ],
+    [
+     "Botafogo +1,5",
+     0.6924
+    ],
+    [
+     "Corinthians SP -0,5",
+     0.4957
+    ],
+    [
+     "Botafogo +0,5",
+     0.5043
+    ],
+    [
+     "Corinthians SP +0,5",
+     0.6861
+    ],
+    [
+     "Botafogo -0,5",
+     0.3139
+    ],
+    [
+     "Corinthians SP +1,5",
+     0.8346
+    ],
+    [
+     "Botafogo -1,5",
+     0.1654
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Toplam",
+   "oneri": "Toplam 2,5 Üst",
+   "olasilik": 0.8209,
+   "adil_oran": 1.22,
+   "en_olasi": "Toplam 2,5 Üst",
+   "en_olasi_p": 0.8209,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 2,5 Üst",
+     0.8209
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.1791
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.6493
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.3507
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.458
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.542
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.2872
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.7128
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Corinthians SP : Toplam",
+   "oneri": "Corinthians SP 1,5 Üst",
+   "olasilik": 0.708,
+   "adil_oran": 1.41,
+   "en_olasi": "Corinthians SP 0,5 Üst",
+   "en_olasi_p": 0.9156,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP 0,5 Üst",
+     0.9156
+    ],
+    [
+     "Corinthians SP 0,5 Alt",
+     0.0844
+    ],
+    [
+     "Corinthians SP 1,5 Üst",
+     0.708
+    ],
+    [
+     "Corinthians SP 1,5 Alt",
+     0.292
+    ],
+    [
+     "Corinthians SP 2,5 Üst",
+     0.4483
+    ],
+    [
+     "Corinthians SP 2,5 Alt",
+     0.5517
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Botafogo : Toplam",
+   "oneri": "Botafogo 2,5 Alt",
+   "olasilik": 0.6829,
+   "adil_oran": 1.46,
+   "en_olasi": "Botafogo 3,5 Alt",
+   "en_olasi_p": 0.8623,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Botafogo 0,5 Üst",
+     0.8602
+    ],
+    [
+     "Botafogo 0,5 Alt",
+     0.1398
+    ],
+    [
+     "Botafogo 1,5 Üst",
+     0.5884
+    ],
+    [
+     "Botafogo 1,5 Alt",
+     0.4116
+    ],
+    [
+     "Botafogo 2,5 Üst",
+     0.3171
+    ],
+    [
+     "Botafogo 2,5 Alt",
+     0.6829
+    ],
+    [
+     "Botafogo 3,5 Üst",
+     0.1376
+    ],
+    [
+     "Botafogo 3,5 Alt",
+     0.8623
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Sonucu",
+   "oneri": "1 (Corinthians SP)",
+   "olasilik": 0.3752,
+   "adil_oran": 2.67,
+   "en_olasi": "1 (Corinthians SP)",
+   "en_olasi_p": 0.3752,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Corinthians SP)",
+     0.3752
+    ],
+    [
+     "X",
+     0.3512
+    ],
+    [
+     "2 (Botafogo)",
+     0.2736
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Handikap",
+   "oneri": "Corinthians SP +0,5",
+   "olasilik": 0.7264,
+   "adil_oran": 1.38,
+   "en_olasi": "Corinthians SP +0,5",
+   "en_olasi_p": 0.7264,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP -0,5",
+     0.3752
+    ],
+    [
+     "Botafogo +0,5",
+     0.6248
+    ],
+    [
+     "Corinthians SP +0,5",
+     0.7264
+    ],
+    [
+     "Botafogo -0,5",
+     0.2736
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı : Toplam",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.7971,
+   "adil_oran": 1.25,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.7971,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7971
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2029
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.4738
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.5262
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.2166
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.7834
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Corinthians SP Toplam",
+   "oneri": "Corinthians SP 1,5 Alt",
+   "olasilik": 0.7771,
+   "adil_oran": 1.29,
+   "en_olasi": "Corinthians SP 1,5 Alt",
+   "en_olasi_p": 0.7771,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP 0,5 Üst",
+     0.5883
+    ],
+    [
+     "Corinthians SP 0,5 Alt",
+     0.4117
+    ],
+    [
+     "Corinthians SP 1,5 Üst",
+     0.2229
+    ],
+    [
+     "Corinthians SP 1,5 Alt",
+     0.7771
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Botafogo Toplam",
+   "oneri": "Botafogo 0,5 Üst",
+   "olasilik": 0.5079,
+   "adil_oran": 1.97,
+   "en_olasi": "Botafogo 1,5 Alt",
+   "en_olasi_p": 0.8408,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Botafogo 0,5 Üst",
+     0.5079
+    ],
+    [
+     "Botafogo 0,5 Alt",
+     0.4921
+    ],
+    [
+     "Botafogo 1,5 Üst",
+     0.1592
+    ],
+    [
+     "Botafogo 1,5 Alt",
+     0.8408
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Sonuç",
+   "oneri": "1 (Corinthians SP)",
+   "olasilik": 0.4477,
+   "adil_oran": 2.23,
+   "en_olasi": "1 (Corinthians SP)",
+   "en_olasi_p": 0.4477,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Corinthians SP)",
+     0.4477
+    ],
+    [
+     "X",
+     0.2469
+    ],
+    [
+     "2 (Botafogo)",
+     0.3054
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Handikap",
+   "oneri": "Corinthians SP +0,5",
+   "olasilik": 0.6946,
+   "adil_oran": 1.44,
+   "en_olasi": "Corinthians SP +0,5",
+   "en_olasi_p": 0.6946,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP -0,5",
+     0.4477
+    ],
+    [
+     "Botafogo +0,5",
+     0.5523
+    ],
+    [
+     "Corinthians SP +0,5",
+     0.6946
+    ],
+    [
+     "Botafogo -0,5",
+     0.3054
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Toplam",
+   "oneri": "Toplam 1,5 Üst",
+   "olasilik": 0.7781,
+   "adil_oran": 1.29,
+   "en_olasi": "Toplam 1,5 Üst",
+   "en_olasi_p": 0.7781,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 1,5 Üst",
+     0.7781
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.222
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.5423
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.4577
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.3188
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.6812
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Corinthians SP Toplam",
+   "oneri": "Corinthians SP 0,5 Üst",
+   "olasilik": 0.7949,
+   "adil_oran": 1.26,
+   "en_olasi": "Corinthians SP 0,5 Üst",
+   "en_olasi_p": 0.7949,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP 0,5 Üst",
+     0.7949
+    ],
+    [
+     "Corinthians SP 0,5 Alt",
+     0.2051
+    ],
+    [
+     "Corinthians SP 1,5 Üst",
+     0.4706
+    ],
+    [
+     "Corinthians SP 1,5 Alt",
+     0.5294
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : İlk Sarı Kartı Görür",
+   "oneri": "Corinthians SP",
+   "olasilik": 0.546,
+   "adil_oran": 1.83,
+   "en_olasi": "Corinthians SP",
+   "en_olasi_p": 0.546,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP",
+     0.546
+    ],
+    [
+     "Botafogo",
+     0.4421
+    ],
+    [
+     "Sarı kart yok",
+     0.012
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Son Sarı Kartı Görür",
+   "oneri": "Corinthians SP",
+   "olasilik": 0.5491,
+   "adil_oran": 1.82,
+   "en_olasi": "Corinthians SP",
+   "en_olasi_p": 0.5491,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Corinthians SP",
+     0.5491
+    ],
+    [
+     "Botafogo",
+     0.4389
+    ],
+    [
+     "Sarı kart yok",
+     0.012
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7622,
+   "adil_oran": 1.31,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7622,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2378
+    ],
+    [
+     "Hayır",
+     0.7622
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Corinthians SP : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8596,
+   "adil_oran": 1.16,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8596,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1404
+    ],
+    [
+     "Hayır",
+     0.8596
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Botafogo : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8866,
+   "adil_oran": 1.13,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8866,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1134
+    ],
+    [
+     "Hayır",
+     0.8866
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "İki Takım da Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.984,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.984,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.016
+    ],
+    [
+     "Hayır",
+     0.984
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta İki Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9696,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9696,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0304
+    ],
+    [
+     "Hayır",
+     0.9696
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "1. Yarı : Penaltı",
+   "oneri": "Hayır",
+   "olasilik": 0.8867,
+   "adil_oran": 1.13,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8867,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1133
+    ],
+    [
+     "Hayır",
+     0.8867
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltıdan Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8111,
+   "adil_oran": 1.23,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8111,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1889
+    ],
+    [
+     "Hayır",
+     0.8111
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı Kaçırır",
+   "oneri": "Hayır",
+   "olasilik": 0.9398,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9398,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0602
+    ],
+    [
+     "Hayır",
+     0.9398
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı ve Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.969,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.969,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.031
+    ],
+    [
+     "Hayır",
+     0.969
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı veya Kırmızı Kart Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.6625,
+   "adil_oran": 1.51,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6625,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3375
+    ],
+    [
+     "Hayır",
+     0.6625
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Şutları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pasları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pas Denemeleri",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncunun Yaptığı Fauller",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncuya Faul Yapılır",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Topa Müdahaleler",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ofsayta Düşer",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Kaleci Kurtarışları",
+   "oneri": "Corinthians SP kalecisi 3,5 Alt",
+   "olasilik": 0.7898,
+   "adil_oran": 1.27,
+   "en_olasi": "Botafogo kalecisi 1,5 Üst",
+   "en_olasi_p": 0.9209,
+   "guven": "düşük",
+   "not_": "Rakibin beklenen golünden türetildi",
+   "secimler": [
+    [
+     "Corinthians SP kalecisi 1,5 Üst",
+     0.6784
+    ],
+    [
+     "Corinthians SP kalecisi 1,5 Alt",
+     0.3216
+    ],
+    [
+     "Corinthians SP kalecisi 2,5 Üst",
+     0.4158
+    ],
+    [
+     "Corinthians SP kalecisi 2,5 Alt",
+     0.5843
+    ],
+    [
+     "Corinthians SP kalecisi 3,5 Üst",
+     0.2102
+    ],
+    [
+     "Corinthians SP kalecisi 3,5 Alt",
+     0.7898
+    ],
+    [
+     "Corinthians SP kalecisi 4,5 Üst",
+     0.0902
+    ],
+    [
+     "Corinthians SP kalecisi 4,5 Alt",
+     0.9098
+    ],
+    [
+     "Botafogo kalecisi 1,5 Üst",
+     0.9209
+    ],
+    [
+     "Botafogo kalecisi 1,5 Alt",
+     0.0791
+    ],
+    [
+     "Botafogo kalecisi 2,5 Üst",
+     0.7852
+    ],
+    [
+     "Botafogo kalecisi 2,5 Alt",
+     0.2148
+    ],
+    [
+     "Botafogo kalecisi 3,5 Üst",
+     0.5986
+    ],
+    [
+     "Botafogo kalecisi 3,5 Alt",
+     0.4014
+    ],
+    [
+     "Botafogo kalecisi 4,5 Üst",
+     0.4046
+    ],
+    [
+     "Botafogo kalecisi 4,5 Alt",
+     0.5955
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Pas Veren Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Faul Yapan Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 1. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 2. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Her İki Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Çektiği Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kafayla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sağ Ayakla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  }
+ ],
+ "eksik": [
+  "Herhangi Bir Zamanda Gol Atar",
+  "İlk Golcü",
+  "İlk Golcü Çifte Şans",
+  "Son Golcü",
+  "{EV} : İlk Golü Atar",
+  "{DEP} : İlk Golü Atar",
+  "{EV} : Son Golcü",
+  "{DEP} : Son Golü Atar",
+  "Oyuncu En Az 2 Gol Atar",
+  "Oyuncu En Az 3 Gol Atar",
+  "Oyuncu 4 veya Daha Çok Gol Atar",
+  "Herhangi Bir Zaman Gol Atar Çifte Şans",
+  "Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar",
+  "2 Oyuncu Toplamda Üst 1.5 Gol Atar",
+  "2 Oyuncu Toplamda Üst 2.5 Gol Atar",
+  "2 Oyuncu Toplamda Üst 3.5 Gol Atar",
+  "Oyuncu 1. Yarıda Gol Atar",
+  "Oyuncu 2. Yarıda Gol Atar",
+  "Oyuncu Her İki Yarıda da Gol Atar",
+  "İlk 10 Dakikada Gol Atar",
+  "Oyuncu Penaltıdan Gol Atar",
+  "Oyuncu Ceza Sahası Dışından Gol Atar",
+  "Oyuncu Kale Sahası İçinden Gol Atar",
+  "Oyuncu Kafa Golü Atar",
+  "Oyuncu Serbest Vuruştan Gol Atar",
+  "Oyuncu Sağ Ayağıyla Gol Atar",
+  "Oyuncu Gol Atar ve Takımı Kazanır",
+  "Oyuncu Gol Atar ve Rakip Takım Kazanır",
+  "Oyuncu Gol Atar ve Maç Berabere Biter",
+  "Oyuncu Asist Yapar",
+  "Oyuncu Gol Atar veya Asist Yapar",
+  "Oyuncu Gol Atar veya Asist Yapar (Çifte Şans)",
+  "Oyuncu Gol Atar ve Asist Yapar",
+  "Gol Asisti Yapar Çifte Şans",
+  "Oyuncu Penaltı Kaçırır",
+  "Penaltı Kazandıran Oyuncu",
+  "Oyuncu Kart Görür",
+  "Oyuncu Kart Görür Çifte Şans",
+  "Oyuncu Sarı Kart Görür",
+  "Kart Görecek İlk Oyuncu",
+  "Son Kartı Görecek Oyuncu",
+  "Oyundan Uzaklaştırılır"
+ ]
+}

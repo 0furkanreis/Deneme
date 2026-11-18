@@ -1,0 +1,954 @@
+[
+ {
+  "secim": "Toplam Korner : Chapecoense 4,5 Üst",
+  "pazar": "Toplam Korner : Chapecoense",
+  "etiket": "Chapecoense 4,5 Üst",
+  "olasilik": 0.5576,
+  "oran": 2.02,
+  "deger": 0.12635200000000002
+ },
+ {
+  "secim": "Toplam Korner : Chapecoense 3,5 Üst",
+  "pazar": "Toplam Korner : Chapecoense",
+  "etiket": "Chapecoense 3,5 Üst",
+  "olasilik": 0.7327,
+  "oran": 1.46,
+  "deger": 0.06974199999999997
+ },
+ {
+  "secim": "Sarı Kartlar : Chapecoense : Toplam 1,5 Alt",
+  "pazar": "Sarı Kartlar : Chapecoense : Toplam",
+  "etiket": "Chapecoense 1,5 Alt",
+  "olasilik": 0.5018,
+  "oran": 2.13,
+  "deger": 0.06883400000000006
+ },
+ {
+  "secim": "Sarı Kartlar 1",
+  "pazar": "Sarı Kartlar : Sonuç",
+  "etiket": "1 (Remo PA)",
+  "olasilik": 0.4079,
+  "oran": 2.62,
+  "deger": 0.06869799999999993
+ },
+ {
+  "secim": "2",
+  "pazar": "Maç Sonucu",
+  "etiket": "2 (Chapecoense)",
+  "olasilik": 0.1389,
+  "oran": 7.4,
+  "deger": 0.027859999999999996
+ },
+ {
+  "secim": "Chapecoense : Toplam Gol 0,5 Üst",
+  "pazar": "Chapecoense : Toplam Gol",
+  "etiket": "Chapecoense 0,5 Üst",
+  "olasilik": 0.5833,
+  "oran": 1.74,
+  "deger": 0.01494200000000001
+ },
+ {
+  "secim": "Chapecoense : Gol Atar Evet",
+  "pazar": "Chapecoense : Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.5833,
+  "oran": 1.74,
+  "deger": 0.01494200000000001
+ },
+ {
+  "secim": "Her İki Takımda Gol Atar Evet",
+  "pazar": "Her İki Takımda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.5167,
+  "oran": 1.96,
+  "deger": 0.012731999999999966
+ },
+ {
+  "secim": "Kornerler : Toplam 11,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 11,5 Üst",
+  "olasilik": 0.5155,
+  "oran": 1.96,
+  "deger": 0.010379999999999834
+ },
+ {
+  "secim": "Kornerler : Toplam 10,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 10,5 Üst",
+  "olasilik": 0.6308,
+  "oran": 1.6,
+  "deger": 0.009280000000000177
+ },
+ {
+  "secim": "Toplam Goller 3,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 3,5 Üst",
+  "olasilik": 0.3622,
+  "oran": 2.77,
+  "deger": 0.00329400000000013
+ },
+ {
+  "secim": "Chapecoense İlk Yarıda Gol Atar Evet",
+  "pazar": "Chapecoense İlk Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.3178,
+  "oran": 3.15,
+  "deger": 0.0010700000000001264
+ },
+ {
+  "secim": "Toplam Goller 2,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.5865,
+  "oran": 1.7,
+  "deger": -0.002950000000000008
+ },
+ {
+  "secim": "Kornerler : Toplam 9,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 9,5 Üst",
+  "olasilik": 0.7369,
+  "oran": 1.35,
+  "deger": -0.005184999999999884
+ },
+ {
+  "secim": "Kornerler : Toplam 8,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 8,5 Üst",
+  "olasilik": 0.8281,
+  "oran": 1.2,
+  "deger": -0.006280000000000063
+ },
+ {
+  "secim": "Toplam Goller 1,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.8075,
+  "oran": 1.23,
+  "deger": -0.0067749999999999755
+ },
+ {
+  "secim": "Remo PA Gol Yemeden Kazanır Hayır",
+  "pazar": "Remo PA Gol Yemeden Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.6314,
+  "oran": 1.57,
+  "deger": -0.008701999999999988
+ },
+ {
+  "secim": "Chapecoense : Toplam Gol 1,5 Üst",
+  "pazar": "Chapecoense : Toplam Gol",
+  "etiket": "Chapecoense 1,5 Üst",
+  "olasilik": 0.2165,
+  "oran": 4.55,
+  "deger": -0.014925000000000077
+ },
+ {
+  "secim": "Sarı Kartlar : Toplam 3,5 Alt",
+  "pazar": "Sarı Kartlar : Toplam",
+  "etiket": "Toplam 3,5 Alt",
+  "olasilik": 0.5493,
+  "oran": 1.79,
+  "deger": -0.016752999999999907
+ },
+ {
+  "secim": "Sarı Kartlar : Remo PA : Toplam 1,5 Üst",
+  "pazar": "Sarı Kartlar : Remo PA : Toplam",
+  "etiket": "Remo PA 1,5 Üst",
+  "olasilik": 0.5284,
+  "oran": 1.86,
+  "deger": -0.01717599999999997
+ },
+ {
+  "secim": "Toplam Goller 0,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.9518,
+  "oran": 1.032,
+  "deger": -0.017742400000000047
+ },
+ {
+  "secim": "Chapecoense İkinci Yarıda Gol Atar Evet",
+  "pazar": "Chapecoense İkinci Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.388,
+  "oran": 2.52,
+  "deger": -0.022239999999999926
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 1,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.5089,
+  "oran": 1.92,
+  "deger": -0.022912000000000043
+ },
+ {
+  "secim": "Toplam Korner : Remo PA 7,5 Alt",
+  "pazar": "Toplam Korner : Remo PA",
+  "etiket": "Remo PA 7,5 Alt",
+  "olasilik": 0.6292,
+  "oran": 1.55,
+  "deger": -0.024739999999999984
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 0,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.7378,
+  "oran": 1.32,
+  "deger": -0.026103999999999905
+ },
+ {
+  "secim": "İlk Yarıda Gol Evet",
+  "pazar": "İlk Yarıda Gol",
+  "etiket": "Evet",
+  "olasilik": 0.7378,
+  "oran": 1.32,
+  "deger": -0.026103999999999905
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 0,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.8176,
+  "oran": 1.19,
+  "deger": -0.02705600000000008
+ },
+ {
+  "secim": "İkinci Yarıda Gol Evet",
+  "pazar": "İkinci Yarıda Gol",
+  "etiket": "Evet",
+  "olasilik": 0.8176,
+  "oran": 1.19,
+  "deger": -0.02705600000000008
+ },
+ {
+  "secim": "Her İki Yarıda Gol Olur Evet",
+  "pazar": "Her İki Yarıda Gol Olur",
+  "etiket": "Evet",
+  "olasilik": 0.6035,
+  "oran": 1.61,
+  "deger": -0.028364999999999863
+ },
+ {
+  "secim": "Remo PA : Toplam Gol 1,5 Üst",
+  "pazar": "Remo PA : Toplam Gol",
+  "etiket": "Remo PA 1,5 Üst",
+  "olasilik": 0.6384,
+  "oran": 1.52,
+  "deger": -0.02963199999999999
+ },
+ {
+  "secim": "Remo PA : Toplam Gol 0,5 Üst",
+  "pazar": "Remo PA : Toplam Gol",
+  "etiket": "Remo PA 0,5 Üst",
+  "olasilik": 0.8853,
+  "oran": 1.095,
+  "deger": -0.030596500000000026
+ },
+ {
+  "secim": "Remo PA : Gol Atar Evet",
+  "pazar": "Remo PA : Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.8853,
+  "oran": 1.095,
+  "deger": -0.030596500000000026
+ },
+ {
+  "secim": "Chapecoense Gol Yemeden Kazanır Hayır",
+  "pazar": "Chapecoense Gol Yemeden Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.9334,
+  "oran": 1.035,
+  "deger": -0.033931000000000044
+ },
+ {
+  "secim": "Toplam Korner : Remo PA 6,5 Alt",
+  "pazar": "Toplam Korner : Remo PA",
+  "etiket": "Remo PA 6,5 Alt",
+  "olasilik": 0.4805,
+  "oran": 2.01,
+  "deger": -0.034195000000000086
+ },
+ {
+  "secim": "Remo PA : İkinci Yarıda Gol Atar Evet",
+  "pazar": "Remo PA : İkinci Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.7034,
+  "oran": 1.37,
+  "deger": -0.036341999999999874
+ },
+ {
+  "secim": "Chapecoense : Toplam Gol 2,5 Alt",
+  "pazar": "Chapecoense : Toplam Gol",
+  "etiket": "Chapecoense 2,5 Alt",
+  "olasilik": 0.9404,
+  "oran": 1.018,
+  "deger": -0.042672799999999955
+ },
+ {
+  "secim": "Toplam Goller 5,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 5,5 Alt",
+  "olasilik": 0.9119,
+  "oran": 1.047,
+  "deger": -0.04524070000000002
+ },
+ {
+  "secim": "Çifte Şans 12",
+  "pazar": "Çifte Şans",
+  "etiket": "12",
+  "olasilik": 0.8083,
+  "oran": 1.18,
+  "deger": -0.04620600000000008
+ },
+ {
+  "secim": "Remo PA : Toplam Gol 3,5 Alt",
+  "pazar": "Remo PA : Toplam Gol",
+  "etiket": "Remo PA 3,5 Alt",
+  "olasilik": 0.826,
+  "oran": 1.15,
+  "deger": -0.050100000000000144
+ },
+ {
+  "secim": "2. Yarı Karşılıklı Gol Evet",
+  "pazar": "2. Yarı Karşılıklı Gol",
+  "etiket": "Evet",
+  "olasilik": 0.2737,
+  "oran": 3.47,
+  "deger": -0.050261
+ },
+ {
+  "secim": "Remo PA : Toplam Gol 2,5 Üst",
+  "pazar": "Remo PA : Toplam Gol",
+  "etiket": "Remo PA 2,5 Üst",
+  "olasilik": 0.3694,
+  "oran": 2.57,
+  "deger": -0.050642000000000076
+ },
+ {
+  "secim": "Remo PA : İlk Yarıda Gol Atar Evet",
+  "pazar": "Remo PA : İlk Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.6155,
+  "oran": 1.54,
+  "deger": -0.0521299999999999
+ },
+ {
+  "secim": "Toplam Korner : Remo PA 5,5 Alt",
+  "pazar": "Toplam Korner : Remo PA",
+  "etiket": "Remo PA 5,5 Alt",
+  "olasilik": 0.3291,
+  "oran": 2.87,
+  "deger": -0.05548299999999995
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 1,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.3852,
+  "oran": 2.45,
+  "deger": -0.05625999999999998
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 2,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.8481,
+  "oran": 1.11,
+  "deger": -0.05860899999999991
+ },
+ {
+  "secim": "Toplam gol Tek",
+  "pazar": "Toplam Gol Tek/Çift",
+  "etiket": "Tek",
+  "olasilik": 0.4979,
+  "oran": 1.89,
+  "deger": -0.05896900000000005
+ },
+ {
+  "secim": "Toplam Goller 4,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 4,5 Üst",
+  "olasilik": 0.1918,
+  "oran": 4.9,
+  "deger": -0.0601799999999999
+ },
+ {
+  "secim": "Çifte Şans 1X",
+  "pazar": "Çifte Şans",
+  "etiket": "1X",
+  "olasilik": 0.8611,
+  "oran": 1.09,
+  "deger": -0.06140099999999993
+ },
+ {
+  "secim": "Çifte Şans X2",
+  "pazar": "Çifte Şans",
+  "etiket": "X2",
+  "olasilik": 0.3306,
+  "oran": 2.83,
+  "deger": -0.06440199999999996
+ },
+ {
+  "secim": "Remo PA En Az Bir Yarıyı Kazanır Evet",
+  "pazar": "Remo PA En Az Bir Yarıyı Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.7651,
+  "oran": 1.22,
+  "deger": -0.06657800000000003
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 2,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.2432,
+  "oran": 3.83,
+  "deger": -0.06854399999999994
+ },
+ {
+  "secim": "Toplam Goller 4,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 4,5 Alt",
+  "olasilik": 0.8083,
+  "oran": 1.15,
+  "deger": -0.07045500000000005
+ },
+ {
+  "secim": "1. Yarı Karşılıklı Gol Evet",
+  "pazar": "1. Yarı Karşılıklı Gol",
+  "etiket": "Evet",
+  "olasilik": 0.1956,
+  "oran": 4.75,
+  "deger": -0.07089999999999996
+ },
+ {
+  "secim": "Kornerler 2",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "2 (Chapecoense)",
+  "olasilik": 0.2506,
+  "oran": 3.7,
+  "deger": -0.07277999999999996
+ },
+ {
+  "secim": "Remo PA : Toplam Gol 2,5 Alt",
+  "pazar": "Remo PA : Toplam Gol",
+  "etiket": "Remo PA 2,5 Alt",
+  "olasilik": 0.6306,
+  "oran": 1.47,
+  "deger": -0.07301799999999992
+ },
+ {
+  "secim": "1. Yarı Karşılıklı Gol Hayır",
+  "pazar": "1. Yarı Karşılıklı Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.8044,
+  "oran": 1.15,
+  "deger": -0.07494000000000012
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 2,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.7568,
+  "oran": 1.22,
+  "deger": -0.076704
+ },
+ {
+  "secim": "Beraberlikte İade Remo PA",
+  "pazar": "Beraberlikte İade",
+  "etiket": "Remo PA",
+  "olasilik": 0.8282,
+  "oran": 1.11,
+  "deger": -0.08069799999999983
+ },
+ {
+  "secim": "1",
+  "pazar": "Maç Sonucu",
+  "etiket": "1 (Remo PA)",
+  "olasilik": 0.6694,
+  "oran": 1.37,
+  "deger": -0.08292199999999994
+ },
+ {
+  "secim": "2. Yarı Karşılıklı Gol Hayır",
+  "pazar": "2. Yarı Karşılıklı Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.7263,
+  "oran": 1.26,
+  "deger": -0.0848620000000001
+ },
+ {
+  "secim": "Toplam Korner : Remo PA 5,5 Üst",
+  "pazar": "Toplam Korner : Remo PA",
+  "etiket": "Remo PA 5,5 Üst",
+  "olasilik": 0.6709,
+  "oran": 1.36,
+  "deger": -0.08757599999999988
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 1,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.6148,
+  "oran": 1.48,
+  "deger": -0.09009599999999995
+ },
+ {
+  "secim": "Chapecoense : Toplam Gol 1,5 Alt",
+  "pazar": "Chapecoense : Toplam Gol",
+  "etiket": "Chapecoense 1,5 Alt",
+  "olasilik": 0.7835,
+  "oran": 1.16,
+  "deger": -0.09114000000000011
+ },
+ {
+  "secim": "Toplam gol Çift",
+  "pazar": "Toplam Gol Tek/Çift",
+  "etiket": "Çift",
+  "olasilik": 0.5021,
+  "oran": 1.81,
+  "deger": -0.09119900000000003
+ },
+ {
+  "secim": "Kornerler 1",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "1 (Remo PA)",
+  "olasilik": 0.6452,
+  "oran": 1.4,
+  "deger": -0.09672000000000003
+ },
+ {
+  "secim": "Remo PA En Az Bir Yarıyı Kazanır Hayır",
+  "pazar": "Remo PA En Az Bir Yarıyı Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.2349,
+  "oran": 3.83,
+  "deger": -0.100333
+ },
+ {
+  "secim": "Toplam Goller 3,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 3,5 Alt",
+  "olasilik": 0.6378,
+  "oran": 1.41,
+  "deger": -0.10070199999999996
+ },
+ {
+  "secim": "Remo PA : İlk Yarıda Gol Atar Hayır",
+  "pazar": "Remo PA : İlk Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.3845,
+  "oran": 2.33,
+  "deger": -0.10411499999999996
+ },
+ {
+  "secim": "Chapecoense İlk Yarıda Gol Atar Hayır",
+  "pazar": "Chapecoense İlk Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.6822,
+  "oran": 1.31,
+  "deger": -0.10631799999999991
+ },
+ {
+  "secim": "Chapecoense İkinci Yarıda Gol Atar Hayır",
+  "pazar": "Chapecoense İkinci Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.612,
+  "oran": 1.46,
+  "deger": -0.10648000000000002
+ },
+ {
+  "secim": "Beraberlikte İade Chapecoense",
+  "pazar": "Beraberlikte İade",
+  "etiket": "Chapecoense",
+  "olasilik": 0.1718,
+  "oran": 5.2,
+  "deger": -0.10663999999999996
+ },
+ {
+  "secim": "En gollü yarı 2. Yarı",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "2. Yarı",
+  "olasilik": 0.4613,
+  "oran": 1.93,
+  "deger": -0.1096910000000001
+ },
+ {
+  "secim": "Sarı Kartlar X",
+  "pazar": "Sarı Kartlar : Sonuç",
+  "etiket": "X",
+  "olasilik": 0.2234,
+  "oran": 3.98,
+  "deger": -0.11086800000000008
+ },
+ {
+  "secim": "Toplam Korner : Remo PA 6,5 Üst",
+  "pazar": "Toplam Korner : Remo PA",
+  "etiket": "Remo PA 6,5 Üst",
+  "olasilik": 0.5195,
+  "oran": 1.71,
+  "deger": -0.11165500000000006
+ },
+ {
+  "secim": "X",
+  "pazar": "Maç Sonucu",
+  "etiket": "X",
+  "olasilik": 0.1917,
+  "oran": 4.6,
+  "deger": -0.11818000000000006
+ },
+ {
+  "secim": "İlk gol Remo PA",
+  "pazar": "İlk Golü Atacak Takım",
+  "etiket": "Remo PA",
+  "olasilik": 0.6779,
+  "oran": 1.3,
+  "deger": -0.11873
+ },
+ {
+  "secim": "2. Yarı 1",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "1 (Remo PA)",
+  "olasilik": 0.5423,
+  "oran": 1.62,
+  "deger": -0.12147399999999997
+ },
+ {
+  "secim": "Remo PA : Toplam Gol 1,5 Alt",
+  "pazar": "Remo PA : Toplam Gol",
+  "etiket": "Remo PA 1,5 Alt",
+  "olasilik": 0.3616,
+  "oran": 2.42,
+  "deger": -0.12492800000000004
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 1,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.4911,
+  "oran": 1.78,
+  "deger": -0.125842
+ },
+ {
+  "secim": "Sarı Kartlar : Remo PA : Toplam 1,5 Alt",
+  "pazar": "Sarı Kartlar : Remo PA : Toplam",
+  "etiket": "Remo PA 1,5 Alt",
+  "olasilik": 0.4716,
+  "oran": 1.84,
+  "deger": -0.13225599999999993
+ },
+ {
+  "secim": "1. Yarı 2",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "2 (Chapecoense)",
+  "olasilik": 0.1442,
+  "oran": 6.0,
+  "deger": -0.13480000000000003
+ },
+ {
+  "secim": "Her İki Yarıda Gol Olur Hayır",
+  "pazar": "Her İki Yarıda Gol Olur",
+  "etiket": "Hayır",
+  "olasilik": 0.3965,
+  "oran": 2.18,
+  "deger": -0.13562999999999992
+ },
+ {
+  "secim": "Sarı Kartlar : Toplam 3,5 Üst",
+  "pazar": "Sarı Kartlar : Toplam",
+  "etiket": "Toplam 3,5 Üst",
+  "olasilik": 0.4507,
+  "oran": 1.91,
+  "deger": -0.13916300000000004
+ },
+ {
+  "secim": "Her İki Takımda Gol Atar Hayır",
+  "pazar": "Her İki Takımda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.4833,
+  "oran": 1.78,
+  "deger": -0.13972600000000002
+ },
+ {
+  "secim": "Toplam Goller 2,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.4135,
+  "oran": 2.07,
+  "deger": -0.14405500000000016
+ },
+ {
+  "secim": "Toplam Korner : Remo PA 7,5 Üst",
+  "pazar": "Toplam Korner : Remo PA",
+  "etiket": "Remo PA 7,5 Üst",
+  "olasilik": 0.3708,
+  "oran": 2.3,
+  "deger": -0.14716000000000007
+ },
+ {
+  "secim": "Remo PA : Toplam Gol 3,5 Üst",
+  "pazar": "Remo PA : Toplam Gol",
+  "etiket": "Remo PA 3,5 Üst",
+  "olasilik": 0.174,
+  "oran": 4.9,
+  "deger": -0.14739999999999998
+ },
+ {
+  "secim": "1. Yarı X",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "X",
+  "olasilik": 0.3679,
+  "oran": 2.31,
+  "deger": -0.15015099999999992
+ },
+ {
+  "secim": "1. Yarı 1",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "1 (Remo PA)",
+  "olasilik": 0.4879,
+  "oran": 1.74,
+  "deger": -0.15105400000000002
+ },
+ {
+  "secim": "Remo PA : İkinci Yarıda Gol Atar Hayır",
+  "pazar": "Remo PA : İkinci Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.2966,
+  "oran": 2.85,
+  "deger": -0.15469
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 2,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.1519,
+  "oran": 5.55,
+  "deger": -0.15695499999999996
+ },
+ {
+  "secim": "Kornerler : Toplam 11,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 11,5 Alt",
+  "olasilik": 0.4845,
+  "oran": 1.74,
+  "deger": -0.15697000000000005
+ },
+ {
+  "secim": "Chapecoense : Toplam Gol 0,5 Alt",
+  "pazar": "Chapecoense : Toplam Gol",
+  "etiket": "Chapecoense 0,5 Alt",
+  "olasilik": 0.4167,
+  "oran": 2.02,
+  "deger": -0.15826600000000002
+ },
+ {
+  "secim": "Chapecoense : Gol Atar Hayır",
+  "pazar": "Chapecoense : Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.4167,
+  "oran": 2.02,
+  "deger": -0.15826600000000002
+ },
+ {
+  "secim": "2. Yarı 2",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "2 (Chapecoense)",
+  "olasilik": 0.1489,
+  "oran": 5.6,
+  "deger": -0.16615999999999997
+ },
+ {
+  "secim": "İlk gol Chapecoense",
+  "pazar": "İlk Golü Atacak Takım",
+  "etiket": "Chapecoense",
+  "olasilik": 0.274,
+  "oran": 3.04,
+  "deger": -0.16703999999999997
+ },
+ {
+  "secim": "En gollü yarı 1. Yarı",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "1. Yarı",
+  "olasilik": 0.3023,
+  "oran": 2.75,
+  "deger": -0.1686749999999999
+ },
+ {
+  "secim": "Remo PA Gol Yemeden Kazanır Evet",
+  "pazar": "Remo PA Gol Yemeden Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.3686,
+  "oran": 2.25,
+  "deger": -0.17065000000000008
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 0,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.2622,
+  "oran": 3.1,
+  "deger": -0.18718
+ },
+ {
+  "secim": "Kornerler : Toplam 10,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 10,5 Alt",
+  "olasilik": 0.3692,
+  "oran": 2.2,
+  "deger": -0.18776000000000004
+ },
+ {
+  "secim": "Sarı Kartlar : Chapecoense : Toplam 1,5 Üst",
+  "pazar": "Sarı Kartlar : Chapecoense : Toplam",
+  "etiket": "Chapecoense 1,5 Üst",
+  "olasilik": 0.4982,
+  "oran": 1.63,
+  "deger": -0.18793400000000005
+ },
+ {
+  "secim": "2. Yarı X",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "X",
+  "olasilik": 0.3087,
+  "oran": 2.6,
+  "deger": -0.19738
+ },
+ {
+  "secim": "En gollü yarı Eşit",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "Eşit",
+  "olasilik": 0.2364,
+  "oran": 3.36,
+  "deger": -0.205696
+ },
+ {
+  "secim": "Kornerler X",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "X",
+  "olasilik": 0.1042,
+  "oran": 7.5,
+  "deger": -0.21850000000000003
+ },
+ {
+  "secim": "İlk Yarıda Gol Hayır",
+  "pazar": "İlk Yarıda Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.2622,
+  "oran": 2.97,
+  "deger": -0.22126599999999996
+ },
+ {
+  "secim": "Kornerler : Toplam 9,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 9,5 Alt",
+  "olasilik": 0.2631,
+  "oran": 2.95,
+  "deger": -0.22385499999999992
+ },
+ {
+  "secim": "Toplam Goller 5,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 5,5 Üst",
+  "olasilik": 0.0881,
+  "oran": 8.75,
+  "deger": -0.22912500000000002
+ },
+ {
+  "secim": "Sarı Kartlar 2",
+  "pazar": "Sarı Kartlar : Sonuç",
+  "etiket": "2 (Chapecoense)",
+  "olasilik": 0.3686,
+  "oran": 2.07,
+  "deger": -0.23699800000000004
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 0,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.1824,
+  "oran": 4.15,
+  "deger": -0.24303999999999992
+ },
+ {
+  "secim": "İkinci Yarıda Gol Hayır",
+  "pazar": "İkinci Yarıda Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.1824,
+  "oran": 4.15,
+  "deger": -0.24303999999999992
+ },
+ {
+  "secim": "Toplam Korner : Chapecoense 4,5 Alt",
+  "pazar": "Toplam Korner : Chapecoense",
+  "etiket": "Chapecoense 4,5 Alt",
+  "olasilik": 0.4424,
+  "oran": 1.7,
+  "deger": -0.24792000000000003
+ },
+ {
+  "secim": "Toplam Goller 1,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.1925,
+  "oran": 3.85,
+  "deger": -0.25887499999999997
+ },
+ {
+  "secim": "Remo PA : Toplam Gol 0,5 Alt",
+  "pazar": "Remo PA : Toplam Gol",
+  "etiket": "Remo PA 0,5 Alt",
+  "olasilik": 0.1147,
+  "oran": 6.35,
+  "deger": -0.2716550000000001
+ },
+ {
+  "secim": "Remo PA : Gol Atar Hayır",
+  "pazar": "Remo PA : Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.1147,
+  "oran": 6.35,
+  "deger": -0.2716550000000001
+ },
+ {
+  "secim": "Kornerler : Toplam 8,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 8,5 Alt",
+  "olasilik": 0.1719,
+  "oran": 4.05,
+  "deger": -0.303805
+ },
+ {
+  "secim": "Chapecoense : Toplam Gol 2,5 Üst",
+  "pazar": "Chapecoense : Toplam Gol",
+  "etiket": "Chapecoense 2,5 Üst",
+  "olasilik": 0.0596,
+  "oran": 11.4,
+  "deger": -0.32055999999999996
+ },
+ {
+  "secim": "Toplam Korner : Chapecoense 3,5 Alt",
+  "pazar": "Toplam Korner : Chapecoense",
+  "etiket": "Chapecoense 3,5 Alt",
+  "olasilik": 0.2673,
+  "oran": 2.52,
+  "deger": -0.326404
+ },
+ {
+  "secim": "Chapecoense Gol Yemeden Kazanır Evet",
+  "pazar": "Chapecoense Gol Yemeden Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.0666,
+  "oran": 8.7,
+  "deger": -0.42057999999999995
+ },
+ {
+  "secim": "Toplam Goller 0,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.0481,
+  "oran": 9.9,
+  "deger": -0.52381
+ }
+]

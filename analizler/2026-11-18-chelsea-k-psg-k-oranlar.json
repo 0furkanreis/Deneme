@@ -1,0 +1,922 @@
+[
+ {
+  "secim": "Sarı Kartlar 1",
+  "pazar": "Sarı Kartlar : Sonuç",
+  "etiket": "1 (Chelsea LFC (Kadınlar))",
+  "olasilik": 0.383,
+  "oran": 3.14,
+  "deger": 0.20262000000000002
+ },
+ {
+  "secim": "Sarı Kartlar : Paris Saint-Germain (Kadınlar) : Toplam 1,5 Alt",
+  "pazar": "Sarı Kartlar : Paris Saint-Germain (Kadınlar) : Toplam",
+  "etiket": "Paris Saint-Germain (Kadınlar) 1,5 Alt",
+  "olasilik": 0.6877,
+  "oran": 1.55,
+  "deger": 0.06593500000000008
+ },
+ {
+  "secim": "Chelsea LFC (Kadınlar) : İkinci Yarıda Gol Atar Evet",
+  "pazar": "Chelsea LFC (Kadınlar) : İkinci Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.745,
+  "oran": 1.31,
+  "deger": -0.024050000000000016
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 0,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.8481,
+  "oran": 1.15,
+  "deger": -0.024685000000000068
+ },
+ {
+  "secim": "İkinci Yarıda Gol Evet",
+  "pazar": "İkinci Yarıda Gol",
+  "etiket": "Evet",
+  "olasilik": 0.8481,
+  "oran": 1.15,
+  "deger": -0.024685000000000068
+ },
+ {
+  "secim": "Paris Saint-Germain (Kadınlar) Gol Yemeden Kazanır Hayır",
+  "pazar": "Paris Saint-Germain (Kadınlar) Gol Yemeden Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.9475,
+  "oran": 1.027,
+  "deger": -0.02691750000000004
+ },
+ {
+  "secim": "Çifte Şans 1X",
+  "pazar": "Çifte Şans",
+  "etiket": "1X",
+  "olasilik": 0.8747,
+  "oran": 1.11,
+  "deger": -0.02908299999999986
+ },
+ {
+  "secim": "Toplam Goller 1,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.85,
+  "oran": 1.14,
+  "deger": -0.03100000000000014
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 2,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.814,
+  "oran": 1.19,
+  "deger": -0.031340000000000146
+ },
+ {
+  "secim": "Beraberlikte İade Chelsea LFC (Kadınlar)",
+  "pazar": "Beraberlikte İade",
+  "etiket": "Chelsea LFC (Kadınlar)",
+  "olasilik": 0.8491,
+  "oran": 1.14,
+  "deger": -0.03202600000000011
+ },
+ {
+  "secim": "Chelsea LFC (Kadınlar) : Gol Atar Evet",
+  "pazar": "Chelsea LFC (Kadınlar) : Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.9127,
+  "oran": 1.06,
+  "deger": -0.032537999999999956
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 1,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.5617,
+  "oran": 1.72,
+  "deger": -0.03387600000000002
+ },
+ {
+  "secim": "Kornerler : Toplam 7,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 7,5 Üst",
+  "olasilik": 0.7788,
+  "oran": 1.24,
+  "deger": -0.034287999999999985
+ },
+ {
+  "secim": "En gollü yarı 2. Yarı",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "2. Yarı",
+  "olasilik": 0.4725,
+  "oran": 2.04,
+  "deger": -0.03610000000000002
+ },
+ {
+  "secim": "Toplam Korner : Chelsea LFC (Kadınlar) 5,5 Üst",
+  "pazar": "Toplam Korner : Chelsea LFC (Kadınlar)",
+  "etiket": "Chelsea LFC (Kadınlar) 5,5 Üst",
+  "olasilik": 0.6967,
+  "oran": 1.38,
+  "deger": -0.03855400000000009
+ },
+ {
+  "secim": "Kornerler : Toplam 8,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 8,5 Üst",
+  "olasilik": 0.6663,
+  "oran": 1.44,
+  "deger": -0.04052800000000001
+ },
+ {
+  "secim": "Toplam Goller 5,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 5,5 Alt",
+  "olasilik": 0.8749,
+  "oran": 1.095,
+  "deger": -0.04198449999999998
+ },
+ {
+  "secim": "Her İki Takımda Gol Atar Evet",
+  "pazar": "Her İki Takımda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.5536,
+  "oran": 1.73,
+  "deger": -0.04227200000000009
+ },
+ {
+  "secim": "Toplam Goller 2,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.6558,
+  "oran": 1.46,
+  "deger": -0.0425319999999999
+ },
+ {
+  "secim": "Kornerler 1",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "1 (Chelsea LFC (Kadınlar))",
+  "olasilik": 0.8686,
+  "oran": 1.1,
+  "deger": -0.04453999999999991
+ },
+ {
+  "secim": "Çifte Şans 12",
+  "pazar": "Çifte Şans",
+  "etiket": "12",
+  "olasilik": 0.8306,
+  "oran": 1.15,
+  "deger": -0.044810000000000016
+ },
+ {
+  "secim": "Chelsea LFC (Kadınlar) : Toplam Gol 1,5 Üst",
+  "pazar": "Chelsea LFC (Kadınlar) : Toplam Gol",
+  "etiket": "Chelsea LFC (Kadınlar) 1,5 Üst",
+  "olasilik": 0.7013,
+  "oran": 1.36,
+  "deger": -0.04623199999999994
+ },
+ {
+  "secim": "Kornerler : Toplam 9,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 9,5 Üst",
+  "olasilik": 0.5418,
+  "oran": 1.76,
+  "deger": -0.04643200000000014
+ },
+ {
+  "secim": "Toplam Korner : Chelsea LFC (Kadınlar) 6,5 Üst",
+  "pazar": "Toplam Korner : Chelsea LFC (Kadınlar)",
+  "etiket": "Chelsea LFC (Kadınlar) 6,5 Üst",
+  "olasilik": 0.5478,
+  "oran": 1.74,
+  "deger": -0.04682800000000009
+ },
+ {
+  "secim": "Paris Saint-Germain (Kadınlar) İkinci Yarıda Gol Atar Evet",
+  "pazar": "Paris Saint-Germain (Kadınlar) İkinci Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.405,
+  "oran": 2.35,
+  "deger": -0.048249999999999904
+ },
+ {
+  "secim": "Paris Saint-Germain (Kadınlar) : Toplam Gol 0,5 Üst",
+  "pazar": "Paris Saint-Germain (Kadınlar) : Toplam Gol",
+  "etiket": "Paris Saint-Germain (Kadınlar) 0,5 Üst",
+  "olasilik": 0.6061,
+  "oran": 1.57,
+  "deger": -0.048422999999999994
+ },
+ {
+  "secim": "Paris Saint-Germain (Kadınlar) : Gol Atar Evet",
+  "pazar": "Paris Saint-Germain (Kadınlar) : Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.6061,
+  "oran": 1.57,
+  "deger": -0.048422999999999994
+ },
+ {
+  "secim": "Chelsea LFC (Kadınlar) En Az Bir Yarıyı Kazanır Evet",
+  "pazar": "Chelsea LFC (Kadınlar) En Az Bir Yarıyı Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.7984,
+  "oran": 1.19,
+  "deger": -0.04990400000000006
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 1,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.5619,
+  "oran": 1.69,
+  "deger": -0.05038900000000013
+ },
+ {
+  "secim": "Chelsea LFC (Kadınlar) : Toplam Gol 3,5 Alt",
+  "pazar": "Chelsea LFC (Kadınlar) : Toplam Gol",
+  "etiket": "Chelsea LFC (Kadınlar) 3,5 Alt",
+  "olasilik": 0.7719,
+  "oran": 1.23,
+  "deger": -0.050563000000000025
+ },
+ {
+  "secim": "Chelsea LFC (Kadınlar) Gol Yemeden Kazanır Hayır",
+  "pazar": "Chelsea LFC (Kadınlar) Gol Yemeden Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.641,
+  "oran": 1.48,
+  "deger": -0.05132000000000003
+ },
+ {
+  "secim": "1. Yarı Karşılıklı Gol Hayır",
+  "pazar": "1. Yarı Karşılıklı Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.7769,
+  "oran": 1.22,
+  "deger": -0.05218199999999995
+ },
+ {
+  "secim": "Her İki Yarıda Gol Olur Evet",
+  "pazar": "Her İki Yarıda Gol Olur",
+  "etiket": "Evet",
+  "olasilik": 0.6567,
+  "oran": 1.44,
+  "deger": -0.05435200000000007
+ },
+ {
+  "secim": "1",
+  "pazar": "Maç Sonucu",
+  "etiket": "1 (Chelsea LFC (Kadınlar))",
+  "olasilik": 0.7053,
+  "oran": 1.34,
+  "deger": -0.05489799999999989
+ },
+ {
+  "secim": "Toplam Goller 4,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 4,5 Alt",
+  "olasilik": 0.75,
+  "oran": 1.26,
+  "deger": -0.05499999999999994
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 0,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.7738,
+  "oran": 1.22,
+  "deger": -0.055964000000000014
+ },
+ {
+  "secim": "İlk Yarıda Gol Evet",
+  "pazar": "İlk Yarıda Gol",
+  "etiket": "Evet",
+  "olasilik": 0.7738,
+  "oran": 1.22,
+  "deger": -0.055964000000000014
+ },
+ {
+  "secim": "Paris Saint-Germain (Kadınlar) : Toplam Gol 1,5 Alt",
+  "pazar": "Paris Saint-Germain (Kadınlar) : Toplam Gol",
+  "etiket": "Paris Saint-Germain (Kadınlar) 1,5 Alt",
+  "olasilik": 0.761,
+  "oran": 1.24,
+  "deger": -0.056359999999999966
+ },
+ {
+  "secim": "Sarı Kartlar : Toplam 2,5 Alt",
+  "pazar": "Sarı Kartlar : Toplam",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.5812,
+  "oran": 1.62,
+  "deger": -0.05845599999999984
+ },
+ {
+  "secim": "Toplam Korner : Chelsea LFC (Kadınlar) 7,5 Üst",
+  "pazar": "Toplam Korner : Chelsea LFC (Kadınlar)",
+  "etiket": "Chelsea LFC (Kadınlar) 7,5 Üst",
+  "olasilik": 0.4006,
+  "oran": 2.35,
+  "deger": -0.05858999999999992
+ },
+ {
+  "secim": "2. Yarı 1",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "1 (Chelsea LFC (Kadınlar))",
+  "olasilik": 0.5801,
+  "oran": 1.62,
+  "deger": -0.060238000000000014
+ },
+ {
+  "secim": "Toplam Korner : Paris Saint-Germain (Kadınlar) 3,5 Alt",
+  "pazar": "Toplam Korner : Paris Saint-Germain (Kadınlar)",
+  "etiket": "Paris Saint-Germain (Kadınlar) 3,5 Alt",
+  "olasilik": 0.6473,
+  "oran": 1.45,
+  "deger": -0.061415
+ },
+ {
+  "secim": "2. Yarı Karşılıklı Gol Evet",
+  "pazar": "2. Yarı Karşılıklı Gol",
+  "etiket": "Evet",
+  "olasilik": 0.3019,
+  "oran": 3.1,
+  "deger": -0.06411
+ },
+ {
+  "secim": "Toplam Goller 3,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 3,5 Üst",
+  "olasilik": 0.4352,
+  "oran": 2.15,
+  "deger": -0.06432000000000004
+ },
+ {
+  "secim": "Kornerler : Toplam 10,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 10,5 Üst",
+  "olasilik": 0.4154,
+  "oran": 2.25,
+  "deger": -0.06535000000000002
+ },
+ {
+  "secim": "Toplam Korner : Paris Saint-Germain (Kadınlar) 2,5 Üst",
+  "pazar": "Toplam Korner : Paris Saint-Germain (Kadınlar)",
+  "etiket": "Paris Saint-Germain (Kadınlar) 2,5 Üst",
+  "olasilik": 0.5767,
+  "oran": 1.62,
+  "deger": -0.06574599999999997
+ },
+ {
+  "secim": "1. Yarı X",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "X",
+  "olasilik": 0.3401,
+  "oran": 2.74,
+  "deger": -0.06812599999999991
+ },
+ {
+  "secim": "Chelsea LFC (Kadınlar) : İlk Yarıda Gol Atar Evet",
+  "pazar": "Chelsea LFC (Kadınlar) : İlk Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.6591,
+  "oran": 1.41,
+  "deger": -0.07066899999999998
+ },
+ {
+  "secim": "Kornerler : Toplam 11,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 11,5 Alt",
+  "olasilik": 0.6979,
+  "oran": 1.33,
+  "deger": -0.071793
+ },
+ {
+  "secim": "Paris Saint-Germain (Kadınlar) İlk Yarıda Gol Atar Hayır",
+  "pazar": "Paris Saint-Germain (Kadınlar) İlk Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.6621,
+  "oran": 1.4,
+  "deger": -0.07306000000000001
+ },
+ {
+  "secim": "Toplam gol Çift",
+  "pazar": "Toplam Gol Tek/Çift",
+  "etiket": "Çift",
+  "olasilik": 0.5006,
+  "oran": 1.85,
+  "deger": -0.0738899999999999
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 2,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.7063,
+  "oran": 1.31,
+  "deger": -0.0747469999999999
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 2,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.2937,
+  "oran": 3.15,
+  "deger": -0.07484499999999994
+ },
+ {
+  "secim": "Chelsea LFC (Kadınlar) : Toplam Gol 2,5 Alt",
+  "pazar": "Chelsea LFC (Kadınlar) : Toplam Gol",
+  "etiket": "Chelsea LFC (Kadınlar) 2,5 Alt",
+  "olasilik": 0.5601,
+  "oran": 1.65,
+  "deger": -0.07583499999999999
+ },
+ {
+  "secim": "Toplam gol Tek",
+  "pazar": "Toplam Gol Tek/Çift",
+  "etiket": "Tek",
+  "olasilik": 0.4994,
+  "oran": 1.85,
+  "deger": -0.0761099999999999
+ },
+ {
+  "secim": "Chelsea LFC (Kadınlar) : Toplam Gol 2,5 Üst",
+  "pazar": "Chelsea LFC (Kadınlar) : Toplam Gol",
+  "etiket": "Chelsea LFC (Kadınlar) 2,5 Üst",
+  "olasilik": 0.4399,
+  "oran": 2.1,
+  "deger": -0.07620999999999989
+ },
+ {
+  "secim": "2. Yarı Karşılıklı Gol Hayır",
+  "pazar": "2. Yarı Karşılıklı Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.6981,
+  "oran": 1.32,
+  "deger": -0.07850799999999991
+ },
+ {
+  "secim": "Kornerler : Toplam 11,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 11,5 Üst",
+  "olasilik": 0.3021,
+  "oran": 3.05,
+  "deger": -0.07859500000000008
+ },
+ {
+  "secim": "Kornerler : Toplam 10,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 10,5 Alt",
+  "olasilik": 0.5846,
+  "oran": 1.57,
+  "deger": -0.08217799999999997
+ },
+ {
+  "secim": "Toplam Korner : Chelsea LFC (Kadınlar) 7,5 Alt",
+  "pazar": "Toplam Korner : Chelsea LFC (Kadınlar)",
+  "etiket": "Chelsea LFC (Kadınlar) 7,5 Alt",
+  "olasilik": 0.5994,
+  "oran": 1.53,
+  "deger": -0.08291799999999994
+ },
+ {
+  "secim": "İlk gol Chelsea LFC (Kadınlar)",
+  "pazar": "İlk Golü Atacak Takım",
+  "etiket": "Chelsea LFC (Kadınlar)",
+  "olasilik": 0.6935,
+  "oran": 1.32,
+  "deger": -0.08457999999999999
+ },
+ {
+  "secim": "Toplam Goller 3,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 3,5 Alt",
+  "olasilik": 0.5648,
+  "oran": 1.62,
+  "deger": -0.08502399999999999
+ },
+ {
+  "secim": "Chelsea LFC (Kadınlar) : İlk Yarıda Gol Atar Hayır",
+  "pazar": "Chelsea LFC (Kadınlar) : İlk Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.3409,
+  "oran": 2.68,
+  "deger": -0.08638800000000002
+ },
+ {
+  "secim": "Paris Saint-Germain (Kadınlar) İlk Yarıda Gol Atar Evet",
+  "pazar": "Paris Saint-Germain (Kadınlar) İlk Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.3379,
+  "oran": 2.7,
+  "deger": -0.08767000000000003
+ },
+ {
+  "secim": "Paris Saint-Germain (Kadınlar) İkinci Yarıda Gol Atar Hayır",
+  "pazar": "Paris Saint-Germain (Kadınlar) İkinci Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.595,
+  "oran": 1.53,
+  "deger": -0.08965000000000001
+ },
+ {
+  "secim": "Toplam Korner : Paris Saint-Germain (Kadınlar) 2,5 Alt",
+  "pazar": "Toplam Korner : Paris Saint-Germain (Kadınlar)",
+  "etiket": "Paris Saint-Germain (Kadınlar) 2,5 Alt",
+  "olasilik": 0.4233,
+  "oran": 2.15,
+  "deger": -0.08990500000000001
+ },
+ {
+  "secim": "Toplam Korner : Paris Saint-Germain (Kadınlar) 3,5 Üst",
+  "pazar": "Toplam Korner : Paris Saint-Germain (Kadınlar)",
+  "etiket": "Paris Saint-Germain (Kadınlar) 3,5 Üst",
+  "olasilik": 0.3527,
+  "oran": 2.55,
+  "deger": -0.10061500000000001
+ },
+ {
+  "secim": "1. Yarı 1",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "1 (Chelsea LFC (Kadınlar))",
+  "olasilik": 0.5192,
+  "oran": 1.73,
+  "deger": -0.10178399999999999
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 1,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.4381,
+  "oran": 2.04,
+  "deger": -0.10627600000000004
+ },
+ {
+  "secim": "Sarı Kartlar X",
+  "pazar": "Sarı Kartlar : Sonuç",
+  "etiket": "X",
+  "olasilik": 0.279,
+  "oran": 3.19,
+  "deger": -0.10998999999999992
+ },
+ {
+  "secim": "Kornerler : Toplam 9,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 9,5 Alt",
+  "olasilik": 0.4582,
+  "oran": 1.94,
+  "deger": -0.11109200000000008
+ },
+ {
+  "secim": "Her İki Yarıda Gol Olur Hayır",
+  "pazar": "Her İki Yarıda Gol Olur",
+  "etiket": "Hayır",
+  "olasilik": 0.3432,
+  "oran": 2.59,
+  "deger": -0.11111199999999999
+ },
+ {
+  "secim": "Toplam Korner : Chelsea LFC (Kadınlar) 6,5 Alt",
+  "pazar": "Toplam Korner : Chelsea LFC (Kadınlar)",
+  "etiket": "Chelsea LFC (Kadınlar) 6,5 Alt",
+  "olasilik": 0.4522,
+  "oran": 1.96,
+  "deger": -0.11368800000000001
+ },
+ {
+  "secim": "Paris Saint-Germain (Kadınlar) : Toplam Gol 0,5 Alt",
+  "pazar": "Paris Saint-Germain (Kadınlar) : Toplam Gol",
+  "etiket": "Paris Saint-Germain (Kadınlar) 0,5 Alt",
+  "olasilik": 0.3939,
+  "oran": 2.25,
+  "deger": -0.11372500000000008
+ },
+ {
+  "secim": "Paris Saint-Germain (Kadınlar) : Gol Atar Hayır",
+  "pazar": "Paris Saint-Germain (Kadınlar) : Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.3939,
+  "oran": 2.25,
+  "deger": -0.11372500000000008
+ },
+ {
+  "secim": "Çifte Şans X2",
+  "pazar": "Çifte Şans",
+  "etiket": "X2",
+  "olasilik": 0.2947,
+  "oran": 3.0,
+  "deger": -0.11589999999999989
+ },
+ {
+  "secim": "X",
+  "pazar": "Maç Sonucu",
+  "etiket": "X",
+  "olasilik": 0.1694,
+  "oran": 5.2,
+  "deger": -0.11912
+ },
+ {
+  "secim": "Chelsea LFC (Kadınlar) Gol Yemeden Kazanır Evet",
+  "pazar": "Chelsea LFC (Kadınlar) Gol Yemeden Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.359,
+  "oran": 2.45,
+  "deger": -0.12044999999999995
+ },
+ {
+  "secim": "Her İki Takımda Gol Atar Hayır",
+  "pazar": "Her İki Takımda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.4464,
+  "oran": 1.97,
+  "deger": -0.12059199999999992
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 1,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.4383,
+  "oran": 2.0,
+  "deger": -0.12339999999999995
+ },
+ {
+  "secim": "Paris Saint-Germain (Kadınlar) : Toplam Gol 1,5 Üst",
+  "pazar": "Paris Saint-Germain (Kadınlar) : Toplam Gol",
+  "etiket": "Paris Saint-Germain (Kadınlar) 1,5 Üst",
+  "olasilik": 0.239,
+  "oran": 3.65,
+  "deger": -0.12765000000000004
+ },
+ {
+  "secim": "Sarı Kartlar : Toplam 2,5 Üst",
+  "pazar": "Sarı Kartlar : Toplam",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.4188,
+  "oran": 2.08,
+  "deger": -0.128896
+ },
+ {
+  "secim": "En gollü yarı Eşit",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "Eşit",
+  "olasilik": 0.2231,
+  "oran": 3.89,
+  "deger": -0.13214099999999995
+ },
+ {
+  "secim": "Toplam Goller 4,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 4,5 Üst",
+  "olasilik": 0.25,
+  "oran": 3.47,
+  "deger": -0.13249999999999995
+ },
+ {
+  "secim": "Toplam Goller 2,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.3442,
+  "oran": 2.52,
+  "deger": -0.13261599999999996
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 0,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.2262,
+  "oran": 3.83,
+  "deger": -0.13365399999999994
+ },
+ {
+  "secim": "İlk Yarıda Gol Hayır",
+  "pazar": "İlk Yarıda Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.2262,
+  "oran": 3.83,
+  "deger": -0.13365399999999994
+ },
+ {
+  "secim": "Kornerler : Toplam 8,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 8,5 Alt",
+  "olasilik": 0.3337,
+  "oran": 2.59,
+  "deger": -0.1357170000000001
+ },
+ {
+  "secim": "Chelsea LFC (Kadınlar) : Toplam Gol 1,5 Alt",
+  "pazar": "Chelsea LFC (Kadınlar) : Toplam Gol",
+  "etiket": "Chelsea LFC (Kadınlar) 1,5 Alt",
+  "olasilik": 0.2987,
+  "oran": 2.87,
+  "deger": -0.14273099999999994
+ },
+ {
+  "secim": "Chelsea LFC (Kadınlar) : Toplam Gol 3,5 Üst",
+  "pazar": "Chelsea LFC (Kadınlar) : Toplam Gol",
+  "etiket": "Chelsea LFC (Kadınlar) 3,5 Üst",
+  "olasilik": 0.2281,
+  "oran": 3.75,
+  "deger": -0.144625
+ },
+ {
+  "secim": "1. Yarı Karşılıklı Gol Evet",
+  "pazar": "1. Yarı Karşılıklı Gol",
+  "etiket": "Evet",
+  "olasilik": 0.2231,
+  "oran": 3.83,
+  "deger": -0.14552699999999996
+ },
+ {
+  "secim": "Toplam Korner : Chelsea LFC (Kadınlar) 5,5 Alt",
+  "pazar": "Toplam Korner : Chelsea LFC (Kadınlar)",
+  "etiket": "Chelsea LFC (Kadınlar) 5,5 Alt",
+  "olasilik": 0.3033,
+  "oran": 2.8,
+  "deger": -0.15076
+ },
+ {
+  "secim": "İlk gol Paris Saint-Germain (Kadınlar)",
+  "pazar": "İlk Golü Atacak Takım",
+  "etiket": "Paris Saint-Germain (Kadınlar)",
+  "olasilik": 0.2716,
+  "oran": 3.12,
+  "deger": -0.15260799999999997
+ },
+ {
+  "secim": "1. Yarı 2",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "2 (Paris Saint-Germain (Kadınlar))",
+  "olasilik": 0.1408,
+  "oran": 6.0,
+  "deger": -0.1552
+ },
+ {
+  "secim": "2. Yarı 2",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "2 (Paris Saint-Germain (Kadınlar))",
+  "olasilik": 0.1403,
+  "oran": 6.0,
+  "deger": -0.1581999999999999
+ },
+ {
+  "secim": "En gollü yarı 1. Yarı",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "1. Yarı",
+  "olasilik": 0.3044,
+  "oran": 2.75,
+  "deger": -0.16290000000000004
+ },
+ {
+  "secim": "Chelsea LFC (Kadınlar) En Az Bir Yarıyı Kazanır Hayır",
+  "pazar": "Chelsea LFC (Kadınlar) En Az Bir Yarıyı Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.2016,
+  "oran": 4.15,
+  "deger": -0.16335999999999995
+ },
+ {
+  "secim": "2. Yarı X",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "X",
+  "olasilik": 0.2796,
+  "oran": 2.98,
+  "deger": -0.16679199999999994
+ },
+ {
+  "secim": "Kornerler : Toplam 7,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 7,5 Alt",
+  "olasilik": 0.2213,
+  "oran": 3.65,
+  "deger": -0.19225500000000006
+ },
+ {
+  "secim": "Chelsea LFC (Kadınlar) : İkinci Yarıda Gol Atar Hayır",
+  "pazar": "Chelsea LFC (Kadınlar) : İkinci Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.255,
+  "oran": 3.15,
+  "deger": -0.19674999999999998
+ },
+ {
+  "secim": "Alyssa Thompson gol atar",
+  "pazar": "Herhangi Bir Zamanda Gol Atar",
+  "etiket": "Alyssa Thompson",
+  "olasilik": 0.2834,
+  "oran": 2.75,
+  "deger": -0.22065
+ },
+ {
+  "secim": "2",
+  "pazar": "Maç Sonucu",
+  "etiket": "2 (Paris Saint-Germain (Kadınlar))",
+  "olasilik": 0.1253,
+  "oran": 6.2,
+  "deger": -0.22314
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 2,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.186,
+  "oran": 4.15,
+  "deger": -0.22809999999999997
+ },
+ {
+  "secim": "Sandy Baltimore gol atar",
+  "pazar": "Herhangi Bir Zamanda Gol Atar",
+  "etiket": "Sandy Baltimore",
+  "olasilik": 0.2319,
+  "oran": 3.25,
+  "deger": -0.24632500000000002
+ },
+ {
+  "secim": "Toplam Goller 5,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 5,5 Üst",
+  "olasilik": 0.1252,
+  "oran": 6.0,
+  "deger": -0.2487999999999999
+ },
+ {
+  "secim": "Beraberlikte İade Paris Saint-Germain (Kadınlar)",
+  "pazar": "Beraberlikte İade",
+  "etiket": "Paris Saint-Germain (Kadınlar)",
+  "olasilik": 0.1509,
+  "oran": 4.9,
+  "deger": -0.2605899999999999
+ },
+ {
+  "secim": "Toplam Goller 1,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.15,
+  "oran": 4.9,
+  "deger": -0.265
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 0,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.1519,
+  "oran": 4.75,
+  "deger": -0.2784749999999999
+ },
+ {
+  "secim": "İkinci Yarıda Gol Hayır",
+  "pazar": "İkinci Yarıda Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.1519,
+  "oran": 4.75,
+  "deger": -0.2784749999999999
+ },
+ {
+  "secim": "Sarı Kartlar : Paris Saint-Germain (Kadınlar) : Toplam 1,5 Üst",
+  "pazar": "Sarı Kartlar : Paris Saint-Germain (Kadınlar) : Toplam",
+  "etiket": "Paris Saint-Germain (Kadınlar) 1,5 Üst",
+  "olasilik": 0.3123,
+  "oran": 2.2,
+  "deger": -0.3129399999999999
+ },
+ {
+  "secim": "Sarı Kartlar 2",
+  "pazar": "Sarı Kartlar : Sonuç",
+  "etiket": "2 (Paris Saint-Germain (Kadınlar))",
+  "olasilik": 0.3379,
+  "oran": 2.02,
+  "deger": -0.317442
+ },
+ {
+  "secim": "Chelsea LFC (Kadınlar) : Gol Atar Hayır",
+  "pazar": "Chelsea LFC (Kadınlar) : Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.0873,
+  "oran": 7.3,
+  "deger": -0.36271
+ },
+ {
+  "secim": "Kornerler 2",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "2 (Paris Saint-Germain (Kadınlar))",
+  "olasilik": 0.0736,
+  "oran": 7.7,
+  "deger": -0.43328
+ },
+ {
+  "secim": "Kornerler X",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "X",
+  "olasilik": 0.0578,
+  "oran": 9.5,
+  "deger": -0.4509000000000001
+ },
+ {
+  "secim": "Paris Saint-Germain (Kadınlar) Gol Yemeden Kazanır Evet",
+  "pazar": "Paris Saint-Germain (Kadınlar) Gol Yemeden Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.0525,
+  "oran": 9.3,
+  "deger": -0.5117499999999999
+ }
+]

@@ -1,0 +1,970 @@
+[
+ {
+  "secim": "Kornerler 2",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "2 (SE Palmeiras)",
+  "olasilik": 0.6379,
+  "oran": 2.11,
+  "deger": 0.34596899999999997
+ },
+ {
+  "secim": "Toplam Korner : Cruzeiro EC 4,5 Alt",
+  "pazar": "Toplam Korner : Cruzeiro EC",
+  "etiket": "Cruzeiro EC 4,5 Alt",
+  "olasilik": 0.4612,
+  "oran": 2.75,
+  "deger": 0.2683
+ },
+ {
+  "secim": "Toplam Korner : Cruzeiro EC 5,5 Alt",
+  "pazar": "Toplam Korner : Cruzeiro EC",
+  "etiket": "Cruzeiro EC 5,5 Alt",
+  "olasilik": 0.6346,
+  "oran": 1.9,
+  "deger": 0.20574000000000003
+ },
+ {
+  "secim": "Toplam Korner : Cruzeiro EC 6,5 Alt",
+  "pazar": "Toplam Korner : Cruzeiro EC",
+  "etiket": "Cruzeiro EC 6,5 Alt",
+  "olasilik": 0.7782,
+  "oran": 1.46,
+  "deger": 0.13617199999999996
+ },
+ {
+  "secim": "Sarı Kartlar : SE Palmeiras : Toplam 2,5 Alt",
+  "pazar": "Sarı Kartlar : SE Palmeiras : Toplam",
+  "etiket": "SE Palmeiras 2,5 Alt",
+  "olasilik": 0.5892,
+  "oran": 1.89,
+  "deger": 0.1135879999999998
+ },
+ {
+  "secim": "Toplam Korner : SE Palmeiras 4,5 Üst",
+  "pazar": "Toplam Korner : SE Palmeiras",
+  "etiket": "SE Palmeiras 4,5 Üst",
+  "olasilik": 0.7856,
+  "oran": 1.41,
+  "deger": 0.10769599999999979
+ },
+ {
+  "secim": "Sarı Kartlar 1",
+  "pazar": "Sarı Kartlar : Sonuç",
+  "etiket": "1 (Cruzeiro EC)",
+  "olasilik": 0.4601,
+  "oran": 2.39,
+  "deger": 0.09963900000000003
+ },
+ {
+  "secim": "Sarı Kartlar : Toplam 4,5 Alt",
+  "pazar": "Sarı Kartlar : Toplam",
+  "etiket": "Toplam 4,5 Alt",
+  "olasilik": 0.4497,
+  "oran": 2.33,
+  "deger": 0.04780099999999998
+ },
+ {
+  "secim": "Toplam Goller 4,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 4,5 Üst",
+  "olasilik": 0.2084,
+  "oran": 5.0,
+  "deger": 0.04200000000000004
+ },
+ {
+  "secim": "Toplam Goller 3,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 3,5 Üst",
+  "olasilik": 0.3847,
+  "oran": 2.68,
+  "deger": 0.030996000000000024
+ },
+ {
+  "secim": "Sarı Kartlar : Toplam 5,5 Alt",
+  "pazar": "Sarı Kartlar : Toplam",
+  "etiket": "Toplam 5,5 Alt",
+  "olasilik": 0.6243,
+  "oran": 1.65,
+  "deger": 0.030094999999999983
+ },
+ {
+  "secim": "Toplam Goller 2,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.6071,
+  "oran": 1.68,
+  "deger": 0.019927999999999946
+ },
+ {
+  "secim": "2",
+  "pazar": "Maç Sonucu",
+  "etiket": "2 (SE Palmeiras)",
+  "olasilik": 0.3956,
+  "oran": 2.55,
+  "deger": 0.00878000000000001
+ },
+ {
+  "secim": "Toplam Goller 1,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.8202,
+  "oran": 1.22,
+  "deger": 0.0006440000000000889
+ },
+ {
+  "secim": "Çifte Şans 12",
+  "pazar": "Çifte Şans",
+  "etiket": "12",
+  "olasilik": 0.765,
+  "oran": 1.3,
+  "deger": -0.005499999999999949
+ },
+ {
+  "secim": "1",
+  "pazar": "Maç Sonucu",
+  "etiket": "1 (Cruzeiro EC)",
+  "olasilik": 0.3694,
+  "oran": 2.69,
+  "deger": -0.006314000000000042
+ },
+ {
+  "secim": "Toplam Goller 0,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.957,
+  "oran": 1.037,
+  "deger": -0.007591000000000125
+ },
+ {
+  "secim": "Cruzeiro EC : Toplam Gol 1,5 Üst",
+  "pazar": "Cruzeiro EC : Toplam Gol",
+  "etiket": "Cruzeiro EC 1,5 Üst",
+  "olasilik": 0.4554,
+  "oran": 2.17,
+  "deger": -0.01178199999999996
+ },
+ {
+  "secim": "Her İki Takımda Gol Atar Evet",
+  "pazar": "Her İki Takımda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.6248,
+  "oran": 1.57,
+  "deger": -0.01906399999999997
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 0,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.8297,
+  "oran": 1.18,
+  "deger": -0.020954000000000028
+ },
+ {
+  "secim": "İkinci Yarıda Gol Evet",
+  "pazar": "İkinci Yarıda Gol",
+  "etiket": "Evet",
+  "olasilik": 0.8297,
+  "oran": 1.18,
+  "deger": -0.020954000000000028
+ },
+ {
+  "secim": "SE Palmeiras : Toplam Gol 1,5 Üst",
+  "pazar": "SE Palmeiras : Toplam Gol",
+  "etiket": "SE Palmeiras 1,5 Üst",
+  "olasilik": 0.4752,
+  "oran": 2.06,
+  "deger": -0.021087999999999996
+ },
+ {
+  "secim": "Her İki Yarıda Gol Olur Evet",
+  "pazar": "Her İki Yarıda Gol Olur",
+  "etiket": "Evet",
+  "olasilik": 0.6222,
+  "oran": 1.57,
+  "deger": -0.023146
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 0,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.7496,
+  "oran": 1.3,
+  "deger": -0.025519999999999876
+ },
+ {
+  "secim": "İlk Yarıda Gol Evet",
+  "pazar": "İlk Yarıda Gol",
+  "etiket": "Evet",
+  "olasilik": 0.7496,
+  "oran": 1.3,
+  "deger": -0.025519999999999876
+ },
+ {
+  "secim": "Kornerler : Toplam 7,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 7,5 Üst",
+  "olasilik": 0.8856,
+  "oran": 1.1,
+  "deger": -0.025839999999999863
+ },
+ {
+  "secim": "Cruzeiro EC : Toplam Gol 0,5 Üst",
+  "pazar": "Cruzeiro EC : Toplam Gol",
+  "etiket": "Cruzeiro EC 0,5 Üst",
+  "olasilik": 0.7843,
+  "oran": 1.24,
+  "deger": -0.027468000000000048
+ },
+ {
+  "secim": "Cruzeiro EC : Gol Atar Evet",
+  "pazar": "Cruzeiro EC : Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.7843,
+  "oran": 1.24,
+  "deger": -0.027468000000000048
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 1,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.5226,
+  "oran": 1.86,
+  "deger": -0.02796399999999999
+ },
+ {
+  "secim": "Beraberlikte İade Cruzeiro EC",
+  "pazar": "Beraberlikte İade",
+  "etiket": "Cruzeiro EC",
+  "olasilik": 0.4828,
+  "oran": 2.01,
+  "deger": -0.029572000000000043
+ },
+ {
+  "secim": "SE Palmeiras İkinci Yarıda Gol Atar Evet",
+  "pazar": "SE Palmeiras İkinci Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.5912,
+  "oran": 1.64,
+  "deger": -0.030432000000000126
+ },
+ {
+  "secim": "Toplam Goller 5,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 5,5 Alt",
+  "olasilik": 0.9031,
+  "oran": 1.07,
+  "deger": -0.03368299999999991
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 1,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.4021,
+  "oran": 2.4,
+  "deger": -0.03495999999999999
+ },
+ {
+  "secim": "SE Palmeiras : Toplam Gol 0,5 Üst",
+  "pazar": "SE Palmeiras : Toplam Gol",
+  "etiket": "SE Palmeiras 0,5 Üst",
+  "olasilik": 0.7975,
+  "oran": 1.21,
+  "deger": -0.035025000000000084
+ },
+ {
+  "secim": "SE Palmeiras : Gol Atar Evet",
+  "pazar": "SE Palmeiras : Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.7975,
+  "oran": 1.21,
+  "deger": -0.035025000000000084
+ },
+ {
+  "secim": "İlk gol SE Palmeiras",
+  "pazar": "İlk Golü Atacak Takım",
+  "etiket": "SE Palmeiras",
+  "olasilik": 0.4868,
+  "oran": 1.98,
+  "deger": -0.036135999999999946
+ },
+ {
+  "secim": "Cruzeiro EC : İkinci Yarıda Gol Atar Evet",
+  "pazar": "Cruzeiro EC : İkinci Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.5765,
+  "oran": 1.67,
+  "deger": -0.03724499999999997
+ },
+ {
+  "secim": "Cruzeiro EC : Toplam Gol 3,5 Alt",
+  "pazar": "Cruzeiro EC : Toplam Gol",
+  "etiket": "Cruzeiro EC 3,5 Alt",
+  "olasilik": 0.9299,
+  "oran": 1.035,
+  "deger": -0.03755350000000013
+ },
+ {
+  "secim": "SE Palmeiras : Toplam Gol 3,5 Alt",
+  "pazar": "SE Palmeiras : Toplam Gol",
+  "etiket": "SE Palmeiras 3,5 Alt",
+  "olasilik": 0.9203,
+  "oran": 1.045,
+  "deger": -0.03828650000000011
+ },
+ {
+  "secim": "SE Palmeiras Gol Yemeden Kazanır Hayır",
+  "pazar": "SE Palmeiras Gol Yemeden Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.8273,
+  "oran": 1.16,
+  "deger": -0.040332000000000034
+ },
+ {
+  "secim": "Cruzeiro EC Gol Yemeden Kazanır Hayır",
+  "pazar": "Cruzeiro EC Gol Yemeden Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.8405,
+  "oran": 1.14,
+  "deger": -0.041830000000000034
+ },
+ {
+  "secim": "Cruzeiro EC : İlk Yarıda Gol Atar Evet",
+  "pazar": "Cruzeiro EC : İlk Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.4929,
+  "oran": 1.94,
+  "deger": -0.04377399999999998
+ },
+ {
+  "secim": "Sarı Kartlar : Cruzeiro EC : Toplam 2,5 Üst",
+  "pazar": "Sarı Kartlar : Cruzeiro EC : Toplam",
+  "etiket": "Cruzeiro EC 2,5 Üst",
+  "olasilik": 0.4871,
+  "oran": 1.96,
+  "deger": -0.0452840000000001
+ },
+ {
+  "secim": "Cruzeiro EC En Az Bir Yarıyı Kazanır Evet",
+  "pazar": "Cruzeiro EC En Az Bir Yarıyı Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.527,
+  "oran": 1.81,
+  "deger": -0.04612999999999989
+ },
+ {
+  "secim": "1. Yarı 1",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "1 (Cruzeiro EC)",
+  "olasilik": 0.2987,
+  "oran": 3.19,
+  "deger": -0.04714699999999994
+ },
+ {
+  "secim": "Beraberlikte İade SE Palmeiras",
+  "pazar": "Beraberlikte İade",
+  "etiket": "SE Palmeiras",
+  "olasilik": 0.5172,
+  "oran": 1.84,
+  "deger": -0.04835199999999995
+ },
+ {
+  "secim": "Kornerler : Toplam 9,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 9,5 Üst",
+  "olasilik": 0.7098,
+  "oran": 1.34,
+  "deger": -0.04886799999999991
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 2,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.8381,
+  "oran": 1.13,
+  "deger": -0.05294700000000019
+ },
+ {
+  "secim": "SE Palmeiras İlk Yarıda Gol Atar Evet",
+  "pazar": "SE Palmeiras İlk Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.5062,
+  "oran": 1.87,
+  "deger": -0.053405999999999954
+ },
+ {
+  "secim": "Toplam Goller 4,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 4,5 Alt",
+  "olasilik": 0.7916,
+  "oran": 1.19,
+  "deger": -0.05799600000000005
+ },
+ {
+  "secim": "Kornerler : Toplam 10,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 10,5 Üst",
+  "olasilik": 0.5951,
+  "oran": 1.58,
+  "deger": -0.05974199999999996
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 2,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.2571,
+  "oran": 3.65,
+  "deger": -0.061585
+ },
+ {
+  "secim": "2. Yarı 1",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "1 (Cruzeiro EC)",
+  "olasilik": 0.3261,
+  "oran": 2.87,
+  "deger": -0.06409299999999996
+ },
+ {
+  "secim": "Toplam gol Tek",
+  "pazar": "Toplam Gol Tek/Çift",
+  "etiket": "Tek",
+  "olasilik": 0.5003,
+  "oran": 1.87,
+  "deger": -0.06443900000000002
+ },
+ {
+  "secim": "En gollü yarı 2. Yarı",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "2. Yarı",
+  "olasilik": 0.4629,
+  "oran": 2.02,
+  "deger": -0.06494200000000006
+ },
+ {
+  "secim": "Cruzeiro EC : Toplam Gol 2,5 Alt",
+  "pazar": "Cruzeiro EC : Toplam Gol",
+  "etiket": "Cruzeiro EC 2,5 Alt",
+  "olasilik": 0.7987,
+  "oran": 1.17,
+  "deger": -0.06552100000000005
+ },
+ {
+  "secim": "SE Palmeiras : Toplam Gol 2,5 Alt",
+  "pazar": "SE Palmeiras : Toplam Gol",
+  "etiket": "SE Palmeiras 2,5 Alt",
+  "olasilik": 0.7835,
+  "oran": 1.19,
+  "deger": -0.06763500000000011
+ },
+ {
+  "secim": "SE Palmeiras : Toplam Gol 2,5 Üst",
+  "pazar": "SE Palmeiras : Toplam Gol",
+  "etiket": "SE Palmeiras 2,5 Üst",
+  "olasilik": 0.2165,
+  "oran": 4.3,
+  "deger": -0.06905000000000006
+ },
+ {
+  "secim": "1. Yarı Karşılıklı Gol Hayır",
+  "pazar": "1. Yarı Karşılıklı Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.7505,
+  "oran": 1.24,
+  "deger": -0.06938000000000011
+ },
+ {
+  "secim": "2. Yarı Karşılıklı Gol Evet",
+  "pazar": "2. Yarı Karşılıklı Gol",
+  "etiket": "Evet",
+  "olasilik": 0.338,
+  "oran": 2.75,
+  "deger": -0.0704999999999999
+ },
+ {
+  "secim": "1. Yarı 2",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "2 (SE Palmeiras)",
+  "olasilik": 0.3155,
+  "oran": 2.94,
+  "deger": -0.07243
+ },
+ {
+  "secim": "Kornerler : Toplam 11,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 11,5 Üst",
+  "olasilik": 0.4779,
+  "oran": 1.94,
+  "deger": -0.072874
+ },
+ {
+  "secim": "Her İki Takımda Gol Atar Hayır",
+  "pazar": "Her İki Takımda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.3752,
+  "oran": 2.47,
+  "deger": -0.07325599999999999
+ },
+ {
+  "secim": "2. Yarı 2",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "2 (SE Palmeiras)",
+  "olasilik": 0.3442,
+  "oran": 2.68,
+  "deger": -0.07754399999999995
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 2,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.7429,
+  "oran": 1.24,
+  "deger": -0.07880399999999999
+ },
+ {
+  "secim": "2. Yarı Karşılıklı Gol Hayır",
+  "pazar": "2. Yarı Karşılıklı Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.662,
+  "oran": 1.39,
+  "deger": -0.07982
+ },
+ {
+  "secim": "Kornerler : Toplam 11,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 11,5 Alt",
+  "olasilik": 0.5221,
+  "oran": 1.76,
+  "deger": -0.08110399999999995
+ },
+ {
+  "secim": "İlk gol Cruzeiro EC",
+  "pazar": "İlk Golü Atacak Takım",
+  "etiket": "Cruzeiro EC",
+  "olasilik": 0.4703,
+  "oran": 1.95,
+  "deger": -0.08291500000000007
+ },
+ {
+  "secim": "Toplam Goller 3,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 3,5 Alt",
+  "olasilik": 0.6153,
+  "oran": 1.49,
+  "deger": -0.08320300000000003
+ },
+ {
+  "secim": "Cruzeiro EC : Toplam Gol 2,5 Üst",
+  "pazar": "Cruzeiro EC : Toplam Gol",
+  "etiket": "Cruzeiro EC 2,5 Üst",
+  "olasilik": 0.2013,
+  "oran": 4.55,
+  "deger": -0.08408499999999997
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 1,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.5979,
+  "oran": 1.53,
+  "deger": -0.08521299999999998
+ },
+ {
+  "secim": "Toplam gol Çift",
+  "pazar": "Toplam Gol Tek/Çift",
+  "etiket": "Çift",
+  "olasilik": 0.4997,
+  "oran": 1.83,
+  "deger": -0.08554899999999999
+ },
+ {
+  "secim": "1. Yarı Karşılıklı Gol Evet",
+  "pazar": "1. Yarı Karşılıklı Gol",
+  "etiket": "Evet",
+  "olasilik": 0.2495,
+  "oran": 3.65,
+  "deger": -0.08932499999999999
+ },
+ {
+  "secim": "Çifte Şans X2",
+  "pazar": "Çifte Şans",
+  "etiket": "X2",
+  "olasilik": 0.6306,
+  "oran": 1.44,
+  "deger": -0.09193600000000002
+ },
+ {
+  "secim": "SE Palmeiras İlk Yarıda Gol Atar Hayır",
+  "pazar": "SE Palmeiras İlk Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.4938,
+  "oran": 1.83,
+  "deger": -0.09634599999999993
+ },
+ {
+  "secim": "Kornerler : Toplam 10,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 10,5 Alt",
+  "olasilik": 0.4049,
+  "oran": 2.23,
+  "deger": -0.09707300000000008
+ },
+ {
+  "secim": "1. Yarı X",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "X",
+  "olasilik": 0.3858,
+  "oran": 2.34,
+  "deger": -0.09722800000000009
+ },
+ {
+  "secim": "En gollü yarı 1. Yarı",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "1. Yarı",
+  "olasilik": 0.3039,
+  "oran": 2.97,
+  "deger": -0.09741699999999998
+ },
+ {
+  "secim": "Toplam Goller 5,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 5,5 Üst",
+  "olasilik": 0.0969,
+  "oran": 9.3,
+  "deger": -0.09882999999999997
+ },
+ {
+  "secim": "Çifte Şans 1X",
+  "pazar": "Çifte Şans",
+  "etiket": "1X",
+  "olasilik": 0.6044,
+  "oran": 1.49,
+  "deger": -0.09944399999999998
+ },
+ {
+  "secim": "SE Palmeiras : Toplam Gol 1,5 Alt",
+  "pazar": "SE Palmeiras : Toplam Gol",
+  "etiket": "SE Palmeiras 1,5 Alt",
+  "olasilik": 0.5248,
+  "oran": 1.71,
+  "deger": -0.1025919999999999
+ },
+ {
+  "secim": "Cruzeiro EC En Az Bir Yarıyı Kazanır Hayır",
+  "pazar": "Cruzeiro EC En Az Bir Yarıyı Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.473,
+  "oran": 1.89,
+  "deger": -0.10603000000000007
+ },
+ {
+  "secim": "Cruzeiro EC : Toplam Gol 1,5 Alt",
+  "pazar": "Cruzeiro EC : Toplam Gol",
+  "etiket": "Cruzeiro EC 1,5 Alt",
+  "olasilik": 0.5446,
+  "oran": 1.64,
+  "deger": -0.10685600000000006
+ },
+ {
+  "secim": "Cruzeiro EC : İlk Yarıda Gol Atar Hayır",
+  "pazar": "Cruzeiro EC : İlk Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.5071,
+  "oran": 1.76,
+  "deger": -0.10750400000000004
+ },
+ {
+  "secim": "Sarı Kartlar : Cruzeiro EC : Toplam 2,5 Alt",
+  "pazar": "Sarı Kartlar : Cruzeiro EC : Toplam",
+  "etiket": "Cruzeiro EC 2,5 Alt",
+  "olasilik": 0.5129,
+  "oran": 1.74,
+  "deger": -0.10755399999999993
+ },
+ {
+  "secim": "Sarı Kartlar X",
+  "pazar": "Sarı Kartlar : Sonuç",
+  "etiket": "X",
+  "olasilik": 0.1827,
+  "oran": 4.85,
+  "deger": -0.11390500000000003
+ },
+ {
+  "secim": "SE Palmeiras İkinci Yarıda Gol Atar Hayır",
+  "pazar": "SE Palmeiras İkinci Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.4088,
+  "oran": 2.15,
+  "deger": -0.12108000000000008
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 1,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.4774,
+  "oran": 1.84,
+  "deger": -0.12158400000000003
+ },
+ {
+  "secim": "Cruzeiro EC : İkinci Yarıda Gol Atar Hayır",
+  "pazar": "Cruzeiro EC : İkinci Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.4235,
+  "oran": 2.07,
+  "deger": -0.1233550000000001
+ },
+ {
+  "secim": "Toplam Goller 2,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.3929,
+  "oran": 2.23,
+  "deger": -0.12383299999999997
+ },
+ {
+  "secim": "2. Yarı X",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "X",
+  "olasilik": 0.3297,
+  "oran": 2.65,
+  "deger": -0.12629500000000005
+ },
+ {
+  "secim": "Kornerler : Toplam 9,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 9,5 Alt",
+  "olasilik": 0.2902,
+  "oran": 3.0,
+  "deger": -0.12939999999999996
+ },
+ {
+  "secim": "En gollü yarı Eşit",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "Eşit",
+  "olasilik": 0.2332,
+  "oran": 3.73,
+  "deger": -0.13016400000000006
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 2,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.1619,
+  "oran": 5.3,
+  "deger": -0.1419300000000001
+ },
+ {
+  "secim": "Sarı Kartlar : Toplam 4,5 Üst",
+  "pazar": "Sarı Kartlar : Toplam",
+  "etiket": "Toplam 4,5 Üst",
+  "olasilik": 0.5503,
+  "oran": 1.54,
+  "deger": -0.15253799999999995
+ },
+ {
+  "secim": "X",
+  "pazar": "Maç Sonucu",
+  "etiket": "X",
+  "olasilik": 0.235,
+  "oran": 3.6,
+  "deger": -0.15400000000000003
+ },
+ {
+  "secim": "SE Palmeiras : Toplam Gol 0,5 Alt",
+  "pazar": "SE Palmeiras : Toplam Gol",
+  "etiket": "SE Palmeiras 0,5 Alt",
+  "olasilik": 0.2025,
+  "oran": 4.1,
+  "deger": -0.16975000000000007
+ },
+ {
+  "secim": "SE Palmeiras : Gol Atar Hayır",
+  "pazar": "SE Palmeiras : Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.2025,
+  "oran": 4.1,
+  "deger": -0.16975000000000007
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 0,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.2504,
+  "oran": 3.3,
+  "deger": -0.17368000000000006
+ },
+ {
+  "secim": "İlk Yarıda Gol Hayır",
+  "pazar": "İlk Yarıda Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.2504,
+  "oran": 3.3,
+  "deger": -0.17368000000000006
+ },
+ {
+  "secim": "Her İki Yarıda Gol Olur Hayır",
+  "pazar": "Her İki Yarıda Gol Olur",
+  "etiket": "Hayır",
+  "olasilik": 0.3777,
+  "oran": 2.16,
+  "deger": -0.184168
+ },
+ {
+  "secim": "Toplam Goller 1,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.1799,
+  "oran": 4.5,
+  "deger": -0.19045
+ },
+ {
+  "secim": "Cruzeiro EC : Toplam Gol 0,5 Alt",
+  "pazar": "Cruzeiro EC : Toplam Gol",
+  "etiket": "Cruzeiro EC 0,5 Alt",
+  "olasilik": 0.2157,
+  "oran": 3.75,
+  "deger": -0.191125
+ },
+ {
+  "secim": "Cruzeiro EC : Gol Atar Hayır",
+  "pazar": "Cruzeiro EC : Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.2157,
+  "oran": 3.75,
+  "deger": -0.191125
+ },
+ {
+  "secim": "SE Palmeiras Gol Yemeden Kazanır Evet",
+  "pazar": "SE Palmeiras Gol Yemeden Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.1727,
+  "oran": 4.57,
+  "deger": -0.21076099999999998
+ },
+ {
+  "secim": "Sarı Kartlar : Toplam 5,5 Üst",
+  "pazar": "Sarı Kartlar : Toplam",
+  "etiket": "Toplam 5,5 Üst",
+  "olasilik": 0.3757,
+  "oran": 2.1,
+  "deger": -0.21103000000000005
+ },
+ {
+  "secim": "Cruzeiro EC Gol Yemeden Kazanır Evet",
+  "pazar": "Cruzeiro EC Gol Yemeden Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.1595,
+  "oran": 4.9,
+  "deger": -0.21844999999999992
+ },
+ {
+  "secim": "Kornerler X",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "X",
+  "olasilik": 0.1048,
+  "oran": 7.3,
+  "deger": -0.23495999999999995
+ },
+ {
+  "secim": "Toplam Korner : Cruzeiro EC 4,5 Üst",
+  "pazar": "Toplam Korner : Cruzeiro EC",
+  "etiket": "Cruzeiro EC 4,5 Üst",
+  "olasilik": 0.5388,
+  "oran": 1.39,
+  "deger": -0.2510680000000002
+ },
+ {
+  "secim": "Sarı Kartlar : SE Palmeiras : Toplam 2,5 Üst",
+  "pazar": "Sarı Kartlar : SE Palmeiras : Toplam",
+  "etiket": "SE Palmeiras 2,5 Üst",
+  "olasilik": 0.4108,
+  "oran": 1.81,
+  "deger": -0.256452
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 0,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.1703,
+  "oran": 4.3,
+  "deger": -0.26771
+ },
+ {
+  "secim": "İkinci Yarıda Gol Hayır",
+  "pazar": "İkinci Yarıda Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.1703,
+  "oran": 4.3,
+  "deger": -0.26771
+ },
+ {
+  "secim": "Sarı Kartlar 2",
+  "pazar": "Sarı Kartlar : Sonuç",
+  "etiket": "2 (SE Palmeiras)",
+  "olasilik": 0.3572,
+  "oran": 2.04,
+  "deger": -0.271312
+ },
+ {
+  "secim": "SE Palmeiras : Toplam Gol 3,5 Üst",
+  "pazar": "SE Palmeiras : Toplam Gol",
+  "etiket": "SE Palmeiras 3,5 Üst",
+  "olasilik": 0.0797,
+  "oran": 8.8,
+  "deger": -0.29864
+ },
+ {
+  "secim": "Cruzeiro EC : Toplam Gol 3,5 Üst",
+  "pazar": "Cruzeiro EC : Toplam Gol",
+  "etiket": "Cruzeiro EC 3,5 Üst",
+  "olasilik": 0.0701,
+  "oran": 9.65,
+  "deger": -0.323535
+ },
+ {
+  "secim": "Toplam Korner : Cruzeiro EC 5,5 Üst",
+  "pazar": "Toplam Korner : Cruzeiro EC",
+  "etiket": "Cruzeiro EC 5,5 Üst",
+  "olasilik": 0.3654,
+  "oran": 1.8,
+  "deger": -0.34228000000000003
+ },
+ {
+  "secim": "Kornerler : Toplam 7,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 7,5 Alt",
+  "olasilik": 0.1144,
+  "oran": 5.1,
+  "deger": -0.41656000000000004
+ },
+ {
+  "secim": "Toplam Korner : SE Palmeiras 4,5 Alt",
+  "pazar": "Toplam Korner : SE Palmeiras",
+  "etiket": "SE Palmeiras 4,5 Alt",
+  "olasilik": 0.2144,
+  "oran": 2.68,
+  "deger": -0.4254079999999999
+ },
+ {
+  "secim": "Toplam Korner : Cruzeiro EC 6,5 Üst",
+  "pazar": "Toplam Korner : Cruzeiro EC",
+  "etiket": "Cruzeiro EC 6,5 Üst",
+  "olasilik": 0.2218,
+  "oran": 2.52,
+  "deger": -0.441064
+ },
+ {
+  "secim": "Toplam Goller 0,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.043,
+  "oran": 12.9,
+  "deger": -0.44530000000000003
+ },
+ {
+  "secim": "Kornerler 1",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "1 (Cruzeiro EC)",
+  "olasilik": 0.2572,
+  "oran": 1.97,
+  "deger": -0.4933160000000001
+ }
+]

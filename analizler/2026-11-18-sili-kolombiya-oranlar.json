@@ -1,0 +1,730 @@
+[
+ {
+  "secim": "Kornerler 2",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "2 (Kolombiya)",
+  "olasilik": 0.6062,
+  "oran": 1.67,
+  "deger": 0.012353999999999976
+ },
+ {
+  "secim": "Toplam Korner : Kolombiya 4,5 Üst",
+  "pazar": "Toplam Korner : Kolombiya",
+  "etiket": "Kolombiya 4,5 Üst",
+  "olasilik": 0.5579,
+  "oran": 1.78,
+  "deger": -0.006938000000000111
+ },
+ {
+  "secim": "1",
+  "pazar": "Maç Sonucu",
+  "etiket": "1 (Şili)",
+  "olasilik": 0.2576,
+  "oran": 3.85,
+  "deger": -0.008240000000000025
+ },
+ {
+  "secim": "Kolombiya İlk Yarıda Gol Atar Hayır",
+  "pazar": "Kolombiya İlk Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.5669,
+  "oran": 1.73,
+  "deger": -0.01926300000000003
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 2,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.9265,
+  "oran": 1.055,
+  "deger": -0.02254250000000002
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 1,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.751,
+  "oran": 1.3,
+  "deger": -0.023699999999999943
+ },
+ {
+  "secim": "Toplam Goller 4,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 4,5 Alt",
+  "olasilik": 0.9235,
+  "oran": 1.055,
+  "deger": -0.025707500000000105
+ },
+ {
+  "secim": "1. Yarı Karşılıklı Gol Hayır",
+  "pazar": "1. Yarı Karşılıklı Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.8601,
+  "oran": 1.13,
+  "deger": -0.028087000000000084
+ },
+ {
+  "secim": "Kolombiya : Toplam Gol 2,5 Alt",
+  "pazar": "Kolombiya : Toplam Gol",
+  "etiket": "Kolombiya 2,5 Alt",
+  "olasilik": 0.8509,
+  "oran": 1.14,
+  "deger": -0.029974000000000056
+ },
+ {
+  "secim": "Çifte Şans 12",
+  "pazar": "Çifte Şans",
+  "etiket": "12",
+  "olasilik": 0.7214,
+  "oran": 1.34,
+  "deger": -0.03332399999999991
+ },
+ {
+  "secim": "Toplam Goller 3,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 3,5 Alt",
+  "olasilik": 0.8117,
+  "oran": 1.19,
+  "deger": -0.034077000000000024
+ },
+ {
+  "secim": "Her İki Takımda Gol Atar Hayır",
+  "pazar": "Her İki Takımda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.5606,
+  "oran": 1.72,
+  "deger": -0.03576800000000002
+ },
+ {
+  "secim": "Toplam Korner : Şili 3,5 Alt",
+  "pazar": "Toplam Korner : Şili",
+  "etiket": "Şili 3,5 Alt",
+  "olasilik": 0.497,
+  "oran": 1.94,
+  "deger": -0.035820000000000074
+ },
+ {
+  "secim": "Kolombiya : Toplam Gol 1,5 Alt",
+  "pazar": "Kolombiya : Toplam Gol",
+  "etiket": "Kolombiya 1,5 Alt",
+  "olasilik": 0.618,
+  "oran": 1.55,
+  "deger": -0.042100000000000026
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 2,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.8625,
+  "oran": 1.11,
+  "deger": -0.04262499999999991
+ },
+ {
+  "secim": "Toplam Goller 0,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.8942,
+  "oran": 1.07,
+  "deger": -0.04320599999999997
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 0,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.3813,
+  "oran": 2.5,
+  "deger": -0.04675000000000007
+ },
+ {
+  "secim": "İlk Yarıda Gol Hayır",
+  "pazar": "İlk Yarıda Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.3813,
+  "oran": 2.5,
+  "deger": -0.04675000000000007
+ },
+ {
+  "secim": "En gollü yarı 2. Yarı",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "2. Yarı",
+  "olasilik": 0.4369,
+  "oran": 2.18,
+  "deger": -0.04755799999999988
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 0,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.7208,
+  "oran": 1.32,
+  "deger": -0.04854399999999992
+ },
+ {
+  "secim": "İkinci Yarıda Gol Evet",
+  "pazar": "İkinci Yarıda Gol",
+  "etiket": "Evet",
+  "olasilik": 0.7208,
+  "oran": 1.32,
+  "deger": -0.04854399999999992
+ },
+ {
+  "secim": "2. Yarı Karşılıklı Gol Hayır",
+  "pazar": "2. Yarı Karşılıklı Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.7848,
+  "oran": 1.21,
+  "deger": -0.05039199999999999
+ },
+ {
+  "secim": "Toplam Goller 2,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.6121,
+  "oran": 1.55,
+  "deger": -0.051244999999999985
+ },
+ {
+  "secim": "Her İki Yarıda Gol Olur Hayır",
+  "pazar": "Her İki Yarıda Gol Olur",
+  "etiket": "Hayır",
+  "olasilik": 0.5547,
+  "oran": 1.71,
+  "deger": -0.051463000000000036
+ },
+ {
+  "secim": "Şili : Toplam Gol 1,5 Alt",
+  "pazar": "Şili : Toplam Gol",
+  "etiket": "Şili 1,5 Alt",
+  "olasilik": 0.7685,
+  "oran": 1.23,
+  "deger": -0.054745000000000044
+ },
+ {
+  "secim": "Kornerler : Toplam 8,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 8,5 Üst",
+  "olasilik": 0.5027,
+  "oran": 1.88,
+  "deger": -0.05492399999999997
+ },
+ {
+  "secim": "Şili : İlk Yarıda Gol Atar Hayır",
+  "pazar": "Şili : İlk Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.6745,
+  "oran": 1.4,
+  "deger": -0.05570000000000008
+ },
+ {
+  "secim": "Kolombiya Gol Yemeden Kazanır Hayır",
+  "pazar": "Kolombiya Gol Yemeden Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.7044,
+  "oran": 1.34,
+  "deger": -0.05610399999999993
+ },
+ {
+  "secim": "Şili Gol Yemeden Kazanır Hayır",
+  "pazar": "Şili Gol Yemeden Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.8408,
+  "oran": 1.12,
+  "deger": -0.05830399999999991
+ },
+ {
+  "secim": "Kolombiya İkinci Yarıda Gol Atar Evet",
+  "pazar": "Kolombiya İkinci Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.5314,
+  "oran": 1.77,
+  "deger": -0.059421999999999975
+ },
+ {
+  "secim": "1. Yarı X",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "X",
+  "olasilik": 0.4708,
+  "oran": 1.99,
+  "deger": -0.06310800000000005
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 1,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.6348,
+  "oran": 1.47,
+  "deger": -0.06684400000000001
+ },
+ {
+  "secim": "Toplam gol Tek",
+  "pazar": "Toplam Gol Tek/Çift",
+  "etiket": "Tek",
+  "olasilik": 0.4952,
+  "oran": 1.88,
+  "deger": -0.06902400000000009
+ },
+ {
+  "secim": "Şili En Az Bir Yarıyı Kazanır Hayır",
+  "pazar": "Şili En Az Bir Yarıyı Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.6155,
+  "oran": 1.51,
+  "deger": -0.07059499999999996
+ },
+ {
+  "secim": "Toplam Goller 1,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.6542,
+  "oran": 1.42,
+  "deger": -0.07103599999999999
+ },
+ {
+  "secim": "Şili : İkinci Yarıda Gol Atar Hayır",
+  "pazar": "Şili : İkinci Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.5954,
+  "oran": 1.56,
+  "deger": -0.0711759999999999
+ },
+ {
+  "secim": "Şili : Toplam Gol 0,5 Üst",
+  "pazar": "Şili : Toplam Gol",
+  "etiket": "Şili 0,5 Üst",
+  "olasilik": 0.5986,
+  "oran": 1.55,
+  "deger": -0.07216999999999996
+ },
+ {
+  "secim": "Şili : Gol Atar Evet",
+  "pazar": "Şili : Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.5986,
+  "oran": 1.55,
+  "deger": -0.07216999999999996
+ },
+ {
+  "secim": "Çifte Şans 1X",
+  "pazar": "Çifte Şans",
+  "etiket": "1X",
+  "olasilik": 0.5362,
+  "oran": 1.73,
+  "deger": -0.07237399999999994
+ },
+ {
+  "secim": "Kolombiya : Toplam Gol 0,5 Üst",
+  "pazar": "Kolombiya : Toplam Gol",
+  "etiket": "Kolombiya 0,5 Üst",
+  "olasilik": 0.735,
+  "oran": 1.26,
+  "deger": -0.07389999999999997
+ },
+ {
+  "secim": "Kolombiya : Gol Atar Evet",
+  "pazar": "Kolombiya : Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.735,
+  "oran": 1.26,
+  "deger": -0.07389999999999997
+ },
+ {
+  "secim": "Şili : Toplam Gol 0,5 Alt",
+  "pazar": "Şili : Toplam Gol",
+  "etiket": "Şili 0,5 Alt",
+  "olasilik": 0.4014,
+  "oran": 2.3,
+  "deger": -0.07678000000000007
+ },
+ {
+  "secim": "Şili : Gol Atar Hayır",
+  "pazar": "Şili : Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.4014,
+  "oran": 2.3,
+  "deger": -0.07678000000000007
+ },
+ {
+  "secim": "Çifte Şans X2",
+  "pazar": "Çifte Şans",
+  "etiket": "X2",
+  "olasilik": 0.7424,
+  "oran": 1.24,
+  "deger": -0.07942400000000005
+ },
+ {
+  "secim": "Kolombiya : Toplam Gol 0,5 Alt",
+  "pazar": "Kolombiya : Toplam Gol",
+  "etiket": "Kolombiya 0,5 Alt",
+  "olasilik": 0.265,
+  "oran": 3.47,
+  "deger": -0.08044999999999991
+ },
+ {
+  "secim": "Kolombiya : Gol Atar Hayır",
+  "pazar": "Kolombiya : Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.265,
+  "oran": 3.47,
+  "deger": -0.08044999999999991
+ },
+ {
+  "secim": "Şili En Az Bir Yarıyı Kazanır Evet",
+  "pazar": "Şili En Az Bir Yarıyı Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.3846,
+  "oran": 2.39,
+  "deger": -0.08080599999999993
+ },
+ {
+  "secim": "Toplam gol Çift",
+  "pazar": "Toplam Gol Tek/Çift",
+  "etiket": "Çift",
+  "olasilik": 0.5048,
+  "oran": 1.82,
+  "deger": -0.08126399999999989
+ },
+ {
+  "secim": "Şili : İkinci Yarıda Gol Atar Evet",
+  "pazar": "Şili : İkinci Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.4046,
+  "oran": 2.27,
+  "deger": -0.08155799999999991
+ },
+ {
+  "secim": "İlk gol Şili",
+  "pazar": "İlk Golü Atacak Takım",
+  "etiket": "Şili",
+  "olasilik": 0.3666,
+  "oran": 2.5,
+  "deger": -0.08350000000000002
+ },
+ {
+  "secim": "Toplam Goller 1,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.3458,
+  "oran": 2.65,
+  "deger": -0.0836300000000001
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 1,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.3652,
+  "oran": 2.5,
+  "deger": -0.08699999999999997
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 0,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.6187,
+  "oran": 1.47,
+  "deger": -0.09051100000000001
+ },
+ {
+  "secim": "İlk Yarıda Gol Evet",
+  "pazar": "İlk Yarıda Gol",
+  "etiket": "Evet",
+  "olasilik": 0.6187,
+  "oran": 1.47,
+  "deger": -0.09051100000000001
+ },
+ {
+  "secim": "Kornerler : Toplam 8,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 8,5 Alt",
+  "olasilik": 0.4973,
+  "oran": 1.82,
+  "deger": -0.09491399999999994
+ },
+ {
+  "secim": "2",
+  "pazar": "Maç Sonucu",
+  "etiket": "2 (Kolombiya)",
+  "olasilik": 0.4638,
+  "oran": 1.95,
+  "deger": -0.09559000000000006
+ },
+ {
+  "secim": "Kolombiya İkinci Yarıda Gol Atar Hayır",
+  "pazar": "Kolombiya İkinci Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.4686,
+  "oran": 1.93,
+  "deger": -0.09560199999999996
+ },
+ {
+  "secim": "2. Yarı 2",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "2 (Kolombiya)",
+  "olasilik": 0.3749,
+  "oran": 2.41,
+  "deger": -0.09649099999999988
+ },
+ {
+  "secim": "Her İki Yarıda Gol Olur Evet",
+  "pazar": "Her İki Yarıda Gol Olur",
+  "etiket": "Evet",
+  "olasilik": 0.4453,
+  "oran": 2.01,
+  "deger": -0.10494700000000012
+ },
+ {
+  "secim": "Toplam Goller 2,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.3879,
+  "oran": 2.3,
+  "deger": -0.10782999999999998
+ },
+ {
+  "secim": "2. Yarı X",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "X",
+  "olasilik": 0.4,
+  "oran": 2.23,
+  "deger": -0.10799999999999998
+ },
+ {
+  "secim": "En gollü yarı Eşit",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "Eşit",
+  "olasilik": 0.2823,
+  "oran": 3.15,
+  "deger": -0.11075500000000005
+ },
+ {
+  "secim": "Kolombiya Gol Yemeden Kazanır Evet",
+  "pazar": "Kolombiya Gol Yemeden Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.2956,
+  "oran": 3.0,
+  "deger": -0.11320000000000008
+ },
+ {
+  "secim": "İlk gol Kolombiya",
+  "pazar": "İlk Golü Atacak Takım",
+  "etiket": "Kolombiya",
+  "olasilik": 0.5276,
+  "oran": 1.68,
+  "deger": -0.11363200000000007
+ },
+ {
+  "secim": "Toplam Korner : Şili 3,5 Üst",
+  "pazar": "Toplam Korner : Şili",
+  "etiket": "Şili 3,5 Üst",
+  "olasilik": 0.503,
+  "oran": 1.76,
+  "deger": -0.11472000000000004
+ },
+ {
+  "secim": "Şili : İlk Yarıda Gol Atar Evet",
+  "pazar": "Şili : İlk Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.3255,
+  "oran": 2.7,
+  "deger": -0.12114999999999987
+ },
+ {
+  "secim": "Her İki Takımda Gol Atar Evet",
+  "pazar": "Her İki Takımda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.4394,
+  "oran": 2.0,
+  "deger": -0.12119999999999997
+ },
+ {
+  "secim": "Kolombiya : Toplam Gol 1,5 Üst",
+  "pazar": "Kolombiya : Toplam Gol",
+  "etiket": "Kolombiya 1,5 Üst",
+  "olasilik": 0.382,
+  "oran": 2.3,
+  "deger": -0.12140000000000006
+ },
+ {
+  "secim": "2. Yarı 1",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "1 (Şili)",
+  "olasilik": 0.2251,
+  "oran": 3.9,
+  "deger": -0.12211000000000005
+ },
+ {
+  "secim": "Şili : Toplam Gol 1,5 Üst",
+  "pazar": "Şili : Toplam Gol",
+  "etiket": "Şili 1,5 Üst",
+  "olasilik": 0.2315,
+  "oran": 3.75,
+  "deger": -0.13187499999999996
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 0,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.2792,
+  "oran": 3.1,
+  "deger": -0.13447999999999993
+ },
+ {
+  "secim": "İkinci Yarıda Gol Hayır",
+  "pazar": "İkinci Yarıda Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.2792,
+  "oran": 3.1,
+  "deger": -0.13447999999999993
+ },
+ {
+  "secim": "Kolombiya İlk Yarıda Gol Atar Evet",
+  "pazar": "Kolombiya İlk Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.4331,
+  "oran": 1.97,
+  "deger": -0.14679300000000006
+ },
+ {
+  "secim": "X",
+  "pazar": "Maç Sonucu",
+  "etiket": "X",
+  "olasilik": 0.2786,
+  "oran": 3.06,
+  "deger": -0.14748399999999995
+ },
+ {
+  "secim": "1. Yarı 1",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "1 (Şili)",
+  "olasilik": 0.2054,
+  "oran": 4.15,
+  "deger": -0.1475899999999999
+ },
+ {
+  "secim": "Şili Gol Yemeden Kazanır Evet",
+  "pazar": "Şili Gol Yemeden Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.1592,
+  "oran": 5.35,
+  "deger": -0.14827999999999997
+ },
+ {
+  "secim": "Toplam Korner : Kolombiya 4,5 Alt",
+  "pazar": "Toplam Korner : Kolombiya",
+  "etiket": "Kolombiya 4,5 Alt",
+  "olasilik": 0.4421,
+  "oran": 1.92,
+  "deger": -0.15116800000000008
+ },
+ {
+  "secim": "En gollü yarı 1. Yarı",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "1. Yarı",
+  "olasilik": 0.2809,
+  "oran": 3.0,
+  "deger": -0.1573
+ },
+ {
+  "secim": "2. Yarı Karşılıklı Gol Evet",
+  "pazar": "2. Yarı Karşılıklı Gol",
+  "etiket": "Evet",
+  "olasilik": 0.2152,
+  "oran": 3.9,
+  "deger": -0.16071999999999997
+ },
+ {
+  "secim": "1. Yarı 2",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "2 (Kolombiya)",
+  "olasilik": 0.3238,
+  "oran": 2.59,
+  "deger": -0.1613580000000001
+ },
+ {
+  "secim": "Kornerler X",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "X",
+  "olasilik": 0.1241,
+  "oran": 6.5,
+  "deger": -0.19335000000000002
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 1,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.249,
+  "oran": 3.2,
+  "deger": -0.20319999999999994
+ },
+ {
+  "secim": "Toplam Goller 3,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 3,5 Üst",
+  "olasilik": 0.1883,
+  "oran": 4.15,
+  "deger": -0.21855499999999994
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 2,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.1375,
+  "oran": 5.55,
+  "deger": -0.23687499999999995
+ },
+ {
+  "secim": "Kornerler 1",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "1 (Şili)",
+  "olasilik": 0.2697,
+  "oran": 2.74,
+  "deger": -0.261022
+ },
+ {
+  "secim": "Kolombiya : Toplam Gol 2,5 Üst",
+  "pazar": "Kolombiya : Toplam Gol",
+  "etiket": "Kolombiya 2,5 Üst",
+  "olasilik": 0.1491,
+  "oran": 4.9,
+  "deger": -0.2694099999999999
+ },
+ {
+  "secim": "Toplam Goller 0,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.1058,
+  "oran": 6.9,
+  "deger": -0.2699799999999999
+ },
+ {
+  "secim": "1. Yarı Karşılıklı Gol Evet",
+  "pazar": "1. Yarı Karşılıklı Gol",
+  "etiket": "Evet",
+  "olasilik": 0.1399,
+  "oran": 5.1,
+  "deger": -0.28651000000000004
+ },
+ {
+  "secim": "Jhon Arias gol atar",
+  "pazar": "Herhangi Bir Zamanda Gol Atar",
+  "etiket": "Jhon Arias",
+  "olasilik": 0.153,
+  "oran": 4.3,
+  "deger": -0.34210000000000007
+ },
+ {
+  "secim": "Toplam Goller 4,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 4,5 Üst",
+  "olasilik": 0.0765,
+  "oran": 7.5,
+  "deger": -0.42625
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 2,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.0735,
+  "oran": 7.5,
+  "deger": -0.44875
+ }
+]

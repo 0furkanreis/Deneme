@@ -1,0 +1,30 @@
+{
+ "organizasyon": "Brezilya Serie A, 35. hafta",
+ "tarih": "19 Kasım 2026, 02:30 TSİ",
+ "stadyum": "Mineirão, Belo Horizonte",
+ "hakem": "Anderson Daronco (47 maç: 4,7 sarı, lig 4,79; 9 kırmızı; 13 penaltı)",
+ "ilk_yari_gol_payi": 0.44,
+ "korner_guven": "orta",
+ "kart_guven": "orta",
+ "var_ort": 0.35,
+ "not": "Korner: Cruzeiro 5,6 kazanır/7,0 verir; Palmeiras 7,2/3,6 (FotMob son 5). Kart: Cruzeiro 2,8 (Pal rakipleri 3,6), Palmeiras 2,6 (Cru rakipleri 2,2). Goller piyasadan.",
+ "ev": {
+  "ad": "Cruzeiro EC",
+  "beklenen_gol": 1.534,
+  "korner": 4.9,
+  "sari_kart": 2.6,
+  "penalti_kazanma": 0.13,
+  "direkt_kirmizi": 0.05,
+  "model_beklenen_gol": 1.3
+ },
+ "dep": {
+  "ad": "SE Palmeiras",
+  "beklenen_gol": 1.599,
+  "korner": 6.6,
+  "sari_kart": 2.3,
+  "penalti_kazanma": 0.13,
+  "direkt_kirmizi": 0.05,
+  "model_beklenen_gol": 1.3
+ },
+ "kalibrasyon": "Beklenen goller site oranlarından (takım gol çizgilerinin ortalaması)"
+}

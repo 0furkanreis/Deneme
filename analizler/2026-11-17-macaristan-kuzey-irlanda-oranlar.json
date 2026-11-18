@@ -1,0 +1,922 @@
+[
+ {
+  "secim": "Toplam Goller 1,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.4233,
+  "oran": 2.76,
+  "deger": 0.1683079999999999
+ },
+ {
+  "secim": "Her İki Takımda Gol Atar Hayır",
+  "pazar": "Her İki Takımda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.6388,
+  "oran": 1.75,
+  "deger": 0.11790000000000012
+ },
+ {
+  "secim": "Toplam Goller 2,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.6965,
+  "oran": 1.59,
+  "deger": 0.10743500000000017
+ },
+ {
+  "secim": "Toplam Goller 0,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.1463,
+  "oran": 7.5,
+  "deger": 0.09725000000000006
+ },
+ {
+  "secim": "Kuzey İrlanda : Toplam Gol 0,5 Alt",
+  "pazar": "Kuzey İrlanda : Toplam Gol",
+  "etiket": "Kuzey İrlanda 0,5 Alt",
+  "olasilik": 0.4851,
+  "oran": 2.23,
+  "deger": 0.08177299999999987
+ },
+ {
+  "secim": "Kuzey İrlanda : Gol Atar Hayır",
+  "pazar": "Kuzey İrlanda : Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.4851,
+  "oran": 2.23,
+  "deger": 0.08177299999999987
+ },
+ {
+  "secim": "Her İki Yarıda Gol Olur Hayır",
+  "pazar": "Her İki Yarıda Gol Olur",
+  "etiket": "Hayır",
+  "olasilik": 0.6237,
+  "oran": 1.69,
+  "deger": 0.05405300000000013
+ },
+ {
+  "secim": "Toplam Goller 3,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 3,5 Alt",
+  "olasilik": 0.8703,
+  "oran": 1.21,
+  "deger": 0.05306299999999986
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 0,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.3331,
+  "oran": 3.15,
+  "deger": 0.04926499999999989
+ },
+ {
+  "secim": "İkinci Yarıda Gol Hayır",
+  "pazar": "İkinci Yarıda Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.3331,
+  "oran": 3.15,
+  "deger": 0.04926499999999989
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 0,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Alt",
+  "olasilik": 0.4369,
+  "oran": 2.39,
+  "deger": 0.04419100000000009
+ },
+ {
+  "secim": "İlk Yarıda Gol Hayır",
+  "pazar": "İlk Yarıda Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.4369,
+  "oran": 2.39,
+  "deger": 0.04419100000000009
+ },
+ {
+  "secim": "Dominik Szoboszlai gol atar",
+  "pazar": "Herhangi Bir Zamanda Gol Atar",
+  "etiket": "Dominik Szoboszlai",
+  "olasilik": 0.2483,
+  "oran": 4.2,
+  "deger": 0.04286000000000012
+ },
+ {
+  "secim": "Toplam Korner : Kuzey İrlanda 3,5 Üst",
+  "pazar": "Toplam Korner : Kuzey İrlanda",
+  "etiket": "Kuzey İrlanda 3,5 Üst",
+  "olasilik": 0.4853,
+  "oran": 2.13,
+  "deger": 0.03368899999999986
+ },
+ {
+  "secim": "Kuzey İrlanda İkinci Yarıda Gol Atar Hayır",
+  "pazar": "Kuzey İrlanda İkinci Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.6625,
+  "oran": 1.56,
+  "deger": 0.033500000000000085
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 1,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.6979,
+  "oran": 1.48,
+  "deger": 0.03289199999999992
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 1,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Alt",
+  "olasilik": 0.7992,
+  "oran": 1.28,
+  "deger": 0.022976000000000107
+ },
+ {
+  "secim": "Toplam Korner : Kuzey İrlanda 4,5 Üst",
+  "pazar": "Toplam Korner : Kuzey İrlanda",
+  "etiket": "Kuzey İrlanda 4,5 Üst",
+  "olasilik": 0.2945,
+  "oran": 3.47,
+  "deger": 0.021914999999999907
+ },
+ {
+  "secim": "Kuzey İrlanda : Toplam Gol 1,5 Alt",
+  "pazar": "Kuzey İrlanda : Toplam Gol",
+  "etiket": "Kuzey İrlanda 1,5 Alt",
+  "olasilik": 0.8364,
+  "oran": 1.22,
+  "deger": 0.02040799999999998
+ },
+ {
+  "secim": "Macaristan : Toplam Gol 0,5 Alt",
+  "pazar": "Macaristan : Toplam Gol",
+  "etiket": "Macaristan 0,5 Alt",
+  "olasilik": 0.2999,
+  "oran": 3.4,
+  "deger": 0.01966000000000001
+ },
+ {
+  "secim": "Macaristan : Gol Atar Hayır",
+  "pazar": "Macaristan : Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.2999,
+  "oran": 3.4,
+  "deger": 0.01966000000000001
+ },
+ {
+  "secim": "Kuzey İrlanda İlk Yarıda Gol Atar Hayır",
+  "pazar": "Kuzey İrlanda İlk Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.7329,
+  "oran": 1.39,
+  "deger": 0.01873099999999983
+ },
+ {
+  "secim": "Toplam Korner : Kuzey İrlanda 2,5 Üst",
+  "pazar": "Toplam Korner : Kuzey İrlanda",
+  "etiket": "Kuzey İrlanda 2,5 Üst",
+  "olasilik": 0.6975,
+  "oran": 1.46,
+  "deger": 0.01835000000000009
+ },
+ {
+  "secim": "Macaristan : Toplam Gol 1,5 Alt",
+  "pazar": "Macaristan : Toplam Gol",
+  "etiket": "Macaristan 1,5 Alt",
+  "olasilik": 0.6596,
+  "oran": 1.54,
+  "deger": 0.01578400000000002
+ },
+ {
+  "secim": "1. Yarı X",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "X",
+  "olasilik": 0.5095,
+  "oran": 1.99,
+  "deger": 0.013904999999999834
+ },
+ {
+  "secim": "Toplam Goller 4,5 Alt",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 4,5 Alt",
+  "olasilik": 0.9541,
+  "oran": 1.06,
+  "deger": 0.011346000000000078
+ },
+ {
+  "secim": "Macaristan : İlk Yarıda Gol Atar Hayır",
+  "pazar": "Macaristan : İlk Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.5971,
+  "oran": 1.69,
+  "deger": 0.009098999999999968
+ },
+ {
+  "secim": "2. Yarı Karşılıklı Gol Hayır",
+  "pazar": "2. Yarı Karşılıklı Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.8308,
+  "oran": 1.21,
+  "deger": 0.00526800000000005
+ },
+ {
+  "secim": "2. Yarı X",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "X",
+  "olasilik": 0.4352,
+  "oran": 2.3,
+  "deger": 0.0009599999999998499
+ },
+ {
+  "secim": "1. Yarı Karşılıklı Gol Hayır",
+  "pazar": "1. Yarı Karşılıklı Gol",
+  "etiket": "Hayır",
+  "olasilik": 0.893,
+  "oran": 1.12,
+  "deger": 0.00016000000000016001
+ },
+ {
+  "secim": "En gollü yarı Eşit",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "Eşit",
+  "olasilik": 0.3143,
+  "oran": 3.18,
+  "deger": -0.0005259999999999154
+ },
+ {
+  "secim": "Macaristan Gol Yemeden Kazanır Evet",
+  "pazar": "Macaristan Gol Yemeden Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.3388,
+  "oran": 2.95,
+  "deger": -0.0005399999999999849
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 2,5 Alt",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.9003,
+  "oran": 1.11,
+  "deger": -0.0006669999999999732
+ },
+ {
+  "secim": "X",
+  "pazar": "Maç Sonucu",
+  "etiket": "X",
+  "olasilik": 0.3043,
+  "oran": 3.28,
+  "deger": -0.0018960000000000088
+ },
+ {
+  "secim": "Kuzey İrlanda : Toplam Gol 2,5 Alt",
+  "pazar": "Kuzey İrlanda : Toplam Gol",
+  "etiket": "Kuzey İrlanda 2,5 Alt",
+  "olasilik": 0.9626,
+  "oran": 1.035,
+  "deger": -0.0037090000000000733
+ },
+ {
+  "secim": "Macaristan : Toplam Gol 2,5 Alt",
+  "pazar": "Macaristan : Toplam Gol",
+  "etiket": "Macaristan 2,5 Alt",
+  "olasilik": 0.8793,
+  "oran": 1.13,
+  "deger": -0.0063910000000001466
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 2,5 Alt",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Alt",
+  "olasilik": 0.9485,
+  "oran": 1.045,
+  "deger": -0.008817500000000034
+ },
+ {
+  "secim": "Macaristan : Toplam Gol 3,5 Alt",
+  "pazar": "Macaristan : Toplam Gol",
+  "etiket": "Macaristan 3,5 Alt",
+  "olasilik": 0.9664,
+  "oran": 1.025,
+  "deger": -0.009440000000000004
+ },
+ {
+  "secim": "Macaristan : İkinci Yarıda Gol Atar Hayır",
+  "pazar": "Macaristan : İkinci Yarıda Gol Atar",
+  "etiket": "Hayır",
+  "olasilik": 0.5013,
+  "oran": 1.97,
+  "deger": -0.012439000000000089
+ },
+ {
+  "secim": "Çifte Şans 1X",
+  "pazar": "Çifte Şans",
+  "etiket": "1X",
+  "olasilik": 0.7794,
+  "oran": 1.26,
+  "deger": -0.017955999999999972
+ },
+ {
+  "secim": "Sarı Kartlar : Toplam 4,5 Alt",
+  "pazar": "Sarı Kartlar : Toplam",
+  "etiket": "Toplam 4,5 Alt",
+  "olasilik": 0.5604,
+  "oran": 1.75,
+  "deger": -0.019299999999999984
+ },
+ {
+  "secim": "Beraberlikte İade Macaristan",
+  "pazar": "Beraberlikte İade",
+  "etiket": "Macaristan",
+  "olasilik": 0.6829,
+  "oran": 1.43,
+  "deger": -0.023453000000000057
+ },
+ {
+  "secim": "Kornerler 1",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "1 (Macaristan)",
+  "olasilik": 0.6663,
+  "oran": 1.46,
+  "deger": -0.02720200000000006
+ },
+ {
+  "secim": "Toplam Korner : Macaristan 6,5 Alt",
+  "pazar": "Toplam Korner : Macaristan",
+  "etiket": "Macaristan 6,5 Alt",
+  "olasilik": 0.7048,
+  "oran": 1.38,
+  "deger": -0.027376000000000067
+ },
+ {
+  "secim": "Kornerler : Toplam 7,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 7,5 Üst",
+  "olasilik": 0.674,
+  "oran": 1.44,
+  "deger": -0.02944000000000002
+ },
+ {
+  "secim": "1",
+  "pazar": "Maç Sonucu",
+  "etiket": "1 (Macaristan)",
+  "olasilik": 0.4751,
+  "oran": 2.04,
+  "deger": -0.030795999999999935
+ },
+ {
+  "secim": "Toplam Korner : Macaristan 5,5 Alt",
+  "pazar": "Toplam Korner : Macaristan",
+  "etiket": "Macaristan 5,5 Alt",
+  "olasilik": 0.5494,
+  "oran": 1.75,
+  "deger": -0.03854999999999997
+ },
+ {
+  "secim": "Kornerler : Toplam 9,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 9,5 Üst",
+  "olasilik": 0.411,
+  "oran": 2.33,
+  "deger": -0.04237000000000002
+ },
+ {
+  "secim": "Kornerler : Toplam 8,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 8,5 Üst",
+  "olasilik": 0.5409,
+  "oran": 1.77,
+  "deger": -0.04260699999999995
+ },
+ {
+  "secim": "Çifte Şans 12",
+  "pazar": "Çifte Şans",
+  "etiket": "12",
+  "olasilik": 0.6957,
+  "oran": 1.37,
+  "deger": -0.046890999999999905
+ },
+ {
+  "secim": "Kuzey İrlanda Gol Yemeden Kazanır Hayır",
+  "pazar": "Kuzey İrlanda Gol Yemeden Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.8464,
+  "oran": 1.12,
+  "deger": -0.052031999999999856
+ },
+ {
+  "secim": "Macaristan En Az Bir Yarıyı Kazanır Hayır",
+  "pazar": "Macaristan En Az Bir Yarıyı Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.4278,
+  "oran": 2.2,
+  "deger": -0.05883999999999989
+ },
+ {
+  "secim": "Toplam Korner : Macaristan 4,5 Alt",
+  "pazar": "Toplam Korner : Macaristan",
+  "etiket": "Macaristan 4,5 Alt",
+  "olasilik": 0.3763,
+  "oran": 2.5,
+  "deger": -0.059249999999999914
+ },
+ {
+  "secim": "Toplam Goller 0,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.8537,
+  "oran": 1.1,
+  "deger": -0.06092999999999993
+ },
+ {
+  "secim": "Çifte Şans X2",
+  "pazar": "Çifte Şans",
+  "etiket": "X2",
+  "olasilik": 0.5249,
+  "oran": 1.78,
+  "deger": -0.0656779999999999
+ },
+ {
+  "secim": "2",
+  "pazar": "Maç Sonucu",
+  "etiket": "2 (Kuzey İrlanda)",
+  "olasilik": 0.2206,
+  "oran": 4.2,
+  "deger": -0.07347999999999999
+ },
+ {
+  "secim": "Beraberlikte İade Kuzey İrlanda",
+  "pazar": "Beraberlikte İade",
+  "etiket": "Kuzey İrlanda",
+  "olasilik": 0.3171,
+  "oran": 2.92,
+  "deger": -0.07406800000000002
+ },
+ {
+  "secim": "Kornerler : Toplam 10,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 10,5 Alt",
+  "olasilik": 0.7068,
+  "oran": 1.31,
+  "deger": -0.07409199999999994
+ },
+ {
+  "secim": "Toplam gol Çift",
+  "pazar": "Toplam Gol Tek/Çift",
+  "etiket": "Çift",
+  "olasilik": 0.5139,
+  "oran": 1.8,
+  "deger": -0.07497999999999994
+ },
+ {
+  "secim": "Toplam gol Tek",
+  "pazar": "Toplam Gol Tek/Çift",
+  "etiket": "Tek",
+  "olasilik": 0.4861,
+  "oran": 1.9,
+  "deger": -0.07641000000000009
+ },
+ {
+  "secim": "Kornerler : Toplam 10,5 Üst",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 10,5 Üst",
+  "olasilik": 0.2932,
+  "oran": 3.15,
+  "deger": -0.07641999999999993
+ },
+ {
+  "secim": "Toplam Korner : Macaristan 4,5 Üst",
+  "pazar": "Toplam Korner : Macaristan",
+  "etiket": "Macaristan 4,5 Üst",
+  "olasilik": 0.6237,
+  "oran": 1.47,
+  "deger": -0.08316099999999993
+ },
+ {
+  "secim": "Macaristan En Az Bir Yarıyı Kazanır Evet",
+  "pazar": "Macaristan En Az Bir Yarıyı Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.5722,
+  "oran": 1.6,
+  "deger": -0.08447999999999989
+ },
+ {
+  "secim": "Kornerler : Toplam 9,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 9,5 Alt",
+  "olasilik": 0.589,
+  "oran": 1.54,
+  "deger": -0.09294000000000002
+ },
+ {
+  "secim": "İlk gol Macaristan",
+  "pazar": "İlk Golü Atacak Takım",
+  "etiket": "Macaristan",
+  "olasilik": 0.5325,
+  "oran": 1.7,
+  "deger": -0.09475000000000011
+ },
+ {
+  "secim": "Macaristan Gol Yemeden Kazanır Hayır",
+  "pazar": "Macaristan Gol Yemeden Kazanır",
+  "etiket": "Hayır",
+  "olasilik": 0.6612,
+  "oran": 1.35,
+  "deger": -0.10737999999999992
+ },
+ {
+  "secim": "2. Yarı 1",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "1 (Macaristan)",
+  "olasilik": 0.3732,
+  "oran": 2.39,
+  "deger": -0.10805200000000004
+ },
+ {
+  "secim": "Macaristan : Toplam Gol 0,5 Üst",
+  "pazar": "Macaristan : Toplam Gol",
+  "etiket": "Macaristan 0,5 Üst",
+  "olasilik": 0.7001,
+  "oran": 1.27,
+  "deger": -0.11087300000000011
+ },
+ {
+  "secim": "Macaristan : Gol Atar Evet",
+  "pazar": "Macaristan : Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.7001,
+  "oran": 1.27,
+  "deger": -0.11087300000000011
+ },
+ {
+  "secim": "Toplam Korner : Kuzey İrlanda 4,5 Alt",
+  "pazar": "Toplam Korner : Kuzey İrlanda",
+  "etiket": "Kuzey İrlanda 4,5 Alt",
+  "olasilik": 0.7055,
+  "oran": 1.26,
+  "deger": -0.11107
+ },
+ {
+  "secim": "Kornerler : Toplam 8,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 8,5 Alt",
+  "olasilik": 0.4591,
+  "oran": 1.93,
+  "deger": -0.11393700000000007
+ },
+ {
+  "secim": "En gollü yarı 2. Yarı",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "2. Yarı",
+  "olasilik": 0.4145,
+  "oran": 2.13,
+  "deger": -0.11711500000000008
+ },
+ {
+  "secim": "Toplam Korner : Macaristan 5,5 Üst",
+  "pazar": "Toplam Korner : Macaristan",
+  "etiket": "Macaristan 5,5 Üst",
+  "olasilik": 0.4506,
+  "oran": 1.95,
+  "deger": -0.12133000000000005
+ },
+ {
+  "secim": "Isaac Price gol atar",
+  "pazar": "Herhangi Bir Zamanda Gol Atar",
+  "etiket": "Isaac Price",
+  "olasilik": 0.183,
+  "oran": 4.8,
+  "deger": -0.12160000000000004
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 0,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.6669,
+  "oran": 1.31,
+  "deger": -0.12636099999999995
+ },
+ {
+  "secim": "İkinci Yarıda Gol Evet",
+  "pazar": "İkinci Yarıda Gol",
+  "etiket": "Evet",
+  "olasilik": 0.6669,
+  "oran": 1.31,
+  "deger": -0.12636099999999995
+ },
+ {
+  "secim": "Macaristan : İkinci Yarıda Gol Atar Evet",
+  "pazar": "Macaristan : İkinci Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.4986,
+  "oran": 1.73,
+  "deger": -0.13742200000000004
+ },
+ {
+  "secim": "Sarı Kartlar : Toplam 4,5 Üst",
+  "pazar": "Sarı Kartlar : Toplam",
+  "etiket": "Toplam 4,5 Üst",
+  "olasilik": 0.4396,
+  "oran": 1.95,
+  "deger": -0.14278000000000002
+ },
+ {
+  "secim": "En gollü yarı 1. Yarı",
+  "pazar": "En Çok Gol Atılan Yarı",
+  "etiket": "1. Yarı",
+  "olasilik": 0.2712,
+  "oran": 3.16,
+  "deger": -0.14300800000000002
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 0,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 0,5 Üst",
+  "olasilik": 0.5631,
+  "oran": 1.51,
+  "deger": -0.14971899999999994
+ },
+ {
+  "secim": "İlk Yarıda Gol Evet",
+  "pazar": "İlk Yarıda Gol",
+  "etiket": "Evet",
+  "olasilik": 0.5631,
+  "oran": 1.51,
+  "deger": -0.14971899999999994
+ },
+ {
+  "secim": "Toplam Goller 1,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.5767,
+  "oran": 1.47,
+  "deger": -0.15225100000000003
+ },
+ {
+  "secim": "Kornerler : Toplam 7,5 Alt",
+  "pazar": "Kornerler : Toplam",
+  "etiket": "Toplam 7,5 Alt",
+  "olasilik": 0.326,
+  "oran": 2.59,
+  "deger": -0.15566000000000002
+ },
+ {
+  "secim": "1. Yarı 1",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "1 (Macaristan)",
+  "olasilik": 0.3179,
+  "oran": 2.65,
+  "deger": -0.15756499999999996
+ },
+ {
+  "secim": "Toplam Korner : Kuzey İrlanda 3,5 Alt",
+  "pazar": "Toplam Korner : Kuzey İrlanda",
+  "etiket": "Kuzey İrlanda 3,5 Alt",
+  "olasilik": 0.5147,
+  "oran": 1.63,
+  "deger": -0.16103899999999993
+ },
+ {
+  "secim": "Toplam Korner : Macaristan 6,5 Üst",
+  "pazar": "Toplam Korner : Macaristan",
+  "etiket": "Macaristan 6,5 Üst",
+  "olasilik": 0.2952,
+  "oran": 2.8,
+  "deger": -0.17344000000000004
+ },
+ {
+  "secim": "İlk gol Kuzey İrlanda",
+  "pazar": "İlk Golü Atacak Takım",
+  "etiket": "Kuzey İrlanda",
+  "olasilik": 0.3212,
+  "oran": 2.57,
+  "deger": -0.17451600000000012
+ },
+ {
+  "secim": "Macaristan : İlk Yarıda Gol Atar Evet",
+  "pazar": "Macaristan : İlk Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.4029,
+  "oran": 2.04,
+  "deger": -0.17808400000000002
+ },
+ {
+  "secim": "Kuzey İrlanda Gol Yemeden Kazanır Evet",
+  "pazar": "Kuzey İrlanda Gol Yemeden Kazanır",
+  "etiket": "Evet",
+  "olasilik": 0.1536,
+  "oran": 5.35,
+  "deger": -0.17824000000000018
+ },
+ {
+  "secim": "Kuzey İrlanda : Toplam Gol 0,5 Üst",
+  "pazar": "Kuzey İrlanda : Toplam Gol",
+  "etiket": "Kuzey İrlanda 0,5 Üst",
+  "olasilik": 0.5149,
+  "oran": 1.58,
+  "deger": -0.1864579999999999
+ },
+ {
+  "secim": "Kuzey İrlanda : Gol Atar Evet",
+  "pazar": "Kuzey İrlanda : Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.5149,
+  "oran": 1.58,
+  "deger": -0.1864579999999999
+ },
+ {
+  "secim": "1. Yarı 2",
+  "pazar": "1. Yarı Sonucu",
+  "etiket": "2 (Kuzey İrlanda)",
+  "olasilik": 0.1725,
+  "oran": 4.7,
+  "deger": -0.18925000000000003
+ },
+ {
+  "secim": "Macaristan : Toplam Gol 1,5 Üst",
+  "pazar": "Macaristan : Toplam Gol",
+  "etiket": "Macaristan 1,5 Üst",
+  "olasilik": 0.3404,
+  "oran": 2.33,
+  "deger": -0.20686800000000005
+ },
+ {
+  "secim": "2. Yarı 2",
+  "pazar": "2. Yarı Sonucu",
+  "etiket": "2 (Kuzey İrlanda)",
+  "olasilik": 0.1916,
+  "oran": 4.1,
+  "deger": -0.21444000000000007
+ },
+ {
+  "secim": "Kornerler X",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "X",
+  "olasilik": 0.1136,
+  "oran": 6.9,
+  "deger": -0.2161599999999999
+ },
+ {
+  "secim": "Her İki Yarıda Gol Olur Evet",
+  "pazar": "Her İki Yarıda Gol Olur",
+  "etiket": "Evet",
+  "olasilik": 0.3763,
+  "oran": 2.04,
+  "deger": -0.2323479999999999
+ },
+ {
+  "secim": "Kuzey İrlanda İkinci Yarıda Gol Atar Evet",
+  "pazar": "Kuzey İrlanda İkinci Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.3375,
+  "oran": 2.27,
+  "deger": -0.23387499999999994
+ },
+ {
+  "secim": "Toplam Korner : Kuzey İrlanda 2,5 Alt",
+  "pazar": "Toplam Korner : Kuzey İrlanda",
+  "etiket": "Kuzey İrlanda 2,5 Alt",
+  "olasilik": 0.3025,
+  "oran": 2.52,
+  "deger": -0.23770000000000002
+ },
+ {
+  "secim": "Kornerler 2",
+  "pazar": "Kornerler : Sonuç",
+  "etiket": "2 (Kuzey İrlanda)",
+  "olasilik": 0.2201,
+  "oran": 3.45,
+  "deger": -0.24065499999999995
+ },
+ {
+  "secim": "Her İki Takımda Gol Atar Evet",
+  "pazar": "Her İki Takımda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.3612,
+  "oran": 2.08,
+  "deger": -0.24870399999999993
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 1,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.3021,
+  "oran": 2.45,
+  "deger": -0.25985499999999995
+ },
+ {
+  "secim": "Kuzey İrlanda İlk Yarıda Gol Atar Evet",
+  "pazar": "Kuzey İrlanda İlk Yarıda Gol Atar",
+  "etiket": "Evet",
+  "olasilik": 0.2671,
+  "oran": 2.75,
+  "deger": -0.265475
+ },
+ {
+  "secim": "Toplam Goller 2,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.3035,
+  "oran": 2.42,
+  "deger": -0.26553000000000004
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 1,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 1,5 Üst",
+  "olasilik": 0.2008,
+  "oran": 3.3,
+  "deger": -0.33736
+ },
+ {
+  "secim": "2. Yarı Karşılıklı Gol Evet",
+  "pazar": "2. Yarı Karşılıklı Gol",
+  "etiket": "Evet",
+  "olasilik": 0.1692,
+  "oran": 3.9,
+  "deger": -0.3401200000000001
+ },
+ {
+  "secim": "Kuzey İrlanda : Toplam Gol 1,5 Üst",
+  "pazar": "Kuzey İrlanda : Toplam Gol",
+  "etiket": "Kuzey İrlanda 1,5 Üst",
+  "olasilik": 0.1636,
+  "oran": 3.83,
+  "deger": -0.37341199999999997
+ },
+ {
+  "secim": "Macaristan : Toplam Gol 2,5 Üst",
+  "pazar": "Macaristan : Toplam Gol",
+  "etiket": "Macaristan 2,5 Üst",
+  "olasilik": 0.1206,
+  "oran": 5.1,
+  "deger": -0.38494000000000006
+ },
+ {
+  "secim": "Toplam Goller 3,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 3,5 Üst",
+  "olasilik": 0.1297,
+  "oran": 4.65,
+  "deger": -0.3968949999999999
+ },
+ {
+  "secim": "Roland Sallai gol atar",
+  "pazar": "Herhangi Bir Zamanda Gol Atar",
+  "etiket": "Roland Sallai",
+  "olasilik": 0.1382,
+  "oran": 4.2,
+  "deger": -0.41956000000000004
+ },
+ {
+  "secim": "1. Yarı Karşılıklı Gol Evet",
+  "pazar": "1. Yarı Karşılıklı Gol",
+  "etiket": "Evet",
+  "olasilik": 0.107,
+  "oran": 5.35,
+  "deger": -0.4275500000000001
+ },
+ {
+  "secim": "2. Yarı Toplam Gol 2,5 Üst",
+  "pazar": "2. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.0997,
+  "oran": 5.55,
+  "deger": -0.4466650000000001
+ },
+ {
+  "secim": "Toplam Goller 4,5 Üst",
+  "pazar": "Toplam Goller",
+  "etiket": "Toplam 4,5 Üst",
+  "olasilik": 0.0459,
+  "oran": 10.1,
+  "deger": -0.53641
+ },
+ {
+  "secim": "1. Yarı Toplam Gol 2,5 Üst",
+  "pazar": "1. Yarı Toplam Gol",
+  "etiket": "Toplam 2,5 Üst",
+  "olasilik": 0.0515,
+  "oran": 8.2,
+  "deger": -0.5777000000000001
+ },
+ {
+  "secim": "Kuzey İrlanda : Toplam Gol 2,5 Üst",
+  "pazar": "Kuzey İrlanda : Toplam Gol",
+  "etiket": "Kuzey İrlanda 2,5 Üst",
+  "olasilik": 0.0374,
+  "oran": 8.7,
+  "deger": -0.67462
+ },
+ {
+  "secim": "Macaristan : Toplam Gol 3,5 Üst",
+  "pazar": "Macaristan : Toplam Gol",
+  "etiket": "Macaristan 3,5 Üst",
+  "olasilik": 0.0336,
+  "oran": 9.5,
+  "deger": -0.6808000000000001
+ }
+]

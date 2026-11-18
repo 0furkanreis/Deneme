@@ -1,0 +1,6896 @@
+Maç Sonucu
+Remo PA
+Beraberlik
+Chapecoense
+1.37
+4.60
+7.40
+Çifte Şans
+1X
+12
+X2
+1.09
+1.18
+2.83
+Beraberlikte İade
+Remo PA
+Chapecoense
+1.11
+5.20
+Toplam Goller
+Üst
+Alt
+0.5
+1.032
+9.90
+1
+1.042
+9.10
+1.5
+1.23
+3.85
+2
+1.33
+3.10
+2.5
+1.70
+2.07
+3
+2.18
+1.63
+3.5
+2.77
+1.41
+4
+4.25
+1.20
+4.5
+4.90
+1.15
+5
+8.35
+1.052
+5.5
+8.75
+1.047
+Remo PA : Toplam Gol
+Üst
+Alt
+0.5
+1.095
+6.35
+1
+1.14
+5.10
+1.5
+1.52
+2.42
+2
+1.91
+1.83
+2.5
+2.57
+1.47
+3
+4.25
+1.20
+3.5
+4.90
+1.15
+4
+8.80
+1.045
+4.5
+9.40
+1.038
+Chapecoense : Toplam Gol
+Üst
+Alt
+0.5
+1.74
+2.02
+1
+3.10
+1.33
+1.5
+4.55
+1.16
+2
+10.75
+1.024
+2.5
+11.40
+1.018
+Her iki takımda gol atar
+Evet
+Hayır
+1.96
+1.78
+Her İki Takım da 2 veya Daha Fazla Gol Atar
+YENİ
+Evet
+No
+6.70
+1.085
+Gol Handikapı
+Remo PA
+Chapecoense
+-3.5
+7.00
++3.5
+1.08
+-3
+6.35
++3
+1.095
+-2.5
+3.70
++2.5
+1.25
+-2
+3.05
++2
+1.34
+-1.5
+2.14
++1.5
+1.66
+-1
+1.62
++1
+2.21
+-0.5
+1.37
++0.5
+2.95
+0
+1.13
+0
+5.30
++0.5
+1.09
+-0.5
+6.50
++1
+1.018
+-1
+11.40
+Goller Asya Handikapı
+Remo PA
+Chapecoense
+-3.75
+8.20
++3.75
+1.045
+-3.25
+6.50
++3.25
+1.08
+-2.75
+4.57
++2.75
+1.16
+-2.25
+3.30
++2.25
+1.28
+-1.75
+2.44
++1.75
+1.49
+-1.25
+1.87
++1.25
+1.83
+-0.75
+1.46
++0.75
+2.52
+-0.25
+1.24
++0.25
+3.65
++0.25
+1.10
+-0.25
+5.85
++0.75
+1.05
+-0.75
+7.85
+Gol Handikapı (3-İhtimalli)
+Remo PA
+Beraberlik : Chapecoense
+Chapecoense
+-3
+7.10
++3
+5.60
++3
+1.21
+-2
+3.64
++2
+4.00
++2
+1.66
+-1
+2.14
++1
+3.35
++1
+2.77
+Toplam Goller Asya
+Üst
+Alt
+0.75
+1.037
+9.50
+1.25
+1.13
+5.30
+1.75
+1.26
+3.60
+2.25
+1.52
+2.42
+2.75
+1.87
+1.83
+3.25
+2.47
+1.50
+3.75
+3.20
+1.31
+4.25
+4.55
+1.17
+4.75
+6.20
+1.095
+5.25
+8.50
+1.05
+5.75
+10.40
+1.027
+Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+1
+1.19
+4.75
+10.00
+2
+1.70
+3.59
+3.85
+3
+2.77
+3.77
+2.07
+4
+4.75
+4.85
+1.41
+5
+8.80
+6.90
+1.12
+Remo PA : Asist Yapar. Toplam
+YENİ
+1+
+1.29
+2+
+2.28
+3+
+5.10
+4+
+13.00
+5+
+25.00
+Chapecoense : Asist Yapar. Toplam
+YENİ
+1+
+2.35
+2+
+8.30
+3+
+21.00
+4+
+31.00
+Her iki yarıda gol olur
+Evet
+Hayır
+1.61
+2.18
+İlk Golü Atacak Takım
+Remo PA
+Chapecoense
+Gol Yok
+1.30
+3.04
+13.00
+Son Golü Atacak Takım
+Remo PA
+Chapecoense
+Gol Yok
+1.30
+3.04
+13.00
+Remo PA : Toplam Gol Asya
+Üst
+Alt
+0.75
+1.11
+6.00
+1.25
+1.33
+3.10
+1.75
+1.66
+2.14
+2.25
+2.26
+1.59
+2.75
+3.10
+1.33
+3.25
+4.55
+1.17
+3.75
+6.35
+1.095
+Chapecoense : Toplam Gol Asya
+Üst
+Alt
+0.75
+2.12
+1.67
+1.25
+3.85
+1.23
+1.75
+6.35
+1.095
+2.25
+11.20
+1.02
+Toplam Gol Tek / Çift
+Çift
+Tek
+1.81
+1.89
+Remo PA : Gol Atar
+Evet
+Hayır
+1.095
+6.35
+Chapecoense Gol Atar
+Evet
+Hayır
+1.74
+2.02
+Remo PA Gol Atar ve Maç Sonucu
+Evet ve Remo PA
+1.37
+Evet ve Berabere
+5.10
+Hayır ve Berabere
+12.00
+Evet ve Chapecoense
+11.00
+Hayır ve Chapecoense
+8.70
+Chapecoense Gol Atar ve Maç Sonucu
+Evet ve Remo PA
+2.75
+Hayır ve Remo PA
+2.25
+Evet ve Berabere
+5.00
+Hayır ve Berabere
+10.00
+Evet ve Chapecoense
+5.70
+Remo PA : Bahis Yok
+Beraberlik
+Chapecoense
+1.50
+2.28
+Chapecoense : Bahis Yok
+Remo PA
+Beraberlik
+1.20
+3.75
+Maç Sonucu ve Karşılıklı Gol
+Remo PA Ve Evet
+2.75
+Beraberlik Ve Hayır
+10.00
+Remo PA Ve Hayır
+2.25
+Chapecoense Ve Evet
+10.00
+Beraberlik ve Evet
+5.00
+Chapecoense Ve Hayır
+9.60
+Çifte Şans ve Karşılıklı Gol
+1X Ve Evet
+1.99
+12 Ve Hayır
+1.83
+1X Ve Hayır
+2.02
+X2 Ve Evet
+3.76
+12 Ve Evet
+2.37
+X2 Ve Hayır
+5.70
+Maç Sonucu ve Toplam Gol 1.5
+Remo PA ve Üst 1.5
+1.56
+Remo PA ve Alt 1.5
+5.50
+Beraberlik ve Üst 1.5
+5.00
+Beraberlik ve Alt 1.5
+10.00
+Chapecoense ve Üst 1.5
+7.90
+Chapecoense ve Alt 1.5
+14.00
+1X ve Üst 1.5
+1.31
+1X ve Alt 1.5
+4.00
+12 ve Üst 1.5
+1.40
+12 ve Alt 1.5
+4.40
+X2 ve Üst 1.5
+3.45
+X2 ve Alt 1.5
+6.80
+Maç Sonucu ve Toplam Gol 2.5
+Remo PA ve Üst 2.5
+1.90
+Remo PA ve Alt 2.5
+3.09
+Beraberlik ve Üst 2.5
+13.00
+Beraberlik ve Alt 2.5
+4.75
+Chapecoense ve Üst 2.5
+9.80
+Chapecoense ve Alt 2.5
+10.00
+1X ve Üst 2.5
+1.76
+1X ve Alt 2.5
+2.11
+12 ve Üst 2.5
+1.71
+12 ve Alt 2.5
+2.61
+X2 ve Üst 2.5
+6.20
+X2 ve Alt 2.5
+3.64
+Maç Sonucu ve Toplam Gol 3.5
+Remo PA ve Üst 3.5
+2.96
+Remo PA ve Alt 3.5
+1.94
+Beraberlik ve Üst 3.5
+13.00
+Beraberlik ve Alt 3.5
+4.75
+Chapecoense ve Üst 3.5
+21.00
+Chapecoense ve Alt 3.5
+6.90
+1X ve Üst 3.5
+2.60
+1X ve Alt 3.5
+1.53
+12 ve Üst 3.5
+2.75
+12 ve Alt 3.5
+1.66
+X2 ve Üst 3.5
+8.80
+X2 ve Alt 3.5
+3.18
+Maç Sonucu ve Toplam Gol 4.5
+Remo PA ve Üst 4.5
+4.80
+Remo PA ve Alt 4.5
+1.61
+Beraberlik ve Üst 4.5
+51.00
+Beraberlik ve Alt 4.5
+3.91
+Chapecoense ve Üst 4.5
+31.00
+Chapecoense ve Alt 4.5
+6.30
+1X ve Üst 4.5
+4.60
+1X ve Alt 4.5
+1.27
+12 ve Üst 4.5
+4.40
+12 ve Alt 4.5
+1.40
+X2 ve Üst 4.5
+21.00
+X2 ve Alt 4.5
+2.72
+Sonuç ve Remo PA : Toplam Gol
+Remo PA ve Üst (1.5)
+1.55
+Remo PA ve Alt (1.5)
+5.40
+Beraberlik ve Üst (1.5)
+13.00
+Beraberlik ve Alt (1.5)
+4.70
+Chapecoense ve Üst (1.5)
+36.00
+Chapecoense ve Alt (1.5)
+6.20
+Remo PA ve Üst (2.5)
+2.35
+Remo PA ve Alt (2.5)
+2.32
+Beraberlik ve Üst (2.5)
+56.00
+Beraberlik ve Alt (2.5)
+3.93
+Chapecoense ve Üst (2.5)
+201.00
+Chapecoense ve Alt (2.5)
+5.80
+Remo PA ve Üst (3.5)
+4.40
+Remo PA ve Alt (3.5)
+1.65
+Beraberlik ve Üst (3.5)
+276.00
+Beraberlik ve Alt (3.5)
+3.83
+Chapecoense ve Üst (3.5)
+276.00
+Chapecoense ve Alt (3.5)
+5.70
+Sonuç ve Chapecoense : Toplam Gol
+Remo PA ve Üst (1.5)
+10.00
+Remo PA ve Alt (1.5)
+1.43
+Beraberlik ve Üst (1.5)
+12.00
+Beraberlik ve Alt (1.5)
+4.70
+Chapecoense ve Üst (1.5)
+7.90
+Chapecoense ve Alt (1.5)
+14.00
+Remo PA ve Üst (2.5)
+67.00
+Remo PA ve Alt (2.5)
+1.33
+Beraberlik ve Üst (2.5)
+56.00
+Beraberlik ve Alt (2.5)
+3.93
+Chapecoense ve Üst (2.5)
+19.00
+Chapecoense ve Alt (2.5)
+7.10
+Remo PA ve Üst (3.5)
+276.00
+Remo PA ve Alt (3.5)
+1.32
+Beraberlik ve Üst (3.5)
+301.00
+Beraberlik ve Alt (3.5)
+3.83
+Chapecoense ve Üst (3.5)
+61.00
+Chapecoense ve Alt (3.5)
+6.00
+Sonuç veya Toplam Gol
+Remo PA veya Üst (2.5)
+1.18
+Remo PA veya Alt (2.5)
+1.07
+Beraberlik veya Üst (2.5)
+1.32
+Beraberlik veya Alt (2.5)
+1.75
+Chapecoense veya Üst (2.5)
+1.47
+Chapecoense veya Alt (2.5)
+1.70
+Remo PA veya Üst (3.5)
+1.23
+Remo PA veya Alt (3.5)
+1.04
+Beraberlik veya Üst (3.5)
+1.81
+Beraberlik veya Alt (3.5)
+1.29
+Chapecoense veya Üst (3.5)
+2.00
+Chapecoense veya Alt (3.5)
+1.32
+Daha Fazla Seçeneği Göster
+Maç Sonucu ve Toplam Gol (Kesin)
+Remo PA ve 1
+5.40
+Remo PA ve 2
+5.30
+Remo PA ve 3
+3.87
+Remo PA ve 4+
+3.01
+Beraberlik ve 0
+10.00
+Beraberlik ve 2
+7.00
+Beraberlik ve 4
+15.00
+Beraberlik ve 6+
+56.00
+Chapecoense ve 1
+14.00
+Chapecoense ve 2
+29.00
+Chapecoense ve 3
+15.00
+Chapecoense ve 4+
+21.00
+Sonuç ve Toplam Gol (Genişletilmiş Aralık)
+Remo PA ve 1-2
+3.10
+Remo PA ve 1-3
+1.95
+Remo PA ve 1-4
+1.61
+Remo PA ve 1-5
+1.44
+Remo PA ve 1-6
+1.37
+Remo PA ve 2-3
+2.56
+Remo PA ve 2-4
+1.98
+Remo PA ve 2-5
+1.71
+Remo PA ve 2-6
+1.62
+Remo PA ve 3-4
+2.63
+Remo PA ve 3-5
+2.15
+Remo PA ve 3-6
+2.00
+Daha Fazla Seçeneği Göster
+Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)
+1X ve 1-2
+2.39
+1X ve 1-3
+1.66
+1X ve 1-4
+1.35
+1X ve 1-5
+1.23
+1X ve 1-6
+1.17
+1X ve 2-3
+2.07
+1X ve 2-4
+1.59
+1X ve 2-5
+1.42
+1X ve 2-6
+1.34
+1X ve 3-4
+2.38
+1X ve 3-5
+1.99
+1X ve 3-6
+1.84
+1X ve 4-5
+3.21
+1X ve 4-6
+2.81
+1X ve 5-6
+5.40
+1X ve Herhangi bir diğer
+7.60
+12 ve 1-2
+2.61
+12 ve 1-3
+1.66
+Daha Fazla Seçeneği Göster
+Sonuç veya Doğru Skor
+Remo PA veya 0-0: Evet
+1.25
+Remo PA veya 0-0: Hayır
+3.00
+Chapecoense veya 0-0: Evet
+4.10
+Chapecoense veya 0-0: Hayır
+1.15
+Remo PA veya 1-1: Evet
+1.20
+Remo PA veya 1-1: Hayır
+3.40
+Chapecoense veya 1-1: Evet
+3.53
+Chapecoense veya 1-1: Hayır
+1.19
+Remo PA veya 0-1: Evet
+1.27
+Remo PA veya 0-1: Hayır
+2.85
+Chapecoense veya 1-0: Evet
+3.16
+Chapecoense veya 1-0: Hayır
+1.23
+Her İki Yarı Toplam Gol Kombinasyonu
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+2.34
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+4.40
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 0.5 Üst gol
+2.68
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+4.10
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+7.80
+İlk yarıda 0.5 Üst gol ve Maç sonucu 1.5 Üst gol
+1.39
+İlk yarıda 0.5 Üst gol ve Maç sonucu 2.5 Üst gol
+1.76
+İlk yarıda 0.5 Üst gol ve Maç sonucu 3.5 Üst gol
+2.59
+İlk yarıda 0.5 Üst gol ve Maç sonucu 4.5 Üst gol
+4.40
+İlk yarıda 1.5 Üst gol ve Maç sonucu 2.5 Üst gol
+2.49
+İlk yarıda 1.5 Üst gol ve Maç sonucu 3.5 Üst gol
+3.30
+İlk yarıda 1.5 Üst gol ve Maç sonucu 4.5 Üst gol
+5.20
+İlk yarıda 2.5 Üst gol ve Maç sonucu 3.5 Üst gol
+5.60
+İlk yarıda 2.5 Üst gol ve Maç sonucu 4.5 Üst gol
+7.70
+Toplam Gol (Kesin)
+0
+10.00
+1
+4.75
+2
+3.65
+3
+3.75
+4
+4.90
+5
+7.00
+6 veya Daha Fazla
+8.60
+Remo PA : Toplam Gol (Kesin)
+0
+6.35
+1
+2.99
+2
+2.85
+3
+3.83
+4 veya Daha Fazla
+4.90
+Chapecoense : Toplam Gol (Kesin)
+0
+2.02
+1
+2.28
+2
+5.00
+3
+15.00
+4 veya Daha Fazla
+31.00
+Toplam Gol (Aralık)
+0-1
+3.85
+2-3
+1.87
+4 ila 6
+2.63
+7 veya Daha fazla
+19.00
+Remo PA : Toplam Gol (Aralık)
+0-1
+2.42
+2-3
+1.85
+4 ila 6
+4.50
+7 veya Daha fazla
+67.00
+Chapecoense : Toplam Gol (Aralık)
+0-1
+1.16
+2-3
+4.20
+4 ila 6
+51.00
+7 veya Daha fazla
+276.00
+Toplam Gol (Genişletilmiş Gol Aralığı)
+1-2
+2.11
+1-3
+1.52
+1-4
+1.22
+1-5
+1.10
+1-6
+1.05
+2-3
+1.87
+2-4
+1.46
+2-5
+1.30
+2-6
+1.26
+3-4
+2.14
+3-5
+1.79
+3-6
+1.67
+Daha Fazla Seçeneği Göster
+Remo PA : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.65
+1-3
+1.29
+1-4
+1.16
+2-3
+1.85
+2-4
+1.57
+3-4
+2.71
+Herhangi Diğer
+3.97
+Chapecoense : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.74
+1-3
+1.65
+1-4
+1.63
+2-3
+4.10
+2-4
+3.99
+3-4
+13.00
+Herhangi Diğer
+1.84
+Remo PA Kesin Gol Farkıyla Kazanır
+Evet
+Hayır
+1
+3.30
+1.28
+2
+3.90
+1.21
+3
+5.85
+1.10
+4
+8.70
+1.035
+Chapecoense : Kesin Gol Farkıyla Kazanır
+Evet
+Hayır
+1
+7.50
+1.055
+Remo PA Kazanır ve Kesin Gol Atar
+Evet
+Hayır
+1
+6.00
+1.095
+2
+3.75
+1.23
+3
+4.42
+1.17
+4
+6.90
+1.07
+En Az Bir Takım Üst Gol Atar
+YENİ
+Evet
+No
+1.5
+1.37
+2.85
+2.5
+2.37
+1.52
+3.5
+4.57
+1.16
+İlk Golün Atılma Şekli
+Kafa vuruşu ile
+5.60
+Diğer Bir Yöntemle
+1.35
+Serbest vuruş ile
+15.00
+Penaltı atışı ile
+6.80
+Maçta kendi kalesine gol atılır
+31.00
+Gol yok
+10.00
+1. Gol Zamanı
+1-10
+3.09
+11-20
+3.93
+21-30
+4.75
+31-40
+6.00
+41-50
+7.20
+51-60
+10.00
+61-70
+14.00
+71-80
+19.00
+81-90+
+17.00
+Gol Yok
+8.30
+Remo PA : 1. Gol Zamanı (10 dk. Ara)
+1-10
+3.86
+11-20
+4.60
+21-30
+5.40
+31-40
+6.50
+41-50
+7.10
+51-60
+9.50
+61-70
+12.00
+71-80
+13.00
+81-90+
+13.00
+Gol Yok
+4.70
+Chapecoense : 1. Gol Zamanı (10 dk. Ara)
+1-10
+7.00
+11-20
+11.00
+21-30
+11.00
+31-40
+11.00
+41-50
+11.00
+51-60
+12.00
+61-70
+13.00
+71-80
+14.00
+81-90+
+11.00
+Gol Yok
+1.70
+1. Gol Zamanı (15 dk.)
+1-15
+2.56
+16-30
+3.18
+31-45+
+3.83
+46-60
+6.70
+61-75
+9.80
+76-90+
+11.00
+No Goal
+11.00
+Doğru Skor
+1-0
+5.40
+0-0
+12.00
+0-1
+14.00
+2-0
+5.30
+1-1
+7.00
+0-2
+29.00
+2-1
+6.60
+2-2
+15.00
+1-2
+17.00
+3-0
+7.10
+3-3
+61.00
+0-3
+91.00
+3-1
+9.00
+4-4
+201.00
+1-3
+46.00
+3-2
+19.00
+5-5
+201.00
+2-3
+51.00
+Daha Fazla Seçeneği Göster
+Herhangi Bir Zamanda Doğru Skor
+0-1
+3.26
+0-2
+12.00
+0-3
+51.00
+0-4
+276.00
+0-5
+201.00
+1-0
+1.36
+1-1
+2.75
+1-2
+8.30
+1-3
+31.00
+1-4
+151.00
+1-5
+301.00
+2-0
+2.12
+2-1
+3.47
+2-2
+9.40
+2-3
+34.00
+2-4
+151.00
+2-5
+301.00
+3-0
+3.84
+Daha Fazla Seçeneği Göster
+1.Yarı Sonucu
+Remo PA
+Beraberlik
+Chapecoense
+1.74
+2.31
+6.00
+1.Yarı Çifte Şans
+1X
+12
+X2
+1.10
+1.41
+1.78
+1. Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.32
+3.10
+1
+1.65
+2.10
+1.5
+2.45
+1.48
+2
+4.57
+1.16
+2.5
+5.55
+1.11
+3
+10.00
+1.02
+3.5
+10.30
+1.017
+1. Yarı 1. Takım Toplam Gol
+Üst
+Alt
+0.5
+1.54
+2.33
+1
+2.33
+1.54
+1.5
+3.40
+1.27
+2
+7.30
+1.06
+2.5
+8.20
+1.045
+1. Yarı 2. Takım Toplam Gol
+Üst
+Alt
+0.5
+3.15
+1.31
+1
+9.00
+1.03
+1.5
+9.70
+1.023
+1. Yarı Remo PA Toplam Goller Asya
+Üst
+Alt
+0.75
+1.77
+1.93
+1.25
+2.87
+1.36
+1.75
+4.57
+1.16
+2.25
+7.85
+1.05
+2.75
+10.30
+1.017
+1. Yarı Chapecoense Toplam Gol Asya
+Üst
+Alt
+0.75
+4.42
+1.17
+1.25
+9.70
+1.023
+1. Yarı Karşılıklı Gol
+Evet
+Hayır
+4.75
+1.15
+1. Yarı Gol Handikapı
+Remo PA
+Chapecoense
+-2.5
+9.00
++2.5
+1.03
+-2
+8.50
++2
+1.04
+-1.5
+4.05
++1.5
+1.20
+-1
+3.05
++1
+1.33
+-0.5
+1.83
++0.5
+1.87
+0
+1.20
+0
+4.05
++0.5
+1.10
+-0.5
+5.85
+1. Yarı Goller Asya Handikapı
+Remo PA
+Chapecoense
+-2.25
+8.70
++2.25
+1.035
+-1.75
+5.55
++1.75
+1.11
+-1.25
+3.57
++1.25
+1.25
+-0.75
+2.20
++0.75
+1.60
+-0.25
+1.52
++0.25
+2.37
++0.25
+1.14
+-0.25
+4.90
++0.75
+1.05
+-0.75
+7.85
+1. Yarı Gol Handikapı 3 İhtimalli
+Remo PA
+Beraberlik Chapecoense
+Chapecoense
+-2
+9.00
++2
+5.35
++2
+1.20
+-1
+4.05
++1
+2.87
++1
+1.78
+0
+1.74
+0
+2.31
+0
+5.85
+1.Yarı Toplam Gol Asya
+Üst
+Alt
+0.75
+1.43
+2.62
+1.25
+2.07
+1.67
+1.75
+3.10
+1.32
+2.25
+5.10
+1.13
+2.75
+7.10
+1.065
+3.25
+10.30
+1.017
+1. . Yarı : Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+2
+5.55
+3.45
+1.41
+1
+2.35
+2.39
+2.97
+1. Yarı: Sonuç ve Her İki Takımda Gol atar
+Remo PA Ve Evet
+9.80
+Beraberlik ve Hayır
+3.15
+Remo PA Ve Hayır
+2.05
+Chapecoense ve Evet
+26.00
+Beraberlik ve Evet
+7.20
+Chapecoense ve Hayır
+6.30
+1. Yarı Toplam Gol Aralığı
+0-1
+1.41
+2-3
+2.48
+4 ila 6
+14.00
+7 veya Daha fazla
+29.00
+1.Yarı Remo PA Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.27
+3.05
+41.00
+1.Yarı Chapecoense Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.023
+5.40
+301.00
+1. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.53
+1-3
+1.35
+1-4
+1.30
+2-3
+2.48
+2-4
+2.30
+3-4
+5.30
+Herhangi Diğer
+2.70
+1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.63
+1-3
+1.50
+1-4
+1.48
+2-3
+3.05
+2-4
+3.07
+3-4
+8.70
+Herhangi Diğer
+2.11
+1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+2.84
+1-3
+2.81
+1-4
+3.15
+2-3
+13.00
+2-4
+13.00
+3-4
+81.00
+Herhangi Diğer
+1.31
+1.Yarı Toplam Gol (Kesin)
+0
+2.97
+1
+2.39
+2
+3.45
+3
+6.70
+4 veya Daha Fazla
+10.30
+1.Yarı Remo PA Toplam Gol (Kesin)
+0
+1
+2+
+2.33
+2.37
+3.40
+1.Yarı Chapecoense Toplam Gol (Kesin)
+0
+1
+2+
+1.31
+3.16
+15.00
+1. Yarı Remo PA Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+2.87
+1.36
+2
+5.35
+1.12
+1. Yarı Chapecoense Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+6.30
+1.085
+1. Yarı Remo PA Sıfıra Karşı Kazanır
+Evet
+Hayır
+2.05
+1.68
+1. Yarı Chapecoense Sıfıra Karşı Kazanır
+Evet
+Hayır
+6.30
+1.085
+1. Yarı İlk Golü Atacak Takım
+Remo PA
+Chapecoense
+Gol yok
+1.65
+4.30
+3.15
+1. Yarı Son Golü Atacak Takım
+Remo PA
+Chapecoense
+Gol yok
+1.65
+4.30
+3.15
+1.Yarı Doğru Skor
+1-0
+2.95
+0-0
+2.80
+0-1
+6.80
+2-0
+5.20
+1-1
+7.70
+0-2
+31.00
+2-1
+14.00
+2-2
+61.00
+1-2
+31.00
+3-0
+14.00
+3-3
+201.00
+0-3
+201.00
+3-1
+34.00
+1-3
+201.00
+3-2
+151.00
+2-3
+201.00
+2. Yarı Sonucu
+Remo PA
+Beraberlik
+Chapecoense
+1.62
+2.60
+5.60
+2. Yarı Çifte Şans
+1X
+12
+X2
+1.11
+1.34
+1.87
+2.Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.19
+4.15
+1
+1.34
+3.00
+1.5
+1.92
+1.78
+2
+2.95
+1.35
+2.5
+3.83
+1.22
+3
+7.30
+1.06
+3.5
+7.85
+1.05
+2.Yarı Remo PA Toplam Gol
+Üst
+Alt
+0.5
+1.37
+2.85
+1
+1.79
+1.91
+1.5
+2.68
+1.41
+2
+5.10
+1.13
+2.5
+6.15
+1.09
+2.Yarı Chapecoense Toplam Gol
+Üst
+Alt
+0.5
+2.52
+1.46
+1
+6.90
+1.07
+1.5
+8.20
+1.045
+2. Yarı Karşılıklı Gol
+Evet
+Hayır
+3.47
+1.26
+2. Yarı Gol Handikapı
+Remo PA
+Chapecoense
+-2.5
+7.50
++2.5
+1.055
+-2
+6.90
++2
+1.07
+-1.5
+3.47
++1.5
+1.26
+-1
+2.52
++1
+1.46
+0
+1.20
+0
+4.05
+2. Yarı Gol Handikapı 3 İhtimalli
+Remo PA
+Beraberlik Chapecoense
+Chapecoense
+-2
+8.40
++2
+4.90
++2
+1.26
+-1
+3.47
++1
+2.79
++1
+1.88
+0
+1.62
+0
+2.60
+0
+5.60
+2.Yarı: Sonuç ve Her İki Takımda Gol Atar
+Remo PA Ve Evet
+6.50
+Beraberlik ve Hayır
+4.15
+Remo PA Ve Hayır
+1.88
+Chapecoense ve Evet
+19.00
+Beraberlik ve Evet
+5.80
+Chapecoense ve Hayır
+6.20
+2. Yarı Toplam Gol Aralığı
+0-1
+1.78
+2-3
+2.09
+4 ila 6
+7.90
+7 veya Daha fazla
+29.00
+2.Yarı Remo PA Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.41
+2.60
+21.00
+2.Yarı Chapecoense Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.045
+5.00
+276.00
+2. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.61
+1-3
+1.28
+1-4
+1.21
+2-3
+2.09
+2-4
+1.87
+3-4
+3.75
+Herhangi Diğer
+3.34
+2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.54
+1-3
+1.38
+1-4
+1.34
+2-3
+2.60
+2-4
+2.48
+3-4
+6.00
+Herhangi Diğer
+2.53
+2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)
+1-2
+2.35
+1-3
+2.30
+1-4
+2.30
+2-3
+5.00
+2-4
+8.50
+3-4
+41.00
+Herhangi Diğer
+1.46
+2.Yarı Toplam Gol (Kesin)
+0
+4.05
+1
+2.47
+2
+2.98
+3
+5.00
+4+
+7.85
+2.Yarı Remo PA Toplam Gol (Kesin)
+0
+1
+2+
+2.85
+2.36
+2.68
+2.Yarı Chapecoense Toplam Gol (Kesin)
+0
+1
+2+
+1.46
+2.79
+8.20
+2. Yarı Remo PA Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+2.95
+1.35
+2
+4.90
+1.14
+3
+9.00
+1.03
+2. Yarı Chapecoense Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+6.50
+1.08
+2.Yarı Remo PA Sıfıra karşı Kazanır
+Evet
+Hayır
+2.05
+1.68
+2.Yarı Chapecoense Sıfıra karşı Kazanır
+Evet
+Hayır
+6.50
+1.08
+2. Yarı -İlk Golü Atacak Takım
+Remo PA
+Chapecoense
+Gol yok
+1.52
+3.72
+4.15
+2. Yarı Son Golü Atacak Takım
+Remo PA
+Chapecoense
+Gol yok
+1.52
+3.72
+4.15
+2. Yarı Doğru Skor
+1-0
+3.20
+0-0
+4.15
+0-1
+7.30
+2-0
+4.90
+1-1
+6.40
+0-2
+26.00
+2-1
+9.80
+2-2
+34.00
+1-2
+23.00
+3-0
+11.00
+3-3
+201.00
+0-3
+126.00
+3-1
+21.00
+1-3
+111.00
+3-2
+76.00
+2-3
+176.00
+1. Yarı/2. Yarı Karşılıklı Gol
+Evet/Evet
+14.00
+Hayır/Evet
+3.64
+Evet/Hayır
+5.40
+Hayır/Hayır
+1.43
+1. Yarı veya Maç Sonucu
+Remo PA
+X
+Chapecoense
+1.26
+1.93
+3.89
+İlk Yarı/Maç Sonucu
+Remo PA/Remo PA
+1.85
+Beraberlik/Remo PA
+3.65
+Chapecoense/Remo PA
+17.00
+Remo PA/Beraberlik
+15.00
+Beraberlik/Beraberlik
+5.80
+Chapecoense/Beraberlik
+15.00
+Remo PA/Chapecoense
+51.00
+Beraberlik/Chapecoense
+12.00
+Chapecoense/Chapecoense
+9.30
+1.Yarı/2.Yarı Sonucu
+Remo PA/Remo PA
+2.80
+Remo PA/Beraberlik
+4.40
+Remo PA/Chapecoense
+8.90
+Beraberlik/Remo PA
+3.65
+Beraberlik/Beraberlik
+5.80
+Beraberlik/Chapecoense
+12.00
+Chapecoense/Remo PA
+8.60
+Chapecoense/Beraberlik
+14.00
+Chapecoense/Chapecoense
+26.00
+En Çok Gol Atılan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.75
+3.36
+1.93
+En Çok Gol Atılan Yarı : Çifte Şans
+1. Yarı veya Beraberlik
+1. veya 2.
+2. Yarı veya Beraberlik
+1.13
+1.05
+1.07
+Remo PA : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+2.92
+2.71
+2.14
+Chapecoense : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+4.10
+1.65
+3.02
+Kornerler : Sonuç
+Remo PA
+X
+Chapecoense
+1.40
+7.50
+3.70
+Kornerler : Toplam
+Üst
+Alt
+8.5
+1.20
+4.05
+9
+1.22
+3.83
+9.5
+1.35
+2.95
+10
+1.43
+2.62
+10.5
+1.60
+2.20
+11
+1.76
+1.94
+11.5
+1.96
+1.74
+12
+2.27
+1.56
+12.5
+2.52
+1.46
+13
+3.10
+1.32
+13.5
+3.30
+1.28
+14.5
+4.57
+1.16
+Toplam Korner : Remo PA
+Üst
+Alt
+5.5
+1.36
+2.87
+6
+1.47
+2.50
+6.5
+1.71
+2.01
+7
+1.96
+1.74
+7.5
+2.30
+1.55
+Toplam Korner : Chapecoense
+Üst
+Alt
+3.5
+1.46
+2.52
+4
+1.66
+2.08
+4.5
+2.02
+1.70
+5
+2.62
+1.43
+5.5
+3.10
+1.32
+Kornerler: Handikap
+Remo PA
+Chapecoense
+-5
+4.05
++5
+1.20
+-4.5
+3.15
++4.5
+1.31
+-4
+2.85
++4
+1.37
+-3.5
+2.37
++3.5
+1.52
+-3
+2.12
++3
+1.64
+-2.5
+1.85
++2.5
+1.85
+-2
+1.64
++2
+2.12
+-1.5
+1.52
++1.5
+2.37
+-1
+1.36
++1
+2.87
+-0.5
+1.31
++0.5
+3.15
+Kornerler : Toplam (3-İhtimalli)
+Üst
+Kesin
+Alt
+13
+3.30
+8.40
+1.46
+12
+2.52
+7.50
+1.74
+11
+1.96
+7.20
+2.20
+10
+1.60
+7.40
+2.95
+9
+1.35
+8.10
+4.20
+Kornerler : Toplam (Aralık)
+5 veya daha az
+14.00
+6 - 8
+4.00
+9 - 11
+2.37
+12 - 14
+2.74
+15 veya daha fazla
+3.81
+Kornerler: Tek/Çift
+Çift
+Tek
+1.85
+1.85
+Korner Yarışı
+Remo PA
+Chapecoense
+Hiç Kimse
+9
+3.19
+9
+12.00
+9
+1.42
+7
+2.03
+7
+5.10
+7
+2.44
+5
+1.51
+5
+3.16
+5
+8.20
+3
+1.43
+3
+2.59
+3
+67.00
+Kornerler: 1. Yarı Sonucu
+Remo PA
+X
+Chapecoense
+1.54
+5.40
+3.51
+Kornerler: 1. Yarı Handikap
+Remo PA
+Chapecoense
+-1.5
+2.01
++1.5
+1.71
+-1
+1.74
++1
+1.96
+-0.5
+1.54
++0.5
+2.33
+Kornerler: 1. Yarı Toplam
+Üst
+Alt
+3.5
+1.20
+4.05
+4.5
+1.56
+2.27
+5
+1.74
+1.96
+5.5
+2.01
+1.71
+6.5
+2.80
+1.38
+Kornerler: 1. Yarı Remo PA Toplam
+Üst
+Alt
+2.5
+1.47
+2.50
+3
+1.73
+1.97
+3.5
+2.13
+1.63
+4.5
+3.40
+1.27
+Kornerler: 1.Yarı Chapecoense Toplam
+Üst
+Alt
+1.5
+1.51
+2.39
+2
+1.87
+1.83
+2.5
+2.50
+1.47
+Toplam Korner : 2.Yarı
+Üst
+Alt
+4.5
+1.37
+2.85
+5.5
+1.76
+1.94
+6.5
+2.40
+1.50
+Kornerler : İlk Korner
+Remo PA
+Chapecoense
+1.52
+2.37
+Kornerler : Son Korner
+Remo PA
+Chapecoense
+1.63
+2.23
+Kartlar: Puan : Sonuç
+Remo PA
+X
+Chapecoense
+3.14
+4.00
+1.87
+Kartlar: Puan Handikapı
+Remo PA
+Chapecoense SC
+-0.5
+3.20
++0.5
+1.30
+0
+2.25
+0
+1.57
++0.5
+1.76
+-0.5
+1.94
++1
+1.38
+-1
+2.80
++1.5
+1.35
+-1.5
+2.95
+Kartlar: Toplam Puan
+Üst
+Alt
+1.5
+1.085
+6.30
+2.5
+1.29
+3.25
+3
+1.45
+2.55
+3.5
+1.74
+1.96
+4
+2.35
+1.53
+5.5
+3.10
+1.32
+6.5
+4.57
+1.16
+7.5
+6.70
+1.075
+8.5
+8.70
+1.035
+9.5
+10.30
+1.017
+Kartlar: Remo PA : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.15
+4.75
+1.5
+1.69
+2.04
+2.5
+3.05
+1.33
+3.5
+5.55
+1.11
+4.5
+9.30
+1.027
+Kartlar: Chapecoense : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.075
+6.70
+1.5
+1.36
+2.87
+2.5
+2.04
+1.69
+4.5
+6.30
+1.085
+Kartlar: Toplam (Aralıklar)
+0
+17.00
+1-2
+2.79
+3-4
+2.01
+5-6
+2.42
+7-8
+4.10
+9-10
+8.80
+11 or more
+19.00
+Kartlar: 1.Yarı : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.29
+3.25
+1.5
+2.04
+1.69
+2.5
+3.65
+1.24
+Kartlar: 1. Yarı : Remo PA : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.84
+1.78
+1.5
+4.80
+1.13
+2.5
+9.00
+1.02
+Kartlar: 1. Yarı : Chapecoense : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.57
+2.14
+1.5
+3.45
+1.23
+2.5
+7.10
+1.05
+Kartlar: 2. Yarı : Remo PA : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.35
+2.70
+1.5
+2.56
+1.40
+2.5
+5.40
+1.10
+Kartlar: 2. Yarı : Chapecoense : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.20
+3.75
+1.5
+1.93
+1.70
+2.5
+3.75
+1.20
+En Fazla Korner Olan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.35
+7.20
+1.58
+Direkt Kırmızı Kart
+Evet
+3.53
+Her İki Takım da Kırmızı Kart Alır
+Evet
+34.00
+Her İki Takım da Kart Alır
+Evet
+Hayır
+1.23
+3.75
+Her iki takım da 2 veya daha fazla kart görür
+Evet
+Hayır
+2.13
+1.63
+Her iki takım da her iki yarıda kart alır
+Evet
+4.20
+İlk Kartı Görecek Takım
+Remo PA
+Chapecoense
+No Card
+2.11
+1.67
+26.00
+Son Kartı Görecek Takım
+Remo PA
+Chapecoense
+No Card
+2.11
+1.67
+26.00
+Sarı Kartlar: Sonuç
+Remo PA
+X
+Chapecoense
+2.62
+3.98
+2.07
+Sarı Kartlar: Çifte Şans
+1X
+12
+X2
+1.67
+1.22
+1.42
+Sarı Kartlar: Handikap
+Remo PA
+Chapecoense
+0
+2.10
+0
+1.65
++0.5
+1.67
+-0.5
+2.07
+Sarı Kartlar: Toplam
+Üst
+Alt
+3
+1.52
+2.37
+3.5
+1.91
+1.79
+4
+2.45
+1.48
+Sarı Kartlar: Remo PA : Toplam
+Üst
+Alt
+1.5
+1.86
+1.84
+Sarı Kartlar: Chapecoense : Toplam
+Üst
+Alt
+1.5
+1.63
+2.13
+2
+2.21
+1.59
+Sarı Kartlar : 1. Yarı Sonucu
+Remo PA
+X
+Chapecoense
+3.38
+2.23
+2.70
+Sarı Kartlar : 1. Yarı Handikap
+Remo PA
+Chapecoense
+0
+2.02
+0
+1.70
++0.5
+1.40
+-0.5
+2.70
+Sarı Kartlar: 1. Yarı : Toplam
+Üst
+Alt
+0.5
+1.34
+3.00
+1
+1.70
+2.02
+1.5
+2.59
+1.44
+Sarı Kartlar : 1. Yarı Remo PA Toplam
+Üst
+Alt
+0.5
+2.10
+1.65
+Sarı Kartlar : 1. Yarı Chapecoense Toplam
+Üst
+Alt
+0.5
+1.90
+1.80
+Sarı Kartlar : 2.Yarı Sonuç
+Remo PA
+X
+Chapecoense
+2.58
+2.95
+2.27
+Sarı Kartlar : 2.Yarı Handikap
+Remo PA
+Chapecoense
+0
+2.05
+0
+1.68
++0.5
+1.56
+-0.5
+2.27
+Sarı Kartlar: 2.Yarı : Toplam
+Üst
+Alt
+2
+1.63
+2.13
+2.5
+2.15
+1.62
+Sarı Kartlar: 2. Yarı : Remo PA Toplam
+Üst
+Alt
+0.5
+1.41
+2.68
+1
+1.93
+1.77
+1.5
+2.87
+1.36
+Sarı Kartlar: 2. Yarı : Chapecoense Toplam
+Üst
+Alt
+1
+1.66
+2.08
+1.5
+2.50
+1.47
+Sarı Kartlar: İlk Sarı Kartı Görür
+Remo PA
+Chapecoense
+2.04
+1.78
+Sarı Kartlar: Son Sarı Kartı Görür
+Remo PA
+Chapecoense
+2.04
+1.78
+Maçta Penaltı Olur
+Evet
+Hayır
+2.95
+1.35
+Remo PA : Penaltı Kazanır
+Evet
+4.20
+Chapecoense : Penaltı Kazanır
+Evet
+5.60
+İki Takım da Penaltı Kazanır
+Evet
+21.00
+Maçta İki Penaltı Olur
+Evet
+4.70
+1. . Yarı : Penaltı
+Evet
+Hayır
+5.10
+1.13
+Penaltıdan Gol Atar
+Remo PA
+Chapecoense
+5.50
+8.00
+Penaltı Kaçırır
+Remo PA
+Chapecoense
+15.00
+23.00
+Maçta Kırmzı Kartlar
+YENİ
+1+
+4.20
+2+
+11.00
+3+
+36.00
+Remo PA Kırmızı Kartlar
+YENİ
+1+
+2+
+8.70
+21.00
+Chapecoense Kırmızı Kartlar
+YENİ
+1+
+2+
+6.50
+17.00
+1. . Yarı : Kırmızı Kart
+Evet
+Hayır
+9.70
+1.023
+2.. Yarı : Kırmızı Kart
+Evet
+Hayır
+4.42
+1.17
+Penaltı ve Kırmızı Kart
+Evet
+Hayır
+8.50
+1.04
+Maçta Penaltı veya Kırmızı Kart olur
+Evet
+1.71
+Maçta kendi kalesine gol atılır
+Evet
+Hayır
+8.50
+1.04
+Herhangi Bir Zamanda Gol Atar
+Gabriel Taliari
+2.18
+Eduardo Melo
+2.18
+Jaja
+2.33
+Gabriel Poveda
+2.60
+Vitor Bueno
+2.80
+Antonio Galeano
+3.25
+Yago Pikachu
+3.30
+David Braga
+3.35
+Tulio Eduardo
+3.70
+Gleidson
+5.10
+Leonel Picco
+5.30
+Rodrigo
+5.50
+Daha Fazla Seçeneği Göster
+İlk Golcü
+Eduardo Melo
+4.70
+Gabriel Taliari
+4.75
+Jaja
+5.30
+Gabriel Poveda
+5.80
+Vitor Bueno
+6.20
+Antonio Galeano
+6.80
+David Braga
+7.80
+Yago Pikachu
+8.40
+Tulio Eduardo
+8.60
+Jaderson
+11.00
+Gleidson
+12.00
+Leonel Picco
+13.00
+Daha Fazla Seçeneği Göster
+İlk Golcü. Çifte Şans
+Yago Pikachu or Gabriel Poveda
+3.25
+Gabriel Poveda or Vitor Bueno
+3.25
+Gabriel Poveda or Yannick Bolasie
+4.00
+Yago Pikachu or Vitor Bueno
+4.00
+Yago Pikachu or Yannick Bolasie
+5.00
+Yannick Bolasie or Vitor Bueno
+5.00
+Patrick Bezerra or Duplexe Tchamba
+8.50
+Patrick Bezerra or Rafael Carvalheira
+9.00
+Patrick Bezerra or Enio
+9.00
+Enio or Rafael Carvalheira
+11.00
+Son Golcü
+Eduardo Melo
+4.30
+Gabriel Taliari
+5.00
+Jaja
+5.30
+Gabriel Poveda
+5.80
+Vitor Bueno
+6.20
+Antonio Galeano
+6.80
+David Braga
+7.80
+Yago Pikachu
+8.40
+Tulio Eduardo
+9.60
+Jaderson
+11.00
+Gleidson
+13.00
+Rodrigo
+14.00
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 2 Gol Atar
+Gabriel Taliari
+7.00
+Eduardo Melo
+7.50
+Jaja
+9.00
+Gabriel Poveda
+9.80
+Vitor Bueno
+13.00
+Antonio Galeano
+15.00
+Yago Pikachu
+19.00
+David Braga
+19.00
+Tulio Eduardo
+25.00
+Robert Santos
+36.00
+Gleidson
+36.00
+Leonel Picco
+41.00
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 3 Gol Atar
+Gabriel Taliari
+31.00
+Eduardo Melo
+36.00
+Jaja
+46.00
+Gabriel Poveda
+46.00
+Vitor Bueno
+86.00
+Antonio Galeano
+91.00
+David Braga
+111.00
+Jaderson
+126.00
+Ze Ivaldo
+126.00
+Camilo
+126.00
+Rosivan
+126.00
+Mayk
+126.00
+Daha Fazla Seçeneği Göster
+Oyuncu Asist Yapar
+YENİ
+Vitor Bueno 1+
+2.75
+Gabriel Taliari 1+
+3.35
+Yago Pikachu 1+
+3.75
+Jaja 1+
+3.95
+David Braga 1+
+4.10
+Patrick 1+
+4.30
+Antonio Galeano 1+
+4.30
+Marcelinho 1+
+4.40
+Giovanni Augusto 1+
+4.50
+Eduardo Melo 1+
+4.60
+Marlon 1+
+4.70
+Gabriel Poveda 1+
+4.85
+Jaderson 1+
+5.20
+Mayk 1+
+5.50
+Joao Lucas 1+
+5.60
+Dylan Borrero 1+
+6.40
+Robert Santos 1+
+6.60
+Ze Welison 1+
+6.90
+Rubens 1+
+7.10
+Edson Fernando 1+
+7.10
+Leonel Picco 1+
+7.20
+Miguel Carvalho 1+
+7.80
+Rodrigo 1+
+8.30
+Tulio Eduardo 1+
+8.40
+Fernando Augusto 1+
+10.00
+Mancha 1+
+11.00
+Max 1+
+11.00
+Everton 1+
+11.00
+Gleidson 1+
+11.00
+Rosivan 1+
+12.00
+Tchamba 1+
+12.00
+Camilo 1+
+13.00
+David Antunes 1+
+13.00
+Bruno Tubarao 1+
+14.00
+Ze Ivaldo 1+
+17.00
+Marllon 1+
+17.00
+Victor Caetano 1+
+25.00
+Doma 1+
+26.00
+Kauan Faria 1+
+31.00
+Oyuncu Gol Atar veya Asist Yapar
+Gabriel Taliari
+1.59
+Eduardo Melo
+1.70
+Vitor Bueno
+1.70
+Jaja
+1.73
+Gabriel Poveda
+1.92
+Yago Pikachu
+2.05
+David Braga
+2.09
+Antonio Galeano
+2.12
+Tulio Eduardo
+2.75
+Marcelinho
+2.80
+Patrick
+2.90
+Jaderson
+2.95
+Daha Fazla Seçeneği Göster
+Oyuncu Gol Atar veya Asist Yapar (Çifte Şans)
+Vitor Bueno or Gabriel Poveda
+1.25
+Gabriel Poveda or Yago Pikachu
+1.25
+Vitor Bueno or Yago Pikachu
+1.30
+Patrick Bezerra or Gabriel Poveda
+1.33
+Patrick Bezerra or Yago Pikachu
+1.44
+Patrick Bezerra or Vitor Bueno
+1.44
+Enio or Yannick Bolasie
+2.25
+Yannick Bolasie or Duplexe Tchamba
+2.30
+Yannick Bolasie or Rafael Carvalheira
+2.38
+Enio or Rafael Carvalheira
+2.60
+Oyuncu Gol Atar ve Asist Yapar
+YENİ
+Vitor Bueno
+5.50
+Gabriel Taliari
+5.70
+Jaja
+7.00
+Eduardo Melo
+7.90
+Yago Pikachu
+8.00
+David Braga
+8.70
+Antonio Galeano
+9.10
+Gabriel Poveda
+9.10
+Marcelinho
+14.00
+Jaderson
+15.00
+Giovanni Augusto
+17.00
+Patrick
+17.00
+Robert Santos
+19.00
+Dylan Borrero
+19.00
+Tulio Eduardo
+19.00
+Leonel Picco
+19.00
+Rodrigo
+23.00
+Miguel Carvalho
+23.00
+Ze Welison
+25.00
+Joao Lucas
+25.00
+RUBENS
+26.00
+Gleidson
+26.00
+Edson Fernando
+29.00
+Max
+31.00
+Tchamba
+36.00
+David Antunes
+41.00
+Mayk
+41.00
+Rosivan
+41.00
+Oyuncu Penaltıdan Gol Atar
+YENİ
+Vitor Bueno
+4.20
+Yago Pikachu
+10.00
+Gabriel Poveda
+13.00
+Tulio Eduardo
+14.00
+Gleidson
+14.00
+Eduardo Melo
+15.00
+Gabriel Taliari
+17.00
+Antonio Galeano
+19.00
+Jaja
+19.00
+David Braga
+19.00
+Rodrigo
+21.00
+Jaderson
+21.00
+Leonel Picco
+23.00
+Patrick
+23.00
+Max
+23.00
+Giovanni Augusto
+25.00
+Robert Santos
+25.00
+Dylan Borrero
+25.00
+Ze Welison
+25.00
+Edson Fernando
+25.00
+Miguel Carvalho
+25.00
+RUBENS
+26.00
+Rosivan
+34.00
+Joao Lucas
+36.00
+Marcelinho
+36.00
+David Antunes
+41.00
+Camilo
+41.00
+Mancha
+56.00
+Marlon
+61.00
+Mayk
+61.00
+Fernando Augusto
+61.00
+Doma
+91.00
+Tchamba
+91.00
+Kauan Faria
+91.00
+Marllon
+91.00
+Ze Ivaldo
+91.00
+Victor Caetano
+91.00
+Everton
+91.00
+Bruno Tubarao
+91.00
+Oyuncu Ceza Sahası Dışından Gol Atar
+Jaja
+6.00
+Vitor Bueno
+9.30
+Eduardo Melo
+11.00
+Alef Manga
+11.00
+Leonel Picco
+12.00
+David Braga
+13.00
+Gabriel Taliari
+13.00
+Yago Pikachu
+13.00
+Jaderson
+17.00
+Tulio Eduardo
+17.00
+Antonio Galeano
+17.00
+Max
+19.00
+Daha Fazla Seçeneği Göster
+Oyuncu Penaltı Kaçırır
+YENİ
+Eduardo Melo
+23.00
+Gabriel Poveda
+25.00
+Vitor Bueno
+25.00
+Gabriel Taliari
+26.00
+Tulio Eduardo
+31.00
+Gleidson
+31.00
+Yago Pikachu
+41.00
+David Braga
+41.00
+Jaja
+46.00
+Antonio Galeano
+46.00
+Rodrigo
+51.00
+Giovanni Augusto
+61.00
+Jaderson
+61.00
+Dylan Borrero
+86.00
+Robert Santos
+86.00
+Joao Lucas
+91.00
+David Antunes
+91.00
+Marlon
+91.00
+Camilo
+91.00
+Miguel Carvalho
+91.00
+Bruno Tubarao
+91.00
+RUBENS
+91.00
+Victor Caetano
+91.00
+Mancha
+91.00
+Max
+91.00
+Everton
+91.00
+Patrick
+91.00
+Ze Welison
+91.00
+Marllon
+91.00
+Fernando Augusto
+91.00
+Kauan Faria
+91.00
+Marcelinho
+91.00
+Rosivan
+91.00
+Tchamba
+91.00
+Ze Ivaldo
+91.00
+Mayk
+91.00
+Doma
+91.00
+Edson Fernando
+91.00
+Leonel Picco
+91.00
+Penaltı Kazandıran Oyuncu
+YENİ
+Eduardo Melo 1+
+12.00
+Gabriel Taliari 1+
+17.00
+Gabriel Poveda 1+
+21.00
+Antonio Galeano 1+
+21.00
+David Braga 1+
+23.00
+Jaja 1+
+26.00
+Rodrigo 1+
+29.00
+Tulio Eduardo 1+
+31.00
+Gleidson 1+
+31.00
+Marcelinho 1+
+31.00
+Yago Pikachu 1+
+31.00
+Robert Santos 1+
+36.00
+Jaderson 1+
+36.00
+Marlon 1+
+36.00
+Vitor Bueno 1+
+41.00
+Joao Lucas 1+
+41.00
+Miguel Carvalho 1+
+41.00
+Giovanni Augusto 1+
+46.00
+Edson Fernando 1+
+46.00
+Patrick 1+
+46.00
+Dylan Borrero 1+
+51.00
+Rubens 1+
+51.00
+Fernando Augusto 1+
+51.00
+Everton 1+
+51.00
+Mancha 1+
+67.00
+Max 1+
+71.00
+Camilo 1+
+71.00
+Doma 1+
+71.00
+Kauan Faria 1+
+71.00
+Rosivan 1+
+71.00
+Ze Ivaldo 1+
+71.00
+Bruno Tubarao 1+
+71.00
+Leonel Picco 1+
+71.00
+David Antunes 1+
+71.00
+Ze Welison 1+
+71.00
+Victor Caetano 1+
+71.00
+Marllon 1+
+71.00
+Tchamba 1+
+71.00
+Mayk 1+
+71.00
+Oyuncu Kale Sahası İçinden Gol Atar
+YENİ
+Eduardo Melo
+2.48
+Gabriel Poveda
+5.40
+Jaderson
+7.80
+Gabriel Taliari
+8.00
+Antonio Galeano
+9.40
+Tulio Eduardo
+12.00
+Jaja
+14.00
+Marllon
+15.00
+David Braga
+17.00
+Vitor Bueno
+19.00
+Gleidson
+21.00
+Rodrigo
+23.00
+Marcelinho
+23.00
+Yago Pikachu
+23.00
+Tchamba
+23.00
+Joao Lucas
+25.00
+Patrick
+31.00
+Ze Ivaldo
+31.00
+Max
+31.00
+Miguel Carvalho
+31.00
+Leonel Picco
+36.00
+Robert Santos
+41.00
+Dylan Borrero
+41.00
+Edson Fernando
+41.00
+Giovanni Augusto
+46.00
+Mayk
+46.00
+RUBENS
+51.00
+Doma
+51.00
+Kauan Faria
+51.00
+Ze Welison
+51.00
+Victor Caetano
+51.00
+Everton
+51.00
+David Antunes
+51.00
+Camilo
+51.00
+Fernando Augusto
+51.00
+Mancha
+51.00
+Rosivan
+51.00
+Bruno Tubarao
+51.00
+Marlon
+51.00
+Oyuncu Kafa Golü Atar
+Eduardo Melo
+4.20
+Gabriel Taliari
+7.50
+Gabriel Poveda
+8.60
+Tchamba
+11.00
+Tulio Eduardo
+12.00
+Marllon
+12.00
+Ze Ivaldo
+14.00
+David Braga
+17.00
+Antonio Galeano
+17.00
+Gleidson
+19.00
+Leonel Picco
+19.00
+Doma
+21.00
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar Çifte Şans
+Eduardo Melo or Gabriel Taliari
+1.41
+Eduardo Melo or Jaja
+1.45
+Gabriel Taliari or Jaja
+1.45
+Gabriel Poveda or Eduardo Melo
+1.50
+Gabriel Poveda or Gabriel Taliari
+1.50
+Eduardo Melo or Vitor Bueno
+1.53
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar. Üçlü Şans
+Eduardo Melo or Gabriel Taliari or Jaja
+1.20
+Gabriel Poveda or Eduardo Melo or Gabriel Taliari
+1.22
+Eduardo Melo or Gabriel Taliari or Vitor Bueno
+1.23
+Gabriel Poveda or Gabriel Taliari or Jaja
+1.24
+Gabriel Poveda or Eduardo Melo or Jaja
+1.24
+Gabriel Taliari or Jaja or Vitor Bueno
+1.25
+Daha Fazla Seçeneği Göster
+Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar
+Eduardo Melo and Gabriel Taliari
+4.75
+Gabriel Taliari and Jaja
+5.10
+Eduardo Melo and Jaja
+5.10
+Gabriel Poveda and Gabriel Taliari
+5.70
+Gabriel Poveda and Eduardo Melo
+5.70
+Gabriel Poveda and Jaja
+6.00
+Daha Fazla Seçeneği Göster
+Üç Oyuncu da Herhangi Bir Zamanda Gol Atar
+Eduardo Melo and Gabriel Taliari and Jaja
+11.00
+Gabriel Poveda and Eduardo Melo and Gabriel Taliari
+12.00
+Gabriel Poveda and Gabriel Taliari and Jaja
+13.00
+Gabriel Poveda and Eduardo Melo and Jaja
+13.00
+Eduardo Melo and Gabriel Taliari and Vitor Bueno
+13.00
+Gabriel Taliari and Jaja and Vitor Bueno
+14.00
+Daha Fazla Seçeneği Göster
+Oyuncu 1. Yarıda Gol Atar
+Eduardo Melo
+3.65
+Gabriel Taliari
+3.70
+Jaja
+3.95
+Gabriel Poveda
+4.50
+Vitor Bueno
+4.90
+Antonio Galeano
+5.80
+Yago Pikachu
+5.80
+David Braga
+5.90
+Tulio Eduardo
+6.60
+Gleidson
+9.10
+Leonel Picco
+9.60
+Rodrigo
+9.70
+Robert Santos
+10.00
+Jaderson
+10.00
+Dylan Borrero
+11.00
+Marcelinho
+11.00
+Giovanni Augusto
+12.00
+Patrick
+13.00
+Miguel Carvalho
+13.00
+Joao Lucas
+14.00
+Tchamba
+14.00
+Max
+14.00
+Ze Welison
+15.00
+RUBENS
+17.00
+Marllon
+17.00
+Ze Ivaldo
+19.00
+Edson Fernando
+19.00
+David Antunes
+21.00
+Rosivan
+23.00
+Marlon
+23.00
+Mayk
+26.00
+Doma
+26.00
+Mancha
+29.00
+Camilo
+29.00
+Victor Caetano
+31.00
+Everton
+34.00
+Bruno Tubarao
+36.00
+Kauan Faria
+36.00
+Fernando Augusto
+36.00
+Oyuncu 2. Yarıda Gol Atar
+Eduardo Melo
+3.05
+Gabriel Taliari
+3.10
+Jaja
+3.30
+Gabriel Poveda
+3.70
+Vitor Bueno
+4.10
+Antonio Galeano
+4.70
+Yago Pikachu
+4.80
+David Braga
+4.90
+Tulio Eduardo
+5.50
+Gleidson
+7.60
+Leonel Picco
+7.80
+Rodrigo
+8.20
+Jaderson
+8.40
+Marcelinho
+8.60
+Robert Santos
+8.80
+Dylan Borrero
+8.90
+Giovanni Augusto
+9.80
+Miguel Carvalho
+10.00
+Patrick
+11.00
+Max
+11.00
+Tchamba
+12.00
+Ze Welison
+12.00
+Joao Lucas
+12.00
+RUBENS
+13.00
+Marllon
+14.00
+Edson Fernando
+14.00
+Ze Ivaldo
+15.00
+David Antunes
+17.00
+Rosivan
+19.00
+Marlon
+19.00
+Mayk
+23.00
+Doma
+23.00
+Mancha
+25.00
+Camilo
+25.00
+Victor Caetano
+26.00
+Everton
+29.00
+Bruno Tubarao
+31.00
+Kauan Faria
+31.00
+Fernando Augusto
+31.00
+Oyuncu Her İki Yarıda da Gol Atar
+Eduardo Melo
+8.80
+Gabriel Taliari
+8.90
+Jaja
+10.00
+Gabriel Poveda
+12.00
+Vitor Bueno
+14.00
+Antonio Galeano
+19.00
+Yago Pikachu
+19.00
+David Braga
+19.00
+Tulio Eduardo
+23.00
+Leonel Picco
+41.00
+Gleidson
+41.00
+Rodrigo
+41.00
+Jaderson
+41.00
+Dylan Borrero
+46.00
+Robert Santos
+46.00
+Giovanni Augusto
+51.00
+Miguel Carvalho
+61.00
+Oyuncu Serbest Vuruştan Gol Atar
+YENİ
+Vitor Bueno
+11.00
+Ze Welison
+34.00
+Robert Santos
+51.00
+Edson Fernando
+56.00
+Yago Pikachu
+56.00
+Patrick
+56.00
+Giovanni Augusto
+61.00
+Leonel Picco
+61.00
+Jaderson
+71.00
+Rosivan
+71.00
+Gabriel Poveda
+71.00
+Jaja
+71.00
+Gabriel Taliari
+71.00
+Antonio Galeano
+76.00
+David Braga
+76.00
+Eduardo Melo
+76.00
+Camilo
+91.00
+Joao Lucas
+91.00
+Fernando Augusto
+91.00
+Mancha
+91.00
+Marllon
+91.00
+Tulio Eduardo
+91.00
+Victor Caetano
+91.00
+David Antunes
+91.00
+Doma
+91.00
+Marlon
+91.00
+Tchamba
+91.00
+Max
+91.00
+RUBENS
+91.00
+Bruno Tubarao
+91.00
+Mayk
+91.00
+Marcelinho
+91.00
+Miguel Carvalho
+91.00
+Kauan Faria
+91.00
+Rodrigo
+91.00
+Ze Ivaldo
+91.00
+Everton
+91.00
+Dylan Borrero
+91.00
+Gleidson
+91.00
+Oyuncu Sağ Ayağıyla Gol Atar
+YENİ
+Jaja
+2.65
+Gabriel Taliari
+2.95
+Vitor Bueno
+3.50
+Eduardo Melo
+3.80
+Yago Pikachu
+3.85
+Gabriel Poveda
+3.90
+Antonio Galeano
+4.20
+Tulio Eduardo
+6.40
+Leonel Picco
+7.20
+Dylan Borrero
+7.80
+Giovanni Augusto
+7.90
+Gleidson
+8.80
+Marcelinho
+10.00
+David Braga
+11.00
+Ze Welison
+11.00
+Joao Lucas
+14.00
+Rodrigo
+17.00
+Edson Fernando
+17.00
+David Antunes
+17.00
+Rosivan
+17.00
+Robert Santos
+19.00
+Camilo
+21.00
+Ze Ivaldo
+23.00
+Max
+25.00
+Miguel Carvalho
+25.00
+Marllon
+26.00
+Marlon
+26.00
+Everton
+29.00
+Patrick
+31.00
+Bruno Tubarao
+34.00
+Jaderson
+41.00
+Mancha
+41.00
+RUBENS
+41.00
+Fernando Augusto
+41.00
+Victor Caetano
+41.00
+Doma
+41.00
+Kauan Faria
+41.00
+Tchamba
+41.00
+Mayk
+41.00
+Oyuncu Sol Ayağıyla Gol Atar
+YENİ
+David Braga
+5.00
+Jaderson
+6.70
+Robert Santos
+8.30
+Rodrigo
+8.90
+Miguel Carvalho
+9.20
+Gabriel Poveda
+9.30
+Eduardo Melo
+9.60
+Gabriel Taliari
+9.70
+Patrick
+10.00
+RUBENS
+11.00
+Vitor Bueno
+11.00
+Tulio Eduardo
+12.00
+Max
+12.00
+Jaja
+12.00
+Antonio Galeano
+17.00
+Marcelinho
+17.00
+Gleidson
+17.00
+Yago Pikachu
+19.00
+Joao Lucas
+19.00
+Mayk
+19.00
+Tchamba
+21.00
+Dylan Borrero
+23.00
+Marlon
+26.00
+Mancha
+29.00
+Edson Fernando
+31.00
+Fernando Augusto
+31.00
+Leonel Picco
+36.00
+Rosivan
+41.00
+David Antunes
+41.00
+Kauan Faria
+41.00
+Ze Welison
+41.00
+Marllon
+41.00
+Victor Caetano
+41.00
+Giovanni Augusto
+41.00
+Doma
+41.00
+Camilo
+41.00
+Everton
+41.00
+Ze Ivaldo
+41.00
+Bruno Tubarao
+41.00
+İlk 10 Dakikada Gol Atar
+Eduardo Melo
+14.00
+Gabriel Taliari
+14.00
+Jaja
+15.00
+Gabriel Poveda
+17.00
+Vitor Bueno
+19.00
+Yago Pikachu
+23.00
+Antonio Galeano
+23.00
+David Braga
+23.00
+Tulio Eduardo
+25.00
+Leonel Picco
+34.00
+Marcelinho
+36.00
+Rodrigo
+36.00
+Robert Santos
+36.00
+Dylan Borrero
+36.00
+Jaderson
+36.00
+Gleidson
+36.00
+Giovanni Augusto
+41.00
+Miguel Carvalho
+41.00
+Patrick
+41.00
+Max
+46.00
+Ze Welison
+51.00
+Joao Lucas
+51.00
+Tchamba
+51.00
+RUBENS
+51.00
+Edson Fernando
+56.00
+Marllon
+56.00
+Ze Ivaldo
+67.00
+David Antunes
+71.00
+Marlon
+76.00
+Rosivan
+76.00
+Fernando Augusto
+81.00
+Victor Caetano
+81.00
+Mayk
+81.00
+Kauan Faria
+81.00
+Doma
+81.00
+Camilo
+81.00
+Mancha
+81.00
+Bruno Tubarao
+81.00
+Everton
+81.00
+Remo PA : İlk Golü Atar
+Gabriel Taliari
+3.55
+Jaja Silva
+4.00
+Gabriel Poveda
+4.00
+Eduardo Melo
+4.00
+Andres Gonzalez
+4.33
+Tico Junior
+4.50
+Dos Reis Jaderson
+4.50
+Alef Manga
+4.60
+Vitor Bueno
+5.10
+Antonio Galeano
+5.30
+Yago Pikachu
+5.50
+David Braga
+6.70
+Daha Fazla Seçeneği Göster
+Chapecoense : İlk Golü Atar
+de Oliveira Tulio Eduardo
+5.00
+Franco Rossi
+6.20
+Kevin Ramirez
+6.70
+Yannick Bolasie
+7.00
+Marcinho Antonio
+7.00
+Mauricio Garcez
+8.00
+Dylan Borrero
+8.00
+Robert Conceicao
+8.00
+Miguel Carvalho
+8.50
+Tiago Rodrigo
+8.50
+Max Alves
+10.00
+Rubens Ricoldi
+10.00
+Daha Fazla Seçeneği Göster
+Remo PA : Son Golcü
+Eduardo Melo
+3.40
+Gabriel Taliari
+3.75
+Gabriel Poveda
+4.00
+Alef Manga
+4.00
+Jaja Silva
+4.00
+Andres Gonzalez
+4.33
+Tico Junior
+4.50
+Dos Reis Jaderson
+4.50
+Vitor Bueno
+5.50
+Yago Pikachu
+5.50
+Antonio Galeano
+6.00
+Ze Ricardo Fernandes
+8.00
+Daha Fazla Seçeneği Göster
+Chapecoense : Son Golü Atar
+de Oliveira Tulio Eduardo
+5.00
+Yannick Bolasie
+7.00
+Franco Rossi
+7.00
+Marcinho Antonio
+7.00
+Kevin Ramirez
+8.00
+Mauricio Garcez
+8.00
+Robert Conceicao
+8.00
+Miguel Carvalho
+8.50
+Tiago Rodrigo
+8.50
+Rubens Ricoldi
+10.00
+Enio
+10.00
+Dylan Borrero
+10.00
+Daha Fazla Seçeneği Göster
+Gol Asisti Yapar Çifte Şans
+Vitor Bueno or Gabriel Poveda
+1.57
+Gabriel Poveda or Yago Pikachu
+1.57
+Vitor Bueno or Yago Pikachu
+1.60
+Gabriel Poveda or Patrick Bezerra
+1.65
+Patrick Bezerra or Yago Pikachu
+1.71
+Vitor Bueno or Patrick Bezerra
+1.71
+Enio or Yannick Bolasie
+2.59
+Enio or Duplexe Tchamba
+2.82
+Yannick Bolasie or Rafael Carvalheira
+2.93
+Enio or Rafael Carvalheira
+2.93
+Oyuncu Kart Görür
+David Antunes
+2.65
+Edson Fernando
+2.75
+Camilo
+2.95
+Rosivan
+3.15
+Fernando Augusto
+3.25
+RUBENS
+3.25
+Mancha
+3.35
+Victor Caetano
+3.45
+Doma
+3.45
+Ze Welison
+3.65
+Ze Ivaldo
+3.70
+Gabriel Taliari
+3.85
+Daha Fazla Seçeneği Göster
+Oyuncu Kart Görür Çifte Şans
+Enio or Duplexe Tchamba
+1.73
+Camilo or Enio
+1.73
+Enio or Vitor Bueno
+1.83
+Camilo or Duplexe Tchamba
+1.95
+Gabriel Poveda or Duplexe Tchamba
+2.10
+Camilo or Gabriel Poveda
+2.10
+Yannick Bolasie or Vitor Bueno
+2.25
+Gabriel Poveda or Vitor Bueno
+2.30
+Yannick Bolasie or Bruno Pacheco
+2.30
+Yannick Bolasie or Patrick Bezerra
+2.40
+Oyuncu Sarı Kart Görür
+David Antunes
+2.75
+Edson Fernando
+2.90
+Camilo
+3.05
+Rosivan
+3.25
+Fernando Augusto
+3.40
+RUBENS
+3.40
+Mancha
+3.50
+Doma
+3.55
+Victor Caetano
+3.60
+Ze Welison
+3.80
+Ze Ivaldo
+3.85
+Gabriel Taliari
+4.10
+Gleidson
+4.10
+Robert Santos
+4.20
+Marcelinho
+4.20
+Giovanni Augusto
+4.20
+Leonel Picco
+4.30
+Max
+4.33
+Miguel Carvalho
+4.33
+Eduardo Melo
+4.33
+Dylan Borrero
+4.33
+Antonio Galeano
+4.40
+Jaja
+4.40
+Tulio Eduardo
+4.40
+Kauan Faria
+4.40
+Rodrigo
+4.40
+Everton
+4.50
+Joao Lucas
+4.50
+Bruno Tubarao
+4.60
+Tchamba
+4.70
+David Braga
+4.80
+Gabriel Poveda
+4.80
+Jaderson
+5.40
+Marllon
+5.40
+Vitor Bueno
+5.40
+Yago Pikachu
+5.40
+Patrick
+5.50
+Mayk
+5.80
+Marlon
+6.80
+Matheus Aurelio
+7.00
+Gabriel Werner
+8.30
+Ygor Vinhas
+11.00
+Ivan
+12.00
+Marcelo Rangel
+12.00
+Kart Görecek İlk Oyuncu
+Edson Fernando
+6.90
+Mancha
+8.90
+Rosivan
+9.20
+RUBENS
+9.40
+Fernando Augusto
+9.60
+Camilo
+10.00
+Antonio Galeano
+12.00
+Gabriel Taliari
+12.00
+Rodrigo
+12.00
+Gabriel Poveda
+12.00
+Robert Santos
+12.00
+David Antunes
+13.00
+Daha Fazla Seçeneği Göster
+Son Kartı Görecek Oyuncu
+YENİ
+Edson Fernando
+6.90
+Mancha
+8.90
+Rosivan
+9.20
+RUBENS
+9.40
+Fernando Augusto
+9.60
+Camilo
+10.00
+Gabriel Poveda
+12.00
+Antonio Galeano
+12.00
+Rodrigo
+12.00
+Gabriel Taliari
+12.00
+Robert Santos
+12.00
+Victor Caetano
+13.00
+Joao Lucas
+13.00
+Ze Ivaldo
+13.00
+Doma
+13.00
+Max
+13.00
+David Antunes
+13.00
+Kauan Faria
+13.00
+Everton
+13.00
+Bruno Tubarao
+13.00
+Ze Welison
+13.00
+Leonel Picco
+14.00
+Dylan Borrero
+14.00
+Miguel Carvalho
+14.00
+Eduardo Melo
+14.00
+Tulio Eduardo
+14.00
+Gleidson
+14.00
+Jaja
+15.00
+David Braga
+15.00
+Jaderson
+17.00
+Patrick
+17.00
+Marllon
+17.00
+Vitor Bueno
+17.00
+Giovanni Augusto
+17.00
+Yago Pikachu
+17.00
+Marcelinho
+19.00
+Tchamba
+19.00
+Marlon
+21.00
+Mayk
+23.00
+Matheus Aurelio
+25.00
+Gabriel Werner
+25.00
+Marcelo Rangel
+36.00
+Ygor Vinhas
+36.00
+Ivan
+36.00
+Oyundan Uzaklaştırılır
+YENİ
+Edson Fernando
+19.00
+RUBENS
+21.00
+Fernando Augusto
+21.00
+Joao Lucas
+25.00
+Camilo
+26.00
+Gabriel Taliari
+29.00
+Dylan Borrero
+31.00
+David Antunes
+31.00
+Rodrigo
+31.00
+Mancha
+31.00
+Antonio Galeano
+31.00
+Max
+31.00
+Daha Fazla Seçeneği Göster
+Remo PA : Her İki Yarıda Gol Atar
+Evet
+Hayır
+2.17
+1.61
+Chapecoense Her İki Yarıda Gol Atar
+Evet
+Hayır
+6.90
+1.07
+Remo PA : Her İki Yarıda Kazanır
+Evet
+Hayır
+3.15
+1.31
+Remo PA : İlk Yarıda Gol Atar
+Evet
+Hayır
+1.54
+2.33
+Chapecoense İlk Yarıda Gol Atar
+Evet
+Hayır
+3.15
+1.31
+Remo PA : İkinci Yarıda Gol Atar
+Evet
+Hayır
+1.37
+2.85
+Chapecoense İkinci Yarıda Gol Atar
+Evet
+Hayır
+2.52
+1.46
+İlk Yarıda Gol
+Evet
+Hayır
+1.32
+2.97
+İkinci Yarıda Gol
+Evet
+Hayır
+1.19
+4.15
+Her İki Yarııda da 1.5 Üst Gol
+Evet
+Hayır
+4.57
+1.16
+Her İki Yarı Goller 1.5 Alt
+Evet
+Hayır
+2.68
+1.41
+Remo PA Gol Yemeden Kazanır
+Evet
+Hayır
+2.25
+1.57
+Chapecoense Gol Yemeden Kazanır
+Evet
+Hayır
+8.70
+1.035
+Remo PA İki veya Üç Gol Farkla Kazanır
+Evet
+Hayır
+2.65
+1.42
+Remo PA Bir Gol Farkla Kazanır veya Berabere
+Evet
+Hayır
+2.04
+1.69
+Chapecoense Bir Gol Farkla Kazanır veya Berabere Kalır
+Evet
+Hayır
+3.15
+1.31
+Remo PA En Az Bir Yarıyı Kazanır
+Evet
+Hayır
+1.22
+3.83
+Chapecoense En Az Bir Yarıda Kazanır
+Evet
+Hayır
+3.40
+1.27
+Remo PA İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+9.70
+1.023
+Chapecoense İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+8.50
+1.04
+Remo PA : Gol Atar 1.Yarı/2.Yarı
+Evet/Hayır
+3.84
+Evet/Evet
+2.17
+Hayır/Hayır
+5.70
+Hayır/Evet
+2.85
+Chapecoense Gol Atar İlk Yarı/İkinci Yarı
+Evet/Hayır
+3.97
+Evet/Evet
+6.60
+Hayır/Hayır
+2.02
+Hayır/Evet
+2.97
+Yarıları Farklı Takımlar Kazanır
+Evet
+Hayır
+5.35
+1.12
+Yarılardan En Az Birinde Beraberlik
+Evet
+Hayır
+1.65
+2.10
+Maç Skoru Beraberlik (0-0 hariç)
+Evet
+Hayır
+5.55
+1.11
+Kesin Gol Sayısı
+Gol Yok
+10.00
+Kesin 1
+4.75
+Kesin 2
+3.65
+Kesin 3
+3.75
+Kesin 4
+4.90
+Kesin 5
+7.00
+Kesin 6 veya Fazla
+8.60
+Maçta 1 Gol Olur
+Evet
+Hayır
+4.75
+1.15
+Maçta 2 Gol Olur
+Evet
+Hayır
+3.65
+1.24
+Maçta 3 Gol Olur
+Evet
+Hayır
+3.75
+1.23
+Maçta 4 Gol Olur
+Evet
+Hayır
+4.90
+1.14
+Remo PA : Kazanma Marjı
+1
+3.38
+2
+3.90
+3
+5.60
+4+
+7.10
+Chapecoense : Kazanma Marjı
+1
+7.60
+2
+19.00
+3
+67.00
+4+
+226.00
+Skor Kombinasyonları
+1-0 / 2-0 / 3-0
+2.41
+4-0 / 5-0 / 6-0
+8.30
+2-1 / 3-1 / 4-1
+3.62
+3-2 / 4-2 / 4-3
+9.80
+0-1 / 0-2 / 0-3
+9.80
+0-4 / 0-5 / 0-6
+276.00
+1-2 / 1-3 / 1-4
+13.00
+2-3 / 2-4 / 3-4
+36.00
+Ofsaytlar: Toplam
+YENİ
+2+
+1.18
+3+
+1.50
+4+
+2.16
+5+
+3.50
+6+
+6.20
+Ofsaytlar: Remo PA Toplam
+YENİ
+1+
+1.27
+2+
+2.08
+3+
+4.20
+4+
+9.10
+5+
+17.00
+Ofsaytlar: Chapecoense Toplam
+YENİ
+1+
+1.18
+2+
+1.71
+3+
+3.00
+4+
+5.90
+5+
+12.00
+Fauller: Toplam
+YENİ
+23+
+1.45
+24+
+1.62
+25+
+1.86
+26+
+2.18
+27+
+2.65
+28+
+3.25
+Fauller: Remo PA - Toplam
+YENİ
+10+
+1.43
+11+
+1.70
+12+
+2.14
+13+
+2.80
+14+
+3.90
+Fauller: Chapecoense - Toplam
+YENİ
+13+
+1.53
+14+
+1.82
+15+
+2.26
+16+
+2.95
+17+
+3.95
+Kaleyi Bulan Şutlar: Toplam
+YENİ
+9+
+1.39
+10+
+1.65
+11+
+2.05
+12+
+2.65
+13+
+3.65
+14+
+5.20
+Kaleyi Bulan Şutlar: Remo PA - Toplam
+YENİ
+5+
+1.29
+6+
+1.56
+7+
+2.01
+8+
+2.75
+9+
+4.10
+10+
+6.30
+Kaleyi Bulan Şutlar: Chapecoense - Toplam
+YENİ
+3+
+1.34
+4+
+1.80
+5+
+2.70
+6+
+4.50
+7+
+8.00
+Kaleyi Bulan Şutlar: 1. Yarı - Toplam
+YENİ
+3+
+1.16
+4+
+1.40
+5+
+1.87
+6+
+2.75
+7+
+4.60
+8+
+7.90
+Kaleyi Bulan Şutlar: 1. Yarı - Remo PA - Toplam
+YENİ
+2+
+1.22
+3+
+1.64
+4+
+2.50
+5+
+4.33
+6+
+8.30
+Kaleyi Bulan Şutlar: 1. Yarı - Chapecoense - Toplam
+YENİ
+1+
+1.22
+2+
+1.94
+3+
+3.90
+4+
+8.90
+5+
+17.00
+Kaleyi Bulan Şutlar: 2. Yarı - Toplam
+YENİ
+5+
+1.44
+6+
+1.87
+7+
+2.65
+8+
+4.10
+9+
+6.60
+Kaleyi Bulan Şutlar: 2. Yarı - Remo PA - Toplam
+YENİ
+2+
+1.17
+3+
+1.47
+4+
+2.08
+5+
+3.25
+6+
+5.60
+7+
+10.00
+Kaleyi Bulan Şutlar: 2. Yarı - Chapecoense - Toplam
+YENİ
+1+
+1.12
+2+
+1.51
+3+
+2.44
+4+
+4.60
+5+
+9.20
+6+
+17.00
+Şutlar: Toplam
+YENİ
+32+
+1.66
+33+
+1.84
+34+
+2.07
+35+
+2.36
+36+
+2.70
+37+
+3.20
+38+
+3.75
+Şutlar: Remo PA: Toplam
+YENİ
+19+
+1.32
+20+
+1.41
+21+
+1.53
+22+
+1.67
+23+
+1.85
+24+
+2.05
+25+
+2.31
+Şutlar: Chapecoense: Toplam
+YENİ
+11+
+1.33
+12+
+1.48
+13+
+1.68
+14+
+1.94
+15+
+2.29
+16+
+2.75
+17+
+3.32
+Taç Atışları: Toplam
+YENİ
+41+
+1.76
+42+
+1.93
+43+
+2.14
+44+
+2.41
+Taç Atışları: Remo PA - Toplam
+YENİ
+21+
+1.63
+22+
+1.83
+23+
+2.11
+24+
+2.47
+Taç Atışları: Chapecoense - Toplam
+YENİ
+20+
+1.85
+21+
+2.15
+22+
+2.55
+Paslar: Remo PA Toplam
+YENİ
+400+
+1.14
+450+
+1.31
+500+
+1.65
+550+
+2.35
+600+
+3.60
+Paslar: Chapecoense Toplam
+YENİ
+350+
+1.24
+400+
+1.60
+450+
+2.46
+500+
+4.00
+Pas Denemeleri: Remo PA Toplam
+YENİ
+500+
+1.16
+550+
+1.36
+600+
+1.81
+650+
+2.75
+Pas Denemeleri: Chapecoense Toplam
+YENİ
+400+
+1.13
+450+
+1.36
+500+
+1.96
+550+
+3.35
+İlk 10 Dakika (00:00 - 09:59) Gol
+Üst
+Alt
+0.5
+4.15
+1.19
+İlk 10 Dakika (00:00 - 09:59) Köşe vuruşu
+Üst
+Alt
+0.5
+1.40
+2.70
+1.5
+2.75
+1.39
+Remo PA : İlk 10 Dakika (00:00 – 09:59) Kornerler
+Üst
+Alt
+0.5
+1.80
+1.90
+1.5
+4.75
+1.15
+Chapecoense : İlk 10 Dakika (00:00 – 09:59) Kornerler
+Üst
+Alt
+0.5
+2.55
+1.45
+1.5
+7.50
+1.055
+İlk 10 Dakika (00:00 - 09:59) Sarı Kartlar
+Üst
+Alt
+0.5
+6.90
+1.07
+1-15 Dk. Galibi
+Remo PA
+X
+Chapecoense
+4.00
+1.24
+11.00
+1-15 Dk. Gol Handikapı
+Remo PA
+Chapecoense
+0
+1.27
+0
+3.40
+1-15 Dk. Toplam Goller
+Üst
+Alt
+0.5
+2.70
+1.40
+1
+7.50
+1.055
+1-15 Dk. Remo PA Toplam Goller
+Üst
+Alt
+0.5
+3.30
+1.28
+1-15 Dk. Chapecoense Toplam Goller
+Üst
+Alt
+0.5
+6.70
+1.075
+1-15 Dk. İki Takım Gol Atar
+Evet
+Hayır
+13.00
+1.007
+1-30 Dk. Galibi
+Remo PA
+X
+Chapecoense
+2.39
+1.67
+7.60
+1-30 Dk. Gol Handikapı
+Remo PA
+Chapecoense
+0
+1.24
+0
+3.60
+1-30 Dk. Toplam Goller
+Üst
+Alt
+0.5
+1.67
+2.07
+1
+2.80
+1.38
+1-30 Dk. Remo PA Toplam Goller
+Üst
+Alt
+0.5
+2.01
+1.71
+1
+4.30
+1.18
+1-30 Dk. Chapecoense Toplam Goller
+Üst
+Alt
+0.5
+4.05
+1.20
+1-30 Dk. Karşılıklı Gol
+Evet
+Hayır
+7.30
+1.06
+1-60 Dk. Galibi
+Remo PA
+X
+Chapecoense
+1.61
+2.77
+6.00
+1-60 Dk. Gol Handikapı
+Remo PA
+Chapecoense
+-1
+2.28
++1
+1.55
+1-60 Dk. Toplam Goller
+Üst
+Alt
+1.5
+1.69
+2.04
+2
+2.37
+1.52
+1-60 Dk. Remo PA Toplam Goller
+Üst
+Alt
+1
+1.57
+2.25
+1.5
+2.35
+1.53
+1-60 Dk. Chapecoense Toplam Goller
+Üst
+Alt
+0.5
+2.30
+1.55
+1
+5.85
+1.10
+1-60 Dk. Karşılıklı Gol
+Evet
+Hayır
+3.05
+1.33
+1-75 Dk. Galibi
+Remo PA
+X
+Chapecoense
+1.46
+3.35
+6.00
+1-75 Dk. Gol Handikapı
+Remo PA
+Chapecoense
+-1
+1.89
++1
+1.85
+1-75 Dk. Toplam Goller
+Üst
+Alt
+2
+1.61
+2.17
+2.5
+2.13
+1.63
+1-75 Dk. Remo PA Toplam Goller
+Üst
+Alt
+1.5
+1.78
+1.92
+2
+2.59
+1.44
+1-75 Dk. Chapecoense Toplam Goller
+Üst
+Alt
+0.5
+1.92
+1.78
+1
+3.90
+1.21
+1-75 Dk. Karşılıklı Gol
+Evet
+Hayır
+2.33
+1.54
+Farklı Kombineler
+Remo PA Kazanır veya Üst (2.5) Gol
+1.18
+Beraberlik veya Üst 2.5 Gol
+1.31
+Chapecoense Kazanır veya 2.5 Üst Gol
+1.47
+Remo PA Kazanır veya Alt (2.5) Gol
+1.07
+Beraberlik veya Alt 2.5 Gol
+1.72
+Chapecoense kazanır veya 2,5 alt gol
+1.68
+Daha Fazla Seçeneği Göster
+Çifte Şans Kombo
+1X ve Üst (2.5) Gol
+1.85
+1X ve Alt (2.5) Gol
+2.25
+X2 ve Üst (2.5) Gol
+7.10
+X2 ve Alt (2.5) Gol
+4.00
+12 ve Üst (2.5) Gol
+1.79
+12 ve Alt (2.5) Gol
+2.85
+1X ve Karşılıklı Gol Olur
+1.99
+Remo PA 0'a karşı kazanır veya Doğru Skor 0-0
+2.02
+X2 ve Karşılıklı Gol Olur
+3.76
+Chapecoense 0'a karşı kazanır veya Doğru Skor 0 : 0
+5.70
+12 ve Karşılıklı Gol Olur
+2.37
+Remo PA veya Chapecoense - Gol Yemeden Kazanır
+1.83
+Daha Fazla Seçeneği Göster
+1.Yarı/Maç Skoru
+0-0/0-0
+10.00
+0-1/0-1
+23.00
+0-2/0-2
+101.00
+0-3/0-3
+276.00
+0-4/0-4
+276.00
+1-0/1-0
+11.00
+1-1/1-1
+26.00
+1-2/1-2
+111.00
+1-3/1-3
+276.00
+1-4/1-4
+276.00
+2-0/2-0
+19.00
+2-1/2-1
+51.00
+2-2/2-2
+226.00
+2-3/2-3
+276.00
+2-4/2-4
+276.00
+3-0/3-0
+56.00
+3-1/3-1
+126.00
+3-2/3-2
+276.00
+Daha Fazla Seçeneği Göster
+Karşılıklı Gol ve Toplam Goller 2.5
+Evet ve Üst 2.5
+2.16
+Evet ve Alt 2.5
+7.00
+Hayır ve Üst 2.5
+4.20
+Hayır ve Alt 2.5
+2.28
+Karşılıklı Gol ve Toplam Goller 3.5
+Evet ve Üst 3.5
+3.05
+Evet ve Alt 3.5
+3.37
+Hayır ve Üst 3.5
+8.00
+Hayır ve Alt 3.5
+1.89
+Her İki Yarıda da Karşılıklı Gol
+Evet
+Hayır
+10.00
+1.02
+İlk Golü Atacak Takım ve Maç Sonucu
+Remo PA ve Remo PA
+1.48
+Remo PA ve Berabere
+8.80
+Remo PA ve Chapecoense
+26.00
+Chapecoense ve Remo PA
+7.60
+Chapecoense ve Berabere
+8.80
+Chapecoense ve Chapecoense
+6.50
+Gol Yok
+13.00
+İlk Golü Atacak Takım ve 1. Yarı Sonucu
+Remo PA ve Remo PA
+1.77
+Remo PA ve Berabere
+3.56
+Remo PA ve Chapecoense
+67.00
+Chapecoense ve Remo PA
+26.00
+Chapecoense ve Berabere
+6.30
+Chapecoense ve Chapecoense
+5.50
+Gol Yok
+10.00
+İlk Golü Atacak Takım ve 2. Yarı Sonucu
+Remo PA ve Remo PA
+1.92
+Remo PA ve Berabere
+3.91
+Remo PA ve Chapecoense
+8.20
+Chapecoense ve Remo PA
+6.00
+Chapecoense ve Berabere
+8.20
+Chapecoense ve Chapecoense
+9.80
+Gol Yok
+10.00
+1.Yarı Toplam Gol 'e karşı 2. Yarı Toplam Gol Handikapı
+İlk Yarı Toplam Goller
+İkinci Yarı Toplam Goller
++1.5
+1.24
+-1.5
+3.65
++0.5
+1.13
+-0.5
+1.93
+-0.5
+2.71
++0.5
+1.07
+Remo PA : Geriden Gelerek Kazanır
+Evet
+Hayır
+5.90
+1.07
+Chapecoense : Geriden Kazanır
+Evet
+Hayır
+8.70
+1.01
+İlk Yarı/Maç Sonucu ve Toplam Gol
+Remo PA/Remo PA ve Üst (1.5)
+2.04
+Remo PA/Remo PA ve Alt (1.5)
+11.00
+Remo PA/Beraberlik ve Üst (1.5)
+15.00
+Remo PA/Chapecoense ve Üst (1.5)
+51.00
+Beraberlik/Remo PA ve Üst (1.5)
+5.00
+Beraberlik/Remo PA ve Alt (1.5)
+9.10
+Beraberlik/Beraberlik ve Üst (1.5)
+9.80
+Beraberlik/Beraberlik ve Alt (1.5)
+10.00
+Beraberlik/Chapecoense ve Üst (1.5)
+19.00
+Beraberlik/Chapecoense ve Alt (1.5)
+21.00
+Chapecoense/Remo PA ve Üst (1.5)
+17.00
+Chapecoense/Beraberlik ve Üst (1.5)
+15.00
+Daha Fazla Seçeneği Göster
+Oyuncu Kaleyi Bulan Şutlar
+YENİ
+Antonio Galeano 1+
+1.41
+Antonio Galeano 2+
+2.80
+Antonio Galeano 3+
+7.20
+Antonio Galeano 4+
+17.00
+Bruno Tubarao 1+
+3.30
+Bruno Tubarao 2+
+12.00
+Bruno Tubarao 3+
+31.00
+Camilo 1+
+5.20
+Camilo 2+
+17.00
+David Antunes 1+
+4.50
+David Antunes 2+
+17.00
+David Antunes 3+
+36.00
+David Braga 1+
+1.53
+David Braga 2+
+3.45
+David Braga 3+
+9.60
+David Braga 4+
+19.00
+Doma 1+
+6.20
+Doma 2+
+17.00
+Dylan Borrero 1+
+1.90
+Dylan Borrero 2+
+5.50
+Dylan Borrero 3+
+14.00
+Dylan Borrero 4+
+31.00
+Edson Fernando 1+
+2.35
+Edson Fernando 2+
+7.80
+Edson Fernando 3+
+19.00
+Edson Fernando 4+
+36.00
+Eduardo Melo 1+
+1.19
+Eduardo Melo 2+
+1.78
+Eduardo Melo 3+
+3.25
+Eduardo Melo 4+
+7.00
+Everton 1+
+4.90
+Everton 2+
+13.00
+Fernando Augusto 1+
+2.90
+Fernando Augusto 2+
+8.70
+Fernando Augusto 3+
+31.00
+Gabriel Poveda 1+
+1.26
+Gabriel Poveda 2+
+2.16
+Gabriel Poveda 3+
+4.70
+Gabriel Poveda 4+
+11.00
+Gabriel Taliari 1+
+1.31
+Gabriel Taliari 2+
+2.34
+Gabriel Taliari 3+
+5.30
+Gabriel Taliari 4+
+12.00
+Giovanni Augusto 1+
+2.03
+Giovanni Augusto 2+
+6.30
+Giovanni Augusto 3+
+17.00
+Giovanni Augusto 4+
+34.00
+Gleidson 1+
+1.65
+Gleidson 2+
+4.10
+Gleidson 3+
+11.00
+Gleidson 4+
+21.00
+Jaderson 1+
+1.71
+Jaderson 2+
+4.50
+Jaderson 3+
+12.00
+Jaderson 4+
+25.00
+Jaja 1+
+1.19
+Jaja 2+
+1.83
+Jaja 3+
+3.55
+Jaja 4+
+8.10
+Joao Lucas 1+
+3.25
+Joao Lucas 2+
+12.00
+Joao Lucas 3+
+31.00
+Kauan Faria 1+
+5.80
+Kauan Faria 2+
+17.00
+Leonel Picco 1+
+2.00
+Leonel Picco 2+
+6.20
+Leonel Picco 3+
+17.00
+Leonel Picco 4+
+34.00
+Mancha 1+
+4.75
+Mancha 2+
+15.00
+Marcelinho 1+
+2.11
+Marcelinho 2+
+6.80
+Marcelinho 3+
+17.00
+Marcelinho 4+
+36.00
+Marllon 1+
+2.60
+Marllon 2+
+9.80
+Marllon 3+
+21.00
+Marlon 1+
+2.85
+Marlon 2+
+11.00
+Marlon 3+
+23.00
+Max 1+
+2.05
+Max 2+
+6.20
+Max 3+
+17.00
+Max 4+
+36.00
+Mayk 1+
+4.20
+Mayk 2+
+14.00
+Mayk 3+
+36.00
+Miguel Carvalho 1+
+1.94
+Miguel Carvalho 2+
+5.70
+Miguel Carvalho 3+
+17.00
+Miguel Carvalho 4+
+31.00
+Patrick 1+
+2.19
+Patrick 2+
+6.80
+Patrick 3+
+19.00
+Robert Santos 1+
+1.98
+Robert Santos 2+
+6.00
+Robert Santos 3+
+15.00
+Robert Santos 4+
+34.00
+Rodrigo 1+
+2.75
+Rodrigo 2+
+11.00
+Rodrigo 3+
+23.00
+Rosivan 1+
+5.40
+Rosivan 2+
+15.00
+Rubens 1+
+2.50
+Rubens 2+
+8.50
+Rubens 3+
+23.00
+Tchamba 1+
+3.60
+Tchamba 2+
+12.00
+Tulio Eduardo 1+
+1.50
+Tulio Eduardo 2+
+3.30
+Tulio Eduardo 3+
+9.10
+Tulio Eduardo 4+
+19.00
+Victor Caetano 1+
+7.60
+Victor Caetano 2+
+21.00
+Vitor Bueno 1+
+1.35
+Vitor Bueno 2+
+2.46
+Vitor Bueno 3+
+5.70
+Vitor Bueno 4+
+14.00
+Yago Pikachu 1+
+1.44
+Yago Pikachu 2+
+3.00
+Yago Pikachu 3+
+8.00
+Yago Pikachu 4+
+17.00
+Ze Ivaldo 1+
+2.85
+Ze Ivaldo 2+
+11.00
+Ze Ivaldo 3+
+25.00
+Ze Welison 1+
+2.28
+Ze Welison 2+
+7.60
+Ze Welison 3+
+21.00
+Oyuncu Şutları
+YENİ
+Antonio Galeano 3+
+1.40
+Antonio Galeano 4+
+1.95
+Antonio Galeano 5+
+3.05
+Antonio Galeano 6+
+5.30
+Bruno Tubarao 1+
+1.67
+Bruno Tubarao 2+
+4.20
+Bruno Tubarao 3+
+11.00
+Bruno Tubarao 4+
+25.00
+Camilo 1+
+1.60
+Camilo 2+
+3.80
+Camilo 3+
+11.00
+Camilo 4+
+21.00
+David Antunes 1+
+1.38
+David Antunes 2+
+2.70
+David Antunes 3+
+6.80
+David Antunes 4+
+17.00
+David Braga 2+
+1.29
+David Braga 3+
+1.85
+David Braga 4+
+3.15
+David Braga 5+
+6.20
+Doma 1+
+1.94
+Doma 2+
+5.80
+Doma 3+
+15.00
+Doma 4+
+34.00
+Dylan Borrero 1+
+1.12
+Dylan Borrero 2+
+1.52
+Dylan Borrero 3+
+2.55
+Dylan Borrero 4+
+5.10
+Dylan Borrero 5+
+11.00
+Edson Fernando 1+
+1.51
+Edson Fernando 2+
+3.35
+Edson Fernando 3+
+9.20
+Edson Fernando 4+
+17.00
+Eduardo Melo 3+
+1.23
+Eduardo Melo 4+
+1.55
+Eduardo Melo 5+
+2.17
+Eduardo Melo 6+
+3.40
+Eduardo Melo 7+
+5.90
+Everton 1+
+1.78
+Everton 2+
+4.80
+Everton 3+
+14.00
+Everton 4+
+26.00
+Fernando Augusto 1+
+1.34
+Fernando Augusto 2+
+2.26
+Fernando Augusto 3+
+4.20
+Fernando Augusto 4+
+8.20
+Gabriel Poveda 2+
+1.11
+Gabriel Poveda 3+
+1.33
+Gabriel Poveda 4+
+1.81
+Gabriel Poveda 5+
+2.80
+Gabriel Poveda 6+
+4.75
+Gabriel Taliari 3+
+1.33
+Gabriel Taliari 4+
+1.80
+Gabriel Taliari 5+
+2.80
+Gabriel Taliari 6+
+4.80
+Giovanni Augusto 1+
+1.17
+Giovanni Augusto 2+
+1.72
+Giovanni Augusto 3+
+3.20
+Giovanni Augusto 4+
+7.00
+Gleidson 1+
+1.16
+Gleidson 2+
+1.64
+Gleidson 3+
+2.80
+Gleidson 4+
+5.50
+Gleidson 5+
+11.00
+Jaderson 2+
+1.37
+Jaderson 3+
+2.08
+Jaderson 4+
+3.75
+Jaderson 5+
+7.60
+Jaja 3+
+1.21
+Jaja 4+
+1.52
+Jaja 5+
+2.13
+Jaja 6+
+3.35
+Jaja 7+
+5.70
+Joao Lucas 1+
+1.32
+Joao Lucas 2+
+2.42
+Joao Lucas 3+
+5.60
+Joao Lucas 4+
+12.00
+Kauan Faria 1+
+2.65
+Kauan Faria 2+
+10.00
+Kauan Faria 3+
+23.00
+Leonel Picco 1+
+1.12
+Leonel Picco 2+
+1.54
+Leonel Picco 3+
+2.60
+Leonel Picco 4+
+5.20
+Mancha 1+
+1.85
+Mancha 2+
+5.30
+Mancha 3+
+15.00
+Mancha 4+
+29.00
+Marcelinho 1+
+1.16
+Marcelinho 2+
+1.68
+Marcelinho 3+
+3.05
+Marcelinho 4+
+6.60
+Marllon 1+
+1.43
+Marllon 2+
+2.95
+Marllon 3+
+7.70
+Marllon 4+
+17.00
+Marlon 1+
+1.51
+Marlon 2+
+3.30
+Marlon 3+
+8.90
+Marlon 4+
+17.00
+Max 1+
+1.15
+Max 2+
+1.62
+Max 3+
+2.75
+Max 4+
+5.30
+Mayk 1+
+1.48
+Mayk 2+
+3.20
+Mayk 3+
+8.40
+Mayk 4+
+19.00
+Miguel Carvalho 1+
+1.18
+Miguel Carvalho 2+
+1.74
+Miguel Carvalho 3+
+3.10
+Miguel Carvalho 4+
+6.50
+Miguel Carvalho 5+
+14.00
+Patrick 1+
+1.11
+Patrick 2+
+1.48
+Patrick 3+
+2.38
+Patrick 4+
+4.50
+Patrick 5+
+8.80
+Robert Santos 2+
+1.42
+Robert Santos 3+
+2.23
+Robert Santos 4+
+4.20
+Robert Santos 5+
+8.40
+Rodrigo 1+
+1.15
+Rodrigo 2+
+1.65
+Rodrigo 3+
+2.95
+Rodrigo 4+
+6.30
+Rodrigo 5+
+14.00
+Rosivan 1+
+1.46
+Rosivan 2+
+3.10
+Rosivan 3+
+8.20
+Rosivan 4+
+17.00
+Rubens 1+
+1.25
+Rubens 2+
+2.08
+Rubens 3+
+4.33
+Rubens 4+
+9.80
+Tchamba 1+
+1.53
+Tchamba 2+
+3.50
+Tchamba 3+
+9.60
+Tchamba 4+
+21.00
+Tulio Eduardo 2+
+1.26
+Tulio Eduardo 3+
+1.76
+Tulio Eduardo 4+
+2.90
+Tulio Eduardo 5+
+5.40
+Victor Caetano 1+
+2.33
+Victor Caetano 2+
+8.20
+Victor Caetano 3+
+19.00
+Victor Caetano 4+
+36.00
+Vitor Bueno 3+
+1.47
+Vitor Bueno 4+
+2.09
+Vitor Bueno 5+
+3.30
+Vitor Bueno 6+
+5.80
+Yago Pikachu 2+
+1.20
+Yago Pikachu 3+
+1.57
+Yago Pikachu 4+
+2.40
+Yago Pikachu 5+
+4.20
+Ze Ivaldo 1+
+1.30
+Ze Ivaldo 2+
+2.32
+Ze Ivaldo 3+
+5.30
+Ze Ivaldo 4+
+13.00
+Ze Welison 1+
+1.18
+Ze Welison 2+
+1.76
+Ze Welison 3+
+3.35
+Ze Welison 4+
+7.50
+Oyuncu Pasları
+YENİ
+Antonio Galeano 35+
+1.44
+Antonio Galeano 40+
+1.83
+Antonio Galeano 45+
+2.55
+Antonio Galeano 50+
+3.90
+Bruno Tubarao 35+
+1.48
+Bruno Tubarao 40+
+1.91
+Bruno Tubarao 45+
+2.70
+Bruno Tubarao 50+
+4.00
+Camilo 50+
+1.55
+Camilo 55+
+1.94
+Camilo 60+
+2.60
+Camilo 65+
+3.60
+David Antunes 45+
+1.45
+David Antunes 50+
+1.80
+David Antunes 55+
+2.41
+David Antunes 60+
+3.40
+David Braga 40+
+1.49
+David Braga 45+
+1.92
+David Braga 50+
+2.70
+Doma 50+
+1.40
+Doma 55+
+1.67
+Doma 60+
+2.11
+Doma 65+
+2.80
+Doma 70+
+3.85
+Dylan Borrero 30+
+1.52
+Dylan Borrero 35+
+1.97
+Dylan Borrero 40+
+2.80
+Dylan Borrero 45+
+4.00
+Edson Fernando 55+
+1.41
+Edson Fernando 60+
+1.67
+Edson Fernando 65+
+2.08
+Edson Fernando 70+
+2.70
+Eduardo Melo 20+
+1.41
+Eduardo Melo 25+
+1.76
+Eduardo Melo 30+
+2.43
+Eduardo Melo 35+
+3.65
+Everton 30+
+1.36
+Everton 35+
+1.69
+Everton 40+
+2.29
+Everton 45+
+3.40
+Fernando Augusto 35+
+1.43
+Fernando Augusto 40+
+1.82
+Fernando Augusto 45+
+2.55
+Fernando Augusto 50+
+3.85
+Gabriel Poveda 20+
+1.68
+Gabriel Poveda 25+
+2.28
+Gabriel Poveda 30+
+3.40
+Gleidson 15+
+1.32
+Gleidson 20+
+1.61
+Gleidson 25+
+2.14
+Gleidson 30+
+3.15
+Jaja 25+
+1.34
+Jaja 30+
+1.64
+Jaja 35+
+2.19
+Jaja 40+
+3.25
+Joao Lucas 35+
+1.36
+Joao Lucas 40+
+1.68
+Joao Lucas 45+
+2.28
+Joao Lucas 50+
+3.40
+Kauan Faria 50+
+1.41
+Kauan Faria 55+
+1.69
+Kauan Faria 60+
+2.15
+Kauan Faria 65+
+2.90
+Kauan Faria 70+
+4.00
+Leonel Picco 55+
+1.51
+Leonel Picco 60+
+1.83
+Leonel Picco 65+
+2.34
+Leonel Picco 70+
+3.15
+Marcelinho 40+
+1.30
+Marcelinho 45+
+1.54
+Marcelinho 50+
+1.98
+Marcelinho 55+
+2.75
+Marcelinho 60+
+3.95
+Marllon 55+
+1.38
+Marllon 60+
+1.61
+Marllon 65+
+1.97
+Marllon 70+
+2.55
+Marllon 75+
+3.35
+Marlon 50+
+1.37
+Marlon 55+
+1.62
+Marlon 60+
+2.03
+Marlon 65+
+2.70
+Mayk 40+
+1.42
+Mayk 45+
+1.79
+Mayk 50+
+2.47
+Mayk 55+
+3.60
+Patrick 50+
+1.35
+Patrick 55+
+1.58
+Patrick 60+
+1.96
+Patrick 65+
+2.55
+Patrick 70+
+3.50
+Rosivan 40+
+1.39
+Rosivan 45+
+1.73
+Rosivan 50+
+2.35
+Rosivan 55+
+3.40
+Rosivan 60+
+4.00
+Tchamba 60+
+1.45
+Tchamba 65+
+1.70
+Tchamba 70+
+2.09
+Tchamba 75+
+2.70
+Tulio Eduardo 15+
+1.32
+Tulio Eduardo 20+
+1.61
+Tulio Eduardo 25+
+2.14
+Tulio Eduardo 30+
+3.15
+Victor Caetano 35+
+1.26
+Victor Caetano 40+
+1.50
+Victor Caetano 45+
+1.94
+Victor Caetano 50+
+2.75
+Yago Pikachu 35+
+1.35
+Yago Pikachu 40+
+1.65
+Yago Pikachu 45+
+2.23
+Yago Pikachu 50+
+3.30
+Ze Ivaldo 65+
+1.53
+Ze Ivaldo 70+
+1.81
+Ze Ivaldo 75+
+2.24
+Ze Ivaldo 80+
+2.85
+Oyuncu Pas Denemeleri
+YENİ
+Antonio Galeano 40+
+1.28
+Antonio Galeano 45+
+1.53
+Antonio Galeano 50+
+2.00
+Antonio Galeano 55+
+2.85
+Bruno Tubarao 45+
+1.44
+Bruno Tubarao 50+
+1.84
+Bruno Tubarao 55+
+2.55
+Bruno Tubarao 60+
+3.80
+Camilo 55+
+1.41
+Camilo 60+
+1.70
+Camilo 65+
+2.19
+Camilo 70+
+3.00
+David Antunes 50+
+1.40
+David Antunes 55+
+1.71
+David Antunes 60+
+2.25
+David Antunes 65+
+3.15
+David Braga 45+
+1.37
+David Braga 50+
+1.70
+David Braga 55+
+2.29
+David Braga 60+
+3.30
+Doma 60+
+1.48
+Doma 65+
+1.80
+Doma 70+
+2.32
+Doma 75+
+3.15
+Dylan Borrero 35+
+1.36
+Dylan Borrero 40+
+1.68
+Dylan Borrero 45+
+2.28
+Dylan Borrero 50+
+3.40
+Edson Fernando 65+
+1.49
+Edson Fernando 70+
+1.78
+Edson Fernando 75+
+2.24
+Edson Fernando 80+
+2.95
+Eduardo Melo 25+
+1.43
+Eduardo Melo 30+
+1.81
+Eduardo Melo 35+
+2.50
+Eduardo Melo 40+
+3.85
+Everton 40+
+1.40
+Everton 45+
+1.74
+Everton 50+
+2.40
+Everton 55+
+3.60
+Fernando Augusto 45+
+1.54
+Fernando Augusto 50+
+2.01
+Fernando Augusto 55+
+2.90
+Gabriel Poveda 25+
+1.48
+Gabriel Poveda 30+
+1.91
+Gabriel Poveda 35+
+2.70
+Gleidson 20+
+1.33
+Gleidson 25+
+1.63
+Gleidson 30+
+2.19
+Gleidson 35+
+3.20
+Jaja 35+
+1.50
+Jaja 40+
+1.95
+Jaja 45+
+2.80
+Joao Lucas 50+
+1.43
+Joao Lucas 55+
+1.77
+Joao Lucas 60+
+2.37
+Joao Lucas 65+
+3.35
+Kauan Faria 55+
+1.42
+Kauan Faria 60+
+1.73
+Kauan Faria 65+
+2.23
+Kauan Faria 70+
+3.05
+Leonel Picco 60+
+1.39
+Leonel Picco 65+
+1.64
+Leonel Picco 70+
+2.04
+Leonel Picco 75+
+2.65
+Marcelinho 55+
+1.52
+Marcelinho 60+
+1.90
+Marcelinho 65+
+2.55
+Marcelinho 70+
+3.60
+Marllon 65+
+1.48
+Marllon 70+
+1.77
+Marllon 75+
+2.22
+Marllon 80+
+2.90
+Marlon 60+
+1.37
+Marlon 65+
+1.61
+Marlon 70+
+2.00
+Marlon 75+
+2.60
+Marlon 80+
+3.55
+Mayk 50+
+1.36
+Mayk 55+
+1.64
+Mayk 60+
+2.12
+Mayk 65+
+2.95
+Patrick 60+
+1.45
+Patrick 65+
+1.75
+Patrick 70+
+2.23
+Patrick 75+
+3.00
+Rosivan 45+
+1.46
+Rosivan 50+
+1.86
+Rosivan 55+
+2.60
+Rosivan 60+
+3.85
+Rosivan 65+
+4.00
+Tchamba 70+
+1.42
+Tchamba 75+
+1.65
+Tchamba 80+
+2.00
+Tchamba 85+
+2.55
+Tulio Eduardo 20+
+1.33
+Tulio Eduardo 25+
+1.63
+Tulio Eduardo 30+
+2.19
+Tulio Eduardo 35+
+3.20
+Victor Caetano 45+
+1.28
+Victor Caetano 50+
+1.51
+Victor Caetano 55+
+1.93
+Victor Caetano 60+
+2.65
+Victor Caetano 65+
+3.85
+Yago Pikachu 45+
+1.47
+Yago Pikachu 50+
+1.88
+Yago Pikachu 55+
+2.65
+Yago Pikachu 60+
+3.95
+Ze Ivaldo 70+
+1.42
+Ze Ivaldo 75+
+1.65
+Ze Ivaldo 80+
+2.01
+Ze Ivaldo 85+
+2.55
+Oyuncunun Yaptığı Fauller
+YENİ
+Antonio Galeano 1+
+1.27
+Antonio Galeano 2+
+2.19
+Antonio Galeano 3+
+4.90
+Antonio Galeano 4+
+11.00
+Bruno Tubarao 1+
+1.42
+Bruno Tubarao 2+
+2.95
+Bruno Tubarao 3+
+7.70
+Bruno Tubarao 4+
+15.00
+Camilo 1+
+1.18
+Camilo 2+
+1.76
+Camilo 3+
+3.30
+Camilo 4+
+6.90
+David Antunes 1+
+1.40
+David Antunes 2+
+2.65
+David Antunes 3+
+6.40
+David Antunes 4+
+14.00
+David Braga 1+
+1.48
+David Braga 2+
+3.20
+David Braga 3+
+8.50
+David Braga 4+
+15.00
+Doma 1+
+1.44
+Doma 2+
+3.00
+Doma 3+
+7.70
+Doma 4+
+17.00
+Dylan Borrero 1+
+1.36
+Dylan Borrero 2+
+2.60
+Dylan Borrero 3+
+6.30
+Dylan Borrero 4+
+13.00
+Edson Fernando 2+
+1.36
+Edson Fernando 3+
+1.80
+Edson Fernando 4+
+2.55
+Edson Fernando 5+
+4.10
+Eduardo Melo 1+
+1.28
+Eduardo Melo 2+
+2.10
+Eduardo Melo 3+
+4.30
+Eduardo Melo 4+
+9.30
+Everton 1+
+1.39
+Everton 2+
+2.80
+Everton 3+
+7.20
+Everton 4+
+13.00
+Fernando Augusto 1+
+1.22
+Fernando Augusto 2+
+1.90
+Fernando Augusto 3+
+3.70
+Fernando Augusto 4+
+8.30
+Gabriel Poveda 1+
+1.30
+Gabriel Poveda 2+
+2.30
+Gabriel Poveda 3+
+5.30
+Gabriel Poveda 4+
+12.00
+Gabriel Taliari 1+
+1.16
+Gabriel Taliari 2+
+1.69
+Gabriel Taliari 3+
+3.15
+Gabriel Taliari 4+
+6.90
+Gabriel Werner 1+
+26.00
+Giovanni Augusto 1+
+1.36
+Giovanni Augusto 2+
+2.65
+Giovanni Augusto 3+
+6.50
+Giovanni Augusto 4+
+13.00
+Gleidson 1+
+1.16
+Gleidson 2+
+1.71
+Gleidson 3+
+3.20
+Gleidson 4+
+7.10
+Ivan 1+
+7.70
+Jaderson 1+
+1.40
+Jaderson 2+
+2.85
+Jaderson 3+
+7.30
+Jaderson 4+
+14.00
+Jaja 1+
+1.44
+Jaja 2+
+3.05
+Jaja 3+
+8.00
+Jaja 4+
+17.00
+Joao Lucas 1+
+1.32
+Joao Lucas 2+
+2.42
+Joao Lucas 3+
+5.80
+Joao Lucas 4+
+13.00
+Kauan Faria 1+
+1.54
+Kauan Faria 2+
+3.60
+Kauan Faria 3+
+9.80
+Kauan Faria 4+
+19.00
+Leonel Picco 1+
+1.19
+Leonel Picco 2+
+1.81
+Leonel Picco 3+
+3.50
+Leonel Picco 4+
+7.60
+Mancha 1+
+1.35
+Mancha 2+
+2.35
+Mancha 3+
+5.00
+Mancha 4+
+11.00
+Marcelinho 1+
+1.56
+Marcelinho 2+
+3.65
+Marcelinho 3+
+10.00
+Marcelinho 4+
+21.00
+Marcelo Rangel 1+
+7.70
+Marllon 1+
+1.63
+Marllon 2+
+4.20
+Marllon 3+
+11.00
+Marllon 4+
+21.00
+Marlon 1+
+1.58
+Marlon 2+
+3.85
+Marlon 3+
+11.00
+Marlon 4+
+19.00
+Matheus Aurelio 1+
+26.00
+Max 1+
+1.22
+Max 2+
+1.96
+Max 3+
+4.10
+Max 4+
+9.00
+Mayk 1+
+1.58
+Mayk 2+
+3.60
+Mayk 3+
+8.50
+Mayk 4+
+19.00
+Miguel Carvalho 1+
+1.43
+Miguel Carvalho 2+
+2.95
+Miguel Carvalho 3+
+7.80
+Miguel Carvalho 4+
+15.00
+Patrick 1+
+1.38
+Patrick 2+
+2.70
+Patrick 3+
+6.80
+Patrick 4+
+14.00
+Robert Santos 1+
+1.39
+Robert Santos 2+
+2.60
+Robert Santos 3+
+6.30
+Robert Santos 4+
+14.00
+Rodrigo 1+
+1.12
+Rodrigo 2+
+1.51
+Rodrigo 3+
+2.55
+Rodrigo 4+
+5.20
+Rosivan 1+
+1.19
+Rosivan 2+
+1.81
+Rosivan 3+
+3.60
+Rosivan 4+
+8.10
+Rubens 1+
+1.26
+Rubens 2+
+2.02
+Rubens 3+
+4.00
+Rubens 4+
+8.80
+Tchamba 1+
+1.66
+Tchamba 2+
+4.10
+Tchamba 3+
+10.00
+Tchamba 4+
+23.00
+Tulio Eduardo 1+
+1.15
+Tulio Eduardo 2+
+1.67
+Tulio Eduardo 3+
+3.05
+Tulio Eduardo 4+
+6.60
+Victor Caetano 1+
+1.76
+Victor Caetano 2+
+4.30
+Victor Caetano 3+
+11.00
+Victor Caetano 4+
+23.00
+Vitor Bueno 1+
+1.57
+Vitor Bueno 2+
+3.70
+Vitor Bueno 3+
+10.00
+Vitor Bueno 4+
+21.00
+Yago Pikachu 1+
+1.65
+Yago Pikachu 2+
+4.20
+Yago Pikachu 3+
+12.00
+Yago Pikachu 4+
+23.00
+Ygor Vinhas 1+
+8.90
+Ze Ivaldo 1+
+1.51
+Ze Ivaldo 2+
+3.40
+Ze Ivaldo 3+
+9.00
+Ze Ivaldo 4+
+19.00
+Ze Welison 1+
+1.24
+Ze Welison 2+
+2.06
+Ze Welison 3+
+4.33
+Ze Welison 4+
+9.80
+Oyuncuya Faul Yapılır
+YENİ
+Antonio Galeano 1+
+1.14
+Antonio Galeano 2+
+1.57
+Antonio Galeano 3+
+2.70
+Antonio Galeano 4+
+5.30
+Bruno Tubarao 1+
+1.71
+Bruno Tubarao 2+
+4.50
+Bruno Tubarao 3+
+12.00
+Bruno Tubarao 4+
+23.00
+Camilo 1+
+1.46
+Camilo 2+
+3.15
+Camilo 3+
+8.40
+Camilo 4+
+15.00
+David Antunes 1+
+1.39
+David Antunes 2+
+2.80
+David Antunes 3+
+7.20
+David Antunes 4+
+13.00
+David Braga 1+
+1.13
+David Braga 2+
+1.54
+David Braga 3+
+2.65
+David Braga 4+
+5.50
+Doma 1+
+2.16
+Doma 2+
+7.30
+Doma 3+
+15.00
+Dylan Borrero 1+
+1.31
+Dylan Borrero 2+
+2.39
+Dylan Borrero 3+
+5.60
+Dylan Borrero 4+
+13.00
+Edson Fernando 1+
+1.19
+Edson Fernando 2+
+1.84
+Edson Fernando 3+
+3.70
+Edson Fernando 4+
+8.50
+Eduardo Melo 1+
+1.24
+Eduardo Melo 2+
+2.06
+Eduardo Melo 3+
+4.50
+Eduardo Melo 4+
+10.00
+Everton 1+
+1.35
+Everton 2+
+2.60
+Everton 3+
+6.50
+Everton 4+
+13.00
+Fernando Augusto 1+
+1.18
+Fernando Augusto 2+
+1.78
+Fernando Augusto 3+
+3.45
+Fernando Augusto 4+
+7.70
+Gabriel Poveda 1+
+1.16
+Gabriel Poveda 2+
+1.67
+Gabriel Poveda 3+
+3.10
+Gabriel Poveda 4+
+6.80
+Gabriel Taliari 2+
+1.26
+Gabriel Taliari 3+
+1.77
+Gabriel Taliari 4+
+2.95
+Gabriel Taliari 5+
+5.60
+Giovanni Augusto 1+
+1.12
+Giovanni Augusto 2+
+1.53
+Giovanni Augusto 3+
+2.55
+Giovanni Augusto 4+
+4.90
+Gleidson 1+
+1.20
+Gleidson 2+
+1.86
+Gleidson 3+
+3.75
+Gleidson 4+
+8.60
+Jaderson 1+
+1.11
+Jaderson 2+
+1.47
+Jaderson 3+
+2.42
+Jaderson 4+
+4.75
+Jaderson 5+
+10.00
+Jaja 1+
+1.20
+Jaja 2+
+1.87
+Jaja 3+
+3.80
+Jaja 4+
+8.70
+Joao Lucas 1+
+1.40
+Joao Lucas 2+
+2.85
+Joao Lucas 3+
+7.40
+Joao Lucas 4+
+13.00
+Kauan Faria 1+
+2.17
+Kauan Faria 2+
+7.30
+Kauan Faria 3+
+17.00
+Leonel Picco 1+
+1.41
+Leonel Picco 2+
+2.75
+Leonel Picco 3+
+6.30
+Leonel Picco 4+
+13.00
+Mancha 1+
+1.37
+Mancha 2+
+2.70
+Mancha 3+
+6.80
+Mancha 4+
+13.00
+Marcelinho 1+
+1.26
+Marcelinho 2+
+2.16
+Marcelinho 3+
+4.85
+Marcelinho 4+
+11.00
+Marllon 1+
+1.83
+Marllon 2+
+5.30
+Marllon 3+
+12.00
+Marllon 4+
+25.00
+Marlon 1+
+1.41
+Marlon 2+
+2.90
+Marlon 3+
+7.50
+Marlon 4+
+13.00
+Max 1+
+1.34
+Max 2+
+2.55
+Max 3+
+6.20
+Max 4+
+14.00
+Mayk 1+
+1.55
+Mayk 2+
+3.60
+Mayk 3+
+9.60
+Mayk 4+
+19.00
+Miguel Carvalho 1+
+1.29
+Miguel Carvalho 2+
+2.30
+Miguel Carvalho 3+
+5.40
+Miguel Carvalho 4+
+12.00
+Patrick 1+
+1.19
+Patrick 2+
+1.84
+Patrick 3+
+3.65
+Patrick 4+
+8.20
+Robert Santos 1+
+1.22
+Robert Santos 2+
+1.95
+Robert Santos 3+
+4.10
+Robert Santos 4+
+9.40
+Rodrigo 1+
+1.08
+Rodrigo 2+
+1.35
+Rodrigo 3+
+2.04
+Rodrigo 4+
+3.75
+Rodrigo 5+
+7.60
+Rosivan 1+
+1.28
+Rosivan 2+
+2.26
+Rosivan 3+
+5.20
+Rosivan 4+
+12.00
+Rubens 1+
+1.26
+Rubens 2+
+2.16
+Rubens 3+
+4.85
+Rubens 4+
+11.00
+Tchamba 1+
+1.62
+Tchamba 2+
+3.75
+Tchamba 3+
+8.60
+Tchamba 4+
+21.00
+Tulio Eduardo 1+
+1.20
+Tulio Eduardo 2+
+1.86
+Tulio Eduardo 3+
+3.75
+Tulio Eduardo 4+
+8.60
+Victor Caetano 1+
+2.04
+Victor Caetano 2+
+6.60
+Victor Caetano 3+
+13.00
+Vitor Bueno 1+
+1.29
+Vitor Bueno 2+
+2.29
+Vitor Bueno 3+
+5.30
+Vitor Bueno 4+
+12.00
+Yago Pikachu 1+
+1.25
+Yago Pikachu 2+
+2.05
+Yago Pikachu 3+
+4.30
+Yago Pikachu 4+
+9.10
+Ze Ivaldo 1+
+1.73
+Ze Ivaldo 2+
+4.60
+Ze Ivaldo 3+
+12.00
+Ze Ivaldo 4+
+25.00
+Ze Welison 1+
+1.43
+Ze Welison 2+
+2.95
+Ze Welison 3+
+7.70
+Ze Welison 4+
+15.00

@@ -1,0 +1,9 @@
+{"organizasyon":"Hazırlık maçı (tarafsız saha)","tarih":"17 Kasım 2026, 18:30 TSİ","stadyum":"Jassim Bin Hamad Stadyumu, Doha",
+ "ilk_yari_gol_payi":0.43,"korner_guven":"orta","kart_guven":"orta","var_ort":0.2,
+ "ev":{"ad":"Suudi Arabistan","beklenen_gol":1.40,"korner":4.7,"sari_kart":1.3,
+  "oyuncular":[{"ad":"Firas Al-Buraikan","gol_payi":0.24,"asist_payi":0.08,"kart_ihtimali":0.08,"penaltici":true},
+               {"ad":"Nasser Al-Dawsari","gol_payi":0.08,"asist_payi":0.15,"kart_ihtimali":0.15},
+               {"ad":"Musab Al-Juwayr","gol_payi":0.10,"asist_payi":0.15,"kart_ihtimali":0.12}]},
+ "dep":{"ad":"Özbekistan","beklenen_gol":1.05,"korner":3.2,"sari_kart":1.5,
+  "oyuncular":[{"ad":"Khusayin Norchaev","gol_payi":0.20,"asist_payi":0.08,"kart_ihtimali":0.10},
+               {"ad":"Abbosbek Fayzullayev","gol_payi":0.15,"asist_payi":0.18,"kart_ihtimali":0.12,"penaltici":true}]}}

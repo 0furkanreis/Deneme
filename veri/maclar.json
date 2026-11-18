@@ -1,0 +1,104 @@
+[
+ {
+  "slug": "2026-11-16-izlanda-luksemburg",
+  "ev": "İzlanda",
+  "dep": "Lüksemburg",
+  "ev_renk": "#02529c",
+  "dep_renk": "#ef3340",
+  "organizasyon": "UEFA Uluslar Ligi · C Ligi 4. Grup",
+  "tarih": "16 Kasım 2026",
+  "saat": "20:00",
+  "stadyum": "Laugardalsvöllur, Reykjavik",
+  "ana_oneri": {
+   "pazar": "İzlanda Gol Yemeden Kazanır",
+   "secim": "Evet"
+  },
+  "gerekce": [
+   "İzlanda son 4 maçında gol yemedi; grupta 5 maçta 12 attı, 1 yedi.",
+   "Lüksemburg son 4 maçını gol atamadan kaybetti; 5 maçta 2 attı, 8 yedi.",
+   "İlk maçı İzlanda deplasmanda 3-0 kazandı. Piyasa İzlanda'ya 1,25 veriyor (yaklaşık %77); model %76 diyor."
+  ],
+  "riskler": [
+   "İzlanda'ya beraberlik yetiyor; skoru korumaya dönebilir.",
+   "İzlanda'da Þórðarson ve Ingason sakat, Magnússon cezalı olabilir.",
+   "Korner, kart ve hakem verisi yok denecek kadar az (hakem henüz açıklanmadı)."
+  ],
+  "veri": {
+   "Beklenen gol": "2,05 – 0,42",
+   "Korner ort. (varsayım)": "5,2 – 2,6",
+   "Sarı kart ort. (varsayım)": "1,6 – 2,1",
+   "İlk maç": "Lüksemburg 0-3 İzlanda (korner 2-2, sarı 2-4)"
+  },
+  "kaynaklar": [
+   [
+    "Squawka önizleme",
+    "https://www.squawka.com/en/news/previews/iceland-vs-luxembourg-predictions-betting-tips-16-11-26/"
+   ],
+   [
+    "Sports Mole",
+    "https://www.sportsmole.co.uk/football/iceland/uefa-nations-league/preview/iceland-vs-luxembourg-prediction-team-news-lineups_609129.html"
+   ],
+   [
+    "ESPN – Lüksemburg 0-3 İzlanda",
+    "https://www.espn.com/soccer/match/_/gameId/401861086/iceland-luxembourg"
+   ],
+   [
+    "Fotomaç",
+    "https://www.fotomac.com.tr/uluslar-ligi/2026/11/16/izlanda-luksemburg-maci-68932284"
+   ]
+  ]
+ },
+ {
+  "slug": "2026-11-16-kuzey-makedonya-slovenya",
+  "ev": "Kuzey Makedonya",
+  "dep": "Slovenya",
+  "ev_renk": "#d20000",
+  "dep_renk": "#005ba6",
+  "organizasyon": "UEFA Uluslar Ligi · B Ligi 1. Grup",
+  "tarih": "16 Kasım 2026",
+  "saat": "22:45",
+  "stadyum": "Toše Proeski Arena, Üsküp",
+  "ana_oneri": {
+   "pazar": "Toplam Goller",
+   "secim": "Toplam 2,5 Alt"
+  },
+  "gerekce": [
+   "Slovenya bu grupta 5 maçta 5 attı, 3 yedi; maçların 3'ü 2,5 Alt bitti. Kalede Oblak var.",
+   "Kuzey Makedonya 5 maçta 1 gol attı, hepsini kaybetti.",
+   "İlk maç Slovenya 2-0 kazandı; önizlemelerin çoğu 0-1 / 0-2 bekliyor."
+  ],
+  "riskler": [
+   "Slovenya 2. sırayı garantilemek için kazanmak zorunda; daha açık oynayabilir.",
+   "Kuzey Makedonya'nın kaybedecek bir şeyi yok.",
+   "Oran ve hakem verisi bulunamadı; Šeško'nun kadroda olduğu doğrulanmadı."
+  ],
+  "veri": {
+   "Beklenen gol": "0,60 – 1,40",
+   "Korner ort. (varsayım)": "4,0 – 4,8",
+   "Sarı kart ort. (varsayım)": "2,1 – 1,7",
+   "İlk maç": "Slovenya 2-0 K. Makedonya (korner 6-3, sarı 1-2)"
+  },
+  "kaynaklar": [
+   [
+    "Sports Mole",
+    "https://www.sportsmole.co.uk/football/macedonia/uefa-nations-league/preview/n-macedonia-vs-slovenia-prediction-team-news-lineups_609097.html"
+   ],
+   [
+    "Squawka önizleme",
+    "https://www.squawka.com/en/news/previews/north-macedonia-vs-slovenia-predictions-tonight-16-11-2026/"
+   ],
+   [
+    "Statz",
+    "https://statz.ai/news/19676702-north-macedonia-vs-slovenia-predictions-betting-tips"
+   ],
+   [
+    "Sky Sports – ilk maç istatistikleri",
+    "https://www.skysports.com/football/slovenia-vs-north-macedonia/554030"
+   ],
+   [
+    "A Spor",
+    "https://www.aspor.com.tr/uluslar-ligi/2026/11/16/kuzey-makedonya-slovenya-maci-saat-kacta-hangi-kanalda-uluslar-ligi-son-hafta"
+   ]
+  ]
+ }
+]

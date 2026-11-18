@@ -1,0 +1,27 @@
+{
+ "organizasyon": "Brezilya Serie A, 35. hafta",
+ "tarih": "19 Kasım 2026, 01:30 TSİ",
+ "stadyum": "Couto Pereira, Curitiba",
+ "hakem": "Braulio da Silva Machado (12 maç: 4,5 sarı/maç, lig 4,91; 0 kırmızı; 9 penaltı)",
+ "ilk_yari_gol_payi": 0.44,
+ "korner_guven": "orta",
+ "kart_guven": "orta",
+ "var_ort": 0.35,
+ "not": "Goller Oddsportal 1X2 ortalamasından. Korner/kart FotMob son 5 maç. Hakem penaltı eğilimi yüksek.",
+ "ev": {
+  "ad": "Coritiba",
+  "beklenen_gol": 0.92,
+  "korner": 5.6,
+  "sari_kart": 2.3,
+  "penalti_kazanma": 0.33,
+  "direkt_kirmizi": 0.03
+ },
+ "dep": {
+  "ad": "Santos SP",
+  "beklenen_gol": 1.4,
+  "korner": 6.2,
+  "sari_kart": 1.85,
+  "penalti_kazanma": 0.38,
+  "direkt_kirmizi": 0.03
+ }
+}

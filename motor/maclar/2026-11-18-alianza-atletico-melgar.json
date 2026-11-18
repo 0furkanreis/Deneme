@@ -1,0 +1,30 @@
+{
+ "organizasyon": "Peru Liga 1, Clausura 17. hafta",
+ "tarih": "18 Kasım 2026, 23:00 TSİ",
+ "stadyum": "Estadio Campeones del '36, Sullana",
+ "hakem": "Edwin Ordóñez (43 maç: 3,88 sarı/maç, lig 4,66; 0,33 kırmızı; 0,49 penaltı)",
+ "ilk_yari_gol_payi": 0.44,
+ "korner_guven": "orta",
+ "kart_guven": "orta",
+ "var_ort": 0.3,
+ "not": "Kart: takım verisi (Alianza maçları 3,0, Melgar maçları 5,0 sarı) × hakem düzeltmesi. Melgar'da Cuesta, Cáceres yok.",
+ "ev": {
+  "ad": "Alianza Atletico Sullana",
+  "beklenen_gol": 1.545,
+  "korner": 5.9,
+  "sari_kart": 1.85,
+  "direkt_kirmizi": 0.08,
+  "penalti_kazanma": 0.24,
+  "model_beklenen_gol": 1.4
+ },
+ "dep": {
+  "ad": "FBC Melgar",
+  "beklenen_gol": 1.074,
+  "korner": 4.6,
+  "sari_kart": 1.75,
+  "direkt_kirmizi": 0.08,
+  "penalti_kazanma": 0.22,
+  "model_beklenen_gol": 1.1
+ },
+ "kalibrasyon": "Beklenen goller site oranlarından (takım gol çizgilerinin ortalaması)"
+}

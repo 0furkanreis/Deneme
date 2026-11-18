@@ -1,0 +1,7097 @@
+Maç Sonucu
+Regatas Flamengo RJ
+Beraberlik
+CA Paranaense
+1.19
+7.60
+14.00
+Çifte Şans
+1X
+12
+X2
+1.047
+1.10
+4.70
+Beraberlikte İade
+Regatas Flamengo RJ
+CA Paranaense
+1.06
+10.10
+Toplam Goller
+Üst
+Alt
+1.5
+1.15
+5.80
+2
+1.20
+4.81
+2.5
+1.48
+2.70
+3
+1.74
+2.14
+3.5
+2.20
+1.70
+4
+3.10
+1.39
+4.5
+3.67
+1.30
+5
+6.10
+1.14
+5.5
+6.70
+1.12
+6
+12.50
+1.04
+6.5
+12.90
+1.037
+Regatas Flamengo RJ : Toplam Gol
+Üst
+Alt
+0.5
+1.042
+9.10
+1
+1.055
+8.20
+1.5
+1.25
+3.70
+2
+1.39
+2.85
+2.5
+1.82
+1.92
+3
+2.40
+1.53
+3.5
+3.00
+1.35
+4
+4.75
+1.15
+4.5
+5.55
+1.12
+CA Paranaense : Toplam Gol
+Üst
+Alt
+0.5
+2.02
+1.74
+1
+4.30
+1.19
+1.5
+6.00
+1.11
+Her iki takımda gol atar
+Evet
+Hayır
+2.23
+1.68
+Her İki Takım da 2 veya Daha Fazla Gol Atar
+YENİ
+Evet
+No
+7.70
+1.065
+Gol Handikapı
+Regatas Flamengo RJ
+CA Paranaense
+-5.5
+15.00
++5.5
+1.025
+-5
+15.00
++5
+1.025
+-4.5
+8.00
++4.5
+1.09
+-4
+7.50
++4
+1.10
+-3.5
+4.37
++3.5
+1.23
+-3
+3.52
++3
+1.32
+-2.5
+2.42
++2.5
+1.59
+-2
+1.90
++2
+1.94
+-1.5
+1.56
++1.5
+2.50
+-1
+1.26
++1
+4.00
+-0.5
+1.19
++0.5
+5.00
+0
+1.06
+0
+10.10
++0.5
+1.047
+-0.5
+11.50
+Goller Asya Handikapı
+Regatas Flamengo RJ
+CA Paranaense
+-5.25
+15.00
++5.25
+1.025
+-4.75
+10.10
++4.75
+1.06
+-4.25
+8.00
++4.25
+1.09
+-3.75
+5.35
++3.75
+1.17
+-3.25
+3.84
++3.25
+1.28
+-2.75
+2.80
++2.75
+1.46
+-2.25
+2.15
++2.25
+1.73
+-1.75
+1.69
++1.75
+2.22
+-1.25
+1.41
++1.25
+3.00
+-0.75
+1.22
++0.75
+4.50
+-0.25
+1.12
++0.25
+6.70
++0.25
+1.05
+-0.25
+11.20
+Gol Handikapı (3-İhtimalli)
+Regatas Flamengo RJ
+Beraberlik : CA Paranaense
+CA Paranaense
+-5
+15.00
++5
+9.60
++5
+1.06
+-4
+7.60
++4
+6.30
++4
+1.19
+-3
+3.97
++3
+4.70
++3
+1.59
+-2
+2.42
++2
+3.86
++2
+2.50
+-1
+1.53
++1
+4.30
++1
+4.60
+Toplam Goller Asya
+Üst
+Alt
+1.25
+1.09
+8.00
+1.75
+1.17
+5.35
+2.25
+1.34
+3.40
+2.75
+1.59
+2.42
+3.25
+1.97
+1.87
+3.75
+2.52
+1.55
+4.25
+3.40
+1.34
+4.75
+4.50
+1.22
+5.25
+6.40
+1.13
+5.75
+8.60
+1.08
+6.25
+12.50
+1.04
+Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+2
+1.43
+4.33
+5.60
+3
+2.11
+4.00
+2.58
+4
+3.53
+4.70
+1.70
+5
+6.30
+6.40
+1.26
+6
+13.00
+9.30
+1.09
+Regatas Flamengo RJ : Asist Yapar. Toplam
+YENİ
+1+
+1.17
+2+
+1.74
+3+
+3.25
+4+
+7.20
+5+
+17.00
+CA Paranaense : Asist Yapar. Toplam
+YENİ
+1+
+2.70
+2+
+10.00
+3+
+23.00
+Her iki yarıda gol olur
+Evet
+Hayır
+1.44
+2.59
+İlk Golü Atacak Takım
+Regatas Flamengo RJ
+CA Paranaense
+Gol Yok
+1.21
+4.40
+21.00
+Son Golü Atacak Takım
+Regatas Flamengo RJ
+CA Paranaense
+Gol Yok
+1.21
+4.40
+21.00
+Regatas Flamengo RJ : Toplam Gol Asya
+Üst
+Alt
+0.75
+1.045
+8.20
+1.25
+1.15
+4.75
+1.75
+1.30
+3.20
+2.25
+1.59
+2.21
+2.75
+2.01
+1.71
+3.25
+2.68
+1.41
+3.75
+3.57
+1.25
+CA Paranaense : Toplam Gol Asya
+Üst
+Alt
+0.75
+2.52
+1.46
+1.25
+5.10
+1.13
+1.75
+7.50
+1.055
+Toplam Gol Tek / Çift
+Çift
+Tek
+1.84
+1.86
+Regatas Flamengo RJ : Gol Atar
+Evet
+Hayır
+1.042
+9.10
+CA Paranaense Gol Atar
+Evet
+Hayır
+2.02
+1.74
+Regatas Flamengo RJ Gol Atar ve Maç Sonucu
+Evet ve Regatas Flamengo RJ
+1.19
+Evet ve Berabere
+7.50
+Hayır ve Berabere
+17.00
+Evet ve CA Paranaense
+15.00
+Hayır ve CA Paranaense
+15.00
+CA Paranaense Gol Atar ve Maç Sonucu
+Evet ve Regatas Flamengo RJ
+2.79
+Hayır ve Regatas Flamengo RJ
+1.83
+Evet ve Berabere
+9.10
+Hayır ve Berabere
+17.00
+Evet ve CA Paranaense
+8.90
+Regatas Flamengo RJ : Bahis Yok
+Beraberlik
+CA Paranaense
+1.46
+2.60
+CA Paranaense : Bahis Yok
+Regatas Flamengo RJ
+Beraberlik
+1.10
+6.20
+Maç Sonucu ve Karşılıklı Gol
+Regatas Flamengo RJ Ve Evet
+2.79
+Beraberlik Ve Hayır
+17.00
+Regatas Flamengo RJ Ve Hayır
+1.83
+CA Paranaense Ve Evet
+21.00
+Beraberlik ve Evet
+9.10
+CA Paranaense Ve Hayır
+21.00
+Çifte Şans ve Karşılıklı Gol
+1X Ve Evet
+2.25
+12 Ve Hayır
+1.71
+1X Ve Hayır
+1.74
+X2 Ve Evet
+6.80
+12 Ve Evet
+2.56
+X2 Ve Hayır
+11.00
+Maç Sonucu ve Toplam Gol 1.5
+Regatas Flamengo RJ ve Üst 1.5
+1.30
+Regatas Flamengo RJ ve Alt 1.5
+8.20
+Beraberlik ve Üst 1.5
+9.20
+Beraberlik ve Alt 1.5
+21.00
+CA Paranaense ve Üst 1.5
+17.00
+CA Paranaense ve Alt 1.5
+29.00
+1X ve Üst 1.5
+1.18
+1X ve Alt 1.5
+6.20
+12 ve Üst 1.5
+1.24
+12 ve Alt 1.5
+6.80
+X2 ve Üst 1.5
+6.50
+X2 ve Alt 1.5
+13.00
+Maç Sonucu ve Toplam Gol 2.5
+Regatas Flamengo RJ ve Üst 2.5
+1.56
+Regatas Flamengo RJ ve Alt 2.5
+3.70
+Beraberlik ve Üst 2.5
+25.00
+Beraberlik ve Alt 2.5
+8.70
+CA Paranaense ve Üst 2.5
+21.00
+CA Paranaense ve Alt 2.5
+23.00
+1X ve Üst 2.5
+1.50
+1X ve Alt 2.5
+2.76
+12 ve Üst 2.5
+1.49
+12 ve Alt 2.5
+3.32
+X2 ve Üst 2.5
+12.00
+X2 ve Alt 2.5
+6.70
+Maç Sonucu ve Toplam Gol 3.5
+Regatas Flamengo RJ ve Üst 3.5
+2.26
+Regatas Flamengo RJ ve Alt 3.5
+2.10
+Beraberlik ve Üst 3.5
+25.00
+Beraberlik ve Alt 3.5
+8.70
+CA Paranaense ve Üst 3.5
+51.00
+CA Paranaense ve Alt 3.5
+15.00
+1X ve Üst 3.5
+2.12
+1X ve Alt 3.5
+1.78
+12 ve Üst 3.5
+2.20
+12 ve Alt 3.5
+1.90
+X2 ve Üst 3.5
+17.00
+X2 ve Alt 3.5
+5.80
+Maç Sonucu ve Toplam Gol 4.5
+Regatas Flamengo RJ ve Üst 4.5
+3.59
+Regatas Flamengo RJ ve Alt 4.5
+1.59
+Beraberlik ve Üst 4.5
+126.00
+Beraberlik ve Alt 4.5
+7.00
+CA Paranaense ve Üst 4.5
+76.00
+CA Paranaense ve Alt 4.5
+13.00
+1X ve Üst 4.5
+3.53
+1X ve Alt 4.5
+1.35
+12 ve Üst 4.5
+3.50
+12 ve Alt 4.5
+1.46
+X2 ve Üst 4.5
+51.00
+X2 ve Alt 4.5
+4.90
+Sonuç ve Regatas Flamengo RJ : Toplam Gol
+Regatas Flamengo RJ ve Üst (1.5)
+1.28
+Regatas Flamengo RJ ve Alt (1.5)
+6.80
+Beraberlik ve Üst (1.5)
+19.00
+Beraberlik ve Alt (1.5)
+7.00
+CA Paranaense ve Üst (1.5)
+56.00
+CA Paranaense ve Alt (1.5)
+10.00
+Regatas Flamengo RJ ve Üst (2.5)
+1.69
+Regatas Flamengo RJ ve Alt (2.5)
+2.58
+Beraberlik ve Üst (2.5)
+76.00
+Beraberlik ve Alt (2.5)
+5.90
+CA Paranaense ve Üst (2.5)
+276.00
+CA Paranaense ve Alt (2.5)
+9.70
+Regatas Flamengo RJ ve Üst (3.5)
+2.65
+Regatas Flamengo RJ ve Alt (3.5)
+1.66
+Beraberlik ve Üst (3.5)
+276.00
+Beraberlik ve Alt (3.5)
+5.70
+CA Paranaense ve Üst (3.5)
+201.00
+CA Paranaense ve Alt (3.5)
+9.60
+Sonuç ve CA Paranaense : Toplam Gol
+Regatas Flamengo RJ ve Üst (1.5)
+10.00
+Regatas Flamengo RJ ve Alt (1.5)
+1.23
+Beraberlik ve Üst (1.5)
+19.00
+Beraberlik ve Alt (1.5)
+7.00
+CA Paranaense ve Üst (1.5)
+14.00
+CA Paranaense ve Alt (1.5)
+21.00
+Regatas Flamengo RJ ve Üst (2.5)
+61.00
+Regatas Flamengo RJ ve Alt (2.5)
+1.16
+Beraberlik ve Üst (2.5)
+76.00
+Beraberlik ve Alt (2.5)
+5.90
+CA Paranaense ve Üst (2.5)
+34.00
+CA Paranaense ve Alt (2.5)
+12.00
+Regatas Flamengo RJ ve Üst (3.5)
+201.00
+Regatas Flamengo RJ ve Alt (3.5)
+1.15
+Beraberlik ve Üst (3.5)
+276.00
+Beraberlik ve Alt (3.5)
+5.70
+CA Paranaense ve Üst (3.5)
+126.00
+CA Paranaense ve Alt (3.5)
+9.80
+Sonuç veya Toplam Gol
+Regatas Flamengo RJ veya Üst (2.5)
+1.09
+Regatas Flamengo RJ veya Alt (2.5)
+1.03
+Beraberlik veya Üst (2.5)
+1.24
+Beraberlik veya Alt (2.5)
+2.14
+CA Paranaense veya Üst (2.5)
+1.33
+CA Paranaense veya Alt (2.5)
+2.11
+Regatas Flamengo RJ veya Üst (3.5)
+1.10
+Regatas Flamengo RJ veya Alt (3.5)
+1.012
+Beraberlik veya Üst (3.5)
+1.65
+Beraberlik veya Alt (3.5)
+1.49
+CA Paranaense veya Üst (3.5)
+1.75
+CA Paranaense veya Alt (3.5)
+1.52
+Daha Fazla Seçeneği Göster
+Maç Sonucu ve Toplam Gol (Kesin)
+Regatas Flamengo RJ ve 1
+8.20
+Regatas Flamengo RJ ve 2
+6.00
+Regatas Flamengo RJ ve 3
+4.20
+Regatas Flamengo RJ ve 4+
+2.27
+Beraberlik ve 0
+21.00
+Beraberlik ve 2
+13.00
+Beraberlik ve 4
+29.00
+Beraberlik ve 6+
+111.00
+CA Paranaense ve 1
+29.00
+CA Paranaense ve 2
+86.00
+CA Paranaense ve 3
+31.00
+CA Paranaense ve 4+
+51.00
+Sonuç ve Toplam Gol (Genişletilmiş Aralık)
+Regatas Flamengo RJ ve 1-2
+3.69
+Regatas Flamengo RJ ve 1-3
+2.10
+Regatas Flamengo RJ ve 1-4
+1.59
+Regatas Flamengo RJ ve 1-5
+1.34
+Regatas Flamengo RJ ve 1-6
+1.24
+Regatas Flamengo RJ ve 2-3
+2.63
+Regatas Flamengo RJ ve 2-4
+1.86
+Regatas Flamengo RJ ve 2-5
+1.53
+Regatas Flamengo RJ ve 2-6
+1.40
+Regatas Flamengo RJ ve 3-4
+2.48
+Regatas Flamengo RJ ve 3-5
+1.91
+Regatas Flamengo RJ ve 3-6
+1.71
+Daha Fazla Seçeneği Göster
+Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)
+1X ve 1-2
+3.04
+1X ve 1-3
+1.89
+1X ve 1-4
+1.42
+1X ve 1-5
+1.22
+1X ve 1-6
+1.13
+1X ve 2-3
+2.29
+1X ve 2-4
+1.63
+1X ve 2-5
+1.37
+1X ve 2-6
+1.26
+1X ve 3-4
+2.34
+1X ve 3-5
+1.83
+1X ve 3-6
+1.63
+1X ve 4-5
+2.90
+1X ve 4-6
+2.41
+1X ve 5-6
+4.40
+1X ve Herhangi bir diğer
+8.70
+12 ve 1-2
+3.31
+12 ve 1-3
+1.90
+Daha Fazla Seçeneği Göster
+Sonuç veya Doğru Skor
+Regatas Flamengo RJ veya 0-0: Evet
+1.13
+Regatas Flamengo RJ veya 0-0: Hayır
+5.60
+CA Paranaense veya 0-0: Evet
+8.00
+CA Paranaense veya 0-0: Hayır
+1.07
+Regatas Flamengo RJ veya 1-1: Evet
+1.10
+Regatas Flamengo RJ veya 1-1: Hayır
+6.40
+CA Paranaense veya 1-1: Evet
+6.70
+CA Paranaense veya 1-1: Hayır
+1.09
+Regatas Flamengo RJ veya 0-1: Evet
+1.14
+Regatas Flamengo RJ veya 0-1: Hayır
+5.20
+CA Paranaense veya 1-0: Evet
+5.20
+CA Paranaense veya 1-0: Hayır
+1.14
+Her İki Yarı Toplam Gol Kombinasyonu
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+1.95
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+3.35
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 0.5 Üst gol
+2.19
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+3.47
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+5.30
+İlk yarıda 0.5 Üst gol ve Maç sonucu 1.5 Üst gol
+1.27
+İlk yarıda 0.5 Üst gol ve Maç sonucu 2.5 Üst gol
+1.51
+İlk yarıda 0.5 Üst gol ve Maç sonucu 3.5 Üst gol
+2.04
+İlk yarıda 0.5 Üst gol ve Maç sonucu 4.5 Üst gol
+3.15
+İlk yarıda 1.5 Üst gol ve Maç sonucu 2.5 Üst gol
+2.06
+İlk yarıda 1.5 Üst gol ve Maç sonucu 3.5 Üst gol
+2.54
+İlk yarıda 1.5 Üst gol ve Maç sonucu 4.5 Üst gol
+3.65
+İlk yarıda 2.5 Üst gol ve Maç sonucu 3.5 Üst gol
+4.10
+İlk yarıda 2.5 Üst gol ve Maç sonucu 4.5 Üst gol
+5.30
+Toplam Gol (Kesin)
+0
+23.00
+1
+6.15
+2
+4.15
+3
+3.83
+4
+4.42
+5
+6.20
+6 veya Daha Fazla
+6.20
+Regatas Flamengo RJ : Toplam Gol (Kesin)
+0
+9.10
+1
+4.60
+2
+3.45
+3
+3.75
+4 veya Daha Fazla
+3.00
+CA Paranaense : Toplam Gol (Kesin)
+0
+1.74
+1
+2.62
+2
+7.40
+3
+31.00
+4 veya Daha Fazla
+41.00
+Toplam Gol (Aralık)
+0-1
+5.20
+2-3
+2.13
+4 ila 6
+2.34
+7 veya Daha fazla
+13.00
+Regatas Flamengo RJ : Toplam Gol (Aralık)
+0-1
+3.70
+2-3
+1.93
+4 ila 6
+3.08
+7 veya Daha fazla
+29.00
+CA Paranaense : Toplam Gol (Aralık)
+0-1
+1.11
+2-3
+6.20
+4 ila 6
+126.00
+7 veya Daha fazla
+401.00
+Toplam Gol (Genişletilmiş Gol Aralığı)
+1-2
+2.20
+1-3
+1.52
+1-4
+1.24
+1-5
+1.11
+1-6
+1.05
+2-3
+2.13
+2-4
+1.40
+2-5
+1.23
+2-6
+1.16
+3-4
+1.85
+3-5
+1.54
+3-6
+1.41
+Daha Fazla Seçeneği Göster
+Regatas Flamengo RJ : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+2.01
+1-3
+1.42
+1-4
+1.18
+2-3
+1.84
+2-4
+1.46
+3-4
+2.20
+Herhangi Diğer
+3.52
+CA Paranaense : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.94
+1-3
+1.87
+1-4
+1.86
+2-3
+5.40
+2-4
+5.30
+3-4
+21.00
+Herhangi Diğer
+1.62
+Regatas Flamengo RJ Kesin Gol Farkıyla Kazanır
+Evet
+Hayır
+1
+4.05
+1.20
+2
+3.75
+1.23
+3
+4.57
+1.16
+4
+6.30
+1.085
+Regatas Flamengo RJ Kazanır ve Kesin Gol Atar
+Evet
+Hayır
+1
+7.30
+1.06
+2
+3.83
+1.22
+3
+3.83
+1.22
+4
+5.10
+1.13
+En Az Bir Takım Üst Gol Atar
+YENİ
+Evet
+No
+1.5
+1.20
+4.05
+2.5
+1.75
+1.95
+3.5
+2.95
+1.35
+İlk Golün Atılma Şekli
+Kafa vuruşu ile
+6.50
+Diğer Bir Yöntemle
+1.34
+Serbest vuruş ile
+19.00
+Penaltı atışı ile
+8.20
+Maçta kendi kalesine gol atılır
+46.00
+Gol yok
+17.00
+1. Gol Zamanı
+1-10
+2.70
+11-20
+3.45
+21-30
+4.40
+31-40
+5.90
+41-50
+7.60
+51-60
+11.00
+61-70
+15.00
+71-80
+23.00
+81-90+
+21.00
+Gol Yok
+10.00
+Regatas Flamengo RJ : 1. Gol Zamanı (10 dk. Ara)
+1-10
+3.21
+11-20
+3.93
+21-30
+4.80
+31-40
+6.00
+41-50
+7.50
+51-60
+11.00
+61-70
+14.00
+71-80
+19.00
+81-90+
+19.00
+Gol Yok
+6.80
+CA Paranaense : 1. Gol Zamanı (10 dk. Ara)
+1-10
+8.20
+11-20
+13.00
+21-30
+13.00
+31-40
+13.00
+41-50
+13.00
+51-60
+14.00
+61-70
+14.00
+71-80
+15.00
+81-90+
+12.00
+Gol Yok
+1.51
+1. Gol Zamanı (15 dk.)
+1-15
+2.30
+16-30
+3.02
+31-45+
+3.86
+46-60
+7.20
+61-75
+11.00
+76-90+
+15.00
+No Goal
+19.00
+Doğru Skor
+1-0
+7.30
+0-0
+23.00
+0-1
+26.00
+2-0
+6.20
+1-1
+9.70
+0-2
+81.00
+2-1
+9.60
+2-2
+26.00
+1-2
+31.00
+3-0
+6.80
+3-3
+111.00
+0-3
+251.00
+3-1
+10.00
+4-4
+351.00
+1-3
+141.00
+3-2
+29.00
+5-5
+351.00
+2-3
+91.00
+Daha Fazla Seçeneği Göster
+Herhangi Bir Zamanda Doğru Skor
+0-1
+4.60
+0-2
+23.00
+0-3
+141.00
+0-4
+351.00
+0-5
+351.00
+1-0
+1.22
+1-1
+3.34
+1-2
+13.00
+1-3
+71.00
+1-4
+301.00
+1-5
+351.00
+2-0
+1.65
+2-1
+3.55
+2-2
+13.00
+2-3
+61.00
+2-4
+251.00
+2-5
+351.00
+3-0
+2.53
+Daha Fazla Seçeneği Göster
+1.Yarı Sonucu
+Regatas Flamengo RJ
+Beraberlik
+CA Paranaense
+1.52
+3.05
+11.00
+1.Yarı Çifte Şans
+1X
+12
+X2
+1.055
+1.34
+2.42
+1. Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.23
+3.85
+1
+1.43
+2.70
+1.5
+2.10
+1.68
+2
+3.40
+1.28
+2.5
+4.30
+1.19
+3
+8.50
+1.05
+3.5
+9.25
+1.04
+1. Yarı 1. Takım Toplam Gol
+Üst
+Alt
+0.5
+1.34
+3.00
+1
+1.68
+2.05
+1.5
+2.50
+1.47
+2
+4.57
+1.16
+2.5
+5.85
+1.10
+3
+10.30
+1.017
+1. Yarı 2. Takım Toplam Gol
+Üst
+Alt
+0.5
+3.75
+1.23
+1. Yarı Regatas Flamengo RJ Toplam Goller Asya
+Üst
+Alt
+0.75
+1.46
+2.52
+1.25
+2.08
+1.66
+1.75
+3.10
+1.32
+2.25
+5.35
+1.12
+2.75
+7.30
+1.06
+3.25
+10.30
+1.017
+1. Yarı CA Paranaense Toplam Gol Asya
+Üst
+Alt
+0.75
+5.35
+1.12
+1. Yarı Karşılıklı Gol
+Evet
+Hayır
+4.90
+1.14
+1. Yarı Gol Handikapı
+Regatas Flamengo RJ
+CA Paranaense
+-2.5
+6.70
++2.5
+1.085
+-2
+5.55
++2
+1.12
+-1.5
+2.90
++1.5
+1.38
+-1
+2.05
++1
+1.72
+-0.5
+1.52
++0.5
+2.42
+0
+1.09
+0
+6.50
++0.5
+1.055
+-0.5
+8.20
+1. Yarı Goller Asya Handikapı
+Regatas Flamengo RJ
+CA Paranaense
+-2.75
+8.75
++2.75
+1.047
+-2.25
+6.35
++2.25
+1.095
+-1.75
+3.70
++1.75
+1.25
+-1.25
+2.47
++1.25
+1.50
+-0.75
+1.69
++0.75
+2.08
+-0.25
+1.31
++0.25
+3.20
++0.25
+1.07
+-0.25
+7.50
++0.75
+1.024
+-0.75
+10.75
+1. Yarı Gol Handikapı 3 İhtimalli
+Regatas Flamengo RJ
+Beraberlik CA Paranaense
+CA Paranaense
+-2
+7.70
++2
+4.40
++2
+1.38
+-1
+2.90
++1
+2.92
++1
+2.50
+0
+1.52
+0
+3.05
+0
+8.20
+1.Yarı Toplam Gol Asya
+Üst
+Alt
+0.75
+1.31
+3.20
+1.25
+1.77
+1.97
+1.75
+2.50
+1.49
+2.25
+3.85
+1.23
+2.75
+5.55
+1.12
+3.25
+8.80
+1.04
+3.75
+11.20
+1.02
+1. . Yarı : Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+2
+4.30
+3.50
+1.68
+1
+2.10
+2.68
+3.85
+1. Yarı: Sonuç ve Her İki Takımda Gol atar
+Regatas Flamengo RJ Ve Evet
+8.10
+Beraberlik ve Hayır
+3.27
+Regatas Flamengo RJ Ve Hayır
+1.67
+CA Paranaense ve Evet
+36.00
+Beraberlik ve Evet
+8.30
+CA Paranaense ve Hayır
+8.20
+1. Yarı Toplam Gol Aralığı
+0-1
+1.68
+2-3
+2.14
+4 ila 6
+8.80
+7 veya Daha fazla
+26.00
+1.Yarı Regatas Flamengo RJ Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.47
+2.70
+21.00
+1.Yarı CA Paranaense Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.007
+8.90
+401.00
+1. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.52
+1-3
+1.30
+1-4
+1.23
+2-3
+2.19
+2-4
+1.98
+3-4
+4.10
+Herhangi Diğer
+3.14
+1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.54
+1-3
+1.36
+1-4
+1.32
+2-3
+2.48
+2-4
+2.33
+3-4
+5.50
+Herhangi Diğer
+2.61
+1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+3.75
+1-3
+3.32
+1-4
+3.75
+2-3
+5.70
+2-4
+19.00
+3-4
+141.00
+Herhangi Diğer
+1.23
+1.Yarı Toplam Gol (Kesin)
+0
+3.85
+1
+2.68
+2
+3.50
+3
+5.20
+4 veya Daha Fazla
+9.25
+1.Yarı Regatas Flamengo RJ Toplam Gol (Kesin)
+0
+1
+2+
+3.06
+2.60
+2.50
+1.Yarı CA Paranaense Toplam Gol (Kesin)
+0
+1
+2+
+1.23
+4.00
+26.00
+1. Yarı Regatas Flamengo RJ Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+2.75
+1.39
+2
+4.15
+1.19
+3
+7.85
+1.05
+1. Yarı CA Paranaense Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+8.20
+1.047
+1. Yarı Regatas Flamengo RJ Sıfıra Karşı Kazanır
+Evet
+Hayır
+1.67
+2.07
+1. Yarı CA Paranaense Sıfıra Karşı Kazanır
+Evet
+Hayır
+8.50
+1.04
+1. Yarı İlk Golü Atacak Takım
+Regatas Flamengo RJ
+CA Paranaense
+Gol yok
+1.46
+6.20
+3.85
+1. Yarı Son Golü Atacak Takım
+Regatas Flamengo RJ
+CA Paranaense
+Gol yok
+1.46
+6.20
+3.85
+1.Yarı Doğru Skor
+1-0
+3.07
+0-0
+3.85
+0-1
+11.00
+2-0
+4.50
+1-1
+11.00
+0-2
+71.00
+2-1
+15.00
+2-2
+101.00
+1-2
+56.00
+3-0
+10.00
+3-3
+351.00
+0-3
+351.00
+3-1
+34.00
+1-3
+301.00
+3-2
+201.00
+2-3
+351.00
+2. Yarı Sonucu
+Regatas Flamengo RJ
+Beraberlik
+CA Paranaense
+1.40
+3.47
+10.00
+2. Yarı Çifte Şans
+1X
+12
+X2
+1.05
+1.26
+2.64
+2.Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.14
+4.90
+1
+1.22
+3.83
+1.5
+1.68
+2.05
+2
+2.33
+1.54
+2.5
+3.05
+1.33
+3
+5.35
+1.12
+3.5
+6.15
+1.09
+4
+9.70
+1.023
+4.5
+10.30
+1.017
+2.Yarı Regatas Flamengo RJ Toplam Gol
+Üst
+Alt
+0.5
+1.22
+3.83
+1
+1.40
+2.70
+1.5
+2.04
+1.69
+2
+3.25
+1.29
+2.5
+4.15
+1.19
+3
+7.85
+1.05
+3.5
+8.50
+1.04
+2.Yarı CA Paranaense Toplam Gol
+Üst
+Alt
+0.5
+3.00
+1.34
+1
+8.70
+1.035
+1.5
+9.50
+1.025
+2. Yarı Karşılıklı Gol
+Evet
+Hayır
+3.75
+1.23
+2. Yarı Gol Handikapı
+Regatas Flamengo RJ
+CA Paranaense
+-3.5
+9.30
++3.5
+1.027
+-3
+9.00
++3
+1.03
+-2.5
+4.90
++2.5
+1.14
+-2
+4.15
++2
+1.19
+-1.5
+2.44
++1.5
+1.49
+-1
+1.76
++1
+1.94
+0
+1.075
+0
+6.70
+2. Yarı Gol Handikapı 3 İhtimalli
+Regatas Flamengo RJ
+Beraberlik CA Paranaense
+CA Paranaense
+-3
+9.30
++3
+6.70
++3
+1.14
+-2
+4.90
++2
+3.87
++2
+1.49
+-1
+2.44
++1
+2.88
++1
+2.64
+0
+1.40
+0
+3.47
+0
+10.00
+2.Yarı: Sonuç ve Her İki Takımda Gol Atar
+Regatas Flamengo RJ Ve Evet
+5.40
+Beraberlik ve Hayır
+4.90
+Regatas Flamengo RJ Ve Hayır
+1.68
+CA Paranaense ve Evet
+25.00
+Beraberlik ve Evet
+6.60
+CA Paranaense ve Hayır
+8.90
+2. Yarı Toplam Gol Aralığı
+0-1
+2.05
+2-3
+1.90
+4 ila 6
+5.50
+7 veya Daha fazla
+26.00
+2.Yarı Regatas Flamengo RJ Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.69
+2.33
+8.50
+2.Yarı CA Paranaense Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.025
+7.90
+401.00
+2. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.58
+1-3
+1.27
+1-4
+1.19
+2-3
+1.93
+2-4
+1.69
+3-4
+3.10
+Herhangi Diğer
+3.73
+2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.52
+1-3
+1.33
+1-4
+1.23
+2-3
+2.18
+2-4
+1.96
+3-4
+4.10
+Herhangi Diğer
+3.18
+2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)
+1-2
+2.73
+1-3
+2.70
+1-4
+2.69
+2-3
+12.00
+2-4
+12.00
+3-4
+71.00
+Herhangi Diğer
+1.34
+2.Yarı Toplam Gol (Kesin)
+0
+4.90
+1
+2.65
+2
+2.80
+3
+4.10
+4+
+6.15
+2.Yarı Regatas Flamengo RJ Toplam Gol (Kesin)
+0
+1
+2+
+3.83
+2.70
+2.04
+2.Yarı CA Paranaense Toplam Gol (Kesin)
+0
+1
+2+
+1.34
+3.41
+17.00
+2. Yarı Regatas Flamengo RJ Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+2.95
+1.35
+2
+3.83
+1.22
+3
+6.70
+1.075
+2. Yarı CA Paranaense Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+8.20
+1.045
+2.Yarı Regatas Flamengo RJ Sıfıra karşı Kazanır
+Evet
+Hayır
+1.68
+2.05
+2.Yarı CA Paranaense Sıfıra karşı Kazanır
+Evet
+Hayır
+8.50
+1.04
+2. Yarı -İlk Golü Atacak Takım
+Regatas Flamengo RJ
+CA Paranaense
+Gol yok
+1.36
+5.30
+4.90
+2. Yarı Son Golü Atacak Takım
+Regatas Flamengo RJ
+CA Paranaense
+Gol yok
+1.36
+5.30
+4.90
+2. Yarı Doğru Skor
+1-0
+3.35
+0-0
+4.90
+0-1
+12.00
+2-0
+4.20
+1-1
+8.30
+0-2
+51.00
+2-1
+10.00
+2-2
+46.00
+1-2
+36.00
+3-0
+7.50
+3-3
+351.00
+0-3
+251.00
+3-1
+19.00
+1-3
+226.00
+3-2
+81.00
+2-3
+226.00
+1. Yarı/2. Yarı Karşılıklı Gol
+Evet/Evet
+21.00
+Hayır/Evet
+4.30
+Evet/Hayır
+6.70
+Hayır/Hayır
+1.43
+1. Yarı veya Maç Sonucu
+Regatas Flamengo RJ
+X
+CA Paranaense
+1.13
+2.58
+7.20
+İlk Yarı/Maç Sonucu
+Regatas Flamengo RJ/Regatas Flamengo RJ
+1.57
+Beraberlik/Regatas Flamengo RJ
+4.40
+CA Paranaense/Regatas Flamengo RJ
+26.00
+Regatas Flamengo RJ/Beraberlik
+31.00
+Beraberlik/Beraberlik
+11.00
+CA Paranaense/Beraberlik
+31.00
+Regatas Flamengo RJ/CA Paranaense
+151.00
+Beraberlik/CA Paranaense
+31.00
+CA Paranaense/CA Paranaense
+25.00
+1.Yarı/2.Yarı Sonucu
+Regatas Flamengo RJ/Regatas Flamengo RJ
+1.80
+Regatas Flamengo RJ/Beraberlik
+3.62
+Regatas Flamengo RJ/CA Paranaense
+7.90
+Beraberlik/Regatas Flamengo RJ
+3.08
+Beraberlik/Beraberlik
+6.20
+Beraberlik/CA Paranaense
+14.00
+CA Paranaense/Regatas Flamengo RJ
+7.60
+CA Paranaense/Beraberlik
+15.00
+CA Paranaense/CA Paranaense
+34.00
+En Çok Gol Atılan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.88
+3.97
+2.00
+En Çok Gol Atılan Yarı : Çifte Şans
+1. Yarı veya Beraberlik
+1. veya 2.
+2. Yarı veya Beraberlik
+1.68
+1.22
+1.36
+Regatas Flamengo RJ : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+2.90
+3.53
+2.12
+CA Paranaense : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+4.85
+1.63
+3.57
+Kornerler : Sonuç
+Regatas Flamengo RJ
+X
+CA Paranaense
+1.20
+9.50
+5.60
+Kornerler : Toplam
+Üst
+Alt
+7.5
+1.15
+4.40
+9
+1.26
+3.47
+9.5
+1.40
+2.70
+10
+1.49
+2.44
+10.5
+1.67
+2.07
+11
+1.86
+1.84
+11.5
+2.08
+1.66
+12
+2.44
+1.49
+12.5
+2.70
+1.40
+13
+3.30
+1.28
+13.5
+3.45
+1.23
+Toplam Korner : Regatas Flamengo RJ
+Üst
+Alt
+6.5
+1.52
+2.25
+7
+1.70
+1.98
+7.5
+1.96
+1.72
+8
+2.28
+1.50
+8.5
+2.58
+1.38
+Toplam Korner : CA Paranaense
+Üst
+Alt
+2.5
+1.32
+3.10
+3
+1.46
+2.52
+3.5
+1.81
+1.89
+4
+2.27
+1.56
+4.5
+2.75
+1.39
+Kornerler: Handikap
+Regatas Flamengo RJ
+CA Paranaense
+-6
+3.75
++6
+1.20
+-5.5
+2.95
++5.5
+1.30
+-5
+2.61
++5
+1.37
+-4.5
+2.23
++4.5
+1.53
+-4
+2.02
++4
+1.67
+-3.5
+1.80
++3.5
+1.90
+-3
+1.59
++3
+2.21
+-2.5
+1.47
++2.5
+2.35
+-2
+1.32
++2
+2.85
+-1.5
+1.26
++1.5
+3.20
+Kornerler : Toplam (3-İhtimalli)
+Üst
+Kesin
+Alt
+13
+3.64
+8.60
+1.40
+12
+2.70
+7.60
+1.66
+11
+2.08
+7.20
+2.07
+10
+1.67
+7.20
+2.70
+9
+1.40
+7.80
+3.85
+Kornerler : Toplam (Aralık)
+5 veya daha az
+12.00
+6 - 8
+3.35
+9 - 11
+2.25
+12 - 14
+2.95
+15 veya daha fazla
+4.90
+Kornerler: Tek/Çift
+Çift
+Tek
+1.81
+1.81
+Korner Yarışı
+Regatas Flamengo RJ
+CA Paranaense
+Hiç Kimse
+9
+2.98
+9
+25.00
+9
+1.38
+7
+1.81
+7
+8.60
+7
+2.32
+5
+1.35
+5
+4.70
+5
+6.80
+3
+1.27
+3
+3.40
+3
+51.00
+Kornerler: 1. Yarı Sonucu
+Regatas Flamengo RJ
+X
+CA Paranaense
+1.35
+6.00
+5.10
+Kornerler: 1. Yarı Handikap
+Regatas Flamengo RJ
+CA Paranaense
+-2.5
+2.20
++2.5
+1.60
+-2
+1.85
++2
+1.77
+-1.5
+1.66
++1.5
+2.08
+Kornerler: 1. Yarı Toplam
+Üst
+Alt
+3.5
+1.25
+3.57
+4.5
+1.56
+2.27
+5
+1.71
+2.01
+5.5
+2.00
+1.72
+6
+2.39
+1.51
+6.5
+3.03
+1.29
+Kornerler: 1. Yarı Regatas Flamengo RJ Toplam
+Üst
+Alt
+2.5
+1.36
+2.70
+3
+1.53
+2.35
+3.5
+1.93
+1.77
+4
+2.35
+1.53
+4.5
+2.93
+1.31
+Kornerler: 1.Yarı CA Paranaense Toplam
+Üst
+Alt
+1
+1.27
+3.40
+1.5
+1.83
+1.87
+2
+2.44
+1.49
+2.5
+3.35
+1.24
+Toplam Korner : 2.Yarı
+Üst
+Alt
+4.5
+1.47
+2.35
+5.5
+1.93
+1.70
+6.5
+2.75
+1.35
+Kornerler : İlk Korner
+Regatas Flamengo RJ
+CA Paranaense
+1.38
+2.63
+Kornerler : Son Korner
+Regatas Flamengo RJ
+CA Paranaense
+1.42
+2.50
+Kartlar: Puan : Sonuç
+Regatas Flamengo RJ
+X
+CA Paranaense
+3.15
+4.00
+1.88
+Kartlar: Puan Handikapı
+Regatas Flamengo RJ
+CA Paranaense
+-0.5
+3.10
++0.5
+1.32
+0
+2.50
+0
+1.47
++0.5
+1.82
+-0.5
+1.88
++1
+1.48
+-1
+2.45
++1.5
+1.33
+-1.5
+3.05
+Kartlar: Toplam Puan
+Üst
+Alt
+1.5
+1.075
+6.70
+2.5
+1.27
+3.40
+3
+1.41
+2.68
+3.5
+1.64
+2.12
+4
+2.10
+1.65
+4.5
+2.37
+1.52
+5.5
+2.95
+1.35
+6.5
+4.30
+1.18
+7.5
+6.30
+1.085
+8.5
+8.50
+1.04
+9.5
+9.70
+1.023
+Kartlar: Regatas Flamengo RJ : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.12
+4.70
+1.5
+1.63
+2.13
+2.5
+2.80
+1.38
+3.5
+4.90
+1.11
+4.5
+7.45
+1.03
+Kartlar: CA Paranaense : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.065
+7.10
+1.5
+1.35
+2.95
+3.5
+3.47
+1.26
+4.5
+6.00
+1.095
+Kartlar: Toplam (Aralıklar)
+0
+19.00
+1-2
+2.91
+3-4
+2.03
+5-6
+2.38
+7-8
+3.91
+9-10
+8.10
+11 or more
+17.00
+Kartlar: 1.Yarı : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.28
+3.30
+1.5
+1.97
+1.73
+2.5
+3.47
+1.26
+Kartlar: 1. Yarı : Regatas Flamengo RJ : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.83
+1.87
+1.5
+4.40
+1.15
+2.5
+8.30
+1.03
+Kartlar: 1. Yarı : CA Paranaense : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.59
+2.21
+1.5
+3.57
+1.25
+2.5
+7.50
+1.055
+Kartlar: 2. Yarı : Regatas Flamengo RJ : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.35
+2.95
+1.5
+2.45
+1.43
+2.5
+5.35
+1.12
+Kartlar: 2. Yarı : CA Paranaense : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.21
+3.90
+1.5
+1.96
+1.74
+2.5
+3.83
+1.22
+En Fazla Korner Olan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.60
+8.20
+1.69
+Direkt Kırmızı Kart
+Evet
+3.23
+Her İki Takım da Kırmızı Kart Alır
+Evet
+26.00
+Her İki Takım da Kart Alır
+Evet
+Hayır
+1.21
+3.90
+Her iki takım da 2 veya daha fazla kart görür
+Evet
+Hayır
+2.04
+1.69
+Her iki takım da her iki yarıda kart alır
+Evet
+4.00
+İlk Kartı Görecek Takım
+Regatas Flamengo RJ
+CA Paranaense
+No Card
+2.06
+1.70
+29.00
+Son Kartı Görecek Takım
+Regatas Flamengo RJ
+CA Paranaense
+No Card
+2.06
+1.70
+29.00
+Sarı Kartlar: Handikap
+Regatas Flamengo RJ
+CA Paranaense
+0
+2.40
+0
+1.50
+Sarı Kartlar : 1. Yarı Handikap
+Regatas Flamengo RJ
+CA Paranaense
+0
+2.33
+0
+1.54
+Sarı Kartlar: 1. Yarı : Toplam
+Üst
+Alt
+1.5
+2.44
+1.49
+Maçta Penaltı Olur
+Evet
+Hayır
+2.75
+1.39
+Regatas Flamengo RJ : Penaltı Kazanır
+Evet
+3.55
+CA Paranaense : Penaltı Kazanır
+Evet
+6.50
+İki Takım da Penaltı Kazanır
+Evet
+21.00
+Maçta İki Penaltı Olur
+Evet
+4.50
+1. . Yarı : Penaltı
+Evet
+Hayır
+4.75
+1.15
+Penaltıdan Gol Atar
+Regatas Flamengo RJ
+CA Paranaense
+4.50
+9.80
+Penaltı Kaçırır
+Regatas Flamengo RJ
+CA Paranaense
+13.00
+29.00
+Maçta Kırmzı Kartlar
+YENİ
+1+
+3.95
+2+
+12.00
+3+
+34.00
+Regatas Flamengo RJ Kırmızı Kartlar
+YENİ
+1+
+2+
+8.50
+21.00
+CA Paranaense Kırmızı Kartlar
+YENİ
+1+
+2+
+6.20
+17.00
+1. . Yarı : Kırmızı Kart
+Evet
+Hayır
+9.30
+1.027
+2.. Yarı : Kırmızı Kart
+Evet
+Hayır
+3.65
+1.24
+Penaltı ve Kırmızı Kart
+Evet
+Hayır
+7.50
+1.055
+Maçta Penaltı veya Kırmızı Kart olur
+Evet
+1.62
+Maçta kendi kalesine gol atılır
+Evet
+Hayır
+8.50
+1.04
+Herhangi Bir Zamanda Gol Atar
+Pedro
+1.52
+Josmar
+2.22
+Samuel Lino
+2.24
+Giorgian De Arrascaeta
+2.27
+Bruno Henrique Pinto
+2.40
+Jorge Carrascal
+2.60
+Lucas Paqueta
+2.60
+Joaquin Freitas
+2.90
+Luiz Araujo
+3.05
+Jorge Rivaldo
+3.75
+Jorginho
+4.50
+Nicolas Azambuja
+4.70
+Daha Fazla Seçeneği Göster
+İlk Golcü
+Pedro
+3.15
+Josmar
+5.20
+Samuel Lino
+5.30
+Giorgian De Arrascaeta
+5.60
+Bruno Henrique Pinto
+5.70
+Jorge Carrascal
+6.20
+Lucas Paqueta
+6.30
+Joaquin Freitas
+7.00
+Luiz Araujo
+8.10
+Jorge Rivaldo
+10.00
+Nicolas Azambuja
+12.00
+Jorginho
+13.00
+Daha Fazla Seçeneği Göster
+İlk Golcü. Çifte Şans
+Bruno Henrique or Pedro Guilherme
+2.10
+Luiz Araujo or Pedro Guilherme
+2.20
+Giorgian De Arrascaeta or Pedro Guilherme
+2.25
+Luiz Araujo or Bruno Henrique
+3.00
+Bruno Henrique or Samuel Lino
+3.20
+Luiz Araujo or Giorgian De Arrascaeta
+3.25
+Giorgian De Arrascaeta or Samuel Lino
+3.50
+Samuel Lino or Kevin Viveros
+4.33
+Kevin Viveros or Jorginho
+6.00
+Leo Ortiz or Kevin Viveros
+7.50
+Son Golcü
+Pedro
+3.15
+Josmar
+5.50
+Giorgian De Arrascaeta
+5.60
+Bruno Henrique Pinto
+5.70
+Samuel Lino
+5.80
+Jorge Carrascal
+6.20
+Lucas Paqueta
+6.30
+Joaquin Freitas
+7.00
+Luiz Araujo
+8.10
+Jorge Rivaldo
+10.00
+Nicolas Azambuja
+12.00
+Jorginho
+13.00
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 2 Gol Atar
+Pedro
+3.40
+Giorgian De Arrascaeta
+7.80
+Samuel Lino
+8.30
+Bruno Henrique Pinto
+9.10
+Josmar
+9.60
+Jorge Carrascal
+10.00
+Lucas Paqueta
+11.00
+Joaquin Freitas
+12.00
+Luiz Araujo
+17.00
+Jorge Rivaldo
+23.00
+Jorginho
+29.00
+Nicolas Azambuja
+31.00
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 3 Gol Atar
+Pedro
+9.80
+Samuel Lino
+41.00
+Giorgian De Arrascaeta
+41.00
+Josmar
+46.00
+Bruno Henrique Pinto
+46.00
+Lucas Paqueta
+61.00
+Jorge Carrascal
+61.00
+Joaquin Freitas
+67.00
+Luiz Araujo
+101.00
+Dantas
+126.00
+Emerson Royal
+126.00
+Nicolas Azambuja
+126.00
+Daha Fazla Seçeneği Göster
+Oyuncu 4 veya Daha Çok Gol Atar
+Pedro Guilherme
+31.00
+Samuel Dias Lino
+126.00
+Giorgian De Arrascaeta
+141.00
+Bruno Henrique
+176.00
+Lucas Paqueta
+201.00
+Jorge Carrascal
+226.00
+Gonzalo Plata
+251.00
+Luiz de Araujo
+301.00
+Joaquin Freitas
+301.00
+Anthony Valencia
+301.00
+Nicolas De La Cruz
+501.00
+Jorginho
+601.00
+Saul
+1001.00
+Evertton
+1251.00
+Jorge Rivaldo
+1501.00
+Carlos Teran Diaz
+1501.00
+Diogo Riquelme
+1501.00
+Claudio Henrique de Jesus Passos
+1501.00
+Leo Ortiz
+1501.00
+Johnny Goes
+1501.00
+Gilberto Junior
+1501.00
+Cerci, Leonardo
+1501.00
+Guillermo Varela
+1501.00
+Renan Peixoto
+1501.00
+Juan Camilo Portilla
+1501.00
+Dudu Kogitzki
+1501.00
+Leozinho
+1501.00
+Leonardo Pereira
+1501.00
+Arthur Dias
+1501.00
+Ayrton Lucas
+1501.00
+Joao Cruz
+1501.00
+Bruno Zapelli
+1501.00
+Emerson Royal
+1501.00
+Jadson
+1501.00
+Juan Aguirre
+1501.00
+Joao Victor de Souza Cunha
+1501.00
+Bruno Goncalves Baldini
+1501.00
+Stiven Mendoza
+1501.00
+Kevin Viveros
+1501.00
+Gaston Benavidez
+1501.00
+Lucas Esquivel
+1501.00
+Alex Sandro
+1501.00
+Felipe Chiqueti Bandeira
+1501.00
+Gilberto Moraes
+1501.00
+Leonardo Derik
+1501.00
+Antonio Feliphe Costa Silva
+1501.00
+Kerwin Vargas
+1501.00
+Danilo L. da Silva
+1501.00
+Renan Viana
+1501.00
+Vitao
+1501.00
+Erick Pulgar
+1501.00
+Alejandro Garcia
+1501.00
+Leo Pele
+1501.00
+Luiz Gustavo Dias
+1501.00
+Dantas
+1501.00
+Daniel Sales
+1501.00
+Oyuncu Asist Yapar
+YENİ
+Giorgian de Arrascaeta 1+
+2.07
+Jorge Carrascal 1+
+2.15
+Samuel Lino 1+
+2.28
+Luiz Araujo 1+
+2.80
+Josmar 1+
+2.90
+Lucas Paqueta 1+
+3.45
+Bruno Henrique Pinto 1+
+3.50
+Joaquin Freitas 1+
+3.65
+Pedro 1+
+4.20
+Emerson Royal 1+
+4.33
+Guillermo Varela 1+
+4.50
+Ayrton Lucas 1+
+4.50
+Jorginho 1+
+5.10
+Alex Sandro 1+
+5.20
+Erick Pulgar 1+
+5.50
+Evertton Araujo 1+
+6.30
+Leozinho 1+
+6.90
+Zapelli 1+
+7.30
+Joao Cruz 1+
+7.30
+Kerwin Vargas 1+
+7.50
+Alejandro Garcia 1+
+8.90
+Stiven Mendoza 1+
+9.30
+Nicolas Azambuja 1+
+9.30
+Jorge Rivaldo 1+
+10.00
+Gilberto 1+
+10.00
+Leo Pereira 1+
+12.00
+Leo Ortiz 1+
+12.00
+Lucas Esquivel 1+
+12.00
+Gaston Benavidez 1+
+12.00
+Jadson 1+
+13.00
+Vitao 1+
+14.00
+Juan Portilla 1+
+15.00
+Juan Felipe Aguirre 1+
+26.00
+Dantas 1+
+31.00
+Oyuncu Gol Atar veya Asist Yapar
+Pedro
+1.35
+Giorgian De Arrascaeta
+1.43
+Samuel Lino
+1.47
+Jorge Carrascal
+1.52
+Josmar
+1.58
+Bruno Henrique Pinto
+1.70
+Lucas Paqueta
+1.75
+Luiz Araujo
+1.77
+Joaquin Freitas
+1.91
+Jorginho
+2.65
+Jorge Rivaldo
+2.80
+Ayrton Lucas
+3.10
+Daha Fazla Seçeneği Göster
+Oyuncu Gol Atar veya Asist Yapar (Çifte Şans)
+Giorgian De Arrascaeta or Pedro Guilherme
+1.05
+Luiz Araujo or Pedro Guilherme
+1.06
+Pedro Guilherme or Bruno Henrique
+1.07
+Luiz Araujo or Giorgian De Arrascaeta
+1.08
+Giorgian de Arrascaeta or Bruno Henrique
+1.10
+Luiz Araujo or Bruno Henrique
+1.13
+Jorginho or Samuel Lino
+1.20
+Samuel Lino or Kevin Viveros
+1.30
+Samuel Lino or Bruno Zapelli
+1.36
+Jorginho or Kevin Viveros
+1.44
+Oyuncu Gol Atar ve Asist Yapar
+YENİ
+Giorgian De Arrascaeta
+3.80
+Samuel Lino
+3.95
+Jorge Carrascal
+4.50
+Josmar
+5.20
+Pedro
+5.70
+Luiz Araujo
+5.90
+Bruno Henrique Pinto
+6.40
+Lucas Paqueta
+6.50
+Joaquin Freitas
+7.20
+Jorginho
+13.00
+Erick Pulgar
+17.00
+Evertton Araujo
+19.00
+Leozinho
+19.00
+Ayrton Lucas
+19.00
+Kerwin Vargas
+21.00
+Jorge Rivaldo
+23.00
+Joao Cruz
+23.00
+Nicolas Azambuja
+25.00
+Stiven Mendoza
+26.00
+Alejandro Garcia
+29.00
+Zapelli
+29.00
+Guillermo Varela
+29.00
+Alex Sandro
+34.00
+Oyuncu Penaltıdan Gol Atar
+YENİ
+Jorge Carrascal
+6.70
+Bruno Henrique Pinto
+7.40
+Jorginho
+7.90
+Giorgian De Arrascaeta
+10.00
+Lucas Paqueta
+10.00
+Jorge Rivaldo
+10.00
+Pedro
+13.00
+Josmar
+17.00
+Joaquin Freitas
+19.00
+Zapelli
+19.00
+Nicolas Azambuja
+21.00
+Samuel Lino
+25.00
+Luiz Araujo
+25.00
+Alejandro Garcia
+25.00
+Evertton Araujo
+34.00
+Erick Pulgar
+34.00
+Kerwin Vargas
+36.00
+Joao Cruz
+41.00
+Leozinho
+46.00
+Juan Portilla
+67.00
+Jadson
+71.00
+Stiven Mendoza
+71.00
+Emerson Royal
+91.00
+Juan Felipe Aguirre
+91.00
+Leo Pereira
+91.00
+Dantas
+91.00
+Gilberto
+91.00
+Lucas Esquivel
+91.00
+Ayrton Lucas
+91.00
+Gaston Benavidez
+91.00
+Alex Sandro
+91.00
+Leo Ortiz
+91.00
+Vitao
+91.00
+Guillermo Varela
+91.00
+Oyuncu Ceza Sahası Dışından Gol Atar
+Pedro
+7.10
+Giorgian De Arrascaeta
+9.10
+Danilo
+9.80
+Samuel Lino
+10.00
+Joao Camargo
+11.00
+Joaquin Freitas
+11.00
+Bruno Henrique Pinto
+11.00
+Jorge Carrascal
+11.00
+Luiz Araujo
+12.00
+Jorginho
+14.00
+Anthony Valencia
+14.00
+Leozinho
+21.00
+Daha Fazla Seçeneği Göster
+Oyuncu Penaltı Kaçırır
+YENİ
+Bruno Henrique Pinto
+23.00
+Pedro
+25.00
+Joaquin Freitas
+25.00
+Giorgian De Arrascaeta
+25.00
+Jorge Rivaldo
+29.00
+Jorge Carrascal
+31.00
+Josmar
+34.00
+Nicolas Azambuja
+36.00
+Samuel Lino
+41.00
+Luiz Araujo
+41.00
+Lucas Paqueta
+46.00
+Leo Ortiz
+91.00
+Erick Pulgar
+91.00
+Alex Sandro
+91.00
+Jorginho
+91.00
+Evertton Araujo
+91.00
+Juan Portilla
+91.00
+Leo Pereira
+91.00
+Gilberto
+91.00
+Leozinho
+91.00
+Joao Cruz
+91.00
+Emerson Royal
+91.00
+Gaston Benavidez
+91.00
+Stiven Mendoza
+91.00
+Alejandro Garcia
+91.00
+Dantas
+91.00
+Jadson
+91.00
+Vitao
+91.00
+Guillermo Varela
+91.00
+Lucas Esquivel
+91.00
+Ayrton Lucas
+91.00
+Kerwin Vargas
+91.00
+Juan Felipe Aguirre
+91.00
+Zapelli
+91.00
+Penaltı Kazandıran Oyuncu
+YENİ
+Bruno Henrique Pinto 1+
+13.00
+Samuel Lino 1+
+14.00
+Jorge Carrascal 1+
+15.00
+Josmar 1+
+17.00
+Joaquin Freitas 1+
+17.00
+Giorgian de Arrascaeta 1+
+19.00
+Pedro 1+
+21.00
+Lucas Paqueta 1+
+25.00
+Luiz Araujo 1+
+29.00
+Nicolas Azambuja 1+
+31.00
+Kerwin Vargas 1+
+31.00
+Jorge Rivaldo 1+
+31.00
+Emerson Royal 1+
+36.00
+Alejandro Garcia 1+
+36.00
+Leozinho 1+
+41.00
+Guillermo Varela 1+
+46.00
+Ayrton Lucas 1+
+46.00
+Alex Sandro 1+
+51.00
+Joao Cruz 1+
+51.00
+Jorginho 1+
+56.00
+Stiven Mendoza 1+
+61.00
+Gaston Benavidez 1+
+71.00
+Juan Felipe Aguirre 1+
+71.00
+Gilberto 1+
+71.00
+Lucas Esquivel 1+
+71.00
+Evertton Araujo 1+
+71.00
+Erick Pulgar 1+
+71.00
+Vitao 1+
+71.00
+Jadson 1+
+71.00
+Juan Portilla 1+
+71.00
+Zapelli 1+
+71.00
+Leo Ortiz 1+
+71.00
+Leo Pereira 1+
+71.00
+Dantas 1+
+71.00
+Oyuncu Kale Sahası İçinden Gol Atar
+YENİ
+Pedro
+3.15
+Samuel Lino
+9.80
+Josmar
+11.00
+Bruno Henrique Pinto
+11.00
+Jorge Rivaldo
+14.00
+Leo Pereira
+14.00
+Joaquin Freitas
+15.00
+Giorgian De Arrascaeta
+15.00
+Jorge Carrascal
+19.00
+Lucas Paqueta
+21.00
+Gilberto
+21.00
+Vitao
+21.00
+Luiz Araujo
+23.00
+Leozinho
+23.00
+Nicolas Azambuja
+25.00
+Jorginho
+26.00
+Leo Ortiz
+29.00
+Alex Sandro
+31.00
+Dantas
+36.00
+Erick Pulgar
+36.00
+Ayrton Lucas
+36.00
+Evertton Araujo
+36.00
+Kerwin Vargas
+41.00
+Emerson Royal
+46.00
+Stiven Mendoza
+46.00
+Alejandro Garcia
+51.00
+Juan Portilla
+51.00
+Joao Cruz
+51.00
+Zapelli
+51.00
+Gaston Benavidez
+51.00
+Lucas Esquivel
+51.00
+Guillermo Varela
+51.00
+Jadson
+51.00
+Juan Felipe Aguirre
+51.00
+Oyuncu Kafa Golü Atar
+Pedro
+6.30
+Bruno Henrique Pinto
+7.20
+Jorge Rivaldo
+11.00
+Leo Pereira
+12.00
+Leo Ortiz
+13.00
+Josmar
+13.00
+Nicolas Azambuja
+17.00
+Vitao
+17.00
+Lucas Paqueta
+17.00
+Joaquin Freitas
+19.00
+Giorgian De Arrascaeta
+19.00
+Samuel Lino
+21.00
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar Çifte Şans
+Pedro or Josmar
+1.23
+Pedro or Samuel Lino
+1.23
+Pedro or Giorgian De Arrascaeta
+1.24
+Pedro or Bruno Henrique Pinto
+1.25
+Pedro or Lucas Paqueta
+1.27
+Pedro or Jorge Carrascal
+1.27
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar. Üçlü Şans
+Pedro or Samuel Lino or Josmar
+1.12
+Pedro or Giorgian de Arrascaeta or Josmar
+1.12
+Pedro or Samuel Lino or Giorgian de Arrascaeta
+1.12
+Pedro or Bruno Henrique Pinto or Josmar
+1.12
+Pedro or Bruno Henrique Pinto or Samuel Lino
+1.12
+Pedro or Bruno Henrique Pinto or Giorgian de Arrascaeta
+1.13
+Daha Fazla Seçeneği Göster
+Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar
+Pedro and Josmar
+3.37
+Pedro and Samuel Lino
+3.41
+Pedro and Giorgian De Arrascaeta
+3.47
+Pedro and Bruno Henrique Pinto
+3.65
+Pedro and Lucas Paqueta
+3.95
+Pedro and Jorge Carrascal
+3.95
+Daha Fazla Seçeneği Göster
+Üç Oyuncu da Herhangi Bir Zamanda Gol Atar
+Pedro and Samuel Lino and Josmar
+7.60
+Pedro and Giorgian de Arrascaeta and Josmar
+7.70
+Pedro and Samuel Lino and Giorgian de Arrascaeta
+7.70
+Pedro and Bruno Henrique Pinto and Josmar
+8.10
+Pedro and Bruno Henrique Pinto and Samuel Lino
+8.20
+Pedro and Bruno Henrique Pinto and Giorgian de Arrascaeta
+8.30
+Daha Fazla Seçeneği Göster
+2 Oyuncu Toplamda Üst 1.5 Üst Gol Atar
+S. Lino & Pedro G.
+2.00
+Pedro G. & G. De Arrascaeta
+2.02
+Pedro G. & B. Henrique
+2.10
+Pedro G. & L. Paqueta
+2.15
+K. Viveros & Pedro G.
+2.47
+Jorge Rivaldo & Pedro G.
+2.63
+Pedro G. & Renan Viana
+2.73
+R. Peixoto & Pedro G.
+2.88
+Leozinho & Pedro G.
+2.90
+K. Vargas & Pedro G.
+2.92
+S. Lino & G. De Arrascaeta
+3.17
+S. Lino & B. Henrique
+3.35
+B. Henrique & G. De Arrascaeta
+3.45
+S. Lino & L. Paqueta
+3.50
+L. Paqueta & G. De Arrascaeta
+3.60
+B. Henrique & L. Paqueta
+3.83
+S. Lino & K. Viveros
+4.50
+K. Viveros & G. De Arrascaeta
+4.70
+S. Lino & Jorge Rivaldo
+5.00
+K. Viveros & B. Henrique
+5.00
+K. Viveros & L. Paqueta
+5.30
+Jorge Rivaldo & G. De Arrascaeta
+5.30
+S. Lino & Renan Viana
+5.50
+Jorge Rivaldo & B. Henrique
+5.80
+G. De Arrascaeta & Renan Viana
+5.80
+R. Peixoto & S. Lino
+6.00
+Jorge Rivaldo & L. Paqueta
+6.20
+S. Lino & Leozinho
+6.20
+B. Henrique & Renan Viana
+6.30
+S. Lino & K. Vargas
+6.30
+R. Peixoto & G. De Arrascaeta
+6.30
+Leozinho & G. De Arrascaeta
+6.40
+K. Vargas & G. De Arrascaeta
+6.50
+L. Paqueta & Renan Viana
+6.80
+R. Peixoto & B. Henrique
+7.00
+Leozinho & B. Henrique
+7.00
+K. Vargas & B. Henrique
+7.30
+R. Peixoto & L. Paqueta
+7.50
+K. Vargas & L. Paqueta
+7.80
+Leozinho & L. Paqueta
+7.80
+K. Viveros & Jorge Rivaldo
+8.80
+K. Viveros & Renan Viana
+10.00
+R. Peixoto & K. Viveros
+12.00
+K. Viveros & Leozinho
+12.00
+K. Vargas & K. Viveros
+13.00
+Jorge Rivaldo & Renan Viana
+13.00
+R. Peixoto & Jorge Rivaldo
+15.00
+Leozinho & Jorge Rivaldo
+15.00
+K. Vargas & Jorge Rivaldo
+17.00
+R. Peixoto & Renan Viana
+17.00
+Leozinho & Renan Viana
+19.00
+K. Vargas & Renan Viana
+19.00
+R. Peixoto & Leozinho
+23.00
+R. Peixoto & K. Vargas
+23.00
+K. Vargas & Leozinho
+23.00
+2 Oyuncu Toplamda Üst 2.5 Üst Gol Atar
+S. Lino & Pedro G.
+4.85
+Pedro G. & G. De Arrascaeta
+5.00
+Pedro G. & B. Henrique
+5.30
+Pedro G. & L. Paqueta
+5.50
+K. Viveros & Pedro G.
+6.90
+Jorge Rivaldo & Pedro G.
+7.80
+Pedro G. & Renan Viana
+8.30
+Leozinho & Pedro G.
+9.00
+R. Peixoto & Pedro G.
+9.00
+K. Vargas & Pedro G.
+9.30
+S. Lino & G. De Arrascaeta
+11.00
+S. Lino & B. Henrique
+12.00
+B. Henrique & G. De Arrascaeta
+13.00
+S. Lino & L. Paqueta
+13.00
+L. Paqueta & G. De Arrascaeta
+14.00
+B. Henrique & L. Paqueta
+15.00
+S. Lino & K. Viveros
+19.00
+K. Viveros & G. De Arrascaeta
+21.00
+K. Viveros & B. Henrique
+23.00
+S. Lino & Jorge Rivaldo
+23.00
+K. Viveros & L. Paqueta
+25.00
+Jorge Rivaldo & G. De Arrascaeta
+25.00
+S. Lino & Renan Viana
+26.00
+Jorge Rivaldo & B. Henrique
+29.00
+G. De Arrascaeta & Renan Viana
+29.00
+R. Peixoto & S. Lino
+31.00
+Jorge Rivaldo & L. Paqueta
+31.00
+S. Lino & Leozinho
+31.00
+Leozinho & G. De Arrascaeta
+34.00
+S. Lino & K. Vargas
+34.00
+B. Henrique & Renan Viana
+34.00
+R. Peixoto & G. De Arrascaeta
+34.00
+K. Vargas & G. De Arrascaeta
+36.00
+L. Paqueta & Renan Viana
+36.00
+R. Peixoto & B. Henrique
+36.00
+Leozinho & B. Henrique
+41.00
+K. Vargas & B. Henrique
+41.00
+R. Peixoto & L. Paqueta
+41.00
+Leozinho & L. Paqueta
+46.00
+K. Vargas & L. Paqueta
+46.00
+K. Viveros & Jorge Rivaldo
+56.00
+K. Viveros & Renan Viana
+71.00
+K. Viveros & Leozinho
+91.00
+R. Peixoto & K. Viveros
+91.00
+K. Vargas & K. Viveros
+96.00
+Jorge Rivaldo & Renan Viana
+101.00
+R. Peixoto & Jorge Rivaldo
+141.00
+Leozinho & Jorge Rivaldo
+141.00
+K. Vargas & Jorge Rivaldo
+151.00
+R. Peixoto & Renan Viana
+176.00
+Leozinho & Renan Viana
+176.00
+K. Vargas & Renan Viana
+201.00
+Oyuncu 1. Yarıda Gol Atar
+Pedro
+2.36
+Samuel Lino
+3.75
+Giorgian De Arrascaeta
+3.85
+Josmar
+3.90
+Bruno Henrique Pinto
+4.10
+Lucas Paqueta
+4.50
+Jorge Carrascal
+4.50
+Joaquin Freitas
+5.20
+Luiz Araujo
+5.30
+Jorge Rivaldo
+6.50
+Jorginho
+8.00
+Nicolas Azambuja
+8.30
+Leozinho
+9.70
+Kerwin Vargas
+10.00
+Erick Pulgar
+11.00
+Evertton Araujo
+12.00
+Stiven Mendoza
+13.00
+Ayrton Lucas
+13.00
+Joao Cruz
+13.00
+Leo Pereira
+17.00
+Alejandro Garcia
+17.00
+Zapelli
+17.00
+Leo Ortiz
+19.00
+Guillermo Varela
+21.00
+Emerson Royal
+21.00
+Alex Sandro
+23.00
+Vitao
+25.00
+Lucas Esquivel
+29.00
+Gaston Benavidez
+29.00
+Gilberto
+31.00
+Jadson
+36.00
+Juan Portilla
+36.00
+Dantas
+36.00
+Juan Felipe Aguirre
+41.00
+Oyuncu 2. Yarıda Gol Atar
+Pedro
+2.04
+Josmar
+3.10
+Samuel Lino
+3.20
+Giorgian De Arrascaeta
+3.25
+Bruno Henrique Pinto
+3.45
+Lucas Paqueta
+3.75
+Jorge Carrascal
+3.80
+Joaquin Freitas
+4.20
+Luiz Araujo
+4.50
+Jorge Rivaldo
+5.60
+Jorginho
+6.60
+Nicolas Azambuja
+7.00
+Leozinho
+8.20
+Kerwin Vargas
+8.60
+Erick Pulgar
+9.20
+Evertton Araujo
+9.70
+Stiven Mendoza
+11.00
+Joao Cruz
+11.00
+Ayrton Lucas
+11.00
+Leo Pereira
+13.00
+Alejandro Garcia
+14.00
+Zapelli
+15.00
+Leo Ortiz
+15.00
+Emerson Royal
+17.00
+Guillermo Varela
+17.00
+Alex Sandro
+19.00
+Vitao
+21.00
+Lucas Esquivel
+25.00
+Gaston Benavidez
+25.00
+Gilberto
+26.00
+Jadson
+31.00
+Juan Portilla
+31.00
+Dantas
+34.00
+Juan Felipe Aguirre
+36.00
+Oyuncu Her İki Yarıda da Gol Atar
+Pedro
+4.30
+Samuel Lino
+9.30
+Giorgian De Arrascaeta
+9.60
+Josmar
+9.80
+Bruno Henrique Pinto
+11.00
+Jorge Carrascal
+12.00
+Lucas Paqueta
+12.00
+Joaquin Freitas
+15.00
+Luiz Araujo
+17.00
+Jorge Rivaldo
+23.00
+Jorginho
+31.00
+Nicolas Azambuja
+31.00
+Leozinho
+41.00
+Kerwin Vargas
+46.00
+Joao Cruz
+61.00
+Oyuncu Serbest Vuruştan Gol Atar
+YENİ
+Zapelli
+26.00
+Giorgian De Arrascaeta
+26.00
+Joao Cruz
+41.00
+Lucas Paqueta
+41.00
+Luiz Araujo
+51.00
+Erick Pulgar
+51.00
+Evertton Araujo
+51.00
+Jorginho
+56.00
+Josmar
+56.00
+Joaquin Freitas
+61.00
+Samuel Lino
+61.00
+Jorge Carrascal
+67.00
+Bruno Henrique Pinto
+67.00
+Pedro
+67.00
+Leozinho
+86.00
+Alejandro Garcia
+86.00
+Jadson
+91.00
+Lucas Esquivel
+91.00
+Leo Ortiz
+91.00
+Juan Felipe Aguirre
+91.00
+Stiven Mendoza
+91.00
+Vitao
+91.00
+Juan Portilla
+91.00
+Emerson Royal
+91.00
+Leo Pereira
+91.00
+Guillermo Varela
+91.00
+Kerwin Vargas
+91.00
+Gilberto
+91.00
+Alex Sandro
+91.00
+Jorge Rivaldo
+91.00
+Nicolas Azambuja
+91.00
+Dantas
+91.00
+Gaston Benavidez
+91.00
+Ayrton Lucas
+91.00
+Oyuncu Sağ Ayağıyla Gol Atar
+YENİ
+Pedro
+1.79
+Giorgian De Arrascaeta
+2.85
+Samuel Lino
+2.90
+Jorge Carrascal
+3.10
+Bruno Henrique Pinto
+3.75
+Joaquin Freitas
+3.90
+Jorginho
+5.20
+Josmar
+5.40
+Jorge Rivaldo
+5.70
+Nicolas Azambuja
+7.60
+Erick Pulgar
+8.00
+Kerwin Vargas
+8.10
+Evertton Araujo
+8.30
+Joao Cruz
+9.30
+Lucas Paqueta
+11.00
+Zapelli
+12.00
+Alejandro Garcia
+13.00
+Guillermo Varela
+15.00
+Luiz Araujo
+17.00
+Emerson Royal
+17.00
+Ayrton Lucas
+21.00
+Gilberto
+26.00
+Jadson
+26.00
+Leo Ortiz
+26.00
+Gaston Benavidez
+29.00
+Leozinho
+31.00
+Juan Portilla
+34.00
+Stiven Mendoza
+36.00
+Juan Felipe Aguirre
+41.00
+Dantas
+41.00
+Leo Pereira
+41.00
+Vitao
+41.00
+Alex Sandro
+41.00
+Lucas Esquivel
+41.00
+Oyuncu Sol Ayağıyla Gol Atar
+YENİ
+Lucas Paqueta
+3.25
+Josmar
+3.35
+Luiz Araujo
+3.50
+Leozinho
+6.40
+Samuel Lino
+6.60
+Pedro
+6.70
+Giorgian De Arrascaeta
+7.80
+Bruno Henrique Pinto
+8.00
+Stiven Mendoza
+9.30
+Joaquin Freitas
+10.00
+Jorge Carrascal
+12.00
+Ayrton Lucas
+12.00
+Nicolas Azambuja
+17.00
+Kerwin Vargas
+19.00
+Alex Sandro
+21.00
+Jorge Rivaldo
+21.00
+Lucas Esquivel
+23.00
+Leo Pereira
+23.00
+Joao Cruz
+31.00
+Alejandro Garcia
+36.00
+Guillermo Varela
+41.00
+Gaston Benavidez
+41.00
+Gilberto
+41.00
+Jadson
+41.00
+Leo Ortiz
+41.00
+Vitao
+41.00
+Dantas
+41.00
+Juan Felipe Aguirre
+41.00
+Jorginho
+41.00
+Evertton Araujo
+41.00
+Juan Portilla
+41.00
+Erick Pulgar
+41.00
+Emerson Royal
+41.00
+Zapelli
+41.00
+Oyuncu Gol Atar ve Takımı Kazanır
+Pedro Guilherme
+1.68
+Samuel Dias Lino
+2.52
+Giorgian De Arrascaeta
+2.60
+Bruno Henrique
+2.75
+Lucas Paqueta
+2.90
+Jorge Carrascal
+3.05
+Gonzalo Plata
+3.18
+Luiz de Araujo
+3.33
+Joaquin Freitas
+3.47
+Anthony Valencia
+3.50
+Nicolas De La Cruz
+4.00
+Jorginho
+4.50
+Daha Fazla Seçeneği Göster
+Oyuncu Gol Atar ve Rakip Takım Kazanır
+Kevin Viveros
+6.00
+Jorge Rivaldo
+7.30
+Renan Viana
+8.30
+Renan Peixoto
+10.00
+Leozinho
+10.00
+Kerwin Vargas
+11.00
+Stiven Mendoza
+13.00
+Felipe Chiqueti Bandeira
+13.00
+Joao Cruz
+13.00
+Claudio Henrique de Jesus Passos
+17.00
+Dudu Kogitzki
+17.00
+Bruno Zapelli
+17.00
+Daha Fazla Seçeneği Göster
+Oyuncu Gol Atar ve Maç Berabere Biter
+Kevin Viveros
+17.00
+Jorge Rivaldo
+21.00
+Renan Viana
+25.00
+Pedro Guilherme
+26.00
+Renan Peixoto
+31.00
+Leozinho
+31.00
+Kerwin Vargas
+34.00
+Stiven Mendoza
+36.00
+Felipe Chiqueti Bandeira
+36.00
+Giorgian De Arrascaeta
+41.00
+Joao Cruz
+41.00
+Samuel Dias Lino
+41.00
+Daha Fazla Seçeneği Göster
+İlk 10 Dakikada Gol Atar
+Pedro
+8.30
+Samuel Lino
+14.00
+Giorgian De Arrascaeta
+15.00
+Josmar
+15.00
+Bruno Henrique Pinto
+17.00
+Jorge Carrascal
+17.00
+Lucas Paqueta
+17.00
+Joaquin Freitas
+21.00
+Luiz Araujo
+21.00
+Jorge Rivaldo
+26.00
+Jorginho
+29.00
+Nicolas Azambuja
+31.00
+Leozinho
+36.00
+Kerwin Vargas
+36.00
+Erick Pulgar
+36.00
+Evertton Araujo
+41.00
+Joao Cruz
+46.00
+Stiven Mendoza
+46.00
+Ayrton Lucas
+46.00
+Alejandro Garcia
+51.00
+Zapelli
+56.00
+Leo Pereira
+56.00
+Leo Ortiz
+61.00
+Guillermo Varela
+71.00
+Emerson Royal
+71.00
+Alex Sandro
+81.00
+Gilberto
+81.00
+Jadson
+81.00
+Vitao
+81.00
+Lucas Esquivel
+81.00
+Juan Felipe Aguirre
+81.00
+Dantas
+81.00
+Juan Portilla
+81.00
+Gaston Benavidez
+81.00
+Regatas Flamengo RJ : İlk Golü Atar
+Pedro Guilherme
+2.46
+Silva Miranda Josmar
+3.60
+Bruno Henrique
+4.00
+Luiz Araujo
+4.33
+Samuel Lino
+4.60
+Giorgian De Arrascaeta
+4.80
+Lorran
+5.50
+Lucas Paqueta
+5.50
+Jorge Carrascal
+5.90
+Gonzalo Plata
+6.00
+Nicolas De La Cruz
+6.50
+Joaquin Freitas
+6.60
+Daha Fazla Seçeneği Göster
+CA Paranaense : İlk Golü Atar
+Kevin Viveros
+4.50
+Jorge Rivaldo
+4.75
+Renan Peixoto
+6.30
+Kerwin Vargas
+6.80
+Leozinho Silva
+7.00
+Stiven Mendoza
+8.30
+Joao Cruz
+9.30
+Chiqueti
+9.50
+Bruno Zapelli
+11.00
+Isaac Rodrigues
+11.00
+Claudinho de Jesus
+11.00
+Luiz Gustavo
+11.00
+Daha Fazla Seçeneği Göster
+Regatas Flamengo RJ : Son Golcü
+Pedro Guilherme
+2.50
+Silva Miranda Josmar
+3.60
+Bruno Henrique
+4.00
+Luiz Araujo
+4.33
+Samuel Lino
+5.00
+Giorgian De Arrascaeta
+5.00
+Lorran
+5.50
+Lucas Paqueta
+5.50
+Gonzalo Plata
+6.00
+Joaquin Freitas
+6.00
+Jorge Carrascal
+6.00
+Anthony Valencia
+6.50
+Daha Fazla Seçeneği Göster
+CA Paranaense : Son Golü Atar
+Kevin Viveros
+4.50
+Jorge Rivaldo
+5.00
+Renan Peixoto
+7.00
+Leozinho Silva
+7.00
+Kerwin Vargas
+7.50
+Joao Cruz
+8.50
+Chiqueti
+9.50
+Stiven Mendoza
+9.50
+Claudinho de Jesus
+11.00
+Isaac Rodrigues
+11.00
+Luiz Gustavo
+11.00
+Bruno Zapelli
+11.00
+Daha Fazla Seçeneği Göster
+Gol Asisti Yapar Çifte Şans
+Luiz Araujo or Giorgian De Arrascaeta
+1.20
+Samuel Lino or Giorgian De Arrascaeta
+1.24
+Jorginho or Giorgian De Arrascaeta
+1.24
+Luiz Araujo or Jorginho
+1.33
+Luiz Araujo or Samuel Lino
+1.33
+Jorginho or Samuel Lino
+1.37
+Bruno Henrique or Pedro Guilherme
+1.44
+Bruno Zapelli or Pedro Guilherme
+1.76
+Bruno Zapelli or Bruno Henrique
+1.76
+Kevin Viveros or Pedro Guilherme
+1.81
+Oyuncu Kart Görür
+Jadson
+2.55
+Juan Felipe Aguirre
+2.65
+Juan Portilla
+2.75
+Erick Pulgar
+2.95
+Dantas
+3.10
+Lucas Esquivel
+3.15
+Joao Cruz
+3.15
+Gaston Benavidez
+3.15
+Lucas Paqueta
+3.20
+Leozinho
+3.40
+Leo Pereira
+3.45
+Zapelli
+3.45
+Daha Fazla Seçeneği Göster
+Oyuncu Kart Görür Çifte Şans
+Jadson or Antonio Felipinho
+1.83
+Jadson or Jorginho
+1.95
+Jadson or Bruno Henrique
+2.00
+Antonio Felipinho or Jorginho
+2.05
+Bruno Henrique or Antonio Felipinho
+2.10
+Bruno Henrique or Jorginho
+2.25
+Kevin Viveros or Gaston Benavidez
+2.50
+Kevin Viveros or Luiz Araujo
+2.50
+Luiz Araujo or Gaston Benavidez
+2.50
+Giorgian De Arrascaeta or Kevin Viveros
+2.60
+Oyuncu Sarı Kart Görür
+Jadson
+2.65
+Juan Felipe Aguirre
+2.70
+Juan Portilla
+2.80
+Erick Pulgar
+3.00
+Lucas Esquivel
+3.25
+Lucas Paqueta
+3.25
+Gaston Benavidez
+3.25
+Dantas
+3.25
+Joao Cruz
+3.30
+Leozinho
+3.50
+Zapelli
+3.55
+Leo Pereira
+3.55
+Alejandro Garcia
+3.65
+Gilberto
+3.75
+Alex Sandro
+3.80
+Jorge Carrascal
+3.80
+Bruno Henrique Pinto
+3.80
+Giorgian De Arrascaeta
+4.00
+Jorginho
+4.00
+Evertton Araujo
+4.00
+Kerwin Vargas
+4.10
+Luiz Araujo
+4.10
+Nicolas Azambuja
+4.33
+Stiven Mendoza
+4.33
+Leo Ortiz
+4.50
+Jorge Rivaldo
+4.60
+Josmar
+4.60
+Joaquin Freitas
+4.60
+Guillermo Varela
+4.70
+Vitao
+4.75
+Samuel Lino
+4.90
+Ayrton Lucas
+5.00
+Emerson Royal
+5.20
+Pedro
+5.40
+Mycael
+6.90
+Santos
+7.10
+Agustin Rossi
+11.00
+Andrew
+21.00
+Kart Görecek İlk Oyuncu
+Juan Portilla
+8.20
+Jadson
+9.50
+Lucas Esquivel
+10.00
+Bruno Henrique Pinto
+10.00
+Dantas
+10.00
+Zapelli
+11.00
+Juan Felipe Aguirre
+11.00
+Lucas Paqueta
+11.00
+Gaston Benavidez
+12.00
+Gilberto
+12.00
+Alejandro Garcia
+12.00
+Joao Cruz
+12.00
+Daha Fazla Seçeneği Göster
+Son Kartı Görecek Oyuncu
+YENİ
+Juan Portilla
+8.20
+Jadson
+9.50
+Bruno Henrique Pinto
+10.00
+Lucas Esquivel
+10.00
+Dantas
+10.00
+Zapelli
+11.00
+Juan Felipe Aguirre
+11.00
+Lucas Paqueta
+11.00
+Alejandro Garcia
+12.00
+Gilberto
+12.00
+Gaston Benavidez
+12.00
+Joao Cruz
+12.00
+Erick Pulgar
+13.00
+Luiz Araujo
+13.00
+Jorge Carrascal
+13.00
+Evertton Araujo
+13.00
+Jorge Rivaldo
+14.00
+Nicolas Azambuja
+14.00
+Alex Sandro
+14.00
+Leozinho
+14.00
+Josmar
+15.00
+Samuel Lino
+15.00
+Joaquin Freitas
+15.00
+Stiven Mendoza
+17.00
+Vitao
+17.00
+Giorgian De Arrascaeta
+17.00
+Jorginho
+17.00
+Leo Pereira
+17.00
+Emerson Royal
+17.00
+Pedro
+17.00
+Kerwin Vargas
+17.00
+Leo Ortiz
+19.00
+Ayrton Lucas
+19.00
+Guillermo Varela
+21.00
+Santos
+23.00
+Mycael
+23.00
+Agustin Rossi
+36.00
+Andrew
+36.00
+Oyundan Uzaklaştırılır
+YENİ
+Nicolas Azambuja
+23.00
+Dantas
+23.00
+Joao Cruz
+23.00
+Jadson
+23.00
+Juan Portilla
+25.00
+Alejandro Garcia
+25.00
+Bruno Henrique Pinto
+26.00
+Juan Felipe Aguirre
+26.00
+Lucas Esquivel
+29.00
+Jorge Rivaldo
+29.00
+Leozinho
+31.00
+Zapelli
+31.00
+Daha Fazla Seçeneği Göster
+Regatas Flamengo RJ : Her İki Yarıda Gol Atar
+Evet
+Hayır
+1.68
+2.05
+CA Paranaense Her İki Yarıda Gol Atar
+Evet
+Hayır
+8.50
+1.04
+Regatas Flamengo RJ : Her İki Yarıda Kazanır
+Evet
+Hayır
+2.15
+1.62
+Regatas Flamengo RJ : İlk Yarıda Gol Atar
+Evet
+Hayır
+1.34
+3.00
+CA Paranaense İlk Yarıda Gol Atar
+Evet
+Hayır
+3.75
+1.23
+Regatas Flamengo RJ : İkinci Yarıda Gol Atar
+Evet
+Hayır
+1.22
+3.83
+CA Paranaense İkinci Yarıda Gol Atar
+Evet
+Hayır
+3.00
+1.34
+İlk Yarıda Gol
+Evet
+Hayır
+1.23
+3.85
+İkinci Yarıda Gol
+Evet
+Hayır
+1.14
+4.90
+Her İki Yarııda da 1.5 Üst Gol
+Evet
+Hayır
+3.47
+1.26
+Her İki Yarı Goller 1.5 Alt
+Evet
+Hayır
+3.47
+1.26
+Regatas Flamengo RJ Gol Yemeden Kazanır
+Evet
+Hayır
+1.83
+1.87
+CA Paranaense Gol Yemeden Kazanır
+Evet
+Hayır
+10.80
+1.012
+Regatas Flamengo RJ İki veya Üç Gol Farkla Kazanır
+Evet
+Hayır
+2.25
+1.57
+Regatas Flamengo RJ Bir Gol Farkla Kazanır veya Berabere
+Evet
+Hayır
+2.75
+1.39
+CA Paranaense Bir Gol Farkla Kazanır veya Berabere Kalır
+Evet
+Hayır
+4.75
+1.15
+Regatas Flamengo RJ En Az Bir Yarıyı Kazanır
+Evet
+Hayır
+1.09
+6.15
+CA Paranaense En Az Bir Yarıda Kazanır
+Evet
+Hayır
+4.90
+1.14
+Regatas Flamengo RJ İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+11.00
+1.01
+CA Paranaense İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+9.50
+1.025
+Regatas Flamengo RJ : Gol Atar 1.Yarı/2.Yarı
+Evet/Hayır
+5.30
+Evet/Evet
+1.68
+Hayır/Hayır
+11.00
+Hayır/Evet
+3.71
+CA Paranaense Gol Atar İlk Yarı/İkinci Yarı
+Evet/Hayır
+5.00
+Evet/Evet
+11.00
+Hayır/Hayır
+1.74
+Hayır/Evet
+3.64
+Yarıları Farklı Takımlar Kazanır
+Evet
+Hayır
+6.50
+1.08
+Yarılardan En Az Birinde Beraberlik
+Evet
+Hayır
+1.96
+1.74
+Maç Skoru Beraberlik (0-0 hariç)
+Evet
+Hayır
+7.50
+1.055
+Kesin Gol Sayısı
+Gol Yok
+23.00
+Kesin 1
+6.15
+Kesin 2
+4.15
+Kesin 3
+3.83
+Kesin 4
+4.42
+Kesin 5
+6.20
+Kesin 6 veya Fazla
+6.20
+Maçta 1 Gol Olur
+Evet
+Hayır
+6.15
+1.09
+Maçta 2 Gol Olur
+Evet
+Hayır
+4.15
+1.19
+Maçta 3 Gol Olur
+Evet
+Hayır
+3.83
+1.22
+Maçta 4 Gol Olur
+Evet
+Hayır
+4.42
+1.17
+Regatas Flamengo RJ : Kazanma Marjı
+1
+4.05
+2
+3.45
+3
+4.30
+4+
+3.68
+CA Paranaense : Kazanma Marjı
+1
+13.00
+2
+41.00
+3
+176.00
+4+
+401.00
+Skor Kombinasyonları
+1-0 / 2-0 / 3-0
+2.07
+4-0 / 5-0 / 6-0
+3.80
+2-1 / 3-1 / 4-1
+2.97
+3-2 / 4-2 / 4-3
+6.30
+0-1 / 0-2 / 0-3
+11.00
+0-4 / 0-5 / 0-6
+401.00
+1-2 / 1-3 / 1-4
+13.00
+2-3 / 2-4 / 3-4
+31.00
+Ofsaytlar: Toplam
+YENİ
+2+
+1.21
+3+
+1.57
+4+
+2.33
+5+
+3.90
+6+
+6.90
+Ofsaytlar: Regatas Flamengo RJ Toplam
+YENİ
+1+
+1.22
+2+
+1.86
+3+
+3.45
+4+
+7.20
+5+
+14.00
+Ofsaytlar: CA Paranaense Toplam
+YENİ
+1+
+1.27
+2+
+2.08
+3+
+4.20
+4+
+9.00
+5+
+17.00
+Fauller: Toplam
+YENİ
+23+
+1.53
+24+
+1.73
+25+
+2.01
+26+
+2.39
+27+
+2.90
+28+
+3.65
+Fauller: Regatas Flamengo RJ - Toplam
+YENİ
+10+
+1.40
+11+
+1.66
+12+
+2.06
+13+
+2.70
+14+
+3.70
+Fauller: CA Paranaense - Toplam
+YENİ
+12+
+1.44
+13+
+1.70
+14+
+2.09
+15+
+2.65
+16+
+3.55
+Kaleyi Bulan Şutlar: Toplam
+YENİ
+10+
+1.44
+11+
+1.71
+12+
+2.11
+13+
+2.75
+14+
+3.70
+15+
+5.20
+Kaleyi Bulan Şutlar: Regatas Flamengo RJ - Toplam
+YENİ
+6+
+1.25
+7+
+1.47
+8+
+1.81
+9+
+2.37
+10+
+3.25
+11+
+4.75
+Kaleyi Bulan Şutlar: CA Paranaense - Toplam
+YENİ
+2+
+1.18
+3+
+1.52
+4+
+2.25
+5+
+3.75
+6+
+6.90
+7+
+13.00
+Kaleyi Bulan Şutlar: 1. Yarı - Toplam
+YENİ
+4+
+1.30
+5+
+1.66
+6+
+2.32
+7+
+3.60
+8+
+6.00
+9+
+10.00
+2.02
+26+
+2.40
+27+
+2.95
+28+
+3.70
+Fauller: Regatas Flamengo RJ - Toplam
+YENİ
+10+
+1.41
+11+
+1.67
+12+
+2.07
+13+
+2.70
+14+
+3.70
+Fauller: CA Paranaense - Toplam
+YENİ
+12+
+1.45
+13+
+1.70
+14+
+2.09
+15+
+2.70
+16+
+3.60
+Kaleyi Bulan Şutlar: Toplam
+YENİ
+10+
+1.44
+11+
+1.71
+12+
+2.11
+13+
+2.75
+14+
+3.70
+15+
+5.20
+Kaleyi Bulan Şutlar: Regatas Flamengo RJ - Toplam
+YENİ
+6+
+1.25
+7+
+1.47
+8+
+1.81
+9+
+2.37
+10+
+3.25
+11+
+4.75
+Kaleyi Bulan Şutlar: CA Paranaense - Toplam
+YENİ
+2+
+1.18
+3+
+1.52
+4+
+2.25
+5+
+3.75
+6+
+6.90
+7+
+13.00
+Kaleyi Bulan Şutlar: 1. Yarı - Toplam
+YENİ
+4+
+1.30
+5+
+1.66
+6+
+2.32
+7+
+3.60
+8+
+6.00
+9+
+10.00
+Kaleyi Bulan Şutlar: 1. Yarı - Regatas Flamengo RJ - Toplam
+YENİ
+3+
+1.28
+4+
+1.67
+5+
+2.43
+6+
+3.95
+7+
+6.90
+Kaleyi Bulan Şutlar: 1. Yarı - CA Paranaense - Toplam
+YENİ
+1+
+1.24
+2+
+2.03
+3+
+4.30
+4+
+10.00
+5+
+19.00
+Kaleyi Bulan Şutlar: 2. Yarı - Toplam
+YENİ
+4+
+1.15
+5+
+1.33
+6+
+1.65
+7+
+2.22
+8+
+3.20
+9+
+5.00
+10+
+8.10
+Kaleyi Bulan Şutlar: 2. Yarı - Regatas Flamengo RJ - Toplam
+YENİ
+3+
+1.27
+4+
+1.63
+5+
+2.29
+6+
+3.55
+7+
+5.90
+Kaleyi Bulan Şutlar: 2. Yarı - CA Paranaense - Toplam
+YENİ
+1+
+1.16
+2+
+1.67
+3+
+2.95
+4+
+6.20
+5+
+13.00
+Şutlar: Toplam
+YENİ
+29+
+1.44
+30+
+1.57
+31+
+1.74
+32+
+1.94
+33+
+2.21
+34+
+2.55
+35+
+2.95
+36+
+3.50
+37+
+4.20
+38+
+5.10
+Şutlar: Regatas Flamengo RJ: Toplam
+YENİ
+19+
+1.25
+20+
+1.33
+21+
+1.42
+22+
+1.54
+23+
+1.68
+24+
+1.85
+25+
+2.05
+26+
+2.31
+27+
+2.59
+Şutlar: CA Paranaense: Toplam
+YENİ
+9+
+1.35
+10+
+1.55
+11+
+1.81
+12+
+2.17
+13+
+2.66
+14+
+3.32
+Taç Atışları: Toplam
+YENİ
+36+
+1.87
+37+
+2.09
+38+
+2.37
+Taç Atışları: Regatas Flamengo RJ - Toplam
+YENİ
+19+
+1.82
+20+
+2.13
+21+
+2.55
+Taç Atışları: CA Paranaense - Toplam
+YENİ
+17+
+1.77
+18+
+2.08
+19+
+2.50
+Paslar: Regatas Flamengo RJ Toplam
+YENİ
+550+
+1.20
+600+
+1.37
+650+
+1.67
+700+
+2.20
+750+
+3.05
+Paslar: CA Paranaense Toplam
+YENİ
+300+
+1.20
+350+
+1.58
+400+
+2.55
+Pas Denemeleri: Regatas Flamengo RJ Toplam
+YENİ
+650+
+1.28
+700+
+1.56
+750+
+2.09
+800+
+3.05
+Pas Denemeleri: CA Paranaense Toplam
+YENİ
+350+
+1.12
+400+
+1.38
+450+
+2.12
+500+
+3.80
+İlk 10 Dakika (00:00 - 09:59) Gol
+Üst
+Alt
+0.5
+3.65
+1.24
+İlk 10 Dakika (00:00 - 09:59) Köşe vuruşu
+Üst
+Alt
+0.5
+1.43
+2.62
+1.5
+2.87
+1.36
+Regatas Flamengo RJ : İlk 10 Dakika (00:00 – 09:59) Kornerler
+Üst
+Alt
+0.5
+1.73
+1.97
+1.5
+4.30
+1.18
+CA Paranaense : İlk 10 Dakika (00:00 – 09:59) Kornerler
+Üst
+Alt
+0.5
+3.05
+1.33
+1.5
+8.70
+1.035
+İlk 10 Dakika (00:00 - 09:59) Sarı Kartlar
+Üst
+Alt
+0.5
+6.90
+1.07
+1-15 Dk. Galibi
+Regatas Flamengo RJ
+X
+CA Paranaense
+3.38
+1.35
+15.00
+1-15 Dk. Gol Handikapı
+Regatas Flamengo RJ
+CA Paranaense
+0
+1.14
+0
+4.90
+1-15 Dk. Toplam Goller
+Üst
+Alt
+0.5
+2.40
+1.50
+1
+6.30
+1.085
+1-15 Dk. Regatas Flamengo RJ Toplam Goller
+Üst
+Alt
+0.5
+2.80
+1.38
+1
+8.20
+1.045
+1-15 Dk. CA Paranaense Toplam Goller
+Üst
+Alt
+0.5
+7.50
+1.055
+1-15 Dk. İki Takım Gol Atar
+Evet
+Hayır
+12.50
+1.008
+1-30 Dk. Galibi
+Regatas Flamengo RJ
+X
+CA Paranaense
+2.01
+1.95
+11.00
+1-30 Dk. Gol Handikapı
+Regatas Flamengo RJ
+CA Paranaense
+-1
+3.75
++1
+1.23
+1-30 Dk. Toplam Goller
+Üst
+Alt
+0.5
+1.51
+2.39
+1
+2.30
+1.55
+1-30 Dk. Regatas Flamengo RJ Toplam Goller
+Üst
+Alt
+0.5
+1.71
+2.01
+1
+3.05
+1.33
+1-30 Dk. CA Paranaense Toplam Goller
+Üst
+Alt
+0.5
+4.90
+1.14
+1-30 Dk. Karşılıklı Gol
+Evet
+Hayır
+7.10
+1.065
+1-60 Dk. Galibi
+Regatas Flamengo RJ
+X
+CA Paranaense
+1.35
+3.71
+11.00
+1-60 Dk. Gol Handikapı
+Regatas Flamengo RJ
+CA Paranaense
+-1.5
+2.15
++1.5
+1.62
+1-60 Dk. Toplam Goller
+Üst
+Alt
+1.5
+1.49
+2.44
+2
+1.87
+1.83
+1-60 Dk. Regatas Flamengo RJ Toplam Goller
+Üst
+Alt
+1.5
+1.78
+1.92
+2
+2.55
+1.45
+1-60 Dk. CA Paranaense Toplam Goller
+Üst
+Alt
+0.5
+2.68
+1.41
+1
+7.50
+1.055
+1-60 Dk. Karşılıklı Gol
+Evet
+Hayır
+3.20
+1.30
+1-75 Dk. Galibi
+Regatas Flamengo RJ
+X
+CA Paranaense
+1.24
+4.80
+12.00
+1-75 Dk. Gol Handikapı
+Regatas Flamengo RJ
+CA Paranaense
+-1.5
+1.74
++1.5
+1.96
+1-75 Dk. Toplam Goller
+Üst
+Alt
+2.5
+1.76
+1.94
+3
+2.33
+1.54
+1-75 Dk. Regatas Flamengo RJ Toplam Goller
+Üst
+Alt
+2
+1.72
+2.00
+2.5
+2.30
+1.55
+1-75 Dk. CA Paranaense Toplam Goller
+Üst
+Alt
+0.5
+2.27
+1.56
+1
+5.35
+1.12
+1-75 Dk. Karşılıklı Gol
+Evet
+Hayır
+2.45
+1.48
+Farklı Kombineler
+Regatas Flamengo RJ Kazanır veya Üst (2.5) Gol
+1.09
+Beraberlik veya Üst 2.5 Gol
+1.24
+CA Paranaense Kazanır veya 2.5 Üst Gol
+1.33
+Regatas Flamengo RJ Kazanır veya Alt (2.5) Gol
+1.03
+Beraberlik veya Alt 2.5 Gol
+2.14
+CA Paranaense kazanır veya 2,5 alt gol
+2.12
+Daha Fazla Seçeneği Göster
+Çifte Şans Kombo
+1X ve Üst (2.5) Gol
+1.50
+1X ve Alt (2.5) Gol
+2.71
+X2 ve Üst (2.5) Gol
+12.00
+X2 ve Alt (2.5) Gol
+6.40
+12 ve Üst (2.5) Gol
+1.49
+12 ve Alt (2.5) Gol
+3.27
+1X ve Karşılıklı Gol Olur
+2.25
+Regatas Flamengo RJ 0'a karşı kazanır veya Doğru Skor 0-0
+1.74
+X2 ve Karşılıklı Gol Olur
+6.80
+CA Paranaense 0'a karşı kazanır veya Doğru Skor 0 : 0
+11.00
+12 ve Karşılıklı Gol Olur
+2.56
+Regatas Flamengo RJ veya CA Paranaense - Gol Yemeden Kazanır
+1.71
+Daha Fazla Seçeneği Göster
+1.Yarı/Maç Skoru
+0-0/0-0
+19.00
+0-1/0-1
+61.00
+0-2/0-2
+351.00
+0-3/0-3
+401.00
+0-4/0-4
+401.00
+1-0/1-0
+17.00
+1-1/1-1
+56.00
+1-2/1-2
+301.00
+1-3/1-3
+401.00
+1-4/1-4
+401.00
+2-0/2-0
+25.00
+2-1/2-1
+86.00
+2-2/2-2
+276.00
+2-3/2-3
+401.00
+2-4/2-4
+401.00
+3-0/3-0
+56.00
+3-1/3-1
+176.00
+3-2/3-2
+401.00
+Daha Fazla Seçeneği Göster
+Karşılıklı Gol ve Toplam Goller 2.5
+Evet ve Üst 2.5
+2.17
+Evet ve Alt 2.5
+10.00
+Hayır ve Üst 2.5
+2.71
+Hayır ve Alt 2.5
+2.62
+Karşılıklı Gol ve Toplam Goller 3.5
+Evet ve Üst 3.5
+2.75
+Evet ve Alt 3.5
+4.33
+Hayır ve Üst 3.5
+4.33
+Hayır ve Alt 3.5
+1.99
+Her İki Yarıda da Karşılıklı Gol
+Evet
+Hayır
+10.80
+1.012
+İlk Golü Atacak Takım ve Maç Sonucu
+Regatas Flamengo RJ ve Regatas Flamengo RJ
+1.27
+Regatas Flamengo RJ ve Berabere
+15.00
+Regatas Flamengo RJ ve CA Paranaense
+46.00
+CA Paranaense ve Regatas Flamengo RJ
+8.10
+CA Paranaense ve Berabere
+15.00
+CA Paranaense ve CA Paranaense
+12.00
+Gol Yok
+17.00
+İlk Golü Atacak Takım ve 1. Yarı Sonucu
+Regatas Flamengo RJ ve Regatas Flamengo RJ
+1.50
+Regatas Flamengo RJ ve Berabere
+4.00
+Regatas Flamengo RJ ve CA Paranaense
+111.00
+CA Paranaense ve Regatas Flamengo RJ
+25.00
+CA Paranaense ve Berabere
+9.50
+CA Paranaense ve CA Paranaense
+8.70
+Gol Yok
+17.00
+İlk Golü Atacak Takım ve 2. Yarı Sonucu
+Regatas Flamengo RJ ve Regatas Flamengo RJ
+1.57
+Regatas Flamengo RJ ve Berabere
+4.40
+Regatas Flamengo RJ ve CA Paranaense
+12.00
+CA Paranaense ve Regatas Flamengo RJ
+7.10
+CA Paranaense ve Berabere
+14.00
+CA Paranaense ve CA Paranaense
+21.00
+Gol Yok
+17.00
+1.Yarı Toplam Gol 'e karşı 2. Yarı Toplam Gol Handikapı
+İlk Yarı Toplam Goller
+İkinci Yarı Toplam Goller
++1.5
+1.28
+-1.5
+3.30
++0.5
+1.73
+-0.5
+2.00
+-0.5
+2.88
++0.5
+1.38
+Regatas Flamengo RJ : Geriden Gelerek Kazanır
+Evet
+Hayır
+6.50
+1.08
+İlk Yarı/Maç Sonucu ve Toplam Gol
+Regatas Flamengo RJ/Regatas Flamengo RJ ve Üst (1.5)
+1.61
+Regatas Flamengo RJ/Regatas Flamengo RJ ve Alt (1.5)
+14.00
+Regatas Flamengo RJ/Beraberlik ve Üst (1.5)
+23.00
+Regatas Flamengo RJ/CA Paranaense ve Üst (1.5)
+101.00
+Beraberlik/Regatas Flamengo RJ ve Üst (1.5)
+5.10
+Beraberlik/Regatas Flamengo RJ ve Alt (1.5)
+12.00
+Beraberlik/Beraberlik ve Üst (1.5)
+15.00
+Beraberlik/Beraberlik ve Alt (1.5)
+17.00
+Beraberlik/CA Paranaense ve Üst (1.5)
+41.00
+Beraberlik/CA Paranaense ve Alt (1.5)
+41.00
+CA Paranaense/Regatas Flamengo RJ ve Üst (1.5)
+21.00
+CA Paranaense/Beraberlik ve Üst (1.5)
+23.00
+Daha Fazla Seçeneği Göster
+Oyuncu Kaleyi Bulan Şutlar
+YENİ
+Alejandro Garcia 1+
+2.44
+Alejandro Garcia 2+
+8.90
+Alejandro Garcia 3+
+21.00
+Alex Sandro 1+
+4.20
+Alex Sandro 2+
+15.00
+Ayrton Lucas 1+
+2.35
+Ayrton Lucas 2+
+8.10
+Ayrton Lucas 3+
+21.00
+Bruno Henrique Pinto 1+
+1.19
+Bruno Henrique Pinto 2+
+1.84
+Bruno Henrique Pinto 3+
+3.55
+Bruno Henrique Pinto 4+
+7.70
+Dantas 1+
+6.30
+Dantas 2+
+19.00
+Emerson Royal 1+
+2.80
+Emerson Royal 2+
+11.00
+Emerson Royal 3+
+25.00
+Erick Pulgar 1+
+2.25
+Erick Pulgar 2+
+7.70
+Erick Pulgar 3+
+19.00
+Evertton Araujo 1+
+2.13
+Evertton Araujo 2+
+6.30
+Evertton Araujo 3+
+17.00
+Gaston Benavidez 1+
+4.80
+Gaston Benavidez 2+
+15.00
+Gilberto 1+
+3.45
+Gilberto 2+
+12.00
+Gilberto 3+
+31.00
+Giorgian de Arrascaeta 1+
+1.21
+Giorgian de Arrascaeta 2+
+1.91
+Giorgian de Arrascaeta 3+
+3.85
+Giorgian de Arrascaeta 4+
+8.90
+Guillermo Varela 1+
+3.45
+Guillermo Varela 2+
+14.00
+Guillermo Varela 3+
+31.00
+Jadson 1+
+5.00
+Jadson 2+
+17.00
+Joao Cruz 1+
+1.81
+Joao Cruz 2+
+5.00
+Joao Cruz 3+
+14.00
+Joao Cruz 4+
+29.00
+Joaquin Freitas 1+
+1.48
+Joaquin Freitas 2+
+3.20
+Joaquin Freitas 3+
+8.60
+Joaquin Freitas 4+
+17.00
+Jorge Carrascal 1+
+1.26
+Jorge Carrascal 2+
+2.10
+Jorge Carrascal 3+
+4.50
+Jorge Carrascal 4+
+11.00
+Jorge Rivaldo 1+
+1.50
+Jorge Rivaldo 2+
+3.30
+Jorge Rivaldo 3+
+9.10
+Jorge Rivaldo 4+
+17.00
+Jorginho 1+
+2.49
+Jorginho 2+
+9.00
+Jorginho 3+
+21.00
+Josmar 1+
+1.09
+Josmar 2+
+1.38
+Josmar 3+
+2.12
+Josmar 4+
+3.85
+Juan Felipe Aguirre 1+
+5.00
+Juan Felipe Aguirre 2+
+17.00
+Juan Portilla 1+
+4.60
+Juan Portilla 2+
+17.00
+Kerwin Vargas 1+
+1.96
+Kerwin Vargas 2+
+5.90
+Kerwin Vargas 3+
+17.00
+Kerwin Vargas 4+
+31.00
+Leo Ortiz 1+
+3.40
+Leo Ortiz 2+
+13.00
+Leo Ortiz 3+
+31.00
+Leo Pereira 1+
+2.85
+Leo Pereira 2+
+11.00
+Leo Pereira 3+
+25.00
+Leozinho 1+
+1.79
+Leozinho 2+
+4.80
+Leozinho 3+
+14.00
+Leozinho 4+
+26.00
+Lucas Esquivel 1+
+5.50
+Lucas Esquivel 2+
+15.00
+Lucas Paqueta 1+
+1.23
+Lucas Paqueta 2+
+2.00
+Lucas Paqueta 3+
+4.20
+Lucas Paqueta 4+
+10.00
+Luiz Araujo 1+
+1.30
+Luiz Araujo 2+
+2.28
+Luiz Araujo 3+
+5.10
+Luiz Araujo 4+
+11.00
+Nicolas Azambuja 1+
+1.64
+Nicolas Azambuja 2+
+4.10
+Nicolas Azambuja 3+
+12.00
+Nicolas Azambuja 4+
+23.00
+Pedro 1+
+1.14
+Pedro 2+
+1.59
+Pedro 3+
+2.80
+Pedro 4+
+5.90
+Pedro 5+
+13.00
+Samuel Lino 1+
+1.20
+Samuel Lino 2+
+1.88
+Samuel Lino 3+
+3.70
+Samuel Lino 4+
+8.60
+Stiven Mendoza 1+
+2.42
+Stiven Mendoza 2+
+8.60
+Stiven Mendoza 3+
+21.00
+Vitao 1+
+3.75
+Vitao 2+
+13.00
+Zapelli 1+
+2.35
+Zapelli 2+
+8.30
+Zapelli 3+
+21.00
+Oyuncu Şutları
+YENİ
+Alejandro Garcia 1+
+1.36
+Alejandro Garcia 2+
+2.55
+Alejandro Garcia 3+
+6.20
+Alejandro Garcia 4+
+15.00
+Alex Sandro 1+
+1.74
+Alex Sandro 2+
+4.70
+Alex Sandro 3+
+13.00
+Alex Sandro 4+
+25.00
+Ayrton Lucas 1+
+1.20
+Ayrton Lucas 2+
+1.88
+Ayrton Lucas 3+
+3.75
+Ayrton Lucas 4+
+8.60
+Bruno Henrique Pinto 3+
+1.27
+Bruno Henrique Pinto 4+
+1.66
+Bruno Henrique Pinto 5+
+2.45
+Bruno Henrique Pinto 6+
+4.10
+Dantas 1+
+2.70
+Dantas 2+
+10.00
+Dantas 3+
+23.00
+Emerson Royal 1+
+1.47
+Emerson Royal 2+
+3.15
+Emerson Royal 3+
+8.50
+Emerson Royal 4+
+17.00
+Erick Pulgar 1+
+1.22
+Erick Pulgar 2+
+1.96
+Erick Pulgar 3+
+4.00
+Erick Pulgar 4+
+9.40
+Evertton Araujo 1+
+1.11
+Evertton Araujo 2+
+1.46
+Evertton Araujo 3+
+2.34
+Evertton Araujo 4+
+4.40
+Evertton Araujo 5+
+8.70
+Gaston Benavidez 1+
+2.03
+Gaston Benavidez 2+
+6.40
+Gaston Benavidez 3+
+17.00
+Gaston Benavidez 4+
+36.00
+Gilberto 1+
+1.81
+Gilberto 2+
+5.10
+Gilberto 3+
+14.00
+Gilberto 4+
+29.00
+Giorgian de Arrascaeta 4+
+1.46
+Giorgian de Arrascaeta 5+
+2.00
+Giorgian de Arrascaeta 6+
+3.05
+Giorgian de Arrascaeta 7+
+5.10
+Guillermo Varela 1+
+1.63
+Guillermo Varela 2+
+4.10
+Guillermo Varela 3+
+12.00
+Guillermo Varela 4+
+23.00
+Jadson 1+
+1.96
+Jadson 2+
+6.00
+Jadson 3+
+15.00
+Jadson 4+
+31.00
+Joao Cruz 1+
+1.12
+Joao Cruz 2+
+1.51
+Joao Cruz 3+
+2.55
+Joao Cruz 4+
+5.10
+Joao Cruz 5+
+11.00
+Joaquin Freitas 3+
+1.39
+Joaquin Freitas 4+
+1.93
+Joaquin Freitas 5+
+3.05
+Joaquin Freitas 6+
+5.40
+Jorge Carrascal 3+
+1.37
+Jorge Carrascal 4+
+1.87
+Jorge Carrascal 5+
+2.90
+Jorge Carrascal 6+
+5.00
+Jorge Rivaldo 2+
+1.38
+Jorge Rivaldo 3+
+2.11
+Jorge Rivaldo 4+
+3.85
+Jorge Rivaldo 5+
+8.00
+Jorginho 1+
+1.25
+Jorginho 2+
+2.08
+Jorginho 3+
+4.50
+Jorginho 4+
+11.00
+Josmar 3+
+1.30
+Josmar 4+
+1.74
+Josmar 5+
+2.65
+Josmar 6+
+4.50
+Juan Felipe Aguirre 1+
+2.06
+Juan Felipe Aguirre 2+
+6.60
+Juan Felipe Aguirre 3+
+17.00
+Juan Felipe Aguirre 4+
+36.00
+Juan Portilla 1+
+1.55
+Juan Portilla 2+
+3.60
+Juan Portilla 3+
+10.00
+Juan Portilla 4+
+21.00
+Kerwin Vargas 1+
+1.14
+Kerwin Vargas 2+
+1.62
+Kerwin Vargas 3+
+2.85
+Kerwin Vargas 4+
+6.20
+Leo Ortiz 1+
+1.38
+Leo Ortiz 2+
+2.70
+Leo Ortiz 3+
+6.80
+Leo Ortiz 4+
+17.00
+Leo Pereira 1+
+1.32
+Leo Pereira 2+
+2.41
+Leo Pereira 3+
+5.70
+Leo Pereira 4+
+14.00
+Leozinho 2+
+1.48
+Leozinho 3+
+2.41
+Leozinho 4+
+4.70
+Leozinho 5+
+10.00
+Lucas Esquivel 1+
+1.80
+Lucas Esquivel 2+
+4.90
+Lucas Esquivel 3+
+14.00
+Lucas Esquivel 4+
+26.00
+Lucas Paqueta 3+
+1.29
+Lucas Paqueta 4+
+1.70
+Lucas Paqueta 5+
+2.50
+Lucas Paqueta 6+
+4.20
+Luiz Araujo 3+
+1.35
+Luiz Araujo 4+
+1.86
+Luiz Araujo 5+
+2.90
+Luiz Araujo 6+
+5.10
+Nicolas Azambuja 1+
+1.15
+Nicolas Azambuja 2+
+1.64
+Nicolas Azambuja 3+
+2.90
+Nicolas Azambuja 4+
+6.20
+Pedro 3+
+1.26
+Pedro 4+
+1.62
+Pedro 5+
+2.36
+Pedro 6+
+3.85
+Pedro 7+
+6.90
+Samuel Lino 3+
+1.19
+Samuel Lino 4+
+1.46
+Samuel Lino 5+
+1.99
+Samuel Lino 6+
+3.00
+Samuel Lino 7+
+5.10
+Stiven Mendoza 1+
+1.23
+Stiven Mendoza 2+
+2.02
+Stiven Mendoza 3+
+4.20
+Stiven Mendoza 4+
+9.70
+Vitao 1+
+1.42
+Vitao 2+
+2.90
+Vitao 3+
+7.40
+Vitao 4+
+17.00
+Zapelli 1+
+1.19
+Zapelli 2+
+1.80
+Zapelli 3+
+3.45
+Zapelli 4+
+7.80
+Oyuncu Pasları
+YENİ
+Alex Sandro 55+
+1.61
+Alex Sandro 60+
+2.01
+Alex Sandro 65+
+2.65
+Alex Sandro 70+
+3.60
+Ayrton Lucas 55+
+1.45
+Ayrton Lucas 60+
+1.74
+Ayrton Lucas 65+
+2.19
+Ayrton Lucas 70+
+2.90
+Dantas 40+
+1.38
+Dantas 45+
+1.72
+Dantas 50+
+2.32
+Dantas 55+
+3.35
+Emerson Royal 50+
+1.37
+Emerson Royal 55+
+1.63
+Emerson Royal 60+
+2.04
+Emerson Royal 65+
+2.70
+Erick Pulgar 100+
+2.60
+Erick Pulgar 85+
+1.58
+Erick Pulgar 90+
+1.82
+Erick Pulgar 95+
+2.14
+Evertton Araujo 80+
+1.52
+Evertton Araujo 85+
+1.73
+Evertton Araujo 90+
+2.04
+Evertton Araujo 95+
+2.47
+Gilberto 40+
+1.53
+Gilberto 45+
+1.99
+Gilberto 50+
+2.85
+Guillermo Varela 55+
+1.53
+Guillermo Varela 60+
+1.88
+Guillermo Varela 65+
+2.42
+Guillermo Varela 70+
+3.25
+Jadson 35+
+1.33
+Jadson 40+
+1.63
+Jadson 45+
+2.18
+Jadson 50+
+3.20
+Joao Cruz 30+
+1.36
+Joao Cruz 35+
+1.69
+Joao Cruz 40+
+2.29
+Joao Cruz 45+
+3.40
+Jorge Carrascal 45+
+1.40
+Jorge Carrascal 50+
+1.71
+Jorge Carrascal 55+
+2.24
+Jorge Carrascal 60+
+3.10
+Jorginho 100+
+1.70
+Jorginho 105+
+1.94
+Jorginho 90+
+1.38
+Jorginho 95+
+1.51
+Josmar 35+
+1.36
+Josmar 40+
+1.68
+Josmar 45+
+2.28
+Josmar 50+
+3.40
+Juan Felipe Aguirre 35+
+1.33
+Juan Felipe Aguirre 40+
+1.62
+Juan Felipe Aguirre 45+
+2.17
+Juan Felipe Aguirre 50+
+3.20
+Juan Portilla 45+
+1.47
+Juan Portilla 50+
+1.84
+Juan Portilla 55+
+2.48
+Juan Portilla 60+
+3.50
+Kerwin Vargas 35+
+1.54
+Kerwin Vargas 40+
+2.01
+Kerwin Vargas 45+
+2.90
+Leo Ortiz 100+
+2.26
+Leo Ortiz 105+
+2.75
+Leo Ortiz 90+
+1.66
+Leo Ortiz 95+
+1.91
+Leo Pereira 100+
+1.72
+Leo Pereira 105+
+1.98
+Leo Pereira 90+
+1.39
+Leo Pereira 95+
+1.53
+Leozinho 30+
+1.53
+Leozinho 35+
+2.00
+Leozinho 40+
+2.90
+Luiz Araujo 45+
+1.51
+Luiz Araujo 50+
+1.91
+Luiz Araujo 55+
+2.60
+Luiz Araujo 60+
+3.75
+Pedro 20+
+1.45
+Pedro 25+
+1.84
+Pedro 30+
+2.55
+Pedro 35+
+3.95
+Samuel Lino 50+
+1.52
+Samuel Lino 55+
+1.89
+Samuel Lino 60+
+2.50
+Samuel Lino 65+
+3.45
+Vitao 75+
+1.55
+Vitao 80+
+1.80
+Vitao 85+
+2.16
+Vitao 90+
+2.70
+Oyuncu Pas Denemeleri
+YENİ
+Alex Sandro 60+
+1.50
+Alex Sandro 65+
+1.84
+Alex Sandro 70+
+2.38
+Alex Sandro 75+
+3.25
+Ayrton Lucas 60+
+1.40
+Ayrton Lucas 65+
+1.66
+Ayrton Lucas 70+
+2.08
+Ayrton Lucas 75+
+2.75
+Dantas 50+
+1.52
+Dantas 55+
+1.95
+Dantas 60+
+2.70
+Dantas 65+
+3.90
+Emerson Royal 60+
+1.59
+Emerson Royal 65+
+2.00
+Emerson Royal 70+
+2.65
+Emerson Royal 75+
+3.65
+Erick Pulgar 100+
+2.07
+Erick Pulgar 105+
+2.55
+Erick Pulgar 90+
+1.53
+Erick Pulgar 95+
+1.75
+Evertton Araujo 100+
+2.37
+Evertton Araujo 105+
+2.95
+Evertton Araujo 90+
+1.66
+Evertton Araujo 95+
+1.95
+Gilberto 45+
+1.36
+Gilberto 50+
+1.67
+Gilberto 55+
+2.23
+Gilberto 60+
+3.20
+Guillermo Varela 60+
+1.51
+Guillermo Varela 65+
+1.85
+Guillermo Varela 70+
+2.41
+Guillermo Varela 75+
+3.30
+Jadson 40+
+1.30
+Jadson 45+
+1.57
+Jadson 50+
+2.07
+Jadson 55+
+3.00
+Joao Cruz 40+
+1.50
+Joao Cruz 45+
+1.94
+Joao Cruz 50+
+2.75
+Jorge Carrascal 55+
+1.47
+Jorge Carrascal 60+
+1.81
+Jorge Carrascal 65+
+2.37
+Jorge Carrascal 70+
+3.30
+Jorginho 100+
+1.43
+Jorginho 105+
+1.59
+Jorginho 110+
+1.81
+Jorginho 95+
+1.31
+Josmar 40+
+1.31
+Josmar 45+
+1.58
+Josmar 50+
+2.09
+Josmar 55+
+3.05
+Juan Felipe Aguirre 40+
+1.34
+Juan Felipe Aguirre 45+
+1.65
+Juan Felipe Aguirre 50+
+2.22
+Juan Felipe Aguirre 55+
+3.30
+Juan Portilla 50+
+1.37
+Juan Portilla 55+
+1.66
+Juan Portilla 60+
+2.16
+Juan Portilla 65+
+3.00
+Kerwin Vargas 40+
+1.48
+Kerwin Vargas 45+
+1.90
+Kerwin Vargas 50+
+2.70
+Leo Ortiz 100+
+1.90
+Leo Ortiz 105+
+2.27
+Leo Ortiz 110+
+2.80
+Leo Ortiz 95+
+1.64
+Leo Pereira 100+
+1.58
+Leo Pereira 105+
+1.81
+Leo Pereira 110+
+2.12
+Leo Pereira 95+
+1.42
+Leozinho 35+
+1.35
+Leozinho 40+
+1.66
+Leozinho 45+
+2.24
+Leozinho 50+
+3.30
+Luiz Araujo 50+
+1.35
+Luiz Araujo 55+
+1.61
+Luiz Araujo 60+
+2.08
+Luiz Araujo 65+
+2.85
+Pedro 25+
+1.31
+Pedro 30+
+1.59
+Pedro 35+
+2.10
+Pedro 40+
+3.05
+Samuel Lino 55+
+1.38
+Samuel Lino 60+
+1.65
+Samuel Lino 65+
+2.11
+Samuel Lino 70+
+2.85
+Vitao 80+
+1.53
+Vitao 85+
+1.79
+Vitao 90+
+2.17
+Vitao 95+
+2.70
+Oyuncunun Yaptığı Fauller
+YENİ
+Agustin Rossi 1+
+7.70
+Alejandro Garcia 1+
+1.28
+Alejandro Garcia 2+
+2.23
+Alejandro Garcia 3+
+5.10
+Alejandro Garcia 4+
+12.00
+Alex Sandro 1+
+1.20
+Alex Sandro 2+
+1.88
+Alex Sandro 3+
+3.75
+Alex Sandro 4+
+8.50
+Andrew 1+
+29.00
+Ayrton Lucas 1+
+1.35
+Ayrton Lucas 2+
+2.55
+Ayrton Lucas 3+
+5.70
+Ayrton Lucas 4+
+12.00
+Bruno Henrique Pinto 1+
+1.14
+Bruno Henrique Pinto 2+
+1.62
+Bruno Henrique Pinto 3+
+2.85
+Bruno Henrique Pinto 4+
+6.00
+Dantas 1+
+1.40
+Dantas 2+
+2.85
+Dantas 3+
+7.40
+Dantas 4+
+13.00
+Emerson Royal 1+
+1.25
+Emerson Royal 2+
+2.10
+Emerson Royal 3+
+4.50
+Emerson Royal 4+
+10.00
+Erick Pulgar 1+
+1.16
+Erick Pulgar 2+
+1.71
+Erick Pulgar 3+
+3.20
+Erick Pulgar 4+
+7.10
+Evertton Araujo 1+
+1.23
+Evertton Araujo 2+
+2.00
+Evertton Araujo 3+
+4.20
+Evertton Araujo 4+
+9.80
+Gaston Benavidez 1+
+1.51
+Gaston Benavidez 2+
+3.40
+Gaston Benavidez 3+
+9.30
+Gaston Benavidez 4+
+19.00
+Gilberto 1+
+1.49
+Gilberto 2+
+3.30
+Gilberto 3+
+9.00
+Gilberto 4+
+17.00
+Giorgian de Arrascaeta 1+
+1.57
+Giorgian de Arrascaeta 2+
+3.70
+Giorgian de Arrascaeta 3+
+10.00
+Giorgian de Arrascaeta 4+
+21.00
+Guillermo Varela 1+
+1.59
+Guillermo Varela 2+
+3.85
+Guillermo Varela 3+
+11.00
+Guillermo Varela 4+
+21.00
+Jadson 1+
+1.23
+Jadson 2+
+2.01
+Jadson 3+
+4.30
+Jadson 4+
+9.70
+Joao Cruz 1+
+1.23
+Joao Cruz 2+
+1.98
+Joao Cruz 3+
+4.10
+Joao Cruz 4+
+9.10
+Joaquin Freitas 1+
+1.28
+Joaquin Freitas 2+
+2.24
+Joaquin Freitas 3+
+5.20
+Joaquin Freitas 4+
+12.00
+Jorge Carrascal 1+
+1.31
+Jorge Carrascal 2+
+2.39
+Jorge Carrascal 3+
+5.50
+Jorge Carrascal 4+
+12.00
+Jorge Rivaldo 1+
+1.23
+Jorge Rivaldo 2+
+2.01
+Jorge Rivaldo 3+
+4.30
+Jorge Rivaldo 4+
+10.00
+Jorginho 1+
+1.39
+Jorginho 2+
+2.75
+Jorginho 3+
+7.00
+Jorginho 4+
+14.00
+Josmar 1+
+1.37
+Josmar 2+
+2.70
+Josmar 3+
+6.90
+Josmar 4+
+13.00
+Juan Felipe Aguirre 1+
+1.33
+Juan Felipe Aguirre 2+
+2.47
+Juan Felipe Aguirre 3+
+5.90
+Juan Felipe Aguirre 4+
+13.00
+Juan Portilla 1+
+1.19
+Juan Portilla 2+
+1.80
+Juan Portilla 3+
+3.50
+Juan Portilla 4+
+7.60
+Kerwin Vargas 1+
+1.51
+Kerwin Vargas 2+
+3.40
+Kerwin Vargas 3+
+9.20
+Kerwin Vargas 4+
+19.00
+Leo Ortiz 1+
+1.61
+Leo Ortiz 2+
+3.90
+Leo Ortiz 3+
+10.00
+Leo Ortiz 4+
+21.00
+Leo Pereira 1+
+1.64
+Leo Pereira 2+
+4.10
+Leo Pereira 3+
+11.00
+Leo Pereira 4+
+21.00
+Leozinho 1+
+1.45
+Leozinho 2+
+3.05
+Leozinho 3+
+8.00
+Leozinho 4+
+17.00
+Lucas Esquivel 1+
+1.21
+Lucas Esquivel 2+
+1.90
+Lucas Esquivel 3+
+3.75
+Lucas Esquivel 4+
+8.10
+Lucas Paqueta 1+
+1.14
+Lucas Paqueta 2+
+1.59
+Lucas Paqueta 3+
+2.75
+Lucas Paqueta 4+
+5.60
+Luiz Araujo 1+
+1.28
+Luiz Araujo 2+
+2.21
+Luiz Araujo 3+
+4.85
+Luiz Araujo 4+
+10.00
+Mycael 1+
+26.00
+Nicolas Azambuja 1+
+1.20
+Nicolas Azambuja 2+
+1.87
+Nicolas Azambuja 3+
+3.80
+Nicolas Azambuja 4+
+8.70
+Pedro 1+
+1.52
+Pedro 2+
+3.50
+Pedro 3+
+9.50
+Pedro 4+
+17.00
+Samuel Lino 1+
+1.46
+Samuel Lino 2+
+3.15
+Samuel Lino 3+
+8.40
+Samuel Lino 4+
+17.00
+Santos 1+
+29.00
+Stiven Mendoza 1+
+1.57
+Stiven Mendoza 2+
+3.75
+Stiven Mendoza 3+
+10.00
+Stiven Mendoza 4+
+21.00
+Vitao 1+
+1.75
+Vitao 2+
+4.70
+Vitao 3+
+13.00
+Vitao 4+
+23.00
+Zapelli 1+
+1.32
+Zapelli 2+
+2.43
+Zapelli 3+
+5.80
+Zapelli 4+
+13.00
+Oyuncuya Faul Yapılır
+YENİ
+Alejandro Garcia 1+
+1.21
+Alejandro Garcia 2+
+1.93
+Alejandro Garcia 3+
+4.00
+Alejandro Garcia 4+
+9.20
+Alex Sandro 1+
+1.45
+Alex Sandro 2+
+3.10
+Alex Sandro 3+
+8.20
+Alex Sandro 4+
+17.00
+Ayrton Lucas 1+
+1.40
+Ayrton Lucas 2+
+2.70
+Ayrton Lucas 3+
+6.20
+Ayrton Lucas 4+
+12.00
+Bruno Henrique Pinto 2+
+1.37
+Bruno Henrique Pinto 3+
+2.10
+Bruno Henrique Pinto 4+
+3.90
+Bruno Henrique Pinto 5+
+8.00
+Dantas 1+
+1.95
+Dantas 2+
+6.00
+Dantas 3+
+12.00
+Dantas 4+
+29.00
+Emerson Royal 1+
+1.32
+Emerson Royal 2+
+2.39
+Emerson Royal 3+
+5.40
+Emerson Royal 4+
+11.00
+Erick Pulgar 1+
+1.43
+Erick Pulgar 2+
+2.95
+Erick Pulgar 3+
+7.80
+Erick Pulgar 4+
+15.00
+Evertton Araujo 1+
+1.53
+Evertton Araujo 2+
+3.50
+Evertton Araujo 3+
+9.60
+Evertton Araujo 4+
+17.00
+Gaston Benavidez 1+
+1.45
+Gaston Benavidez 2+
+3.05
+Gaston Benavidez 3+
+7.90
+Gaston Benavidez 4+
+17.00
+Gilberto 1+
+1.72
+Gilberto 2+
+4.70
+Gilberto 3+
+12.00
+Gilberto 4+
+21.00
+Giorgian de Arrascaeta 1+
+1.19
+Giorgian de Arrascaeta 2+
+1.83
+Giorgian de Arrascaeta 3+
+3.50
+Giorgian de Arrascaeta 4+
+7.50
+Guillermo Varela 1+
+1.42
+Guillermo Varela 2+
+2.90
+Guillermo Varela 3+
+7.00
+Guillermo Varela 4+
+15.00
+Jadson 1+
+1.29
+Jadson 2+
+2.28
+Jadson 3+
+5.20
+Jadson 4+
+12.00
+Joao Cruz 1+
+1.28
+Joao Cruz 2+
+2.21
+Joao Cruz 3+
+5.00
+Joao Cruz 4+
+12.00
+Joaquin Freitas 2+
+1.41
+Joaquin Freitas 3+
+2.21
+Joaquin Freitas 4+
+4.20
+Joaquin Freitas 5+
+8.70
+Jorge Carrascal 1+
+1.12
+Jorge Carrascal 2+
+1.54
+Jorge Carrascal 3+
+2.60
+Jorge Carrascal 4+
+5.30
+Jorge Rivaldo 1+
+1.32
+Jorge Rivaldo 2+
+2.43
+Jorge Rivaldo 3+
+5.90
+Jorge Rivaldo 4+
+13.00
+Jorginho 1+
+1.28
+Jorginho 2+
+2.23
+Jorginho 3+
+5.00
+Jorginho 4+
+11.00
+Josmar 1+
+1.15
+Josmar 2+
+1.64
+Josmar 3+
+3.00
+Josmar 4+
+6.50
+Juan Felipe Aguirre 1+
+2.10
+Juan Felipe Aguirre 2+
+6.80
+Juan Felipe Aguirre 3+
+17.00
+Juan Portilla 1+
+1.29
+Juan Portilla 2+
+2.25
+Juan Portilla 3+
+5.00
+Juan Portilla 4+
+11.00
+Kerwin Vargas 2+
+1.35
+Kerwin Vargas 3+
+2.02
+Kerwin Vargas 4+
+3.60
+Kerwin Vargas 5+
+7.30
+Leo Ortiz 1+
+1.77
+Leo Ortiz 2+
+4.75
+Leo Ortiz 3+
+11.00
+Leo Ortiz 4+
+25.00
+Leo Pereira 1+
+1.74
+Leo Pereira 2+
+4.60
+Leo Pereira 3+
+11.00
+Leo Pereira 4+
+25.00
+Leozinho 1+
+1.27
+Leozinho 2+
+2.17
+Leozinho 3+
+4.80
+Leozinho 4+
+11.00
+Lucas Esquivel 1+
+1.53
+Lucas Esquivel 2+
+3.50
+Lucas Esquivel 3+
+9.60
+Lucas Esquivel 4+
+19.00
+Lucas Paqueta 1+
+1.10
+Lucas Paqueta 2+
+1.45
+Lucas Paqueta 3+
+2.30
+Lucas Paqueta 4+
+4.30
+Lucas Paqueta 5+
+8.40
+Luiz Araujo 1+
+1.23
+Luiz Araujo 2+
+1.99
+Luiz Araujo 3+
+4.00
+Luiz Araujo 4+
+8.40
+Nicolas Azambuja 1+
+1.21
+Nicolas Azambuja 2+
+1.91
+Nicolas Azambuja 3+
+3.95
+Nicolas Azambuja 4+
+9.10
+Pedro 1+
+1.41
+Pedro 2+
+2.90
+Pedro 3+
+7.60
+Pedro 4+
+13.00
+Samuel Lino 2+
+1.41
+Samuel Lino 3+
+2.22
+Samuel Lino 4+
+4.20
+Samuel Lino 5+
+8.70
+Stiven Mendoza 1+
+1.53
+Stiven Mendoza 2+
+3.55
+Stiven Mendoza 3+
+9.70
+Stiven Mendoza 4+
+19.00
+Vitao 1+
+2.10
+Vitao 2+
+6.80
+Vitao 3+
+14.00
+Vitao 4+
+31.00
+Zapelli 1+
+1.33
+Zapelli 2+
+2.47
+Zapelli 3+
+5.90
+Zapelli 4+
+13.00
+Oyuncu Topa Müdahaleler
+YENİ
+Alex Sandro 1+
+1.20
+Alex Sandro 2+
+1.84
+Alex Sandro 3+
+3.60
+Alex Sandro 4+
+8.20
+Ayrton Lucas 1+
+1.18
+Ayrton Lucas 2+
+1.77
+Ayrton Lucas 3+
+3.35
+Ayrton Lucas 4+
+7.50
+Dantas 1+
+1.16
+Dantas 2+
+1.70
+Dantas 3+
+3.30
+Dantas 4+
+7.00
+Emerson Royal 2+
+1.49
+Emerson Royal 3+
+2.55
+Emerson Royal 4+
+5.30
+Emerson Royal 5+
+8.90
+Erick Pulgar 1+
+1.14
+Erick Pulgar 2+
+1.62
+Erick Pulgar 3+
+2.85
+Erick Pulgar 4+
+6.20
+Erick Pulgar 5+
+12.00
+Evertton Araujo 1+
+1.13
+Evertton Araujo 2+
+1.59
+Evertton Araujo 3+
+2.90
+Evertton Araujo 4+
+6.20
+Gilberto 2+
+1.43
+Gilberto 3+
+2.34
+Gilberto 4+
+4.70
+Gilberto 5+
+8.60
+Guillermo Varela 1+
+1.18
+Guillermo Varela 2+
+1.80
+Guillermo Varela 3+
+3.50
+Guillermo Varela 4+
+7.80
+Jadson 2+
+1.43
+Jadson 3+
+2.26
+Jadson 4+
+4.30
+Jadson 5+
+9.00
+Joao Cruz 1+
+1.23
+Joao Cruz 2+
+1.98
+Joao Cruz 3+
+4.10
+Joao Cruz 4+
+9.50
+Jorge Carrascal 1+
+1.27
+Jorge Carrascal 2+
+2.15
+Jorge Carrascal 3+
+4.70
+Jorge Carrascal 4+
+11.00
+Jorginho 1+
+1.15
+Jorginho 2+
+1.66
+Jorginho 3+
+3.00
+Jorginho 4+
+6.50
+Jorginho 5+
+12.00
+Josmar 1+
+1.18
+Josmar 2+
+1.78
+Josmar 3+
+3.60
+Josmar 4+
+7.60
+Juan Felipe Aguirre 1+
+1.31
+Juan Felipe Aguirre 2+
+2.32
+Juan Felipe Aguirre 3+
+5.30
+Juan Felipe Aguirre 4+
+12.00
+Juan Portilla 1+
+1.11
+Juan Portilla 2+
+1.49
+Juan Portilla 3+
+2.48
+Juan Portilla 4+
+4.90
+Juan Portilla 5+
+10.00
+Kerwin Vargas 1+
+1.27
+Kerwin Vargas 2+
+2.17
+Kerwin Vargas 3+
+4.80
+Kerwin Vargas 4+
+11.00
+Leo Ortiz 1+
+1.48
+Leo Ortiz 2+
+3.15
+Leo Ortiz 3+
+8.50
+Leo Ortiz 4+
+12.00
+Leo Pereira 1+
+1.43
+Leo Pereira 2+
+2.95
+Leo Pereira 3+
+7.60
+Leo Pereira 4+
+12.00
+Leozinho 1+
+1.34
+Leozinho 2+
+2.49
+Leozinho 3+
+5.90
+Leozinho 4+
+12.00
+Luiz Araujo 1+
+1.19
+Luiz Araujo 2+
+1.85
+Luiz Araujo 3+
+3.65
+Luiz Araujo 4+
+8.20
+Pedro 1+
+1.63
+Pedro 2+
+4.30
+Pedro 3+
+8.10
+Samuel Lino 1+
+1.09
+Samuel Lino 2+
+1.41
+Samuel Lino 3+
+2.21
+Samuel Lino 4+
+4.10
+Samuel Lino 5+
+7.90
+Vitao 1+
+1.49
+Vitao 2+
+3.20
+Vitao 3+
+8.60
+Vitao 4+
+12.00

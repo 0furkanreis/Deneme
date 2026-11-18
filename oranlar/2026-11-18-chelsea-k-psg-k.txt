@@ -1,0 +1,3677 @@
+Maç Sonucu
+Chelsea LFC (Kadınlar)
+Beraberlik
+Paris Saint-Germain (Kadınlar)
+1.34
+5.20
+6.20
+Çifte Şans
+1X
+12
+X2
+1.11
+1.15
+3.00
+Beraberlikte İade
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+1.14
+4.90
+Toplam Goller
+Üst
+Alt
+1
+1.017
+10.30
+1.5
+1.14
+4.90
+2
+1.19
+4.15
+2.5
+1.46
+2.52
+3
+1.70
+2.02
+3.5
+2.15
+1.62
+4
+2.95
+1.35
+4.5
+3.47
+1.26
+5
+5.55
+1.11
+5.5
+6.00
+1.095
+6
+9.00
+1.03
+6.5
+9.00
+1.03
+Chelsea LFC (Kadınlar) : Toplam Gol
+Üst
+Alt
+1.5
+1.36
+2.87
+2
+1.59
+2.21
+2.5
+2.10
+1.65
+3
+3.05
+1.33
+3.5
+3.75
+1.23
+Paris Saint-Germain (Kadınlar) : Toplam Gol
+Üst
+Alt
+0.5
+1.57
+2.25
+1
+2.44
+1.49
+1.5
+3.65
+1.24
+Her iki takımda gol atar
+Evet
+Hayır
+1.73
+1.97
+Her İki Takım da 2 veya Daha Fazla Gol Atar
+YENİ
+Evet
+No
+4.90
+1.14
+Gol Handikapı
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+-4.5
+9.30
++4.5
+1.027
+-4
+8.70
++4
+1.035
+-3.5
+5.55
++3.5
+1.11
+-3
+4.90
++3
+1.14
+-2.5
+3.15
++2.5
+1.31
+-2
+2.52
++2
+1.46
+-1.5
+1.91
++1.5
+1.79
+-1
+1.51
++1
+2.39
+-0.5
+1.34
++0.5
+3.00
+0
+1.14
+0
+4.90
++0.5
+1.11
+-0.5
+5.55
++1
+1.02
+-1
+10.00
++1.5
+1.017
+-1.5
+10.30
+Goller Asya Handikapı
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+-4.25
+9.00
++4.25
+1.03
+-3.75
+6.90
++3.75
+1.07
+-3.25
+5.35
++3.25
+1.12
+-2.75
+3.83
++2.75
+1.22
+-2.25
+2.85
++2.25
+1.37
+-1.75
+2.13
++1.75
+1.63
+-1.25
+1.70
++1.25
+2.02
+-0.75
+1.41
++0.75
+2.68
+-0.25
+1.23
++0.25
+3.75
++0.25
+1.12
+-0.25
+5.35
++0.75
+1.06
+-0.75
+7.30
++1.25
+1.017
+-1.25
+10.30
+Gol Handikapı (3-İhtimalli)
+Chelsea LFC (Kadınlar)
+Beraberlik : Paris Saint-Germain (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+-4
+9.30
++4
+8.50
++4
+1.11
+-3
+5.55
++3
+5.70
++3
+1.31
+-2
+3.15
++2
+4.10
++2
+1.81
+-1
+1.88
++1
+4.10
++1
+3.00
+0
+1.32
+0
+5.30
+0
+6.20
++1
+1.10
+-1
+7.10
+-1
+10.30
+Toplam Goller Asya
+Üst
+Alt
+1.25
+1.075
+6.70
+1.75
+1.16
+4.57
+2.25
+1.32
+3.10
+2.75
+1.55
+2.30
+3.25
+1.92
+1.78
+3.75
+2.44
+1.49
+4.25
+3.25
+1.29
+4.75
+4.15
+1.19
+5.25
+5.85
+1.10
+5.75
+7.30
+1.06
+6.25
+9.30
+1.027
+Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+2
+1.46
+4.15
+4.90
+3
+2.15
+3.82
+2.52
+4
+3.47
+4.50
+1.62
+5
+6.00
+6.50
+1.26
+6
+13.00
+9.80
+1.095
+Her iki yarıda gol olur
+Evet
+Hayır
+1.44
+2.59
+İlk Golü Atacak Takım
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+Gol Yok
+1.32
+3.12
+23.00
+Son Golü Atacak Takım
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+Gol Yok
+1.32
+3.12
+23.00
+Chelsea LFC (Kadınlar) : Toplam Gol Asya
+Üst
+Alt
+1.25
+1.22
+3.83
+1.75
+1.45
+2.55
+2.25
+1.85
+1.85
+2.75
+2.44
+1.49
+3.25
+3.40
+1.27
+3.75
+4.57
+1.16
+Paris Saint-Germain (Kadınlar) : Toplam Gol Asya
+Üst
+Alt
+0.75
+1.82
+1.88
+1.25
+3.05
+1.33
+1.75
+4.75
+1.15
+Toplam Gol Tek / Çift
+Çift
+Tek
+1.85
+1.85
+Chelsea LFC (Kadınlar) : Gol Atar
+Evet
+Hayır
+1.06
+7.30
+Paris Saint-Germain (Kadınlar) Gol Atar
+Evet
+Hayır
+1.57
+2.25
+Chelsea LFC (Kadınlar) Gol Atar ve Maç Sonucu
+Evet ve Chelsea LFC (Kadınlar)
+1.34
+Evet ve Berabere
+6.30
+Hayır ve Berabere
+17.00
+Evet ve Paris Saint-Germain (Kadınlar)
+10.00
+Hayır ve Paris Saint-Germain (Kadınlar)
+13.00
+Paris Saint-Germain (Kadınlar) Gol Atar ve Maç Sonucu
+Evet ve Chelsea LFC (Kadınlar)
+2.66
+Hayır ve Chelsea LFC (Kadınlar)
+2.44
+Evet ve Berabere
+6.30
+Hayır ve Berabere
+17.00
+Evet ve Paris Saint-Germain (Kadınlar)
+5.55
+Chelsea LFC (Kadınlar) : Bahis Yok
+Beraberlik
+Paris Saint-Germain (Kadınlar)
+1.71
+2.01
+Paris Saint-Germain (Kadınlar) : Bahis Yok
+Chelsea LFC (Kadınlar)
+Beraberlik
+1.17
+4.42
+Maç Sonucu ve Karşılıklı Gol
+Chelsea LFC (Kadınlar) Ve Evet
+2.66
+Beraberlik Ve Hayır
+17.00
+Chelsea LFC (Kadınlar) Ve Hayır
+2.44
+Paris Saint-Germain (Kadınlar) Ve Evet
+10.00
+Beraberlik ve Evet
+6.30
+Paris Saint-Germain (Kadınlar) Ve Hayır
+13.00
+Çifte Şans ve Karşılıklı Gol
+1X Ve Evet
+1.89
+12 Ve Hayır
+2.03
+1X Ve Hayır
+2.25
+X2 Ve Evet
+3.82
+12 Ve Evet
+2.07
+X2 Ve Hayır
+7.90
+Maç Sonucu ve Toplam Gol 1.5
+Chelsea LFC (Kadınlar) ve Üst 1.5
+1.51
+Chelsea LFC (Kadınlar) ve Alt 1.5
+9.70
+Beraberlik ve Üst 1.5
+6.60
+Beraberlik ve Alt 1.5
+21.00
+Paris Saint-Germain (Kadınlar) ve Üst 1.5
+8.30
+Paris Saint-Germain (Kadınlar) ve Alt 1.5
+21.00
+1X ve Üst 1.5
+1.28
+1X ve Alt 1.5
+6.90
+12 ve Üst 1.5
+1.32
+12 ve Alt 1.5
+6.90
+X2 ve Üst 1.5
+3.88
+X2 ve Alt 1.5
+11.00
+Maç Sonucu ve Toplam Gol 2.5
+Chelsea LFC (Kadınlar) ve Üst 2.5
+1.81
+Chelsea LFC (Kadınlar) ve Alt 2.5
+4.50
+Beraberlik ve Üst 2.5
+15.00
+Beraberlik ve Alt 2.5
+7.50
+Paris Saint-Germain (Kadınlar) ve Üst 2.5
+9.70
+Paris Saint-Germain (Kadınlar) ve Alt 2.5
+15.00
+1X ve Üst 2.5
+1.65
+1X ve Alt 2.5
+2.95
+12 ve Üst 2.5
+1.58
+12 ve Alt 2.5
+3.57
+X2 ve Üst 2.5
+6.20
+X2 ve Alt 2.5
+5.20
+Maç Sonucu ve Toplam Gol 3.5
+Chelsea LFC (Kadınlar) ve Üst 3.5
+2.66
+Chelsea LFC (Kadınlar) ve Alt 3.5
+2.45
+Beraberlik ve Üst 3.5
+15.00
+Beraberlik ve Alt 3.5
+7.50
+Paris Saint-Germain (Kadınlar) ve Üst 3.5
+19.00
+Paris Saint-Germain (Kadınlar) ve Alt 3.5
+8.40
+1X ve Üst 3.5
+2.33
+1X ve Alt 3.5
+1.93
+12 ve Üst 3.5
+2.41
+12 ve Alt 3.5
+1.98
+X2 ve Üst 3.5
+9.00
+X2 ve Alt 3.5
+4.20
+Maç Sonucu ve Toplam Gol 4.5
+Chelsea LFC (Kadınlar) ve Üst 4.5
+4.20
+Chelsea LFC (Kadınlar) ve Alt 4.5
+1.85
+Beraberlik ve Üst 4.5
+61.00
+Beraberlik ve Alt 4.5
+5.60
+Paris Saint-Germain (Kadınlar) ve Üst 4.5
+29.00
+Paris Saint-Germain (Kadınlar) ve Alt 4.5
+7.50
+1X ve Üst 4.5
+3.98
+1X ve Alt 4.5
+1.46
+12 ve Üst 4.5
+3.76
+12 ve Alt 4.5
+1.55
+X2 ve Üst 4.5
+21.00
+X2 ve Alt 4.5
+3.39
+Sonuç ve Chelsea LFC (Kadınlar) : Toplam Gol
+Chelsea LFC (Kadınlar) ve Üst (1.5)
+1.47
+Chelsea LFC (Kadınlar) ve Alt (1.5)
+8.10
+Beraberlik ve Üst (1.5)
+12.00
+Beraberlik ve Alt (1.5)
+6.40
+Paris Saint-Germain (Kadınlar) ve Üst (1.5)
+25.00
+Paris Saint-Germain (Kadınlar) ve Alt (1.5)
+6.30
+Chelsea LFC (Kadınlar) ve Üst (2.5)
+2.04
+Chelsea LFC (Kadınlar) ve Alt (2.5)
+2.85
+Beraberlik ve Üst (2.5)
+46.00
+Beraberlik ve Alt (2.5)
+4.90
+Paris Saint-Germain (Kadınlar) ve Üst (2.5)
+111.00
+Paris Saint-Germain (Kadınlar) ve Alt (2.5)
+5.50
+Chelsea LFC (Kadınlar) ve Üst (3.5)
+3.50
+Chelsea LFC (Kadınlar) ve Alt (3.5)
+1.83
+Beraberlik ve Üst (3.5)
+251.00
+Beraberlik ve Alt (3.5)
+4.70
+Paris Saint-Germain (Kadınlar) ve Üst (3.5)
+351.00
+Paris Saint-Germain (Kadınlar) ve Alt (3.5)
+5.40
+Sonuç ve Paris Saint-Germain (Kadınlar) : Toplam Gol
+Chelsea LFC (Kadınlar) ve Üst (1.5)
+8.00
+Chelsea LFC (Kadınlar) ve Alt (1.5)
+1.47
+Beraberlik ve Üst (1.5)
+12.00
+Beraberlik ve Alt (1.5)
+6.40
+Paris Saint-Germain (Kadınlar) ve Üst (1.5)
+7.00
+Paris Saint-Germain (Kadınlar) ve Alt (1.5)
+17.00
+Chelsea LFC (Kadınlar) ve Üst (2.5)
+41.00
+Chelsea LFC (Kadınlar) ve Alt (2.5)
+1.34
+Beraberlik ve Üst (2.5)
+46.00
+Beraberlik ve Alt (2.5)
+4.90
+Paris Saint-Germain (Kadınlar) ve Üst (2.5)
+14.00
+Paris Saint-Germain (Kadınlar) ve Alt (2.5)
+7.40
+Chelsea LFC (Kadınlar) ve Üst (3.5)
+301.00
+Chelsea LFC (Kadınlar) ve Alt (3.5)
+1.32
+Beraberlik ve Üst (3.5)
+251.00
+Beraberlik ve Alt (3.5)
+4.70
+Paris Saint-Germain (Kadınlar) ve Üst (3.5)
+41.00
+Paris Saint-Germain (Kadınlar) ve Alt (3.5)
+5.80
+Sonuç veya Toplam Gol
+Chelsea LFC (Kadınlar) veya Üst (2.5)
+1.15
+Chelsea LFC (Kadınlar) veya Alt (2.5)
+1.11
+Beraberlik veya Üst (2.5)
+1.24
+Beraberlik veya Alt (2.5)
+2.11
+Paris Saint-Germain (Kadınlar) veya Üst (2.5)
+1.33
+Paris Saint-Germain (Kadınlar) veya Alt (2.5)
+2.10
+Chelsea LFC (Kadınlar) veya Üst (3.5)
+1.19
+Chelsea LFC (Kadınlar) veya Alt (3.5)
+1.06
+Beraberlik veya Üst (3.5)
+1.67
+Beraberlik veya Alt (3.5)
+1.46
+Paris Saint-Germain (Kadınlar) veya Üst (3.5)
+1.70
+Paris Saint-Germain (Kadınlar) veya Alt (3.5)
+1.49
+Daha Fazla Seçeneği Göster
+Maç Sonucu ve Toplam Gol (Kesin)
+Chelsea LFC (Kadınlar) ve 1
+9.20
+Chelsea LFC (Kadınlar) ve 2
+7.20
+Chelsea LFC (Kadınlar) ve 3
+4.70
+Chelsea LFC (Kadınlar) ve 4+
+2.61
+Beraberlik ve 0
+19.00
+Beraberlik ve 2
+10.00
+Beraberlik ve 4
+17.00
+Beraberlik ve 6+
+56.00
+Paris Saint-Germain (Kadınlar) ve 1
+19.00
+Paris Saint-Germain (Kadınlar) ve 2
+41.00
+Paris Saint-Germain (Kadınlar) ve 3
+17.00
+Paris Saint-Germain (Kadınlar) ve 4+
+19.00
+Sonuç ve Toplam Gol (Genişletilmiş Aralık)
+Chelsea LFC (Kadınlar) ve 1-2
+4.30
+Chelsea LFC (Kadınlar) ve 1-3
+2.40
+Chelsea LFC (Kadınlar) ve 1-4
+1.83
+Chelsea LFC (Kadınlar) ve 1-5
+1.54
+Chelsea LFC (Kadınlar) ve 1-6
+1.43
+Chelsea LFC (Kadınlar) ve 2-3
+3.03
+Chelsea LFC (Kadınlar) ve 2-4
+2.16
+Chelsea LFC (Kadınlar) ve 2-5
+1.76
+Chelsea LFC (Kadınlar) ve 2-6
+1.61
+Chelsea LFC (Kadınlar) ve 3-4
+2.84
+Chelsea LFC (Kadınlar) ve 3-5
+2.18
+Chelsea LFC (Kadınlar) ve 3-6
+1.95
+Daha Fazla Seçeneği Göster
+Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)
+1X ve 1-2
+3.23
+1X ve 1-3
+2.04
+1X ve 1-4
+1.53
+1X ve 1-5
+1.32
+1X ve 1-6
+1.22
+1X ve 2-3
+2.46
+1X ve 2-4
+1.73
+1X ve 2-5
+1.47
+1X ve 2-6
+1.35
+1X ve 3-4
+2.54
+1X ve 3-5
+2.00
+1X ve 3-6
+1.77
+1X ve 4-5
+3.12
+1X ve 4-6
+2.58
+1X ve 5-6
+4.85
+1X ve Herhangi bir diğer
+9.00
+12 ve 1-2
+3.47
+12 ve 1-3
+1.95
+Daha Fazla Seçeneği Göster
+Sonuç veya Doğru Skor
+Chelsea LFC (Kadınlar) veya 0-0: Evet
+1.28
+Chelsea LFC (Kadınlar) veya 0-0: Hayır
+3.29
+Paris Saint-Germain (Kadınlar) veya 0-0: Evet
+4.80
+Paris Saint-Germain (Kadınlar) veya 0-0: Hayır
+1.16
+Chelsea LFC (Kadınlar) veya 1-1: Evet
+1.23
+Chelsea LFC (Kadınlar) veya 1-1: Hayır
+3.79
+Paris Saint-Germain (Kadınlar) veya 1-1: Evet
+4.00
+Paris Saint-Germain (Kadınlar) veya 1-1: Hayır
+1.21
+Chelsea LFC (Kadınlar) veya 0-1: Evet
+1.28
+Chelsea LFC (Kadınlar) veya 0-1: Hayır
+3.30
+Paris Saint-Germain (Kadınlar) veya 1-0: Evet
+3.86
+Paris Saint-Germain (Kadınlar) veya 1-0: Hayır
+1.21
+Her İki Yarı Toplam Gol Kombinasyonu
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+1.95
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+3.38
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 0.5 Üst gol
+2.15
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+3.05
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+5.30
+İlk yarıda 0.5 Üst gol ve Maç sonucu 1.5 Üst gol
+1.27
+İlk yarıda 0.5 Üst gol ve Maç sonucu 2.5 Üst gol
+1.50
+İlk yarıda 0.5 Üst gol ve Maç sonucu 3.5 Üst gol
+2.03
+İlk yarıda 0.5 Üst gol ve Maç sonucu 4.5 Üst gol
+3.12
+İlk yarıda 1.5 Üst gol ve Maç sonucu 2.5 Üst gol
+2.01
+İlk yarıda 1.5 Üst gol ve Maç sonucu 3.5 Üst gol
+2.49
+İlk yarıda 1.5 Üst gol ve Maç sonucu 4.5 Üst gol
+3.58
+İlk yarıda 2.5 Üst gol ve Maç sonucu 3.5 Üst gol
+3.95
+İlk yarıda 2.5 Üst gol ve Maç sonucu 4.5 Üst gol
+5.00
+Toplam Gol (Kesin)
+0
+17.00
+1
+6.15
+2
+4.15
+3
+3.82
+4
+4.50
+5
+6.50
+6 veya Daha Fazla
+6.00
+Chelsea LFC (Kadınlar) : Toplam Gol (Kesin)
+0
+7.90
+1
+3.85
+2
+3.20
+3
+3.87
+4 veya Daha Fazla
+3.75
+Paris Saint-Germain (Kadınlar) : Toplam Gol (Kesin)
+0
+2.27
+1
+2.39
+2
+4.60
+3
+13.00
+4 veya Daha Fazla
+36.00
+Toplam Gol (Aralık)
+0-1
+4.90
+2-3
+2.10
+4 ila 6
+2.33
+7 veya Daha fazla
+13.00
+Chelsea LFC (Kadınlar) : Toplam Gol (Aralık)
+0-1
+2.87
+2-3
+1.88
+4 ila 6
+3.91
+7 veya Daha fazla
+46.00
+Paris Saint-Germain (Kadınlar) : Toplam Gol (Aralık)
+0-1
+1.24
+2-3
+3.60
+4 ila 6
+36.00
+7 veya Daha fazla
+351.00
+Toplam Gol (Genişletilmiş Gol Aralığı)
+1-2
+2.19
+1-3
+1.52
+1-4
+1.24
+1-5
+1.11
+1-6
+1.06
+2-3
+2.10
+2-4
+1.40
+2-5
+1.31
+2-6
+1.16
+3-4
+1.85
+3-5
+1.54
+3-6
+1.42
+Daha Fazla Seçeneği Göster
+Chelsea LFC (Kadınlar) : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.91
+1-3
+1.39
+1-4
+1.18
+2-3
+1.88
+2-4
+1.55
+3-4
+2.57
+Herhangi Diğer
+4.30
+Paris Saint-Germain (Kadınlar) : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.72
+1-3
+1.58
+1-4
+1.55
+2-3
+3.60
+2-4
+3.59
+3-4
+11.00
+Herhangi Diğer
+2.18
+Chelsea LFC (Kadınlar) Kesin Gol Farkıyla Kazanır
+Evet
+Hayır
+1
+3.90
+1.21
+2
+3.83
+1.22
+3
+5.35
+1.12
+4
+7.50
+1.055
+Paris Saint-Germain (Kadınlar) : Kesin Gol Farkıyla Kazanır
+Evet
+Hayır
+1
+7.10
+1.065
+Chelsea LFC (Kadınlar) Kazanır ve Kesin Gol Atar
+Evet
+Hayır
+1
+7.85
+1.05
+2
+4.05
+1.20
+3
+4.15
+1.19
+4
+5.85
+1.10
+Paris Saint-Germain (Kadınlar) Kazanır ve Kesin gol atar
+Evet
+Hayır
+2
+9.30
+1.027
+En Az Bir Takım Üst Gol Atar
+YENİ
+Evet
+No
+1.5
+1.23
+3.75
+2.5
+1.93
+1.77
+3.5
+3.57
+1.25
+1. Gol Zamanı
+1-10
+2.67
+11-20
+3.45
+21-30
+4.50
+31-40
+5.90
+41-50
+7.70
+51-60
+13.00
+61-70
+17.00
+71-80
+23.00
+81-90+
+25.00
+Gol Yok
+8.90
+Chelsea LFC (Kadınlar) : 1. Gol Zamanı (10 dk. Ara)
+1-10
+3.30
+11-20
+3.94
+21-30
+4.80
+31-40
+5.90
+41-50
+6.90
+51-60
+9.50
+61-70
+12.00
+71-80
+15.00
+81-90+
+15.00
+Gol Yok
+5.70
+Paris Saint-Germain (Kadınlar) : 1. Gol Zamanı (10 dk. Ara)
+1-10
+6.30
+11-20
+8.50
+21-30
+9.20
+31-40
+9.40
+41-50
+9.80
+51-60
+11.00
+61-70
+12.00
+71-80
+14.00
+81-90+
+10.00
+Gol Yok
+1.77
+Doğru Skor
+1-0
+7.85
+0-0
+15.00
+0-1
+19.00
+2-0
+6.90
+1-1
+11.00
+0-2
+36.00
+2-1
+8.10
+2-2
+17.00
+1-2
+17.00
+3-0
+8.70
+3-3
+56.00
+0-3
+111.00
+3-1
+9.00
+4-4
+226.00
+1-3
+51.00
+3-2
+19.00
+5-5
+301.00
+2-3
+41.00
+Daha Fazla Seçeneği Göster
+Herhangi Bir Zamanda Doğru Skor
+0-1
+3.17
+0-2
+11.00
+0-3
+46.00
+0-4
+201.00
+0-5
+301.00
+1-0
+1.35
+1-1
+2.58
+1-2
+7.10
+1-3
+25.00
+1-4
+101.00
+1-5
+301.00
+2-0
+2.00
+2-1
+3.00
+2-2
+7.40
+2-3
+25.00
+2-4
+96.00
+2-5
+301.00
+3-0
+3.38
+Daha Fazla Seçeneği Göster
+1.Yarı Sonucu
+Chelsea LFC (Kadınlar)
+Beraberlik
+Paris Saint-Germain (Kadınlar)
+1.73
+2.74
+6.00
+1.Yarı Çifte Şans
+1X
+12
+X2
+1.12
+1.39
+1.97
+1. Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.22
+3.83
+1
+1.40
+2.70
+1.5
+2.04
+1.69
+2
+3.25
+1.29
+2.5
+4.15
+1.19
+3
+7.85
+1.05
+3.5
+8.50
+1.04
+1. Yarı 1. Takım Toplam Gol
+Üst
+Alt
+0.5
+1.41
+2.68
+1
+1.90
+1.80
+1.5
+2.80
+1.38
+2
+5.55
+1.11
+2.5
+6.70
+1.075
+1. Yarı 2. Takım Toplam Gol
+Üst
+Alt
+0.5
+2.70
+1.40
+1
+7.50
+1.055
+1.5
+8.70
+1.035
+1. Yarı Chelsea LFC (Kadınlar) Toplam Goller Asya
+Üst
+Alt
+0.75
+1.57
+2.25
+1.25
+2.37
+1.52
+1.75
+3.65
+1.24
+2.25
+6.00
+1.095
+2.75
+8.50
+1.04
+1. Yarı Paris Saint-Germain (Kadınlar) Toplam Gol Asya
+Üst
+Alt
+0.75
+3.75
+1.23
+1.25
+8.20
+1.045
+1. Yarı Karşılıklı Gol
+Evet
+Hayır
+3.83
+1.22
+1. Yarı Gol Handikapı
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+-2.5
+7.85
++2.5
+1.05
+-2
+7.10
++2
+1.065
+-1.5
+3.57
++1.5
+1.25
+-1
+2.59
++1
+1.44
+-0.5
+1.73
++0.5
+1.97
+0
+1.20
+0
+4.05
++0.5
+1.11
+-0.5
+5.55
+1. Yarı Goller Asya Handikapı
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+-2.75
+9.50
++2.75
+1.025
+-2.25
+7.30
++2.25
+1.06
+-1.75
+4.57
++1.75
+1.16
+-1.25
+3.10
++1.25
+1.32
+-0.75
+1.97
++0.75
+1.73
+-0.25
+1.47
++0.25
+2.50
++0.25
+1.15
+-0.25
+4.75
++0.75
+1.055
+-0.75
+7.50
+1. Yarı Gol Handikapı 3 İhtimalli
+Chelsea LFC (Kadınlar)
+Beraberlik Paris Saint-Germain (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+-2
+7.85
++2
+4.90
++2
+1.25
+-1
+3.57
++1
+2.99
++1
+1.97
+0
+1.73
+0
+2.74
+0
+6.20
+1.Yarı Toplam Gol Asya
+Üst
+Alt
+0.75
+1.29
+3.25
+1.25
+1.73
+1.97
+1.75
+2.44
+1.49
+2.25
+3.75
+1.23
+2.75
+5.35
+1.12
+3.25
+8.20
+1.045
+3.75
+10.00
+1.02
+1. . Yarı : Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+2
+4.15
+3.47
+1.69
+1
+2.04
+2.70
+3.83
+1. Yarı: Sonuç ve Her İki Takımda Gol atar
+Chelsea LFC (Kadınlar) Ve Evet
+5.30
+Beraberlik ve Hayır
+3.91
+Chelsea LFC (Kadınlar) Ve Hayır
+2.04
+Paris Saint-Germain (Kadınlar) ve Evet
+13.00
+Beraberlik ve Evet
+4.60
+Paris Saint-Germain (Kadınlar) ve Hayır
+4.60
+1. Yarı Toplam Gol Aralığı
+0-1
+1.69
+2-3
+2.25
+4 ila 6
+10.00
+7 veya Daha fazla
+29.00
+1.Yarı Chelsea LFC (Kadınlar) Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.38
+2.83
+26.00
+1.Yarı Paris Saint-Germain (Kadınlar) Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.035
+6.20
+251.00
+1. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.58
+1-3
+1.32
+1-4
+1.25
+2-3
+2.25
+2-4
+2.08
+3-4
+4.60
+Herhangi Diğer
+3.51
+1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.63
+1-3
+1.45
+1-4
+1.41
+2-3
+3.00
+2-4
+2.81
+3-4
+7.70
+Herhangi Diğer
+2.57
+1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+2.69
+1-3
+2.64
+1-4
+2.70
+2-3
+12.00
+2-4
+12.00
+3-4
+76.00
+Herhangi Diğer
+1.40
+1.Yarı Toplam Gol (Kesin)
+0
+3.83
+1
+2.70
+2
+3.47
+3
+5.10
+4 veya Daha Fazla
+8.40
+1.Yarı Chelsea LFC (Kadınlar) Toplam Gol (Kesin)
+0
+1
+2+
+2.68
+2.47
+2.80
+1.Yarı Paris Saint-Germain (Kadınlar) Toplam Gol (Kesin)
+0
+1
+2+
+1.40
+3.05
+12.00
+1. Yarı Chelsea LFC (Kadınlar) Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+2.95
+1.35
+2
+4.90
+1.14
+3
+9.00
+1.03
+1. Yarı Paris Saint-Germain (Kadınlar) Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+6.30
+1.085
+1. Yarı Chelsea LFC (Kadınlar) Sıfıra Karşı Kazanır
+Evet
+Hayır
+2.04
+1.69
+1. Yarı Paris Saint-Germain (Kadınlar) Sıfıra Karşı Kazanır
+Evet
+Hayır
+6.30
+1.085
+1. Yarı İlk Golü Atacak Takım
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+Gol yok
+1.58
+3.96
+3.91
+1. Yarı Son Golü Atacak Takım
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+Gol yok
+1.58
+3.96
+3.91
+1.Yarı Doğru Skor
+1-0
+3.45
+0-0
+3.91
+0-1
+8.10
+2-0
+5.50
+1-1
+7.60
+0-2
+34.00
+2-1
+13.00
+2-2
+51.00
+1-2
+29.00
+3-0
+13.00
+3-3
+301.00
+0-3
+201.00
+3-1
+29.00
+1-3
+176.00
+3-2
+126.00
+2-3
+276.00
+2. Yarı Sonucu
+Chelsea LFC (Kadınlar)
+Beraberlik
+Paris Saint-Germain (Kadınlar)
+1.62
+2.98
+6.00
+2. Yarı Çifte Şans
+1X
+12
+X2
+1.12
+1.33
+2.08
+2.Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.15
+4.75
+1
+1.24
+3.65
+1.5
+1.72
+2.00
+2
+2.40
+1.50
+2.5
+3.15
+1.31
+3
+5.85
+1.10
+3.5
+6.50
+1.08
+4
+10.30
+1.017
+2.Yarı Chelsea LFC (Kadınlar) Toplam Gol
+Üst
+Alt
+0.5
+1.31
+3.15
+1
+1.60
+2.20
+1.5
+2.39
+1.51
+2
+4.30
+1.18
+2.5
+5.35
+1.12
+3
+9.70
+1.023
+3.5
+9.70
+1.023
+2.Yarı Paris Saint-Germain (Kadınlar) Toplam Gol
+Üst
+Alt
+0.5
+2.35
+1.53
+1
+5.85
+1.10
+1.5
+7.10
+1.065
+2. Yarı Karşılıklı Gol
+Evet
+Hayır
+3.10
+1.32
+2. Yarı Gol Handikapı
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+-2.5
+6.90
++2.5
+1.07
+-2
+6.00
++2
+1.095
+-1.5
+3.15
++1.5
+1.31
+-1
+2.35
++1
+1.53
+0
+1.19
+0
+4.15
+2. Yarı Gol Handikapı 3 İhtimalli
+Chelsea LFC (Kadınlar)
+Beraberlik Paris Saint-Germain (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+-2
+6.90
++2
+4.50
++2
+1.31
+-1
+3.15
++1
+2.95
++1
+2.08
+0
+1.62
+0
+2.98
+0
+6.00
+2.Yarı: Sonuç ve Her İki Takımda Gol Atar
+Chelsea LFC (Kadınlar) Ve Evet
+4.30
+Beraberlik ve Hayır
+5.10
+Chelsea LFC (Kadınlar) Ve Hayır
+2.05
+Paris Saint-Germain (Kadınlar) ve Evet
+10.00
+Beraberlik ve Evet
+4.20
+Paris Saint-Germain (Kadınlar) ve Hayır
+6.50
+2. Yarı Toplam Gol Aralığı
+0-1
+2.00
+2-3
+1.96
+4 ila 6
+6.00
+7 veya Daha fazla
+29.00
+2.Yarı Chelsea LFC (Kadınlar) Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.51
+2.52
+17.00
+2.Yarı Paris Saint-Germain (Kadınlar) Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.065
+5.60
+251.00
+2. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.63
+1-3
+1.30
+1-4
+1.19
+2-3
+1.96
+2-4
+1.80
+3-4
+3.55
+Herhangi Diğer
+4.10
+2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.58
+1-3
+1.37
+1-4
+1.31
+2-3
+2.52
+2-4
+2.39
+3-4
+5.80
+Herhangi Diğer
+3.04
+2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)
+1-2
+2.34
+1-3
+2.28
+1-4
+2.27
+2-3
+8.70
+2-4
+8.50
+3-4
+46.00
+Herhangi Diğer
+1.53
+2.Yarı Toplam Gol (Kesin)
+0
+4.75
+1
+2.58
+2
+2.82
+3
+4.30
+4+
+6.50
+2.Yarı Chelsea LFC (Kadınlar) Toplam Gol (Kesin)
+0
+1
+2+
+3.21
+2.49
+2.39
+2.Yarı Paris Saint-Germain (Kadınlar) Toplam Gol (Kesin)
+0
+1
+2+
+1.49
+2.79
+9.00
+2. Yarı Chelsea LFC (Kadınlar) Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+3.05
+1.33
+2
+4.57
+1.16
+3
+8.20
+1.045
+2. Yarı Paris Saint-Germain (Kadınlar) Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+6.50
+1.08
+2.Yarı Chelsea LFC (Kadınlar) Sıfıra karşı Kazanır
+Evet
+Hayır
+2.07
+1.67
+2.Yarı Paris Saint-Germain (Kadınlar) Sıfıra karşı Kazanır
+Evet
+Hayır
+6.50
+1.08
+2. Yarı -İlk Golü Atacak Takım
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+Gol yok
+1.54
+3.78
+5.10
+2. Yarı Son Golü Atacak Takım
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+Gol yok
+1.54
+3.78
+5.10
+2. Yarı Doğru Skor
+1-0
+3.76
+0-0
+4.75
+0-1
+8.80
+2-0
+5.50
+1-1
+7.00
+0-2
+31.00
+2-1
+10.00
+2-2
+36.00
+1-2
+25.00
+3-0
+12.00
+3-3
+276.00
+0-3
+151.00
+3-1
+21.00
+1-3
+111.00
+3-2
+76.00
+2-3
+176.00
+1. Yarı/2. Yarı Karşılıklı Gol
+Evet/Evet
+9.10
+Hayır/Evet
+3.23
+Evet/Hayır
+4.40
+Hayır/Hayır
+1.56
+1. Yarı veya Maç Sonucu
+Chelsea LFC (Kadınlar)
+X
+Paris Saint-Germain (Kadınlar)
+1.26
+2.28
+4.50
+İlk Yarı/Maç Sonucu
+Chelsea LFC (Kadınlar)/Chelsea LFC (Kadınlar)
+1.79
+Beraberlik/Chelsea LFC (Kadınlar)
+4.10
+Paris Saint-Germain (Kadınlar)/Chelsea LFC (Kadınlar)
+17.00
+Chelsea LFC (Kadınlar)/Beraberlik
+15.00
+Beraberlik/Beraberlik
+7.30
+Paris Saint-Germain (Kadınlar)/Beraberlik
+17.00
+Chelsea LFC (Kadınlar)/Paris Saint-Germain (Kadınlar)
+51.00
+Beraberlik/Paris Saint-Germain (Kadınlar)
+14.00
+Paris Saint-Germain (Kadınlar)/Paris Saint-Germain (Kadınlar)
+9.80
+1.Yarı/2.Yarı Sonucu
+Chelsea LFC (Kadınlar)/Chelsea LFC (Kadınlar)
+2.25
+Chelsea LFC (Kadınlar)/Beraberlik
+3.58
+Chelsea LFC (Kadınlar)/Paris Saint-Germain (Kadınlar)
+6.00
+Beraberlik/Chelsea LFC (Kadınlar)
+3.23
+Beraberlik/Beraberlik
+5.10
+Beraberlik/Paris Saint-Germain (Kadınlar)
+8.60
+Paris Saint-Germain (Kadınlar)/Chelsea LFC (Kadınlar)
+5.90
+Paris Saint-Germain (Kadınlar)/Beraberlik
+9.30
+Paris Saint-Germain (Kadınlar)/Paris Saint-Germain (Kadınlar)
+15.00
+En Çok Gol Atılan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.75
+3.89
+2.04
+En Çok Gol Atılan Yarı : Çifte Şans
+1. Yarı veya Beraberlik
+1. veya 2.
+2. Yarı veya Beraberlik
+1.67
+1.23
+1.39
+Chelsea LFC (Kadınlar) : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+2.74
+3.47
+2.19
+Paris Saint-Germain (Kadınlar) : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+4.30
+1.72
+3.38
+Kornerler : Sonuç
+Chelsea LFC (Kadınlar)
+X
+Paris Saint-Germain (Kadınlar)
+1.10
+9.50
+7.70
+Kornerler : Toplam
+Üst
+Alt
+7.5
+1.24
+3.65
+8
+1.29
+3.25
+8.5
+1.44
+2.59
+9
+1.55
+2.30
+9.5
+1.76
+1.94
+10
+2.00
+1.72
+10.5
+2.25
+1.57
+11
+2.70
+1.40
+11.5
+3.05
+1.33
+Toplam Korner : Chelsea LFC (Kadınlar)
+Üst
+Alt
+5.5
+1.38
+2.80
+6
+1.49
+2.44
+6.5
+1.74
+1.96
+7
+2.02
+1.70
+7.5
+2.35
+1.53
+Toplam Korner : Paris Saint-Germain (Kadınlar)
+Üst
+Alt
+2
+1.28
+3.30
+2.5
+1.62
+2.15
+3
+2.02
+1.70
+3.5
+2.55
+1.45
+Kornerler: Handikap
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+-5.5
+2.95
++5.5
+1.35
+-5
+2.65
++5
+1.42
+-4.5
+2.20
++4.5
+1.60
+-4
+1.93
++4
+1.77
+-3.5
+1.71
++3.5
+2.01
+-3
+1.51
++3
+2.39
+-2.5
+1.41
++2.5
+2.68
+-2
+1.26
++2
+3.47
+Kornerler : Toplam (3-İhtimalli)
+Üst
+Kesin
+Alt
+11
+3.05
+7.40
+1.57
+10
+2.25
+6.80
+1.94
+9
+1.73
+6.70
+2.59
+8
+1.44
+7.10
+3.65
+7
+1.22
+8.10
+5.60
+Kornerler : Toplam (Aralık)
+5 veya daha az
+8.70
+6 - 8
+2.90
+9 - 11
+2.35
+12 - 14
+3.84
+15 veya daha fazla
+7.80
+Kornerler: Tek/Çift
+Çift
+Tek
+1.80
+1.80
+Korner Yarışı
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+Hiç Kimse
+9
+2.70
+9
+34.00
+9
+1.39
+7
+1.72
+7
+17.00
+7
+2.09
+5
+1.27
+5
+6.80
+5
+5.30
+3
+1.17
+3
+4.30
+3
+31.00
+Kornerler: 1. Yarı Sonucu
+Chelsea LFC (Kadınlar)
+X
+Paris Saint-Germain (Kadınlar)
+1.24
+6.20
+6.50
+Kornerler: 1. Yarı Toplam
+Üst
+Alt
+3.5
+1.33
+2.78
+4
+1.59
+2.21
+4.5
+1.86
+1.84
+5
+2.21
+1.59
+5.5
+2.45
+1.42
+Kornerler: 1. Yarı Chelsea LFC (Kadınlar) Toplam
+Üst
+Alt
+3
+1.62
+2.00
+3.5
+1.95
+1.75
+Kornerler: 1.Yarı Paris Saint-Germain (Kadınlar) Toplam
+Üst
+Alt
+1
+1.50
+2.22
+1.5
+2.40
+1.50
+Toplam Korner : 2.Yarı
+Üst
+Alt
+3.5
+1.27
+3.05
+4.5
+1.65
+2.05
+5.5
+2.22
+1.50
+Kornerler : İlk Korner
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+1.27
+3.40
+Kornerler : Son Korner
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+1.31
+3.15
+Kartlar: Puan : Sonuç
+Chelsea LFC (Kadınlar)
+X
+Paris Saint-Germain (Kadınlar)
+5.40
+3.60
+1.50
+Kartlar: Puan Handikapı
+Chelsea LFC (Wom)
+Paris Saint-Germain (Wom)
++0.5
+2.22
+-0.5
+1.50
+Kartlar: Toplam Puan
+Üst
+Alt
+2.5
+1.65
+1.95
+Kartlar: Chelsea LFC (Kadınlar) : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.45
+2.35
+Kartlar: Paris Saint-Germain (Kadınlar) : Toplam Kart Puanı
+Üst
+Alt
+1.5
+1.55
+2.12
+Kartlar: 1.Yarı : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.47
+2.30
+En Fazla Korner Olan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.57
+7.60
+1.69
+Her İki Takım da Kart Alır
+Evet
+Hayır
+1.65
+2.10
+Her iki takım da 2 veya daha fazla kart görür
+Evet
+Hayır
+3.95
+1.18
+Her iki takım da her iki yarıda kart alır
+Evet
+7.80
+İlk Kartı Görecek Takım
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+No Card
+2.76
+1.51
+11.00
+Son Kartı Görecek Takım
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+No Card
+2.76
+1.51
+11.00
+Sarı Kartlar: Sonuç
+Chelsea LFC (Kadınlar)
+X
+Paris Saint-Germain (Kadınlar)
+3.14
+3.19
+2.02
+Sarı Kartlar: Çifte Şans
+1X
+12
+X2
+1.67
+1.30
+1.30
+Sarı Kartlar: Handikap
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+0
+2.30
+0
+1.47
++0.5
+1.67
+-0.5
+2.02
+Sarı Kartlar: Toplam
+Üst
+Alt
+1.5
+1.35
+2.70
+2
+1.60
+2.11
+2.5
+2.08
+1.62
+Sarı Kartlar: Chelsea LFC (Kadınlar) : Toplam
+Üst
+Alt
+1
+2.08
+1.62
+Sarı Kartlar: Paris Saint-Germain (Kadınlar) : Toplam
+Üst
+Alt
+1
+1.52
+2.25
+1.5
+2.20
+1.55
+Sarı Kartlar : 1. Yarı Sonucu
+Chelsea LFC (Kadınlar)
+X
+Paris Saint-Germain (Kadınlar)
+4.40
+1.72
+3.10
+Sarı Kartlar : 1. Yarı Handikap
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+0
+2.12
+0
+1.55
+Sarı Kartlar: 1. Yarı : Toplam
+Üst
+Alt
+0.5
+1.70
+1.98
+Sarı Kartlar : 2.Yarı Sonuç
+Chelsea LFC (Kadınlar)
+X
+Paris Saint-Germain (Kadınlar)
+3.45
+2.57
+2.27
+Sarı Kartlar: 2.Yarı : Toplam
+Üst
+Alt
+1.5
+1.92
+1.78
+Sarı Kartlar: 2. Yarı : Chelsea LFC (Kadınlar) Toplam
+Üst
+Alt
+0.5
+1.87
+1.83
+Sarı Kartlar: 2. Yarı : Paris Saint-Germain (Kadınlar) Toplam
+Üst
+Alt
+0.5
+1.55
+2.30
+1
+2.39
+1.51
+Sarı Kartlar: İlk Sarı Kartı Görür
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+2.15
+1.62
+Sarı Kartlar: Son Sarı Kartı Görür
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+2.15
+1.62
+Maçta Penaltı Olur
+Evet
+Hayır
+2.85
+1.37
+İki Takım da Penaltı Kazanır
+Evet
+21.00
+Maçta İki Penaltı Olur
+Evet
+4.70
+1. . Yarı : Penaltı
+Evet
+Hayır
+4.90
+1.14
+Penaltıdan Gol Atar
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+4.85
+9.50
+Penaltı Kaçırır
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+14.00
+26.00
+Maçta Kırmzı Kartlar
+YENİ
+1+
+5.60
+2+
+15.00
+3+
+51.00
+Chelsea LFC (Kadınlar) Kırmızı Kartlar
+YENİ
+1+
+2+
+14.00
+34.00
+Paris Saint-Germain (Kadınlar) Kırmızı Kartlar
+YENİ
+1+
+2+
+8.30
+21.00
+1. . Yarı : Kırmızı Kart
+Evet
+Hayır
+10.80
+1.012
+Penaltı ve Kırmızı Kart
+Evet
+Hayır
+9.70
+1.023
+Maçta kendi kalesine gol atılır
+Evet
+Hayır
+8.50
+1.04
+Herhangi Bir Zamanda Gol Atar
+Melvine Malard
+1.71
+Aggie Beever-Jones
+1.87
+Lauren James
+1.91
+Maika Hamano
+2.55
+Manaka Matsukubo
+2.60
+Alyssa Thompson
+2.75
+Sandy Baltimore
+3.25
+Sjoeke Nusken
+3.30
+Wieke Kaptein
+3.35
+Ellie Carpenter
+4.00
+Erin Cuthbert
+4.20
+Rasheedat Ajibade
+4.40
+Daha Fazla Seçeneği Göster
+İlk Golcü
+Melvine Malard
+3.85
+Lauren James
+4.33
+Aggie Beever-Jones
+4.50
+Maika Hamano
+6.60
+Manaka Matsukubo
+6.80
+Alyssa Thompson
+7.30
+Sandy Baltimore
+8.20
+Sjoeke Nusken
+8.80
+Wieke Kaptein
+8.90
+Ellie Carpenter
+11.00
+Erin Cuthbert
+12.00
+Rasheedat Ajibade
+13.00
+Daha Fazla Seçeneği Göster
+Son Golcü
+Melvine Malard
+3.85
+Lauren James
+4.33
+Aggie Beever-Jones
+4.50
+Manaka Matsukubo
+6.80
+Maika Hamano
+7.20
+Alyssa Thompson
+7.30
+Sandy Baltimore
+8.20
+Sjoeke Nusken
+8.80
+Wieke Kaptein
+9.00
+Erin Cuthbert
+12.00
+Ellie Carpenter
+13.00
+Rasheedat Ajibade
+13.00
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 2 Gol Atar
+Melvine Malard
+4.00
+Aggie Beever-Jones
+5.30
+Lauren James
+5.50
+Manaka Matsukubo
+11.00
+Maika Hamano
+11.00
+Alyssa Thompson
+11.00
+Sandy Baltimore
+15.00
+Sjoeke Nusken
+17.00
+Wieke Kaptein
+17.00
+Erin Cuthbert
+26.00
+Ellie Carpenter
+29.00
+Merveille Kanjinga
+31.00
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 3 Gol Atar
+Melvine Malard
+13.00
+Lauren James
+19.00
+Aggie Beever-Jones
+19.00
+Alyssa Thompson
+51.00
+Manaka Matsukubo
+56.00
+Maika Hamano
+61.00
+Sandy Baltimore
+91.00
+Sjoeke Nusken
+96.00
+Wieke Kaptein
+101.00
+Florianne Jourde
+126.00
+Naomie Feller
+126.00
+Rasheedat Ajibade
+126.00
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar Çifte Şans
+Aggie Beever-Jones or Melvine Malard
+1.24
+Lauren James or Melvine Malard
+1.25
+Lauren James or Aggie Beever-Jones
+1.29
+Melvine Malard or Maika Hamano
+1.34
+Manaka Matsukubo or Melvine Malard
+1.34
+Alyssa Thompson or Melvine Malard
+1.36
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar. Üçlü Şans
+Lauren James or Aggie Beever-Jones or Melvine Malard
+1.10
+Aggie Beever-Jones or Melvine Malard or Maika Hamano
+1.13
+Aggie Beever-Jones or Manaka Matsukubo or Melvine Malard
+1.13
+Lauren James or Melvine Malard or Maika Hamano
+1.14
+Lauren James or Manaka Matsukubo or Melvine Malard
+1.14
+Alyssa Thompson or Aggie Beever-Jones or Melvine Malard
+1.14
+Daha Fazla Seçeneği Göster
+Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar
+Aggie Beever-Jones and Melvine Malard
+3.20
+Lauren James and Melvine Malard
+3.27
+Lauren James and Aggie Beever-Jones
+3.57
+Melvine Malard and Maika Hamano
+4.33
+Manaka Matsukubo and Melvine Malard
+4.40
+Alyssa Thompson and Melvine Malard
+4.70
+Daha Fazla Seçeneği Göster
+Üç Oyuncu da Herhangi Bir Zamanda Gol Atar
+Lauren James and Aggie Beever-Jones and Melvine Malard
+6.20
+Aggie Beever-Jones and Melvine Malard and Maika Hamano
+8.20
+Aggie Beever-Jones and Manaka Matsukubo and Melvine Malard
+8.30
+Lauren James and Melvine Malard and Maika Hamano
+8.30
+Lauren James and Manaka Matsukubo and Melvine Malard
+8.50
+Alyssa Thompson and Aggie Beever-Jones and Melvine Malard
+8.80
+Daha Fazla Seçeneği Göster
+Oyuncu 1. Yarıda Gol Atar
+Melvine Malard
+2.75
+Aggie Beever-Jones
+3.05
+Lauren James
+3.15
+Maika Hamano
+4.40
+Manaka Matsukubo
+4.60
+Alyssa Thompson
+4.80
+Sandy Baltimore
+5.70
+Wieke Kaptein
+5.90
+Sjoeke Nusken
+5.90
+Ellie Carpenter
+7.10
+Erin Cuthbert
+7.50
+Rasheedat Ajibade
+7.80
+Merveille Kanjinga
+8.10
+Lea Laetitia Morissaint
+8.70
+Marie Lafontaine
+8.70
+Naomie Feller
+9.30
+Keira Walsh
+9.50
+Sakina Karchaoui
+11.00
+Lexi Potter
+13.00
+Lucy Bronze
+13.00
+Joe Echegini
+14.00
+Katie McCabe
+14.00
+Nathalie Bjorn
+17.00
+Yaya
+19.00
+Kadeisha Buchanan
+19.00
+Emilie Osteras
+19.00
+Tara Elimbi Gilbert
+21.00
+Jackie Groenen
+21.00
+Veerle Buurman
+23.00
+Florianne Jourde
+23.00
+Anais Ebayilin
+25.00
+Paulina Dudek
+26.00
+Olga Carmona
+29.00
+Isabela
+29.00
+Griedge Mbock Bathy
+29.00
+Thiniba Samoura
+41.00
+Oyuncu 2. Yarıda Gol Atar
+Melvine Malard
+2.30
+Aggie Beever-Jones
+2.60
+Lauren James
+2.65
+Maika Hamano
+3.65
+Manaka Matsukubo
+3.65
+Alyssa Thompson
+3.95
+Sandy Baltimore
+4.70
+Sjoeke Nusken
+4.80
+Wieke Kaptein
+4.85
+Ellie Carpenter
+5.90
+Erin Cuthbert
+6.20
+Rasheedat Ajibade
+6.50
+Merveille Kanjinga
+6.70
+Lea Laetitia Morissaint
+7.30
+Marie Lafontaine
+7.30
+Keira Walsh
+7.80
+Naomie Feller
+7.90
+Sakina Karchaoui
+9.20
+Lucy Bronze
+11.00
+Lexi Potter
+11.00
+Joe Echegini
+12.00
+Katie McCabe
+12.00
+Nathalie Bjorn
+13.00
+Yaya
+15.00
+Emilie Osteras
+17.00
+Kadeisha Buchanan
+17.00
+Tara Elimbi Gilbert
+19.00
+Jackie Groenen
+19.00
+Veerle Buurman
+19.00
+Florianne Jourde
+21.00
+Anais Ebayilin
+21.00
+Paulina Dudek
+25.00
+Isabela
+25.00
+Olga Carmona
+25.00
+Griedge Mbock Bathy
+25.00
+Thiniba Samoura
+41.00
+Oyuncu Her İki Yarıda da Gol Atar
+Melvine Malard
+5.40
+Aggie Beever-Jones
+6.50
+Lauren James
+6.70
+Manaka Matsukubo
+12.00
+Maika Hamano
+12.00
+Alyssa Thompson
+14.00
+Sandy Baltimore
+19.00
+Sjoeke Nusken
+19.00
+Wieke Kaptein
+19.00
+Ellie Carpenter
+25.00
+Erin Cuthbert
+26.00
+Rasheedat Ajibade
+29.00
+Merveille Kanjinga
+31.00
+Marie Lafontaine
+34.00
+Lea Laetitia Morissaint
+36.00
+Naomie Feller
+36.00
+Keira Walsh
+41.00
+Chelsea LFC (Kadınlar) : İlk Golü Atar
+Agnes Beever-Jones
+3.25
+Melvine Malard
+3.60
+Mayra Ramirez
+3.60
+Lauren James
+4.00
+Lola Brown
+4.40
+Manaka Matsukubo
+4.50
+Alyssa Thompson
+4.60
+Maika Hamano
+4.90
+Sandy Baltimore
+4.90
+Chloe Sarwie
+5.00
+Sjoeke Nuesken
+6.00
+Wieke Kaptein
+6.20
+Daha Fazla Seçeneği Göster
+Paris Saint-Germain (Kadınlar) : İlk Golü Atar
+Romee Leuchter
+4.00
+Lea Laetitia Morissaint
+4.33
+Merveille Kanjinga
+4.50
+Lea Morissaint
+5.10
+Naomie Feller
+5.70
+Katia Imarazene
+5.80
+Rasheedat Ajibade
+6.50
+Marie Estella Lafontaine
+6.80
+Sakina Karchaoui
+7.00
+Jennifer Echegini
+7.00
+Marie Lafontaine
+7.50
+Vitoria Yaya
+11.00
+Daha Fazla Seçeneği Göster
+Chelsea LFC (Kadınlar) : Son Golcü
+Agnes Beever-Jones
+3.25
+Melvine Malard
+3.60
+Mayra Ramirez
+3.60
+Lauren James
+4.00
+Alyssa Thompson
+4.50
+Manaka Matsukubo
+4.50
+Sandy Baltimore
+4.50
+Maika Hamano
+5.00
+Lola Brown
+5.00
+Chloe Sarwie
+5.00
+Sjoeke Nuesken
+6.00
+Wieke Kaptein
+6.00
+Daha Fazla Seçeneği Göster
+Paris Saint-Germain (Kadınlar) : Son Golü Atar
+Romee Leuchter
+4.00
+Lea Laetitia Morissaint
+4.33
+Merveille Kanjinga
+4.33
+Naomie Feller
+6.50
+Katia Imarazene
+6.50
+Rasheedat Ajibade
+6.50
+Sakina Karchaoui
+7.00
+Jennifer Echegini
+7.00
+Marie Lafontaine
+7.50
+Florianne Jourde
+10.00
+Tara Elimbi
+13.00
+Vitoria Yaya
+13.00
+Daha Fazla Seçeneği Göster
+Oyuncu Kart Görür
+Yaya
+3.05
+Florianne Jourde
+3.10
+Anais Ebayilin
+3.15
+Sakina Karchaoui
+3.25
+Marie Lafontaine
+3.35
+Jackie Groenen
+3.35
+Emilie Osteras
+3.45
+Lea Laetitia Morissaint
+3.80
+Thiniba Samoura
+3.85
+Paulina Dudek
+3.85
+Isabela
+4.30
+Maika Hamano
+4.60
+Daha Fazla Seçeneği Göster
+Oyuncu Sarı Kart Görür
+Yaya
+3.15
+Anais Ebayilin
+3.20
+Florianne Jourde
+3.20
+Sakina Karchaoui
+3.35
+Jackie Groenen
+3.45
+Emilie Osteras
+3.50
+Marie Lafontaine
+3.55
+Paulina Dudek
+3.95
+Thiniba Samoura
+3.95
+Lea Laetitia Morissaint
+4.10
+Isabela
+4.40
+Maika Hamano
+4.70
+Olga Carmona
+4.75
+Merveille Kanjinga
+4.80
+Griedge Mbock Bathy
+5.00
+Lexi Potter
+5.00
+Manaka Matsukubo
+5.10
+Tara Elimbi Gilbert
+5.20
+Rasheedat Ajibade
+5.30
+Joe Echegini
+5.40
+Lucy Bronze
+5.40
+Lauren James
+5.40
+Erin Cuthbert
+5.50
+Nathalie Bjorn
+5.80
+Melvine Malard
+5.90
+Naomie Feller
+5.90
+Kadeisha Buchanan
+5.90
+Wieke Kaptein
+5.90
+Aggie Beever-Jones
+6.20
+Veerle Buurman
+6.30
+Katie McCabe
+6.30
+Keira Walsh
+6.30
+Sjoeke Nusken
+6.40
+Alyssa Thompson
+6.50
+Sandy Baltimore
+6.80
+Ellie Carpenter
+7.00
+Katarzyna Kiedrzynek
+8.90
+Hannah Hampton
+21.00
+Livia Peng
+21.00
+Kart Görecek İlk Oyuncu
+Yaya
+9.10
+Anais Ebayilin
+9.30
+Florianne Jourde
+9.30
+Sakina Karchaoui
+9.70
+Emilie Osteras
+10.00
+Marie Lafontaine
+10.00
+Jackie Groenen
+10.00
+Thiniba Samoura
+12.00
+Paulina Dudek
+12.00
+Lea Laetitia Morissaint
+12.00
+Isabela
+13.00
+Merveille Kanjinga
+14.00
+Daha Fazla Seçeneği Göster
+Son Kartı Görecek Oyuncu
+YENİ
+Yaya
+9.10
+Anais Ebayilin
+9.30
+Florianne Jourde
+9.30
+Sakina Karchaoui
+9.70
+Marie Lafontaine
+10.00
+Jackie Groenen
+10.00
+Emilie Osteras
+10.00
+Paulina Dudek
+12.00
+Thiniba Samoura
+12.00
+Lea Laetitia Morissaint
+12.00
+Isabela
+13.00
+Olga Carmona
+14.00
+Merveille Kanjinga
+14.00
+Maika Hamano
+14.00
+Lexi Potter
+15.00
+Griedge Mbock Bathy
+15.00
+Manaka Matsukubo
+15.00
+Rasheedat Ajibade
+17.00
+Tara Elimbi Gilbert
+17.00
+Joe Echegini
+17.00
+Lauren James
+17.00
+Erin Cuthbert
+17.00
+Lucy Bronze
+17.00
+Naomie Feller
+19.00
+Wieke Kaptein
+19.00
+Nathalie Bjorn
+19.00
+Kadeisha Buchanan
+19.00
+Melvine Malard
+19.00
+Aggie Beever-Jones
+19.00
+Veerle Buurman
+19.00
+Katie McCabe
+19.00
+Keira Walsh
+19.00
+Sjoeke Nusken
+21.00
+Alyssa Thompson
+21.00
+Sandy Baltimore
+21.00
+Ellie Carpenter
+21.00
+Katarzyna Kiedrzynek
+26.00
+Hannah Hampton
+36.00
+Livia Peng
+36.00
+Oyundan Uzaklaştırılır
+YENİ
+Marie Lafontaine
+15.00
+Lea Laetitia Morissaint
+19.00
+Sakina Karchaoui
+23.00
+Yaya
+29.00
+Florianne Jourde
+29.00
+Merveille Kanjinga
+29.00
+Rasheedat Ajibade
+31.00
+Anais Ebayilin
+31.00
+Paulina Dudek
+31.00
+Thiniba Samoura
+34.00
+Jackie Groenen
+34.00
+Emilie Osteras
+34.00
+Daha Fazla Seçeneği Göster
+Chelsea LFC (Kadınlar) : Her İki Yarıda Gol Atar
+Evet
+Hayır
+1.88
+1.82
+Paris Saint-Germain (Kadınlar) Her İki Yarıda Gol Atar
+Evet
+Hayır
+5.55
+1.11
+Chelsea LFC (Kadınlar) : Her İki Yarıda Kazanır
+Evet
+Hayır
+2.87
+1.36
+Chelsea LFC (Kadınlar) : İlk Yarıda Gol Atar
+Evet
+Hayır
+1.41
+2.68
+Paris Saint-Germain (Kadınlar) İlk Yarıda Gol Atar
+Evet
+Hayır
+2.70
+1.40
+Chelsea LFC (Kadınlar) : İkinci Yarıda Gol Atar
+Evet
+Hayır
+1.31
+3.15
+Paris Saint-Germain (Kadınlar) İkinci Yarıda Gol Atar
+Evet
+Hayır
+2.35
+1.53
+İlk Yarıda Gol
+Evet
+Hayır
+1.22
+3.83
+İkinci Yarıda Gol
+Evet
+Hayır
+1.15
+4.75
+Her İki Yarııda da 1.5 Üst Gol
+Evet
+Hayır
+3.47
+1.26
+Her İki Yarı Goller 1.5 Alt
+Evet
+Hayır
+3.30
+1.28
+Chelsea LFC (Kadınlar) Gol Yemeden Kazanır
+Evet
+Hayır
+2.45
+1.48
+Paris Saint-Germain (Kadınlar) Gol Yemeden Kazanır
+Evet
+Hayır
+9.30
+1.027
+Chelsea LFC (Kadınlar) İki veya Üç Gol Farkla Kazanır
+Evet
+Hayır
+2.50
+1.47
+Chelsea LFC (Kadınlar) Bir Gol Farkla Kazanır veya Berabere
+Evet
+Hayır
+2.39
+1.51
+Paris Saint-Germain (Kadınlar) Bir Gol Farkla Kazanır veya Berabere Kalır
+Evet
+Hayır
+3.30
+1.28
+Chelsea LFC (Kadınlar) En Az Bir Yarıyı Kazanır
+Evet
+Hayır
+1.19
+4.15
+Paris Saint-Germain (Kadınlar) En Az Bir Yarıda Kazanır
+Evet
+Hayır
+3.30
+1.28
+Chelsea LFC (Kadınlar) İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+10.00
+1.02
+Paris Saint-Germain (Kadınlar) İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+8.50
+1.04
+Chelsea LFC (Kadınlar) : Gol Atar 1.Yarı/2.Yarı
+Evet/Hayır
+3.90
+Evet/Evet
+1.74
+Hayır/Hayır
+6.50
+Hayır/Evet
+3.08
+Paris Saint-Germain (Kadınlar) Gol Atar İlk Yarı/İkinci Yarı
+Evet/Hayır
+3.53
+Evet/Evet
+5.10
+Hayır/Hayır
+2.03
+Hayır/Evet
+2.83
+Yarıları Farklı Takımlar Kazanır
+Evet
+Hayır
+4.90
+1.14
+Yarılardan En Az Birinde Beraberlik
+Evet
+Hayır
+1.78
+1.92
+Maç Skoru Beraberlik (0-0 hariç)
+Evet
+Hayır
+6.00
+1.095
+Kesin Gol Sayısı
+Gol Yok
+17.00
+Kesin 1
+6.15
+Kesin 2
+4.15
+Kesin 3
+3.82
+Kesin 4
+4.50
+Kesin 5
+6.50
+Kesin 6 veya Fazla
+6.00
+Maçta 1 Gol Olur
+Evet
+Hayır
+6.15
+1.09
+Maçta 2 Gol Olur
+Evet
+Hayır
+4.15
+1.19
+Maçta 3 Gol Olur
+Evet
+Hayır
+3.83
+1.22
+Maçta 4 Gol Olur
+Evet
+Hayır
+4.30
+1.18
+Chelsea LFC (Kadınlar) : Kazanma Marjı
+1
+4.10
+2
+4.10
+3
+5.70
+4+
+5.55
+Paris Saint-Germain (Kadınlar) : Kazanma Marjı
+1
+7.10
+2
+19.00
+3
+61.00
+4+
+176.00
+Skor Kombinasyonları
+1-0 / 2-0 / 3-0
+2.74
+4-0 / 5-0 / 6-0
+7.00
+2-1 / 3-1 / 4-1
+3.33
+3-2 / 4-2 / 4-3
+7.10
+0-1 / 0-2 / 0-3
+9.80
+0-4 / 0-5 / 0-6
+201.00
+1-2 / 1-3 / 1-4
+10.00
+2-3 / 2-4 / 3-4
+21.00
+İlk 10 Dakika (00:00 - 09:59) Köşe vuruşu
+Üst
+Alt
+0.5
+1.49
+2.44
+1.5
+3.20
+1.30
+Chelsea LFC (Kadınlar) : İlk 10 Dakika (00:00 – 09:59) Kornerler
+Üst
+Alt
+0.5
+1.75
+1.95
+1.5
+4.42
+1.17
+Paris Saint-Germain (Kadınlar) : İlk 10 Dakika (00:00 – 09:59) Kornerler
+Üst
+Alt
+0.5
+3.65
+1.24
+1.5
+9.70
+1.023
+1-15 Dk. Galibi
+Chelsea LFC (Kadınlar)
+X
+Paris Saint-Germain (Kadınlar)
+3.88
+1.33
+11.00
+1-15 Dk. Gol Handikapı
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+0
+1.27
+0
+3.40
+1-15 Dk. Toplam Goller
+Üst
+Alt
+0.5
+2.44
+1.49
+1
+6.30
+1.085
+1-15 Dk. Chelsea LFC (Kadınlar) Toplam Goller
+Üst
+Alt
+0.5
+3.10
+1.32
+1
+8.70
+1.035
+1-15 Dk. Paris Saint-Germain (Kadınlar) Toplam Goller
+Üst
+Alt
+0.5
+6.00
+1.095
+1-15 Dk. İki Takım Gol Atar
+Evet
+Hayır
+10.90
+1.011
+1-30 Dk. Galibi
+Chelsea LFC (Kadınlar)
+X
+Paris Saint-Germain (Kadınlar)
+2.33
+1.87
+7.30
+1-30 Dk. Gol Handikapı
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+0
+1.23
+0
+3.75
+1-30 Dk. Toplam Goller
+Üst
+Alt
+0.5
+1.53
+2.37
+1
+2.33
+1.54
+1-30 Dk. Chelsea LFC (Kadınlar) Toplam Goller
+Üst
+Alt
+0.5
+1.85
+1.85
+1
+3.65
+1.24
+1-30 Dk. Paris Saint-Germain (Kadınlar) Toplam Goller
+Üst
+Alt
+0.5
+3.57
+1.25
+1-30 Dk. Karşılıklı Gol
+Evet
+Hayır
+6.15
+1.09
+1-60 Dk. Galibi
+Chelsea LFC (Kadınlar)
+X
+Paris Saint-Germain (Kadınlar)
+1.57
+3.29
+6.30
+1-60 Dk. Gol Handikapı
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+-1
+2.05
++1
+1.68
+1-60 Dk. Toplam Goller
+Üst
+Alt
+1.5
+1.50
+2.40
+2
+1.89
+1.81
+1-60 Dk. Chelsea LFC (Kadınlar) Toplam Goller
+Üst
+Alt
+1
+1.39
+2.75
+1.5
+2.01
+1.71
+1-60 Dk. Paris Saint-Germain (Kadınlar) Toplam Goller
+Üst
+Alt
+0.5
+2.07
+1.67
+1
+4.57
+1.16
+1-60 Dk. Karşılıklı Gol
+Evet
+Hayır
+2.55
+1.45
+1-75 Dk. Galibi
+Chelsea LFC (Kadınlar)
+X
+Paris Saint-Germain (Kadınlar)
+1.43
+4.00
+6.60
+1-75 Dk. Gol Handikapı
+Chelsea LFC (Kadınlar)
+Paris Saint-Germain (Kadınlar)
+-1
+1.71
++1
+2.01
+1-75 Dk. Toplam Goller
+Üst
+Alt
+2.5
+1.78
+1.92
+3
+2.35
+1.53
+1-75 Dk. Chelsea LFC (Kadınlar) Toplam Goller
+Üst
+Alt
+1.5
+1.57
+2.25
+2
+2.05
+1.68
+1-75 Dk. Paris Saint-Germain (Kadınlar) Toplam Goller
+Üst
+Alt
+0.5
+1.75
+1.95
+1
+3.15
+1.31
+1-75 Dk. Karşılıklı Gol
+Evet
+Hayır
+2.00
+1.72
+Farklı Kombineler
+Chelsea LFC (Kadınlar) Kazanır veya Üst (2.5) Gol
+1.15
+Beraberlik veya Üst 2.5 Gol
+1.24
+Paris Saint-Germain (Kadınlar) Kazanır veya 2.5 Üst Gol
+1.33
+Chelsea LFC (Kadınlar) Kazanır veya Alt (2.5) Gol
+1.11
+Beraberlik veya Alt 2.5 Gol
+2.11
+Paris Saint-Germain (Kadınlar) kazanır veya 2,5 alt gol
+2.10
+Daha Fazla Seçeneği Göster
+Çifte Şans Kombo
+1X ve Üst (2.5) Gol
+1.65
+1X ve Alt (2.5) Gol
+2.56
+X2 ve Üst (2.5) Gol
+5.55
+X2 ve Alt (2.5) Gol
+5.20
+12 ve Üst (2.5) Gol
+1.49
+12 ve Alt (2.5) Gol
+3.47
+1X ve Karşılıklı Gol Olur
+1.89
+Chelsea LFC (Kadınlar) 0'a karşı kazanır veya Doğru Skor 0-0
+2.25
+X2 ve Karşılıklı Gol Olur
+3.82
+Paris Saint-Germain (Kadınlar) 0'a karşı kazanır veya Doğru Skor 0 : 0
+7.90
+12 ve Karşılıklı Gol Olur
+2.07
+Chelsea LFC (Kadınlar) veya Paris Saint-Germain (Kadınlar) - Gol Yemeden Kazanır
+2.03
+Daha Fazla Seçeneği Göster
+1.Yarı/Maç Skoru
+0-0/0-0
+19.00
+0-1/0-1
+31.00
+0-2/0-2
+126.00
+0-3/0-3
+251.00
+0-4/0-4
+251.00
+1-0/1-0
+14.00
+1-1/1-1
+31.00
+1-2/1-2
+101.00
+1-3/1-3
+251.00
+1-4/1-4
+251.00
+2-0/2-0
+21.00
+2-1/2-1
+46.00
+2-2/2-2
+176.00
+2-3/2-3
+251.00
+2-4/2-4
+251.00
+3-0/3-0
+46.00
+3-1/3-1
+96.00
+3-2/3-2
+251.00
+Daha Fazla Seçeneği Göster
+Karşılıklı Gol ve Toplam Goller 2.5
+Evet ve Üst 2.5
+1.97
+Evet ve Alt 2.5
+11.00
+Hayır ve Üst 2.5
+4.70
+Hayır ve Alt 2.5
+3.15
+Karşılıklı Gol ve Toplam Goller 3.5
+Evet ve Üst 3.5
+2.68
+Evet ve Alt 3.5
+4.20
+Hayır ve Üst 3.5
+8.70
+Hayır ve Alt 3.5
+2.45
+Her İki Yarıda da Karşılıklı Gol
+Evet
+Hayır
+10.50
+1.045
+İlk Golü Atacak Takım ve Maç Sonucu
+Chelsea LFC (Kadınlar) ve Chelsea LFC (Kadınlar)
+1.49
+Chelsea LFC (Kadınlar) ve Berabere
+10.00
+Chelsea LFC (Kadınlar) ve Paris Saint-Germain (Kadınlar)
+23.00
+Paris Saint-Germain (Kadınlar) ve Chelsea LFC (Kadınlar)
+7.20
+Paris Saint-Germain (Kadınlar) ve Berabere
+10.00
+Paris Saint-Germain (Kadınlar) ve Paris Saint-Germain (Kadınlar)
+6.40
+Gol Yok
+17.00
+İlk Golü Atacak Takım ve 1. Yarı Sonucu
+Chelsea LFC (Kadınlar) ve Chelsea LFC (Kadınlar)
+1.73
+Chelsea LFC (Kadınlar) ve Berabere
+4.10
+Chelsea LFC (Kadınlar) ve Paris Saint-Germain (Kadınlar)
+56.00
+Paris Saint-Germain (Kadınlar) ve Chelsea LFC (Kadınlar)
+21.00
+Paris Saint-Germain (Kadınlar) ve Berabere
+6.70
+Paris Saint-Germain (Kadınlar) ve Paris Saint-Germain (Kadınlar)
+5.60
+Gol Yok
+17.00
+İlk Golü Atacak Takım ve 2. Yarı Sonucu
+Chelsea LFC (Kadınlar) ve Chelsea LFC (Kadınlar)
+1.97
+Chelsea LFC (Kadınlar) ve Berabere
+4.20
+Chelsea LFC (Kadınlar) ve Paris Saint-Germain (Kadınlar)
+8.10
+Paris Saint-Germain (Kadınlar) ve Chelsea LFC (Kadınlar)
+5.60
+Paris Saint-Germain (Kadınlar) ve Berabere
+8.90
+Paris Saint-Germain (Kadınlar) ve Paris Saint-Germain (Kadınlar)
+11.00
+Gol Yok
+17.00
+1.Yarı Toplam Gol 'e karşı 2. Yarı Toplam Gol Handikapı
+İlk Yarı Toplam Goller
+İkinci Yarı Toplam Goller
++1.5
+1.26
+-1.5
+3.47
++0.5
+1.69
+-0.5
+2.04
+-0.5
+2.75
++0.5
+1.40
+Chelsea LFC (Kadınlar) : Geriden Gelerek Kazanır
+Evet
+Hayır
+6.00
+1.095
+Paris Saint-Germain (Kadınlar) : Geriden Kazanır
+Evet
+Hayır
+10.80
+1.012
+İlk Yarı/Maç Sonucu ve Toplam Gol
+Chelsea LFC (Kadınlar)/Chelsea LFC (Kadınlar) ve Üst (1.5)
+1.85
+Chelsea LFC (Kadınlar)/Chelsea LFC (Kadınlar) ve Alt (1.5)
+13.00
+Chelsea LFC (Kadınlar)/Beraberlik ve Üst (1.5)
+15.00
+Chelsea LFC (Kadınlar)/Paris Saint-Germain (Kadınlar) ve Üst (1.5)
+51.00
+Beraberlik/Chelsea LFC (Kadınlar) ve Üst (1.5)
+4.80
+Beraberlik/Chelsea LFC (Kadınlar) ve Alt (1.5)
+11.00
+Beraberlik/Beraberlik ve Üst (1.5)
+9.50
+Beraberlik/Beraberlik ve Alt (1.5)
+17.00
+Beraberlik/Paris Saint-Germain (Kadınlar) ve Üst (1.5)
+17.00
+Beraberlik/Paris Saint-Germain (Kadınlar) ve Alt (1.5)
+25.00
+Paris Saint-Germain (Kadınlar)/Chelsea LFC (Kadınlar) ve Üst (1.5)
+17.00
+Paris Saint-Germain (Kadınlar)/Beraberlik ve Üst (1.5)
+17.00
+Daha Fazla Seçeneği Göster

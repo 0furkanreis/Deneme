@@ -1,0 +1,60 @@
+{
+ "organizasyon": "UEFA Kadınlar Şampiyonlar Ligi, 5. hafta",
+ "tarih": "18 Kasım 2026, 23:00 TSİ",
+ "stadyum": "Cherry Red Records Stadium",
+ "hakem": "Maria Ferrieri Caputi",
+ "ilk_yari_gol_payi": 0.44,
+ "korner_guven": "orta",
+ "kart_guven": "orta",
+ "var_ort": 0.15,
+ "not": "Korner: güçlü rakiplere karşı veriler (PSG City/Bayern'e 7 ve 6 korner verdi, 1 ve 4 kullandı; Chelsea City'ye 6). Goller site oranından.",
+ "ev": {
+  "ad": "Chelsea LFC (Kadınlar)",
+  "beklenen_gol": 2.433,
+  "korner": 7.0,
+  "sari_kart": 1.2,
+  "oyuncular": [
+   {
+    "ad": "Agnes Beever-Jones",
+    "gol_payi": 0.22,
+    "asist_payi": 0.08,
+    "kart_ihtimali": 0.05
+   },
+   {
+    "ad": "Alyssa Thompson",
+    "gol_payi": 0.15,
+    "asist_payi": 0.15,
+    "kart_ihtimali": 0.05
+   },
+   {
+    "ad": "Sandy Baltimore",
+    "gol_payi": 0.12,
+    "asist_payi": 0.15,
+    "kart_ihtimali": 0.06
+   }
+  ],
+  "model_beklenen_gol": 1.6
+ },
+ "dep": {
+  "ad": "Paris Saint-Germain (Kadınlar)",
+  "beklenen_gol": 0.93,
+  "korner": 3.0,
+  "sari_kart": 1.1,
+  "oyuncular": [
+   {
+    "ad": "Merveille Kanjinga",
+    "gol_payi": 0.2,
+    "asist_payi": 0.1,
+    "kart_ihtimali": 0.06
+   },
+   {
+    "ad": "Naomie Feller",
+    "gol_payi": 0.15,
+    "asist_payi": 0.12,
+    "kart_ihtimali": 0.06
+   }
+  ],
+  "model_beklenen_gol": 0.9
+ },
+ "kalibrasyon": "Beklenen goller site oranlarından (takım gol çizgilerinin ortalaması)"
+}

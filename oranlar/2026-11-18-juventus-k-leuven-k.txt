@@ -1,0 +1,3657 @@
+Maç Sonucu
+Juventus (Kadınlar)
+Beraberlik
+Oud-Heverlee Leuven (Kadınlar)
+1.17
+6.70
+10.00
+Çifte Şans
+1X
+12
+X2
+1.05
+1.09
+4.30
+Beraberlikte İade
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+1.055
+7.50
+Toplam Goller
+Üst
+Alt
+1.5
+1.10
+5.85
+2
+1.13
+5.10
+2.5
+1.35
+2.95
+3
+1.53
+2.35
+3.5
+1.88
+1.82
+4
+2.55
+1.45
+4.5
+2.95
+1.35
+5
+4.42
+1.17
+5.5
+4.90
+1.14
+6
+7.50
+1.055
+6.5
+8.20
+1.045
+Juventus (Kadınlar) : Toplam Gol
+Üst
+Alt
+1.5
+1.22
+3.83
+2
+1.32
+3.10
+2.5
+1.71
+2.01
+3
+2.21
+1.59
+3.5
+2.75
+1.39
+4
+4.30
+1.18
+4.5
+4.90
+1.14
+Oud-Heverlee Leuven (Kadınlar) : Toplam Gol
+Üst
+Alt
+0.5
+1.74
+1.96
+1
+3.15
+1.31
+1.5
+4.42
+1.17
+Her iki takımda gol atar
+Evet
+Hayır
+1.84
+1.86
+Her İki Takım da 2 veya Daha Fazla Gol Atar
+YENİ
+Evet
+No
+5.55
+1.11
+Gol Handikapı
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+-5.5
+10.30
++5.5
+1.017
+-5
+10.00
++5
+1.02
+-4.5
+6.70
++4.5
+1.075
+-4
+6.30
++4
+1.085
+-3.5
+3.90
++3.5
+1.21
+-3
+3.30
++3
+1.28
+-2.5
+2.35
++2.5
+1.53
+-2
+1.90
++2
+1.80
+-1.5
+1.52
++1.5
+2.37
+-1
+1.24
++1
+3.65
+-0.5
+1.18
++0.5
+4.30
+0
+1.055
+0
+7.50
++0.5
+1.045
+-0.5
+8.20
+Goller Asya Handikapı
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+-5.25
+10.00
++5.25
+1.02
+-4.75
+8.20
++4.75
+1.045
+-4.25
+6.50
++4.25
+1.08
+-3.75
+4.75
++3.75
+1.15
+-3.25
+3.65
++3.25
+1.24
+-2.75
+2.68
++2.75
+1.41
+-2.25
+2.10
++2.25
+1.65
+-1.75
+1.64
++1.75
+2.12
+-1.25
+1.39
++1.25
+2.75
+-0.75
+1.20
++0.75
+4.05
+-0.25
+1.11
++0.25
+5.55
++0.25
+1.05
+-0.25
+7.85
++0.75
+1.023
+-0.75
+9.70
+Gol Handikapı (3-İhtimalli)
+Juventus (Kadınlar)
+Beraberlik : Oud-Heverlee Leuven (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+-5
+10.30
++5
+10.00
++5
+1.075
+-4
+6.70
++4
+6.80
++4
+1.20
+-3
+3.90
++3
+4.57
++3
+1.53
+-2
+2.35
++2
+3.75
++2
+2.34
+-1
+1.52
++1
+4.30
++1
+4.60
+0
+1.16
+0
+6.50
+0
+10.00
+Toplam Goller Asya
+Üst
+Alt
+1.25
+1.05
+7.85
+1.75
+1.12
+5.35
+2.25
+1.24
+3.65
+2.75
+1.43
+2.62
+3.25
+1.72
+2.00
+3.75
+2.15
+1.62
+4.25
+2.87
+1.36
+4.75
+3.47
+1.26
+5.25
+4.57
+1.16
+5.75
+6.00
+1.095
+6.25
+7.85
+1.05
+6.75
+9.30
+1.027
+Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+2
+1.35
+4.70
+6.20
+3
+1.90
+3.95
+2.99
+4
+2.95
+4.30
+1.82
+5
+4.90
+5.80
+1.35
+6
+8.20
+8.70
+1.14
+Her iki yarıda gol olur
+Evet
+Hayır
+1.36
+2.87
+İlk Golü Atacak Takım
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+Gol Yok
+1.24
+3.83
+26.00
+Son Golü Atacak Takım
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+Gol Yok
+1.24
+3.83
+26.00
+Juventus (Kadınlar) : Toplam Gol Asya
+Üst
+Alt
+1.25
+1.13
+5.10
+1.75
+1.26
+3.47
+2.25
+1.52
+2.37
+2.75
+1.90
+1.80
+3.25
+2.50
+1.47
+3.75
+3.25
+1.29
+Oud-Heverlee Leuven (Kadınlar) : Toplam Gol Asya
+Üst
+Alt
+0.75
+2.12
+1.64
+1.25
+3.83
+1.22
+Toplam Gol Tek / Çift
+Çift
+Tek
+1.85
+1.85
+Juventus (Kadınlar) : Gol Atar
+Evet
+Hayır
+1.03
+9.00
+Oud-Heverlee Leuven (Kadınlar) Gol Atar
+Evet
+Hayır
+1.74
+1.96
+Juventus (Kadınlar) Gol Atar ve Maç Sonucu
+Evet ve Juventus (Kadınlar)
+1.18
+Evet ve Berabere
+7.30
+Hayır ve Berabere
+26.00
+Evet ve Oud-Heverlee Leuven (Kadınlar)
+19.00
+Hayır ve Oud-Heverlee Leuven (Kadınlar)
+10.90
+Oud-Heverlee Leuven (Kadınlar) Gol Atar ve Maç Sonucu
+Evet ve Juventus (Kadınlar)
+2.42
+Hayır ve Juventus (Kadınlar)
+2.07
+Evet ve Berabere
+9.20
+Hayır ve Berabere
+23.00
+Evet ve Oud-Heverlee Leuven (Kadınlar)
+11.00
+Juventus (Kadınlar) : Bahis Yok
+Beraberlik
+Oud-Heverlee Leuven (Kadınlar)
+1.53
+2.35
+Oud-Heverlee Leuven (Kadınlar) : Bahis Yok
+Juventus (Kadınlar)
+Beraberlik
+1.10
+5.85
+Maç Sonucu ve Karşılıklı Gol
+Juventus (Kadınlar) Ve Evet
+2.42
+Beraberlik Ve Hayır
+23.00
+Juventus (Kadınlar) Ve Hayır
+2.07
+Oud-Heverlee Leuven (Kadınlar) Ve Evet
+19.00
+Beraberlik ve Evet
+9.20
+Oud-Heverlee Leuven (Kadınlar) Ve Hayır
+23.00
+Çifte Şans ve Karşılıklı Gol
+1X Ve Evet
+1.89
+12 Ve Hayır
+1.86
+1X Ve Hayır
+1.87
+X2 Ve Evet
+5.60
+12 Ve Evet
+2.07
+X2 Ve Hayır
+11.00
+Maç Sonucu ve Toplam Gol 1.5
+Juventus (Kadınlar) ve Üst 1.5
+1.30
+Juventus (Kadınlar) ve Alt 1.5
+10.00
+Beraberlik ve Üst 1.5
+9.10
+Beraberlik ve Alt 1.5
+26.00
+Oud-Heverlee Leuven (Kadınlar) ve Üst 1.5
+14.00
+Oud-Heverlee Leuven (Kadınlar) ve Alt 1.5
+36.00
+1X ve Üst 1.5
+1.17
+1X ve Alt 1.5
+7.80
+12 ve Üst 1.5
+1.22
+12 ve Alt 1.5
+8.30
+X2 ve Üst 1.5
+5.90
+X2 ve Alt 1.5
+17.00
+Maç Sonucu ve Toplam Gol 2.5
+Juventus (Kadınlar) ve Üst 2.5
+1.52
+Juventus (Kadınlar) ve Alt 2.5
+4.40
+Beraberlik ve Üst 2.5
+21.00
+Beraberlik ve Alt 2.5
+10.00
+Oud-Heverlee Leuven (Kadınlar) ve Üst 2.5
+17.00
+Oud-Heverlee Leuven (Kadınlar) ve Alt 2.5
+25.00
+1X ve Üst 2.5
+1.44
+1X ve Alt 2.5
+3.23
+12 ve Üst 2.5
+1.43
+12 ve Alt 2.5
+3.90
+X2 ve Üst 2.5
+9.80
+X2 ve Alt 2.5
+7.60
+Maç Sonucu ve Toplam Gol 3.5
+Juventus (Kadınlar) ve Üst 3.5
+2.13
+Juventus (Kadınlar) ve Alt 3.5
+2.37
+Beraberlik ve Üst 3.5
+21.00
+Beraberlik ve Alt 3.5
+10.00
+Oud-Heverlee Leuven (Kadınlar) ve Üst 3.5
+34.00
+Oud-Heverlee Leuven (Kadınlar) ve Alt 3.5
+15.00
+1X ve Üst 3.5
+1.97
+1X ve Alt 3.5
+2.00
+12 ve Üst 3.5
+2.04
+12 ve Alt 3.5
+2.10
+X2 ve Üst 3.5
+14.00
+X2 ve Alt 3.5
+6.30
+Maç Sonucu ve Toplam Gol 4.5
+Juventus (Kadınlar) ve Üst 4.5
+3.18
+Juventus (Kadınlar) ve Alt 4.5
+1.74
+Beraberlik ve Üst 4.5
+81.00
+Beraberlik ve Alt 4.5
+7.70
+Oud-Heverlee Leuven (Kadınlar) ve Üst 4.5
+51.00
+Oud-Heverlee Leuven (Kadınlar) ve Alt 4.5
+13.00
+1X ve Üst 4.5
+3.10
+1X ve Alt 4.5
+1.47
+12 ve Üst 4.5
+3.04
+12 ve Alt 4.5
+1.58
+X2 ve Üst 4.5
+34.00
+X2 ve Alt 4.5
+5.10
+Sonuç ve Juventus (Kadınlar) : Toplam Gol
+Juventus (Kadınlar) ve Üst (1.5)
+1.28
+Juventus (Kadınlar) ve Alt (1.5)
+7.85
+Beraberlik ve Üst (1.5)
+17.00
+Beraberlik ve Alt (1.5)
+8.50
+Oud-Heverlee Leuven (Kadınlar) ve Üst (1.5)
+46.00
+Oud-Heverlee Leuven (Kadınlar) ve Alt (1.5)
+10.00
+Juventus (Kadınlar) ve Üst (2.5)
+1.67
+Juventus (Kadınlar) ve Alt (2.5)
+2.94
+Beraberlik ve Üst (2.5)
+61.00
+Beraberlik ve Alt (2.5)
+6.40
+Oud-Heverlee Leuven (Kadınlar) ve Üst (2.5)
+226.00
+Oud-Heverlee Leuven (Kadınlar) ve Alt (2.5)
+9.40
+Juventus (Kadınlar) ve Üst (3.5)
+2.58
+Juventus (Kadınlar) ve Alt (3.5)
+1.79
+Beraberlik ve Üst (3.5)
+301.00
+Beraberlik ve Alt (3.5)
+6.20
+Oud-Heverlee Leuven (Kadınlar) ve Üst (3.5)
+351.00
+Oud-Heverlee Leuven (Kadınlar) ve Alt (3.5)
+9.10
+Sonuç ve Oud-Heverlee Leuven (Kadınlar) : Toplam Gol
+Juventus (Kadınlar) ve Üst (1.5)
+7.60
+Juventus (Kadınlar) ve Alt (1.5)
+1.29
+Beraberlik ve Üst (1.5)
+17.00
+Beraberlik ve Alt (1.5)
+8.60
+Oud-Heverlee Leuven (Kadınlar) ve Üst (1.5)
+12.00
+Oud-Heverlee Leuven (Kadınlar) ve Alt (1.5)
+29.00
+Juventus (Kadınlar) ve Üst (2.5)
+41.00
+Juventus (Kadınlar) ve Alt (2.5)
+1.19
+Beraberlik ve Üst (2.5)
+56.00
+Beraberlik ve Alt (2.5)
+6.50
+Oud-Heverlee Leuven (Kadınlar) ve Üst (2.5)
+25.00
+Oud-Heverlee Leuven (Kadınlar) ve Alt (2.5)
+12.00
+Juventus (Kadınlar) ve Üst (3.5)
+301.00
+Juventus (Kadınlar) ve Alt (3.5)
+1.17
+Beraberlik ve Üst (3.5)
+351.00
+Beraberlik ve Alt (3.5)
+6.20
+Oud-Heverlee Leuven (Kadınlar) ve Üst (3.5)
+81.00
+Oud-Heverlee Leuven (Kadınlar) ve Alt (3.5)
+9.60
+Sonuç veya Toplam Gol
+Juventus (Kadınlar) veya Üst (2.5)
+1.08
+Juventus (Kadınlar) veya Alt (2.5)
+1.05
+Beraberlik veya Üst (2.5)
+1.21
+Beraberlik veya Alt (2.5)
+2.46
+Oud-Heverlee Leuven (Kadınlar) veya Üst (2.5)
+1.28
+Oud-Heverlee Leuven (Kadınlar) veya Alt (2.5)
+2.41
+Juventus (Kadınlar) veya Üst (3.5)
+1.10
+Juventus (Kadınlar) veya Alt (3.5)
+1.03
+Beraberlik veya Üst (3.5)
+1.59
+Beraberlik veya Alt (3.5)
+1.63
+Oud-Heverlee Leuven (Kadınlar) veya Üst (3.5)
+1.65
+Oud-Heverlee Leuven (Kadınlar) veya Alt (3.5)
+1.67
+Daha Fazla Seçeneği Göster
+Maç Sonucu ve Toplam Gol (Kesin)
+Juventus (Kadınlar) ve 1
+9.70
+Juventus (Kadınlar) ve 2
+6.80
+Juventus (Kadınlar) ve 3
+4.40
+Juventus (Kadınlar) ve 4+
+2.09
+Beraberlik ve 0
+25.00
+Beraberlik ve 2
+14.00
+Beraberlik ve 4
+23.00
+Beraberlik ve 6+
+76.00
+Oud-Heverlee Leuven (Kadınlar) ve 1
+34.00
+Oud-Heverlee Leuven (Kadınlar) ve 2
+67.00
+Oud-Heverlee Leuven (Kadınlar) ve 3
+29.00
+Oud-Heverlee Leuven (Kadınlar) ve 4+
+31.00
+Sonuç ve Toplam Gol (Genişletilmiş Aralık)
+Juventus (Kadınlar) ve 1-2
+4.33
+Juventus (Kadınlar) ve 1-3
+2.34
+Juventus (Kadınlar) ve 1-4
+1.72
+Juventus (Kadınlar) ve 1-5
+1.41
+Juventus (Kadınlar) ve 1-6
+1.28
+Juventus (Kadınlar) ve 2-3
+2.87
+Juventus (Kadınlar) ve 2-4
+1.97
+Juventus (Kadınlar) ve 2-5
+1.58
+Juventus (Kadınlar) ve 2-6
+1.41
+Juventus (Kadınlar) ve 3-4
+2.56
+Juventus (Kadınlar) ve 3-5
+1.92
+Juventus (Kadınlar) ve 3-6
+1.68
+Daha Fazla Seçeneği Göster
+Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)
+1X ve 1-2
+3.50
+1X ve 1-3
+2.09
+1X ve 1-4
+1.51
+1X ve 1-5
+1.27
+1X ve 1-6
+1.16
+1X ve 2-3
+2.49
+1X ve 2-4
+1.71
+1X ve 2-5
+1.41
+1X ve 2-6
+1.27
+1X ve 3-4
+2.38
+1X ve 3-5
+1.84
+1X ve 3-6
+1.59
+1X ve 4-5
+2.77
+1X ve 4-6
+2.25
+1X ve 5-6
+3.95
+1X ve Herhangi bir diğer
+7.80
+12 ve 1-2
+3.82
+12 ve 1-3
+2.08
+Daha Fazla Seçeneği Göster
+Sonuç veya Doğru Skor
+Juventus (Kadınlar) veya 0-0: Evet
+1.14
+Juventus (Kadınlar) veya 0-0: Hayır
+5.00
+Oud-Heverlee Leuven (Kadınlar) veya 0-0: Evet
+7.70
+Oud-Heverlee Leuven (Kadınlar) veya 0-0: Hayır
+1.08
+Juventus (Kadınlar) veya 1-1: Evet
+1.12
+Juventus (Kadınlar) veya 1-1: Hayır
+5.80
+Oud-Heverlee Leuven (Kadınlar) veya 1-1: Evet
+6.30
+Oud-Heverlee Leuven (Kadınlar) veya 1-1: Hayır
+1.10
+Juventus (Kadınlar) veya 0-1: Evet
+1.16
+Juventus (Kadınlar) veya 0-1: Hayır
+4.85
+Oud-Heverlee Leuven (Kadınlar) veya 1-0: Evet
+5.30
+Oud-Heverlee Leuven (Kadınlar) veya 1-0: Hayır
+1.13
+Her İki Yarı Toplam Gol Kombinasyonu
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+1.80
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+3.01
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 0.5 Üst gol
+1.93
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+2.66
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+4.40
+İlk yarıda 0.5 Üst gol ve Maç sonucu 1.5 Üst gol
+1.21
+İlk yarıda 0.5 Üst gol ve Maç sonucu 2.5 Üst gol
+1.40
+İlk yarıda 0.5 Üst gol ve Maç sonucu 3.5 Üst gol
+1.82
+İlk yarıda 0.5 Üst gol ve Maç sonucu 4.5 Üst gol
+2.66
+İlk yarıda 1.5 Üst gol ve Maç sonucu 2.5 Üst gol
+1.81
+İlk yarıda 1.5 Üst gol ve Maç sonucu 3.5 Üst gol
+2.18
+İlk yarıda 1.5 Üst gol ve Maç sonucu 4.5 Üst gol
+3.01
+İlk yarıda 2.5 Üst gol ve Maç sonucu 3.5 Üst gol
+3.32
+İlk yarıda 2.5 Üst gol ve Maç sonucu 4.5 Üst gol
+4.10
+Toplam Gol (Kesin)
+0
+26.00
+1
+8.00
+2
+4.70
+3
+3.96
+4
+4.30
+5
+5.80
+6 veya Daha Fazla
+4.90
+Juventus (Kadınlar) : Toplam Gol (Kesin)
+0
+12.00
+1
+5.00
+2
+3.45
+3
+3.64
+4 veya Daha Fazla
+2.75
+Oud-Heverlee Leuven (Kadınlar) : Toplam Gol (Kesin)
+0
+1.96
+1
+2.52
+2
+5.70
+3
+19.00
+4 veya Daha Fazla
+41.00
+Toplam Gol (Aralık)
+0-1
+6.20
+2-3
+2.26
+4 ila 6
+2.12
+7 veya Daha fazla
+9.50
+Juventus (Kadınlar) : Toplam Gol (Aralık)
+0-1
+3.65
+2-3
+1.89
+4 ila 6
+2.82
+7 veya Daha fazla
+23.00
+Oud-Heverlee Leuven (Kadınlar) : Toplam Gol (Aralık)
+0-1
+1.17
+2-3
+4.50
+4 ila 6
+61.00
+7 veya Daha fazla
+351.00
+Toplam Gol (Genişletilmiş Gol Aralığı)
+1-2
+2.45
+1-3
+1.64
+1-4
+1.40
+1-5
+1.14
+1-6
+1.06
+2-3
+2.26
+2-4
+1.44
+2-5
+1.32
+2-6
+1.15
+3-4
+1.86
+3-5
+1.51
+3-6
+1.36
+Daha Fazla Seçeneği Göster
+Juventus (Kadınlar) : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+2.23
+1-3
+1.49
+1-4
+1.22
+2-3
+1.94
+2-4
+1.49
+3-4
+2.28
+Herhangi Diğer
+3.80
+Oud-Heverlee Leuven (Kadınlar) : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.85
+1-3
+1.74
+1-4
+1.72
+2-3
+4.70
+2-4
+4.50
+3-4
+17.00
+Herhangi Diğer
+1.92
+Juventus (Kadınlar) Kesin Gol Farkıyla Kazanır
+Evet
+Hayır
+1
+4.05
+1.20
+2
+3.75
+1.23
+3
+4.57
+1.16
+4
+6.30
+1.085
+Juventus (Kadınlar) Kazanır ve Kesin Gol Atar
+Evet
+Hayır
+1
+7.85
+1.05
+2
+4.05
+1.20
+3
+3.83
+1.22
+4
+4.90
+1.14
+En Az Bir Takım Üst Gol Atar
+YENİ
+Evet
+No
+1.5
+1.16
+4.57
+2.5
+1.66
+2.08
+3.5
+2.70
+1.40
+1. Gol Zamanı
+1-10
+2.53
+11-20
+3.28
+21-30
+4.50
+31-40
+6.20
+41-50
+8.20
+51-60
+14.00
+61-70
+19.00
+71-80
+26.00
+81-90+
+29.00
+Gol Yok
+9.70
+Juventus (Kadınlar) : 1. Gol Zamanı (10 dk. Ara)
+1-10
+2.91
+11-20
+3.59
+21-30
+4.60
+31-40
+5.90
+41-50
+7.40
+51-60
+11.00
+61-70
+14.00
+71-80
+19.00
+81-90+
+19.00
+Gol Yok
+7.40
+Oud-Heverlee Leuven (Kadınlar) : 1. Gol Zamanı (10 dk. Ara)
+1-10
+7.00
+11-20
+9.70
+21-30
+10.00
+31-40
+10.00
+41-50
+10.00
+51-60
+12.00
+61-70
+13.00
+71-80
+14.00
+81-90+
+10.00
+Gol Yok
+1.63
+Doğru Skor
+1-0
+9.40
+0-0
+26.00
+0-1
+31.00
+2-0
+6.60
+1-1
+15.00
+0-2
+61.00
+2-1
+8.50
+2-2
+23.00
+1-2
+29.00
+3-0
+7.30
+3-3
+76.00
+0-3
+226.00
+3-1
+8.80
+4-4
+301.00
+1-3
+86.00
+3-2
+21.00
+5-5
+301.00
+2-3
+67.00
+Daha Fazla Seçeneği Göster
+Herhangi Bir Zamanda Doğru Skor
+0-1
+3.88
+0-2
+17.00
+0-3
+76.00
+0-4
+301.00
+0-5
+301.00
+1-0
+1.24
+1-1
+2.85
+1-2
+9.40
+1-3
+41.00
+1-4
+201.00
+1-5
+301.00
+2-0
+1.69
+2-1
+3.00
+2-2
+8.60
+2-3
+34.00
+2-4
+151.00
+2-5
+301.00
+3-0
+2.56
+Daha Fazla Seçeneği Göster
+1.Yarı Sonucu
+Juventus (Kadınlar)
+Beraberlik
+Oud-Heverlee Leuven (Kadınlar)
+1.50
+3.17
+7.60
+1.Yarı Çifte Şans
+1X
+12
+X2
+1.08
+1.30
+2.34
+1. Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.17
+4.42
+1
+1.30
+3.20
+1.5
+1.84
+1.86
+2
+2.70
+1.40
+2.5
+3.57
+1.25
+3
+6.30
+1.085
+3.5
+7.10
+1.065
+1. Yarı 1. Takım Toplam Gol
+Üst
+Alt
+0.5
+1.30
+3.20
+1
+1.58
+2.23
+1.5
+2.30
+1.55
+2
+4.05
+1.20
+2.5
+5.10
+1.13
+3
+9.30
+1.027
+3.5
+9.70
+1.023
+1. Yarı 2. Takım Toplam Gol
+Üst
+Alt
+0.5
+3.00
+1.34
+1
+8.70
+1.035
+1.5
+9.50
+1.025
+1. Yarı Juventus (Kadınlar) Toplam Goller Asya
+Üst
+Alt
+0.75
+1.40
+2.70
+1.25
+1.92
+1.78
+1.75
+2.80
+1.38
+2.25
+4.57
+1.16
+2.75
+6.50
+1.08
+3.25
+9.50
+1.025
+1. Yarı Oud-Heverlee Leuven (Kadınlar) Toplam Gol Asya
+Üst
+Alt
+0.75
+4.15
+1.19
+1.25
+9.30
+1.027
+1. Yarı Karşılıklı Gol
+Evet
+Hayır
+4.05
+1.20
+1. Yarı Gol Handikapı
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+-3
+10.30
++3
+1.017
+-2.5
+6.00
++2.5
+1.095
+-2
+5.10
++2
+1.13
+-1.5
+2.70
++1.5
+1.40
+-1
+2.01
++1
+1.71
+-0.5
+1.51
++0.5
+2.39
+0
+1.12
+0
+5.35
++0.5
+1.075
+-0.5
+6.70
+1. Yarı Goller Asya Handikapı
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+-2.75
+7.50
++2.75
+1.055
+-2.25
+5.55
++2.25
+1.11
+-1.75
+3.40
++1.75
+1.27
+-1.25
+2.39
++1.25
+1.51
+-0.75
+1.68
++0.75
+2.05
+-0.25
+1.32
++0.25
+3.10
++0.25
+1.095
+-0.25
+6.00
++0.75
+1.035
+-0.75
+8.70
+1. Yarı Gol Handikapı 3 İhtimalli
+Juventus (Kadınlar)
+Beraberlik Oud-Heverlee Leuven (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+-2
+6.70
++2
+4.20
++2
+1.40
+-1
+2.70
++1
+3.00
++1
+2.39
+0
+1.50
+0
+3.17
+0
+7.80
+1.Yarı Toplam Gol Asya
+Üst
+Alt
+0.75
+1.21
+3.90
+1.25
+1.57
+2.25
+1.75
+2.13
+1.63
+2.25
+3.15
+1.31
+2.75
+4.42
+1.17
+3.25
+6.70
+1.075
+3.75
+8.70
+1.035
+1. . Yarı : Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+2
+3.57
+3.36
+1.86
+1
+1.84
+2.85
+4.70
+1. Yarı: Sonuç ve Her İki Takımda Gol atar
+Juventus (Kadınlar) Ve Evet
+4.90
+Beraberlik ve Hayır
+4.40
+Juventus (Kadınlar) Ve Hayır
+1.55
+Oud-Heverlee Leuven (Kadınlar) ve Evet
+15.00
+Beraberlik ve Evet
+5.40
+Oud-Heverlee Leuven (Kadınlar) ve Hayır
+5.50
+1. Yarı Toplam Gol Aralığı
+0-1
+1.86
+2-3
+2.10
+4 ila 6
+7.80
+7 veya Daha fazla
+29.00
+1.Yarı Juventus (Kadınlar) Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.55
+2.44
+15.00
+1.Yarı Oud-Heverlee Leuven (Kadınlar) Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.025
+6.60
+301.00
+1. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.60
+1-3
+1.30
+1-4
+1.21
+2-3
+2.10
+2-4
+1.90
+3-4
+3.92
+Herhangi Diğer
+3.86
+1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.60
+1-3
+1.38
+1-4
+1.31
+2-3
+2.46
+2-4
+2.32
+3-4
+5.60
+Herhangi Diğer
+3.02
+1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+2.95
+1-3
+2.91
+1-4
+2.90
+2-3
+14.00
+2-4
+14.00
+3-4
+101.00
+Herhangi Diğer
+1.33
+1.Yarı Toplam Gol (Kesin)
+0
+4.42
+1
+2.87
+2
+3.35
+3
+4.50
+4 veya Daha Fazla
+7.10
+1.Yarı Juventus (Kadınlar) Toplam Gol (Kesin)
+0
+1
+2+
+3.20
+2.61
+2.25
+1.Yarı Oud-Heverlee Leuven (Kadınlar) Toplam Gol (Kesin)
+0
+1
+2+
+1.34
+3.28
+15.00
+1. Yarı Juventus (Kadınlar) Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+2.95
+1.35
+2
+4.05
+1.20
+3
+7.50
+1.055
+1. Yarı Oud-Heverlee Leuven (Kadınlar) Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+7.10
+1.065
+1. Yarı Juventus (Kadınlar) Sıfıra Karşı Kazanır
+Evet
+Hayır
+1.77
+1.93
+1. Yarı Oud-Heverlee Leuven (Kadınlar) Sıfıra Karşı Kazanır
+Evet
+Hayır
+7.30
+1.06
+1. Yarı İlk Golü Atacak Takım
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+Gol yok
+1.43
+4.70
+4.40
+1. Yarı Son Golü Atacak Takım
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+Gol yok
+1.43
+4.70
+4.40
+1.Yarı Doğru Skor
+1-0
+3.45
+0-0
+4.30
+0-1
+10.00
+2-0
+4.50
+1-1
+9.30
+0-2
+51.00
+2-1
+12.00
+2-2
+61.00
+1-2
+36.00
+3-0
+9.60
+3-3
+301.00
+0-3
+251.00
+3-1
+25.00
+1-3
+276.00
+3-2
+126.00
+2-3
+251.00
+2. Yarı Sonucu
+Juventus (Kadınlar)
+Beraberlik
+Oud-Heverlee Leuven (Kadınlar)
+1.42
+3.37
+8.50
+2. Yarı Çifte Şans
+1X
+12
+X2
+1.07
+1.27
+2.54
+2.Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.13
+5.10
+1
+1.20
+4.05
+1.5
+1.63
+2.13
+2
+2.20
+1.60
+2.5
+2.87
+1.36
+3
+5.10
+1.13
+3.5
+5.85
+1.10
+4
+9.70
+1.023
+4.5
+10.00
+1.02
+2.Yarı Juventus (Kadınlar) Toplam Gol
+Üst
+Alt
+0.5
+1.22
+3.83
+1
+1.40
+2.70
+1.5
+2.04
+1.69
+2
+3.25
+1.29
+2.5
+4.30
+1.18
+3
+7.85
+1.05
+3.5
+8.70
+1.035
+2.Yarı Oud-Heverlee Leuven (Kadınlar) Toplam Gol
+Üst
+Alt
+0.5
+2.68
+1.41
+1
+7.50
+1.055
+1.5
+8.50
+1.04
+2. Yarı Karşılıklı Gol
+Evet
+Hayır
+3.30
+1.28
+2. Yarı Gol Handikapı
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+-3.5
+9.50
++3.5
+1.025
+-3
+9.30
++3
+1.027
+-2.5
+5.10
++2.5
+1.13
+-2
+4.30
++2
+1.18
+-1.5
+2.50
++1.5
+1.47
+-1
+1.82
++1
+1.88
+0
+1.10
+0
+5.85
+2. Yarı Gol Handikapı 3 İhtimalli
+Juventus (Kadınlar)
+Beraberlik Oud-Heverlee Leuven (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+-3
+12.00
++3
+6.50
++3
+1.13
+-2
+5.10
++2
+3.97
++2
+1.47
+-1
+2.50
++1
+2.93
++1
+2.54
+0
+1.42
+0
+3.37
+0
+8.50
+2.Yarı: Sonuç ve Her İki Takımda Gol Atar
+Juventus (Kadınlar) Ve Evet
+4.10
+Beraberlik ve Hayır
+5.70
+Juventus (Kadınlar) Ve Hayır
+1.78
+Oud-Heverlee Leuven (Kadınlar) ve Evet
+14.00
+Beraberlik ve Evet
+4.80
+Oud-Heverlee Leuven (Kadınlar) ve Hayır
+6.20
+2. Yarı Toplam Gol Aralığı
+0-1
+1.97
+2-3
+1.91
+4 ila 6
+5.40
+7 veya Daha fazla
+29.00
+2.Yarı Juventus (Kadınlar) Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.69
+2.27
+12.00
+2.Yarı Oud-Heverlee Leuven (Kadınlar) Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.04
+6.20
+351.00
+2. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.65
+1-3
+1.30
+1-4
+1.18
+2-3
+1.92
+2-4
+1.74
+3-4
+3.33
+Herhangi Diğer
+4.20
+2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.60
+1-3
+1.32
+1-4
+1.25
+2-3
+2.33
+2-4
+2.10
+3-4
+4.70
+Herhangi Diğer
+3.47
+2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)
+1-2
+2.67
+1-3
+2.62
+1-4
+2.61
+2-3
+12.00
+2-4
+12.00
+3-4
+71.00
+Herhangi Diğer
+1.41
+2.Yarı Toplam Gol (Kesin)
+0
+5.10
+1
+2.68
+2
+3.20
+3
+4.00
+4+
+5.85
+2.Yarı Juventus (Kadınlar) Toplam Gol (Kesin)
+0
+1
+2+
+3.83
+2.62
+2.04
+2.Yarı Oud-Heverlee Leuven (Kadınlar) Toplam Gol (Kesin)
+0
+1
+2+
+1.41
+3.04
+12.00
+2. Yarı Juventus (Kadınlar) Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+3.00
+1.34
+2
+4.05
+1.20
+3
+6.90
+1.07
+2. Yarı Oud-Heverlee Leuven (Kadınlar) Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+7.50
+1.055
+2.Yarı Juventus (Kadınlar) Sıfıra karşı Kazanır
+Evet
+Hayır
+1.78
+1.92
+2.Yarı Oud-Heverlee Leuven (Kadınlar) Sıfıra karşı Kazanır
+Evet
+Hayır
+8.20
+1.045
+2. Yarı -İlk Golü Atacak Takım
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+Gol yok
+1.39
+4.70
+5.70
+2. Yarı Son Golü Atacak Takım
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+Gol yok
+1.39
+4.70
+5.70
+2. Yarı Doğru Skor
+1-0
+3.69
+0-0
+5.10
+0-1
+11.00
+2-0
+4.80
+1-1
+7.90
+0-2
+46.00
+2-1
+10.00
+2-2
+41.00
+1-2
+31.00
+3-0
+8.90
+3-3
+301.00
+0-3
+251.00
+3-1
+19.00
+1-3
+176.00
+3-2
+76.00
+2-3
+226.00
+1. Yarı/2. Yarı Karşılıklı Gol
+Evet/Evet
+10.00
+Hayır/Evet
+3.47
+Evet/Hayır
+4.40
+Hayır/Hayır
+1.50
+1. Yarı veya Maç Sonucu
+Juventus (Kadınlar)
+X
+Oud-Heverlee Leuven (Kadınlar)
+1.16
+2.70
+6.00
+İlk Yarı/Maç Sonucu
+Juventus (Kadınlar)/Juventus (Kadınlar)
+1.54
+Beraberlik/Juventus (Kadınlar)
+4.30
+Oud-Heverlee Leuven (Kadınlar)/Juventus (Kadınlar)
+17.00
+Juventus (Kadınlar)/Beraberlik
+21.00
+Beraberlik/Beraberlik
+9.30
+Oud-Heverlee Leuven (Kadınlar)/Beraberlik
+19.00
+Juventus (Kadınlar)/Oud-Heverlee Leuven (Kadınlar)
+76.00
+Beraberlik/Oud-Heverlee Leuven (Kadınlar)
+21.00
+Oud-Heverlee Leuven (Kadınlar)/Oud-Heverlee Leuven (Kadınlar)
+14.00
+1.Yarı/2.Yarı Sonucu
+Juventus (Kadınlar)/Juventus (Kadınlar)
+1.84
+Juventus (Kadınlar)/Beraberlik
+3.61
+Juventus (Kadınlar)/Oud-Heverlee Leuven (Kadınlar)
+7.10
+Beraberlik/Juventus (Kadınlar)
+3.29
+Beraberlik/Beraberlik
+6.40
+Beraberlik/Oud-Heverlee Leuven (Kadınlar)
+13.00
+Oud-Heverlee Leuven (Kadınlar)/Juventus (Kadınlar)
+6.40
+Oud-Heverlee Leuven (Kadınlar)/Beraberlik
+13.00
+Oud-Heverlee Leuven (Kadınlar)/Oud-Heverlee Leuven (Kadınlar)
+25.00
+En Çok Gol Atılan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.62
+4.00
+2.08
+En Çok Gol Atılan Yarı : Çifte Şans
+1. Yarı veya Beraberlik
+1. veya 2.
+2. Yarı veya Beraberlik
+1.65
+1.22
+1.43
+Juventus (Kadınlar) : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+2.79
+3.30
+2.23
+Oud-Heverlee Leuven (Kadınlar) : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+4.10
+1.74
+3.45
+Kornerler : Sonuç
+Juventus (Kadınlar)
+X
+Oud-Heverlee Leuven (Kadınlar)
+1.29
+7.60
+4.70
+Kornerler : Toplam
+Üst
+Alt
+7.5
+1.33
+2.75
+8
+1.40
+2.50
+8.5
+1.57
+2.08
+9
+1.84
+1.86
+9.5
+1.95
+1.65
+10
+2.35
+1.45
+10.5
+2.55
+1.38
+11
+3.15
+1.25
+Toplam Korner : Juventus (Kadınlar)
+Üst
+Alt
+5
+1.35
+2.65
+5.5
+1.57
+2.08
+6
+1.80
+1.80
+6.5
+2.08
+1.57
+7
+2.55
+1.38
+Toplam Korner : Oud-Heverlee Leuven (Kadınlar)
+Üst
+Alt
+2
+1.22
+3.35
+2.5
+1.52
+2.18
+3
+1.85
+1.75
+3.5
+2.30
+1.47
+4
+3.35
+1.22
+Kornerler: Handikap
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+-5
+3.35
++5
+1.22
+-4.5
+2.65
++4.5
+1.35
+-4
+2.45
++4
+1.42
+-3.5
+2.00
++3.5
+1.62
+-3
+1.78
++3
+1.82
+-2.5
+1.60
++2.5
+2.04
+-2
+1.40
++2
+2.50
+-1.5
+1.33
++1.5
+2.75
+Kornerler : Toplam (3-İhtimalli)
+Üst
+Kesin
+Alt
+11
+3.55
+7.90
+1.38
+10
+2.55
+6.90
+1.65
+9
+1.95
+6.50
+2.08
+8
+1.57
+6.60
+2.75
+7
+1.33
+7.30
+4.40
+Kornerler : Toplam (Aralık)
+5 veya daha az
+7.30
+6 - 8
+2.61
+9 - 11
+2.38
+12 - 14
+4.33
+15 veya daha fazla
+10.00
+Kornerler: Tek/Çift
+Çift
+Tek
+1.80
+1.80
+Korner Yarışı
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+Hiç Kimse
+9
+3.82
+9
+31.00
+9
+1.21
+7
+2.16
+7
+11.00
+7
+1.77
+5
+1.48
+5
+4.85
+5
+4.20
+3
+1.27
+3
+3.37
+3
+29.00
+Kornerler: 1. Yarı Sonucu
+Juventus (Kadınlar)
+X
+Oud-Heverlee Leuven (Kadınlar)
+1.45
+4.85
+4.20
+Kornerler: 1. Yarı Toplam
+Üst
+Alt
+3.5
+1.52
+2.37
+4
+1.72
+2.00
+4.5
+2.01
+1.71
+5.5
+2.65
+1.35
+Kornerler: 1. Yarı Juventus (Kadınlar) Toplam
+Üst
+Alt
+2.5
+1.63
+2.13
+Kornerler: 1.Yarı Oud-Heverlee Leuven (Kadınlar) Toplam
+Üst
+Alt
+1.5
+1.87
+1.72
+Toplam Korner : 2.Yarı
+Üst
+Alt
+3.5
+1.32
+2.85
+4.5
+1.77
+1.89
+5.5
+2.45
+1.42
+Kornerler : İlk Korner
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+1.40
+2.70
+Kornerler : Son Korner
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+1.44
+2.59
+Kartlar: Puan : Sonuç
+Juventus (Kadınlar)
+X
+Oud-Heverlee Leuven (Kadınlar)
+5.00
+3.07
+1.66
+Kartlar: Puan Handikapı
+Juventus (Wom)
+Oud-Heverlee Leuven (Wom)
++0.5
+1.93
+-0.5
+1.67
+Kartlar: Toplam Puan
+Üst
+Alt
+2.5
+1.95
+1.65
+Kartlar: Juventus (Kadınlar) : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.57
+2.08
+Kartlar: Oud-Heverlee Leuven (Kadınlar) : Toplam Kart Puanı
+Üst
+Alt
+1.5
+1.85
+1.75
+Kartlar: 1.Yarı : Toplam Kart Puanı
+Üst
+Alt
+0.5
+1.65
+1.95
+En Fazla Korner Olan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.57
+7.40
+1.71
+Her İki Takım da Kart Alır
+Evet
+Hayır
+1.87
+1.83
+Her iki takım da 2 veya daha fazla kart görür
+Evet
+Hayır
+5.35
+1.12
+Her iki takım da her iki yarıda kart alır
+Evet
+9.30
+İlk Kartı Görecek Takım
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+No Card
+2.77
+1.61
+7.20
+Son Kartı Görecek Takım
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+No Card
+2.77
+1.61
+7.20
+Sarı Kartlar: Sonuç
+Juventus (Kadınlar)
+X
+Oud-Heverlee Leuven (Kadınlar)
+2.58
+3.19
+2.22
+Sarı Kartlar: Çifte Şans
+1X
+12
+X2
+1.50
+1.28
+1.40
+Sarı Kartlar: Handikap
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+-0.5
+2.50
++0.5
+1.40
+0
+1.93
+0
+1.67
++0.5
+1.50
+-0.5
+2.22
+Sarı Kartlar: Toplam
+Üst
+Alt
+2
+1.47
+2.30
+2.5
+1.93
+1.67
+3
+2.65
+1.35
+Sarı Kartlar: Juventus (Kadınlar) : Toplam
+Üst
+Alt
+1
+1.72
+1.87
+Sarı Kartlar: Oud-Heverlee Leuven (Kadınlar) : Toplam
+Üst
+Alt
+1
+1.55
+2.12
+1.5
+2.30
+1.47
+Sarı Kartlar: İlk Sarı Kartı Görür
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+1.93
+1.77
+Sarı Kartlar: Son Sarı Kartı Görür
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+1.93
+1.77
+Maçta Penaltı Olur
+Evet
+Hayır
+2.95
+1.35
+İki Takım da Penaltı Kazanır
+Evet
+21.00
+Maçta İki Penaltı Olur
+Evet
+4.70
+1. . Yarı : Penaltı
+Evet
+Hayır
+4.90
+1.14
+Penaltıdan Gol Atar
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+4.90
+9.80
+Penaltı Kaçırır
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+14.00
+29.00
+Maçta Kırmzı Kartlar
+YENİ
+1+
+2+
+6.40
+17.00
+Juventus (Kadınlar) Kırmızı Kartlar
+YENİ
+1+
+2+
+17.00
+41.00
+Oud-Heverlee Leuven (Kadınlar) Kırmızı Kartlar
+YENİ
+1+
+2+
+9.80
+23.00
+Penaltı ve Kırmızı Kart
+Evet
+Hayır
+10.30
+1.017
+Maçta kendi kalesine gol atılır
+Evet
+Hayır
+8.50
+1.04
+Herhangi Bir Zamanda Gol Atar
+Alba Redondo
+1.49
+Amaiur Sarriegi
+1.95
+Remina Chiba
+2.11
+Matilde Pavan
+2.25
+Tatiana Pinto
+2.80
+Jada Conijnenberg
+2.85
+Annamaria Serturini
+3.00
+Ornella Graziani
+3.20
+Julia Bartel
+3.30
+Lea Khelifi
+3.95
+Danique Noordman
+4.10
+Estela Carbonell
+4.85
+Daha Fazla Seçeneği Göster
+İlk Golcü
+Alba Redondo
+3.35
+Amaiur Sarriegi
+5.20
+Remina Chiba
+5.40
+Matilde Pavan
+6.20
+Tatiana Pinto
+8.20
+Annamaria Serturini
+8.60
+Jada Conijnenberg
+8.70
+Ornella Graziani
+9.60
+Julia Bartel
+9.80
+Danique Noordman
+11.00
+Lea Khelifi
+11.00
+Estela Carbonell
+14.00
+Daha Fazla Seçeneği Göster
+Son Golcü
+Alba Redondo
+3.35
+Amaiur Sarriegi
+5.20
+Remina Chiba
+5.40
+Matilde Pavan
+6.20
+Annamaria Serturini
+7.90
+Tatiana Pinto
+8.60
+Jada Conijnenberg
+8.70
+Lea Khelifi
+9.50
+Ornella Graziani
+9.60
+Danique Noordman
+11.00
+Julia Bartel
+12.00
+Estela Carbonell
+14.00
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 2 Gol Atar
+Alba Redondo
+2.85
+Amaiur Sarriegi
+6.00
+Remina Chiba
+6.30
+Matilde Pavan
+8.20
+Jada Conijnenberg
+12.00
+Tatiana Pinto
+13.00
+Annamaria Serturini
+15.00
+Ornella Graziani
+17.00
+Julia Bartel
+19.00
+Lea Khelifi
+21.00
+Danique Noordman
+26.00
+Eva Schatzer
+26.00
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 3 Gol Atar
+Alba Redondo
+7.80
+Amaiur Sarriegi
+19.00
+Remina Chiba
+25.00
+Jada Conijnenberg
+36.00
+Matilde Pavan
+36.00
+Tatiana Pinto
+51.00
+Annamaria Serturini
+56.00
+Lea Khelifi
+61.00
+Ornella Graziani
+61.00
+Julia Bartel
+86.00
+Estela Carbonell
+91.00
+Kysha Sylla
+91.00
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar Çifte Şans
+Alba Redondo or Amaiur Sarriegi
+1.19
+Alba Redondo or Remina Chiba
+1.21
+Alba Redondo or Matilde Pavan
+1.23
+Alba Redondo or Jada Conijnenberg
+1.27
+Alba Redondo or Tatiana Pinto
+1.28
+Emma Godo or Alba Redondo
+1.28
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar. Üçlü Şans
+Alba Redondo or Remina Chiba or Amaiur Sarriegi
+1.09
+Alba Redondo or Amaiur Sarriegi or Matilde Pavan
+1.10
+Alba Redondo or Remina Chiba or Matilde Pavan
+1.11
+Alba Redondo or Jada Conijnenberg or Amaiur Sarriegi
+1.12
+Alba Redondo or Tatiana Pinto or Amaiur Sarriegi
+1.12
+Emma Godo or Alba Redondo or Amaiur Sarriegi
+1.12
+Daha Fazla Seçeneği Göster
+Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar
+Alba Redondo and Amaiur Sarriegi
+2.95
+Alba Redondo ve Remina Chiba
+3.08
+Alba Redondo and Matilde Pavan
+3.38
+Remina Chiba and Amaiur Sarriegi
+4.10
+Alba Redondo and Jada Conijnenberg
+4.20
+Alba Redondo and Tatiana Pinto
+4.40
+Daha Fazla Seçeneği Göster
+Üç Oyuncu da Herhangi Bir Zamanda Gol Atar
+Alba Redondo and Remina Chiba and Amaiur Sarriegi
+6.20
+Alba Redondo and Amaiur Sarriegi and Matilde Pavan
+6.70
+Alba Redondo and Remina Chiba and Matilde Pavan
+7.00
+Alba Redondo and Jada Conijnenberg and Amaiur Sarriegi
+8.40
+Alba Redondo and Tatiana Pinto and Amaiur Sarriegi
+8.70
+Alba Redondo and Jada Conijnenberg and Remina Chiba
+8.80
+Daha Fazla Seçeneği Göster
+Oyuncu 1. Yarıda Gol Atar
+Alba Redondo
+2.29
+Amaiur Sarriegi
+3.30
+Remina Chiba
+3.60
+Matilde Pavan
+3.90
+Tatiana Pinto
+4.90
+Jada Conijnenberg
+5.00
+Annamaria Serturini
+5.50
+Ornella Graziani
+5.80
+Julia Bartel
+6.00
+Lea Khelifi
+7.50
+Danique Noordman
+7.50
+Estela Carbonell
+8.80
+Kysha Sylla
+8.90
+Eva Schatzer
+9.10
+Cristina Libran
+9.50
+Ioanna Papatheodorou
+10.00
+Isabella Dekker
+11.00
+Lily Hoekx
+11.00
+Manaka Hayashi
+11.00
+Manon Heremans
+11.00
+Cecilia Salvai
+11.00
+Camille Lafaix
+12.00
+Jeslynn Kuijpers
+13.00
+Martina Rosucci
+14.00
+Martina Lenzini
+15.00
+Alixe Bosteels
+19.00
+Nel Neyrinck
+19.00
+Julie Biesmans
+21.00
+Flo Hermans
+25.00
+Lili Verstrepen
+26.00
+Kim Everaerts
+29.00
+Kimberley Smit
+31.00
+Agathe Ollivier
+31.00
+Virag Nagy
+31.00
+Sterre Gielen
+34.00
+Saar Janssen
+36.00
+Amelie Van Holderbek
+41.00
+Oyuncu 2. Yarıda Gol Atar
+Alba Redondo
+1.99
+Amaiur Sarriegi
+2.65
+Remina Chiba
+2.90
+Matilde Pavan
+3.10
+Tatiana Pinto
+4.00
+Jada Conijnenberg
+4.10
+Annamaria Serturini
+4.30
+Ornella Graziani
+4.60
+Julia Bartel
+4.80
+Lea Khelifi
+5.50
+Danique Noordman
+5.90
+Cristina Libran
+6.90
+Estela Carbonell
+7.10
+Kysha Sylla
+7.20
+Eva Schatzer
+7.30
+Manaka Hayashi
+8.40
+Ioanna Papatheodorou
+8.40
+Isabella Dekker
+9.00
+Lily Hoekx
+9.10
+Manon Heremans
+9.10
+Cecilia Salvai
+9.10
+Camille Lafaix
+10.00
+Jeslynn Kuijpers
+11.00
+Martina Rosucci
+11.00
+Martina Lenzini
+12.00
+Alixe Bosteels
+15.00
+Nel Neyrinck
+17.00
+Julie Biesmans
+17.00
+Flo Hermans
+21.00
+Lili Verstrepen
+23.00
+Kim Everaerts
+25.00
+Virag Nagy
+26.00
+Kimberley Smit
+26.00
+Agathe Ollivier
+26.00
+Sterre Gielen
+29.00
+Saar Janssen
+31.00
+Amelie Van Holderbek
+36.00
+Oyuncu Her İki Yarıda da Gol Atar
+Alba Redondo
+4.00
+Amaiur Sarriegi
+7.20
+Remina Chiba
+8.40
+Matilde Pavan
+9.50
+Tatiana Pinto
+14.00
+Jada Conijnenberg
+14.00
+Annamaria Serturini
+17.00
+Ornella Graziani
+19.00
+Julia Bartel
+19.00
+Lea Khelifi
+26.00
+Danique Noordman
+26.00
+Estela Carbonell
+34.00
+Kysha Sylla
+36.00
+Eva Schatzer
+36.00
+Cristina Libran
+36.00
+Ioanna Papatheodorou
+41.00
+Manon Heremans
+46.00
+Juventus (Kadınlar) : İlk Golü Atar
+Alba Redondo
+2.72
+Amaiur Sarriegi
+3.40
+Ana Capeta
+3.60
+Remina Chiba
+4.00
+Annamaria Serturini
+5.30
+Tatiana Pinto
+5.40
+Matilde Pavan
+5.50
+Lea Khelifi
+5.60
+Danique Noordman
+6.50
+Emma Godo
+7.50
+Kysha Sylla
+7.70
+Cris Libran
+8.30
+Daha Fazla Seçeneği Göster
+Oud-Heverlee Leuven (Kadınlar) : İlk Golü Atar
+Jada Conijnenberg
+4.30
+Jada Conjnenberg
+4.75
+Isabella Dekker
+4.90
+Linnea Viola Stromberg
+5.00
+Jeslynn Kuijpers
+6.00
+Kadhiya De Ceuster
+6.00
+Anouk Van Praet
+6.00
+Manon Heremans
+6.20
+Lily Hoekx
+6.50
+Anna Corneillie
+6.50
+Manon van Raay
+7.00
+Ioanna Papatheodorou
+7.30
+Daha Fazla Seçeneği Göster
+Juventus (Kadınlar) : Son Golcü
+Alba Redondo
+2.63
+Amaiur Sarriegi
+3.25
+Remina Chiba
+3.60
+Ana Capeta
+3.60
+Tatiana Pinto
+5.00
+Annamaria Serturini
+5.00
+Lea Khelifi
+5.00
+Matilde Pavan
+6.50
+Danique Noordman
+6.50
+Emma Godo
+7.50
+Kysha Sylla
+7.50
+Eva Schatzer
+7.50
+Daha Fazla Seçeneği Göster
+Oud-Heverlee Leuven (Kadınlar) : Son Golü Atar
+Jada Conjnenberg
+4.75
+Isabella Dekker
+5.00
+Linnea Viola Stromberg
+5.00
+Jeslynn Kuijpers
+6.00
+Ioanna Papatheodorou
+6.00
+Anouk Van Praet
+6.00
+Manon Heremans
+6.00
+Kadhiya De Ceuster
+6.00
+Lily Hoekx
+7.00
+Manon van Raay
+7.00
+Lili Verstrepen
+8.50
+Camille Lafaix
+8.50
+Daha Fazla Seçeneği Göster
+Oyuncu Kart Görür
+Lili Verstrepen
+3.15
+Nel Neyrinck
+3.20
+Amelie Van Holderbek
+3.50
+Lily Hoekx
+3.80
+Camille Lafaix
+4.10
+Agathe Ollivier
+4.10
+Sterre Gielen
+4.40
+Virag Nagy
+4.50
+Manon Heremans
+4.50
+Kimberley Smit
+4.70
+Lea Khelifi
+4.90
+Cristina Libran
+5.00
+Daha Fazla Seçeneği Göster
+Oyuncu Sarı Kart Görür
+Lili Verstrepen
+3.25
+Nel Neyrinck
+3.35
+Amelie Van Holderbek
+3.65
+Lily Hoekx
+4.00
+Agathe Ollivier
+4.20
+Camille Lafaix
+4.30
+Sterre Gielen
+4.60
+Virag Nagy
+4.70
+Manon Heremans
+4.75
+Kimberley Smit
+4.80
+Cristina Libran
+5.00
+Lea Khelifi
+5.00
+Matilde Pavan
+5.10
+Ornella Graziani
+5.10
+Martina Rosucci
+5.60
+Kim Everaerts
+5.60
+Annamaria Serturini
+5.60
+Ioanna Papatheodorou
+5.70
+Saar Janssen
+5.80
+Flo Hermans
+5.80
+Manaka Hayashi
+6.00
+Remina Chiba
+6.00
+Isabella Dekker
+6.20
+Amaiur Sarriegi
+6.30
+Alixe Bosteels
+6.30
+Jeslynn Kuijpers
+6.30
+Julie Biesmans
+6.80
+Kysha Sylla
+7.00
+Julia Bartel
+7.00
+Danique Noordman
+7.30
+Tatiana Pinto
+7.40
+Juliette Demol
+7.60
+Faye Lammertijn
+7.60
+Cecilia Salvai
+8.00
+Alba Redondo
+8.50
+Martina Lenzini
+8.70
+Eva Schatzer
+8.90
+Jada Conijnenberg
+9.00
+Estela Carbonell
+9.50
+Lowiese Seynhaeve
+11.00
+Anna Mallardi
+21.00
+Danielle de Jong
+21.00
+Larissa Rusek
+21.00
+Kart Görecek İlk Oyuncu
+Lili Verstrepen
+7.70
+Nel Neyrinck
+7.80
+Amelie Van Holderbek
+8.70
+Lily Hoekx
+9.50
+Agathe Ollivier
+10.00
+Camille Lafaix
+10.00
+Sterre Gielen
+11.00
+Manon Heremans
+12.00
+Virag Nagy
+12.00
+Kimberley Smit
+12.00
+Cristina Libran
+13.00
+Matilde Pavan
+13.00
+Daha Fazla Seçeneği Göster
+Son Kartı Görecek Oyuncu
+YENİ
+Lili Verstrepen
+7.70
+Nel Neyrinck
+7.80
+Amelie Van Holderbek
+8.70
+Lily Hoekx
+9.50
+Camille Lafaix
+10.00
+Agathe Ollivier
+10.00
+Sterre Gielen
+11.00
+Manon Heremans
+12.00
+Kimberley Smit
+12.00
+Virag Nagy
+12.00
+Ornella Graziani
+13.00
+Cristina Libran
+13.00
+Matilde Pavan
+13.00
+Lea Khelifi
+13.00
+Martina Rosucci
+14.00
+Annamaria Serturini
+14.00
+Saar Janssen
+14.00
+Kim Everaerts
+14.00
+Ioanna Papatheodorou
+14.00
+Remina Chiba
+15.00
+Isabella Dekker
+15.00
+Manaka Hayashi
+15.00
+Flo Hermans
+15.00
+Alixe Bosteels
+17.00
+Jeslynn Kuijpers
+17.00
+Amaiur Sarriegi
+17.00
+Julie Biesmans
+17.00
+Kysha Sylla
+19.00
+Julia Bartel
+19.00
+Danique Noordman
+19.00
+Faye Lammertijn
+19.00
+Tatiana Pinto
+19.00
+Juliette Demol
+19.00
+Cecilia Salvai
+21.00
+Jada Conijnenberg
+23.00
+Alba Redondo
+23.00
+Martina Lenzini
+23.00
+Eva Schatzer
+23.00
+Estela Carbonell
+25.00
+Lowiese Seynhaeve
+26.00
+Anna Mallardi
+36.00
+Larissa Rusek
+36.00
+Danielle de Jong
+36.00
+Oyundan Uzaklaştırılır
+YENİ
+Nel Neyrinck
+21.00
+Lily Hoekx
+21.00
+Manon Heremans
+25.00
+Camille Lafaix
+29.00
+Amelie Van Holderbek
+29.00
+Lili Verstrepen
+29.00
+Ioanna Papatheodorou
+29.00
+Virag Nagy
+31.00
+Isabella Dekker
+31.00
+Sterre Gielen
+31.00
+Agathe Ollivier
+34.00
+Kimberley Smit
+36.00
+Daha Fazla Seçeneği Göster
+Juventus (Kadınlar) : Her İki Yarıda Gol Atar
+Evet
+Hayır
+1.64
+2.12
+Oud-Heverlee Leuven (Kadınlar) Her İki Yarıda Gol Atar
+Evet
+Hayır
+6.90
+1.07
+Juventus (Kadınlar) : Her İki Yarıda Kazanır
+Evet
+Hayır
+2.23
+1.58
+Juventus (Kadınlar) : İlk Yarıda Gol Atar
+Evet
+Hayır
+1.30
+3.20
+Oud-Heverlee Leuven (Kadınlar) İlk Yarıda Gol Atar
+Evet
+Hayır
+3.00
+1.34
+Juventus (Kadınlar) : İkinci Yarıda Gol Atar
+Evet
+Hayır
+1.22
+3.83
+Oud-Heverlee Leuven (Kadınlar) İkinci Yarıda Gol Atar
+Evet
+Hayır
+2.68
+1.41
+İlk Yarıda Gol
+Evet
+Hayır
+1.17
+4.42
+İkinci Yarıda Gol
+Evet
+Hayır
+1.13
+5.10
+Her İki Yarııda da 1.5 Üst Gol
+Evet
+Hayır
+3.05
+1.33
+Her İki Yarı Goller 1.5 Alt
+Evet
+Hayır
+3.90
+1.21
+Juventus (Kadınlar) Gol Yemeden Kazanır
+Evet
+Hayır
+2.07
+1.67
+Oud-Heverlee Leuven (Kadınlar) Gol Yemeden Kazanır
+Evet
+Hayır
+10.90
+1.011
+Juventus (Kadınlar) İki veya Üç Gol Farkla Kazanır
+Evet
+Hayır
+2.27
+1.56
+Juventus (Kadınlar) Bir Gol Farkla Kazanır veya Berabere
+Evet
+Hayır
+2.80
+1.38
+Oud-Heverlee Leuven (Kadınlar) Bir Gol Farkla Kazanır veya Berabere Kalır
+Evet
+Hayır
+4.75
+1.15
+Juventus (Kadınlar) En Az Bir Yarıyı Kazanır
+Evet
+Hayır
+1.11
+5.55
+Oud-Heverlee Leuven (Kadınlar) En Az Bir Yarıda Kazanır
+Evet
+Hayır
+4.30
+1.18
+Juventus (Kadınlar) İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+10.80
+1.012
+Oud-Heverlee Leuven (Kadınlar) İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+8.50
+1.04
+Juventus (Kadınlar) : Gol Atar 1.Yarı/2.Yarı
+Evet/Hayır
+4.20
+Evet/Evet
+1.54
+Hayır/Hayır
+9.50
+Hayır/Evet
+3.39
+Oud-Heverlee Leuven (Kadınlar) Gol Atar İlk Yarı/İkinci Yarı
+Evet/Hayır
+3.67
+Evet/Evet
+6.40
+Hayır/Hayır
+1.92
+Hayır/Evet
+3.53
+Yarıları Farklı Takımlar Kazanır
+Evet
+Hayır
+5.85
+1.10
+Yarılardan En Az Birinde Beraberlik
+Evet
+Hayır
+2.00
+1.72
+Maç Skoru Beraberlik (0-0 hariç)
+Evet
+Hayır
+7.30
+1.06
+Kesin Gol Sayısı
+Gol Yok
+23.00
+Kesin 1
+7.70
+Kesin 2
+4.57
+Kesin 3
+3.84
+Kesin 4
+4.20
+Kesin 5
+5.50
+Kesin 6 veya Fazla
+4.90
+Maçta 1 Gol Olur
+Evet
+Hayır
+6.90
+1.07
+Maçta 2 Gol Olur
+Evet
+Hayır
+4.57
+1.16
+Maçta 3 Gol Olur
+Evet
+Hayır
+3.90
+1.21
+Maçta 4 Gol Olur
+Evet
+Hayır
+4.30
+1.18
+Juventus (Kadınlar) : Kazanma Marjı
+1
+3.83
+2
+3.50
+3
+4.33
+4+
+3.61
+Oud-Heverlee Leuven (Kadınlar) : Kazanma Marjı
+1
+12.00
+2
+29.00
+3
+111.00
+4+
+251.00
+Skor Kombinasyonları
+1-0 / 2-0 / 3-0
+2.62
+4-0 / 5-0 / 6-0
+4.85
+2-1 / 3-1 / 4-1
+3.23
+3-2 / 4-2 / 4-3
+6.50
+0-1 / 0-2 / 0-3
+15.00
+0-4 / 0-5 / 0-6
+251.00
+1-2 / 1-3 / 1-4
+17.00
+2-3 / 2-4 / 3-4
+34.00
+İlk 10 Dakika (00:00 - 09:59) Köşe vuruşu
+Üst
+Alt
+0.5
+1.52
+2.37
+1.5
+3.40
+1.27
+Juventus (Kadınlar) : İlk 10 Dakika (00:00 – 09:59) Kornerler
+Üst
+Alt
+0.5
+1.90
+1.80
+1.5
+5.10
+1.13
+Oud-Heverlee Leuven (Kadınlar) : İlk 10 Dakika (00:00 – 09:59) Kornerler
+Üst
+Alt
+0.5
+3.15
+1.31
+1.5
+9.00
+1.03
+1-15 Dk. Galibi
+Juventus (Kadınlar)
+X
+Oud-Heverlee Leuven (Kadınlar)
+3.34
+1.38
+13.00
+1-15 Dk. Gol Handikapı
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+0
+1.19
+0
+4.15
+1-15 Dk. Toplam Goller
+Üst
+Alt
+0.5
+2.30
+1.55
+1
+5.85
+1.10
+1-15 Dk. Juventus (Kadınlar) Toplam Goller
+Üst
+Alt
+0.5
+2.70
+1.40
+1
+7.85
+1.05
+1-15 Dk. Oud-Heverlee Leuven (Kadınlar) Toplam Goller
+Üst
+Alt
+0.5
+6.70
+1.075
+1-15 Dk. İki Takım Gol Atar
+Evet
+Hayır
+10.90
+1.011
+1-30 Dk. Galibi
+Juventus (Kadınlar)
+X
+Oud-Heverlee Leuven (Kadınlar)
+1.99
+2.02
+9.70
+1-30 Dk. Gol Handikapı
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+-1
+3.57
++1
+1.25
+1-30 Dk. Toplam Goller
+Üst
+Alt
+0.5
+1.46
+2.52
+1
+2.07
+1.67
+1-30 Dk. Juventus (Kadınlar) Toplam Goller
+Üst
+Alt
+0.5
+1.68
+2.05
+1
+2.85
+1.37
+1-30 Dk. Oud-Heverlee Leuven (Kadınlar) Toplam Goller
+Üst
+Alt
+0.5
+4.05
+1.20
+1-30 Dk. Karşılıklı Gol
+Evet
+Hayır
+6.30
+1.085
+1-60 Dk. Galibi
+Juventus (Kadınlar)
+X
+Oud-Heverlee Leuven (Kadınlar)
+1.38
+3.77
+8.90
+1-60 Dk. Gol Handikapı
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+-1
+1.64
++1
+2.12
+1-60 Dk. Toplam Goller
+Üst
+Alt
+2
+1.68
+2.05
+2.5
+2.23
+1.58
+1-60 Dk. Juventus (Kadınlar) Toplam Goller
+Üst
+Alt
+1.5
+1.71
+2.01
+2
+2.39
+1.51
+1-60 Dk. Oud-Heverlee Leuven (Kadınlar) Toplam Goller
+Üst
+Alt
+0.5
+2.30
+1.55
+1
+5.55
+1.11
+1-60 Dk. Karşılıklı Gol
+Evet
+Hayır
+2.68
+1.41
+1-75 Dk. Galibi
+Juventus (Kadınlar)
+X
+Oud-Heverlee Leuven (Kadınlar)
+1.27
+4.80
+9.60
+1-75 Dk. Gol Handikapı
+Juventus (Kadınlar)
+Oud-Heverlee Leuven (Kadınlar)
+-1.5
+1.77
++1.5
+1.93
+1-75 Dk. Toplam Goller
+Üst
+Alt
+2.5
+1.62
+2.15
+3
+2.01
+1.71
+1-75 Dk. Juventus (Kadınlar) Toplam Goller
+Üst
+Alt
+2
+1.63
+2.13
+2.5
+2.15
+1.62
+1-75 Dk. Oud-Heverlee Leuven (Kadınlar) Toplam Goller
+Üst
+Alt
+0.5
+1.92
+1.78
+1
+3.90
+1.21
+1-75 Dk. Karşılıklı Gol
+Evet
+Hayır
+2.10
+1.65
+Farklı Kombineler
+Juventus (Kadınlar) Kazanır veya Üst (2.5) Gol
+1.08
+Beraberlik veya Üst 2.5 Gol
+1.20
+Oud-Heverlee Leuven (Kadınlar) Kazanır veya 2.5 Üst Gol
+1.26
+Juventus (Kadınlar) Kazanır veya Alt (2.5) Gol
+1.05
+Beraberlik veya Alt 2.5 Gol
+2.33
+Oud-Heverlee Leuven (Kadınlar) kazanır veya 2,5 alt gol
+2.30
+Daha Fazla Seçeneği Göster
+Çifte Şans Kombo
+1X ve Üst (2.5) Gol
+1.37
+1X ve Alt (2.5) Gol
+2.77
+X2 ve Üst (2.5) Gol
+7.40
+X2 ve Alt (2.5) Gol
+5.70
+12 ve Üst (2.5) Gol
+1.36
+12 ve Alt (2.5) Gol
+3.29
+1X ve Karşılıklı Gol Olur
+1.86
+Juventus (Kadınlar) 0'a karşı kazanır veya Doğru Skor 0-0
+1.77
+X2 ve Karşılıklı Gol Olur
+5.00
+Oud-Heverlee Leuven (Kadınlar) 0'a karşı kazanır veya Doğru Skor 0 : 0
+9.50
+12 ve Karşılıklı Gol Olur
+2.05
+Juventus (Kadınlar) veya Oud-Heverlee Leuven (Kadınlar) - Gol Yemeden Kazanır
+1.75
+Daha Fazla Seçeneği Göster
+1.Yarı/Maç Skoru
+0-0/0-0
+19.00
+0-1/0-1
+41.00
+0-2/0-2
+201.00
+0-3/0-3
+301.00
+0-4/0-4
+301.00
+1-0/1-0
+15.00
+1-1/1-1
+41.00
+1-2/1-2
+141.00
+1-3/1-3
+301.00
+1-4/1-4
+301.00
+2-0/2-0
+21.00
+2-1/2-1
+56.00
+2-2/2-2
+251.00
+2-3/2-3
+301.00
+2-4/2-4
+301.00
+3-0/3-0
+41.00
+3-1/3-1
+101.00
+3-2/3-2
+301.00
+Daha Fazla Seçeneği Göster
+Karşılıklı Gol ve Toplam Goller 2.5
+Evet ve Üst 2.5
+2.03
+Evet ve Alt 2.5
+15.00
+Hayır ve Üst 2.5
+3.47
+Hayır ve Alt 2.5
+3.47
+Karşılıklı Gol ve Toplam Goller 3.5
+Evet ve Üst 3.5
+2.61
+Evet ve Alt 3.5
+5.30
+Hayır ve Üst 3.5
+5.70
+Hayır ve Alt 3.5
+2.57
+Her İki Yarıda da Karşılıklı Gol
+Evet
+Hayır
+11.50
+1.037
+İlk Golü Atacak Takım ve Maç Sonucu
+Juventus (Kadınlar) ve Juventus (Kadınlar)
+1.31
+Juventus (Kadınlar) ve Berabere
+14.00
+Juventus (Kadınlar) ve Oud-Heverlee Leuven (Kadınlar)
+36.00
+Oud-Heverlee Leuven (Kadınlar) ve Juventus (Kadınlar)
+7.00
+Oud-Heverlee Leuven (Kadınlar) ve Berabere
+14.00
+Oud-Heverlee Leuven (Kadınlar) ve Oud-Heverlee Leuven (Kadınlar)
+11.00
+Gol Yok
+26.00
+İlk Golü Atacak Takım ve 1. Yarı Sonucu
+Juventus (Kadınlar) ve Juventus (Kadınlar)
+1.54
+Juventus (Kadınlar) ve Berabere
+4.50
+Juventus (Kadınlar) ve Oud-Heverlee Leuven (Kadınlar)
+67.00
+Oud-Heverlee Leuven (Kadınlar) ve Juventus (Kadınlar)
+19.00
+Oud-Heverlee Leuven (Kadınlar) ve Berabere
+8.40
+Oud-Heverlee Leuven (Kadınlar) ve Oud-Heverlee Leuven (Kadınlar)
+6.90
+Gol Yok
+21.00
+İlk Golü Atacak Takım ve 2. Yarı Sonucu
+Juventus (Kadınlar) ve Juventus (Kadınlar)
+1.67
+Juventus (Kadınlar) ve Berabere
+4.40
+Juventus (Kadınlar) ve Oud-Heverlee Leuven (Kadınlar)
+10.00
+Oud-Heverlee Leuven (Kadınlar) ve Juventus (Kadınlar)
+6.00
+Oud-Heverlee Leuven (Kadınlar) ve Berabere
+12.00
+Oud-Heverlee Leuven (Kadınlar) ve Oud-Heverlee Leuven (Kadınlar)
+17.00
+Gol Yok
+21.00
+1.Yarı Toplam Gol 'e karşı 2. Yarı Toplam Gol Handikapı
+İlk Yarı Toplam Goller
+İkinci Yarı Toplam Goller
++1.5
+1.26
+-1.5
+3.47
++0.5
+1.66
+-0.5
+2.08
+-0.5
+2.62
++0.5
+1.44
+Juventus (Kadınlar) : Geriden Gelerek Kazanır
+Evet
+Hayır
+6.00
+1.095
+İlk Yarı/Maç Sonucu ve Toplam Gol
+Juventus (Kadınlar)/Juventus (Kadınlar) ve Üst (1.5)
+1.57
+Juventus (Kadınlar)/Juventus (Kadınlar) ve Alt (1.5)
+14.00
+Juventus (Kadınlar)/Beraberlik ve Üst (1.5)
+17.00
+Juventus (Kadınlar)/Oud-Heverlee Leuven (Kadınlar) ve Üst (1.5)
+67.00
+Beraberlik/Juventus (Kadınlar) ve Üst (1.5)
+4.80
+Beraberlik/Juventus (Kadınlar) ve Alt (1.5)
+13.00
+Beraberlik/Beraberlik ve Üst (1.5)
+13.00
+Beraberlik/Beraberlik ve Alt (1.5)
+21.00
+Beraberlik/Oud-Heverlee Leuven (Kadınlar) ve Üst (1.5)
+29.00
+Beraberlik/Oud-Heverlee Leuven (Kadınlar) ve Alt (1.5)
+36.00
+Oud-Heverlee Leuven (Kadınlar)/Juventus (Kadınlar) ve Üst (1.5)
+15.00
+Oud-Heverlee Leuven (Kadınlar)/Beraberlik ve Üst (1.5)
+17.00
+Daha Fazla Seçeneği Göster

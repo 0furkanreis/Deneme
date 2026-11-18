@@ -1,0 +1,9666 @@
+{
+ "mac": {
+  "organizasyon": "Brezilya Serie A, 35. hafta",
+  "tarih": "19 Kasım 2026, 03:30 TSİ",
+  "stadyum": "Arena do Grêmio, Porto Alegre",
+  "hakem": "Davi de Oliveira Lacerda (55 maç: 5,02 sarı, lig 4,79; 9 kırmızı; 9 penaltı)",
+  "ilk_yari_gol_payi": 0.44,
+  "korner_guven": "orta",
+  "kart_guven": "orta",
+  "var_ort": 0.35,
+  "not": "Korner: Grêmio 5,2 kazanır/8,2 verir; Bahia 6,4/9,2. Kart: Grêmio 1,6 (Bahia rakipleri 2,8), Bahia 2,2 (Grêmio rakipleri 1,4); hakem ×1,05. Grêmio'da Kannemann, Villasanti, Nardoni yok.",
+  "kalibrasyon": "Beklenen goller site oranlarından (takım gol çizgilerinin ortalaması)"
+ },
+ "ev": "Grêmio FB Porto Alegrense",
+ "dep": "EC Bahia",
+ "beklenen_gol": [
+  1.635,
+  1.535
+ ],
+ "simulasyon": 120000,
+ "pazarlar": [
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu",
+   "oneri": "1 (Grêmio FB Porto Alegrense)",
+   "olasilik": 0.4041,
+   "adil_oran": 2.47,
+   "en_olasi": "1 (Grêmio FB Porto Alegrense)",
+   "en_olasi_p": 0.4041,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Grêmio FB Porto Alegrense)",
+     0.4041
+    ],
+    [
+     "X",
+     0.2354
+    ],
+    [
+     "2 (EC Bahia)",
+     0.3606
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.7647,
+   "adil_oran": 1.31,
+   "en_olasi": "12",
+   "en_olasi_p": 0.7647,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.6394
+    ],
+    [
+     "12",
+     0.7647
+    ],
+    [
+     "X2",
+     0.5959
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Beraberlikte İade",
+   "oneri": "Grêmio FB Porto Alegrense",
+   "olasilik": 0.5284,
+   "adil_oran": 1.89,
+   "en_olasi": "Grêmio FB Porto Alegrense",
+   "en_olasi_p": 0.5284,
+   "guven": "yüksek",
+   "not_": "Beraberlikte iade; olasılık iade hariç",
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense",
+     0.5284
+    ],
+    [
+     "EC Bahia",
+     0.4716
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Grêmio FB Porto Alegrense : Bahis Yok",
+   "oneri": "EC Bahia",
+   "olasilik": 0.6051,
+   "adil_oran": 1.65,
+   "en_olasi": "EC Bahia",
+   "en_olasi_p": 0.6051,
+   "guven": "yüksek",
+   "not_": "Grêmio FB Porto Alegrense kazanırsa iade",
+   "secimler": [
+    [
+     "X",
+     0.3949
+    ],
+    [
+     "EC Bahia",
+     0.6051
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "EC Bahia : Bahis Yok",
+   "oneri": "Grêmio FB Porto Alegrense",
+   "olasilik": 0.6319,
+   "adil_oran": 1.58,
+   "en_olasi": "Grêmio FB Porto Alegrense",
+   "en_olasi_p": 0.6319,
+   "guven": "yüksek",
+   "not_": "EC Bahia kazanırsa iade",
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense",
+     0.6319
+    ],
+    [
+     "X",
+     0.3681
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Grêmio FB Porto Alegrense : Geriden Gelerek Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9224,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9224,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0775
+    ],
+    [
+     "Hayır",
+     0.9224
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "EC Bahia : Geriden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9294,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9294,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0706
+    ],
+    [
+     "Hayır",
+     0.9294
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Grêmio FB Porto Alegrense : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.5959,
+   "adil_oran": 1.68,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.5959,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.1982
+    ],
+    [
+     "2 fark",
+     0.1224
+    ],
+    [
+     "3 fark",
+     0.0549
+    ],
+    [
+     "4+ fark",
+     0.0286
+    ],
+    [
+     "Kazanamaz",
+     0.5959
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "EC Bahia : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.6394,
+   "adil_oran": 1.56,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.6394,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.1859
+    ],
+    [
+     "2 fark",
+     0.1064
+    ],
+    [
+     "3 fark",
+     0.0467
+    ],
+    [
+     "4+ fark",
+     0.0217
+    ],
+    [
+     "Kazanamaz",
+     0.6394
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller",
+   "oneri": "Toplam 1,5 Üst",
+   "olasilik": 0.8264,
+   "adil_oran": 1.21,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.9578,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.9578
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.0422
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.8264
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.1736
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.6151
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.3849
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.3922
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.6078
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.2139
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.7861
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.1023
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.8977
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Grêmio FB Porto Alegrense : Toplam Gol",
+   "oneri": "Grêmio FB Porto Alegrense 0,5 Üst",
+   "olasilik": 0.805,
+   "adil_oran": 1.24,
+   "en_olasi": "Grêmio FB Porto Alegrense 3,5 Alt",
+   "en_olasi_p": 0.9163,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense 0,5 Üst",
+     0.805
+    ],
+    [
+     "Grêmio FB Porto Alegrense 0,5 Alt",
+     0.195
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Üst",
+     0.4886
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Alt",
+     0.5114
+    ],
+    [
+     "Grêmio FB Porto Alegrense 2,5 Üst",
+     0.2256
+    ],
+    [
+     "Grêmio FB Porto Alegrense 2,5 Alt",
+     0.7744
+    ],
+    [
+     "Grêmio FB Porto Alegrense 3,5 Üst",
+     0.0837
+    ],
+    [
+     "Grêmio FB Porto Alegrense 3,5 Alt",
+     0.9163
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "EC Bahia : Toplam Gol",
+   "oneri": "EC Bahia 2,5 Alt",
+   "olasilik": 0.7984,
+   "adil_oran": 1.25,
+   "en_olasi": "EC Bahia 3,5 Alt",
+   "en_olasi_p": 0.9295,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "EC Bahia 0,5 Üst",
+     0.7844
+    ],
+    [
+     "EC Bahia 0,5 Alt",
+     0.2156
+    ],
+    [
+     "EC Bahia 1,5 Üst",
+     0.4543
+    ],
+    [
+     "EC Bahia 1,5 Alt",
+     0.5457
+    ],
+    [
+     "EC Bahia 2,5 Üst",
+     0.2016
+    ],
+    [
+     "EC Bahia 2,5 Alt",
+     0.7984
+    ],
+    [
+     "EC Bahia 3,5 Üst",
+     0.0705
+    ],
+    [
+     "EC Bahia 3,5 Alt",
+     0.9295
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller Asya",
+   "oneri": "Toplam Asya 1,75 Üst",
+   "olasilik": 0.8059,
+   "adil_oran": 1.24,
+   "en_olasi": "Toplam Asya 1,75 Üst",
+   "en_olasi_p": 0.8059,
+   "guven": "yüksek",
+   "not_": "Asya çizgisi: değer = 1/adil oran",
+   "secimler": [
+    [
+     "Toplam Asya 1,75 Üst",
+     0.8059
+    ],
+    [
+     "Toplam Asya 1,75 Alt",
+     0.1941
+    ],
+    [
+     "Toplam Asya 2 Üst",
+     0.7799
+    ],
+    [
+     "Toplam Asya 2 Alt",
+     0.2201
+    ],
+    [
+     "Toplam Asya 2,25 Üst",
+     0.6877
+    ],
+    [
+     "Toplam Asya 2,25 Alt",
+     0.3123
+    ],
+    [
+     "Toplam Asya 2,5 Üst",
+     0.6151
+    ],
+    [
+     "Toplam Asya 2,5 Alt",
+     0.3849
+    ],
+    [
+     "Toplam Asya 2,75 Üst",
+     0.5668
+    ],
+    [
+     "Toplam Asya 2,75 Alt",
+     0.4332
+    ],
+    [
+     "Toplam Asya 3 Üst",
+     0.5047
+    ],
+    [
+     "Toplam Asya 3 Alt",
+     0.4953
+    ],
+    [
+     "Toplam Asya 3,25 Üst",
+     0.4414
+    ],
+    [
+     "Toplam Asya 3,25 Alt",
+     0.5586
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Grêmio FB Porto Alegrense : Toplam Gol Asya",
+   "oneri": "Grêmio FB Porto Alegrense Asya 0,75 Üst",
+   "olasilik": 0.7684,
+   "adil_oran": 1.3,
+   "en_olasi": "Grêmio FB Porto Alegrense Asya 0,75 Üst",
+   "en_olasi_p": 0.7684,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense Asya 0,75 Üst",
+     0.7684
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 0,75 Alt",
+     0.2316
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 1 Üst",
+     0.7148
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 1 Alt",
+     0.2852
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 1,25 Üst",
+     0.5804
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 1,25 Alt",
+     0.4196
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 1,5 Üst",
+     0.4886
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 1,5 Alt",
+     0.5114
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 1,75 Üst",
+     0.4112
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 1,75 Alt",
+     0.5888
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 2 Üst",
+     0.3061
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 2 Alt",
+     0.6939
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 2,25 Üst",
+     0.2597
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 2,25 Alt",
+     0.7403
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "EC Bahia : Toplam Gol Asya",
+   "oneri": "EC Bahia Asya 0,5 Üst",
+   "olasilik": 0.7844,
+   "adil_oran": 1.27,
+   "en_olasi": "EC Bahia Asya 0,25 Üst",
+   "en_olasi_p": 0.8792,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "EC Bahia Asya 0,25 Üst",
+     0.8792
+    ],
+    [
+     "EC Bahia Asya 0,25 Alt",
+     0.1208
+    ],
+    [
+     "EC Bahia Asya 0,5 Üst",
+     0.7844
+    ],
+    [
+     "EC Bahia Asya 0,5 Alt",
+     0.2156
+    ],
+    [
+     "EC Bahia Asya 0,75 Üst",
+     0.7418
+    ],
+    [
+     "EC Bahia Asya 0,75 Alt",
+     0.2582
+    ],
+    [
+     "EC Bahia Asya 1 Üst",
+     0.6782
+    ],
+    [
+     "EC Bahia Asya 1 Alt",
+     0.3218
+    ],
+    [
+     "EC Bahia Asya 1,25 Üst",
+     0.5441
+    ],
+    [
+     "EC Bahia Asya 1,25 Alt",
+     0.4559
+    ],
+    [
+     "EC Bahia Asya 1,5 Üst",
+     0.4543
+    ],
+    [
+     "EC Bahia Asya 1,5 Alt",
+     0.5457
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (3-İhtimalli)",
+   "oneri": "1 Üst",
+   "olasilik": 0.8264,
+   "adil_oran": 1.21,
+   "en_olasi": "1 Üst",
+   "en_olasi_p": 0.8264,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.0422
+    ],
+    [
+     "Tam 1",
+     0.1314
+    ],
+    [
+     "1 Üst",
+     0.8264
+    ],
+    [
+     "2 Alt",
+     0.1736
+    ],
+    [
+     "Tam 2",
+     0.2113
+    ],
+    [
+     "2 Üst",
+     0.6151
+    ],
+    [
+     "3 Alt",
+     0.3849
+    ],
+    [
+     "Tam 3",
+     0.2229
+    ],
+    [
+     "3 Üst",
+     0.3922
+    ],
+    [
+     "4 Alt",
+     0.6078
+    ],
+    [
+     "Tam 4",
+     0.1783
+    ],
+    [
+     "4 Üst",
+     0.2139
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol Tek/Çift",
+   "oneri": "Çift",
+   "olasilik": 0.5032,
+   "adil_oran": 1.99,
+   "en_olasi": "Çift",
+   "en_olasi_p": 0.5032,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.4968
+    ],
+    [
+     "Çift",
+     0.5032
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Kesin)",
+   "oneri": "3 gol",
+   "olasilik": 0.2229,
+   "adil_oran": 4.49,
+   "en_olasi": "3 gol",
+   "en_olasi_p": 0.2229,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0422
+    ],
+    [
+     "1 gol",
+     0.1314
+    ],
+    [
+     "2 gol",
+     0.2113
+    ],
+    [
+     "3 gol",
+     0.2229
+    ],
+    [
+     "4 gol",
+     0.1783
+    ],
+    [
+     "5 gol",
+     0.1116
+    ],
+    [
+     "6+ gol",
+     0.1023
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Grêmio FB Porto Alegrense : Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3164,
+   "adil_oran": 3.16,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3164,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.195
+    ],
+    [
+     "1 gol",
+     0.3164
+    ],
+    [
+     "2 gol",
+     0.2631
+    ],
+    [
+     "3 gol",
+     0.1419
+    ],
+    [
+     "4+ gol",
+     0.0837
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "EC Bahia : Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3301,
+   "adil_oran": 3.03,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3301,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2156
+    ],
+    [
+     "1 gol",
+     0.3301
+    ],
+    [
+     "2 gol",
+     0.2527
+    ],
+    [
+     "3 gol",
+     0.1311
+    ],
+    [
+     "4+ gol",
+     0.0705
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Aralık)",
+   "oneri": "2-3 gol",
+   "olasilik": 0.4342,
+   "adil_oran": 2.3,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.4342,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.1736
+    ],
+    [
+     "2-3 gol",
+     0.4342
+    ],
+    [
+     "4-5 gol",
+     0.2899
+    ],
+    [
+     "6+ gol",
+     0.1023
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Grêmio FB Porto Alegrense : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5795,
+   "adil_oran": 1.73,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5795,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.195
+    ],
+    [
+     "1-2 gol",
+     0.5795
+    ],
+    [
+     "3+ gol",
+     0.2256
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "EC Bahia : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5828,
+   "adil_oran": 1.72,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5828,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2156
+    ],
+    [
+     "1-2 gol",
+     0.5828
+    ],
+    [
+     "3+ gol",
+     0.2016
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Genişletilmiş Gol Aralığı)",
+   "oneri": "2-4 gol",
+   "olasilik": 0.6125,
+   "adil_oran": 1.63,
+   "en_olasi": "2-4 gol",
+   "en_olasi_p": 0.6125,
+   "guven": "yüksek",
+   "not_": "Sitedeki aralıklar farklı olabilir",
+   "secimler": [
+    [
+     "0 gol",
+     0.0422
+    ],
+    [
+     "1-2 gol",
+     0.3427
+    ],
+    [
+     "1-3 gol",
+     0.5656
+    ],
+    [
+     "2-3 gol",
+     0.4342
+    ],
+    [
+     "2-4 gol",
+     0.6125
+    ],
+    [
+     "3-4 gol",
+     0.4012
+    ],
+    [
+     "3-5 gol",
+     0.5127
+    ],
+    [
+     "4-6 gol",
+     0.3489
+    ],
+    [
+     "5+ gol",
+     0.2139
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Grêmio FB Porto Alegrense : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5795,
+   "adil_oran": 1.73,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5795,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.5114
+    ],
+    [
+     "1-2 gol",
+     0.5795
+    ],
+    [
+     "2-3 gol",
+     0.4049
+    ],
+    [
+     "3+ gol",
+     0.2256
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "EC Bahia : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5828,
+   "adil_oran": 1.72,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5828,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.5457
+    ],
+    [
+     "1-2 gol",
+     0.5828
+    ],
+    [
+     "2-3 gol",
+     0.3838
+    ],
+    [
+     "3+ gol",
+     0.2016
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Kesin Gol Sayısı",
+   "oneri": "3 gol",
+   "olasilik": 0.2229,
+   "adil_oran": 4.49,
+   "en_olasi": "3 gol",
+   "en_olasi_p": 0.2229,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0422
+    ],
+    [
+     "1 gol",
+     0.1314
+    ],
+    [
+     "2 gol",
+     0.2113
+    ],
+    [
+     "3 gol",
+     0.2229
+    ],
+    [
+     "4 gol",
+     0.1783
+    ],
+    [
+     "5 gol",
+     0.1116
+    ],
+    [
+     "6 gol",
+     0.059
+    ],
+    [
+     "7+ gol",
+     0.0433
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 1 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8686,
+   "adil_oran": 1.15,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8686,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1314
+    ],
+    [
+     "Hayır",
+     0.8686
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 2 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7887,
+   "adil_oran": 1.27,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7887,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2113
+    ],
+    [
+     "Hayır",
+     0.7887
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 3 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7771,
+   "adil_oran": 1.29,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7771,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2229
+    ],
+    [
+     "Hayır",
+     0.7771
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 4 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8217,
+   "adil_oran": 1.22,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8217,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1783
+    ],
+    [
+     "Hayır",
+     0.8217
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "En Az Bir Takım Üst Gol Atar",
+   "oneri": "En az bir takım 1,5 Üst",
+   "olasilik": 0.721,
+   "adil_oran": 1.39,
+   "en_olasi": "En az bir takım 0,5 Üst",
+   "en_olasi_p": 0.9578,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "En az bir takım 0,5 Üst",
+     0.9578
+    ],
+    [
+     "En az bir takım 1,5 Üst",
+     0.721
+    ],
+    [
+     "En az bir takım 2,5 Üst",
+     0.3825
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Grêmio FB Porto Alegrense : Asist Yapar. Toplam",
+   "oneri": "Grêmio FB Porto Alegrense asist 1,5 Alt",
+   "olasilik": 0.7051,
+   "adil_oran": 1.42,
+   "en_olasi": "Grêmio FB Porto Alegrense asist 2,5 Alt",
+   "en_olasi_p": 0.9048,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense asist 0,5 Üst",
+     0.6606
+    ],
+    [
+     "Grêmio FB Porto Alegrense asist 0,5 Alt",
+     0.3394
+    ],
+    [
+     "Grêmio FB Porto Alegrense asist 1,5 Üst",
+     0.2949
+    ],
+    [
+     "Grêmio FB Porto Alegrense asist 1,5 Alt",
+     0.7051
+    ],
+    [
+     "Grêmio FB Porto Alegrense asist 2,5 Üst",
+     0.0952
+    ],
+    [
+     "Grêmio FB Porto Alegrense asist 2,5 Alt",
+     0.9048
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "EC Bahia : Asist Yapar. Toplam",
+   "oneri": "EC Bahia asist 1,5 Alt",
+   "olasilik": 0.7295,
+   "adil_oran": 1.37,
+   "en_olasi": "EC Bahia asist 1,5 Alt",
+   "en_olasi_p": 0.7295,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "EC Bahia asist 0,5 Üst",
+     0.6369
+    ],
+    [
+     "EC Bahia asist 0,5 Alt",
+     0.3631
+    ],
+    [
+     "EC Bahia asist 1,5 Üst",
+     0.2705
+    ],
+    [
+     "EC Bahia asist 1,5 Alt",
+     0.7295
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takımda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.6317,
+   "adil_oran": 1.58,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6317,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6317
+    ],
+    [
+     "Hayır",
+     0.3684
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.7781,
+   "adil_oran": 1.29,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7781,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2219
+    ],
+    [
+     "Hayır",
+     0.7781
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Grêmio FB Porto Alegrense : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.805,
+   "adil_oran": 1.24,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.805,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.805
+    ],
+    [
+     "Hayır",
+     0.195
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "EC Bahia : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.7844,
+   "adil_oran": 1.27,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7844,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7844
+    ],
+    [
+     "Hayır",
+     0.2156
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Karşılıklı Gol ve Toplam Goller 2.5",
+   "oneri": "KG Var & Üst",
+   "olasilik": 0.5263,
+   "adil_oran": 1.9,
+   "en_olasi": "KG Var & Üst",
+   "en_olasi_p": 0.5263,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "KG Var & Üst",
+     0.5263
+    ],
+    [
+     "KG Var & Alt",
+     0.1054
+    ],
+    [
+     "KG Yok & Üst",
+     0.0888
+    ],
+    [
+     "KG Yok & Alt",
+     0.2796
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Yarıda da Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.9119,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9119,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0881
+    ],
+    [
+     "Hayır",
+     0.9119
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı",
+   "oneri": "Grêmio FB Porto Alegrense +1,5",
+   "olasilik": 0.8253,
+   "adil_oran": 1.21,
+   "en_olasi": "Grêmio FB Porto Alegrense +2,5",
+   "en_olasi_p": 0.9317,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense -2,5",
+     0.0835
+    ],
+    [
+     "EC Bahia +2,5",
+     0.9165
+    ],
+    [
+     "Grêmio FB Porto Alegrense -1,5",
+     0.2059
+    ],
+    [
+     "EC Bahia +1,5",
+     0.7941
+    ],
+    [
+     "Grêmio FB Porto Alegrense -0,5",
+     0.4041
+    ],
+    [
+     "EC Bahia +0,5",
+     0.5959
+    ],
+    [
+     "Grêmio FB Porto Alegrense +0,5",
+     0.6394
+    ],
+    [
+     "EC Bahia -0,5",
+     0.3606
+    ],
+    [
+     "Grêmio FB Porto Alegrense +1,5",
+     0.8253
+    ],
+    [
+     "EC Bahia -1,5",
+     0.1747
+    ],
+    [
+     "Grêmio FB Porto Alegrense +2,5",
+     0.9317
+    ],
+    [
+     "EC Bahia -2,5",
+     0.0683
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Goller Asya Handikapı",
+   "oneri": "Grêmio FB Porto Alegrense Asya +1,5",
+   "olasilik": 0.8253,
+   "adil_oran": 1.21,
+   "en_olasi": "Grêmio FB Porto Alegrense Asya +1,5",
+   "en_olasi_p": 0.8253,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense Asya -2",
+     0.0951
+    ],
+    [
+     "EC Bahia Asya -2",
+     0.0765
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya -1,75",
+     0.1541
+    ],
+    [
+     "EC Bahia Asya -1,75",
+     0.1283
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya -1,5",
+     0.2059
+    ],
+    [
+     "EC Bahia Asya -1,5",
+     0.1747
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya -1,25",
+     0.2285
+    ],
+    [
+     "EC Bahia Asya -1,25",
+     0.1926
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya -1",
+     0.2568
+    ],
+    [
+     "EC Bahia Asya -1",
+     0.2146
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya -0,75",
+     0.3385
+    ],
+    [
+     "EC Bahia Asya -0,75",
+     0.2951
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya -0,5",
+     0.4041
+    ],
+    [
+     "EC Bahia Asya -0,5",
+     0.3606
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya -0,25",
+     0.458
+    ],
+    [
+     "EC Bahia Asya -0,25",
+     0.4087
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 0",
+     0.5284
+    ],
+    [
+     "EC Bahia Asya 0",
+     0.4716
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya +0,25",
+     0.5913
+    ],
+    [
+     "EC Bahia Asya +0,25",
+     0.542
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya +0,5",
+     0.6394
+    ],
+    [
+     "EC Bahia Asya +0,5",
+     0.5959
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya +0,75",
+     0.7049
+    ],
+    [
+     "EC Bahia Asya +0,75",
+     0.6615
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya +1",
+     0.7854
+    ],
+    [
+     "EC Bahia Asya +1",
+     0.7432
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya +1,25",
+     0.8074
+    ],
+    [
+     "EC Bahia Asya +1,25",
+     0.7715
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya +1,5",
+     0.8253
+    ],
+    [
+     "EC Bahia Asya +1,5",
+     0.7941
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı (3-İhtimalli)",
+   "oneri": "Grêmio FB Porto Alegrense (+2)",
+   "olasilik": 0.8253,
+   "adil_oran": 1.21,
+   "en_olasi": "Grêmio FB Porto Alegrense (+3)",
+   "en_olasi_p": 0.9317,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense (-3)",
+     0.0286
+    ],
+    [
+     "X (-3)",
+     0.0549
+    ],
+    [
+     "EC Bahia (-3)",
+     0.9165
+    ],
+    [
+     "Grêmio FB Porto Alegrense (-2)",
+     0.0835
+    ],
+    [
+     "X (-2)",
+     0.1224
+    ],
+    [
+     "EC Bahia (-2)",
+     0.7941
+    ],
+    [
+     "Grêmio FB Porto Alegrense (-1)",
+     0.2059
+    ],
+    [
+     "X (-1)",
+     0.1982
+    ],
+    [
+     "EC Bahia (-1)",
+     0.5959
+    ],
+    [
+     "Grêmio FB Porto Alegrense (+1)",
+     0.6394
+    ],
+    [
+     "X (+1)",
+     0.1859
+    ],
+    [
+     "EC Bahia (+1)",
+     0.1747
+    ],
+    [
+     "Grêmio FB Porto Alegrense (+2)",
+     0.8253
+    ],
+    [
+     "X (+2)",
+     0.1064
+    ],
+    [
+     "EC Bahia (+2)",
+     0.0683
+    ],
+    [
+     "Grêmio FB Porto Alegrense (+3)",
+     0.9317
+    ],
+    [
+     "X (+3)",
+     0.0467
+    ],
+    [
+     "EC Bahia (+3)",
+     0.0217
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Grêmio FB Porto Alegrense Gol Atar ve Maç Sonucu",
+   "oneri": "1 & Grêmio FB Porto Alegrense gol atar",
+   "olasilik": 0.4041,
+   "adil_oran": 2.47,
+   "en_olasi": "1 & Grêmio FB Porto Alegrense gol atar",
+   "en_olasi_p": 0.4041,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Grêmio FB Porto Alegrense gol atar",
+     0.4041
+    ],
+    [
+     "1 & Grêmio FB Porto Alegrense gol atamaz",
+     0.0
+    ],
+    [
+     "X & Grêmio FB Porto Alegrense gol atar",
+     0.1932
+    ],
+    [
+     "X & Grêmio FB Porto Alegrense gol atamaz",
+     0.0422
+    ],
+    [
+     "2 & Grêmio FB Porto Alegrense gol atar",
+     0.2078
+    ],
+    [
+     "2 & Grêmio FB Porto Alegrense gol atamaz",
+     0.1528
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "EC Bahia Gol Atar ve Maç Sonucu",
+   "oneri": "2 & EC Bahia gol atar",
+   "olasilik": 0.3606,
+   "adil_oran": 2.77,
+   "en_olasi": "2 & EC Bahia gol atar",
+   "en_olasi_p": 0.3606,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & EC Bahia gol atar",
+     0.2307
+    ],
+    [
+     "1 & EC Bahia gol atamaz",
+     0.1734
+    ],
+    [
+     "X & EC Bahia gol atar",
+     0.1932
+    ],
+    [
+     "X & EC Bahia gol atamaz",
+     0.0422
+    ],
+    [
+     "2 & EC Bahia gol atar",
+     0.3606
+    ],
+    [
+     "2 & EC Bahia gol atamaz",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Karşılıklı Gol",
+   "oneri": "1 & KG Var",
+   "olasilik": 0.2307,
+   "adil_oran": 4.33,
+   "en_olasi": "1 & KG Var",
+   "en_olasi_p": 0.2307,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.2307
+    ],
+    [
+     "1 & KG Yok",
+     0.1734
+    ],
+    [
+     "X & KG Var",
+     0.1932
+    ],
+    [
+     "X & KG Yok",
+     0.0422
+    ],
+    [
+     "2 & KG Var",
+     0.2078
+    ],
+    [
+     "2 & KG Yok",
+     0.1528
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Karşılıklı Gol",
+   "oneri": "12 & KG Var",
+   "olasilik": 0.4385,
+   "adil_oran": 2.28,
+   "en_olasi": "12 & KG Var",
+   "en_olasi_p": 0.4385,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & KG Var",
+     0.4239
+    ],
+    [
+     "1X & KG Yok",
+     0.2156
+    ],
+    [
+     "12 & KG Var",
+     0.4385
+    ],
+    [
+     "12 & KG Yok",
+     0.3262
+    ],
+    [
+     "X2 & KG Var",
+     0.401
+    ],
+    [
+     "X2 & KG Yok",
+     0.195
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 1.5",
+   "oneri": "1 & 1,5 Üst",
+   "olasilik": 0.3365,
+   "adil_oran": 2.97,
+   "en_olasi": "1 & 1,5 Üst",
+   "en_olasi_p": 0.3365,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1,5 Üst",
+     0.3365
+    ],
+    [
+     "1 & 1,5 Alt",
+     0.0676
+    ],
+    [
+     "X & 1,5 Üst",
+     0.1932
+    ],
+    [
+     "X & 1,5 Alt",
+     0.0422
+    ],
+    [
+     "2 & 1,5 Üst",
+     0.2967
+    ],
+    [
+     "2 & 1,5 Alt",
+     0.0638
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 2.5",
+   "oneri": "1 & 2,5 Üst",
+   "olasilik": 0.2797,
+   "adil_oran": 3.58,
+   "en_olasi": "1 & 2,5 Üst",
+   "en_olasi_p": 0.2797,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 2,5 Üst",
+     0.2797
+    ],
+    [
+     "1 & 2,5 Alt",
+     0.1244
+    ],
+    [
+     "X & 2,5 Üst",
+     0.0878
+    ],
+    [
+     "X & 2,5 Alt",
+     0.1475
+    ],
+    [
+     "2 & 2,5 Üst",
+     0.2476
+    ],
+    [
+     "2 & 2,5 Alt",
+     0.113
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 3.5",
+   "oneri": "1 & 3,5 Alt",
+   "olasilik": 0.2416,
+   "adil_oran": 4.14,
+   "en_olasi": "1 & 3,5 Alt",
+   "en_olasi_p": 0.2416,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 3,5 Üst",
+     0.1625
+    ],
+    [
+     "1 & 3,5 Alt",
+     0.2416
+    ],
+    [
+     "X & 3,5 Üst",
+     0.0878
+    ],
+    [
+     "X & 3,5 Alt",
+     0.1475
+    ],
+    [
+     "2 & 3,5 Üst",
+     0.1419
+    ],
+    [
+     "2 & 3,5 Alt",
+     0.2186
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 4.5",
+   "oneri": "1 & 4,5 Alt",
+   "olasilik": 0.3022,
+   "adil_oran": 3.31,
+   "en_olasi": "1 & 4,5 Alt",
+   "en_olasi_p": 0.3022,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 4,5 Üst",
+     0.1019
+    ],
+    [
+     "1 & 4,5 Alt",
+     0.3022
+    ],
+    [
+     "X & 4,5 Üst",
+     0.0214
+    ],
+    [
+     "X & 4,5 Alt",
+     0.2139
+    ],
+    [
+     "2 & 4,5 Üst",
+     0.0906
+    ],
+    [
+     "2 & 4,5 Alt",
+     0.27
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Grêmio FB Porto Alegrense : Toplam Gol",
+   "oneri": "1 & Grêmio FB Porto Alegrense 1,5 Üst",
+   "olasilik": 0.3365,
+   "adil_oran": 2.97,
+   "en_olasi": "1 & Grêmio FB Porto Alegrense 1,5 Üst",
+   "en_olasi_p": 0.3365,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Grêmio FB Porto Alegrense 1,5 Üst",
+     0.3365
+    ],
+    [
+     "1 & Grêmio FB Porto Alegrense 1,5 Alt",
+     0.0676
+    ],
+    [
+     "X & Grêmio FB Porto Alegrense 1,5 Üst",
+     0.0878
+    ],
+    [
+     "X & Grêmio FB Porto Alegrense 1,5 Alt",
+     0.1475
+    ],
+    [
+     "2 & Grêmio FB Porto Alegrense 1,5 Üst",
+     0.0643
+    ],
+    [
+     "2 & Grêmio FB Porto Alegrense 1,5 Alt",
+     0.2963
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve EC Bahia : Toplam Gol",
+   "oneri": "2 & EC Bahia 0,5 Üst",
+   "olasilik": 0.3606,
+   "adil_oran": 2.77,
+   "en_olasi": "2 & EC Bahia 0,5 Üst",
+   "en_olasi_p": 0.3606,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & EC Bahia 0,5 Üst",
+     0.2307
+    ],
+    [
+     "1 & EC Bahia 0,5 Alt",
+     0.1734
+    ],
+    [
+     "X & EC Bahia 0,5 Üst",
+     0.1932
+    ],
+    [
+     "X & EC Bahia 0,5 Alt",
+     0.0422
+    ],
+    [
+     "2 & EC Bahia 0,5 Üst",
+     0.3606
+    ],
+    [
+     "2 & EC Bahia 0,5 Alt",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Toplam Gol",
+   "oneri": "X veya 2,5 Üst",
+   "olasilik": 0.7626,
+   "adil_oran": 1.31,
+   "en_olasi": "X veya 2,5 Üst",
+   "en_olasi_p": 0.7626,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 2,5 Üst",
+     0.7395
+    ],
+    [
+     "1 veya 2,5 Alt",
+     0.6646
+    ],
+    [
+     "X veya 2,5 Üst",
+     0.7626
+    ],
+    [
+     "X veya 2,5 Alt",
+     0.4727
+    ],
+    [
+     "2 veya 2,5 Üst",
+     0.7281
+    ],
+    [
+     "2 veya 2,5 Alt",
+     0.6325
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol (Kesin)",
+   "oneri": "1 & 3 gol",
+   "olasilik": 0.1172,
+   "adil_oran": 8.53,
+   "en_olasi": "1 & 3 gol",
+   "en_olasi_p": 0.1172,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 0 gol",
+     0.0
+    ],
+    [
+     "1 & 1 gol",
+     0.0676
+    ],
+    [
+     "1 & 2 gol",
+     0.0568
+    ],
+    [
+     "1 & 3 gol",
+     0.1172
+    ],
+    [
+     "1 & 4 gol",
+     0.0606
+    ],
+    [
+     "1 & 5 gol",
+     0.058
+    ],
+    [
+     "X & 0 gol",
+     0.0422
+    ],
+    [
+     "X & 1 gol",
+     0.0
+    ],
+    [
+     "X & 2 gol",
+     0.1054
+    ],
+    [
+     "X & 3 gol",
+     0.0
+    ],
+    [
+     "X & 4 gol",
+     0.0664
+    ],
+    [
+     "X & 5 gol",
+     0.0
+    ],
+    [
+     "2 & 0 gol",
+     0.0
+    ],
+    [
+     "2 & 1 gol",
+     0.0638
+    ],
+    [
+     "2 & 2 gol",
+     0.0492
+    ],
+    [
+     "2 & 3 gol",
+     0.1056
+    ],
+    [
+     "2 & 4 gol",
+     0.0513
+    ],
+    [
+     "2 & 5 gol",
+     0.0536
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "1 & 1-3 gol",
+   "olasilik": 0.2416,
+   "adil_oran": 4.14,
+   "en_olasi": "1 & 1-3 gol",
+   "en_olasi_p": 0.2416,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1-2 gol",
+     0.1244
+    ],
+    [
+     "1 & 1-3 gol",
+     0.2416
+    ],
+    [
+     "1 & 2-3 gol",
+     0.174
+    ],
+    [
+     "1 & 2-4 gol",
+     0.2346
+    ],
+    [
+     "1 & 3-4 gol",
+     0.1778
+    ],
+    [
+     "1 & 3-5 gol",
+     0.2358
+    ],
+    [
+     "X & 1-2 gol",
+     0.1054
+    ],
+    [
+     "X & 1-3 gol",
+     0.1054
+    ],
+    [
+     "X & 2-3 gol",
+     0.1054
+    ],
+    [
+     "X & 2-4 gol",
+     0.1717
+    ],
+    [
+     "X & 3-4 gol",
+     0.0664
+    ],
+    [
+     "X & 3-5 gol",
+     0.0664
+    ],
+    [
+     "2 & 1-2 gol",
+     0.113
+    ],
+    [
+     "2 & 1-3 gol",
+     0.2186
+    ],
+    [
+     "2 & 2-3 gol",
+     0.1548
+    ],
+    [
+     "2 & 2-4 gol",
+     0.2061
+    ],
+    [
+     "2 & 3-4 gol",
+     0.157
+    ],
+    [
+     "2 & 3-5 gol",
+     0.2105
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "12 & 1-3 gol",
+   "olasilik": 0.4603,
+   "adil_oran": 2.17,
+   "en_olasi": "12 & 1-3 gol",
+   "en_olasi_p": 0.4603,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1-2 gol",
+     0.2297
+    ],
+    [
+     "1X & 1-3 gol",
+     0.347
+    ],
+    [
+     "1X & 2-3 gol",
+     0.2794
+    ],
+    [
+     "1X & 2-4 gol",
+     0.4063
+    ],
+    [
+     "12 & 1-2 gol",
+     0.2374
+    ],
+    [
+     "12 & 1-3 gol",
+     0.4603
+    ],
+    [
+     "12 & 2-3 gol",
+     0.3288
+    ],
+    [
+     "12 & 2-4 gol",
+     0.4407
+    ],
+    [
+     "X2 & 1-2 gol",
+     0.2184
+    ],
+    [
+     "X2 & 1-3 gol",
+     0.324
+    ],
+    [
+     "X2 & 2-3 gol",
+     0.2602
+    ],
+    [
+     "X2 & 2-4 gol",
+     0.3779
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Doğru Skor",
+   "oneri": "1 veya 1-1",
+   "olasilik": 0.5094,
+   "adil_oran": 1.96,
+   "en_olasi": "1 veya 1-1",
+   "en_olasi_p": 0.5094,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 1-1",
+     0.5094
+    ],
+    [
+     "1 veya 1-2",
+     0.4839
+    ],
+    [
+     "1 veya 2-2",
+     0.4705
+    ],
+    [
+     "1 veya 0-1",
+     0.4679
+    ],
+    [
+     "X veya 2-1",
+     0.3218
+    ],
+    [
+     "X veya 1-2",
+     0.3151
+    ],
+    [
+     "X veya 1-0",
+     0.3029
+    ],
+    [
+     "X veya 0-1",
+     0.2992
+    ],
+    [
+     "2 veya 1-1",
+     0.4659
+    ],
+    [
+     "2 veya 2-1",
+     0.447
+    ],
+    [
+     "2 veya 1-0",
+     0.4282
+    ],
+    [
+     "2 veya 2-2",
+     0.427
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Her İki Yarı Toplam Gol Kombinasyonu",
+   "oneri": "İY Alt 1,5 & 2Y Üst 1,5",
+   "olasilik": 0.3145,
+   "adil_oran": 3.18,
+   "en_olasi": "İY Alt 1,5 & 2Y Üst 1,5",
+   "en_olasi_p": 0.3145,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Alt 1,5 & 2Y Alt 1,5",
+     0.2775
+    ],
+    [
+     "İY Alt 1,5 & 2Y Üst 1,5",
+     0.3145
+    ],
+    [
+     "İY Üst 1,5 & 2Y Alt 1,5",
+     0.1914
+    ],
+    [
+     "İY Üst 1,5 & 2Y Üst 1,5",
+     0.2166
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Farklı Kombineler",
+   "oneri": "1 & 2Y gol olur",
+   "olasilik": 0.3497,
+   "adil_oran": 2.86,
+   "en_olasi": "1 & 2Y gol olur",
+   "en_olasi_p": 0.3497,
+   "guven": "yüksek",
+   "not_": "Sitedeki kombinasyon içerikleri farklı olabilir",
+   "secimler": [
+    [
+     "1 & 2Y gol olur",
+     0.3497
+    ],
+    [
+     "2 & 2Y gol olur",
+     0.311
+    ],
+    [
+     "Grêmio FB Porto Alegrense her iki yarıda gol & 1",
+     0.2246
+    ],
+    [
+     "EC Bahia her iki yarıda gol & 2",
+     0.1964
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans Kombo",
+   "oneri": "12 & 1,5 Üst",
+   "olasilik": 0.6332,
+   "adil_oran": 1.58,
+   "en_olasi": "12 & 1,5 Üst",
+   "en_olasi_p": 0.6332,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1,5 Üst",
+     0.5296
+    ],
+    [
+     "1X & 1,5 Alt",
+     0.1098
+    ],
+    [
+     "1X & 2,5 Üst",
+     0.3675
+    ],
+    [
+     "1X & 2,5 Alt",
+     0.2719
+    ],
+    [
+     "1X & 3,5 Üst",
+     0.2503
+    ],
+    [
+     "1X & 3,5 Alt",
+     0.3892
+    ],
+    [
+     "12 & 1,5 Üst",
+     0.6332
+    ],
+    [
+     "12 & 1,5 Alt",
+     0.1314
+    ],
+    [
+     "12 & 2,5 Üst",
+     0.5273
+    ],
+    [
+     "12 & 2,5 Alt",
+     0.2374
+    ],
+    [
+     "12 & 3,5 Üst",
+     0.3044
+    ],
+    [
+     "12 & 3,5 Alt",
+     0.4603
+    ],
+    [
+     "X2 & 1,5 Üst",
+     0.4899
+    ],
+    [
+     "X2 & 1,5 Alt",
+     0.106
+    ],
+    [
+     "X2 & 2,5 Üst",
+     0.3354
+    ],
+    [
+     "X2 & 2,5 Alt",
+     0.2606
+    ],
+    [
+     "X2 & 3,5 Üst",
+     0.2297
+    ],
+    [
+     "X2 & 3,5 Alt",
+     0.3662
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "İlk Yarı/Maç Sonucu ve Toplam Gol",
+   "oneri": "1/1 & 2,5 Üst",
+   "olasilik": 0.1722,
+   "adil_oran": 5.81,
+   "en_olasi": "1/1 & 2,5 Üst",
+   "en_olasi_p": 0.1722,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1 & 2,5 Üst",
+     0.1722
+    ],
+    [
+     "1/1 & 2,5 Alt",
+     0.0689
+    ],
+    [
+     "1/X & 2,5 Üst",
+     0.0283
+    ],
+    [
+     "1/X & 2,5 Alt",
+     0.0263
+    ],
+    [
+     "1/2 & 2,5 Üst",
+     0.0259
+    ],
+    [
+     "1/2 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "X/1 & 2,5 Üst",
+     0.0786
+    ],
+    [
+     "X/1 & 2,5 Alt",
+     0.0555
+    ],
+    [
+     "X/X & 2,5 Üst",
+     0.0316
+    ],
+    [
+     "X/X & 2,5 Alt",
+     0.0953
+    ],
+    [
+     "X/2 & 2,5 Üst",
+     0.0721
+    ],
+    [
+     "X/2 & 2,5 Alt",
+     0.0512
+    ],
+    [
+     "2/1 & 2,5 Üst",
+     0.0289
+    ],
+    [
+     "2/1 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "2/X & 2,5 Üst",
+     0.0279
+    ],
+    [
+     "2/X & 2,5 Alt",
+     0.026
+    ],
+    [
+     "2/2 & 2,5 Üst",
+     0.1495
+    ],
+    [
+     "2/2 & 2,5 Alt",
+     0.0618
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Her İki Yarıda Gol Olur",
+   "oneri": "Evet",
+   "olasilik": 0.6255,
+   "adil_oran": 1.6,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6255,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6255
+    ],
+    [
+     "Hayır",
+     0.3745
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım",
+   "oneri": "Grêmio FB Porto Alegrense",
+   "olasilik": 0.4936,
+   "adil_oran": 2.03,
+   "en_olasi": "Grêmio FB Porto Alegrense",
+   "en_olasi_p": 0.4936,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense",
+     0.4936
+    ],
+    [
+     "Gol yok",
+     0.0422
+    ],
+    [
+     "EC Bahia",
+     0.4643
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Son Golü Atacak Takım",
+   "oneri": "Grêmio FB Porto Alegrense",
+   "olasilik": 0.4921,
+   "adil_oran": 2.03,
+   "en_olasi": "Grêmio FB Porto Alegrense",
+   "en_olasi_p": 0.4921,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense",
+     0.4921
+    ],
+    [
+     "Gol yok",
+     0.0422
+    ],
+    [
+     "EC Bahia",
+     0.4657
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golün Atılma Şekli",
+   "oneri": "Şut",
+   "olasilik": 0.6996,
+   "adil_oran": 1.43,
+   "en_olasi": "Şut",
+   "en_olasi_p": 0.6996,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şut",
+     0.6996
+    ],
+    [
+     "Kafa",
+     0.1492
+    ],
+    [
+     "Penaltı",
+     0.0466
+    ],
+    [
+     "Serbest vuruş",
+     0.0288
+    ],
+    [
+     "Kendi kalesine",
+     0.0336
+    ],
+    [
+     "Gol yok",
+     0.0422
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı",
+   "oneri": "1-27 dk",
+   "olasilik": 0.5285,
+   "adil_oran": 1.89,
+   "en_olasi": "1-27 dk",
+   "en_olasi_p": 0.5285,
+   "guven": "orta",
+   "not_": "Sınır 27. dk varsayıldı",
+   "secimler": [
+    [
+     "1-27 dk",
+     0.5285
+    ],
+    [
+     "28-90 dk",
+     0.4293
+    ],
+    [
+     "Gol yok",
+     0.0422
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Grêmio FB Porto Alegrense : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.195,
+   "adil_oran": 5.13,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.195,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.1275
+    ],
+    [
+     "11-20 dk",
+     0.1184
+    ],
+    [
+     "21-30 dk",
+     0.1071
+    ],
+    [
+     "31-40 dk",
+     0.0969
+    ],
+    [
+     "41-50 dk",
+     0.0975
+    ],
+    [
+     "51-60 dk",
+     0.0702
+    ],
+    [
+     "61-70 dk",
+     0.0625
+    ],
+    [
+     "71-80 dk",
+     0.0556
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0694
+    ],
+    [
+     "Gol yok",
+     0.195
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "EC Bahia : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.2156,
+   "adil_oran": 4.64,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.2156,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.1206
+    ],
+    [
+     "11-20 dk",
+     0.1115
+    ],
+    [
+     "21-30 dk",
+     0.1023
+    ],
+    [
+     "31-40 dk",
+     0.093
+    ],
+    [
+     "41-50 dk",
+     0.0968
+    ],
+    [
+     "51-60 dk",
+     0.0715
+    ],
+    [
+     "61-70 dk",
+     0.0625
+    ],
+    [
+     "71-80 dk",
+     0.0551
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.071
+    ],
+    [
+     "Gol yok",
+     0.2156
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı (15 dk.)",
+   "oneri": "1-15 dk",
+   "olasilik": 0.3313,
+   "adil_oran": 3.02,
+   "en_olasi": "1-15 dk",
+   "en_olasi_p": 0.3313,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-15 dk",
+     0.3313
+    ],
+    [
+     "16-30 dk",
+     0.2376
+    ],
+    [
+     "31-45 (+uz.) dk",
+     0.1789
+    ],
+    [
+     "46-60 dk",
+     0.097
+    ],
+    [
+     "61-75 dk",
+     0.0641
+    ],
+    [
+     "76-90 (+uz.) dk",
+     0.0489
+    ],
+    [
+     "Gol yok",
+     0.0422
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve Maç Sonucu",
+   "oneri": "İlk gol Grêmio FB Porto Alegrense & 1",
+   "olasilik": 0.33,
+   "adil_oran": 3.03,
+   "en_olasi": "İlk gol Grêmio FB Porto Alegrense & 1",
+   "en_olasi_p": 0.33,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Grêmio FB Porto Alegrense & 1",
+     0.33
+    ],
+    [
+     "İlk gol Grêmio FB Porto Alegrense & X",
+     0.0965
+    ],
+    [
+     "İlk gol Grêmio FB Porto Alegrense & 2",
+     0.067
+    ],
+    [
+     "İlk gol EC Bahia & 1",
+     0.0741
+    ],
+    [
+     "İlk gol EC Bahia & X",
+     0.0966
+    ],
+    [
+     "İlk gol EC Bahia & 2",
+     0.2936
+    ],
+    [
+     "Gol yok",
+     0.0422
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 1. Yarı Sonucu",
+   "oneri": "İlk gol Grêmio FB Porto Alegrense & İY 1",
+   "olasilik": 0.3008,
+   "adil_oran": 3.32,
+   "en_olasi": "İlk gol Grêmio FB Porto Alegrense & İY 1",
+   "en_olasi_p": 0.3008,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Grêmio FB Porto Alegrense & İY 1",
+     0.3008
+    ],
+    [
+     "İlk gol Grêmio FB Porto Alegrense & İY X",
+     0.1739
+    ],
+    [
+     "İlk gol Grêmio FB Porto Alegrense & İY 2",
+     0.019
+    ],
+    [
+     "İlk gol EC Bahia & İY 1",
+     0.0209
+    ],
+    [
+     "İlk gol EC Bahia & İY X",
+     0.1683
+    ],
+    [
+     "İlk gol EC Bahia & İY 2",
+     0.2751
+    ],
+    [
+     "Gol yok",
+     0.0422
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 2. Yarı Sonucu",
+   "oneri": "İlk gol Grêmio FB Porto Alegrense & 2Y 1",
+   "olasilik": 0.2129,
+   "adil_oran": 4.7,
+   "en_olasi": "İlk gol Grêmio FB Porto Alegrense & 2Y 1",
+   "en_olasi_p": 0.2129,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Grêmio FB Porto Alegrense & 2Y 1",
+     0.2129
+    ],
+    [
+     "İlk gol Grêmio FB Porto Alegrense & 2Y X",
+     0.1488
+    ],
+    [
+     "İlk gol Grêmio FB Porto Alegrense & 2Y 2",
+     0.1319
+    ],
+    [
+     "İlk gol EC Bahia & 2Y 1",
+     0.1368
+    ],
+    [
+     "İlk gol EC Bahia & 2Y X",
+     0.1392
+    ],
+    [
+     "İlk gol EC Bahia & 2Y 2",
+     0.1882
+    ],
+    [
+     "Gol yok",
+     0.0422
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Doğru Skor",
+   "oneri": "1-1",
+   "olasilik": 0.1054,
+   "adil_oran": 9.49,
+   "en_olasi": "1-1",
+   "en_olasi_p": 0.1054,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-1",
+     0.1054
+    ],
+    [
+     "2-1",
+     0.0864
+    ],
+    [
+     "1-2",
+     0.0798
+    ],
+    [
+     "1-0",
+     0.0676
+    ],
+    [
+     "2-2",
+     0.0664
+    ],
+    [
+     "0-1",
+     0.0638
+    ],
+    [
+     "2-0",
+     0.0568
+    ],
+    [
+     "0-2",
+     0.0492
+    ],
+    [
+     "3-1",
+     0.0478
+    ],
+    [
+     "Diğer",
+     0.0459
+    ],
+    [
+     "0-0",
+     0.0422
+    ],
+    [
+     "1-3",
+     0.0414
+    ],
+    [
+     "3-2",
+     0.0356
+    ],
+    [
+     "2-3",
+     0.0348
+    ],
+    [
+     "3-0",
+     0.0308
+    ],
+    [
+     "0-3",
+     0.0258
+    ],
+    [
+     "4-1",
+     0.0184
+    ],
+    [
+     "3-3",
+     0.018
+    ],
+    [
+     "1-4",
+     0.0158
+    ],
+    [
+     "4-2",
+     0.0149
+    ],
+    [
+     "2-4",
+     0.0132
+    ],
+    [
+     "4-0",
+     0.0128
+    ],
+    [
+     "0-4",
+     0.01
+    ],
+    [
+     "4-3",
+     0.0075
+    ],
+    [
+     "3-4",
+     0.0066
+    ],
+    [
+     "4-4",
+     0.0031
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Herhangi Bir Zamanda Doğru Skor",
+   "oneri": "1-0 herhangi bir anda",
+   "olasilik": 0.4859,
+   "adil_oran": 2.06,
+   "en_olasi": "1-0 herhangi bir anda",
+   "en_olasi_p": 0.4859,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-0 herhangi bir anda",
+     0.4859
+    ],
+    [
+     "0-1 herhangi bir anda",
+     0.457
+    ],
+    [
+     "1-1 herhangi bir anda",
+     0.4046
+    ],
+    [
+     "2-1 herhangi bir anda",
+     0.2354
+    ],
+    [
+     "2-0 herhangi bir anda",
+     0.2176
+    ],
+    [
+     "1-2 herhangi bir anda",
+     0.2175
+    ],
+    [
+     "0-2 herhangi bir anda",
+     0.1909
+    ],
+    [
+     "2-2 herhangi bir anda",
+     0.145
+    ],
+    [
+     "3-1 herhangi bir anda",
+     0.1022
+    ],
+    [
+     "1-3 herhangi bir anda",
+     0.0897
+    ],
+    [
+     "3-0 herhangi bir anda",
+     0.083
+    ],
+    [
+     "0-3 herhangi bir anda",
+     0.069
+    ],
+    [
+     "3-2 herhangi bir anda",
+     0.0674
+    ],
+    [
+     "2-3 herhangi bir anda",
+     0.0644
+    ],
+    [
+     "3-3 herhangi bir anda",
+     0.0305
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Skor Kombinasyonları",
+   "oneri": "Grêmio FB Porto Alegrense 1-0/2-0/2-1",
+   "olasilik": 0.2108,
+   "adil_oran": 4.74,
+   "en_olasi": "Grêmio FB Porto Alegrense 1-0/2-0/2-1",
+   "en_olasi_p": 0.2108,
+   "guven": "yüksek",
+   "not_": "Sitedeki gruplar farklı olabilir",
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense 1-0/2-0/2-1",
+     0.2108
+    ],
+    [
+     "Grêmio FB Porto Alegrense 3-0/3-1/4-0",
+     0.0914
+    ],
+    [
+     "0-0/1-1",
+     0.1475
+    ],
+    [
+     "EC Bahia 0-1/0-2/1-2",
+     0.1928
+    ],
+    [
+     "EC Bahia 0-3/1-3/0-4",
+     0.0772
+    ],
+    [
+     "2-2/3-3",
+     0.0844
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "1.Yarı/Maç Skoru",
+   "oneri": "İY 0-0 / MS 0-0",
+   "olasilik": 0.0422,
+   "adil_oran": 23.71,
+   "en_olasi": "İY 0-0 / MS 0-0",
+   "en_olasi_p": 0.0422,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 0-0 / MS 0-0",
+     0.0422
+    ],
+    [
+     "İY 0-0 / MS 1-0",
+     0.0375
+    ],
+    [
+     "İY 0-0 / MS 0-1",
+     0.0357
+    ],
+    [
+     "İY 0-0 / MS 1-1",
+     0.0337
+    ],
+    [
+     "İY 1-0 / MS 1-0",
+     0.0301
+    ],
+    [
+     "İY 0-1 / MS 0-1",
+     0.0282
+    ],
+    [
+     "İY 1-0 / MS 2-0",
+     0.0276
+    ],
+    [
+     "İY 1-0 / MS 1-1",
+     0.0263
+    ],
+    [
+     "İY 0-1 / MS 1-1",
+     0.026
+    ],
+    [
+     "İY 0-1 / MS 0-2",
+     0.024
+    ],
+    [
+     "İY 1-0 / MS 2-1",
+     0.0234
+    ],
+    [
+     "İY 0-1 / MS 1-2",
+     0.022
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Maç Skoru Beraberlik (0-0 hariç)",
+   "oneri": "Hayır",
+   "olasilik": 0.8068,
+   "adil_oran": 1.24,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8068,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1932
+    ],
+    [
+     "Hayır",
+     0.8068
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Grêmio FB Porto Alegrense Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.1982,
+   "adil_oran": 5.05,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1982,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1982
+    ],
+    [
+     "2 farkla",
+     0.1224
+    ],
+    [
+     "3 farkla",
+     0.0549
+    ],
+    [
+     "4+ farkla",
+     0.0286
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "EC Bahia : Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.1859,
+   "adil_oran": 5.38,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1859,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1859
+    ],
+    [
+     "2 farkla",
+     0.1064
+    ],
+    [
+     "3 farkla",
+     0.0467
+    ],
+    [
+     "4+ farkla",
+     0.0217
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Grêmio FB Porto Alegrense Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.1432,
+   "adil_oran": 6.98,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.1432,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.0676
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.1432
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.1142
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.0791
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "EC Bahia Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.129,
+   "adil_oran": 7.75,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.129,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.0638
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.129
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.1021
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.0657
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Grêmio FB Porto Alegrense Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8266,
+   "adil_oran": 1.21,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8266,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1734
+    ],
+    [
+     "Hayır",
+     0.8266
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "EC Bahia Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8472,
+   "adil_oran": 1.18,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8472,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1528
+    ],
+    [
+     "Hayır",
+     0.8472
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Grêmio FB Porto Alegrense İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8227,
+   "adil_oran": 1.22,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8227,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1773
+    ],
+    [
+     "Hayır",
+     0.8227
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "EC Bahia İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8469,
+   "adil_oran": 1.18,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8469,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1531
+    ],
+    [
+     "Hayır",
+     0.8469
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Grêmio FB Porto Alegrense Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.5665,
+   "adil_oran": 1.77,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5665,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4335
+    ],
+    [
+     "Hayır",
+     0.5665
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "EC Bahia Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.5788,
+   "adil_oran": 1.73,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5788,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4212
+    ],
+    [
+     "Hayır",
+     0.5788
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Grêmio FB Porto Alegrense En Az Bir Yarıyı Kazanır",
+   "oneri": "Evet",
+   "olasilik": 0.559,
+   "adil_oran": 1.79,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.559,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.559
+    ],
+    [
+     "Hayır",
+     0.441
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "EC Bahia En Az Bir Yarıyı Kazanır",
+   "oneri": "Evet",
+   "olasilik": 0.52,
+   "adil_oran": 1.92,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.52,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.52
+    ],
+    [
+     "Hayır",
+     0.48
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Grêmio FB Porto Alegrense İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.9195,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9195,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0805
+    ],
+    [
+     "Hayır",
+     0.9195
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "EC Bahia İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.9172,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9172,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0828
+    ],
+    [
+     "Hayır",
+     0.9172
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Sonucu",
+   "oneri": "X",
+   "olasilik": 0.3843,
+   "adil_oran": 2.6,
+   "en_olasi": "X",
+   "en_olasi_p": 0.3843,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Grêmio FB Porto Alegrense)",
+     0.3216
+    ],
+    [
+     "X",
+     0.3843
+    ],
+    [
+     "2 (EC Bahia)",
+     0.2941
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Çifte Şans",
+   "oneri": "1X",
+   "olasilik": 0.7059,
+   "adil_oran": 1.42,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.7059,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.7059
+    ],
+    [
+     "12",
+     0.6157
+    ],
+    [
+     "X2",
+     0.6784
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.8343,
+   "adil_oran": 1.2,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.8343,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7516
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2485
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.408
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.592
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1657
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8343
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 1. Takım Toplam Gol",
+   "oneri": "Grêmio FB Porto Alegrense 0,5 Üst",
+   "olasilik": 0.5133,
+   "adil_oran": 1.95,
+   "en_olasi": "Grêmio FB Porto Alegrense 1,5 Alt",
+   "en_olasi_p": 0.8356,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense 0,5 Üst",
+     0.5133
+    ],
+    [
+     "Grêmio FB Porto Alegrense 0,5 Alt",
+     0.4867
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Üst",
+     0.1644
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Alt",
+     0.8356
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 2. Takım Toplam Gol",
+   "oneri": "EC Bahia 0,5 Alt",
+   "olasilik": 0.5097,
+   "adil_oran": 1.96,
+   "en_olasi": "EC Bahia 1,5 Alt",
+   "en_olasi_p": 0.8524,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "EC Bahia 0,5 Üst",
+     0.4903
+    ],
+    [
+     "EC Bahia 0,5 Alt",
+     0.5097
+    ],
+    [
+     "EC Bahia 1,5 Üst",
+     0.1476
+    ],
+    [
+     "EC Bahia 1,5 Alt",
+     0.8524
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Grêmio FB Porto Alegrense Toplam Gol Asya",
+   "oneri": "Grêmio FB Porto Alegrense Asya 1 Alt",
+   "olasilik": 0.7476,
+   "adil_oran": 1.34,
+   "en_olasi": "Grêmio FB Porto Alegrense Asya 1 Alt",
+   "en_olasi_p": 0.7476,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense Asya 0,5 Üst",
+     0.5133
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 0,5 Alt",
+     0.4867
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 0,75 Üst",
+     0.4104
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 0,75 Alt",
+     0.5896
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 1 Üst",
+     0.2524
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 1 Alt",
+     0.7476
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı EC Bahia Toplam Gol Asya",
+   "oneri": "EC Bahia Asya 0,25 Üst",
+   "olasilik": 0.658,
+   "adil_oran": 1.52,
+   "en_olasi": "EC Bahia Asya 0,25 Üst",
+   "en_olasi_p": 0.658,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "EC Bahia Asya 0,25 Üst",
+     0.658
+    ],
+    [
+     "EC Bahia Asya 0,25 Alt",
+     0.342
+    ],
+    [
+     "EC Bahia Asya 0,5 Üst",
+     0.4903
+    ],
+    [
+     "EC Bahia Asya 0,5 Alt",
+     0.5097
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.748,
+   "adil_oran": 1.34,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.748,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.252
+    ],
+    [
+     "Hayır",
+     0.748
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı",
+   "oneri": "Grêmio FB Porto Alegrense +0,5",
+   "olasilik": 0.7059,
+   "adil_oran": 1.42,
+   "en_olasi": "Grêmio FB Porto Alegrense +1,5",
+   "en_olasi_p": 0.9166,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense -1,5",
+     0.0974
+    ],
+    [
+     "EC Bahia +1,5",
+     0.9026
+    ],
+    [
+     "Grêmio FB Porto Alegrense -0,5",
+     0.3216
+    ],
+    [
+     "EC Bahia +0,5",
+     0.6784
+    ],
+    [
+     "Grêmio FB Porto Alegrense +0,5",
+     0.7059
+    ],
+    [
+     "EC Bahia -0,5",
+     0.2941
+    ],
+    [
+     "Grêmio FB Porto Alegrense +1,5",
+     0.9166
+    ],
+    [
+     "EC Bahia -1,5",
+     0.0834
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Goller Asya Handikapı",
+   "oneri": "Grêmio FB Porto Alegrense Asya +0,5",
+   "olasilik": 0.7059,
+   "adil_oran": 1.42,
+   "en_olasi": "Grêmio FB Porto Alegrense Asya +0,5",
+   "en_olasi_p": 0.7059,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense Asya -1",
+     0.1255
+    ],
+    [
+     "EC Bahia Asya -1",
+     0.1057
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya -0,75",
+     0.236
+    ],
+    [
+     "EC Bahia Asya -0,75",
+     0.211
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya -0,5",
+     0.3216
+    ],
+    [
+     "EC Bahia Asya -0,5",
+     0.2941
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya -0,25",
+     0.3981
+    ],
+    [
+     "EC Bahia Asya -0,25",
+     0.364
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya 0",
+     0.5224
+    ],
+    [
+     "EC Bahia Asya 0",
+     0.4776
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya +0,25",
+     0.636
+    ],
+    [
+     "EC Bahia Asya +0,25",
+     0.6019
+    ],
+    [
+     "Grêmio FB Porto Alegrense Asya +0,5",
+     0.7059
+    ],
+    [
+     "EC Bahia Asya +0,5",
+     0.6784
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Grêmio FB Porto Alegrense (+1)",
+   "olasilik": 0.7059,
+   "adil_oran": 1.42,
+   "en_olasi": "Grêmio FB Porto Alegrense (+2)",
+   "en_olasi_p": 0.9166,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense (-2)",
+     0.0207
+    ],
+    [
+     "X (-2)",
+     0.0767
+    ],
+    [
+     "EC Bahia (-2)",
+     0.9026
+    ],
+    [
+     "Grêmio FB Porto Alegrense (-1)",
+     0.0974
+    ],
+    [
+     "X (-1)",
+     0.2242
+    ],
+    [
+     "EC Bahia (-1)",
+     0.6784
+    ],
+    [
+     "Grêmio FB Porto Alegrense (+1)",
+     0.7059
+    ],
+    [
+     "X (+1)",
+     0.2106
+    ],
+    [
+     "EC Bahia (+1)",
+     0.0834
+    ],
+    [
+     "Grêmio FB Porto Alegrense (+2)",
+     0.9166
+    ],
+    [
+     "X (+2)",
+     0.0665
+    ],
+    [
+     "EC Bahia (+2)",
+     0.0169
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Asya",
+   "oneri": "Toplam Asya 0,75 Üst",
+   "olasilik": 0.7,
+   "adil_oran": 1.43,
+   "en_olasi": "Toplam Asya 0,75 Üst",
+   "en_olasi_p": 0.7,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam Asya 0,75 Üst",
+     0.7
+    ],
+    [
+     "Toplam Asya 0,75 Alt",
+     0.3
+    ],
+    [
+     "Toplam Asya 1 Üst",
+     0.6215
+    ],
+    [
+     "Toplam Asya 1 Alt",
+     0.3785
+    ],
+    [
+     "Toplam Asya 1,25 Üst",
+     0.4926
+    ],
+    [
+     "Toplam Asya 1,25 Alt",
+     0.5074
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Toplam Gol (3-İhtimalli)",
+   "oneri": "1 Üst",
+   "olasilik": 0.408,
+   "adil_oran": 2.45,
+   "en_olasi": "1 Üst",
+   "en_olasi_p": 0.408,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.2485
+    ],
+    [
+     "Tam 1",
+     0.3436
+    ],
+    [
+     "1 Üst",
+     0.408
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.2612,
+   "adil_oran": 3.83,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.2612,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0604
+    ],
+    [
+     "1 & KG Yok",
+     0.2612
+    ],
+    [
+     "X & KG Var",
+     0.1359
+    ],
+    [
+     "X & KG Yok",
+     0.2485
+    ],
+    [
+     "2 & KG Var",
+     0.0558
+    ],
+    [
+     "2 & KG Yok",
+     0.2383
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Aralığı",
+   "oneri": "2-3 gol",
+   "olasilik": 0.3546,
+   "adil_oran": 2.82,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.3546,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2485
+    ],
+    [
+     "1 gol",
+     0.3436
+    ],
+    [
+     "2-3 gol",
+     0.3546
+    ],
+    [
+     "4+ gol",
+     0.0534
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Grêmio FB Porto Alegrense Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.4867,
+   "adil_oran": 2.05,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4867,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4867
+    ],
+    [
+     "1 gol",
+     0.3489
+    ],
+    [
+     "2+ gol",
+     0.1644
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı EC Bahia Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.5097,
+   "adil_oran": 1.96,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5097,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5097
+    ],
+    [
+     "1 gol",
+     0.3428
+    ],
+    [
+     "2+ gol",
+     0.1476
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.592,
+   "adil_oran": 1.69,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.592,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.592
+    ],
+    [
+     "1-2 gol",
+     0.5858
+    ],
+    [
+     "2-3 gol",
+     0.3546
+    ],
+    [
+     "3+ gol",
+     0.1657
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.4867,
+   "adil_oran": 2.05,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.8356,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4867
+    ],
+    [
+     "0-1 gol",
+     0.8356
+    ],
+    [
+     "1-2 gol",
+     0.4771
+    ],
+    [
+     "2+ gol",
+     0.1644
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.5097,
+   "adil_oran": 1.96,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.8524,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5097
+    ],
+    [
+     "0-1 gol",
+     0.8524
+    ],
+    [
+     "1-2 gol",
+     0.459
+    ],
+    [
+     "2+ gol",
+     0.1476
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3436,
+   "adil_oran": 2.91,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3436,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2485
+    ],
+    [
+     "1 gol",
+     0.3436
+    ],
+    [
+     "2 gol",
+     0.2423
+    ],
+    [
+     "3 gol",
+     0.1123
+    ],
+    [
+     "4+ gol",
+     0.0534
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Grêmio FB Porto Alegrense Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.4867,
+   "adil_oran": 2.05,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4867,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4867
+    ],
+    [
+     "1 gol",
+     0.3489
+    ],
+    [
+     "2 gol",
+     0.1282
+    ],
+    [
+     "3+ gol",
+     0.0362
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı EC Bahia Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.5097,
+   "adil_oran": 1.96,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5097,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5097
+    ],
+    [
+     "1 gol",
+     0.3428
+    ],
+    [
+     "2 gol",
+     0.1162
+    ],
+    [
+     "3+ gol",
+     0.0313
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Grêmio FB Porto Alegrense Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.2242,
+   "adil_oran": 4.46,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2242,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2242
+    ],
+    [
+     "2 farkla",
+     0.0767
+    ],
+    [
+     "3+ farkla",
+     0.0207
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı EC Bahia Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.2106,
+   "adil_oran": 4.75,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2106,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2106
+    ],
+    [
+     "2 farkla",
+     0.0665
+    ],
+    [
+     "3+ farkla",
+     0.0169
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Grêmio FB Porto Alegrense Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7388,
+   "adil_oran": 1.35,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7388,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2612
+    ],
+    [
+     "Hayır",
+     0.7388
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı EC Bahia Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7617,
+   "adil_oran": 1.31,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7617,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2383
+    ],
+    [
+     "Hayır",
+     0.7617
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı İlk Golü Atacak Takım",
+   "oneri": "Grêmio FB Porto Alegrense",
+   "olasilik": 0.3878,
+   "adil_oran": 2.58,
+   "en_olasi": "Grêmio FB Porto Alegrense",
+   "en_olasi_p": 0.3878,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense",
+     0.3878
+    ],
+    [
+     "Gol yok",
+     0.2485
+    ],
+    [
+     "EC Bahia",
+     0.3638
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Son Golü Atacak Takım",
+   "oneri": "Grêmio FB Porto Alegrense",
+   "olasilik": 0.3883,
+   "adil_oran": 2.58,
+   "en_olasi": "Grêmio FB Porto Alegrense",
+   "en_olasi_p": 0.3883,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense",
+     0.3883
+    ],
+    [
+     "Gol yok",
+     0.2485
+    ],
+    [
+     "EC Bahia",
+     0.3633
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Doğru Skor",
+   "oneri": "0-0",
+   "olasilik": 0.2485,
+   "adil_oran": 4.02,
+   "en_olasi": "0-0",
+   "en_olasi_p": 0.2485,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-0",
+     0.2485
+    ],
+    [
+     "1-0",
+     0.177
+    ],
+    [
+     "0-1",
+     0.1666
+    ],
+    [
+     "1-1",
+     0.1201
+    ],
+    [
+     "2-0",
+     0.0657
+    ],
+    [
+     "0-2",
+     0.0565
+    ],
+    [
+     "2-1",
+     0.0437
+    ],
+    [
+     "1-2",
+     0.0407
+    ],
+    [
+     "3-0",
+     0.0156
+    ],
+    [
+     "2-2",
+     0.015
+    ],
+    [
+     "0-3",
+     0.0124
+    ],
+    [
+     "Diğer",
+     0.011
+    ],
+    [
+     "3-1",
+     0.0103
+    ],
+    [
+     "1-3",
+     0.0096
+    ],
+    [
+     "3-2",
+     0.0035
+    ],
+    [
+     "2-3",
+     0.0033
+    ],
+    [
+     "3-3",
+     0.0008
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Sonucu",
+   "oneri": "1 (Grêmio FB Porto Alegrense)",
+   "olasilik": 0.3498,
+   "adil_oran": 2.86,
+   "en_olasi": "1 (Grêmio FB Porto Alegrense)",
+   "en_olasi_p": 0.3498,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Grêmio FB Porto Alegrense)",
+     0.3498
+    ],
+    [
+     "X",
+     0.3302
+    ],
+    [
+     "2 (EC Bahia)",
+     0.3201
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Çifte Şans",
+   "oneri": "1X",
+   "olasilik": 0.6799,
+   "adil_oran": 1.47,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.6799,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.6799
+    ],
+    [
+     "12",
+     0.6698
+    ],
+    [
+     "X2",
+     0.6502
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.8318,
+   "adil_oran": 1.2,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.8318,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.8318
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.1682
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.5312
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.4688
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.2626
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.7375
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Grêmio FB Porto Alegrense Toplam Gol",
+   "oneri": "Grêmio FB Porto Alegrense 1,5 Alt",
+   "olasilik": 0.7671,
+   "adil_oran": 1.3,
+   "en_olasi": "Grêmio FB Porto Alegrense 1,5 Alt",
+   "en_olasi_p": 0.7671,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense 0,5 Üst",
+     0.5999
+    ],
+    [
+     "Grêmio FB Porto Alegrense 0,5 Alt",
+     0.4001
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Üst",
+     0.2329
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Alt",
+     0.7671
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı EC Bahia Toplam Gol",
+   "oneri": "EC Bahia 1,5 Alt",
+   "olasilik": 0.7867,
+   "adil_oran": 1.27,
+   "en_olasi": "EC Bahia 1,5 Alt",
+   "en_olasi_p": 0.7867,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "EC Bahia 0,5 Üst",
+     0.5772
+    ],
+    [
+     "EC Bahia 0,5 Alt",
+     0.4228
+    ],
+    [
+     "EC Bahia 1,5 Üst",
+     0.2133
+    ],
+    [
+     "EC Bahia 1,5 Alt",
+     0.7867
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.6548,
+   "adil_oran": 1.53,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6548,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3452
+    ],
+    [
+     "Hayır",
+     0.6548
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı",
+   "oneri": "Grêmio FB Porto Alegrense +0,5",
+   "olasilik": 0.6799,
+   "adil_oran": 1.47,
+   "en_olasi": "Grêmio FB Porto Alegrense +1,5",
+   "en_olasi_p": 0.8901,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense -1,5",
+     0.1259
+    ],
+    [
+     "EC Bahia +1,5",
+     0.8741
+    ],
+    [
+     "Grêmio FB Porto Alegrense -0,5",
+     0.3498
+    ],
+    [
+     "EC Bahia +0,5",
+     0.6502
+    ],
+    [
+     "Grêmio FB Porto Alegrense +0,5",
+     0.6799
+    ],
+    [
+     "EC Bahia -0,5",
+     0.3201
+    ],
+    [
+     "Grêmio FB Porto Alegrense +1,5",
+     0.8901
+    ],
+    [
+     "EC Bahia -1,5",
+     0.1099
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Grêmio FB Porto Alegrense (+1)",
+   "olasilik": 0.6799,
+   "adil_oran": 1.47,
+   "en_olasi": "Grêmio FB Porto Alegrense (+2)",
+   "en_olasi_p": 0.8901,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense (-2)",
+     0.0338
+    ],
+    [
+     "X (-2)",
+     0.0922
+    ],
+    [
+     "EC Bahia (-2)",
+     0.8741
+    ],
+    [
+     "Grêmio FB Porto Alegrense (-1)",
+     0.1259
+    ],
+    [
+     "X (-1)",
+     0.2238
+    ],
+    [
+     "EC Bahia (-1)",
+     0.6502
+    ],
+    [
+     "Grêmio FB Porto Alegrense (+1)",
+     0.6799
+    ],
+    [
+     "X (+1)",
+     0.2102
+    ],
+    [
+     "EC Bahia (+1)",
+     0.1099
+    ],
+    [
+     "Grêmio FB Porto Alegrense (+2)",
+     0.8901
+    ],
+    [
+     "X (+2)",
+     0.0822
+    ],
+    [
+     "EC Bahia (+2)",
+     0.0277
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.2546,
+   "adil_oran": 3.93,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.2546,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0951
+    ],
+    [
+     "1 & KG Yok",
+     0.2546
+    ],
+    [
+     "X & KG Var",
+     0.162
+    ],
+    [
+     "X & KG Yok",
+     0.1682
+    ],
+    [
+     "2 & KG Var",
+     0.0881
+    ],
+    [
+     "2 & KG Yok",
+     0.2319
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol Aralığı",
+   "oneri": "2-3 gol",
+   "olasilik": 0.4257,
+   "adil_oran": 2.35,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.4257,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.1682
+    ],
+    [
+     "1 gol",
+     0.3006
+    ],
+    [
+     "2-3 gol",
+     0.4257
+    ],
+    [
+     "4+ gol",
+     0.1055
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Grêmio FB Porto Alegrense Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.4001,
+   "adil_oran": 2.5,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4001,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4001
+    ],
+    [
+     "1 gol",
+     0.3669
+    ],
+    [
+     "2+ gol",
+     0.2329
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı EC Bahia Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.4228,
+   "adil_oran": 2.37,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4228,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4228
+    ],
+    [
+     "1 gol",
+     0.3639
+    ],
+    [
+     "2+ gol",
+     0.2133
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5693,
+   "adil_oran": 1.76,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5693,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.4688
+    ],
+    [
+     "1-2 gol",
+     0.5693
+    ],
+    [
+     "2-3 gol",
+     0.4257
+    ],
+    [
+     "3+ gol",
+     0.2626
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7671,
+   "adil_oran": 1.3,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7671,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4001
+    ],
+    [
+     "0-1 gol",
+     0.7671
+    ],
+    [
+     "1-2 gol",
+     0.5337
+    ],
+    [
+     "2+ gol",
+     0.2329
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7867,
+   "adil_oran": 1.27,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7867,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4228
+    ],
+    [
+     "0-1 gol",
+     0.7867
+    ],
+    [
+     "1-2 gol",
+     0.5191
+    ],
+    [
+     "2+ gol",
+     0.2133
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3006,
+   "adil_oran": 3.33,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3006,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.1682
+    ],
+    [
+     "1 gol",
+     0.3006
+    ],
+    [
+     "2 gol",
+     0.2686
+    ],
+    [
+     "3 gol",
+     0.1571
+    ],
+    [
+     "4+ gol",
+     0.1055
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Grêmio FB Porto Alegrense Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.4001,
+   "adil_oran": 2.5,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4001,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4001
+    ],
+    [
+     "1 gol",
+     0.3669
+    ],
+    [
+     "2 gol",
+     0.1668
+    ],
+    [
+     "3+ gol",
+     0.0662
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı EC Bahia Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.4228,
+   "adil_oran": 2.37,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4228,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4228
+    ],
+    [
+     "1 gol",
+     0.3639
+    ],
+    [
+     "2 gol",
+     0.1552
+    ],
+    [
+     "3+ gol",
+     0.0581
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Grêmio FB Porto Alegrense Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.2238,
+   "adil_oran": 4.47,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2238,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2238
+    ],
+    [
+     "2 farkla",
+     0.0922
+    ],
+    [
+     "3+ farkla",
+     0.0338
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı EC Bahia Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.2102,
+   "adil_oran": 4.76,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2102,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2102
+    ],
+    [
+     "2 farkla",
+     0.0822
+    ],
+    [
+     "3+ farkla",
+     0.0277
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Grêmio FB Porto Alegrense Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7454,
+   "adil_oran": 1.34,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7454,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2546
+    ],
+    [
+     "Hayır",
+     0.7454
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı EC Bahia Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7681,
+   "adil_oran": 1.3,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7681,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2319
+    ],
+    [
+     "Hayır",
+     0.7681
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı İlk Golü Atacak Takım",
+   "oneri": "Grêmio FB Porto Alegrense",
+   "olasilik": 0.4292,
+   "adil_oran": 2.33,
+   "en_olasi": "Grêmio FB Porto Alegrense",
+   "en_olasi_p": 0.4292,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense",
+     0.4292
+    ],
+    [
+     "Gol yok",
+     0.1682
+    ],
+    [
+     "EC Bahia",
+     0.4026
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Son Golü Atacak Takım",
+   "oneri": "Grêmio FB Porto Alegrense",
+   "olasilik": 0.4267,
+   "adil_oran": 2.34,
+   "en_olasi": "Grêmio FB Porto Alegrense",
+   "en_olasi_p": 0.4267,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense",
+     0.4267
+    ],
+    [
+     "Gol yok",
+     0.1682
+    ],
+    [
+     "EC Bahia",
+     0.4051
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Doğru Skor",
+   "oneri": "0-0",
+   "olasilik": 0.1682,
+   "adil_oran": 5.95,
+   "en_olasi": "0-0",
+   "en_olasi_p": 0.1682,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-0",
+     0.1682
+    ],
+    [
+     "1-0",
+     0.1552
+    ],
+    [
+     "0-1",
+     0.1455
+    ],
+    [
+     "1-1",
+     0.1339
+    ],
+    [
+     "2-0",
+     0.0714
+    ],
+    [
+     "0-2",
+     0.0633
+    ],
+    [
+     "2-1",
+     0.0604
+    ],
+    [
+     "1-2",
+     0.0566
+    ],
+    [
+     "Diğer",
+     0.0264
+    ],
+    [
+     "2-2",
+     0.0255
+    ],
+    [
+     "3-0",
+     0.0218
+    ],
+    [
+     "3-1",
+     0.0188
+    ],
+    [
+     "0-3",
+     0.0182
+    ],
+    [
+     "1-3",
+     0.0171
+    ],
+    [
+     "3-2",
+     0.0077
+    ],
+    [
+     "2-3",
+     0.0075
+    ],
+    [
+     "3-3",
+     0.0025
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Karşılıklı Gol",
+   "oneri": "İY Yok / 2Y Yok",
+   "olasilik": 0.4908,
+   "adil_oran": 2.04,
+   "en_olasi": "İY Yok / 2Y Yok",
+   "en_olasi_p": 0.4908,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Var / 2Y Var",
+     0.0881
+    ],
+    [
+     "İY Var / 2Y Yok",
+     0.164
+    ],
+    [
+     "İY Yok / 2Y Var",
+     0.2572
+    ],
+    [
+     "İY Yok / 2Y Yok",
+     0.4908
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı veya Maç Sonucu",
+   "oneri": "İY X veya MS X",
+   "olasilik": 0.4928,
+   "adil_oran": 2.03,
+   "en_olasi": "İY X veya MS X",
+   "en_olasi_p": 0.4928,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 1 veya MS 1",
+     0.4846
+    ],
+    [
+     "İY X veya MS X",
+     0.4928
+    ],
+    [
+     "İY 2 veya MS 2",
+     0.4434
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarı/Maç Sonucu",
+   "oneri": "1/1",
+   "olasilik": 0.2411,
+   "adil_oran": 4.15,
+   "en_olasi": "1/1",
+   "en_olasi_p": 0.2411,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.2411
+    ],
+    [
+     "1/X",
+     0.0546
+    ],
+    [
+     "1/2",
+     0.0259
+    ],
+    [
+     "X/1",
+     0.1341
+    ],
+    [
+     "X/X",
+     0.1269
+    ],
+    [
+     "X/2",
+     0.1234
+    ],
+    [
+     "2/1",
+     0.0289
+    ],
+    [
+     "2/X",
+     0.0539
+    ],
+    [
+     "2/2",
+     0.2113
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Sonucu",
+   "oneri": "X/1",
+   "olasilik": 0.1341,
+   "adil_oran": 7.46,
+   "en_olasi": "X/1",
+   "en_olasi_p": 0.1341,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.1124
+    ],
+    [
+     "1/X",
+     0.1067
+    ],
+    [
+     "1/2",
+     0.1025
+    ],
+    [
+     "X/1",
+     0.1341
+    ],
+    [
+     "X/X",
+     0.1269
+    ],
+    [
+     "X/2",
+     0.1234
+    ],
+    [
+     "2/1",
+     0.1033
+    ],
+    [
+     "2/X",
+     0.0966
+    ],
+    [
+     "2/2",
+     0.0942
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.4642,
+   "adil_oran": 2.15,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.4642,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.3033
+    ],
+    [
+     "Eşit",
+     0.2324
+    ],
+    [
+     "2. Yarı",
+     0.4642
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı : Çifte Şans",
+   "oneri": "1. veya 2. Yarı",
+   "olasilik": 0.7676,
+   "adil_oran": 1.3,
+   "en_olasi": "1. veya 2. Yarı",
+   "en_olasi_p": 0.7676,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı veya Eşit",
+     0.5357
+    ],
+    [
+     "2. Yarı veya Eşit",
+     0.6967
+    ],
+    [
+     "1. veya 2. Yarı",
+     0.7676
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Grêmio FB Porto Alegrense : En Çok Gol Attığı Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.382,
+   "adil_oran": 2.62,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.382,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2712
+    ],
+    [
+     "Eşit",
+     0.3469
+    ],
+    [
+     "2. Yarı",
+     0.382
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "EC Bahia : En Çok Gol Attığı Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.375,
+   "adil_oran": 2.67,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.375,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2653
+    ],
+    [
+     "Eşit",
+     0.3596
+    ],
+    [
+     "2. Yarı",
+     0.375
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Grêmio FB Porto Alegrense : Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.6919,
+   "adil_oran": 1.45,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6919,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3081
+    ],
+    [
+     "Hayır",
+     0.6919
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "EC Bahia Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.7169,
+   "adil_oran": 1.39,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7169,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2831
+    ],
+    [
+     "Hayır",
+     0.7169
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Grêmio FB Porto Alegrense : İlk Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.5133,
+   "adil_oran": 1.95,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5133,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5133
+    ],
+    [
+     "Hayır",
+     0.4867
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "EC Bahia İlk Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.5097,
+   "adil_oran": 1.96,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5097,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4903
+    ],
+    [
+     "Hayır",
+     0.5097
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Grêmio FB Porto Alegrense : İkinci Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.5999,
+   "adil_oran": 1.67,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5999,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5999
+    ],
+    [
+     "Hayır",
+     0.4001
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "EC Bahia İkinci Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.5772,
+   "adil_oran": 1.73,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5772,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5772
+    ],
+    [
+     "Hayır",
+     0.4228
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.7516,
+   "adil_oran": 1.33,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7516,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7516
+    ],
+    [
+     "Hayır",
+     0.2485
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İkinci Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.8318,
+   "adil_oran": 1.2,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.8318,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.8318
+    ],
+    [
+     "Hayır",
+     0.1682
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarıda da 1.5 Üst Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7834,
+   "adil_oran": 1.28,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7834,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2166
+    ],
+    [
+     "Hayır",
+     0.7834
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarı Goller 1.5 Alt",
+   "oneri": "Hayır",
+   "olasilik": 0.7225,
+   "adil_oran": 1.38,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7225,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2775
+    ],
+    [
+     "Hayır",
+     0.7225
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Grêmio FB Porto Alegrense : Gol Atar 1.Yarı/2.Yarı",
+   "oneri": "Evet/Evet",
+   "olasilik": 0.3081,
+   "adil_oran": 3.25,
+   "en_olasi": "Evet/Evet",
+   "en_olasi_p": 0.3081,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.3081
+    ],
+    [
+     "Evet/Hayır",
+     0.2052
+    ],
+    [
+     "Hayır/Evet",
+     0.2918
+    ],
+    [
+     "Hayır/Hayır",
+     0.195
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "EC Bahia Gol Atar İlk Yarı/İkinci Yarı",
+   "oneri": "Hayır/Evet",
+   "olasilik": 0.2941,
+   "adil_oran": 3.4,
+   "en_olasi": "Hayır/Evet",
+   "en_olasi_p": 0.2941,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.2831
+    ],
+    [
+     "Evet/Hayır",
+     0.2072
+    ],
+    [
+     "Hayır/Evet",
+     0.2941
+    ],
+    [
+     "Hayır/Hayır",
+     0.2156
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarıları Farklı Takımlar Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7942,
+   "adil_oran": 1.26,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7942,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2058
+    ],
+    [
+     "Hayır",
+     0.7942
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarılardan En Az Birinde Beraberlik",
+   "oneri": "Evet",
+   "olasilik": 0.5876,
+   "adil_oran": 1.7,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5876,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5876
+    ],
+    [
+     "Hayır",
+     0.4124
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1.Yarı Toplam Gol'e karşı 2. Yarı Toplam Gol Handikapı",
+   "oneri": "1. Yarı +1,5",
+   "olasilik": 0.7469,
+   "adil_oran": 1.34,
+   "en_olasi": "1. Yarı +1,5",
+   "en_olasi_p": 0.7469,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "2. Yarı -1,5",
+     0.2531
+    ],
+    [
+     "2. Yarı -0,5",
+     0.4642
+    ],
+    [
+     "2. Yarı +0,5",
+     0.6967
+    ],
+    [
+     "1. Yarı +1,5",
+     0.7469
+    ],
+    [
+     "1. Yarı +0,5",
+     0.5357
+    ],
+    [
+     "1. Yarı -0,5",
+     0.3033
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7644,
+   "adil_oran": 1.31,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7644,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2356
+    ],
+    [
+     "Hayır",
+     0.7644
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Köşe Vuruşu",
+   "oneri": "Evet",
+   "olasilik": 0.7268,
+   "adil_oran": 1.38,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7268,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7268
+    ],
+    [
+     "Hayır",
+     0.2732
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Grêmio FB Porto Alegrense : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Grêmio FB Porto Alegrense 0,5 Alt",
+   "olasilik": 0.5076,
+   "adil_oran": 1.97,
+   "en_olasi": "Grêmio FB Porto Alegrense 1,5 Alt",
+   "en_olasi_p": 0.8516,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense 0,5 Üst",
+     0.4924
+    ],
+    [
+     "Grêmio FB Porto Alegrense 0,5 Alt",
+     0.5076
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Üst",
+     0.1484
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Alt",
+     0.8516
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "EC Bahia : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "EC Bahia 0,5 Alt",
+   "olasilik": 0.5372,
+   "adil_oran": 1.86,
+   "en_olasi": "EC Bahia 0,5 Alt",
+   "en_olasi_p": 0.5372,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "EC Bahia 0,5 Üst",
+     0.4628
+    ],
+    [
+     "EC Bahia 0,5 Alt",
+     0.5372
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Sarı Kartlar",
+   "oneri": "Hayır",
+   "olasilik": 0.7718,
+   "adil_oran": 1.3,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7718,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2282
+    ],
+    [
+     "Hayır",
+     0.7718
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.6931,
+   "adil_oran": 1.44,
+   "en_olasi": "X",
+   "en_olasi_p": 0.6931,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Grêmio FB Porto Alegrense)",
+     0.1587
+    ],
+    [
+     "X",
+     0.6931
+    ],
+    [
+     "2 (EC Bahia)",
+     0.1482
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Gol Handikapı",
+   "oneri": "Grêmio FB Porto Alegrense (+1)",
+   "olasilik": 0.8518,
+   "adil_oran": 1.17,
+   "en_olasi": "Grêmio FB Porto Alegrense (+1)",
+   "en_olasi_p": 0.8518,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense (-1)",
+     0.0162
+    ],
+    [
+     "X (-1)",
+     0.1425
+    ],
+    [
+     "EC Bahia (-1)",
+     0.8413
+    ],
+    [
+     "Grêmio FB Porto Alegrense (+1)",
+     0.8518
+    ],
+    [
+     "X (+1)",
+     0.134
+    ],
+    [
+     "EC Bahia (+1)",
+     0.0142
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.6651,
+   "adil_oran": 1.5,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.936,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.3349
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.6651
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.064
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.936
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Grêmio FB Porto Alegrense Toplam Goller",
+   "oneri": "Grêmio FB Porto Alegrense 0,5 Alt",
+   "olasilik": 0.8104,
+   "adil_oran": 1.23,
+   "en_olasi": "Grêmio FB Porto Alegrense 1,5 Alt",
+   "en_olasi_p": 0.9805,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense 0,5 Üst",
+     0.1896
+    ],
+    [
+     "Grêmio FB Porto Alegrense 0,5 Alt",
+     0.8104
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Üst",
+     0.0195
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Alt",
+     0.9805
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. EC Bahia Toplam Goller",
+   "oneri": "EC Bahia 0,5 Alt",
+   "olasilik": 0.8207,
+   "adil_oran": 1.22,
+   "en_olasi": "EC Bahia 0,5 Alt",
+   "en_olasi_p": 0.8207,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "EC Bahia 0,5 Üst",
+     0.1793
+    ],
+    [
+     "EC Bahia 0,5 Alt",
+     0.8207
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. İki Takım Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.966,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.966,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.034
+    ],
+    [
+     "Hayır",
+     0.966
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.5078,
+   "adil_oran": 1.97,
+   "en_olasi": "X",
+   "en_olasi_p": 0.5078,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Grêmio FB Porto Alegrense)",
+     0.2559
+    ],
+    [
+     "X",
+     0.5078
+    ],
+    [
+     "2 (EC Bahia)",
+     0.2362
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Gol Handikapı",
+   "oneri": "Grêmio FB Porto Alegrense (+1)",
+   "olasilik": 0.7638,
+   "adil_oran": 1.31,
+   "en_olasi": "Grêmio FB Porto Alegrense (+1)",
+   "en_olasi_p": 0.7638,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense (-1)",
+     0.0514
+    ],
+    [
+     "X (-1)",
+     0.2045
+    ],
+    [
+     "EC Bahia (-1)",
+     0.7441
+    ],
+    [
+     "Grêmio FB Porto Alegrense (+1)",
+     0.7638
+    ],
+    [
+     "X (+1)",
+     0.1915
+    ],
+    [
+     "EC Bahia (+1)",
+     0.0447
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Toplam Goller",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.7883,
+   "adil_oran": 1.27,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.7883,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.5734
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.4266
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.2117
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.7883
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Grêmio FB Porto Alegrense Toplam Goller",
+   "oneri": "Grêmio FB Porto Alegrense 0,5 Alt",
+   "olasilik": 0.6434,
+   "adil_oran": 1.55,
+   "en_olasi": "Grêmio FB Porto Alegrense 1,5 Alt",
+   "en_olasi_p": 0.9271,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense 0,5 Üst",
+     0.3566
+    ],
+    [
+     "Grêmio FB Porto Alegrense 0,5 Alt",
+     0.6434
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Üst",
+     0.0729
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Alt",
+     0.9271
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. EC Bahia Toplam Goller",
+   "oneri": "EC Bahia 0,5 Alt",
+   "olasilik": 0.6623,
+   "adil_oran": 1.51,
+   "en_olasi": "EC Bahia 0,5 Alt",
+   "en_olasi_p": 0.6623,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "EC Bahia 0,5 Üst",
+     0.3377
+    ],
+    [
+     "EC Bahia 0,5 Alt",
+     0.6623
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Galibi",
+   "oneri": "1 (Grêmio FB Porto Alegrense)",
+   "olasilik": 0.3557,
+   "adil_oran": 2.81,
+   "en_olasi": "1 (Grêmio FB Porto Alegrense)",
+   "en_olasi_p": 0.3557,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Grêmio FB Porto Alegrense)",
+     0.3557
+    ],
+    [
+     "X",
+     0.3202
+    ],
+    [
+     "2 (EC Bahia)",
+     0.3241
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Gol Handikapı",
+   "oneri": "Grêmio FB Porto Alegrense +0,5",
+   "olasilik": 0.6759,
+   "adil_oran": 1.48,
+   "en_olasi": "EC Bahia +1,5",
+   "en_olasi_p": 0.8657,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense -1,5",
+     0.1343
+    ],
+    [
+     "EC Bahia +1,5",
+     0.8657
+    ],
+    [
+     "Grêmio FB Porto Alegrense -0,5",
+     0.3557
+    ],
+    [
+     "EC Bahia +0,5",
+     0.6443
+    ],
+    [
+     "Grêmio FB Porto Alegrense +0,5",
+     0.6759
+    ],
+    [
+     "EC Bahia -0,5",
+     0.3241
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Toplam Goller",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.7071,
+   "adil_oran": 1.41,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.8474,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.8474
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.1526
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.5637
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.4363
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.2929
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.7071
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Grêmio FB Porto Alegrense Toplam Goller",
+   "oneri": "Grêmio FB Porto Alegrense 1,5 Alt",
+   "olasilik": 0.7444,
+   "adil_oran": 1.34,
+   "en_olasi": "Grêmio FB Porto Alegrense 1,5 Alt",
+   "en_olasi_p": 0.7444,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense 0,5 Üst",
+     0.621
+    ],
+    [
+     "Grêmio FB Porto Alegrense 0,5 Alt",
+     0.379
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Üst",
+     0.2556
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Alt",
+     0.7444
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. EC Bahia Toplam Goller",
+   "oneri": "EC Bahia 0,5 Üst",
+   "olasilik": 0.5992,
+   "adil_oran": 1.67,
+   "en_olasi": "EC Bahia 0,5 Üst",
+   "en_olasi_p": 0.5992,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "EC Bahia 0,5 Üst",
+     0.5992
+    ],
+    [
+     "EC Bahia 0,5 Alt",
+     0.4008
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.6272,
+   "adil_oran": 1.59,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6272,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3728
+    ],
+    [
+     "Hayır",
+     0.6272
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Galibi",
+   "oneri": "1 (Grêmio FB Porto Alegrense)",
+   "olasilik": 0.3809,
+   "adil_oran": 2.63,
+   "en_olasi": "1 (Grêmio FB Porto Alegrense)",
+   "en_olasi_p": 0.3809,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Grêmio FB Porto Alegrense)",
+     0.3809
+    ],
+    [
+     "X",
+     0.2755
+    ],
+    [
+     "2 (EC Bahia)",
+     0.3436
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Gol Handikapı",
+   "oneri": "EC Bahia +1,5",
+   "olasilik": 0.8335,
+   "adil_oran": 1.2,
+   "en_olasi": "EC Bahia +1,5",
+   "en_olasi_p": 0.8335,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense -1,5",
+     0.1665
+    ],
+    [
+     "EC Bahia +1,5",
+     0.8335
+    ],
+    [
+     "Grêmio FB Porto Alegrense -0,5",
+     0.3809
+    ],
+    [
+     "EC Bahia +0,5",
+     0.6191
+    ],
+    [
+     "Grêmio FB Porto Alegrense +0,5",
+     0.6564
+    ],
+    [
+     "EC Bahia -0,5",
+     0.3436
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Toplam Goller",
+   "oneri": "Toplam 1,5 Üst",
+   "olasilik": 0.6948,
+   "adil_oran": 1.44,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.9103,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.9103
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.0897
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.6948
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.3052
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.4348
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.5652
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Grêmio FB Porto Alegrense Toplam Goller",
+   "oneri": "Grêmio FB Porto Alegrense 0,5 Üst",
+   "olasilik": 0.7114,
+   "adil_oran": 1.41,
+   "en_olasi": "Grêmio FB Porto Alegrense 0,5 Üst",
+   "en_olasi_p": 0.7114,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense 0,5 Üst",
+     0.7114
+    ],
+    [
+     "Grêmio FB Porto Alegrense 0,5 Alt",
+     0.2886
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Üst",
+     0.3553
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Alt",
+     0.6447
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. EC Bahia Toplam Goller",
+   "oneri": "EC Bahia 0,5 Üst",
+   "olasilik": 0.6893,
+   "adil_oran": 1.45,
+   "en_olasi": "EC Bahia 0,5 Üst",
+   "en_olasi_p": 0.6893,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "EC Bahia 0,5 Üst",
+     0.6893
+    ],
+    [
+     "EC Bahia 0,5 Alt",
+     0.3107
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.5096,
+   "adil_oran": 1.96,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5096,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4904
+    ],
+    [
+     "Hayır",
+     0.5096
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kafa Golü Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.611,
+   "adil_oran": 1.64,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.611,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.389
+    ],
+    [
+     "Hayır",
+     0.611
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Frikikten Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9087,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9087,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0913
+    ],
+    [
+     "Hayır",
+     0.9087
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Rövaşata ile Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.9928,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9928,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0072
+    ],
+    [
+     "Hayır",
+     0.9928
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Ceza Sahası Dışından Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7026,
+   "adil_oran": 1.42,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7026,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2974
+    ],
+    [
+     "Hayır",
+     0.7026
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kendi Kalesine Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.895,
+   "adil_oran": 1.12,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.895,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.105
+    ],
+    [
+     "Hayır",
+     0.895
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Oyuncu Hat-trick Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9725,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9725,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0275
+    ],
+    [
+     "Hayır",
+     0.9725
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Kaleci Asist Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9877,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9877,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0123
+    ],
+    [
+     "Hayır",
+     0.9877
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "VAR'lar: Toplam (Yalnızca Sahada İnceleme veya Video İnceleme İşareti (TV))",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.603,
+   "adil_oran": 1.66,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9083,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.397
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.603
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0917
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9083
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Sonuç",
+   "oneri": "1 (Grêmio FB Porto Alegrense)",
+   "olasilik": 0.5102,
+   "adil_oran": 1.96,
+   "en_olasi": "1 (Grêmio FB Porto Alegrense)",
+   "en_olasi_p": 0.5102,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Grêmio FB Porto Alegrense)",
+     0.5102
+    ],
+    [
+     "X",
+     0.1068
+    ],
+    [
+     "2 (EC Bahia)",
+     0.3829
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam",
+   "oneri": "Toplam 10,5 Üst",
+   "olasilik": 0.8078,
+   "adil_oran": 1.24,
+   "en_olasi": "Toplam 7,5 Üst",
+   "en_olasi_p": 0.9631,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 7,5 Üst",
+     0.9631
+    ],
+    [
+     "Toplam 7,5 Alt",
+     0.0369
+    ],
+    [
+     "Toplam 8,5 Üst",
+     0.9298
+    ],
+    [
+     "Toplam 8,5 Alt",
+     0.0702
+    ],
+    [
+     "Toplam 9,5 Üst",
+     0.8787
+    ],
+    [
+     "Toplam 9,5 Alt",
+     0.1213
+    ],
+    [
+     "Toplam 10,5 Üst",
+     0.8078
+    ],
+    [
+     "Toplam 10,5 Alt",
+     0.1921
+    ],
+    [
+     "Toplam 11,5 Üst",
+     0.7211
+    ],
+    [
+     "Toplam 11,5 Alt",
+     0.2789
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Grêmio FB Porto Alegrense",
+   "oneri": "Grêmio FB Porto Alegrense 5,5 Üst",
+   "olasilik": 0.7222,
+   "adil_oran": 1.38,
+   "en_olasi": "Grêmio FB Porto Alegrense 3,5 Üst",
+   "en_olasi_p": 0.9269,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense 3,5 Üst",
+     0.9269
+    ],
+    [
+     "Grêmio FB Porto Alegrense 3,5 Alt",
+     0.0731
+    ],
+    [
+     "Grêmio FB Porto Alegrense 4,5 Üst",
+     0.8423
+    ],
+    [
+     "Grêmio FB Porto Alegrense 4,5 Alt",
+     0.1577
+    ],
+    [
+     "Grêmio FB Porto Alegrense 5,5 Üst",
+     0.7222
+    ],
+    [
+     "Grêmio FB Porto Alegrense 5,5 Alt",
+     0.2778
+    ],
+    [
+     "Grêmio FB Porto Alegrense 6,5 Üst",
+     0.5789
+    ],
+    [
+     "Grêmio FB Porto Alegrense 6,5 Alt",
+     0.4211
+    ],
+    [
+     "Grêmio FB Porto Alegrense 7,5 Üst",
+     0.4301
+    ],
+    [
+     "Grêmio FB Porto Alegrense 7,5 Alt",
+     0.5699
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : EC Bahia",
+   "oneri": "EC Bahia 4,5 Üst",
+   "olasilik": 0.7857,
+   "adil_oran": 1.27,
+   "en_olasi": "EC Bahia 1,5 Üst",
+   "en_olasi_p": 0.9899,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "EC Bahia 1,5 Üst",
+     0.9899
+    ],
+    [
+     "EC Bahia 1,5 Alt",
+     0.0101
+    ],
+    [
+     "EC Bahia 2,5 Üst",
+     0.9598
+    ],
+    [
+     "EC Bahia 2,5 Alt",
+     0.0402
+    ],
+    [
+     "EC Bahia 3,5 Üst",
+     0.8945
+    ],
+    [
+     "EC Bahia 3,5 Alt",
+     0.1055
+    ],
+    [
+     "EC Bahia 4,5 Üst",
+     0.7857
+    ],
+    [
+     "EC Bahia 4,5 Alt",
+     0.2143
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Handikap",
+   "oneri": "Grêmio FB Porto Alegrense +2,5",
+   "olasilik": 0.8003,
+   "adil_oran": 1.25,
+   "en_olasi": "EC Bahia +4,5",
+   "en_olasi_p": 0.8554,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense -4,5",
+     0.1447
+    ],
+    [
+     "EC Bahia +4,5",
+     0.8554
+    ],
+    [
+     "Grêmio FB Porto Alegrense -3,5",
+     0.2138
+    ],
+    [
+     "EC Bahia +3,5",
+     0.7862
+    ],
+    [
+     "Grêmio FB Porto Alegrense -2,5",
+     0.3002
+    ],
+    [
+     "EC Bahia +2,5",
+     0.6998
+    ],
+    [
+     "Grêmio FB Porto Alegrense -1,5",
+     0.4016
+    ],
+    [
+     "EC Bahia +1,5",
+     0.5985
+    ],
+    [
+     "Grêmio FB Porto Alegrense -0,5",
+     0.5102
+    ],
+    [
+     "EC Bahia +0,5",
+     0.4898
+    ],
+    [
+     "Grêmio FB Porto Alegrense +0,5",
+     0.6171
+    ],
+    [
+     "EC Bahia -0,5",
+     0.3829
+    ],
+    [
+     "Grêmio FB Porto Alegrense +1,5",
+     0.7156
+    ],
+    [
+     "EC Bahia -1,5",
+     0.2844
+    ],
+    [
+     "Grêmio FB Porto Alegrense +2,5",
+     0.8003
+    ],
+    [
+     "EC Bahia -2,5",
+     0.1997
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (3-İhtimalli)",
+   "oneri": "10 Üst",
+   "olasilik": 0.8078,
+   "adil_oran": 1.24,
+   "en_olasi": "9 Üst",
+   "en_olasi_p": 0.8787,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "9 Alt",
+     0.0702
+    ],
+    [
+     "10 Alt",
+     0.1213
+    ],
+    [
+     "Tam 9",
+     0.0511
+    ],
+    [
+     "Tam 10",
+     0.0708
+    ],
+    [
+     "9 Üst",
+     0.8787
+    ],
+    [
+     "10 Üst",
+     0.8078
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (Aralık)",
+   "oneri": "12+ korner",
+   "olasilik": 0.7211,
+   "adil_oran": 1.39,
+   "en_olasi": "12+ korner",
+   "en_olasi_p": 0.7211,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "0-8 korner",
+     0.0702
+    ],
+    [
+     "9-11 korner",
+     0.2087
+    ],
+    [
+     "12+ korner",
+     0.7211
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Tek/Çift",
+   "oneri": "Çift",
+   "olasilik": 0.5005,
+   "adil_oran": 2.0,
+   "en_olasi": "Çift",
+   "en_olasi_p": 0.5005,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.4995
+    ],
+    [
+     "Çift",
+     0.5005
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Korner Yarışı",
+   "oneri": "9 kornere kimse ulaşamaz",
+   "olasilik": 0.5484,
+   "adil_oran": 1.82,
+   "en_olasi": "9 kornere kimse ulaşamaz",
+   "en_olasi_p": 0.5484,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk 3 korner Grêmio FB Porto Alegrense",
+     0.5335
+    ],
+    [
+     "İlk 3 korner EC Bahia",
+     0.4524
+    ],
+    [
+     "3 kornere kimse ulaşamaz",
+     0.0012
+    ],
+    [
+     "İlk 5 korner Grêmio FB Porto Alegrense",
+     0.5309
+    ],
+    [
+     "İlk 5 korner EC Bahia",
+     0.4256
+    ],
+    [
+     "5 kornere kimse ulaşamaz",
+     0.0342
+    ],
+    [
+     "İlk 7 korner Grêmio FB Porto Alegrense",
+     0.4431
+    ],
+    [
+     "İlk 7 korner EC Bahia",
+     0.3353
+    ],
+    [
+     "7 kornere kimse ulaşamaz",
+     0.2165
+    ],
+    [
+     "İlk 9 korner Grêmio FB Porto Alegrense",
+     0.264
+    ],
+    [
+     "İlk 9 korner EC Bahia",
+     0.1859
+    ],
+    [
+     "9 kornere kimse ulaşamaz",
+     0.5484
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Sonucu",
+   "oneri": "1 (Grêmio FB Porto Alegrense)",
+   "olasilik": 0.4653,
+   "adil_oran": 2.15,
+   "en_olasi": "1 (Grêmio FB Porto Alegrense)",
+   "en_olasi_p": 0.4653,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Grêmio FB Porto Alegrense)",
+     0.4653
+    ],
+    [
+     "X",
+     0.1565
+    ],
+    [
+     "2 (EC Bahia)",
+     0.3782
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Handikap",
+   "oneri": "EC Bahia +2,5",
+   "olasilik": 0.8117,
+   "adil_oran": 1.23,
+   "en_olasi": "EC Bahia +2,5",
+   "en_olasi_p": 0.8117,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense -2,5",
+     0.1883
+    ],
+    [
+     "EC Bahia +2,5",
+     0.8117
+    ],
+    [
+     "Grêmio FB Porto Alegrense -1,5",
+     0.3116
+    ],
+    [
+     "EC Bahia +1,5",
+     0.6884
+    ],
+    [
+     "Grêmio FB Porto Alegrense -0,5",
+     0.4653
+    ],
+    [
+     "EC Bahia +0,5",
+     0.5347
+    ],
+    [
+     "Grêmio FB Porto Alegrense +0,5",
+     0.6218
+    ],
+    [
+     "EC Bahia -0,5",
+     0.3782
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Toplam",
+   "oneri": "Toplam 4,5 Üst",
+   "olasilik": 0.7723,
+   "adil_oran": 1.29,
+   "en_olasi": "Toplam 3,5 Üst",
+   "en_olasi_p": 0.8873,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 3,5 Üst",
+     0.8873
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.1127
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.7723
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.2277
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.6258
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.3742
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Grêmio FB Porto Alegrense Toplam",
+   "oneri": "Grêmio FB Porto Alegrense 2,5 Üst",
+   "olasilik": 0.6554,
+   "adil_oran": 1.53,
+   "en_olasi": "Grêmio FB Porto Alegrense 1,5 Üst",
+   "en_olasi_p": 0.8508,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense 1,5 Üst",
+     0.8508
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Alt",
+     0.1492
+    ],
+    [
+     "Grêmio FB Porto Alegrense 2,5 Üst",
+     0.6554
+    ],
+    [
+     "Grêmio FB Porto Alegrense 2,5 Alt",
+     0.3446
+    ],
+    [
+     "Grêmio FB Porto Alegrense 3,5 Üst",
+     0.438
+    ],
+    [
+     "Grêmio FB Porto Alegrense 3,5 Alt",
+     0.562
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı EC Bahia Toplam",
+   "oneri": "EC Bahia 1,5 Üst",
+   "olasilik": 0.8147,
+   "adil_oran": 1.23,
+   "en_olasi": "EC Bahia 0,5 Üst",
+   "en_olasi_p": 0.9554,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "EC Bahia 0,5 Üst",
+     0.9554
+    ],
+    [
+     "EC Bahia 0,5 Alt",
+     0.0446
+    ],
+    [
+     "EC Bahia 1,5 Üst",
+     0.8147
+    ],
+    [
+     "EC Bahia 1,5 Alt",
+     0.1853
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : 2. Yarı",
+   "oneri": "Toplam 5,5 Üst",
+   "olasilik": 0.7358,
+   "adil_oran": 1.36,
+   "en_olasi": "Toplam 4,5 Üst",
+   "en_olasi_p": 0.8516,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 4,5 Üst",
+     0.8516
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.1484
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.7358
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.2642
+    ],
+    [
+     "Toplam 6,5 Üst",
+     0.595
+    ],
+    [
+     "Toplam 6,5 Alt",
+     0.4049
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : İlk Korner",
+   "oneri": "Grêmio FB Porto Alegrense",
+   "olasilik": 0.5054,
+   "adil_oran": 1.98,
+   "en_olasi": "Grêmio FB Porto Alegrense",
+   "en_olasi_p": 0.5054,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense",
+     0.5054
+    ],
+    [
+     "EC Bahia",
+     0.4946
+    ],
+    [
+     "Korner yok",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Son Korner",
+   "oneri": "Grêmio FB Porto Alegrense",
+   "olasilik": 0.5058,
+   "adil_oran": 1.98,
+   "en_olasi": "Grêmio FB Porto Alegrense",
+   "en_olasi_p": 0.5058,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense",
+     0.5058
+    ],
+    [
+     "EC Bahia",
+     0.4942
+    ],
+    [
+     "Korner yok",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "En Fazla Korner Olan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.5349,
+   "adil_oran": 1.87,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.5349,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.3592
+    ],
+    [
+     "Eşit",
+     0.106
+    ],
+    [
+     "2. Yarı",
+     0.5349
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan : Sonuç",
+   "oneri": "1 (Grêmio FB Porto Alegrense)",
+   "olasilik": 0.4629,
+   "adil_oran": 2.16,
+   "en_olasi": "1 (Grêmio FB Porto Alegrense)",
+   "en_olasi_p": 0.4629,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "1 (Grêmio FB Porto Alegrense)",
+     0.4629
+    ],
+    [
+     "X",
+     0.1772
+    ],
+    [
+     "2 (EC Bahia)",
+     0.3599
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan Handikapı",
+   "oneri": "Grêmio FB Porto Alegrense +15,5",
+   "olasilik": 0.8024,
+   "adil_oran": 1.25,
+   "en_olasi": "Grêmio FB Porto Alegrense +15,5",
+   "en_olasi_p": 0.8024,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense -15,5",
+     0.2791
+    ],
+    [
+     "EC Bahia +15,5",
+     0.7209
+    ],
+    [
+     "Grêmio FB Porto Alegrense -5,5",
+     0.4548
+    ],
+    [
+     "EC Bahia +5,5",
+     0.5452
+    ],
+    [
+     "Grêmio FB Porto Alegrense +5,5",
+     0.649
+    ],
+    [
+     "EC Bahia -5,5",
+     0.351
+    ],
+    [
+     "Grêmio FB Porto Alegrense +15,5",
+     0.8024
+    ],
+    [
+     "EC Bahia -15,5",
+     0.1976
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam Puan",
+   "oneri": "Toplam 25,5 Üst",
+   "olasilik": 0.8034,
+   "adil_oran": 1.24,
+   "en_olasi": "Toplam 25,5 Üst",
+   "en_olasi_p": 0.8034,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 25,5 Üst",
+     0.8034
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.1966
+    ],
+    [
+     "Toplam 35,5 Üst",
+     0.6308
+    ],
+    [
+     "Toplam 35,5 Alt",
+     0.3692
+    ],
+    [
+     "Toplam 45,5 Üst",
+     0.4485
+    ],
+    [
+     "Toplam 45,5 Alt",
+     0.5515
+    ],
+    [
+     "Toplam 55,5 Üst",
+     0.2883
+    ],
+    [
+     "Toplam 55,5 Alt",
+     0.7117
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Grêmio FB Porto Alegrense : Toplam Kart Puanı",
+   "oneri": "Grêmio FB Porto Alegrense 15,5 Üst",
+   "olasilik": 0.667,
+   "adil_oran": 1.5,
+   "en_olasi": "Grêmio FB Porto Alegrense 5,5 Üst",
+   "en_olasi_p": 0.8956,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense 5,5 Üst",
+     0.8956
+    ],
+    [
+     "Grêmio FB Porto Alegrense 5,5 Alt",
+     0.1044
+    ],
+    [
+     "Grêmio FB Porto Alegrense 15,5 Üst",
+     0.667
+    ],
+    [
+     "Grêmio FB Porto Alegrense 15,5 Alt",
+     0.333
+    ],
+    [
+     "Grêmio FB Porto Alegrense 25,5 Üst",
+     0.4137
+    ],
+    [
+     "Grêmio FB Porto Alegrense 25,5 Alt",
+     0.5863
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : EC Bahia : Toplam Kart Puanı",
+   "oneri": "EC Bahia 25,5 Alt",
+   "olasilik": 0.6627,
+   "adil_oran": 1.51,
+   "en_olasi": "EC Bahia 5,5 Üst",
+   "en_olasi_p": 0.8607,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "EC Bahia 5,5 Üst",
+     0.8607
+    ],
+    [
+     "EC Bahia 5,5 Alt",
+     0.1393
+    ],
+    [
+     "EC Bahia 15,5 Üst",
+     0.5956
+    ],
+    [
+     "EC Bahia 15,5 Alt",
+     0.4044
+    ],
+    [
+     "EC Bahia 25,5 Üst",
+     0.3373
+    ],
+    [
+     "EC Bahia 25,5 Alt",
+     0.6627
+    ],
+    [
+     "EC Bahia 35,5 Üst",
+     0.1625
+    ],
+    [
+     "EC Bahia 35,5 Alt",
+     0.8375
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam (Aralıklar)",
+   "oneri": "21-40 puan",
+   "olasilik": 0.3429,
+   "adil_oran": 2.92,
+   "en_olasi": "21-40 puan",
+   "en_olasi_p": 0.3429,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "0-20 puan",
+     0.1954
+    ],
+    [
+     "21-40 puan",
+     0.3429
+    ],
+    [
+     "41-60 puan",
+     0.268
+    ],
+    [
+     "61+ puan",
+     0.1702
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Toplam Kart Puanı",
+   "oneri": "Toplam 25,5 Alt",
+   "olasilik": 0.7869,
+   "adil_oran": 1.27,
+   "en_olasi": "Toplam 25,5 Alt",
+   "en_olasi_p": 0.7869,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 5,5 Üst",
+     0.7814
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.2186
+    ],
+    [
+     "Toplam 15,5 Üst",
+     0.459
+    ],
+    [
+     "Toplam 15,5 Alt",
+     0.541
+    ],
+    [
+     "Toplam 25,5 Üst",
+     0.2131
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.7869
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Grêmio FB Porto Alegrense : Toplam Kart Puanı",
+   "oneri": "Grêmio FB Porto Alegrense 15,5 Alt",
+   "olasilik": 0.7936,
+   "adil_oran": 1.26,
+   "en_olasi": "Grêmio FB Porto Alegrense 15,5 Alt",
+   "en_olasi_p": 0.7936,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense 5,5 Üst",
+     0.5553
+    ],
+    [
+     "Grêmio FB Porto Alegrense 5,5 Alt",
+     0.4447
+    ],
+    [
+     "Grêmio FB Porto Alegrense 15,5 Üst",
+     0.2064
+    ],
+    [
+     "Grêmio FB Porto Alegrense 15,5 Alt",
+     0.7936
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : EC Bahia : Toplam Kart Puanı",
+   "oneri": "EC Bahia 15,5 Alt",
+   "olasilik": 0.8305,
+   "adil_oran": 1.2,
+   "en_olasi": "EC Bahia 15,5 Alt",
+   "en_olasi_p": 0.8305,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "EC Bahia 5,5 Üst",
+     0.5067
+    ],
+    [
+     "EC Bahia 5,5 Alt",
+     0.4933
+    ],
+    [
+     "EC Bahia 15,5 Üst",
+     0.1695
+    ],
+    [
+     "EC Bahia 15,5 Alt",
+     0.8305
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Grêmio FB Porto Alegrense : Toplam Kart Puanı",
+   "oneri": "Grêmio FB Porto Alegrense 5,5 Üst",
+   "olasilik": 0.7649,
+   "adil_oran": 1.31,
+   "en_olasi": "Grêmio FB Porto Alegrense 5,5 Üst",
+   "en_olasi_p": 0.7649,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense 5,5 Üst",
+     0.7649
+    ],
+    [
+     "Grêmio FB Porto Alegrense 5,5 Alt",
+     0.2351
+    ],
+    [
+     "Grêmio FB Porto Alegrense 15,5 Üst",
+     0.4362
+    ],
+    [
+     "Grêmio FB Porto Alegrense 15,5 Alt",
+     0.5638
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : EC Bahia : Toplam Kart Puanı",
+   "oneri": "EC Bahia 5,5 Üst",
+   "olasilik": 0.7168,
+   "adil_oran": 1.4,
+   "en_olasi": "EC Bahia 25,5 Alt",
+   "en_olasi_p": 0.8433,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "EC Bahia 5,5 Üst",
+     0.7168
+    ],
+    [
+     "EC Bahia 5,5 Alt",
+     0.2832
+    ],
+    [
+     "EC Bahia 15,5 Üst",
+     0.3726
+    ],
+    [
+     "EC Bahia 15,5 Alt",
+     0.6274
+    ],
+    [
+     "EC Bahia 25,5 Üst",
+     0.1567
+    ],
+    [
+     "EC Bahia 25,5 Alt",
+     0.8433
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Direkt Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9235,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9235,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0765
+    ],
+    [
+     "Hayır",
+     0.9235
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Yarıda Kart Olur",
+   "oneri": "Evet",
+   "olasilik": 0.7286,
+   "adil_oran": 1.37,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7286,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7286
+    ],
+    [
+     "Hayır",
+     0.2714
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kırmızı Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.9954,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9954,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0046
+    ],
+    [
+     "Hayır",
+     0.9954
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kart Alır",
+   "oneri": "Evet",
+   "olasilik": 0.7706,
+   "adil_oran": 1.3,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7706,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7706
+    ],
+    [
+     "Hayır",
+     0.2294
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Kart Görür",
+   "oneri": "Hayır",
+   "olasilik": 0.6089,
+   "adil_oran": 1.64,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6089,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3911
+    ],
+    [
+     "Hayır",
+     0.6089
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Her İki Yarıda Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.8456,
+   "adil_oran": 1.18,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8456,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1544
+    ],
+    [
+     "Hayır",
+     0.8456
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İlk Kartı Görecek Takım",
+   "oneri": "Grêmio FB Porto Alegrense",
+   "olasilik": 0.5239,
+   "adil_oran": 1.91,
+   "en_olasi": "Grêmio FB Porto Alegrense",
+   "en_olasi_p": 0.5239,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense",
+     0.5239
+    ],
+    [
+     "EC Bahia",
+     0.4619
+    ],
+    [
+     "Kart yok",
+     0.0143
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Son Kartı Görecek Takım",
+   "oneri": "Grêmio FB Porto Alegrense",
+   "olasilik": 0.5253,
+   "adil_oran": 1.9,
+   "en_olasi": "Grêmio FB Porto Alegrense",
+   "en_olasi_p": 0.5253,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense",
+     0.5253
+    ],
+    [
+     "EC Bahia",
+     0.4604
+    ],
+    [
+     "Kart yok",
+     0.0143
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Maçta Penaltı, Kırmızı Kart ve Kendi Kalesine Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9975,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9975,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0025
+    ],
+    [
+     "Hayır",
+     0.9975
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarı Uzatma Dakikalarında Kart Gösterilir (90+ dak)",
+   "oneri": "Hayır",
+   "olasilik": 0.721,
+   "adil_oran": 1.39,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.721,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.279
+    ],
+    [
+     "Hayır",
+     0.721
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarının Uzatma Dakikalarında Kırmızı Kart veya Gol Olur (90+ dakika)",
+   "oneri": "Hayır",
+   "olasilik": 0.8136,
+   "adil_oran": 1.23,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8136,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1864
+    ],
+    [
+     "Hayır",
+     0.8136
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Toplam Kırmızı Kartlar",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.9909,
+   "adil_oran": 1.01,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9909,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.1302
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.8698
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0091
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9909
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Grêmio FB Porto Alegrense : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9322,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9322,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0678
+    ],
+    [
+     "Hayır",
+     0.9322
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "EC Bahia : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.933,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.933,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.067
+    ],
+    [
+     "Hayır",
+     0.933
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "1. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9551,
+   "adil_oran": 1.05,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9551,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0449
+    ],
+    [
+     "Hayır",
+     0.9551
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "2. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9104,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9104,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0896
+    ],
+    [
+     "Hayır",
+     0.9104
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Sonuç",
+   "oneri": "1 (Grêmio FB Porto Alegrense)",
+   "olasilik": 0.4554,
+   "adil_oran": 2.2,
+   "en_olasi": "1 (Grêmio FB Porto Alegrense)",
+   "en_olasi_p": 0.4554,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Grêmio FB Porto Alegrense)",
+     0.4554
+    ],
+    [
+     "X",
+     0.2012
+    ],
+    [
+     "2 (EC Bahia)",
+     0.3434
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.7988,
+   "adil_oran": 1.25,
+   "en_olasi": "12",
+   "en_olasi_p": 0.7988,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.6566
+    ],
+    [
+     "12",
+     0.7988
+    ],
+    [
+     "X2",
+     0.5446
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Handikap",
+   "oneri": "Grêmio FB Porto Alegrense +1,5",
+   "olasilik": 0.8187,
+   "adil_oran": 1.22,
+   "en_olasi": "Grêmio FB Porto Alegrense +1,5",
+   "en_olasi_p": 0.8187,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense -1,5",
+     0.2669
+    ],
+    [
+     "EC Bahia +1,5",
+     0.7331
+    ],
+    [
+     "Grêmio FB Porto Alegrense -0,5",
+     0.4554
+    ],
+    [
+     "EC Bahia +0,5",
+     0.5446
+    ],
+    [
+     "Grêmio FB Porto Alegrense +0,5",
+     0.6566
+    ],
+    [
+     "EC Bahia -0,5",
+     0.3434
+    ],
+    [
+     "Grêmio FB Porto Alegrense +1,5",
+     0.8187
+    ],
+    [
+     "EC Bahia -1,5",
+     0.1813
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Toplam",
+   "oneri": "Toplam 2,5 Üst",
+   "olasilik": 0.7836,
+   "adil_oran": 1.28,
+   "en_olasi": "Toplam 2,5 Üst",
+   "en_olasi_p": 0.7836,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 2,5 Üst",
+     0.7836
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.2164
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.5948
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.4052
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.4008
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.5992
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.2381
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.7619
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Grêmio FB Porto Alegrense : Toplam",
+   "oneri": "Grêmio FB Porto Alegrense 1,5 Üst",
+   "olasilik": 0.6499,
+   "adil_oran": 1.54,
+   "en_olasi": "Grêmio FB Porto Alegrense 0,5 Üst",
+   "en_olasi_p": 0.8913,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense 0,5 Üst",
+     0.8913
+    ],
+    [
+     "Grêmio FB Porto Alegrense 0,5 Alt",
+     0.1087
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Üst",
+     0.6499
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Alt",
+     0.3501
+    ],
+    [
+     "Grêmio FB Porto Alegrense 2,5 Üst",
+     0.3833
+    ],
+    [
+     "Grêmio FB Porto Alegrense 2,5 Alt",
+     0.6167
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : EC Bahia : Toplam",
+   "oneri": "EC Bahia 2,5 Alt",
+   "olasilik": 0.6962,
+   "adil_oran": 1.44,
+   "en_olasi": "EC Bahia 3,5 Alt",
+   "en_olasi_p": 0.8711,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "EC Bahia 0,5 Üst",
+     0.8552
+    ],
+    [
+     "EC Bahia 0,5 Alt",
+     0.1447
+    ],
+    [
+     "EC Bahia 1,5 Üst",
+     0.5753
+    ],
+    [
+     "EC Bahia 1,5 Alt",
+     0.4247
+    ],
+    [
+     "EC Bahia 2,5 Üst",
+     0.3038
+    ],
+    [
+     "EC Bahia 2,5 Alt",
+     0.6962
+    ],
+    [
+     "EC Bahia 3,5 Üst",
+     0.1289
+    ],
+    [
+     "EC Bahia 3,5 Alt",
+     0.8711
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Sonucu",
+   "oneri": "X",
+   "olasilik": 0.3686,
+   "adil_oran": 2.71,
+   "en_olasi": "X",
+   "en_olasi_p": 0.3686,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Grêmio FB Porto Alegrense)",
+     0.3461
+    ],
+    [
+     "X",
+     0.3686
+    ],
+    [
+     "2 (EC Bahia)",
+     0.2853
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Handikap",
+   "oneri": "Grêmio FB Porto Alegrense +0,5",
+   "olasilik": 0.7147,
+   "adil_oran": 1.4,
+   "en_olasi": "Grêmio FB Porto Alegrense +0,5",
+   "en_olasi_p": 0.7147,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense -0,5",
+     0.3461
+    ],
+    [
+     "EC Bahia +0,5",
+     0.6539
+    ],
+    [
+     "Grêmio FB Porto Alegrense +0,5",
+     0.7147
+    ],
+    [
+     "EC Bahia -0,5",
+     0.2853
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı : Toplam",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.813,
+   "adil_oran": 1.23,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.813,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7743
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2257
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.4388
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.5612
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.187
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.813
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Grêmio FB Porto Alegrense Toplam",
+   "oneri": "Grêmio FB Porto Alegrense 1,5 Alt",
+   "olasilik": 0.8093,
+   "adil_oran": 1.24,
+   "en_olasi": "Grêmio FB Porto Alegrense 1,5 Alt",
+   "en_olasi_p": 0.8093,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense 0,5 Üst",
+     0.5482
+    ],
+    [
+     "Grêmio FB Porto Alegrense 0,5 Alt",
+     0.4518
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Üst",
+     0.1907
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Alt",
+     0.8093
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı EC Bahia Toplam",
+   "oneri": "EC Bahia 0,5 Alt",
+   "olasilik": 0.5008,
+   "adil_oran": 2.0,
+   "en_olasi": "EC Bahia 1,5 Alt",
+   "en_olasi_p": 0.8472,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "EC Bahia 0,5 Üst",
+     0.4992
+    ],
+    [
+     "EC Bahia 0,5 Alt",
+     0.5008
+    ],
+    [
+     "EC Bahia 1,5 Üst",
+     0.1528
+    ],
+    [
+     "EC Bahia 1,5 Alt",
+     0.8472
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Sonuç",
+   "oneri": "1 (Grêmio FB Porto Alegrense)",
+   "olasilik": 0.4143,
+   "adil_oran": 2.41,
+   "en_olasi": "1 (Grêmio FB Porto Alegrense)",
+   "en_olasi_p": 0.4143,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Grêmio FB Porto Alegrense)",
+     0.4143
+    ],
+    [
+     "X",
+     0.2593
+    ],
+    [
+     "2 (EC Bahia)",
+     0.3264
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Handikap",
+   "oneri": "Grêmio FB Porto Alegrense +0,5",
+   "olasilik": 0.6736,
+   "adil_oran": 1.48,
+   "en_olasi": "Grêmio FB Porto Alegrense +0,5",
+   "en_olasi_p": 0.6736,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense -0,5",
+     0.4143
+    ],
+    [
+     "EC Bahia +0,5",
+     0.5857
+    ],
+    [
+     "Grêmio FB Porto Alegrense +0,5",
+     0.6736
+    ],
+    [
+     "EC Bahia -0,5",
+     0.3264
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Toplam",
+   "oneri": "Toplam 1,5 Üst",
+   "olasilik": 0.744,
+   "adil_oran": 1.34,
+   "en_olasi": "Toplam 1,5 Üst",
+   "en_olasi_p": 0.744,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 1,5 Üst",
+     0.744
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.256
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.4975
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.5025
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.2772
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.7228
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Grêmio FB Porto Alegrense Toplam",
+   "oneri": "Grêmio FB Porto Alegrense 0,5 Üst",
+   "olasilik": 0.7588,
+   "adil_oran": 1.32,
+   "en_olasi": "Grêmio FB Porto Alegrense 0,5 Üst",
+   "en_olasi_p": 0.7588,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense 0,5 Üst",
+     0.7588
+    ],
+    [
+     "Grêmio FB Porto Alegrense 0,5 Alt",
+     0.2412
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Üst",
+     0.4167
+    ],
+    [
+     "Grêmio FB Porto Alegrense 1,5 Alt",
+     0.5833
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : İlk Sarı Kartı Görür",
+   "oneri": "Grêmio FB Porto Alegrense",
+   "olasilik": 0.5237,
+   "adil_oran": 1.91,
+   "en_olasi": "Grêmio FB Porto Alegrense",
+   "en_olasi_p": 0.5237,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense",
+     0.5237
+    ],
+    [
+     "EC Bahia",
+     0.4608
+    ],
+    [
+     "Sarı kart yok",
+     0.0155
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Son Sarı Kartı Görür",
+   "oneri": "Grêmio FB Porto Alegrense",
+   "olasilik": 0.5257,
+   "adil_oran": 1.9,
+   "en_olasi": "Grêmio FB Porto Alegrense",
+   "en_olasi_p": 0.5257,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense",
+     0.5257
+    ],
+    [
+     "EC Bahia",
+     0.4588
+    ],
+    [
+     "Sarı kart yok",
+     0.0155
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8177,
+   "adil_oran": 1.22,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8177,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1823
+    ],
+    [
+     "Hayır",
+     0.8177
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Grêmio FB Porto Alegrense : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9036,
+   "adil_oran": 1.11,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9036,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0964
+    ],
+    [
+     "Hayır",
+     0.9036
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "EC Bahia : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.905,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.905,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.095
+    ],
+    [
+     "Hayır",
+     0.905
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "İki Takım da Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9909,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9909,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0091
+    ],
+    [
+     "Hayır",
+     0.9909
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta İki Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9827,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9827,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0173
+    ],
+    [
+     "Hayır",
+     0.9827
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "1. Yarı : Penaltı",
+   "oneri": "Hayır",
+   "olasilik": 0.9145,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9145,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0855
+    ],
+    [
+     "Hayır",
+     0.9145
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltıdan Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8565,
+   "adil_oran": 1.17,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8565,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1435
+    ],
+    [
+     "Hayır",
+     0.8565
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı Kaçırır",
+   "oneri": "Hayır",
+   "olasilik": 0.9546,
+   "adil_oran": 1.05,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9546,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0454
+    ],
+    [
+     "Hayır",
+     0.9546
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı ve Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9765,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9765,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0235
+    ],
+    [
+     "Hayır",
+     0.9765
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı veya Kırmızı Kart Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.711,
+   "adil_oran": 1.41,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.711,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.289
+    ],
+    [
+     "Hayır",
+     0.711
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Şutları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pasları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pas Denemeleri",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncunun Yaptığı Fauller",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncuya Faul Yapılır",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Topa Müdahaleler",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ofsayta Düşer",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Kaleci Kurtarışları",
+   "oneri": "EC Bahia kalecisi 2,5 Üst",
+   "olasilik": 0.7242,
+   "adil_oran": 1.38,
+   "en_olasi": "EC Bahia kalecisi 1,5 Üst",
+   "en_olasi_p": 0.8893,
+   "guven": "düşük",
+   "not_": "Rakibin beklenen golünden türetildi",
+   "secimler": [
+    [
+     "Grêmio FB Porto Alegrense kalecisi 1,5 Üst",
+     0.8673
+    ],
+    [
+     "Grêmio FB Porto Alegrense kalecisi 1,5 Alt",
+     0.1327
+    ],
+    [
+     "Grêmio FB Porto Alegrense kalecisi 2,5 Üst",
+     0.6848
+    ],
+    [
+     "Grêmio FB Porto Alegrense kalecisi 2,5 Alt",
+     0.3152
+    ],
+    [
+     "Grêmio FB Porto Alegrense kalecisi 3,5 Üst",
+     0.4688
+    ],
+    [
+     "Grêmio FB Porto Alegrense kalecisi 3,5 Alt",
+     0.5312
+    ],
+    [
+     "Grêmio FB Porto Alegrense kalecisi 4,5 Üst",
+     0.2796
+    ],
+    [
+     "Grêmio FB Porto Alegrense kalecisi 4,5 Alt",
+     0.7204
+    ],
+    [
+     "EC Bahia kalecisi 1,5 Üst",
+     0.8893
+    ],
+    [
+     "EC Bahia kalecisi 1,5 Alt",
+     0.1107
+    ],
+    [
+     "EC Bahia kalecisi 2,5 Üst",
+     0.7242
+    ],
+    [
+     "EC Bahia kalecisi 2,5 Alt",
+     0.2758
+    ],
+    [
+     "EC Bahia kalecisi 3,5 Üst",
+     0.5175
+    ],
+    [
+     "EC Bahia kalecisi 3,5 Alt",
+     0.4825
+    ],
+    [
+     "EC Bahia kalecisi 4,5 Üst",
+     0.3233
+    ],
+    [
+     "EC Bahia kalecisi 4,5 Alt",
+     0.6767
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Pas Veren Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Faul Yapan Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 1. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 2. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Her İki Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Çektiği Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kafayla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sağ Ayakla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  }
+ ],
+ "eksik": [
+  "Herhangi Bir Zamanda Gol Atar",
+  "İlk Golcü",
+  "İlk Golcü Çifte Şans",
+  "Son Golcü",
+  "{EV} : İlk Golü Atar",
+  "{DEP} : İlk Golü Atar",
+  "{EV} : Son Golcü",
+  "{DEP} : Son Golü Atar",
+  "Oyuncu En Az 2 Gol Atar",
+  "Oyuncu En Az 3 Gol Atar",
+  "Oyuncu 4 veya Daha Çok Gol Atar",
+  "Herhangi Bir Zaman Gol Atar Çifte Şans",
+  "Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar",
+  "2 Oyuncu Toplamda Üst 1.5 Gol Atar",
+  "2 Oyuncu Toplamda Üst 2.5 Gol Atar",
+  "2 Oyuncu Toplamda Üst 3.5 Gol Atar",
+  "Oyuncu 1. Yarıda Gol Atar",
+  "Oyuncu 2. Yarıda Gol Atar",
+  "Oyuncu Her İki Yarıda da Gol Atar",
+  "İlk 10 Dakikada Gol Atar",
+  "Oyuncu Penaltıdan Gol Atar",
+  "Oyuncu Ceza Sahası Dışından Gol Atar",
+  "Oyuncu Kale Sahası İçinden Gol Atar",
+  "Oyuncu Kafa Golü Atar",
+  "Oyuncu Serbest Vuruştan Gol Atar",
+  "Oyuncu Sağ Ayağıyla Gol Atar",
+  "Oyuncu Gol Atar ve Takımı Kazanır",
+  "Oyuncu Gol Atar ve Rakip Takım Kazanır",
+  "Oyuncu Gol Atar ve Maç Berabere Biter",
+  "Oyuncu Asist Yapar",
+  "Oyuncu Gol Atar veya Asist Yapar",
+  "Oyuncu Gol Atar veya Asist Yapar (Çifte Şans)",
+  "Oyuncu Gol Atar ve Asist Yapar",
+  "Gol Asisti Yapar Çifte Şans",
+  "Oyuncu Penaltı Kaçırır",
+  "Penaltı Kazandıran Oyuncu",
+  "Oyuncu Kart Görür",
+  "Oyuncu Kart Görür Çifte Şans",
+  "Oyuncu Sarı Kart Görür",
+  "Kart Görecek İlk Oyuncu",
+  "Son Kartı Görecek Oyuncu",
+  "Oyundan Uzaklaştırılır"
+ ]
+}

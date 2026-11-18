@@ -1,0 +1,13 @@
+{
+ "organizasyon": "UEFA Uluslar Ligi B Ligi 1. Grup", "tarih": "16 Kasım 2026, 22:45 TSİ", "stadyum": "Toše Proeski Arena, Üsküp",
+ "ilk_yari_gol_payi": 0.42, "korner_guven": "düşük", "kart_guven": "düşük", "var_ort": 0.22,
+ "ev": {"ad": "Kuzey Makedonya", "beklenen_gol": 0.60, "korner": 4.0, "sari_kart": 2.1,
+  "oyuncular": [
+   {"ad": "Enis Bardhi", "gol_payi": 0.22, "asist_payi": 0.20, "kart_ihtimali": 0.14, "penaltici": true}]},
+ "dep": {"ad": "Slovenya", "beklenen_gol": 1.40, "korner": 4.8, "sari_kart": 1.7,
+  "oyuncular": [
+   {"ad": "Benjamin Šeško", "gol_payi": 0.28, "asist_payi": 0.08, "kart_ihtimali": 0.10, "penaltici": true},
+   {"ad": "Sandi Lovrić", "gol_payi": 0.12, "asist_payi": 0.15, "kart_ihtimali": 0.14},
+   {"ad": "Aljoša Matko", "gol_payi": 0.10, "asist_payi": 0.06, "kart_ihtimali": 0.14},
+   {"ad": "Petar Stojanović", "gol_payi": 0.03, "asist_payi": 0.12, "kart_ihtimali": 0.16}]}
+}

@@ -1,0 +1,6 @@
+{"skor": "3-0 (İY 2-0)", "kaynak": "FotMob maç 5181960",
+ "goller": [{"dk": 25, "takim": "ev", "oyuncu": "Brynjólfur Willumsson"},
+            {"dk": 37, "takim": "ev", "oyuncu": "Andri Guðjohnsen", "penalti": true},
+            {"dk": 50, "takim": "ev", "oyuncu": "Mikael Egill Ellertsson"}],
+ "kartlar": [], "kornerler": {"ev": 9, "dep": 3},
+ "istatistik": {"xG": [3.26, 0.08], "sut": [25, 4], "isabetli_sut": [11, 0], "topa_sahip": [58, 42]}}

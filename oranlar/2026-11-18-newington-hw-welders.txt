@@ -1,0 +1,484 @@
+Maç Sonucu
+Newington FC
+Beraberlik
+HW Welders FC
+1.79
+3.96
+3.45
+Çifte Şans
+1X
+12
+X2
+1.28
+1.23
+1.89
+Toplam Goller
+Üst
+Alt
+2.5
+1.31
+3.15
+3
+1.44
+2.59
+3.5
+1.78
+1.92
+4
+2.35
+1.53
+4.5
+2.87
+1.36
+Newington FC : Toplam Gol
+Üst
+Alt
+1.5
+1.47
+2.50
+2
+1.81
+1.89
+2.5
+2.39
+1.51
+3
+3.83
+1.22
+HW Welders FC : Toplam Gol
+Üst
+Alt
+0.5
+1.20
+4.05
+1
+1.38
+2.80
+1.5
+2.02
+1.70
+2
+3.20
+1.30
+2.5
+4.05
+1.20
+Her iki takımda gol atar
+Evet
+Hayır
+1.33
+3.05
+Gol Handikapı
+Newington FC
+HW Welders FC
+-1.5
+2.85
++1.5
+1.37
+-1
+2.33
++1
+1.54
+-0.5
+1.77
++0.5
+1.93
+0
+1.42
+0
+2.65
++0.5
+1.28
+-0.5
+3.30
+Goller Asya Handikapı
+Newington FC
+HW Welders FC
+-1.75
+3.40
++1.75
+1.27
+-1.25
+2.59
++1.25
+1.44
+-0.75
+1.97
++0.75
+1.73
+-0.25
+1.60
++0.25
+2.20
++0.25
+1.34
+-0.25
+3.00
+Toplam Goller Asya
+Üst
+Alt
+2.75
+1.36
+2.87
+3.25
+1.61
+2.17
+3.75
+1.97
+1.73
+4.25
+2.62
+1.43
+4.75
+3.40
+1.27
+Her iki yarıda gol olur
+Evet
+Hayır
+1.33
+3.05
+İlk Golü Atacak Takım
+Newington FC
+HW Welders FC
+Gol Yok
+1.59
+2.17
+34.00
+Son Golü Atacak Takım
+Newington FC
+HW Welders FC
+Gol Yok
+1.59
+2.17
+34.00
+Newington FC : Toplam Gol Asya
+Üst
+Alt
+1.25
+1.29
+3.25
+1.75
+1.59
+2.21
+2.25
+2.12
+1.64
+2.75
+2.87
+1.36
+3.25
+4.30
+1.18
+HW Welders FC : Toplam Gol Asya
+Üst
+Alt
+0.75
+1.27
+3.40
+1.25
+1.71
+2.01
+1.75
+2.40
+1.50
+2.25
+3.65
+1.24
+HW Welders FC Gol Atar
+Evet
+Hayır
+1.20
+4.05
+Newington FC : Bahis Yok
+Beraberlik
+HW Welders FC
+1.96
+1.74
+HW Welders FC : Bahis Yok
+Newington FC
+Beraberlik
+1.36
+2.87
+Maç Sonucu ve Karşılıklı Gol
+Newington FC Ve Evet
+2.68
+Beraberlik Ve Hayır
+34.00
+Newington FC Ve Hayır
+4.60
+HW Welders FC Ve Evet
+4.85
+Beraberlik ve Evet
+4.30
+HW Welders FC Ve Hayır
+9.70
+Maç Sonucu ve Toplam Gol 1.5
+Newington FC ve Üst 1.5
+1.98
+Newington FC ve Alt 1.5
+15.00
+Beraberlik ve Üst 1.5
+4.30
+Beraberlik ve Alt 1.5
+31.00
+HW Welders FC ve Üst 1.5
+3.87
+HW Welders FC ve Alt 1.5
+21.00
+1X ve Üst 1.5
+1.42
+1X ve Alt 1.5
+11.00
+12 ve Üst 1.5
+1.38
+12 ve Alt 1.5
+9.30
+X2 ve Üst 1.5
+2.15
+X2 ve Alt 1.5
+14.00
+Maç Sonucu ve Toplam Gol 2.5
+Newington FC ve Üst 2.5
+2.19
+Newington FC ve Alt 2.5
+7.90
+Beraberlik ve Üst 2.5
+7.30
+Beraberlik ve Alt 2.5
+7.40
+HW Welders FC ve Üst 2.5
+4.33
+HW Welders FC ve Alt 2.5
+13.00
+1X ve Üst 2.5
+1.76
+1X ve Alt 2.5
+4.00
+12 ve Üst 2.5
+1.53
+12 ve Alt 2.5
+5.20
+X2 ve Üst 2.5
+2.86
+X2 ve Alt 2.5
+5.00
+Doğru Skor
+1-0
+13.00
+0-0
+34.00
+0-1
+19.00
+2-0
+14.00
+1-1
+8.30
+0-2
+25.00
+2-1
+8.10
+2-2
+9.40
+1-2
+12.00
+3-0
+17.00
+3-3
+21.00
+0-3
+41.00
+3-1
+9.80
+4-4
+86.00
+1-3
+19.00
+3-2
+14.00
+5-5
+301.00
+2-3
+21.00
+Daha Fazla Seçeneği Göster
+1.Yarı Sonucu
+Newington FC
+Beraberlik
+HW Welders FC
+2.17
+2.61
+3.57
+1.Yarı Çifte Şans
+1X
+12
+X2
+1.25
+1.42
+1.61
+1. Yarı Toplam Gol
+Üst
+Alt
+1.5
+1.87
+1.83
+2
+2.80
+1.38
+1. Yarı 1. Takım Toplam Gol
+Üst
+Alt
+0.5
+1.50
+2.40
+1
+2.21
+1.59
+1.5
+3.25
+1.29
+1. Yarı 2. Takım Toplam Gol
+Üst
+Alt
+0.5
+1.89
+1.81
+1
+3.83
+1.22
+1. Yarı Newington FC Toplam Goller Asya
+Üst
+Alt
+0.75
+1.71
+2.01
+1.25
+2.75
+1.39
+1. Yarı HW Welders FC Toplam Gol Asya
+Üst
+Alt
+0.75
+2.37
+1.52
+1. Yarı Karşılıklı Gol
+Evet
+Hayır
+2.85
+1.37
+1. Yarı Gol Handikapı
+Newington FC
+HW Welders FC
+-0.5
+2.17
++0.5
+1.61
+0
+1.48
+0
+2.45
+1. Yarı Goller Asya Handikapı
+Newington FC
+HW Welders FC
+-0.75
+2.65
++0.75
+1.42
+-0.25
+1.83
++0.25
+1.87
++0.25
+1.33
+-0.25
+3.05
+1.Yarı Toplam Gol Asya
+Üst
+Alt
+1.25
+1.59
+2.21
+1.75
+2.20
+1.60
+1.Yarı Doğru Skor
+1-0
+4.20
+0-0
+4.30
+0-1
+6.00
+2-0
+7.90
+1-1
+6.00
+0-2
+15.00
+2-1
+11.00
+2-2
+29.00
+1-2
+15.00
+3-0
+21.00
+3-3
+226.00
+0-3
+61.00
+3-1
+29.00
+1-3
+61.00
+3-2
+76.00
+2-3
+111.00
+1. Yarı veya Maç Sonucu
+Newington FC
+X
+HW Welders FC
+1.54
+2.07
+2.54
+İlk Yarı/Maç Sonucu
+Newington FC/Newington FC
+2.43
+Beraberlik/Newington FC
+4.90
+HW Welders FC/Newington FC
+15.00
+Newington FC/Beraberlik
+12.00
+Beraberlik/Beraberlik
+7.00
+HW Welders FC/Beraberlik
+12.00
+Newington FC/HW Welders FC
+23.00
+Beraberlik/HW Welders FC
+7.70
+HW Welders FC/HW Welders FC
+4.90
+En Çok Gol Atılan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.91
+4.20
+1.89
+En Çok Gol Atılan Yarı : Çifte Şans
+1. Yarı veya Beraberlik
+1. veya 2.
+2. Yarı veya Beraberlik
+1.78
+1.21
+1.36
+Newington FC : Her İki Yarıda Gol Atar
+Evet
+Hayır
+2.05
+1.68
+HW Welders FC Her İki Yarıda Gol Atar
+Evet
+Hayır
+3.10
+1.32

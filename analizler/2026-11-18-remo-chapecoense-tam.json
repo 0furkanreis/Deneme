@@ -1,0 +1,9666 @@
+{
+ "mac": {
+  "organizasyon": "Brezilya Serie A, 35. hafta",
+  "tarih": "19 Kasım 2026, 02:00 TSİ",
+  "stadyum": "Mangueirão, Belém",
+  "hakem": "Alex Gomes Stefano (18 maç: 4,72 sarı, lig 4,91; 8 kırmızı; 9 penaltı)",
+  "ilk_yari_gol_payi": 0.44,
+  "korner_guven": "orta",
+  "kart_guven": "orta",
+  "var_ort": 0.35,
+  "not": "Kart: takım maçları az kartlı (Remo 3,0, Chape 2,4) + hakem normal → ~3,4. Korner FotMob son 5. Goller piyasadan. Korner duyarlılık testi: Remo 6,8 (zayıf rakip).",
+  "kalibrasyon": "Beklenen goller site oranlarından (takım gol çizgilerinin ortalaması)"
+ },
+ "ev": "Remo PA",
+ "dep": "Chapecoense",
+ "beklenen_gol": [
+  2.164,
+  0.871
+ ],
+ "simulasyon": 120000,
+ "pazarlar": [
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu",
+   "oneri": "1 (Remo PA)",
+   "olasilik": 0.6694,
+   "adil_oran": 1.49,
+   "en_olasi": "1 (Remo PA)",
+   "en_olasi_p": 0.6694,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Remo PA)",
+     0.6694
+    ],
+    [
+     "X",
+     0.1917
+    ],
+    [
+     "2 (Chapecoense)",
+     0.1389
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.8083,
+   "adil_oran": 1.24,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.8611,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.8611
+    ],
+    [
+     "12",
+     0.8083
+    ],
+    [
+     "X2",
+     0.3306
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Beraberlikte İade",
+   "oneri": "Remo PA",
+   "olasilik": 0.8282,
+   "adil_oran": 1.21,
+   "en_olasi": "Remo PA",
+   "en_olasi_p": 0.8282,
+   "guven": "yüksek",
+   "not_": "Beraberlikte iade; olasılık iade hariç",
+   "secimler": [
+    [
+     "Remo PA",
+     0.8282
+    ],
+    [
+     "Chapecoense",
+     0.1718
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Remo PA : Bahis Yok",
+   "oneri": "X",
+   "olasilik": 0.5798,
+   "adil_oran": 1.72,
+   "en_olasi": "X",
+   "en_olasi_p": 0.5798,
+   "guven": "yüksek",
+   "not_": "Remo PA kazanırsa iade",
+   "secimler": [
+    [
+     "X",
+     0.5798
+    ],
+    [
+     "Chapecoense",
+     0.4202
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Chapecoense : Bahis Yok",
+   "oneri": "Remo PA",
+   "olasilik": 0.7774,
+   "adil_oran": 1.29,
+   "en_olasi": "Remo PA",
+   "en_olasi_p": 0.7774,
+   "guven": "yüksek",
+   "not_": "Chapecoense kazanırsa iade",
+   "secimler": [
+    [
+     "Remo PA",
+     0.7774
+    ],
+    [
+     "X",
+     0.2226
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Remo PA : Geriden Gelerek Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9102,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9102,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0898
+    ],
+    [
+     "Hayır",
+     0.9102
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Chapecoense : Geriden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9743,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9743,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0257
+    ],
+    [
+     "Hayır",
+     0.9743
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Remo PA : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.3306,
+   "adil_oran": 3.03,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.3306,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.2364
+    ],
+    [
+     "2 fark",
+     0.2031
+    ],
+    [
+     "3 fark",
+     0.129
+    ],
+    [
+     "4+ fark",
+     0.1008
+    ],
+    [
+     "Kazanamaz",
+     0.3306
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Chapecoense : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.8611,
+   "adil_oran": 1.16,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.8611,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.0958
+    ],
+    [
+     "2 fark",
+     0.0326
+    ],
+    [
+     "3 fark",
+     0.0083
+    ],
+    [
+     "4+ fark",
+     0.0022
+    ],
+    [
+     "Kazanamaz",
+     0.8611
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller",
+   "oneri": "Toplam 4,5 Alt",
+   "olasilik": 0.8083,
+   "adil_oran": 1.24,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.9518,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.9518
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.0481
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.8075
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.1925
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.5865
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.4135
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.3622
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.6378
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.1918
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.8083
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.0881
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.9119
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Remo PA : Toplam Gol",
+   "oneri": "Remo PA 3,5 Alt",
+   "olasilik": 0.826,
+   "adil_oran": 1.21,
+   "en_olasi": "Remo PA 0,5 Üst",
+   "en_olasi_p": 0.8853,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA 0,5 Üst",
+     0.8853
+    ],
+    [
+     "Remo PA 0,5 Alt",
+     0.1147
+    ],
+    [
+     "Remo PA 1,5 Üst",
+     0.6384
+    ],
+    [
+     "Remo PA 1,5 Alt",
+     0.3616
+    ],
+    [
+     "Remo PA 2,5 Üst",
+     0.3694
+    ],
+    [
+     "Remo PA 2,5 Alt",
+     0.6306
+    ],
+    [
+     "Remo PA 3,5 Üst",
+     0.174
+    ],
+    [
+     "Remo PA 3,5 Alt",
+     0.826
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Chapecoense : Toplam Gol",
+   "oneri": "Chapecoense 1,5 Alt",
+   "olasilik": 0.7835,
+   "adil_oran": 1.28,
+   "en_olasi": "Chapecoense 3,5 Alt",
+   "en_olasi_p": 0.9877,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chapecoense 0,5 Üst",
+     0.5833
+    ],
+    [
+     "Chapecoense 0,5 Alt",
+     0.4167
+    ],
+    [
+     "Chapecoense 1,5 Üst",
+     0.2165
+    ],
+    [
+     "Chapecoense 1,5 Alt",
+     0.7835
+    ],
+    [
+     "Chapecoense 2,5 Üst",
+     0.0596
+    ],
+    [
+     "Chapecoense 2,5 Alt",
+     0.9404
+    ],
+    [
+     "Chapecoense 3,5 Üst",
+     0.0123
+    ],
+    [
+     "Chapecoense 3,5 Alt",
+     0.9877
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller Asya",
+   "oneri": "Toplam Asya 1,75 Üst",
+   "olasilik": 0.7836,
+   "adil_oran": 1.28,
+   "en_olasi": "Toplam Asya 1,75 Üst",
+   "en_olasi_p": 0.7836,
+   "guven": "yüksek",
+   "not_": "Asya çizgisi: değer = 1/adil oran",
+   "secimler": [
+    [
+     "Toplam Asya 1,75 Üst",
+     0.7836
+    ],
+    [
+     "Toplam Asya 1,75 Alt",
+     0.2164
+    ],
+    [
+     "Toplam Asya 2 Üst",
+     0.7529
+    ],
+    [
+     "Toplam Asya 2 Alt",
+     0.2471
+    ],
+    [
+     "Toplam Asya 2,25 Üst",
+     0.6593
+    ],
+    [
+     "Toplam Asya 2,25 Alt",
+     0.3407
+    ],
+    [
+     "Toplam Asya 2,5 Üst",
+     0.5865
+    ],
+    [
+     "Toplam Asya 2,5 Alt",
+     0.4135
+    ],
+    [
+     "Toplam Asya 2,75 Üst",
+     0.5343
+    ],
+    [
+     "Toplam Asya 2,75 Alt",
+     0.4657
+    ],
+    [
+     "Toplam Asya 3 Üst",
+     0.467
+    ],
+    [
+     "Toplam Asya 3 Alt",
+     0.533
+    ],
+    [
+     "Toplam Asya 3,25 Üst",
+     0.408
+    ],
+    [
+     "Toplam Asya 3,25 Alt",
+     0.592
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Remo PA : Toplam Gol Asya",
+   "oneri": "Remo PA Asya 1,25 Üst",
+   "olasilik": 0.7283,
+   "adil_oran": 1.37,
+   "en_olasi": "Remo PA Asya 0,75 Üst",
+   "en_olasi_p": 0.8691,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA Asya 0,75 Üst",
+     0.8691
+    ],
+    [
+     "Remo PA Asya 0,75 Alt",
+     0.1309
+    ],
+    [
+     "Remo PA Asya 1 Üst",
+     0.8477
+    ],
+    [
+     "Remo PA Asya 1 Alt",
+     0.1523
+    ],
+    [
+     "Remo PA Asya 1,25 Üst",
+     0.7283
+    ],
+    [
+     "Remo PA Asya 1,25 Alt",
+     0.2717
+    ],
+    [
+     "Remo PA Asya 1,5 Üst",
+     0.6384
+    ],
+    [
+     "Remo PA Asya 1,5 Alt",
+     0.3616
+    ],
+    [
+     "Remo PA Asya 1,75 Üst",
+     0.5822
+    ],
+    [
+     "Remo PA Asya 1,75 Alt",
+     0.4178
+    ],
+    [
+     "Remo PA Asya 2 Üst",
+     0.5053
+    ],
+    [
+     "Remo PA Asya 2 Alt",
+     0.4947
+    ],
+    [
+     "Remo PA Asya 2,25 Üst",
+     0.4268
+    ],
+    [
+     "Remo PA Asya 2,25 Alt",
+     0.5732
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Chapecoense : Toplam Gol Asya",
+   "oneri": "Chapecoense Asya 1,5 Alt",
+   "olasilik": 0.7835,
+   "adil_oran": 1.28,
+   "en_olasi": "Chapecoense Asya 1,5 Alt",
+   "en_olasi_p": 0.7835,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chapecoense Asya 0,25 Üst",
+     0.7368
+    ],
+    [
+     "Chapecoense Asya 0,25 Alt",
+     0.2632
+    ],
+    [
+     "Chapecoense Asya 0,5 Üst",
+     0.5833
+    ],
+    [
+     "Chapecoense Asya 0,5 Alt",
+     0.4167
+    ],
+    [
+     "Chapecoense Asya 0,75 Üst",
+     0.4897
+    ],
+    [
+     "Chapecoense Asya 0,75 Alt",
+     0.5103
+    ],
+    [
+     "Chapecoense Asya 1 Üst",
+     0.3419
+    ],
+    [
+     "Chapecoense Asya 1 Alt",
+     0.6581
+    ],
+    [
+     "Chapecoense Asya 1,25 Üst",
+     0.2651
+    ],
+    [
+     "Chapecoense Asya 1,25 Alt",
+     0.7349
+    ],
+    [
+     "Chapecoense Asya 1,5 Üst",
+     0.2165
+    ],
+    [
+     "Chapecoense Asya 1,5 Alt",
+     0.7835
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (3-İhtimalli)",
+   "oneri": "1 Üst",
+   "olasilik": 0.8075,
+   "adil_oran": 1.24,
+   "en_olasi": "1 Üst",
+   "en_olasi_p": 0.8075,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.0481
+    ],
+    [
+     "Tam 1",
+     0.1444
+    ],
+    [
+     "1 Üst",
+     0.8075
+    ],
+    [
+     "2 Alt",
+     0.1925
+    ],
+    [
+     "Tam 2",
+     0.221
+    ],
+    [
+     "2 Üst",
+     0.5865
+    ],
+    [
+     "3 Alt",
+     0.4135
+    ],
+    [
+     "Tam 3",
+     0.2242
+    ],
+    [
+     "3 Üst",
+     0.3622
+    ],
+    [
+     "4 Alt",
+     0.6378
+    ],
+    [
+     "Tam 4",
+     0.1705
+    ],
+    [
+     "4 Üst",
+     0.1918
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol Tek/Çift",
+   "oneri": "Çift",
+   "olasilik": 0.5021,
+   "adil_oran": 1.99,
+   "en_olasi": "Çift",
+   "en_olasi_p": 0.5021,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.4979
+    ],
+    [
+     "Çift",
+     0.5021
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Kesin)",
+   "oneri": "3 gol",
+   "olasilik": 0.2242,
+   "adil_oran": 4.46,
+   "en_olasi": "3 gol",
+   "en_olasi_p": 0.2242,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0481
+    ],
+    [
+     "1 gol",
+     0.1444
+    ],
+    [
+     "2 gol",
+     0.221
+    ],
+    [
+     "3 gol",
+     0.2242
+    ],
+    [
+     "4 gol",
+     0.1705
+    ],
+    [
+     "5 gol",
+     0.1037
+    ],
+    [
+     "6+ gol",
+     0.0881
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Remo PA : Toplam Gol (Kesin)",
+   "oneri": "2 gol",
+   "olasilik": 0.269,
+   "adil_oran": 3.72,
+   "en_olasi": "2 gol",
+   "en_olasi_p": 0.269,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.1147
+    ],
+    [
+     "1 gol",
+     0.2469
+    ],
+    [
+     "2 gol",
+     0.269
+    ],
+    [
+     "3 gol",
+     0.1954
+    ],
+    [
+     "4+ gol",
+     0.174
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Chapecoense : Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.4167,
+   "adil_oran": 2.4,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4167,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4167
+    ],
+    [
+     "1 gol",
+     0.3668
+    ],
+    [
+     "2 gol",
+     0.1569
+    ],
+    [
+     "3 gol",
+     0.0473
+    ],
+    [
+     "4+ gol",
+     0.0123
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Aralık)",
+   "oneri": "2-3 gol",
+   "olasilik": 0.4453,
+   "adil_oran": 2.25,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.4453,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.1925
+    ],
+    [
+     "2-3 gol",
+     0.4453
+    ],
+    [
+     "4-5 gol",
+     0.2742
+    ],
+    [
+     "6+ gol",
+     0.0881
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Remo PA : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5159,
+   "adil_oran": 1.94,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5159,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.1147
+    ],
+    [
+     "1-2 gol",
+     0.5159
+    ],
+    [
+     "3+ gol",
+     0.3694
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Chapecoense : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5237,
+   "adil_oran": 1.91,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5237,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4167
+    ],
+    [
+     "1-2 gol",
+     0.5237
+    ],
+    [
+     "3+ gol",
+     0.0596
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Genişletilmiş Gol Aralığı)",
+   "oneri": "2-4 gol",
+   "olasilik": 0.6158,
+   "adil_oran": 1.62,
+   "en_olasi": "2-4 gol",
+   "en_olasi_p": 0.6158,
+   "guven": "yüksek",
+   "not_": "Sitedeki aralıklar farklı olabilir",
+   "secimler": [
+    [
+     "0 gol",
+     0.0481
+    ],
+    [
+     "1-2 gol",
+     0.3654
+    ],
+    [
+     "1-3 gol",
+     0.5896
+    ],
+    [
+     "2-3 gol",
+     0.4453
+    ],
+    [
+     "2-4 gol",
+     0.6158
+    ],
+    [
+     "3-4 gol",
+     0.3947
+    ],
+    [
+     "3-5 gol",
+     0.4984
+    ],
+    [
+     "4-6 gol",
+     0.327
+    ],
+    [
+     "5+ gol",
+     0.1918
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Remo PA : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5159,
+   "adil_oran": 1.94,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5159,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.3616
+    ],
+    [
+     "1-2 gol",
+     0.5159
+    ],
+    [
+     "2-3 gol",
+     0.4644
+    ],
+    [
+     "3+ gol",
+     0.3694
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Chapecoense : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7835,
+   "adil_oran": 1.28,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7835,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.7835
+    ],
+    [
+     "1-2 gol",
+     0.5237
+    ],
+    [
+     "2-3 gol",
+     0.2042
+    ],
+    [
+     "3+ gol",
+     0.0596
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Kesin Gol Sayısı",
+   "oneri": "3 gol",
+   "olasilik": 0.2242,
+   "adil_oran": 4.46,
+   "en_olasi": "3 gol",
+   "en_olasi_p": 0.2242,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.0481
+    ],
+    [
+     "1 gol",
+     0.1444
+    ],
+    [
+     "2 gol",
+     0.221
+    ],
+    [
+     "3 gol",
+     0.2242
+    ],
+    [
+     "4 gol",
+     0.1705
+    ],
+    [
+     "5 gol",
+     0.1037
+    ],
+    [
+     "6 gol",
+     0.0528
+    ],
+    [
+     "7+ gol",
+     0.0353
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 1 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8557,
+   "adil_oran": 1.17,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8557,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1444
+    ],
+    [
+     "Hayır",
+     0.8557
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 2 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.779,
+   "adil_oran": 1.28,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.779,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.221
+    ],
+    [
+     "Hayır",
+     0.779
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 3 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7758,
+   "adil_oran": 1.29,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7758,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2242
+    ],
+    [
+     "Hayır",
+     0.7758
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 4 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8295,
+   "adil_oran": 1.21,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8295,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1705
+    ],
+    [
+     "Hayır",
+     0.8295
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "En Az Bir Takım Üst Gol Atar",
+   "oneri": "En az bir takım 1,5 Üst",
+   "olasilik": 0.7167,
+   "adil_oran": 1.4,
+   "en_olasi": "En az bir takım 0,5 Üst",
+   "en_olasi_p": 0.9518,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "En az bir takım 0,5 Üst",
+     0.9518
+    ],
+    [
+     "En az bir takım 1,5 Üst",
+     0.7167
+    ],
+    [
+     "En az bir takım 2,5 Üst",
+     0.4071
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Remo PA : Asist Yapar. Toplam",
+   "oneri": "Remo PA asist 0,5 Üst",
+   "olasilik": 0.7369,
+   "adil_oran": 1.36,
+   "en_olasi": "Remo PA asist 2,5 Alt",
+   "en_olasi_p": 0.8479,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA asist 0,5 Üst",
+     0.7369
+    ],
+    [
+     "Remo PA asist 0,5 Alt",
+     0.2631
+    ],
+    [
+     "Remo PA asist 1,5 Üst",
+     0.3877
+    ],
+    [
+     "Remo PA asist 1,5 Alt",
+     0.6123
+    ],
+    [
+     "Remo PA asist 2,5 Üst",
+     0.1521
+    ],
+    [
+     "Remo PA asist 2,5 Alt",
+     0.8479
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Chapecoense : Asist Yapar. Toplam",
+   "oneri": "Chapecoense asist 0,5 Alt",
+   "olasilik": 0.6093,
+   "adil_oran": 1.64,
+   "en_olasi": "Chapecoense asist 1,5 Alt",
+   "en_olasi_p": 0.9101,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chapecoense asist 0,5 Üst",
+     0.3907
+    ],
+    [
+     "Chapecoense asist 0,5 Alt",
+     0.6093
+    ],
+    [
+     "Chapecoense asist 1,5 Üst",
+     0.0899
+    ],
+    [
+     "Chapecoense asist 1,5 Alt",
+     0.9101
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takımda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.5167,
+   "adil_oran": 1.94,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5167,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5167
+    ],
+    [
+     "Hayır",
+     0.4833
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8619,
+   "adil_oran": 1.16,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8619,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1381
+    ],
+    [
+     "Hayır",
+     0.8619
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Remo PA : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.8853,
+   "adil_oran": 1.13,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.8853,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.8853
+    ],
+    [
+     "Hayır",
+     0.1147
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Chapecoense : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.5833,
+   "adil_oran": 1.71,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5833,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5833
+    ],
+    [
+     "Hayır",
+     0.4167
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Karşılıklı Gol ve Toplam Goller 2.5",
+   "oneri": "KG Var & Üst",
+   "olasilik": 0.4259,
+   "adil_oran": 2.35,
+   "en_olasi": "KG Var & Üst",
+   "en_olasi_p": 0.4259,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "KG Var & Üst",
+     0.4259
+    ],
+    [
+     "KG Var & Alt",
+     0.0908
+    ],
+    [
+     "KG Yok & Üst",
+     0.1606
+    ],
+    [
+     "KG Yok & Alt",
+     0.3227
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Yarıda da Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.9471,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9471,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0529
+    ],
+    [
+     "Hayır",
+     0.9471
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı",
+   "oneri": "Chapecoense +2,5",
+   "olasilik": 0.7701,
+   "adil_oran": 1.3,
+   "en_olasi": "Remo PA +2,5",
+   "en_olasi_p": 0.9895,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA -2,5",
+     0.2299
+    ],
+    [
+     "Chapecoense +2,5",
+     0.7701
+    ],
+    [
+     "Remo PA -1,5",
+     0.433
+    ],
+    [
+     "Chapecoense +1,5",
+     0.567
+    ],
+    [
+     "Remo PA -0,5",
+     0.6694
+    ],
+    [
+     "Chapecoense +0,5",
+     0.3306
+    ],
+    [
+     "Remo PA +0,5",
+     0.8611
+    ],
+    [
+     "Chapecoense -0,5",
+     0.1389
+    ],
+    [
+     "Remo PA +1,5",
+     0.9569
+    ],
+    [
+     "Chapecoense -1,5",
+     0.0431
+    ],
+    [
+     "Remo PA +2,5",
+     0.9895
+    ],
+    [
+     "Chapecoense -2,5",
+     0.0105
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Goller Asya Handikapı",
+   "oneri": "Remo PA Asya 0",
+   "olasilik": 0.8282,
+   "adil_oran": 1.21,
+   "en_olasi": "Remo PA Asya +1,5",
+   "en_olasi_p": 0.9569,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA Asya -2",
+     0.2885
+    ],
+    [
+     "Chapecoense Asya -2",
+     0.0109
+    ],
+    [
+     "Remo PA Asya -1,75",
+     0.3689
+    ],
+    [
+     "Chapecoense Asya -1,75",
+     0.0273
+    ],
+    [
+     "Remo PA Asya -1,5",
+     0.433
+    ],
+    [
+     "Chapecoense Asya -1,5",
+     0.0431
+    ],
+    [
+     "Remo PA Asya -1,25",
+     0.4911
+    ],
+    [
+     "Chapecoense Asya -1,25",
+     0.0453
+    ],
+    [
+     "Remo PA Asya -1",
+     0.5671
+    ],
+    [
+     "Chapecoense Asya -1",
+     0.0477
+    ],
+    [
+     "Remo PA Asya -0,75",
+     0.6251
+    ],
+    [
+     "Chapecoense Asya -0,75",
+     0.0956
+    ],
+    [
+     "Remo PA Asya -0,5",
+     0.6694
+    ],
+    [
+     "Chapecoense Asya -0,5",
+     0.1389
+    ],
+    [
+     "Remo PA Asya -0,25",
+     0.7404
+    ],
+    [
+     "Chapecoense Asya -0,25",
+     0.1536
+    ],
+    [
+     "Remo PA Asya 0",
+     0.8282
+    ],
+    [
+     "Chapecoense Asya 0",
+     0.1718
+    ],
+    [
+     "Remo PA Asya +0,25",
+     0.8464
+    ],
+    [
+     "Chapecoense Asya +0,25",
+     0.2596
+    ],
+    [
+     "Remo PA Asya +0,5",
+     0.8611
+    ],
+    [
+     "Chapecoense Asya +0,5",
+     0.3306
+    ],
+    [
+     "Remo PA Asya +0,75",
+     0.9044
+    ],
+    [
+     "Chapecoense Asya +0,75",
+     0.3749
+    ],
+    [
+     "Remo PA Asya +1",
+     0.9523
+    ],
+    [
+     "Chapecoense Asya +1",
+     0.4329
+    ],
+    [
+     "Remo PA Asya +1,25",
+     0.9547
+    ],
+    [
+     "Chapecoense Asya +1,25",
+     0.5089
+    ],
+    [
+     "Remo PA Asya +1,5",
+     0.9569
+    ],
+    [
+     "Chapecoense Asya +1,5",
+     0.567
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı (3-İhtimalli)",
+   "oneri": "Chapecoense (-3)",
+   "olasilik": 0.7701,
+   "adil_oran": 1.3,
+   "en_olasi": "Remo PA (+3)",
+   "en_olasi_p": 0.9895,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA (-3)",
+     0.1008
+    ],
+    [
+     "X (-3)",
+     0.129
+    ],
+    [
+     "Chapecoense (-3)",
+     0.7701
+    ],
+    [
+     "Remo PA (-2)",
+     0.2299
+    ],
+    [
+     "X (-2)",
+     0.2031
+    ],
+    [
+     "Chapecoense (-2)",
+     0.567
+    ],
+    [
+     "Remo PA (-1)",
+     0.433
+    ],
+    [
+     "X (-1)",
+     0.2364
+    ],
+    [
+     "Chapecoense (-1)",
+     0.3306
+    ],
+    [
+     "Remo PA (+1)",
+     0.8611
+    ],
+    [
+     "X (+1)",
+     0.0958
+    ],
+    [
+     "Chapecoense (+1)",
+     0.0431
+    ],
+    [
+     "Remo PA (+2)",
+     0.9569
+    ],
+    [
+     "X (+2)",
+     0.0326
+    ],
+    [
+     "Chapecoense (+2)",
+     0.0105
+    ],
+    [
+     "Remo PA (+3)",
+     0.9895
+    ],
+    [
+     "X (+3)",
+     0.0083
+    ],
+    [
+     "Chapecoense (+3)",
+     0.0022
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Remo PA Gol Atar ve Maç Sonucu",
+   "oneri": "1 & Remo PA gol atar",
+   "olasilik": 0.6694,
+   "adil_oran": 1.49,
+   "en_olasi": "1 & Remo PA gol atar",
+   "en_olasi_p": 0.6694,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Remo PA gol atar",
+     0.6694
+    ],
+    [
+     "1 & Remo PA gol atamaz",
+     0.0
+    ],
+    [
+     "X & Remo PA gol atar",
+     0.1435
+    ],
+    [
+     "X & Remo PA gol atamaz",
+     0.0481
+    ],
+    [
+     "2 & Remo PA gol atar",
+     0.0723
+    ],
+    [
+     "2 & Remo PA gol atamaz",
+     0.0666
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Chapecoense Gol Atar ve Maç Sonucu",
+   "oneri": "1 & Chapecoense gol atamaz",
+   "olasilik": 0.3686,
+   "adil_oran": 2.71,
+   "en_olasi": "1 & Chapecoense gol atamaz",
+   "en_olasi_p": 0.3686,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Chapecoense gol atar",
+     0.3009
+    ],
+    [
+     "1 & Chapecoense gol atamaz",
+     0.3686
+    ],
+    [
+     "X & Chapecoense gol atar",
+     0.1435
+    ],
+    [
+     "X & Chapecoense gol atamaz",
+     0.0481
+    ],
+    [
+     "2 & Chapecoense gol atar",
+     0.1389
+    ],
+    [
+     "2 & Chapecoense gol atamaz",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Karşılıklı Gol",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.3686,
+   "adil_oran": 2.71,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.3686,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.3009
+    ],
+    [
+     "1 & KG Yok",
+     0.3686
+    ],
+    [
+     "X & KG Var",
+     0.1435
+    ],
+    [
+     "X & KG Yok",
+     0.0481
+    ],
+    [
+     "2 & KG Var",
+     0.0723
+    ],
+    [
+     "2 & KG Yok",
+     0.0666
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Karşılıklı Gol",
+   "oneri": "1X & KG Var",
+   "olasilik": 0.4444,
+   "adil_oran": 2.25,
+   "en_olasi": "1X & KG Var",
+   "en_olasi_p": 0.4444,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & KG Var",
+     0.4444
+    ],
+    [
+     "1X & KG Yok",
+     0.4167
+    ],
+    [
+     "12 & KG Var",
+     0.3732
+    ],
+    [
+     "12 & KG Yok",
+     0.4352
+    ],
+    [
+     "X2 & KG Var",
+     0.2158
+    ],
+    [
+     "X2 & KG Yok",
+     0.1147
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 1.5",
+   "oneri": "1 & 1,5 Üst",
+   "olasilik": 0.5669,
+   "adil_oran": 1.76,
+   "en_olasi": "1 & 1,5 Üst",
+   "en_olasi_p": 0.5669,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1,5 Üst",
+     0.5669
+    ],
+    [
+     "1 & 1,5 Alt",
+     0.1025
+    ],
+    [
+     "X & 1,5 Üst",
+     0.1435
+    ],
+    [
+     "X & 1,5 Alt",
+     0.0481
+    ],
+    [
+     "2 & 1,5 Üst",
+     0.0971
+    ],
+    [
+     "2 & 1,5 Alt",
+     0.0418
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 2.5",
+   "oneri": "1 & 2,5 Üst",
+   "olasilik": 0.4547,
+   "adil_oran": 2.2,
+   "en_olasi": "1 & 2,5 Üst",
+   "en_olasi_p": 0.4547,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 2,5 Üst",
+     0.4547
+    ],
+    [
+     "1 & 2,5 Alt",
+     0.2147
+    ],
+    [
+     "X & 2,5 Üst",
+     0.0527
+    ],
+    [
+     "X & 2,5 Alt",
+     0.1389
+    ],
+    [
+     "2 & 2,5 Üst",
+     0.0791
+    ],
+    [
+     "2 & 2,5 Alt",
+     0.0598
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 3.5",
+   "oneri": "1 & 3,5 Alt",
+   "olasilik": 0.395,
+   "adil_oran": 2.53,
+   "en_olasi": "1 & 3,5 Alt",
+   "en_olasi_p": 0.395,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 3,5 Üst",
+     0.2745
+    ],
+    [
+     "1 & 3,5 Alt",
+     0.395
+    ],
+    [
+     "X & 3,5 Üst",
+     0.0527
+    ],
+    [
+     "X & 3,5 Alt",
+     0.1389
+    ],
+    [
+     "2 & 3,5 Üst",
+     0.0351
+    ],
+    [
+     "2 & 3,5 Alt",
+     0.1038
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 4.5",
+   "oneri": "1 & 4,5 Alt",
+   "olasilik": 0.5104,
+   "adil_oran": 1.96,
+   "en_olasi": "1 & 4,5 Alt",
+   "en_olasi_p": 0.5104,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 4,5 Üst",
+     0.159
+    ],
+    [
+     "1 & 4,5 Alt",
+     0.5104
+    ],
+    [
+     "X & 4,5 Üst",
+     0.0105
+    ],
+    [
+     "X & 4,5 Alt",
+     0.1812
+    ],
+    [
+     "2 & 4,5 Üst",
+     0.0223
+    ],
+    [
+     "2 & 4,5 Alt",
+     0.1166
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Remo PA : Toplam Gol",
+   "oneri": "1 & Remo PA 1,5 Üst",
+   "olasilik": 0.5669,
+   "adil_oran": 1.76,
+   "en_olasi": "1 & Remo PA 1,5 Üst",
+   "en_olasi_p": 0.5669,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Remo PA 1,5 Üst",
+     0.5669
+    ],
+    [
+     "1 & Remo PA 1,5 Alt",
+     0.1025
+    ],
+    [
+     "X & Remo PA 1,5 Üst",
+     0.0527
+    ],
+    [
+     "X & Remo PA 1,5 Alt",
+     0.1389
+    ],
+    [
+     "2 & Remo PA 1,5 Üst",
+     0.0187
+    ],
+    [
+     "2 & Remo PA 1,5 Alt",
+     0.1202
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Chapecoense : Toplam Gol",
+   "oneri": "1 & Chapecoense 0,5 Alt",
+   "olasilik": 0.3686,
+   "adil_oran": 2.71,
+   "en_olasi": "1 & Chapecoense 0,5 Alt",
+   "en_olasi_p": 0.3686,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Chapecoense 0,5 Üst",
+     0.3009
+    ],
+    [
+     "1 & Chapecoense 0,5 Alt",
+     0.3686
+    ],
+    [
+     "X & Chapecoense 0,5 Üst",
+     0.1435
+    ],
+    [
+     "X & Chapecoense 0,5 Alt",
+     0.0481
+    ],
+    [
+     "2 & Chapecoense 0,5 Üst",
+     0.1389
+    ],
+    [
+     "2 & Chapecoense 0,5 Alt",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Toplam Gol",
+   "oneri": "1 veya 2,5 Üst",
+   "olasilik": 0.8012,
+   "adil_oran": 1.25,
+   "en_olasi": "1 veya 2,5 Alt",
+   "en_olasi_p": 0.8682,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 2,5 Üst",
+     0.8012
+    ],
+    [
+     "1 veya 2,5 Alt",
+     0.8682
+    ],
+    [
+     "X veya 2,5 Üst",
+     0.7254
+    ],
+    [
+     "X veya 2,5 Alt",
+     0.4662
+    ],
+    [
+     "2 veya 2,5 Üst",
+     0.6463
+    ],
+    [
+     "2 veya 2,5 Alt",
+     0.4926
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol (Kesin)",
+   "oneri": "1 & 3 gol",
+   "olasilik": 0.1802,
+   "adil_oran": 5.55,
+   "en_olasi": "1 & 3 gol",
+   "en_olasi_p": 0.1802,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 0 gol",
+     0.0
+    ],
+    [
+     "1 & 1 gol",
+     0.1025
+    ],
+    [
+     "1 & 2 gol",
+     0.1122
+    ],
+    [
+     "1 & 3 gol",
+     0.1802
+    ],
+    [
+     "1 & 4 gol",
+     0.1154
+    ],
+    [
+     "1 & 5 gol",
+     0.0878
+    ],
+    [
+     "X & 0 gol",
+     0.0481
+    ],
+    [
+     "X & 1 gol",
+     0.0
+    ],
+    [
+     "X & 2 gol",
+     0.0908
+    ],
+    [
+     "X & 3 gol",
+     0.0
+    ],
+    [
+     "X & 4 gol",
+     0.0422
+    ],
+    [
+     "X & 5 gol",
+     0.0
+    ],
+    [
+     "2 & 0 gol",
+     0.0
+    ],
+    [
+     "2 & 1 gol",
+     0.0418
+    ],
+    [
+     "2 & 2 gol",
+     0.018
+    ],
+    [
+     "2 & 3 gol",
+     0.044
+    ],
+    [
+     "2 & 4 gol",
+     0.0128
+    ],
+    [
+     "2 & 5 gol",
+     0.0158
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "1 & 2-4 gol",
+   "olasilik": 0.4079,
+   "adil_oran": 2.45,
+   "en_olasi": "1 & 2-4 gol",
+   "en_olasi_p": 0.4079,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1-2 gol",
+     0.2147
+    ],
+    [
+     "1 & 1-3 gol",
+     0.395
+    ],
+    [
+     "1 & 2-3 gol",
+     0.2924
+    ],
+    [
+     "1 & 2-4 gol",
+     0.4079
+    ],
+    [
+     "1 & 3-4 gol",
+     0.2957
+    ],
+    [
+     "1 & 3-5 gol",
+     0.3835
+    ],
+    [
+     "X & 1-2 gol",
+     0.0908
+    ],
+    [
+     "X & 1-3 gol",
+     0.0908
+    ],
+    [
+     "X & 2-3 gol",
+     0.0908
+    ],
+    [
+     "X & 2-4 gol",
+     0.133
+    ],
+    [
+     "X & 3-4 gol",
+     0.0422
+    ],
+    [
+     "X & 3-5 gol",
+     0.0422
+    ],
+    [
+     "2 & 1-2 gol",
+     0.0598
+    ],
+    [
+     "2 & 1-3 gol",
+     0.1038
+    ],
+    [
+     "2 & 2-3 gol",
+     0.062
+    ],
+    [
+     "2 & 2-4 gol",
+     0.0748
+    ],
+    [
+     "2 & 3-4 gol",
+     0.0568
+    ],
+    [
+     "2 & 3-5 gol",
+     0.0727
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "1X & 2-4 gol",
+   "olasilik": 0.5409,
+   "adil_oran": 1.85,
+   "en_olasi": "1X & 2-4 gol",
+   "en_olasi_p": 0.5409,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1-2 gol",
+     0.3055
+    ],
+    [
+     "1X & 1-3 gol",
+     0.4858
+    ],
+    [
+     "1X & 2-3 gol",
+     0.3832
+    ],
+    [
+     "1X & 2-4 gol",
+     0.5409
+    ],
+    [
+     "12 & 1-2 gol",
+     0.2746
+    ],
+    [
+     "12 & 1-3 gol",
+     0.4988
+    ],
+    [
+     "12 & 2-3 gol",
+     0.3545
+    ],
+    [
+     "12 & 2-4 gol",
+     0.4827
+    ],
+    [
+     "X2 & 1-2 gol",
+     0.1506
+    ],
+    [
+     "X2 & 1-3 gol",
+     0.1946
+    ],
+    [
+     "X2 & 2-3 gol",
+     0.1528
+    ],
+    [
+     "X2 & 2-4 gol",
+     0.2079
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Doğru Skor",
+   "oneri": "1 veya 1-1",
+   "olasilik": 0.7602,
+   "adil_oran": 1.32,
+   "en_olasi": "1 veya 1-1",
+   "en_olasi_p": 0.7602,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 1-1",
+     0.7602
+    ],
+    [
+     "X veya 2-0",
+     0.3039
+    ],
+    [
+     "X veya 1-0",
+     0.2942
+    ],
+    [
+     "X veya 2-1",
+     0.2901
+    ],
+    [
+     "X veya 3-0",
+     0.2735
+    ],
+    [
+     "X veya 3-1",
+     0.2635
+    ],
+    [
+     "2 veya 2-0",
+     0.2511
+    ],
+    [
+     "2 veya 1-0",
+     0.2414
+    ],
+    [
+     "2 veya 2-1",
+     0.2373
+    ],
+    [
+     "2 veya 1-1",
+     0.2297
+    ],
+    [
+     "2 veya 3-0",
+     0.2207
+    ],
+    [
+     "2 veya 3-1",
+     0.2107
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Her İki Yarı Toplam Gol Kombinasyonu",
+   "oneri": "İY Alt 1,5 & 2Y Üst 1,5",
+   "olasilik": 0.3136,
+   "adil_oran": 3.19,
+   "en_olasi": "İY Alt 1,5 & 2Y Üst 1,5",
+   "en_olasi_p": 0.3136,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Alt 1,5 & 2Y Alt 1,5",
+     0.3013
+    ],
+    [
+     "İY Alt 1,5 & 2Y Üst 1,5",
+     0.3136
+    ],
+    [
+     "İY Üst 1,5 & 2Y Alt 1,5",
+     0.1899
+    ],
+    [
+     "İY Üst 1,5 & 2Y Üst 1,5",
+     0.1953
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Farklı Kombineler",
+   "oneri": "1 & 2Y gol olur",
+   "olasilik": 0.5809,
+   "adil_oran": 1.72,
+   "en_olasi": "1 & 2Y gol olur",
+   "en_olasi_p": 0.5809,
+   "guven": "yüksek",
+   "not_": "Sitedeki kombinasyon içerikleri farklı olabilir",
+   "secimler": [
+    [
+     "1 & 2Y gol olur",
+     0.5809
+    ],
+    [
+     "2 & 2Y gol olur",
+     0.1124
+    ],
+    [
+     "Remo PA her iki yarıda gol & 1",
+     0.3952
+    ],
+    [
+     "Chapecoense her iki yarıda gol & 2",
+     0.0585
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans Kombo",
+   "oneri": "1X & 1,5 Üst",
+   "olasilik": 0.7104,
+   "adil_oran": 1.41,
+   "en_olasi": "1X & 1,5 Üst",
+   "en_olasi_p": 0.7104,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1,5 Üst",
+     0.7104
+    ],
+    [
+     "1X & 1,5 Alt",
+     0.1507
+    ],
+    [
+     "1X & 2,5 Üst",
+     0.5074
+    ],
+    [
+     "1X & 2,5 Alt",
+     0.3537
+    ],
+    [
+     "1X & 3,5 Üst",
+     0.3272
+    ],
+    [
+     "1X & 3,5 Alt",
+     0.5339
+    ],
+    [
+     "12 & 1,5 Üst",
+     0.664
+    ],
+    [
+     "12 & 1,5 Alt",
+     0.1444
+    ],
+    [
+     "12 & 2,5 Üst",
+     0.5338
+    ],
+    [
+     "12 & 2,5 Alt",
+     0.2746
+    ],
+    [
+     "12 & 3,5 Üst",
+     0.3095
+    ],
+    [
+     "12 & 3,5 Alt",
+     0.4988
+    ],
+    [
+     "X2 & 1,5 Üst",
+     0.2406
+    ],
+    [
+     "X2 & 1,5 Alt",
+     0.09
+    ],
+    [
+     "X2 & 2,5 Üst",
+     0.1318
+    ],
+    [
+     "X2 & 2,5 Alt",
+     0.1988
+    ],
+    [
+     "X2 & 3,5 Üst",
+     0.0878
+    ],
+    [
+     "X2 & 3,5 Alt",
+     0.2428
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "İlk Yarı/Maç Sonucu ve Toplam Gol",
+   "oneri": "1/1 & 2,5 Üst",
+   "olasilik": 0.3164,
+   "adil_oran": 3.16,
+   "en_olasi": "1/1 & 2,5 Üst",
+   "en_olasi_p": 0.3164,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1 & 2,5 Üst",
+     0.3164
+    ],
+    [
+     "1/1 & 2,5 Alt",
+     0.1226
+    ],
+    [
+     "1/X & 2,5 Üst",
+     0.0167
+    ],
+    [
+     "1/X & 2,5 Alt",
+     0.0224
+    ],
+    [
+     "1/2 & 2,5 Üst",
+     0.0099
+    ],
+    [
+     "1/2 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "X/1 & 2,5 Üst",
+     0.1067
+    ],
+    [
+     "X/1 & 2,5 Alt",
+     0.0921
+    ],
+    [
+     "X/X & 2,5 Üst",
+     0.0192
+    ],
+    [
+     "X/X & 2,5 Alt",
+     0.0946
+    ],
+    [
+     "X/2 & 2,5 Üst",
+     0.0261
+    ],
+    [
+     "X/2 & 2,5 Alt",
+     0.0291
+    ],
+    [
+     "2/1 & 2,5 Üst",
+     0.0317
+    ],
+    [
+     "2/1 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "2/X & 2,5 Üst",
+     0.0168
+    ],
+    [
+     "2/X & 2,5 Alt",
+     0.0219
+    ],
+    [
+     "2/2 & 2,5 Üst",
+     0.0431
+    ],
+    [
+     "2/2 & 2,5 Alt",
+     0.0307
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Her İki Yarıda Gol Olur",
+   "oneri": "Evet",
+   "olasilik": 0.6035,
+   "adil_oran": 1.66,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6035,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6035
+    ],
+    [
+     "Hayır",
+     0.3965
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım",
+   "oneri": "Remo PA",
+   "olasilik": 0.6779,
+   "adil_oran": 1.48,
+   "en_olasi": "Remo PA",
+   "en_olasi_p": 0.6779,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA",
+     0.6779
+    ],
+    [
+     "Gol yok",
+     0.0481
+    ],
+    [
+     "Chapecoense",
+     0.274
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Son Golü Atacak Takım",
+   "oneri": "Remo PA",
+   "olasilik": 0.6757,
+   "adil_oran": 1.48,
+   "en_olasi": "Remo PA",
+   "en_olasi_p": 0.6757,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA",
+     0.6757
+    ],
+    [
+     "Gol yok",
+     0.0481
+    ],
+    [
+     "Chapecoense",
+     0.2762
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golün Atılma Şekli",
+   "oneri": "Şut",
+   "olasilik": 0.6335,
+   "adil_oran": 1.58,
+   "en_olasi": "Şut",
+   "en_olasi_p": 0.6335,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şut",
+     0.6335
+    ],
+    [
+     "Kafa",
+     0.1346
+    ],
+    [
+     "Penaltı",
+     0.1221
+    ],
+    [
+     "Serbest vuruş",
+     0.0267
+    ],
+    [
+     "Kendi kalesine",
+     0.0349
+    ],
+    [
+     "Gol yok",
+     0.0481
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı",
+   "oneri": "1-27 dk",
+   "olasilik": 0.5108,
+   "adil_oran": 1.96,
+   "en_olasi": "1-27 dk",
+   "en_olasi_p": 0.5108,
+   "guven": "orta",
+   "not_": "Sınır 27. dk varsayıldı",
+   "secimler": [
+    [
+     "1-27 dk",
+     0.5108
+    ],
+    [
+     "28-90 dk",
+     0.4411
+    ],
+    [
+     "Gol yok",
+     0.0481
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Remo PA : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "1-10 dk",
+   "olasilik": 0.1668,
+   "adil_oran": 6.0,
+   "en_olasi": "1-10 dk",
+   "en_olasi_p": 0.1668,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.1668
+    ],
+    [
+     "11-20 dk",
+     0.1425
+    ],
+    [
+     "21-30 dk",
+     0.1249
+    ],
+    [
+     "31-40 dk",
+     0.1071
+    ],
+    [
+     "41-50 dk",
+     0.1043
+    ],
+    [
+     "51-60 dk",
+     0.0715
+    ],
+    [
+     "61-70 dk",
+     0.0599
+    ],
+    [
+     "71-80 dk",
+     0.0495
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0587
+    ],
+    [
+     "Gol yok",
+     0.1147
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Chapecoense : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.4167,
+   "adil_oran": 2.4,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.4167,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.0714
+    ],
+    [
+     "11-20 dk",
+     0.0697
+    ],
+    [
+     "21-30 dk",
+     0.0665
+    ],
+    [
+     "31-40 dk",
+     0.0658
+    ],
+    [
+     "41-50 dk",
+     0.073
+    ],
+    [
+     "51-60 dk",
+     0.057
+    ],
+    [
+     "61-70 dk",
+     0.0549
+    ],
+    [
+     "71-80 dk",
+     0.0528
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0722
+    ],
+    [
+     "Gol yok",
+     0.4167
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı (15 dk.)",
+   "oneri": "1-15 dk",
+   "olasilik": 0.3204,
+   "adil_oran": 3.12,
+   "en_olasi": "1-15 dk",
+   "en_olasi_p": 0.3204,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-15 dk",
+     0.3204
+    ],
+    [
+     "16-30 dk",
+     0.2306
+    ],
+    [
+     "31-45 (+uz.) dk",
+     0.1803
+    ],
+    [
+     "46-60 dk",
+     0.1
+    ],
+    [
+     "61-75 dk",
+     0.0672
+    ],
+    [
+     "76-90 (+uz.) dk",
+     0.0534
+    ],
+    [
+     "Gol yok",
+     0.0481
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve Maç Sonucu",
+   "oneri": "İlk gol Remo PA & 1",
+   "olasilik": 0.5808,
+   "adil_oran": 1.72,
+   "en_olasi": "İlk gol Remo PA & 1",
+   "en_olasi_p": 0.5808,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Remo PA & 1",
+     0.5808
+    ],
+    [
+     "İlk gol Remo PA & X",
+     0.0724
+    ],
+    [
+     "İlk gol Remo PA & 2",
+     0.0247
+    ],
+    [
+     "İlk gol Chapecoense & 1",
+     0.0887
+    ],
+    [
+     "İlk gol Chapecoense & X",
+     0.0711
+    ],
+    [
+     "İlk gol Chapecoense & 2",
+     0.1142
+    ],
+    [
+     "Gol yok",
+     0.0481
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 1. Yarı Sonucu",
+   "oneri": "İlk gol Remo PA & İY 1",
+   "olasilik": 0.4647,
+   "adil_oran": 2.15,
+   "en_olasi": "İlk gol Remo PA & İY 1",
+   "en_olasi_p": 0.4647,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Remo PA & İY 1",
+     0.4647
+    ],
+    [
+     "İlk gol Remo PA & İY X",
+     0.2059
+    ],
+    [
+     "İlk gol Remo PA & İY 2",
+     0.0073
+    ],
+    [
+     "İlk gol Chapecoense & İY 1",
+     0.0232
+    ],
+    [
+     "İlk gol Chapecoense & İY X",
+     0.1139
+    ],
+    [
+     "İlk gol Chapecoense & İY 2",
+     0.1369
+    ],
+    [
+     "Gol yok",
+     0.0481
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 2. Yarı Sonucu",
+   "oneri": "İlk gol Remo PA & 2Y 1",
+   "olasilik": 0.4166,
+   "adil_oran": 2.4,
+   "en_olasi": "İlk gol Remo PA & 2Y 1",
+   "en_olasi_p": 0.4166,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Remo PA & 2Y 1",
+     0.4166
+    ],
+    [
+     "İlk gol Remo PA & 2Y X",
+     0.1793
+    ],
+    [
+     "İlk gol Remo PA & 2Y 2",
+     0.082
+    ],
+    [
+     "İlk gol Chapecoense & 2Y 1",
+     0.1258
+    ],
+    [
+     "İlk gol Chapecoense & 2Y X",
+     0.0813
+    ],
+    [
+     "İlk gol Chapecoense & 2Y 2",
+     0.0669
+    ],
+    [
+     "Gol yok",
+     0.0481
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Doğru Skor",
+   "oneri": "2-0",
+   "olasilik": 0.1122,
+   "adil_oran": 8.91,
+   "en_olasi": "2-0",
+   "en_olasi_p": 0.1122,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "2-0",
+     0.1122
+    ],
+    [
+     "1-0",
+     0.1025
+    ],
+    [
+     "2-1",
+     0.0984
+    ],
+    [
+     "1-1",
+     0.0908
+    ],
+    [
+     "3-0",
+     0.0818
+    ],
+    [
+     "3-1",
+     0.0718
+    ],
+    [
+     "Diğer",
+     0.0699
+    ],
+    [
+     "0-0",
+     0.0481
+    ],
+    [
+     "4-0",
+     0.0437
+    ],
+    [
+     "2-2",
+     0.0422
+    ],
+    [
+     "0-1",
+     0.0418
+    ],
+    [
+     "4-1",
+     0.0393
+    ],
+    [
+     "1-2",
+     0.0387
+    ],
+    [
+     "3-2",
+     0.03
+    ],
+    [
+     "0-2",
+     0.018
+    ],
+    [
+     "4-2",
+     0.0169
+    ],
+    [
+     "2-3",
+     0.013
+    ],
+    [
+     "1-3",
+     0.0117
+    ],
+    [
+     "3-3",
+     0.0093
+    ],
+    [
+     "0-3",
+     0.0053
+    ],
+    [
+     "4-3",
+     0.005
+    ],
+    [
+     "1-4",
+     0.0026
+    ],
+    [
+     "2-4",
+     0.0026
+    ],
+    [
+     "3-4",
+     0.0021
+    ],
+    [
+     "0-4",
+     0.0012
+    ],
+    [
+     "4-4",
+     0.001
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Herhangi Bir Zamanda Doğru Skor",
+   "oneri": "1-0 herhangi bir anda",
+   "olasilik": 0.6704,
+   "adil_oran": 1.49,
+   "en_olasi": "1-0 herhangi bir anda",
+   "en_olasi_p": 0.6704,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-0 herhangi bir anda",
+     0.6704
+    ],
+    [
+     "2-0 herhangi bir anda",
+     0.4041
+    ],
+    [
+     "1-1 herhangi bir anda",
+     0.3255
+    ],
+    [
+     "0-1 herhangi bir anda",
+     0.2673
+    ],
+    [
+     "2-1 herhangi bir anda",
+     0.2535
+    ],
+    [
+     "3-0 herhangi bir anda",
+     0.2088
+    ],
+    [
+     "3-1 herhangi bir anda",
+     0.1488
+    ],
+    [
+     "1-2 herhangi bir anda",
+     0.1011
+    ],
+    [
+     "2-2 herhangi bir anda",
+     0.0889
+    ],
+    [
+     "0-2 herhangi bir anda",
+     0.0655
+    ],
+    [
+     "3-2 herhangi bir anda",
+     0.0553
+    ],
+    [
+     "1-3 herhangi bir anda",
+     0.0244
+    ],
+    [
+     "2-3 herhangi bir anda",
+     0.0233
+    ],
+    [
+     "3-3 herhangi bir anda",
+     0.0153
+    ],
+    [
+     "0-3 herhangi bir anda",
+     0.0136
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Skor Kombinasyonları",
+   "oneri": "Remo PA 1-0/2-0/2-1",
+   "olasilik": 0.3132,
+   "adil_oran": 3.19,
+   "en_olasi": "Remo PA 1-0/2-0/2-1",
+   "en_olasi_p": 0.3132,
+   "guven": "yüksek",
+   "not_": "Sitedeki gruplar farklı olabilir",
+   "secimler": [
+    [
+     "Remo PA 1-0/2-0/2-1",
+     0.3132
+    ],
+    [
+     "Remo PA 3-0/3-1/4-0",
+     0.1973
+    ],
+    [
+     "0-0/1-1",
+     0.1389
+    ],
+    [
+     "Chapecoense 0-1/0-2/1-2",
+     0.0986
+    ],
+    [
+     "Chapecoense 0-3/1-3/0-4",
+     0.0181
+    ],
+    [
+     "2-2/3-3",
+     0.0516
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "1.Yarı/Maç Skoru",
+   "oneri": "İY 0-0 / MS 1-0",
+   "olasilik": 0.0568,
+   "adil_oran": 17.6,
+   "en_olasi": "İY 0-0 / MS 1-0",
+   "en_olasi_p": 0.0568,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 0-0 / MS 1-0",
+     0.0568
+    ],
+    [
+     "İY 1-0 / MS 2-0",
+     0.0556
+    ],
+    [
+     "İY 0-0 / MS 0-0",
+     0.0481
+    ],
+    [
+     "İY 1-0 / MS 1-0",
+     0.0457
+    ],
+    [
+     "İY 0-0 / MS 2-0",
+     0.0353
+    ],
+    [
+     "İY 1-0 / MS 3-0",
+     0.0345
+    ],
+    [
+     "İY 0-0 / MS 1-1",
+     0.0291
+    ],
+    [
+     "İY 1-0 / MS 2-1",
+     0.0273
+    ],
+    [
+     "İY 2-0 / MS 3-0",
+     0.0257
+    ],
+    [
+     "İY 0-0 / MS 0-1",
+     0.0233
+    ],
+    [
+     "İY 1-0 / MS 1-1",
+     0.0224
+    ],
+    [
+     "İY 0-1 / MS 1-1",
+     0.0219
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Maç Skoru Beraberlik (0-0 hariç)",
+   "oneri": "Hayır",
+   "olasilik": 0.8565,
+   "adil_oran": 1.17,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8565,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1435
+    ],
+    [
+     "Hayır",
+     0.8565
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Remo PA Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.2364,
+   "adil_oran": 4.23,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2364,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2364
+    ],
+    [
+     "2 farkla",
+     0.2031
+    ],
+    [
+     "3 farkla",
+     0.129
+    ],
+    [
+     "4+ farkla",
+     0.1008
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Chapecoense : Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.0958,
+   "adil_oran": 10.44,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.0958,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.0958
+    ],
+    [
+     "2 farkla",
+     0.0326
+    ],
+    [
+     "3 farkla",
+     0.0083
+    ],
+    [
+     "4+ farkla",
+     0.0022
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Remo PA Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.2106,
+   "adil_oran": 4.75,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.2106,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.1025
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.2106
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.1836
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.1727
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Chapecoense Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.0567,
+   "adil_oran": 17.62,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.0567,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.0418
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.0567
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.0299
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.0104
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Remo PA Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.6314,
+   "adil_oran": 1.58,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6314,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3686
+    ],
+    [
+     "Hayır",
+     0.6314
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Chapecoense Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9334,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9334,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0666
+    ],
+    [
+     "Hayır",
+     0.9334
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Remo PA İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.6678,
+   "adil_oran": 1.5,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6678,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3322
+    ],
+    [
+     "Hayır",
+     0.6678
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Chapecoense İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9591,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9591,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0409
+    ],
+    [
+     "Hayır",
+     0.9591
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Remo PA Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.5719,
+   "adil_oran": 1.75,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5719,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4281
+    ],
+    [
+     "Hayır",
+     0.5719
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Chapecoense Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.7126,
+   "adil_oran": 1.4,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7126,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2874
+    ],
+    [
+     "Hayır",
+     0.7126
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Remo PA En Az Bir Yarıyı Kazanır",
+   "oneri": "Evet",
+   "olasilik": 0.7651,
+   "adil_oran": 1.31,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7651,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7651
+    ],
+    [
+     "Hayır",
+     0.2349
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Chapecoense En Az Bir Yarıyı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7283,
+   "adil_oran": 1.37,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7283,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2717
+    ],
+    [
+     "Hayır",
+     0.7283
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Remo PA İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.951,
+   "adil_oran": 1.05,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.951,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.049
+    ],
+    [
+     "Hayır",
+     0.951
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Chapecoense İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.9296,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9296,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0704
+    ],
+    [
+     "Hayır",
+     0.9296
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Sonucu",
+   "oneri": "1 (Remo PA)",
+   "olasilik": 0.4879,
+   "adil_oran": 2.05,
+   "en_olasi": "1 (Remo PA)",
+   "en_olasi_p": 0.4879,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Remo PA)",
+     0.4879
+    ],
+    [
+     "X",
+     0.3679
+    ],
+    [
+     "2 (Chapecoense)",
+     0.1442
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.6321,
+   "adil_oran": 1.58,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.8558,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.8558
+    ],
+    [
+     "12",
+     0.6321
+    ],
+    [
+     "X2",
+     0.5121
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.7378,
+   "adil_oran": 1.36,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.8481,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7378
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2622
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.3852
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.6148
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1519
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8481
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 1. Takım Toplam Gol",
+   "oneri": "Remo PA 1,5 Alt",
+   "olasilik": 0.7541,
+   "adil_oran": 1.33,
+   "en_olasi": "Remo PA 1,5 Alt",
+   "en_olasi_p": 0.7541,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA 0,5 Üst",
+     0.6155
+    ],
+    [
+     "Remo PA 0,5 Alt",
+     0.3845
+    ],
+    [
+     "Remo PA 1,5 Üst",
+     0.2459
+    ],
+    [
+     "Remo PA 1,5 Alt",
+     0.7541
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 2. Takım Toplam Gol",
+   "oneri": "Chapecoense 0,5 Alt",
+   "olasilik": 0.6822,
+   "adil_oran": 1.47,
+   "en_olasi": "Chapecoense 1,5 Alt",
+   "en_olasi_p": 0.9427,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chapecoense 0,5 Üst",
+     0.3178
+    ],
+    [
+     "Chapecoense 0,5 Alt",
+     0.6822
+    ],
+    [
+     "Chapecoense 1,5 Üst",
+     0.0573
+    ],
+    [
+     "Chapecoense 1,5 Alt",
+     0.9427
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Remo PA Toplam Gol Asya",
+   "oneri": "Remo PA Asya 0,5 Üst",
+   "olasilik": 0.6155,
+   "adil_oran": 1.62,
+   "en_olasi": "Remo PA Asya 0,5 Üst",
+   "en_olasi_p": 0.6155,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA Asya 0,5 Üst",
+     0.6155
+    ],
+    [
+     "Remo PA Asya 0,5 Alt",
+     0.3845
+    ],
+    [
+     "Remo PA Asya 0,75 Üst",
+     0.5284
+    ],
+    [
+     "Remo PA Asya 0,75 Alt",
+     0.4716
+    ],
+    [
+     "Remo PA Asya 1 Üst",
+     0.3901
+    ],
+    [
+     "Remo PA Asya 1 Alt",
+     0.6099
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Chapecoense Toplam Gol Asya",
+   "oneri": "Chapecoense Asya 0,5 Alt",
+   "olasilik": 0.6822,
+   "adil_oran": 1.47,
+   "en_olasi": "Chapecoense Asya 0,5 Alt",
+   "en_olasi_p": 0.6822,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chapecoense Asya 0,25 Üst",
+     0.4823
+    ],
+    [
+     "Chapecoense Asya 0,25 Alt",
+     0.5177
+    ],
+    [
+     "Chapecoense Asya 0,5 Üst",
+     0.3178
+    ],
+    [
+     "Chapecoense Asya 0,5 Alt",
+     0.6822
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8044,
+   "adil_oran": 1.24,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8044,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1956
+    ],
+    [
+     "Hayır",
+     0.8044
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı",
+   "oneri": "Chapecoense +1,5",
+   "olasilik": 0.8128,
+   "adil_oran": 1.23,
+   "en_olasi": "Remo PA +1,5",
+   "en_olasi_p": 0.9749,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA -1,5",
+     0.1872
+    ],
+    [
+     "Chapecoense +1,5",
+     0.8128
+    ],
+    [
+     "Remo PA -0,5",
+     0.4879
+    ],
+    [
+     "Chapecoense +0,5",
+     0.5121
+    ],
+    [
+     "Remo PA +0,5",
+     0.8558
+    ],
+    [
+     "Chapecoense -0,5",
+     0.1442
+    ],
+    [
+     "Remo PA +1,5",
+     0.9749
+    ],
+    [
+     "Chapecoense -1,5",
+     0.0251
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Goller Asya Handikapı",
+   "oneri": "Remo PA Asya +0,25",
+   "olasilik": 0.8233,
+   "adil_oran": 1.21,
+   "en_olasi": "Remo PA Asya +0,5",
+   "en_olasi_p": 0.8558,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA Asya -1",
+     0.2677
+    ],
+    [
+     "Chapecoense Asya -1",
+     0.0285
+    ],
+    [
+     "Remo PA Asya -0,75",
+     0.3973
+    ],
+    [
+     "Chapecoense Asya -0,75",
+     0.09
+    ],
+    [
+     "Remo PA Asya -0,5",
+     0.4879
+    ],
+    [
+     "Chapecoense Asya -0,5",
+     0.1442
+    ],
+    [
+     "Remo PA Asya -0,25",
+     0.5979
+    ],
+    [
+     "Chapecoense Asya -0,25",
+     0.1767
+    ],
+    [
+     "Remo PA Asya 0",
+     0.7719
+    ],
+    [
+     "Chapecoense Asya 0",
+     0.2281
+    ],
+    [
+     "Remo PA Asya +0,25",
+     0.8233
+    ],
+    [
+     "Chapecoense Asya +0,25",
+     0.4021
+    ],
+    [
+     "Remo PA Asya +0,5",
+     0.8558
+    ],
+    [
+     "Chapecoense Asya +0,5",
+     0.5121
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Chapecoense (-2)",
+   "olasilik": 0.8128,
+   "adil_oran": 1.23,
+   "en_olasi": "Remo PA (+2)",
+   "en_olasi_p": 0.9749,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA (-2)",
+     0.0542
+    ],
+    [
+     "X (-2)",
+     0.133
+    ],
+    [
+     "Chapecoense (-2)",
+     0.8128
+    ],
+    [
+     "Remo PA (-1)",
+     0.1872
+    ],
+    [
+     "X (-1)",
+     0.3007
+    ],
+    [
+     "Chapecoense (-1)",
+     0.5121
+    ],
+    [
+     "Remo PA (+1)",
+     0.8558
+    ],
+    [
+     "X (+1)",
+     0.1191
+    ],
+    [
+     "Chapecoense (+1)",
+     0.0251
+    ],
+    [
+     "Remo PA (+2)",
+     0.9749
+    ],
+    [
+     "X (+2)",
+     0.0221
+    ],
+    [
+     "Chapecoense (+2)",
+     0.0031
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Asya",
+   "oneri": "Toplam Asya 0,75 Üst",
+   "olasilik": 0.6816,
+   "adil_oran": 1.47,
+   "en_olasi": "Toplam Asya 0,75 Üst",
+   "en_olasi_p": 0.6816,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam Asya 0,75 Üst",
+     0.6816
+    ],
+    [
+     "Toplam Asya 0,75 Alt",
+     0.3184
+    ],
+    [
+     "Toplam Asya 1 Üst",
+     0.5949
+    ],
+    [
+     "Toplam Asya 1 Alt",
+     0.4051
+    ],
+    [
+     "Toplam Asya 1,25 Üst",
+     0.4676
+    ],
+    [
+     "Toplam Asya 1,25 Alt",
+     0.5324
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Toplam Gol (3-İhtimalli)",
+   "oneri": "1 Üst",
+   "olasilik": 0.3852,
+   "adil_oran": 2.6,
+   "en_olasi": "1 Üst",
+   "en_olasi_p": 0.3852,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.2622
+    ],
+    [
+     "Tam 1",
+     0.3526
+    ],
+    [
+     "1 Üst",
+     0.3852
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.42,
+   "adil_oran": 2.38,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.42,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.068
+    ],
+    [
+     "1 & KG Yok",
+     0.42
+    ],
+    [
+     "X & KG Var",
+     0.1056
+    ],
+    [
+     "X & KG Yok",
+     0.2622
+    ],
+    [
+     "2 & KG Var",
+     0.022
+    ],
+    [
+     "2 & KG Yok",
+     0.1222
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Aralığı",
+   "oneri": "1 gol",
+   "olasilik": 0.3526,
+   "adil_oran": 2.84,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3526,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2622
+    ],
+    [
+     "1 gol",
+     0.3526
+    ],
+    [
+     "2-3 gol",
+     0.3375
+    ],
+    [
+     "4+ gol",
+     0.0476
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Remo PA Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.3845,
+   "adil_oran": 2.6,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.3845,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3845
+    ],
+    [
+     "1 gol",
+     0.3696
+    ],
+    [
+     "2+ gol",
+     0.2459
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Chapecoense Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.6822,
+   "adil_oran": 1.47,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.6822,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6822
+    ],
+    [
+     "1 gol",
+     0.2605
+    ],
+    [
+     "2+ gol",
+     0.0573
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.6148,
+   "adil_oran": 1.63,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.6148,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.6148
+    ],
+    [
+     "1-2 gol",
+     0.5859
+    ],
+    [
+     "2-3 gol",
+     0.3375
+    ],
+    [
+     "3+ gol",
+     0.1519
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7541,
+   "adil_oran": 1.33,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7541,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3845
+    ],
+    [
+     "0-1 gol",
+     0.7541
+    ],
+    [
+     "1-2 gol",
+     0.5426
+    ],
+    [
+     "2+ gol",
+     0.2459
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.6822,
+   "adil_oran": 1.47,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.9427,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6822
+    ],
+    [
+     "0-1 gol",
+     0.9427
+    ],
+    [
+     "1-2 gol",
+     0.3104
+    ],
+    [
+     "2+ gol",
+     0.0573
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3526,
+   "adil_oran": 2.84,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3526,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2622
+    ],
+    [
+     "1 gol",
+     0.3526
+    ],
+    [
+     "2 gol",
+     0.2333
+    ],
+    [
+     "3 gol",
+     0.1042
+    ],
+    [
+     "4+ gol",
+     0.0476
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Remo PA Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.3845,
+   "adil_oran": 2.6,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.3845,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.3845
+    ],
+    [
+     "1 gol",
+     0.3696
+    ],
+    [
+     "2 gol",
+     0.173
+    ],
+    [
+     "3+ gol",
+     0.0729
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Chapecoense Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.6822,
+   "adil_oran": 1.47,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.6822,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.6822
+    ],
+    [
+     "1 gol",
+     0.2605
+    ],
+    [
+     "2 gol",
+     0.05
+    ],
+    [
+     "3+ gol",
+     0.0073
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Remo PA Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.3007,
+   "adil_oran": 3.33,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.3007,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.3007
+    ],
+    [
+     "2 farkla",
+     0.133
+    ],
+    [
+     "3+ farkla",
+     0.0542
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Chapecoense Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.1191,
+   "adil_oran": 8.4,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1191,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1191
+    ],
+    [
+     "2 farkla",
+     0.0221
+    ],
+    [
+     "3+ farkla",
+     0.0031
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Remo PA Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.58,
+   "adil_oran": 1.72,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.58,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.42
+    ],
+    [
+     "Hayır",
+     0.58
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Chapecoense Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8778,
+   "adil_oran": 1.14,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8778,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1222
+    ],
+    [
+     "Hayır",
+     0.8778
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı İlk Golü Atacak Takım",
+   "oneri": "Remo PA",
+   "olasilik": 0.5274,
+   "adil_oran": 1.9,
+   "en_olasi": "Remo PA",
+   "en_olasi_p": 0.5274,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA",
+     0.5274
+    ],
+    [
+     "Gol yok",
+     0.2622
+    ],
+    [
+     "Chapecoense",
+     0.2103
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Son Golü Atacak Takım",
+   "oneri": "Remo PA",
+   "olasilik": 0.5256,
+   "adil_oran": 1.9,
+   "en_olasi": "Remo PA",
+   "en_olasi_p": 0.5256,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA",
+     0.5256
+    ],
+    [
+     "Gol yok",
+     0.2622
+    ],
+    [
+     "Chapecoense",
+     0.2121
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Doğru Skor",
+   "oneri": "0-0",
+   "olasilik": 0.2622,
+   "adil_oran": 3.81,
+   "en_olasi": "0-0",
+   "en_olasi_p": 0.2622,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-0",
+     0.2622
+    ],
+    [
+     "1-0",
+     0.2527
+    ],
+    [
+     "2-0",
+     0.1176
+    ],
+    [
+     "0-1",
+     0.0999
+    ],
+    [
+     "1-1",
+     0.0963
+    ],
+    [
+     "2-1",
+     0.0452
+    ],
+    [
+     "3-0",
+     0.0384
+    ],
+    [
+     "0-2",
+     0.0195
+    ],
+    [
+     "1-2",
+     0.018
+    ],
+    [
+     "Diğer",
+     0.0173
+    ],
+    [
+     "3-1",
+     0.0148
+    ],
+    [
+     "2-2",
+     0.0089
+    ],
+    [
+     "3-2",
+     0.0027
+    ],
+    [
+     "0-3",
+     0.0025
+    ],
+    [
+     "1-3",
+     0.0024
+    ],
+    [
+     "2-3",
+     0.0011
+    ],
+    [
+     "3-3",
+     0.0004
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Sonucu",
+   "oneri": "1 (Remo PA)",
+   "olasilik": 0.5423,
+   "adil_oran": 1.84,
+   "en_olasi": "1 (Remo PA)",
+   "en_olasi_p": 0.5423,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Remo PA)",
+     0.5423
+    ],
+    [
+     "X",
+     0.3087
+    ],
+    [
+     "2 (Chapecoense)",
+     0.1489
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.6913,
+   "adil_oran": 1.45,
+   "en_olasi": "1X",
+   "en_olasi_p": 0.851,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.851
+    ],
+    [
+     "12",
+     0.6913
+    ],
+    [
+     "X2",
+     0.4577
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.8176,
+   "adil_oran": 1.22,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.8176,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.8176
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.1824
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.5089
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.4911
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.2432
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.7568
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Remo PA Toplam Gol",
+   "oneri": "Remo PA 0,5 Üst",
+   "olasilik": 0.7034,
+   "adil_oran": 1.42,
+   "en_olasi": "Remo PA 0,5 Üst",
+   "en_olasi_p": 0.7034,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA 0,5 Üst",
+     0.7034
+    ],
+    [
+     "Remo PA 0,5 Alt",
+     0.2966
+    ],
+    [
+     "Remo PA 1,5 Üst",
+     0.3429
+    ],
+    [
+     "Remo PA 1,5 Alt",
+     0.6571
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Chapecoense Toplam Gol",
+   "oneri": "Chapecoense 0,5 Alt",
+   "olasilik": 0.612,
+   "adil_oran": 1.63,
+   "en_olasi": "Chapecoense 1,5 Alt",
+   "en_olasi_p": 0.9134,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Chapecoense 0,5 Üst",
+     0.388
+    ],
+    [
+     "Chapecoense 0,5 Alt",
+     0.612
+    ],
+    [
+     "Chapecoense 1,5 Üst",
+     0.0866
+    ],
+    [
+     "Chapecoense 1,5 Alt",
+     0.9134
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7263,
+   "adil_oran": 1.38,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7263,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2737
+    ],
+    [
+     "Hayır",
+     0.7263
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı",
+   "oneri": "Chapecoense +1,5",
+   "olasilik": 0.7497,
+   "adil_oran": 1.33,
+   "en_olasi": "Remo PA +1,5",
+   "en_olasi_p": 0.9689,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA -1,5",
+     0.2503
+    ],
+    [
+     "Chapecoense +1,5",
+     0.7497
+    ],
+    [
+     "Remo PA -0,5",
+     0.5423
+    ],
+    [
+     "Chapecoense +0,5",
+     0.4577
+    ],
+    [
+     "Remo PA +0,5",
+     0.851
+    ],
+    [
+     "Chapecoense -0,5",
+     0.1489
+    ],
+    [
+     "Remo PA +1,5",
+     0.9689
+    ],
+    [
+     "Chapecoense -1,5",
+     0.0311
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "Chapecoense (-2)",
+   "olasilik": 0.7497,
+   "adil_oran": 1.33,
+   "en_olasi": "Remo PA (+2)",
+   "en_olasi_p": 0.9689,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA (-2)",
+     0.0852
+    ],
+    [
+     "X (-2)",
+     0.1651
+    ],
+    [
+     "Chapecoense (-2)",
+     0.7497
+    ],
+    [
+     "Remo PA (-1)",
+     0.2503
+    ],
+    [
+     "X (-1)",
+     0.292
+    ],
+    [
+     "Chapecoense (-1)",
+     0.4577
+    ],
+    [
+     "Remo PA (+1)",
+     0.851
+    ],
+    [
+     "X (+1)",
+     0.1178
+    ],
+    [
+     "Chapecoense (+1)",
+     0.0311
+    ],
+    [
+     "Remo PA (+2)",
+     0.9689
+    ],
+    [
+     "X (+2)",
+     0.0261
+    ],
+    [
+     "Chapecoense (+2)",
+     0.005
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "1 & KG Yok",
+   "olasilik": 0.4297,
+   "adil_oran": 2.33,
+   "en_olasi": "1 & KG Yok",
+   "en_olasi_p": 0.4297,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.1127
+    ],
+    [
+     "1 & KG Yok",
+     0.4297
+    ],
+    [
+     "X & KG Var",
+     0.1264
+    ],
+    [
+     "X & KG Yok",
+     0.1824
+    ],
+    [
+     "2 & KG Var",
+     0.0347
+    ],
+    [
+     "2 & KG Yok",
+     0.1143
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol Aralığı",
+   "oneri": "2-3 gol",
+   "olasilik": 0.4147,
+   "adil_oran": 2.41,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.4147,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.1824
+    ],
+    [
+     "1 gol",
+     0.3088
+    ],
+    [
+     "2-3 gol",
+     0.4147
+    ],
+    [
+     "4+ gol",
+     0.0942
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Remo PA Toplam Gol (Aralık)",
+   "oneri": "1 gol",
+   "olasilik": 0.3605,
+   "adil_oran": 2.77,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3605,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2966
+    ],
+    [
+     "1 gol",
+     0.3605
+    ],
+    [
+     "2+ gol",
+     0.3429
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Chapecoense Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.612,
+   "adil_oran": 1.63,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.612,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.612
+    ],
+    [
+     "1 gol",
+     0.3014
+    ],
+    [
+     "2+ gol",
+     0.0866
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5744,
+   "adil_oran": 1.74,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5744,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.4911
+    ],
+    [
+     "1-2 gol",
+     0.5744
+    ],
+    [
+     "2-3 gol",
+     0.4147
+    ],
+    [
+     "3+ gol",
+     0.2432
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.6571,
+   "adil_oran": 1.52,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.6571,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2966
+    ],
+    [
+     "0-1 gol",
+     0.6571
+    ],
+    [
+     "1-2 gol",
+     0.5812
+    ],
+    [
+     "2+ gol",
+     0.3429
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.612,
+   "adil_oran": 1.63,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.9134,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.612
+    ],
+    [
+     "0-1 gol",
+     0.9134
+    ],
+    [
+     "1-2 gol",
+     0.3736
+    ],
+    [
+     "2+ gol",
+     0.0866
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3088,
+   "adil_oran": 3.24,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3088,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.1824
+    ],
+    [
+     "1 gol",
+     0.3088
+    ],
+    [
+     "2 gol",
+     0.2657
+    ],
+    [
+     "3 gol",
+     0.149
+    ],
+    [
+     "4+ gol",
+     0.0942
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Remo PA Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3605,
+   "adil_oran": 2.77,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3605,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2966
+    ],
+    [
+     "1 gol",
+     0.3605
+    ],
+    [
+     "2 gol",
+     0.2206
+    ],
+    [
+     "3+ gol",
+     0.1222
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Chapecoense Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.612,
+   "adil_oran": 1.63,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.612,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.612
+    ],
+    [
+     "1 gol",
+     0.3014
+    ],
+    [
+     "2 gol",
+     0.0723
+    ],
+    [
+     "3+ gol",
+     0.0143
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Remo PA Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.292,
+   "adil_oran": 3.42,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.292,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.292
+    ],
+    [
+     "2 farkla",
+     0.1651
+    ],
+    [
+     "3+ farkla",
+     0.0852
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Chapecoense Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.1178,
+   "adil_oran": 8.49,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.1178,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.1178
+    ],
+    [
+     "2 farkla",
+     0.0261
+    ],
+    [
+     "3+ farkla",
+     0.005
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Remo PA Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.5703,
+   "adil_oran": 1.75,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5703,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4297
+    ],
+    [
+     "Hayır",
+     0.5703
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Chapecoense Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8857,
+   "adil_oran": 1.13,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8857,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1143
+    ],
+    [
+     "Hayır",
+     0.8857
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı İlk Golü Atacak Takım",
+   "oneri": "Remo PA",
+   "olasilik": 0.5817,
+   "adil_oran": 1.72,
+   "en_olasi": "Remo PA",
+   "en_olasi_p": 0.5817,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA",
+     0.5817
+    ],
+    [
+     "Gol yok",
+     0.1824
+    ],
+    [
+     "Chapecoense",
+     0.2359
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Son Golü Atacak Takım",
+   "oneri": "Remo PA",
+   "olasilik": 0.5817,
+   "adil_oran": 1.72,
+   "en_olasi": "Remo PA",
+   "en_olasi_p": 0.5817,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA",
+     0.5817
+    ],
+    [
+     "Gol yok",
+     0.1824
+    ],
+    [
+     "Chapecoense",
+     0.2359
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Doğru Skor",
+   "oneri": "1-0",
+   "olasilik": 0.2201,
+   "adil_oran": 4.54,
+   "en_olasi": "1-0",
+   "en_olasi_p": 0.2201,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-0",
+     0.2201
+    ],
+    [
+     "0-0",
+     0.1824
+    ],
+    [
+     "2-0",
+     0.1355
+    ],
+    [
+     "1-1",
+     0.109
+    ],
+    [
+     "0-1",
+     0.0887
+    ],
+    [
+     "2-1",
+     0.0657
+    ],
+    [
+     "3-0",
+     0.0531
+    ],
+    [
+     "Diğer",
+     0.0362
+    ],
+    [
+     "3-1",
+     0.0275
+    ],
+    [
+     "1-2",
+     0.0263
+    ],
+    [
+     "0-2",
+     0.0211
+    ],
+    [
+     "2-2",
+     0.0163
+    ],
+    [
+     "3-2",
+     0.006
+    ],
+    [
+     "1-3",
+     0.0046
+    ],
+    [
+     "0-3",
+     0.0039
+    ],
+    [
+     "2-3",
+     0.0027
+    ],
+    [
+     "3-3",
+     0.001
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Karşılıklı Gol",
+   "oneri": "İY Yok / 2Y Yok",
+   "olasilik": 0.5836,
+   "adil_oran": 1.71,
+   "en_olasi": "İY Yok / 2Y Yok",
+   "en_olasi_p": 0.5836,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Var / 2Y Var",
+     0.0529
+    ],
+    [
+     "İY Var / 2Y Yok",
+     0.1427
+    ],
+    [
+     "İY Yok / 2Y Var",
+     0.2209
+    ],
+    [
+     "İY Yok / 2Y Yok",
+     0.5836
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı veya Maç Sonucu",
+   "oneri": "İY 1 veya MS 1",
+   "olasilik": 0.7184,
+   "adil_oran": 1.39,
+   "en_olasi": "İY 1 veya MS 1",
+   "en_olasi_p": 0.7184,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 1 veya MS 1",
+     0.7184
+    ],
+    [
+     "İY X veya MS X",
+     0.4456
+    ],
+    [
+     "İY 2 veya MS 2",
+     0.2093
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarı/Maç Sonucu",
+   "oneri": "1/1",
+   "olasilik": 0.439,
+   "adil_oran": 2.28,
+   "en_olasi": "1/1",
+   "en_olasi_p": 0.439,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.439
+    ],
+    [
+     "1/X",
+     0.0391
+    ],
+    [
+     "1/2",
+     0.0099
+    ],
+    [
+     "X/1",
+     0.1988
+    ],
+    [
+     "X/X",
+     0.1139
+    ],
+    [
+     "X/2",
+     0.0552
+    ],
+    [
+     "2/1",
+     0.0317
+    ],
+    [
+     "2/X",
+     0.0387
+    ],
+    [
+     "2/2",
+     0.0738
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Sonucu",
+   "oneri": "1/1",
+   "olasilik": 0.2651,
+   "adil_oran": 3.77,
+   "en_olasi": "1/1",
+   "en_olasi_p": 0.2651,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.2651
+    ],
+    [
+     "1/X",
+     0.1505
+    ],
+    [
+     "1/2",
+     0.0723
+    ],
+    [
+     "X/1",
+     0.1988
+    ],
+    [
+     "X/X",
+     0.1139
+    ],
+    [
+     "X/2",
+     0.0552
+    ],
+    [
+     "2/1",
+     0.0784
+    ],
+    [
+     "2/X",
+     0.0444
+    ],
+    [
+     "2/2",
+     0.0214
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.4613,
+   "adil_oran": 2.17,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.4613,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.3023
+    ],
+    [
+     "Eşit",
+     0.2364
+    ],
+    [
+     "2. Yarı",
+     0.4613
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı : Çifte Şans",
+   "oneri": "1. veya 2. Yarı",
+   "olasilik": 0.7636,
+   "adil_oran": 1.31,
+   "en_olasi": "1. veya 2. Yarı",
+   "en_olasi_p": 0.7636,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı veya Eşit",
+     0.5387
+    ],
+    [
+     "2. Yarı veya Eşit",
+     0.6977
+    ],
+    [
+     "1. veya 2. Yarı",
+     0.7636
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Remo PA : En Çok Gol Attığı Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.4195,
+   "adil_oran": 2.38,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.4195,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2891
+    ],
+    [
+     "Eşit",
+     0.2914
+    ],
+    [
+     "2. Yarı",
+     0.4195
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Chapecoense : En Çok Gol Attığı Yarı",
+   "oneri": "Eşit",
+   "olasilik": 0.4981,
+   "adil_oran": 2.01,
+   "en_olasi": "Eşit",
+   "en_olasi_p": 0.4981,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2134
+    ],
+    [
+     "Eşit",
+     0.4981
+    ],
+    [
+     "2. Yarı",
+     0.2885
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Remo PA : Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.5664,
+   "adil_oran": 1.77,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5664,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4336
+    ],
+    [
+     "Hayır",
+     0.5664
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Chapecoense Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8775,
+   "adil_oran": 1.14,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8775,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1225
+    ],
+    [
+     "Hayır",
+     0.8775
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Remo PA : İlk Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.6155,
+   "adil_oran": 1.62,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6155,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6155
+    ],
+    [
+     "Hayır",
+     0.3845
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Chapecoense İlk Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.6822,
+   "adil_oran": 1.47,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6822,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3178
+    ],
+    [
+     "Hayır",
+     0.6822
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Remo PA : İkinci Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.7034,
+   "adil_oran": 1.42,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7034,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7034
+    ],
+    [
+     "Hayır",
+     0.2966
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Chapecoense İkinci Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.612,
+   "adil_oran": 1.63,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.612,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.388
+    ],
+    [
+     "Hayır",
+     0.612
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.7378,
+   "adil_oran": 1.36,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7378,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7378
+    ],
+    [
+     "Hayır",
+     0.2622
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İkinci Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.8176,
+   "adil_oran": 1.22,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.8176,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.8176
+    ],
+    [
+     "Hayır",
+     0.1824
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarıda da 1.5 Üst Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.8047,
+   "adil_oran": 1.24,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8047,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1953
+    ],
+    [
+     "Hayır",
+     0.8047
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarı Goller 1.5 Alt",
+   "oneri": "Hayır",
+   "olasilik": 0.6987,
+   "adil_oran": 1.43,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6987,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3013
+    ],
+    [
+     "Hayır",
+     0.6987
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Remo PA : Gol Atar 1.Yarı/2.Yarı",
+   "oneri": "Evet/Evet",
+   "olasilik": 0.4336,
+   "adil_oran": 2.31,
+   "en_olasi": "Evet/Evet",
+   "en_olasi_p": 0.4336,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.4336
+    ],
+    [
+     "Evet/Hayır",
+     0.1819
+    ],
+    [
+     "Hayır/Evet",
+     0.2697
+    ],
+    [
+     "Hayır/Hayır",
+     0.1147
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Chapecoense Gol Atar İlk Yarı/İkinci Yarı",
+   "oneri": "Hayır/Hayır",
+   "olasilik": 0.4167,
+   "adil_oran": 2.4,
+   "en_olasi": "Hayır/Hayır",
+   "en_olasi_p": 0.4167,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.1225
+    ],
+    [
+     "Evet/Hayır",
+     0.1953
+    ],
+    [
+     "Hayır/Evet",
+     0.2655
+    ],
+    [
+     "Hayır/Hayır",
+     0.4167
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarıları Farklı Takımlar Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8493,
+   "adil_oran": 1.18,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8493,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1507
+    ],
+    [
+     "Hayır",
+     0.8493
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarılardan En Az Birinde Beraberlik",
+   "oneri": "Evet",
+   "olasilik": 0.5627,
+   "adil_oran": 1.78,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5627,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5627
+    ],
+    [
+     "Hayır",
+     0.4373
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1.Yarı Toplam Gol'e karşı 2. Yarı Toplam Gol Handikapı",
+   "oneri": "1. Yarı +1,5",
+   "olasilik": 0.754,
+   "adil_oran": 1.33,
+   "en_olasi": "1. Yarı +1,5",
+   "en_olasi_p": 0.754,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "2. Yarı -1,5",
+     0.246
+    ],
+    [
+     "2. Yarı -0,5",
+     0.4613
+    ],
+    [
+     "2. Yarı +0,5",
+     0.6977
+    ],
+    [
+     "1. Yarı +1,5",
+     0.754
+    ],
+    [
+     "1. Yarı +0,5",
+     0.5387
+    ],
+    [
+     "1. Yarı -0,5",
+     0.3023
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7703,
+   "adil_oran": 1.3,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7703,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2297
+    ],
+    [
+     "Hayır",
+     0.7703
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Köşe Vuruşu",
+   "oneri": "Evet",
+   "olasilik": 0.6705,
+   "adil_oran": 1.49,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6705,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6705
+    ],
+    [
+     "Hayır",
+     0.3295
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Remo PA : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Remo PA 0,5 Alt",
+   "olasilik": 0.5276,
+   "adil_oran": 1.9,
+   "en_olasi": "Remo PA 1,5 Alt",
+   "en_olasi_p": 0.8637,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA 0,5 Üst",
+     0.4724
+    ],
+    [
+     "Remo PA 0,5 Alt",
+     0.5276
+    ],
+    [
+     "Remo PA 1,5 Üst",
+     0.1363
+    ],
+    [
+     "Remo PA 1,5 Alt",
+     0.8637
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Chapecoense : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Chapecoense 0,5 Alt",
+   "olasilik": 0.6246,
+   "adil_oran": 1.6,
+   "en_olasi": "Chapecoense 0,5 Alt",
+   "en_olasi_p": 0.6246,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chapecoense 0,5 Üst",
+     0.3754
+    ],
+    [
+     "Chapecoense 0,5 Alt",
+     0.6246
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Sarı Kartlar",
+   "oneri": "Hayır",
+   "olasilik": 0.8088,
+   "adil_oran": 1.24,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8088,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1912
+    ],
+    [
+     "Hayır",
+     0.8088
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.6963,
+   "adil_oran": 1.44,
+   "en_olasi": "X",
+   "en_olasi_p": 0.6963,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Remo PA)",
+     0.2227
+    ],
+    [
+     "X",
+     0.6963
+    ],
+    [
+     "2 (Chapecoense)",
+     0.081
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Gol Handikapı",
+   "oneri": "Chapecoense (-1)",
+   "olasilik": 0.7773,
+   "adil_oran": 1.29,
+   "en_olasi": "Remo PA (+1)",
+   "en_olasi_p": 0.919,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA (-1)",
+     0.0298
+    ],
+    [
+     "X (-1)",
+     0.1929
+    ],
+    [
+     "Chapecoense (-1)",
+     0.7773
+    ],
+    [
+     "Remo PA (+1)",
+     0.919
+    ],
+    [
+     "X (+1)",
+     0.0761
+    ],
+    [
+     "Chapecoense (+1)",
+     0.0049
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.6748,
+   "adil_oran": 1.48,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9396,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.3252
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.6748
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0604
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9396
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Remo PA Toplam Goller",
+   "oneri": "Remo PA 0,5 Alt",
+   "olasilik": 0.7547,
+   "adil_oran": 1.33,
+   "en_olasi": "Remo PA 1,5 Alt",
+   "en_olasi_p": 0.9669,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA 0,5 Üst",
+     0.2454
+    ],
+    [
+     "Remo PA 0,5 Alt",
+     0.7547
+    ],
+    [
+     "Remo PA 1,5 Üst",
+     0.0331
+    ],
+    [
+     "Remo PA 1,5 Alt",
+     0.9669
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Chapecoense Toplam Goller",
+   "oneri": "Chapecoense 0,5 Alt",
+   "olasilik": 0.8941,
+   "adil_oran": 1.12,
+   "en_olasi": "Chapecoense 0,5 Alt",
+   "en_olasi_p": 0.8941,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chapecoense 0,5 Üst",
+     0.106
+    ],
+    [
+     "Chapecoense 0,5 Alt",
+     0.8941
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. İki Takım Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.9739,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9739,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0261
+    ],
+    [
+     "Hayır",
+     0.9739
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.5042,
+   "adil_oran": 1.98,
+   "en_olasi": "X",
+   "en_olasi_p": 0.5042,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Remo PA)",
+     0.3725
+    ],
+    [
+     "X",
+     0.5042
+    ],
+    [
+     "2 (Chapecoense)",
+     0.1232
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Gol Handikapı",
+   "oneri": "Chapecoense (-1)",
+   "olasilik": 0.6275,
+   "adil_oran": 1.59,
+   "en_olasi": "Remo PA (+1)",
+   "en_olasi_p": 0.8768,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA (-1)",
+     0.0968
+    ],
+    [
+     "X (-1)",
+     0.2757
+    ],
+    [
+     "Chapecoense (-1)",
+     0.6275
+    ],
+    [
+     "Remo PA (+1)",
+     0.8768
+    ],
+    [
+     "X (+1)",
+     0.109
+    ],
+    [
+     "Chapecoense (+1)",
+     0.0142
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Toplam Goller",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.8011,
+   "adil_oran": 1.25,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.8011,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.5579
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.4421
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.1989
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.8011
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Remo PA Toplam Goller",
+   "oneri": "Remo PA 0,5 Alt",
+   "olasilik": 0.5577,
+   "adil_oran": 1.79,
+   "en_olasi": "Remo PA 1,5 Alt",
+   "en_olasi_p": 0.8821,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA 0,5 Üst",
+     0.4423
+    ],
+    [
+     "Remo PA 0,5 Alt",
+     0.5577
+    ],
+    [
+     "Remo PA 1,5 Üst",
+     0.1179
+    ],
+    [
+     "Remo PA 1,5 Alt",
+     0.8821
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Chapecoense Toplam Goller",
+   "oneri": "Chapecoense 0,5 Alt",
+   "olasilik": 0.7916,
+   "adil_oran": 1.26,
+   "en_olasi": "Chapecoense 0,5 Alt",
+   "en_olasi_p": 0.7916,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chapecoense 0,5 Üst",
+     0.2084
+    ],
+    [
+     "Chapecoense 0,5 Alt",
+     0.7916
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Galibi",
+   "oneri": "1 (Remo PA)",
+   "olasilik": 0.5579,
+   "adil_oran": 1.79,
+   "en_olasi": "1 (Remo PA)",
+   "en_olasi_p": 0.5579,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Remo PA)",
+     0.5579
+    ],
+    [
+     "X",
+     0.2925
+    ],
+    [
+     "2 (Chapecoense)",
+     0.1496
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Gol Handikapı",
+   "oneri": "Chapecoense +1,5",
+   "olasilik": 0.7338,
+   "adil_oran": 1.36,
+   "en_olasi": "Remo PA +0,5",
+   "en_olasi_p": 0.8504,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA -1,5",
+     0.2662
+    ],
+    [
+     "Chapecoense +1,5",
+     0.7338
+    ],
+    [
+     "Remo PA -0,5",
+     0.5579
+    ],
+    [
+     "Chapecoense +0,5",
+     0.4421
+    ],
+    [
+     "Remo PA +0,5",
+     0.8504
+    ],
+    [
+     "Chapecoense -0,5",
+     0.1496
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Toplam Goller",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.7284,
+   "adil_oran": 1.37,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.8364,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.8364
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.1636
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.5389
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.4611
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.2716
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.7284
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Remo PA Toplam Goller",
+   "oneri": "Remo PA 0,5 Üst",
+   "olasilik": 0.725,
+   "adil_oran": 1.38,
+   "en_olasi": "Remo PA 0,5 Üst",
+   "en_olasi_p": 0.725,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA 0,5 Üst",
+     0.725
+    ],
+    [
+     "Remo PA 0,5 Alt",
+     0.275
+    ],
+    [
+     "Remo PA 1,5 Üst",
+     0.3688
+    ],
+    [
+     "Remo PA 1,5 Alt",
+     0.6312
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Chapecoense Toplam Goller",
+   "oneri": "Chapecoense 0,5 Alt",
+   "olasilik": 0.5957,
+   "adil_oran": 1.68,
+   "en_olasi": "Chapecoense 0,5 Alt",
+   "en_olasi_p": 0.5957,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chapecoense 0,5 Üst",
+     0.4043
+    ],
+    [
+     "Chapecoense 0,5 Alt",
+     0.5957
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7071,
+   "adil_oran": 1.41,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7071,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2929
+    ],
+    [
+     "Hayır",
+     0.7071
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Galibi",
+   "oneri": "1 (Remo PA)",
+   "olasilik": 0.6122,
+   "adil_oran": 1.63,
+   "en_olasi": "1 (Remo PA)",
+   "en_olasi_p": 0.6122,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Remo PA)",
+     0.6122
+    ],
+    [
+     "X",
+     0.2403
+    ],
+    [
+     "2 (Chapecoense)",
+     0.1475
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Gol Handikapı",
+   "oneri": "Chapecoense +1,5",
+   "olasilik": 0.6583,
+   "adil_oran": 1.52,
+   "en_olasi": "Remo PA +0,5",
+   "en_olasi_p": 0.8525,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA -1,5",
+     0.3417
+    ],
+    [
+     "Chapecoense +1,5",
+     0.6583
+    ],
+    [
+     "Remo PA -0,5",
+     0.6122
+    ],
+    [
+     "Chapecoense +0,5",
+     0.3878
+    ],
+    [
+     "Remo PA +0,5",
+     0.8525
+    ],
+    [
+     "Chapecoense -0,5",
+     0.1475
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Toplam Goller",
+   "oneri": "Toplam 1,5 Üst",
+   "olasilik": 0.6724,
+   "adil_oran": 1.49,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.9014,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.9014
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.0986
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.6724
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.3276
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.4081
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.5919
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Remo PA Toplam Goller",
+   "oneri": "Remo PA 0,5 Üst",
+   "olasilik": 0.809,
+   "adil_oran": 1.24,
+   "en_olasi": "Remo PA 0,5 Üst",
+   "en_olasi_p": 0.809,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA 0,5 Üst",
+     0.809
+    ],
+    [
+     "Remo PA 0,5 Alt",
+     0.191
+    ],
+    [
+     "Remo PA 1,5 Üst",
+     0.4904
+    ],
+    [
+     "Remo PA 1,5 Alt",
+     0.5096
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Chapecoense Toplam Goller",
+   "oneri": "Chapecoense 0,5 Alt",
+   "olasilik": 0.5142,
+   "adil_oran": 1.94,
+   "en_olasi": "Chapecoense 0,5 Alt",
+   "en_olasi_p": 0.5142,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chapecoense 0,5 Üst",
+     0.4858
+    ],
+    [
+     "Chapecoense 0,5 Alt",
+     0.5142
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.6067,
+   "adil_oran": 1.65,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6067,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3933
+    ],
+    [
+     "Hayır",
+     0.6067
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kafa Golü Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.6488,
+   "adil_oran": 1.54,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6488,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3513
+    ],
+    [
+     "Hayır",
+     0.6488
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Frikikten Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9174,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9174,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0826
+    ],
+    [
+     "Hayır",
+     0.9174
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Rövaşata ile Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.994,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.994,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.006
+    ],
+    [
+     "Hayır",
+     0.994
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Ceza Sahası Dışından Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7339,
+   "adil_oran": 1.36,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7339,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2661
+    ],
+    [
+     "Hayır",
+     0.7339
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kendi Kalesine Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.8985,
+   "adil_oran": 1.11,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8985,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1015
+    ],
+    [
+     "Hayır",
+     0.8985
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Oyuncu Hat-trick Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9593,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9593,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0407
+    ],
+    [
+     "Hayır",
+     0.9593
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Kaleci Asist Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9891,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9891,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0109
+    ],
+    [
+     "Hayır",
+     0.9891
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "VAR'lar: Toplam (Yalnızca Sahada İnceleme veya Video İnceleme İşareti (TV))",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.515,
+   "adil_oran": 1.94,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.8581,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.485
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.515
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.1419
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.8581
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Sonuç",
+   "oneri": "1 (Remo PA)",
+   "olasilik": 0.6452,
+   "adil_oran": 1.55,
+   "en_olasi": "1 (Remo PA)",
+   "en_olasi_p": 0.6452,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Remo PA)",
+     0.6452
+    ],
+    [
+     "X",
+     0.1042
+    ],
+    [
+     "2 (Chapecoense)",
+     0.2506
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam",
+   "oneri": "Toplam 8,5 Üst",
+   "olasilik": 0.8281,
+   "adil_oran": 1.21,
+   "en_olasi": "Toplam 7,5 Üst",
+   "en_olasi_p": 0.9002,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 7,5 Üst",
+     0.9002
+    ],
+    [
+     "Toplam 7,5 Alt",
+     0.0998
+    ],
+    [
+     "Toplam 8,5 Üst",
+     0.8281
+    ],
+    [
+     "Toplam 8,5 Alt",
+     0.1719
+    ],
+    [
+     "Toplam 9,5 Üst",
+     0.7369
+    ],
+    [
+     "Toplam 9,5 Alt",
+     0.2631
+    ],
+    [
+     "Toplam 10,5 Üst",
+     0.6308
+    ],
+    [
+     "Toplam 10,5 Alt",
+     0.3692
+    ],
+    [
+     "Toplam 11,5 Üst",
+     0.5155
+    ],
+    [
+     "Toplam 11,5 Alt",
+     0.4845
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Remo PA",
+   "oneri": "Remo PA 4,5 Üst",
+   "olasilik": 0.8065,
+   "adil_oran": 1.24,
+   "en_olasi": "Remo PA 3,5 Üst",
+   "en_olasi_p": 0.9045,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA 3,5 Üst",
+     0.9045
+    ],
+    [
+     "Remo PA 3,5 Alt",
+     0.0955
+    ],
+    [
+     "Remo PA 4,5 Üst",
+     0.8065
+    ],
+    [
+     "Remo PA 4,5 Alt",
+     0.1935
+    ],
+    [
+     "Remo PA 5,5 Üst",
+     0.6709
+    ],
+    [
+     "Remo PA 5,5 Alt",
+     0.3291
+    ],
+    [
+     "Remo PA 6,5 Üst",
+     0.5195
+    ],
+    [
+     "Remo PA 6,5 Alt",
+     0.4805
+    ],
+    [
+     "Remo PA 7,5 Üst",
+     0.3708
+    ],
+    [
+     "Remo PA 7,5 Alt",
+     0.6292
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Chapecoense",
+   "oneri": "Chapecoense 3,5 Üst",
+   "olasilik": 0.7327,
+   "adil_oran": 1.36,
+   "en_olasi": "Chapecoense 1,5 Üst",
+   "en_olasi_p": 0.9602,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chapecoense 1,5 Üst",
+     0.9602
+    ],
+    [
+     "Chapecoense 1,5 Alt",
+     0.0398
+    ],
+    [
+     "Chapecoense 2,5 Üst",
+     0.8757
+    ],
+    [
+     "Chapecoense 2,5 Alt",
+     0.1243
+    ],
+    [
+     "Chapecoense 3,5 Üst",
+     0.7327
+    ],
+    [
+     "Chapecoense 3,5 Alt",
+     0.2673
+    ],
+    [
+     "Chapecoense 4,5 Üst",
+     0.5576
+    ],
+    [
+     "Chapecoense 4,5 Alt",
+     0.4424
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Handikap",
+   "oneri": "Remo PA +1,5",
+   "olasilik": 0.833,
+   "adil_oran": 1.2,
+   "en_olasi": "Remo PA +2,5",
+   "en_olasi_p": 0.8965,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA -4,5",
+     0.2122
+    ],
+    [
+     "Chapecoense +4,5",
+     0.7878
+    ],
+    [
+     "Remo PA -3,5",
+     0.305
+    ],
+    [
+     "Chapecoense +3,5",
+     0.6949
+    ],
+    [
+     "Remo PA -2,5",
+     0.4131
+    ],
+    [
+     "Chapecoense +2,5",
+     0.5869
+    ],
+    [
+     "Remo PA -1,5",
+     0.5318
+    ],
+    [
+     "Chapecoense +1,5",
+     0.4682
+    ],
+    [
+     "Remo PA -0,5",
+     0.6452
+    ],
+    [
+     "Chapecoense +0,5",
+     0.3548
+    ],
+    [
+     "Remo PA +0,5",
+     0.7494
+    ],
+    [
+     "Chapecoense -0,5",
+     0.2506
+    ],
+    [
+     "Remo PA +1,5",
+     0.833
+    ],
+    [
+     "Chapecoense -1,5",
+     0.167
+    ],
+    [
+     "Remo PA +2,5",
+     0.8965
+    ],
+    [
+     "Chapecoense -2,5",
+     0.1035
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (3-İhtimalli)",
+   "oneri": "9 Üst",
+   "olasilik": 0.7369,
+   "adil_oran": 1.36,
+   "en_olasi": "9 Üst",
+   "en_olasi_p": 0.7369,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "9 Alt",
+     0.1719
+    ],
+    [
+     "10 Alt",
+     0.2631
+    ],
+    [
+     "Tam 9",
+     0.0912
+    ],
+    [
+     "Tam 10",
+     0.1061
+    ],
+    [
+     "9 Üst",
+     0.7369
+    ],
+    [
+     "10 Üst",
+     0.6308
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (Aralık)",
+   "oneri": "12+ korner",
+   "olasilik": 0.5155,
+   "adil_oran": 1.94,
+   "en_olasi": "12+ korner",
+   "en_olasi_p": 0.5155,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "0-8 korner",
+     0.1719
+    ],
+    [
+     "9-11 korner",
+     0.3126
+    ],
+    [
+     "12+ korner",
+     0.5155
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Tek/Çift",
+   "oneri": "Çift",
+   "olasilik": 0.5019,
+   "adil_oran": 1.99,
+   "en_olasi": "Çift",
+   "en_olasi_p": 0.5019,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.4981
+    ],
+    [
+     "Çift",
+     0.5019
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Korner Yarışı",
+   "oneri": "9 kornere kimse ulaşamaz",
+   "olasilik": 0.7038,
+   "adil_oran": 1.42,
+   "en_olasi": "9 kornere kimse ulaşamaz",
+   "en_olasi_p": 0.7038,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk 3 korner Remo PA",
+     0.6331
+    ],
+    [
+     "İlk 3 korner Chapecoense",
+     0.352
+    ],
+    [
+     "3 kornere kimse ulaşamaz",
+     0.0046
+    ],
+    [
+     "İlk 5 korner Remo PA",
+     0.6249
+    ],
+    [
+     "İlk 5 korner Chapecoense",
+     0.2817
+    ],
+    [
+     "5 kornere kimse ulaşamaz",
+     0.0868
+    ],
+    [
+     "İlk 7 korner Remo PA",
+     0.4665
+    ],
+    [
+     "İlk 7 korner Chapecoense",
+     0.165
+    ],
+    [
+     "7 kornere kimse ulaşamaz",
+     0.366
+    ],
+    [
+     "İlk 9 korner Remo PA",
+     0.2366
+    ],
+    [
+     "İlk 9 korner Chapecoense",
+     0.059
+    ],
+    [
+     "9 kornere kimse ulaşamaz",
+     0.7038
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Sonucu",
+   "oneri": "1 (Remo PA)",
+   "olasilik": 0.5548,
+   "adil_oran": 1.8,
+   "en_olasi": "1 (Remo PA)",
+   "en_olasi_p": 0.5548,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Remo PA)",
+     0.5548
+    ],
+    [
+     "X",
+     0.1643
+    ],
+    [
+     "2 (Chapecoense)",
+     0.2809
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Handikap",
+   "oneri": "Chapecoense +2,5",
+   "olasilik": 0.7674,
+   "adil_oran": 1.3,
+   "en_olasi": "Chapecoense +2,5",
+   "en_olasi_p": 0.7674,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA -2,5",
+     0.2326
+    ],
+    [
+     "Chapecoense +2,5",
+     0.7674
+    ],
+    [
+     "Remo PA -1,5",
+     0.3811
+    ],
+    [
+     "Chapecoense +1,5",
+     0.6189
+    ],
+    [
+     "Remo PA -0,5",
+     0.5548
+    ],
+    [
+     "Chapecoense +0,5",
+     0.4452
+    ],
+    [
+     "Remo PA +0,5",
+     0.7191
+    ],
+    [
+     "Chapecoense -0,5",
+     0.2809
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Toplam",
+   "oneri": "Toplam 3,5 Üst",
+   "olasilik": 0.8027,
+   "adil_oran": 1.25,
+   "en_olasi": "Toplam 3,5 Üst",
+   "en_olasi_p": 0.8027,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 3,5 Üst",
+     0.8027
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.1973
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.6496
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.3504
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.4778
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.5222
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Remo PA Toplam",
+   "oneri": "Remo PA 1,5 Üst",
+   "olasilik": 0.8286,
+   "adil_oran": 1.21,
+   "en_olasi": "Remo PA 1,5 Üst",
+   "en_olasi_p": 0.8286,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA 1,5 Üst",
+     0.8286
+    ],
+    [
+     "Remo PA 1,5 Alt",
+     0.1714
+    ],
+    [
+     "Remo PA 2,5 Üst",
+     0.6175
+    ],
+    [
+     "Remo PA 2,5 Alt",
+     0.3825
+    ],
+    [
+     "Remo PA 3,5 Üst",
+     0.3944
+    ],
+    [
+     "Remo PA 3,5 Alt",
+     0.6056
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Chapecoense Toplam",
+   "oneri": "Chapecoense 1,5 Üst",
+   "olasilik": 0.6804,
+   "adil_oran": 1.47,
+   "en_olasi": "Chapecoense 0,5 Üst",
+   "en_olasi_p": 0.9052,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chapecoense 0,5 Üst",
+     0.9052
+    ],
+    [
+     "Chapecoense 0,5 Alt",
+     0.0948
+    ],
+    [
+     "Chapecoense 1,5 Üst",
+     0.6804
+    ],
+    [
+     "Chapecoense 1,5 Alt",
+     0.3196
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : 2. Yarı",
+   "oneri": "Toplam 4,5 Üst",
+   "olasilik": 0.7459,
+   "adil_oran": 1.34,
+   "en_olasi": "Toplam 4,5 Üst",
+   "en_olasi_p": 0.7459,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 4,5 Üst",
+     0.7459
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.2541
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.5945
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.4055
+    ],
+    [
+     "Toplam 6,5 Üst",
+     0.4355
+    ],
+    [
+     "Toplam 6,5 Alt",
+     0.5645
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : İlk Korner",
+   "oneri": "Remo PA",
+   "olasilik": 0.5335,
+   "adil_oran": 1.87,
+   "en_olasi": "Remo PA",
+   "en_olasi_p": 0.5335,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA",
+     0.5335
+    ],
+    [
+     "Chapecoense",
+     0.4665
+    ],
+    [
+     "Korner yok",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Son Korner",
+   "oneri": "Remo PA",
+   "olasilik": 0.5339,
+   "adil_oran": 1.87,
+   "en_olasi": "Remo PA",
+   "en_olasi_p": 0.5339,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA",
+     0.5339
+    ],
+    [
+     "Chapecoense",
+     0.4661
+    ],
+    [
+     "Korner yok",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "En Fazla Korner Olan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.5225,
+   "adil_oran": 1.91,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.5225,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.3608
+    ],
+    [
+     "Eşit",
+     0.1167
+    ],
+    [
+     "2. Yarı",
+     0.5225
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan : Sonuç",
+   "oneri": "1 (Remo PA)",
+   "olasilik": 0.4245,
+   "adil_oran": 2.36,
+   "en_olasi": "1 (Remo PA)",
+   "en_olasi_p": 0.4245,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "1 (Remo PA)",
+     0.4245
+    ],
+    [
+     "X",
+     0.1869
+    ],
+    [
+     "2 (Chapecoense)",
+     0.3886
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan Handikapı",
+   "oneri": "Remo PA +15,5",
+   "olasilik": 0.7912,
+   "adil_oran": 1.26,
+   "en_olasi": "Remo PA +15,5",
+   "en_olasi_p": 0.7912,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Remo PA -15,5",
+     0.237
+    ],
+    [
+     "Chapecoense +15,5",
+     0.763
+    ],
+    [
+     "Remo PA -5,5",
+     0.4131
+    ],
+    [
+     "Chapecoense +5,5",
+     0.5869
+    ],
+    [
+     "Remo PA +5,5",
+     0.6227
+    ],
+    [
+     "Chapecoense -5,5",
+     0.3773
+    ],
+    [
+     "Remo PA +15,5",
+     0.7912
+    ],
+    [
+     "Chapecoense -15,5",
+     0.2088
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam Puan",
+   "oneri": "Toplam 55,5 Alt",
+   "olasilik": 0.7963,
+   "adil_oran": 1.26,
+   "en_olasi": "Toplam 55,5 Alt",
+   "en_olasi_p": 0.7963,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 25,5 Üst",
+     0.7152
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.2848
+    ],
+    [
+     "Toplam 35,5 Üst",
+     0.5206
+    ],
+    [
+     "Toplam 35,5 Alt",
+     0.4794
+    ],
+    [
+     "Toplam 45,5 Üst",
+     0.3411
+    ],
+    [
+     "Toplam 45,5 Alt",
+     0.6589
+    ],
+    [
+     "Toplam 55,5 Üst",
+     0.2037
+    ],
+    [
+     "Toplam 55,5 Alt",
+     0.7963
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Remo PA : Toplam Kart Puanı",
+   "oneri": "Remo PA 25,5 Alt",
+   "olasilik": 0.6864,
+   "adil_oran": 1.46,
+   "en_olasi": "Remo PA 5,5 Üst",
+   "en_olasi_p": 0.841,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Remo PA 5,5 Üst",
+     0.841
+    ],
+    [
+     "Remo PA 5,5 Alt",
+     0.159
+    ],
+    [
+     "Remo PA 15,5 Üst",
+     0.5649
+    ],
+    [
+     "Remo PA 15,5 Alt",
+     0.4351
+    ],
+    [
+     "Remo PA 25,5 Üst",
+     0.3136
+    ],
+    [
+     "Remo PA 25,5 Alt",
+     0.6864
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Chapecoense : Toplam Kart Puanı",
+   "oneri": "Chapecoense 5,5 Üst",
+   "olasilik": 0.8253,
+   "adil_oran": 1.21,
+   "en_olasi": "Chapecoense 35,5 Alt",
+   "en_olasi_p": 0.8661,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Chapecoense 5,5 Üst",
+     0.8253
+    ],
+    [
+     "Chapecoense 5,5 Alt",
+     0.1747
+    ],
+    [
+     "Chapecoense 15,5 Üst",
+     0.5369
+    ],
+    [
+     "Chapecoense 15,5 Alt",
+     0.4631
+    ],
+    [
+     "Chapecoense 25,5 Üst",
+     0.2886
+    ],
+    [
+     "Chapecoense 25,5 Alt",
+     0.7114
+    ],
+    [
+     "Chapecoense 35,5 Üst",
+     0.1339
+    ],
+    [
+     "Chapecoense 35,5 Alt",
+     0.8661
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam (Aralıklar)",
+   "oneri": "21-40 puan",
+   "olasilik": 0.35,
+   "adil_oran": 2.86,
+   "en_olasi": "21-40 puan",
+   "en_olasi_p": 0.35,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "0-20 puan",
+     0.2812
+    ],
+    [
+     "21-40 puan",
+     0.35
+    ],
+    [
+     "41-60 puan",
+     0.2242
+    ],
+    [
+     "61+ puan",
+     0.1301
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Toplam Kart Puanı",
+   "oneri": "Toplam 25,5 Alt",
+   "olasilik": 0.831,
+   "adil_oran": 1.2,
+   "en_olasi": "Toplam 25,5 Alt",
+   "en_olasi_p": 0.831,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 5,5 Üst",
+     0.7244
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.2756
+    ],
+    [
+     "Toplam 15,5 Üst",
+     0.3883
+    ],
+    [
+     "Toplam 15,5 Alt",
+     0.6117
+    ],
+    [
+     "Toplam 25,5 Üst",
+     0.169
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.831
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Remo PA : Toplam Kart Puanı",
+   "oneri": "Remo PA 5,5 Alt",
+   "olasilik": 0.5154,
+   "adil_oran": 1.94,
+   "en_olasi": "Remo PA 15,5 Alt",
+   "en_olasi_p": 0.8368,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Remo PA 5,5 Üst",
+     0.4846
+    ],
+    [
+     "Remo PA 5,5 Alt",
+     0.5154
+    ],
+    [
+     "Remo PA 15,5 Üst",
+     0.1632
+    ],
+    [
+     "Remo PA 15,5 Alt",
+     0.8368
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Chapecoense : Toplam Kart Puanı",
+   "oneri": "Chapecoense 5,5 Alt",
+   "olasilik": 0.5354,
+   "adil_oran": 1.87,
+   "en_olasi": "Chapecoense 15,5 Alt",
+   "en_olasi_p": 0.8514,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Chapecoense 5,5 Üst",
+     0.4646
+    ],
+    [
+     "Chapecoense 5,5 Alt",
+     0.5354
+    ],
+    [
+     "Chapecoense 15,5 Üst",
+     0.1486
+    ],
+    [
+     "Chapecoense 15,5 Alt",
+     0.8514
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Remo PA : Toplam Kart Puanı",
+   "oneri": "Remo PA 5,5 Üst",
+   "olasilik": 0.691,
+   "adil_oran": 1.45,
+   "en_olasi": "Remo PA 5,5 Üst",
+   "en_olasi_p": 0.691,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Remo PA 5,5 Üst",
+     0.691
+    ],
+    [
+     "Remo PA 5,5 Alt",
+     0.309
+    ],
+    [
+     "Remo PA 15,5 Üst",
+     0.3494
+    ],
+    [
+     "Remo PA 15,5 Alt",
+     0.6506
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Chapecoense : Toplam Kart Puanı",
+   "oneri": "Chapecoense 5,5 Üst",
+   "olasilik": 0.6721,
+   "adil_oran": 1.49,
+   "en_olasi": "Chapecoense 25,5 Alt",
+   "en_olasi_p": 0.867,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Chapecoense 5,5 Üst",
+     0.6721
+    ],
+    [
+     "Chapecoense 5,5 Alt",
+     0.3279
+    ],
+    [
+     "Chapecoense 15,5 Üst",
+     0.3291
+    ],
+    [
+     "Chapecoense 15,5 Alt",
+     0.6709
+    ],
+    [
+     "Chapecoense 25,5 Üst",
+     0.133
+    ],
+    [
+     "Chapecoense 25,5 Alt",
+     0.867
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Direkt Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.871,
+   "adil_oran": 1.15,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.871,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.129
+    ],
+    [
+     "Hayır",
+     0.871
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Yarıda Kart Olur",
+   "oneri": "Evet",
+   "olasilik": 0.6512,
+   "adil_oran": 1.54,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6512,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6512
+    ],
+    [
+     "Hayır",
+     0.3488
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kırmızı Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.9908,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9908,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0092
+    ],
+    [
+     "Hayır",
+     0.9908
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kart Alır",
+   "oneri": "Evet",
+   "olasilik": 0.6938,
+   "adil_oran": 1.44,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6938,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6938
+    ],
+    [
+     "Hayır",
+     0.3062
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Kart Görür",
+   "oneri": "Hayır",
+   "olasilik": 0.7094,
+   "adil_oran": 1.41,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7094,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2906
+    ],
+    [
+     "Hayır",
+     0.7094
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Her İki Yarıda Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.8957,
+   "adil_oran": 1.12,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8957,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1043
+    ],
+    [
+     "Hayır",
+     0.8957
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İlk Kartı Görecek Takım",
+   "oneri": "Remo PA",
+   "olasilik": 0.5001,
+   "adil_oran": 2.0,
+   "en_olasi": "Remo PA",
+   "en_olasi_p": 0.5001,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA",
+     0.5001
+    ],
+    [
+     "Chapecoense",
+     0.4725
+    ],
+    [
+     "Kart yok",
+     0.0274
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Son Kartı Görecek Takım",
+   "oneri": "Remo PA",
+   "olasilik": 0.4981,
+   "adil_oran": 2.01,
+   "en_olasi": "Remo PA",
+   "en_olasi_p": 0.4981,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA",
+     0.4981
+    ],
+    [
+     "Chapecoense",
+     0.4745
+    ],
+    [
+     "Kart yok",
+     0.0274
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Maçta Penaltı, Kırmızı Kart ve Kendi Kalesine Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9928,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9928,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0072
+    ],
+    [
+     "Hayır",
+     0.9928
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarı Uzatma Dakikalarında Kart Gösterilir (90+ dak)",
+   "oneri": "Hayır",
+   "olasilik": 0.7559,
+   "adil_oran": 1.32,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7559,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2442
+    ],
+    [
+     "Hayır",
+     0.7559
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarının Uzatma Dakikalarında Kırmızı Kart veya Gol Olur (90+ dakika)",
+   "oneri": "Hayır",
+   "olasilik": 0.8159,
+   "adil_oran": 1.23,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8159,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.184
+    ],
+    [
+     "Hayır",
+     0.8159
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Toplam Kırmızı Kartlar",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.8204,
+   "adil_oran": 1.22,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9824,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.1796
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.8204
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0176
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9824
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Remo PA : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9055,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9055,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0945
+    ],
+    [
+     "Hayır",
+     0.9055
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Chapecoense : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9057,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9057,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0943
+    ],
+    [
+     "Hayır",
+     0.9057
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "1. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9327,
+   "adil_oran": 1.07,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9327,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0673
+    ],
+    [
+     "Hayır",
+     0.9327
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "2. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.8793,
+   "adil_oran": 1.14,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8793,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1206
+    ],
+    [
+     "Hayır",
+     0.8793
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Sonuç",
+   "oneri": "1 (Remo PA)",
+   "olasilik": 0.4079,
+   "adil_oran": 2.45,
+   "en_olasi": "1 (Remo PA)",
+   "en_olasi_p": 0.4079,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Remo PA)",
+     0.4079
+    ],
+    [
+     "X",
+     0.2234
+    ],
+    [
+     "2 (Chapecoense)",
+     0.3686
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.7766,
+   "adil_oran": 1.29,
+   "en_olasi": "12",
+   "en_olasi_p": 0.7766,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.6313
+    ],
+    [
+     "12",
+     0.7766
+    ],
+    [
+     "X2",
+     0.5921
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Handikap",
+   "oneri": "Remo PA +1,5",
+   "olasilik": 0.8155,
+   "adil_oran": 1.23,
+   "en_olasi": "Remo PA +1,5",
+   "en_olasi_p": 0.8155,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA -1,5",
+     0.2149
+    ],
+    [
+     "Chapecoense +1,5",
+     0.7851
+    ],
+    [
+     "Remo PA -0,5",
+     0.4079
+    ],
+    [
+     "Chapecoense +0,5",
+     0.5921
+    ],
+    [
+     "Remo PA +0,5",
+     0.6313
+    ],
+    [
+     "Chapecoense -0,5",
+     0.3686
+    ],
+    [
+     "Remo PA +1,5",
+     0.8155
+    ],
+    [
+     "Chapecoense -1,5",
+     0.1845
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Toplam",
+   "oneri": "Toplam 4,5 Alt",
+   "olasilik": 0.736,
+   "adil_oran": 1.36,
+   "en_olasi": "Toplam 5,5 Alt",
+   "en_olasi_p": 0.8648,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 2,5 Üst",
+     0.6691
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.3309
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.4507
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.5493
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.264
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.736
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.1352
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.8648
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Remo PA : Toplam",
+   "oneri": "Remo PA 0,5 Üst",
+   "olasilik": 0.8295,
+   "adil_oran": 1.21,
+   "en_olasi": "Remo PA 0,5 Üst",
+   "en_olasi_p": 0.8295,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA 0,5 Üst",
+     0.8295
+    ],
+    [
+     "Remo PA 0,5 Alt",
+     0.1705
+    ],
+    [
+     "Remo PA 1,5 Üst",
+     0.5284
+    ],
+    [
+     "Remo PA 1,5 Alt",
+     0.4716
+    ],
+    [
+     "Remo PA 2,5 Üst",
+     0.2621
+    ],
+    [
+     "Remo PA 2,5 Alt",
+     0.7379
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Chapecoense : Toplam",
+   "oneri": "Chapecoense 0,5 Üst",
+   "olasilik": 0.8134,
+   "adil_oran": 1.23,
+   "en_olasi": "Chapecoense 3,5 Alt",
+   "en_olasi_p": 0.9106,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chapecoense 0,5 Üst",
+     0.8134
+    ],
+    [
+     "Chapecoense 0,5 Alt",
+     0.1866
+    ],
+    [
+     "Chapecoense 1,5 Üst",
+     0.4982
+    ],
+    [
+     "Chapecoense 1,5 Alt",
+     0.5018
+    ],
+    [
+     "Chapecoense 2,5 Üst",
+     0.235
+    ],
+    [
+     "Chapecoense 2,5 Alt",
+     0.765
+    ],
+    [
+     "Chapecoense 3,5 Üst",
+     0.0894
+    ],
+    [
+     "Chapecoense 3,5 Alt",
+     0.9106
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Sonucu",
+   "oneri": "X",
+   "olasilik": 0.4118,
+   "adil_oran": 2.43,
+   "en_olasi": "X",
+   "en_olasi_p": 0.4118,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Remo PA)",
+     0.3055
+    ],
+    [
+     "X",
+     0.4118
+    ],
+    [
+     "2 (Chapecoense)",
+     0.2827
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Handikap",
+   "oneri": "Remo PA +0,5",
+   "olasilik": 0.7173,
+   "adil_oran": 1.39,
+   "en_olasi": "Remo PA +0,5",
+   "en_olasi_p": 0.7173,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA -0,5",
+     0.3055
+    ],
+    [
+     "Chapecoense +0,5",
+     0.6945
+    ],
+    [
+     "Remo PA +0,5",
+     0.7173
+    ],
+    [
+     "Chapecoense -0,5",
+     0.2827
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı : Toplam",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.709,
+   "adil_oran": 1.41,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.8718,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.709
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.291
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.3498
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.6502
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1282
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8718
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Remo PA Toplam",
+   "oneri": "Remo PA 0,5 Alt",
+   "olasilik": 0.5301,
+   "adil_oran": 1.89,
+   "en_olasi": "Remo PA 1,5 Alt",
+   "en_olasi_p": 0.8648,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA 0,5 Üst",
+     0.4699
+    ],
+    [
+     "Remo PA 0,5 Alt",
+     0.5301
+    ],
+    [
+     "Remo PA 1,5 Üst",
+     0.1352
+    ],
+    [
+     "Remo PA 1,5 Alt",
+     0.8648
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Chapecoense Toplam",
+   "oneri": "Chapecoense 0,5 Alt",
+   "olasilik": 0.5499,
+   "adil_oran": 1.82,
+   "en_olasi": "Chapecoense 1,5 Alt",
+   "en_olasi_p": 0.8782,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Chapecoense 0,5 Üst",
+     0.4501
+    ],
+    [
+     "Chapecoense 0,5 Alt",
+     0.5499
+    ],
+    [
+     "Chapecoense 1,5 Üst",
+     0.1217
+    ],
+    [
+     "Chapecoense 1,5 Alt",
+     0.8782
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Sonuç",
+   "oneri": "1 (Remo PA)",
+   "olasilik": 0.3701,
+   "adil_oran": 2.7,
+   "en_olasi": "1 (Remo PA)",
+   "en_olasi_p": 0.3701,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Remo PA)",
+     0.3701
+    ],
+    [
+     "X",
+     0.2901
+    ],
+    [
+     "2 (Chapecoense)",
+     0.3397
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Handikap",
+   "oneri": "Remo PA +0,5",
+   "olasilik": 0.6603,
+   "adil_oran": 1.51,
+   "en_olasi": "Remo PA +0,5",
+   "en_olasi_p": 0.6603,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA -0,5",
+     0.3701
+    ],
+    [
+     "Chapecoense +0,5",
+     0.6299
+    ],
+    [
+     "Remo PA +0,5",
+     0.6603
+    ],
+    [
+     "Chapecoense -0,5",
+     0.3397
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Toplam",
+   "oneri": "Toplam 3,5 Alt",
+   "olasilik": 0.8179,
+   "adil_oran": 1.22,
+   "en_olasi": "Toplam 3,5 Alt",
+   "en_olasi_p": 0.8179,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 1,5 Üst",
+     0.6485
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.3515
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.3807
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.6193
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.1821
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.8179
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Remo PA Toplam",
+   "oneri": "Remo PA 1,5 Alt",
+   "olasilik": 0.6858,
+   "adil_oran": 1.46,
+   "en_olasi": "Remo PA 1,5 Alt",
+   "en_olasi_p": 0.6858,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA 0,5 Üst",
+     0.6781
+    ],
+    [
+     "Remo PA 0,5 Alt",
+     0.3219
+    ],
+    [
+     "Remo PA 1,5 Üst",
+     0.3142
+    ],
+    [
+     "Remo PA 1,5 Alt",
+     0.6858
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : İlk Sarı Kartı Görür",
+   "oneri": "Remo PA",
+   "olasilik": 0.4981,
+   "adil_oran": 2.01,
+   "en_olasi": "Remo PA",
+   "en_olasi_p": 0.4981,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA",
+     0.4981
+    ],
+    [
+     "Chapecoense",
+     0.4706
+    ],
+    [
+     "Sarı kart yok",
+     0.0313
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Son Sarı Kartı Görür",
+   "oneri": "Remo PA",
+   "olasilik": 0.4962,
+   "adil_oran": 2.02,
+   "en_olasi": "Remo PA",
+   "en_olasi_p": 0.4962,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Remo PA",
+     0.4962
+    ],
+    [
+     "Chapecoense",
+     0.4725
+    ],
+    [
+     "Sarı kart yok",
+     0.0313
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.606,
+   "adil_oran": 1.65,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.606,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.394
+    ],
+    [
+     "Hayır",
+     0.606
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Remo PA : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7405,
+   "adil_oran": 1.35,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7405,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2595
+    ],
+    [
+     "Hayır",
+     0.7405
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Chapecoense : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8194,
+   "adil_oran": 1.22,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8194,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1806
+    ],
+    [
+     "Hayır",
+     0.8194
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "İki Takım da Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9539,
+   "adil_oran": 1.05,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9539,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0461
+    ],
+    [
+     "Hayır",
+     0.9539
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta İki Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9099,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9099,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0901
+    ],
+    [
+     "Hayır",
+     0.9099
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "1. Yarı : Penaltı",
+   "oneri": "Hayır",
+   "olasilik": 0.8028,
+   "adil_oran": 1.25,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8028,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1972
+    ],
+    [
+     "Hayır",
+     0.8028
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltıdan Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.6804,
+   "adil_oran": 1.47,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6804,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3196
+    ],
+    [
+     "Hayır",
+     0.6804
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı Kaçırır",
+   "oneri": "Hayır",
+   "olasilik": 0.8912,
+   "adil_oran": 1.12,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8912,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1088
+    ],
+    [
+     "Hayır",
+     0.8912
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı ve Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9297,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9297,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0703
+    ],
+    [
+     "Hayır",
+     0.9297
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı veya Kırmızı Kart Olur",
+   "oneri": "Evet",
+   "olasilik": 0.5034,
+   "adil_oran": 1.99,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5034,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5034
+    ],
+    [
+     "Hayır",
+     0.4966
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Şutları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pasları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pas Denemeleri",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncunun Yaptığı Fauller",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncuya Faul Yapılır",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Topa Müdahaleler",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ofsayta Düşer",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Kaleci Kurtarışları",
+   "oneri": "Chapecoense kalecisi 3,5 Üst",
+   "olasilik": 0.7315,
+   "adil_oran": 1.37,
+   "en_olasi": "Chapecoense kalecisi 1,5 Üst",
+   "en_olasi_p": 0.9588,
+   "guven": "düşük",
+   "not_": "Rakibin beklenen golünden türetildi",
+   "secimler": [
+    [
+     "Remo PA kalecisi 1,5 Üst",
+     0.5962
+    ],
+    [
+     "Remo PA kalecisi 1,5 Alt",
+     0.4038
+    ],
+    [
+     "Remo PA kalecisi 2,5 Üst",
+     0.3268
+    ],
+    [
+     "Remo PA kalecisi 2,5 Alt",
+     0.6732
+    ],
+    [
+     "Remo PA kalecisi 3,5 Üst",
+     0.1449
+    ],
+    [
+     "Remo PA kalecisi 3,5 Alt",
+     0.8551
+    ],
+    [
+     "Remo PA kalecisi 4,5 Üst",
+     0.0541
+    ],
+    [
+     "Remo PA kalecisi 4,5 Alt",
+     0.9459
+    ],
+    [
+     "Chapecoense kalecisi 1,5 Üst",
+     0.9588
+    ],
+    [
+     "Chapecoense kalecisi 1,5 Alt",
+     0.0412
+    ],
+    [
+     "Chapecoense kalecisi 2,5 Üst",
+     0.8742
+    ],
+    [
+     "Chapecoense kalecisi 2,5 Alt",
+     0.1258
+    ],
+    [
+     "Chapecoense kalecisi 3,5 Üst",
+     0.7315
+    ],
+    [
+     "Chapecoense kalecisi 3,5 Alt",
+     0.2685
+    ],
+    [
+     "Chapecoense kalecisi 4,5 Üst",
+     0.5558
+    ],
+    [
+     "Chapecoense kalecisi 4,5 Alt",
+     0.4442
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Pas Veren Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Faul Yapan Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 1. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 2. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Her İki Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Çektiği Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kafayla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sağ Ayakla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  }
+ ],
+ "eksik": [
+  "Herhangi Bir Zamanda Gol Atar",
+  "İlk Golcü",
+  "İlk Golcü Çifte Şans",
+  "Son Golcü",
+  "{EV} : İlk Golü Atar",
+  "{DEP} : İlk Golü Atar",
+  "{EV} : Son Golcü",
+  "{DEP} : Son Golü Atar",
+  "Oyuncu En Az 2 Gol Atar",
+  "Oyuncu En Az 3 Gol Atar",
+  "Oyuncu 4 veya Daha Çok Gol Atar",
+  "Herhangi Bir Zaman Gol Atar Çifte Şans",
+  "Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar",
+  "2 Oyuncu Toplamda Üst 1.5 Gol Atar",
+  "2 Oyuncu Toplamda Üst 2.5 Gol Atar",
+  "2 Oyuncu Toplamda Üst 3.5 Gol Atar",
+  "Oyuncu 1. Yarıda Gol Atar",
+  "Oyuncu 2. Yarıda Gol Atar",
+  "Oyuncu Her İki Yarıda da Gol Atar",
+  "İlk 10 Dakikada Gol Atar",
+  "Oyuncu Penaltıdan Gol Atar",
+  "Oyuncu Ceza Sahası Dışından Gol Atar",
+  "Oyuncu Kale Sahası İçinden Gol Atar",
+  "Oyuncu Kafa Golü Atar",
+  "Oyuncu Serbest Vuruştan Gol Atar",
+  "Oyuncu Sağ Ayağıyla Gol Atar",
+  "Oyuncu Gol Atar ve Takımı Kazanır",
+  "Oyuncu Gol Atar ve Rakip Takım Kazanır",
+  "Oyuncu Gol Atar ve Maç Berabere Biter",
+  "Oyuncu Asist Yapar",
+  "Oyuncu Gol Atar veya Asist Yapar",
+  "Oyuncu Gol Atar veya Asist Yapar (Çifte Şans)",
+  "Oyuncu Gol Atar ve Asist Yapar",
+  "Gol Asisti Yapar Çifte Şans",
+  "Oyuncu Penaltı Kaçırır",
+  "Penaltı Kazandıran Oyuncu",
+  "Oyuncu Kart Görür",
+  "Oyuncu Kart Görür Çifte Şans",
+  "Oyuncu Sarı Kart Görür",
+  "Kart Görecek İlk Oyuncu",
+  "Son Kartı Görecek Oyuncu",
+  "Oyundan Uzaklaştırılır"
+ ]
+}

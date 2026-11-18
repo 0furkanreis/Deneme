@@ -1,0 +1,648 @@
+Turu Geçer
+Deportiva Minera
+FC Cartagena
+1.75
+2.00
+Maç Sonucu
+Deportiva Minera
+Beraberlik
+FC Cartagena
+2.75
+2.35
+3.45
+Çifte Şans
+1X
+12
+X2
+1.30
+1.53
+1.42
+Maçın Geri Kalanı (Güncel Skor: 0-0)
+Deportiva Minera
+X
+FC Cartagena
+2.75
+2.35
+3.45
+Beraberlikte İade
+Deportiva Minera
+FC Cartagena
+1.65
+2.10
+Toplam Goller
+Üst
+Alt
+0.5
+1.23
+3.75
+1
+1.45
+2.50
+1.5
+2.10
+1.67
+2
+3.40
+1.27
+2.5
+4.50
+1.17
+3
+8.30
+1.05
+Deportiva Minera : Toplam Gol
+Üst
+Alt
+0.5
+1.65
+2.10
+1
+2.95
+1.33
+1.5
+4.25
+1.17
+FC Cartagena : Toplam Gol
+Üst
+Alt
+0.5
+1.85
+1.85
+1
+3.70
+1.22
+1.5
+5.20
+1.12
+Her iki takımda gol atar
+Evet
+Hayır
+2.95
+1.33
+Gol Handikapı
+Deportiva Minera
+FC Cartagena
+-1
+6.00
++1
+1.10
+-0.5
+2.60
++0.5
+1.42
+0
+1.67
+0
+2.10
++0.5
+1.30
+-0.5
+3.10
+Goller Asya Handikapı
+Deportiva Minera
+FC Cartagena
+-1.25
+6.30
++1.25
+1.08
+-0.75
+3.50
++0.75
+1.25
+-0.25
+2.15
++0.25
+1.60
++0.25
+1.40
+-0.25
+2.65
++0.75
+1.17
+-0.75
+4.25
+Gol Handikapı (3-İhtimalli)
+Deportiva Minera
+Beraberlik : FC Cartagena
+FC Cartagena
+-1
+7.20
++1
+3.65
++1
+1.42
++1
+1.30
+-1
+4.20
+-1
+8.30
+Toplam Goller Asya
+Üst
+Alt
+0.75
+1.30
+3.10
+1.25
+1.75
+1.95
+1.75
+2.50
+1.45
+2.25
+4.00
+1.20
+2.75
+5.70
+1.10
+Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+1
+2.10
+2.60
+4.00
+2
+4.80
+3.40
+1.67
+1. Golü Atar
+Deportiva Minera
+FC Cartagena
+Gol Yok
+2.20
+2.60
+3.75
+Deportiva Minera : Toplam Gol Asya
+Üst
+Alt
+0.75
+2.02
+1.70
+1.25
+3.70
+1.22
+1.75
+6.00
+1.09
+FC Cartagena : Toplam Gol Asya
+Üst
+Alt
+0.75
+2.25
+1.55
+1.25
+4.60
+1.15
+1.75
+7.10
+1.06
+Toplam Gol Tek / Çift
+Çift
+Tek
+1.80
+1.94
+Maç Sonucu ve Karşılıklı Gol
+Deportiva Minera Ve Evet
+10.00
+Beraberlik Ve Hayır
+3.75
+Deportiva Minera Ve Hayır
+3.20
+FC Cartagena Ve Evet
+12.00
+Beraberlik ve Evet
+4.70
+FC Cartagena Ve Hayır
+4.05
+Çifte Şans ve Karşılıklı Gol
+1X Ve Evet
+3.45
+12 Ve Hayır
+1.88
+1X Ve Hayır
+1.85
+X2 Ve Evet
+3.65
+12 Ve Evet
+6.00
+X2 Ve Hayır
+2.10
+Maç Sonucu ve Toplam Gol 1.5
+Deportiva Minera ve Üst 1.5
+5.30
+Deportiva Minera ve Alt 1.5
+4.50
+Beraberlik ve Üst 1.5
+4.85
+Beraberlik ve Alt 1.5
+3.70
+FC Cartagena ve Üst 1.5
+7.00
+FC Cartagena ve Alt 1.5
+5.30
+1X ve Üst 1.5
+2.70
+1X ve Alt 1.5
+2.18
+12 ve Üst 1.5
+3.20
+12 ve Alt 1.5
+2.60
+X2 ve Üst 1.5
+3.05
+X2 ve Alt 1.5
+2.35
+Maç Sonucu ve Toplam Gol 2.5
+Deportiva Minera ve Üst 2.5
+8.20
+Deportiva Minera ve Alt 2.5
+3.50
+Beraberlik ve Üst 2.5
+32.00
+Beraberlik ve Alt 2.5
+2.35
+FC Cartagena ve Üst 2.5
+11.00
+FC Cartagena ve Alt 2.5
+4.25
+1X ve Üst 2.5
+6.80
+1X ve Alt 2.5
+1.50
+12 ve Üst 2.5
+4.90
+12 ve Alt 2.5
+2.05
+X2 ve Üst 2.5
+8.50
+X2 ve Alt 2.5
+1.62
+Maç Sonucu ve Toplam Gol 3.5
+Deportiva Minera ve Üst 3.5
+26.00
+Deportiva Minera ve Alt 3.5
+2.80
+Beraberlik ve Üst 3.5
+32.00
+Beraberlik ve Alt 3.5
+2.35
+FC Cartagena ve Üst 3.5
+39.00
+FC Cartagena ve Alt 3.5
+3.45
+1X ve Üst 3.5
+15.00
+1X ve Alt 3.5
+1.38
+12 ve Üst 3.5
+17.00
+12 ve Alt 3.5
+1.65
+X2 ve Üst 3.5
+19.00
+X2 ve Alt 3.5
+1.50
+Toplam Gol (Kesin)
+0
+3.75
+1
+2.60
+2
+3.40
+3
+6.40
+4
+15.00
+5
+46.00
+6 veya Daha Fazla
+126.00
+Toplam Gol (Aralık)
+0-1
+1.67
+2-3
+2.37
+4 ila 6
+12.00
+7 veya Daha fazla
+301.00
+Deportiva Minera : Toplam Gol (Aralık)
+0-1
+1.17
+2-3
+4.80
+4 ila 6
+70.00
+7 veya Daha fazla
+301.00
+FC Cartagena : Toplam Gol (Aralık)
+0-1
+1.12
+2-3
+6.00
+4 ila 6
+126.00
+7 veya Daha fazla
+301.00
+Doğru Skor
+1-0
+4.50
+0-0
+3.75
+0-1
+5.30
+2-0
+12.00
+1-1
+5.50
+0-2
+17.00
+2-1
+15.00
+2-2
+32.00
+1-2
+17.00
+3-0
+34.00
+0-3
+51.00
+3-1
+51.00
+1-3
+73.00
+3-2
+126.00
+2-3
+145.00
+Daha Fazla Seçeneği Göster
+1.Yarı Sonucu
+Deportiva Minera
+Beraberlik
+FC Cartagena
+5.20
+1.30
+6.00
+1.Yarı Çifte Şans
+1X
+12
+X2
+1.09
+3.10
+1.12
+1. Yarının Kalanı (Güncel Skor: 0-0)
+Deportiva Minera
+X
+FC Cartagena
+5.60
+1.30
+6.00
+1. Yarı Toplam Gol
+Üst
+Alt
+0.5
+2.95
+1.33
+1. Yarı 1. Takım Toplam Gol
+Üst
+Alt
+0.5
+4.60
+1.15
+1. Yarı 2. Takım Toplam Gol
+Üst
+Alt
+0.5
+5.20
+1.12
+1. Yarı Gol Handikapı
+Deportiva Minera
+FC Cartagena
+-0.5
+5.20
++0.5
+1.12
+0
+1.65
+0
+2.10
++0.5
+1.09
+-0.5
+6.00
+1. Yarı Gol Handikapı 3 İhtimalli
+Deportiva Minera
+Beraberlik FC Cartagena
+FC Cartagena
+0
+5.20
+0
+1.30
+0
+6.00
+1. . Yarı : Asya Handikap
+Deportiva Minera
+FC Cartagena
+-0.25
+3.50
++0.25
+1.25
++0.25
+1.17
+-0.25
+4.25
+1. . Yarı : Toplam Goller Asya
+Üst
+Alt
+0.75
+4.25
+1.17
+1. . Yarı : Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+1
+17.00
+3.45
+1.33
+1.Yarı 1. Golü Atar
+Deportiva Minera
+FC Cartagena
+Gol Yok
+5.20
+6.40
+1.33
+1. Yarı Toplam Gol Aralığı
+0-1
+1.02
+2-3
+15.00
+4 ila 6
+301.00
+7 veya Daha fazla
+301.00
+1. Yarı Deportiva Minera Toplam Gol Aralığı
+2-3
+4 ila 6
+41.00
+301.00
+1. Yarı FC Cartagena Toplam Gol Aralığı
+2-3
+4 ila 6
+56.00
+301.00
+1.Yarı Toplam Gol (Kesin)
+0
+1.33
+1
+3.45
+2
+9.00
+3
+126.00
+4 veya Daha Fazla
+301.00
+1.Yarı Doğru Skor
+1-0
+5.70
+0-0
+1.33
+0-1
+6.80
+2-0
+46.00
+1-1
+29.00
+0-2
+67.00
+2-1
+235.00
+2. Yarı Sonucu
+Deportiva Minera
+Beraberlik
+FC Cartagena
+2.80
+2.18
+3.50
+İlk Yarı/Maç Sonucu
+Deportiva Minera/Deportiva Minera
+6.60
+Beraberlik/Deportiva Minera
+3.50
+FC Cartagena/Deportiva Minera
+56.00
+Deportiva Minera/Beraberlik
+23.00
+Beraberlik/Beraberlik
+2.75
+FC Cartagena/Beraberlik
+23.00
+Deportiva Minera/FC Cartagena
+67.00
+Beraberlik/FC Cartagena
+4.25
+FC Cartagena/FC Cartagena
+8.70
+İlk Yarı/Maç sonucu : Çifte Şans
+1X/1X
+1.35
+12/1X
+4.25
+X2/1X
+1.55
+1X/12
+1.65
+12/12
+3.60
+X2/12
+1.73
+1X/X2
+1.67
+12/X2
+5.00
+X2/X2
+1.50
+1.Yarı/2.Yarı Sonucu
+Deportiva Minera/Deportiva Minera
+8.20
+Deportiva Minera/Beraberlik
+6.80
+Deportiva Minera/FC Cartagena
+9.50
+Beraberlik/Deportiva Minera
+2.70
+Beraberlik/Beraberlik
+2.23
+Beraberlik/FC Cartagena
+3.15
+FC Cartagena/Deportiva Minera
+9.50
+FC Cartagena/Beraberlik
+8.00
+FC Cartagena/FC Cartagena
+11.00
+En Yüksek Skorlu Yarı
+1. = 2.
+1. > 2.
+1. < 2.
+2.80
+8.00
+1.62
+Kornerler : Toplam
+Üst
+Alt
+6
+1.27
+3.40
+7
+1.80
+1.90
+Toplam Korner : FC Cartagena
+Üst
+Alt
+2.5
+1.45
+2.50
+3
+1.70
+2.02
+3.5
+2.15
+1.60
+Kornerler: Handikap
+Deportiva Minera
+FC Cartagena
+-1
+2.10
++1
+1.65
+Kornerler : Toplam (3-İhtimalli)
+Üst
+Kesin
+Alt
+7
+2.20
+4.55
+2.35
+Deportiva Minera : Her İki Yarıda Kazanır
+Evet
+Hayır
+10.00
+1.02
+FC Cartagena Her İki Yarıda Kazanır
+Evet
+Hayır
+11.00
+1.01
+Deportiva Minera Gol Yemeden Kazanır
+Evet
+Hayır
+3.20
+1.30
+FC Cartagena Gol Yemeden Kazanır
+Evet
+Hayır
+4.05
+1.20

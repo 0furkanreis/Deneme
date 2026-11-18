@@ -1,0 +1,10 @@
+{"skor": "0-3 (İY 0-1)", "kaynak": "FotMob maç 5181786",
+ "goller": [{"dk": 29, "takim": "dep", "oyuncu": "Danijel Šturm"},
+            {"dk": 66, "takim": "dep", "oyuncu": "David Zec"},
+            {"dk": 90, "uz": 1, "takim": "dep", "oyuncu": "Danijel Šturm"}],
+ "kartlar": [{"dk": 23, "takim": "dep", "tur": "sari", "oyuncu": "Adam Gnezda Čerin"},
+             {"dk": 48, "takim": "dep", "tur": "sari", "oyuncu": "Žan Karničnik"},
+             {"dk": 57, "takim": "ev", "tur": "sari", "oyuncu": "Ezgjan Alioski"},
+             {"dk": 75, "takim": "dep", "tur": "sari", "oyuncu": "Benjamin Verbič"}],
+ "kornerler": {"ev": 3, "dep": 5},
+ "istatistik": {"xG": [0.59, 2.22], "sut": [9, 8], "isabetli_sut": [4, 5], "topa_sahip": [60, 40]}}

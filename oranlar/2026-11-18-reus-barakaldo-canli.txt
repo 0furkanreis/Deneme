@@ -1,0 +1,91 @@
+Turu Geçer
+Reus FC Reddis
+Barakaldo CF
+2.00
+1.75
+Uzatma Süresi Sonucu
+Reus FC Reddis
+X
+Barakaldo CF
+6.80
+1.35
+4.55
+Uzatma Süresi Çifte Şans
+1X
+12
+X2
+1.17
+2.80
+1.10
+Uzatma Süresi Gol Handikapı
+Reus FC Reddis
+Barakaldo CF
+-0.5
+6.00
++0.5
+1.09
+0
+2.25
+0
+1.55
++0.5
+1.17
+-0.5
+4.25
+Uzatmada atılan goller-Asya Handikapı
+Reus FC Reddis
+Barakaldo CF
+-0.25
+4.25
++0.25
+1.17
++0.25
+1.30
+-0.25
+3.10
++0.75
+1.08
+-0.75
+6.30
+Uzatma Süresi Toplam Goller
+Üst
+Alt
+0.5
+2.65
+1.42
+1
+7.30
+1.06
+Uzatma Süresi Toplam Goller Asya
+Üst
+Alt
+0.75
+3.83
+1.22
+1.25
+8.50
+1.04
+Uzatma süresi Reus FC Reddis Toplam Goller
+Üst
+Alt
+0.5
+5.20
+1.13
+Uzatma Süresi Barakaldo CF Toplam Goller
+Üst
+Alt
+0.5
+4.00
+1.20
+Uzatma. Reus FC Reddis. Toplam Gol. Asya Handikapı
+Üst
+Alt
+0.75
+7.10
+1.06
+Uzatma. Barakaldo CF. Toplam Gol. Asya Handikapı
+Üst
+Alt
+0.75
+5.70
+1.10

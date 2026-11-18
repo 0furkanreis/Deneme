@@ -1,0 +1,9666 @@
+{
+ "mac": {
+  "organizasyon": "Brezilya Serie A, 35. hafta",
+  "tarih": "19 Kasım 2026, 02:30 TSİ",
+  "stadyum": "Mineirão, Belo Horizonte",
+  "hakem": "Anderson Daronco (47 maç: 4,7 sarı, lig 4,79; 9 kırmızı; 13 penaltı)",
+  "ilk_yari_gol_payi": 0.44,
+  "korner_guven": "orta",
+  "kart_guven": "orta",
+  "var_ort": 0.35,
+  "not": "Korner: Cruzeiro 5,6 kazanır/7,0 verir; Palmeiras 7,2/3,6 (FotMob son 5). Kart: Cruzeiro 2,8 (Pal rakipleri 3,6), Palmeiras 2,6 (Cru rakipleri 2,2). Goller piyasadan.",
+  "kalibrasyon": "Beklenen goller site oranlarından (takım gol çizgilerinin ortalaması)"
+ },
+ "ev": "Cruzeiro EC",
+ "dep": "SE Palmeiras",
+ "beklenen_gol": [
+  1.534,
+  1.599
+ ],
+ "simulasyon": 120000,
+ "pazarlar": [
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu",
+   "oneri": "2 (SE Palmeiras)",
+   "olasilik": 0.3956,
+   "adil_oran": 2.53,
+   "en_olasi": "2 (SE Palmeiras)",
+   "en_olasi_p": 0.3956,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Cruzeiro EC)",
+     0.3694
+    ],
+    [
+     "X",
+     0.235
+    ],
+    [
+     "2 (SE Palmeiras)",
+     0.3956
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.765,
+   "adil_oran": 1.31,
+   "en_olasi": "12",
+   "en_olasi_p": 0.765,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.6044
+    ],
+    [
+     "12",
+     0.765
+    ],
+    [
+     "X2",
+     0.6306
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Beraberlikte İade",
+   "oneri": "SE Palmeiras",
+   "olasilik": 0.5172,
+   "adil_oran": 1.93,
+   "en_olasi": "SE Palmeiras",
+   "en_olasi_p": 0.5172,
+   "guven": "yüksek",
+   "not_": "Beraberlikte iade; olasılık iade hariç",
+   "secimler": [
+    [
+     "Cruzeiro EC",
+     0.4828
+    ],
+    [
+     "SE Palmeiras",
+     0.5172
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Cruzeiro EC : Bahis Yok",
+   "oneri": "SE Palmeiras",
+   "olasilik": 0.6273,
+   "adil_oran": 1.59,
+   "en_olasi": "SE Palmeiras",
+   "en_olasi_p": 0.6273,
+   "guven": "yüksek",
+   "not_": "Cruzeiro EC kazanırsa iade",
+   "secimler": [
+    [
+     "X",
+     0.3727
+    ],
+    [
+     "SE Palmeiras",
+     0.6273
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "SE Palmeiras : Bahis Yok",
+   "oneri": "Cruzeiro EC",
+   "olasilik": 0.6112,
+   "adil_oran": 1.64,
+   "en_olasi": "Cruzeiro EC",
+   "en_olasi_p": 0.6112,
+   "guven": "yüksek",
+   "not_": "SE Palmeiras kazanırsa iade",
+   "secimler": [
+    [
+     "Cruzeiro EC",
+     0.6112
+    ],
+    [
+     "X",
+     0.3888
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Cruzeiro EC : Geriden Gelerek Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9286,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9286,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0714
+    ],
+    [
+     "Hayır",
+     0.9286
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "SE Palmeiras : Geriden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.9239,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9239,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0761
+    ],
+    [
+     "Hayır",
+     0.9239
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "Cruzeiro EC : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.6306,
+   "adil_oran": 1.59,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.6306,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.191
+    ],
+    [
+     "2 fark",
+     0.1095
+    ],
+    [
+     "3 fark",
+     0.0465
+    ],
+    [
+     "4+ fark",
+     0.0223
+    ],
+    [
+     "Kazanamaz",
+     0.6306
+    ]
+   ]
+  },
+  {
+   "kategori": "MAÇ SONUCU / TEMEL",
+   "yontem": "gol",
+   "pazar": "SE Palmeiras : Kazanma Marjı",
+   "oneri": "Kazanamaz",
+   "olasilik": 0.6044,
+   "adil_oran": 1.65,
+   "en_olasi": "Kazanamaz",
+   "en_olasi_p": 0.6044,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 fark",
+     0.198
+    ],
+    [
+     "2 fark",
+     0.1174
+    ],
+    [
+     "3 fark",
+     0.0532
+    ],
+    [
+     "4+ fark",
+     0.0269
+    ],
+    [
+     "Kazanamaz",
+     0.6044
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller",
+   "oneri": "Toplam 1,5 Üst",
+   "olasilik": 0.8202,
+   "adil_oran": 1.22,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.957,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.957
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.043
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.8202
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.1799
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.6071
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.3929
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.3847
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.6153
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.2084
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.7916
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.0969
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.9031
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Cruzeiro EC : Toplam Gol",
+   "oneri": "Cruzeiro EC 2,5 Alt",
+   "olasilik": 0.7987,
+   "adil_oran": 1.25,
+   "en_olasi": "Cruzeiro EC 3,5 Alt",
+   "en_olasi_p": 0.9299,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC 0,5 Üst",
+     0.7843
+    ],
+    [
+     "Cruzeiro EC 0,5 Alt",
+     0.2157
+    ],
+    [
+     "Cruzeiro EC 1,5 Üst",
+     0.4554
+    ],
+    [
+     "Cruzeiro EC 1,5 Alt",
+     0.5446
+    ],
+    [
+     "Cruzeiro EC 2,5 Üst",
+     0.2013
+    ],
+    [
+     "Cruzeiro EC 2,5 Alt",
+     0.7987
+    ],
+    [
+     "Cruzeiro EC 3,5 Üst",
+     0.0701
+    ],
+    [
+     "Cruzeiro EC 3,5 Alt",
+     0.9299
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "SE Palmeiras : Toplam Gol",
+   "oneri": "SE Palmeiras 0,5 Üst",
+   "olasilik": 0.7975,
+   "adil_oran": 1.25,
+   "en_olasi": "SE Palmeiras 3,5 Alt",
+   "en_olasi_p": 0.9203,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "SE Palmeiras 0,5 Üst",
+     0.7975
+    ],
+    [
+     "SE Palmeiras 0,5 Alt",
+     0.2025
+    ],
+    [
+     "SE Palmeiras 1,5 Üst",
+     0.4752
+    ],
+    [
+     "SE Palmeiras 1,5 Alt",
+     0.5248
+    ],
+    [
+     "SE Palmeiras 2,5 Üst",
+     0.2165
+    ],
+    [
+     "SE Palmeiras 2,5 Alt",
+     0.7835
+    ],
+    [
+     "SE Palmeiras 3,5 Üst",
+     0.0797
+    ],
+    [
+     "SE Palmeiras 3,5 Alt",
+     0.9203
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Goller Asya",
+   "oneri": "Toplam Asya 1,75 Üst",
+   "olasilik": 0.7987,
+   "adil_oran": 1.25,
+   "en_olasi": "Toplam Asya 1,75 Üst",
+   "en_olasi_p": 0.7987,
+   "guven": "yüksek",
+   "not_": "Asya çizgisi: değer = 1/adil oran",
+   "secimler": [
+    [
+     "Toplam Asya 1,75 Üst",
+     0.7987
+    ],
+    [
+     "Toplam Asya 1,75 Alt",
+     0.2013
+    ],
+    [
+     "Toplam Asya 2 Üst",
+     0.7714
+    ],
+    [
+     "Toplam Asya 2 Alt",
+     0.2286
+    ],
+    [
+     "Toplam Asya 2,25 Üst",
+     0.6795
+    ],
+    [
+     "Toplam Asya 2,25 Alt",
+     0.3205
+    ],
+    [
+     "Toplam Asya 2,5 Üst",
+     0.6071
+    ],
+    [
+     "Toplam Asya 2,5 Alt",
+     0.3929
+    ],
+    [
+     "Toplam Asya 2,75 Üst",
+     0.5579
+    ],
+    [
+     "Toplam Asya 2,75 Alt",
+     0.4421
+    ],
+    [
+     "Toplam Asya 3 Üst",
+     0.4947
+    ],
+    [
+     "Toplam Asya 3 Alt",
+     0.5053
+    ],
+    [
+     "Toplam Asya 3,25 Üst",
+     0.4328
+    ],
+    [
+     "Toplam Asya 3,25 Alt",
+     0.5672
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Cruzeiro EC : Toplam Gol Asya",
+   "oneri": "Cruzeiro EC Asya 2,25 Alt",
+   "olasilik": 0.7694,
+   "adil_oran": 1.3,
+   "en_olasi": "Cruzeiro EC Asya 2,25 Alt",
+   "en_olasi_p": 0.7694,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC Asya 0,75 Üst",
+     0.7418
+    ],
+    [
+     "Cruzeiro EC Asya 0,75 Alt",
+     0.2582
+    ],
+    [
+     "Cruzeiro EC Asya 1 Üst",
+     0.6786
+    ],
+    [
+     "Cruzeiro EC Asya 1 Alt",
+     0.3214
+    ],
+    [
+     "Cruzeiro EC Asya 1,25 Üst",
+     0.545
+    ],
+    [
+     "Cruzeiro EC Asya 1,25 Alt",
+     0.455
+    ],
+    [
+     "Cruzeiro EC Asya 1,5 Üst",
+     0.4554
+    ],
+    [
+     "Cruzeiro EC Asya 1,5 Alt",
+     0.5446
+    ],
+    [
+     "Cruzeiro EC Asya 1,75 Üst",
+     0.3761
+    ],
+    [
+     "Cruzeiro EC Asya 1,75 Alt",
+     0.6239
+    ],
+    [
+     "Cruzeiro EC Asya 2 Üst",
+     0.2699
+    ],
+    [
+     "Cruzeiro EC Asya 2 Alt",
+     0.7301
+    ],
+    [
+     "Cruzeiro EC Asya 2,25 Üst",
+     0.2306
+    ],
+    [
+     "Cruzeiro EC Asya 2,25 Alt",
+     0.7694
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "SE Palmeiras : Toplam Gol Asya",
+   "oneri": "SE Palmeiras Asya 0,5 Üst",
+   "olasilik": 0.7975,
+   "adil_oran": 1.25,
+   "en_olasi": "SE Palmeiras Asya 0,25 Üst",
+   "en_olasi_p": 0.8874,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "SE Palmeiras Asya 0,25 Üst",
+     0.8874
+    ],
+    [
+     "SE Palmeiras Asya 0,25 Alt",
+     0.1126
+    ],
+    [
+     "SE Palmeiras Asya 0,5 Üst",
+     0.7975
+    ],
+    [
+     "SE Palmeiras Asya 0,5 Alt",
+     0.2025
+    ],
+    [
+     "SE Palmeiras Asya 0,75 Üst",
+     0.7586
+    ],
+    [
+     "SE Palmeiras Asya 0,75 Alt",
+     0.2414
+    ],
+    [
+     "SE Palmeiras Asya 1 Üst",
+     0.7012
+    ],
+    [
+     "SE Palmeiras Asya 1 Alt",
+     0.2988
+    ],
+    [
+     "SE Palmeiras Asya 1,25 Üst",
+     0.5665
+    ],
+    [
+     "SE Palmeiras Asya 1,25 Alt",
+     0.4335
+    ],
+    [
+     "SE Palmeiras Asya 1,5 Üst",
+     0.4752
+    ],
+    [
+     "SE Palmeiras Asya 1,5 Alt",
+     0.5248
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (3-İhtimalli)",
+   "oneri": "1 Üst",
+   "olasilik": 0.8202,
+   "adil_oran": 1.22,
+   "en_olasi": "1 Üst",
+   "en_olasi_p": 0.8202,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.043
+    ],
+    [
+     "Tam 1",
+     0.1369
+    ],
+    [
+     "1 Üst",
+     0.8202
+    ],
+    [
+     "2 Alt",
+     0.1799
+    ],
+    [
+     "Tam 2",
+     0.2131
+    ],
+    [
+     "2 Üst",
+     0.6071
+    ],
+    [
+     "3 Alt",
+     0.3929
+    ],
+    [
+     "Tam 3",
+     0.2224
+    ],
+    [
+     "3 Üst",
+     0.3847
+    ],
+    [
+     "4 Alt",
+     0.6153
+    ],
+    [
+     "Tam 4",
+     0.1763
+    ],
+    [
+     "4 Üst",
+     0.2084
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol Tek/Çift",
+   "oneri": "Tek",
+   "olasilik": 0.5003,
+   "adil_oran": 2.0,
+   "en_olasi": "Tek",
+   "en_olasi_p": 0.5003,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.5003
+    ],
+    [
+     "Çift",
+     0.4997
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Kesin)",
+   "oneri": "3 gol",
+   "olasilik": 0.2224,
+   "adil_oran": 4.5,
+   "en_olasi": "3 gol",
+   "en_olasi_p": 0.2224,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.043
+    ],
+    [
+     "1 gol",
+     0.1369
+    ],
+    [
+     "2 gol",
+     0.2131
+    ],
+    [
+     "3 gol",
+     0.2224
+    ],
+    [
+     "4 gol",
+     0.1763
+    ],
+    [
+     "5 gol",
+     0.1115
+    ],
+    [
+     "6+ gol",
+     0.0969
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Cruzeiro EC : Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3289,
+   "adil_oran": 3.04,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3289,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2157
+    ],
+    [
+     "1 gol",
+     0.3289
+    ],
+    [
+     "2 gol",
+     0.2541
+    ],
+    [
+     "3 gol",
+     0.1312
+    ],
+    [
+     "4+ gol",
+     0.0701
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "SE Palmeiras : Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3223,
+   "adil_oran": 3.1,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3223,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2025
+    ],
+    [
+     "1 gol",
+     0.3223
+    ],
+    [
+     "2 gol",
+     0.2587
+    ],
+    [
+     "3 gol",
+     0.1368
+    ],
+    [
+     "4+ gol",
+     0.0797
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Aralık)",
+   "oneri": "2-3 gol",
+   "olasilik": 0.4355,
+   "adil_oran": 2.3,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.4355,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.1799
+    ],
+    [
+     "2-3 gol",
+     0.4355
+    ],
+    [
+     "4-5 gol",
+     0.2878
+    ],
+    [
+     "6+ gol",
+     0.0969
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Cruzeiro EC : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.583,
+   "adil_oran": 1.72,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.583,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2157
+    ],
+    [
+     "1-2 gol",
+     0.583
+    ],
+    [
+     "3+ gol",
+     0.2013
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "SE Palmeiras : Toplam Gol (Aralık)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.581,
+   "adil_oran": 1.72,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.581,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2025
+    ],
+    [
+     "1-2 gol",
+     0.581
+    ],
+    [
+     "3+ gol",
+     0.2165
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Toplam Gol (Genişletilmiş Gol Aralığı)",
+   "oneri": "2-4 gol",
+   "olasilik": 0.6118,
+   "adil_oran": 1.63,
+   "en_olasi": "2-4 gol",
+   "en_olasi_p": 0.6118,
+   "guven": "yüksek",
+   "not_": "Sitedeki aralıklar farklı olabilir",
+   "secimler": [
+    [
+     "0 gol",
+     0.043
+    ],
+    [
+     "1-2 gol",
+     0.35
+    ],
+    [
+     "1-3 gol",
+     0.5724
+    ],
+    [
+     "2-3 gol",
+     0.4355
+    ],
+    [
+     "2-4 gol",
+     0.6118
+    ],
+    [
+     "3-4 gol",
+     0.3987
+    ],
+    [
+     "3-5 gol",
+     0.5102
+    ],
+    [
+     "4-6 gol",
+     0.3436
+    ],
+    [
+     "5+ gol",
+     0.2084
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Cruzeiro EC : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.583,
+   "adil_oran": 1.72,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.583,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.5446
+    ],
+    [
+     "1-2 gol",
+     0.583
+    ],
+    [
+     "2-3 gol",
+     0.3853
+    ],
+    [
+     "3+ gol",
+     0.2013
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "SE Palmeiras : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.581,
+   "adil_oran": 1.72,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.581,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.5248
+    ],
+    [
+     "1-2 gol",
+     0.581
+    ],
+    [
+     "2-3 gol",
+     0.3955
+    ],
+    [
+     "3+ gol",
+     0.2165
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Kesin Gol Sayısı",
+   "oneri": "3 gol",
+   "olasilik": 0.2224,
+   "adil_oran": 4.5,
+   "en_olasi": "3 gol",
+   "en_olasi_p": 0.2224,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.043
+    ],
+    [
+     "1 gol",
+     0.1369
+    ],
+    [
+     "2 gol",
+     0.2131
+    ],
+    [
+     "3 gol",
+     0.2224
+    ],
+    [
+     "4 gol",
+     0.1763
+    ],
+    [
+     "5 gol",
+     0.1115
+    ],
+    [
+     "6 gol",
+     0.0558
+    ],
+    [
+     "7+ gol",
+     0.0411
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 1 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8631,
+   "adil_oran": 1.16,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8631,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1369
+    ],
+    [
+     "Hayır",
+     0.8631
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 2 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7869,
+   "adil_oran": 1.27,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7869,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2131
+    ],
+    [
+     "Hayır",
+     0.7869
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 3 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7776,
+   "adil_oran": 1.29,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7776,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2224
+    ],
+    [
+     "Hayır",
+     0.7776
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Maçta 4 Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.8237,
+   "adil_oran": 1.21,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8237,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1763
+    ],
+    [
+     "Hayır",
+     0.8237
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "En Az Bir Takım Üst Gol Atar",
+   "oneri": "En az bir takım 1,5 Üst",
+   "olasilik": 0.7145,
+   "adil_oran": 1.4,
+   "en_olasi": "En az bir takım 0,5 Üst",
+   "en_olasi_p": 0.957,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "En az bir takım 0,5 Üst",
+     0.957
+    ],
+    [
+     "En az bir takım 1,5 Üst",
+     0.7145
+    ],
+    [
+     "En az bir takım 2,5 Üst",
+     0.3747
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "Cruzeiro EC : Asist Yapar. Toplam",
+   "oneri": "Cruzeiro EC asist 1,5 Alt",
+   "olasilik": 0.7366,
+   "adil_oran": 1.36,
+   "en_olasi": "Cruzeiro EC asist 2,5 Alt",
+   "en_olasi_p": 0.9205,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC asist 0,5 Üst",
+     0.6307
+    ],
+    [
+     "Cruzeiro EC asist 0,5 Alt",
+     0.3693
+    ],
+    [
+     "Cruzeiro EC asist 1,5 Üst",
+     0.2634
+    ],
+    [
+     "Cruzeiro EC asist 1,5 Alt",
+     0.7366
+    ],
+    [
+     "Cruzeiro EC asist 2,5 Üst",
+     0.0795
+    ],
+    [
+     "Cruzeiro EC asist 2,5 Alt",
+     0.9205
+    ]
+   ]
+  },
+  {
+   "kategori": "TOPLAM GOL",
+   "yontem": "gol",
+   "pazar": "SE Palmeiras : Asist Yapar. Toplam",
+   "oneri": "SE Palmeiras asist 1,5 Alt",
+   "olasilik": 0.7209,
+   "adil_oran": 1.39,
+   "en_olasi": "SE Palmeiras asist 1,5 Alt",
+   "en_olasi_p": 0.7209,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "SE Palmeiras asist 0,5 Üst",
+     0.6462
+    ],
+    [
+     "SE Palmeiras asist 0,5 Alt",
+     0.3538
+    ],
+    [
+     "SE Palmeiras asist 1,5 Üst",
+     0.2791
+    ],
+    [
+     "SE Palmeiras asist 1,5 Alt",
+     0.7209
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takımda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.6248,
+   "adil_oran": 1.6,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6248,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6248
+    ],
+    [
+     "Hayır",
+     0.3752
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.7839,
+   "adil_oran": 1.28,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7839,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2161
+    ],
+    [
+     "Hayır",
+     0.7839
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Cruzeiro EC : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.7843,
+   "adil_oran": 1.28,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7843,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7843
+    ],
+    [
+     "Hayır",
+     0.2157
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "SE Palmeiras : Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.7975,
+   "adil_oran": 1.25,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7975,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7975
+    ],
+    [
+     "Hayır",
+     0.2025
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Karşılıklı Gol ve Toplam Goller 2.5",
+   "oneri": "KG Var & Üst",
+   "olasilik": 0.5191,
+   "adil_oran": 1.93,
+   "en_olasi": "KG Var & Üst",
+   "en_olasi_p": 0.5191,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "KG Var & Üst",
+     0.5191
+    ],
+    [
+     "KG Var & Alt",
+     0.1057
+    ],
+    [
+     "KG Yok & Üst",
+     0.088
+    ],
+    [
+     "KG Yok & Alt",
+     0.2873
+    ]
+   ]
+  },
+  {
+   "kategori": "KARŞILIKLI GOL",
+   "yontem": "gol",
+   "pazar": "Her İki Yarıda da Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.9154,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9154,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0846
+    ],
+    [
+     "Hayır",
+     0.9154
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı",
+   "oneri": "SE Palmeiras +1,5",
+   "olasilik": 0.8216,
+   "adil_oran": 1.22,
+   "en_olasi": "SE Palmeiras +2,5",
+   "en_olasi_p": 0.9311,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC -2,5",
+     0.0689
+    ],
+    [
+     "SE Palmeiras +2,5",
+     0.9311
+    ],
+    [
+     "Cruzeiro EC -1,5",
+     0.1784
+    ],
+    [
+     "SE Palmeiras +1,5",
+     0.8216
+    ],
+    [
+     "Cruzeiro EC -0,5",
+     0.3694
+    ],
+    [
+     "SE Palmeiras +0,5",
+     0.6306
+    ],
+    [
+     "Cruzeiro EC +0,5",
+     0.6044
+    ],
+    [
+     "SE Palmeiras -0,5",
+     0.3956
+    ],
+    [
+     "Cruzeiro EC +1,5",
+     0.8024
+    ],
+    [
+     "SE Palmeiras -1,5",
+     0.1976
+    ],
+    [
+     "Cruzeiro EC +2,5",
+     0.9198
+    ],
+    [
+     "SE Palmeiras -2,5",
+     0.0802
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Goller Asya Handikapı",
+   "oneri": "SE Palmeiras Asya +1,5",
+   "olasilik": 0.8216,
+   "adil_oran": 1.22,
+   "en_olasi": "SE Palmeiras Asya +1,5",
+   "en_olasi_p": 0.8216,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC Asya -2",
+     0.0773
+    ],
+    [
+     "SE Palmeiras Asya -2",
+     0.0908
+    ],
+    [
+     "Cruzeiro EC Asya -1,75",
+     0.1308
+    ],
+    [
+     "SE Palmeiras Asya -1,75",
+     0.1475
+    ],
+    [
+     "Cruzeiro EC Asya -1,5",
+     0.1784
+    ],
+    [
+     "SE Palmeiras Asya -1,5",
+     0.1976
+    ],
+    [
+     "Cruzeiro EC Asya -1,25",
+     0.1972
+    ],
+    [
+     "SE Palmeiras Asya -1,25",
+     0.2193
+    ],
+    [
+     "Cruzeiro EC Asya -1",
+     0.2205
+    ],
+    [
+     "SE Palmeiras Asya -1",
+     0.2464
+    ],
+    [
+     "Cruzeiro EC Asya -0,75",
+     0.3028
+    ],
+    [
+     "SE Palmeiras Asya -0,75",
+     0.3292
+    ],
+    [
+     "Cruzeiro EC Asya -0,5",
+     0.3694
+    ],
+    [
+     "SE Palmeiras Asya -0,5",
+     0.3956
+    ],
+    [
+     "Cruzeiro EC Asya -0,25",
+     0.4186
+    ],
+    [
+     "SE Palmeiras Asya -0,25",
+     0.4483
+    ],
+    [
+     "Cruzeiro EC Asya 0",
+     0.4828
+    ],
+    [
+     "SE Palmeiras Asya 0",
+     0.5172
+    ],
+    [
+     "Cruzeiro EC Asya +0,25",
+     0.5517
+    ],
+    [
+     "SE Palmeiras Asya +0,25",
+     0.5814
+    ],
+    [
+     "Cruzeiro EC Asya +0,5",
+     0.6044
+    ],
+    [
+     "SE Palmeiras Asya +0,5",
+     0.6306
+    ],
+    [
+     "Cruzeiro EC Asya +0,75",
+     0.6708
+    ],
+    [
+     "SE Palmeiras Asya +0,75",
+     0.6972
+    ],
+    [
+     "Cruzeiro EC Asya +1",
+     0.7536
+    ],
+    [
+     "SE Palmeiras Asya +1",
+     0.7795
+    ],
+    [
+     "Cruzeiro EC Asya +1,25",
+     0.7807
+    ],
+    [
+     "SE Palmeiras Asya +1,25",
+     0.8028
+    ],
+    [
+     "Cruzeiro EC Asya +1,5",
+     0.8024
+    ],
+    [
+     "SE Palmeiras Asya +1,5",
+     0.8216
+    ]
+   ]
+  },
+  {
+   "kategori": "HANDİKAP",
+   "yontem": "gol",
+   "pazar": "Gol Handikapı (3-İhtimalli)",
+   "oneri": "SE Palmeiras (-2)",
+   "olasilik": 0.8216,
+   "adil_oran": 1.22,
+   "en_olasi": "SE Palmeiras (-3)",
+   "en_olasi_p": 0.9311,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC (-3)",
+     0.0223
+    ],
+    [
+     "X (-3)",
+     0.0465
+    ],
+    [
+     "SE Palmeiras (-3)",
+     0.9311
+    ],
+    [
+     "Cruzeiro EC (-2)",
+     0.0689
+    ],
+    [
+     "X (-2)",
+     0.1095
+    ],
+    [
+     "SE Palmeiras (-2)",
+     0.8216
+    ],
+    [
+     "Cruzeiro EC (-1)",
+     0.1784
+    ],
+    [
+     "X (-1)",
+     0.191
+    ],
+    [
+     "SE Palmeiras (-1)",
+     0.6306
+    ],
+    [
+     "Cruzeiro EC (+1)",
+     0.6044
+    ],
+    [
+     "X (+1)",
+     0.198
+    ],
+    [
+     "SE Palmeiras (+1)",
+     0.1976
+    ],
+    [
+     "Cruzeiro EC (+2)",
+     0.8024
+    ],
+    [
+     "X (+2)",
+     0.1174
+    ],
+    [
+     "SE Palmeiras (+2)",
+     0.0802
+    ],
+    [
+     "Cruzeiro EC (+3)",
+     0.9198
+    ],
+    [
+     "X (+3)",
+     0.0532
+    ],
+    [
+     "SE Palmeiras (+3)",
+     0.0269
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Cruzeiro EC Gol Atar ve Maç Sonucu",
+   "oneri": "1 & Cruzeiro EC gol atar",
+   "olasilik": 0.3694,
+   "adil_oran": 2.71,
+   "en_olasi": "1 & Cruzeiro EC gol atar",
+   "en_olasi_p": 0.3694,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Cruzeiro EC gol atar",
+     0.3694
+    ],
+    [
+     "1 & Cruzeiro EC gol atamaz",
+     0.0
+    ],
+    [
+     "X & Cruzeiro EC gol atar",
+     0.192
+    ],
+    [
+     "X & Cruzeiro EC gol atamaz",
+     0.043
+    ],
+    [
+     "2 & Cruzeiro EC gol atar",
+     0.2229
+    ],
+    [
+     "2 & Cruzeiro EC gol atamaz",
+     0.1727
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "SE Palmeiras Gol Atar ve Maç Sonucu",
+   "oneri": "2 & SE Palmeiras gol atar",
+   "olasilik": 0.3956,
+   "adil_oran": 2.53,
+   "en_olasi": "2 & SE Palmeiras gol atar",
+   "en_olasi_p": 0.3956,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & SE Palmeiras gol atar",
+     0.2099
+    ],
+    [
+     "1 & SE Palmeiras gol atamaz",
+     0.1595
+    ],
+    [
+     "X & SE Palmeiras gol atar",
+     0.192
+    ],
+    [
+     "X & SE Palmeiras gol atamaz",
+     0.043
+    ],
+    [
+     "2 & SE Palmeiras gol atar",
+     0.3956
+    ],
+    [
+     "2 & SE Palmeiras gol atamaz",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Karşılıklı Gol",
+   "oneri": "2 & KG Var",
+   "olasilik": 0.2229,
+   "adil_oran": 4.49,
+   "en_olasi": "2 & KG Var",
+   "en_olasi_p": 0.2229,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.2099
+    ],
+    [
+     "1 & KG Yok",
+     0.1595
+    ],
+    [
+     "X & KG Var",
+     0.192
+    ],
+    [
+     "X & KG Yok",
+     0.043
+    ],
+    [
+     "2 & KG Var",
+     0.2229
+    ],
+    [
+     "2 & KG Yok",
+     0.1727
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Karşılıklı Gol",
+   "oneri": "12 & KG Var",
+   "olasilik": 0.4327,
+   "adil_oran": 2.31,
+   "en_olasi": "12 & KG Var",
+   "en_olasi_p": 0.4327,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & KG Var",
+     0.4019
+    ],
+    [
+     "1X & KG Yok",
+     0.2025
+    ],
+    [
+     "12 & KG Var",
+     0.4327
+    ],
+    [
+     "12 & KG Yok",
+     0.3323
+    ],
+    [
+     "X2 & KG Var",
+     0.4149
+    ],
+    [
+     "X2 & KG Yok",
+     0.2157
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 1.5",
+   "oneri": "2 & 1,5 Üst",
+   "olasilik": 0.3263,
+   "adil_oran": 3.06,
+   "en_olasi": "2 & 1,5 Üst",
+   "en_olasi_p": 0.3263,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1,5 Üst",
+     0.3018
+    ],
+    [
+     "1 & 1,5 Alt",
+     0.0676
+    ],
+    [
+     "X & 1,5 Üst",
+     0.192
+    ],
+    [
+     "X & 1,5 Alt",
+     0.043
+    ],
+    [
+     "2 & 1,5 Üst",
+     0.3263
+    ],
+    [
+     "2 & 1,5 Alt",
+     0.0693
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 2.5",
+   "oneri": "2 & 2,5 Üst",
+   "olasilik": 0.2702,
+   "adil_oran": 3.7,
+   "en_olasi": "2 & 2,5 Üst",
+   "en_olasi_p": 0.2702,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 2,5 Üst",
+     0.2505
+    ],
+    [
+     "1 & 2,5 Alt",
+     0.1189
+    ],
+    [
+     "X & 2,5 Üst",
+     0.0864
+    ],
+    [
+     "X & 2,5 Alt",
+     0.1486
+    ],
+    [
+     "2 & 2,5 Üst",
+     0.2702
+    ],
+    [
+     "2 & 2,5 Alt",
+     0.1254
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 3.5",
+   "oneri": "2 & 3,5 Alt",
+   "olasilik": 0.2404,
+   "adil_oran": 4.16,
+   "en_olasi": "2 & 3,5 Alt",
+   "en_olasi_p": 0.2404,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 3,5 Üst",
+     0.1431
+    ],
+    [
+     "1 & 3,5 Alt",
+     0.2263
+    ],
+    [
+     "X & 3,5 Üst",
+     0.0864
+    ],
+    [
+     "X & 3,5 Alt",
+     0.1486
+    ],
+    [
+     "2 & 3,5 Üst",
+     0.1552
+    ],
+    [
+     "2 & 3,5 Alt",
+     0.2404
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol 4.5",
+   "oneri": "2 & 4,5 Alt",
+   "olasilik": 0.2973,
+   "adil_oran": 3.36,
+   "en_olasi": "2 & 4,5 Alt",
+   "en_olasi_p": 0.2973,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 4,5 Üst",
+     0.0896
+    ],
+    [
+     "1 & 4,5 Alt",
+     0.2798
+    ],
+    [
+     "X & 4,5 Üst",
+     0.0204
+    ],
+    [
+     "X & 4,5 Alt",
+     0.2146
+    ],
+    [
+     "2 & 4,5 Üst",
+     0.0984
+    ],
+    [
+     "2 & 4,5 Alt",
+     0.2973
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Cruzeiro EC : Toplam Gol",
+   "oneri": "2 & Cruzeiro EC 1,5 Alt",
+   "olasilik": 0.3284,
+   "adil_oran": 3.05,
+   "en_olasi": "2 & Cruzeiro EC 1,5 Alt",
+   "en_olasi_p": 0.3284,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & Cruzeiro EC 1,5 Üst",
+     0.3018
+    ],
+    [
+     "1 & Cruzeiro EC 1,5 Alt",
+     0.0676
+    ],
+    [
+     "X & Cruzeiro EC 1,5 Üst",
+     0.0864
+    ],
+    [
+     "X & Cruzeiro EC 1,5 Alt",
+     0.1486
+    ],
+    [
+     "2 & Cruzeiro EC 1,5 Üst",
+     0.0672
+    ],
+    [
+     "2 & Cruzeiro EC 1,5 Alt",
+     0.3284
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve SE Palmeiras : Toplam Gol",
+   "oneri": "2 & SE Palmeiras 0,5 Üst",
+   "olasilik": 0.3956,
+   "adil_oran": 2.53,
+   "en_olasi": "2 & SE Palmeiras 0,5 Üst",
+   "en_olasi_p": 0.3956,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & SE Palmeiras 0,5 Üst",
+     0.2099
+    ],
+    [
+     "1 & SE Palmeiras 0,5 Alt",
+     0.1595
+    ],
+    [
+     "X & SE Palmeiras 0,5 Üst",
+     0.192
+    ],
+    [
+     "X & SE Palmeiras 0,5 Alt",
+     0.043
+    ],
+    [
+     "2 & SE Palmeiras 0,5 Üst",
+     0.3956
+    ],
+    [
+     "2 & SE Palmeiras 0,5 Alt",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Toplam Gol",
+   "oneri": "X veya 2,5 Üst",
+   "olasilik": 0.7557,
+   "adil_oran": 1.32,
+   "en_olasi": "X veya 2,5 Üst",
+   "en_olasi_p": 0.7557,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 2,5 Üst",
+     0.7259
+    ],
+    [
+     "1 veya 2,5 Alt",
+     0.6434
+    ],
+    [
+     "X veya 2,5 Üst",
+     0.7557
+    ],
+    [
+     "X veya 2,5 Alt",
+     0.4793
+    ],
+    [
+     "2 veya 2,5 Üst",
+     0.7325
+    ],
+    [
+     "2 veya 2,5 Alt",
+     0.6631
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Maç Sonucu ve Toplam Gol (Kesin)",
+   "oneri": "2 & 3 gol",
+   "olasilik": 0.115,
+   "adil_oran": 8.7,
+   "en_olasi": "2 & 3 gol",
+   "en_olasi_p": 0.115,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 0 gol",
+     0.0
+    ],
+    [
+     "1 & 1 gol",
+     0.0676
+    ],
+    [
+     "1 & 2 gol",
+     0.0513
+    ],
+    [
+     "1 & 3 gol",
+     0.1074
+    ],
+    [
+     "1 & 4 gol",
+     0.0535
+    ],
+    [
+     "1 & 5 gol",
+     0.0542
+    ],
+    [
+     "X & 0 gol",
+     0.043
+    ],
+    [
+     "X & 1 gol",
+     0.0
+    ],
+    [
+     "X & 2 gol",
+     0.1057
+    ],
+    [
+     "X & 3 gol",
+     0.0
+    ],
+    [
+     "X & 4 gol",
+     0.066
+    ],
+    [
+     "X & 5 gol",
+     0.0
+    ],
+    [
+     "2 & 0 gol",
+     0.0
+    ],
+    [
+     "2 & 1 gol",
+     0.0693
+    ],
+    [
+     "2 & 2 gol",
+     0.0561
+    ],
+    [
+     "2 & 3 gol",
+     0.115
+    ],
+    [
+     "2 & 4 gol",
+     0.0568
+    ],
+    [
+     "2 & 5 gol",
+     0.0573
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "2 & 1-3 gol",
+   "olasilik": 0.2404,
+   "adil_oran": 4.16,
+   "en_olasi": "2 & 1-3 gol",
+   "en_olasi_p": 0.2404,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & 1-2 gol",
+     0.1189
+    ],
+    [
+     "1 & 1-3 gol",
+     0.2263
+    ],
+    [
+     "1 & 2-3 gol",
+     0.1587
+    ],
+    [
+     "1 & 2-4 gol",
+     0.2122
+    ],
+    [
+     "1 & 3-4 gol",
+     0.1609
+    ],
+    [
+     "1 & 3-5 gol",
+     0.2151
+    ],
+    [
+     "X & 1-2 gol",
+     0.1057
+    ],
+    [
+     "X & 1-3 gol",
+     0.1057
+    ],
+    [
+     "X & 2-3 gol",
+     0.1057
+    ],
+    [
+     "X & 2-4 gol",
+     0.1717
+    ],
+    [
+     "X & 3-4 gol",
+     0.066
+    ],
+    [
+     "X & 3-5 gol",
+     0.066
+    ],
+    [
+     "2 & 1-2 gol",
+     0.1254
+    ],
+    [
+     "2 & 1-3 gol",
+     0.2404
+    ],
+    [
+     "2 & 2-3 gol",
+     0.1711
+    ],
+    [
+     "2 & 2-4 gol",
+     0.2279
+    ],
+    [
+     "2 & 3-4 gol",
+     0.1718
+    ],
+    [
+     "2 & 3-5 gol",
+     0.2291
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)",
+   "oneri": "12 & 1-3 gol",
+   "olasilik": 0.4667,
+   "adil_oran": 2.14,
+   "en_olasi": "12 & 1-3 gol",
+   "en_olasi_p": 0.4667,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1-2 gol",
+     0.2245
+    ],
+    [
+     "1X & 1-3 gol",
+     0.332
+    ],
+    [
+     "1X & 2-3 gol",
+     0.2644
+    ],
+    [
+     "1X & 2-4 gol",
+     0.3839
+    ],
+    [
+     "12 & 1-2 gol",
+     0.2443
+    ],
+    [
+     "12 & 1-3 gol",
+     0.4667
+    ],
+    [
+     "12 & 2-3 gol",
+     0.3298
+    ],
+    [
+     "12 & 2-4 gol",
+     0.4401
+    ],
+    [
+     "X2 & 1-2 gol",
+     0.2311
+    ],
+    [
+     "X2 & 1-3 gol",
+     0.3461
+    ],
+    [
+     "X2 & 2-3 gol",
+     0.2768
+    ],
+    [
+     "X2 & 2-4 gol",
+     0.3996
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Sonuç veya Doğru Skor",
+   "oneri": "2 veya 1-1",
+   "olasilik": 0.5013,
+   "adil_oran": 1.99,
+   "en_olasi": "2 veya 1-1",
+   "en_olasi_p": 0.5013,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 veya 1-1",
+     0.475
+    ],
+    [
+     "1 veya 1-2",
+     0.4543
+    ],
+    [
+     "1 veya 0-1",
+     0.4387
+    ],
+    [
+     "1 veya 2-2",
+     0.4354
+    ],
+    [
+     "X veya 1-2",
+     0.32
+    ],
+    [
+     "X veya 2-1",
+     0.3164
+    ],
+    [
+     "X veya 0-1",
+     0.3043
+    ],
+    [
+     "X veya 1-0",
+     0.3026
+    ],
+    [
+     "2 veya 1-1",
+     0.5013
+    ],
+    [
+     "2 veya 2-1",
+     0.477
+    ],
+    [
+     "2 veya 1-0",
+     0.4632
+    ],
+    [
+     "2 veya 2-2",
+     0.4616
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Her İki Yarı Toplam Gol Kombinasyonu",
+   "oneri": "İY Alt 1,5 & 2Y Üst 1,5",
+   "olasilik": 0.3115,
+   "adil_oran": 3.21,
+   "en_olasi": "İY Alt 1,5 & 2Y Üst 1,5",
+   "en_olasi_p": 0.3115,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Alt 1,5 & 2Y Alt 1,5",
+     0.2865
+    ],
+    [
+     "İY Alt 1,5 & 2Y Üst 1,5",
+     0.3115
+    ],
+    [
+     "İY Üst 1,5 & 2Y Alt 1,5",
+     0.1909
+    ],
+    [
+     "İY Üst 1,5 & 2Y Üst 1,5",
+     0.2111
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Farklı Kombineler",
+   "oneri": "2 & 2Y gol olur",
+   "olasilik": 0.3415,
+   "adil_oran": 2.93,
+   "en_olasi": "2 & 2Y gol olur",
+   "en_olasi_p": 0.3415,
+   "guven": "yüksek",
+   "not_": "Sitedeki kombinasyon içerikleri farklı olabilir",
+   "secimler": [
+    [
+     "1 & 2Y gol olur",
+     0.3186
+    ],
+    [
+     "2 & 2Y gol olur",
+     0.3415
+    ],
+    [
+     "Cruzeiro EC her iki yarıda gol & 1",
+     0.2009
+    ],
+    [
+     "SE Palmeiras her iki yarıda gol & 2",
+     0.2182
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "Çifte Şans Kombo",
+   "oneri": "12 & 1,5 Üst",
+   "olasilik": 0.6281,
+   "adil_oran": 1.59,
+   "en_olasi": "12 & 1,5 Üst",
+   "en_olasi_p": 0.6281,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X & 1,5 Üst",
+     0.4938
+    ],
+    [
+     "1X & 1,5 Alt",
+     0.1105
+    ],
+    [
+     "1X & 2,5 Üst",
+     0.3369
+    ],
+    [
+     "1X & 2,5 Alt",
+     0.2675
+    ],
+    [
+     "1X & 3,5 Üst",
+     0.2295
+    ],
+    [
+     "1X & 3,5 Alt",
+     0.3749
+    ],
+    [
+     "12 & 1,5 Üst",
+     0.6281
+    ],
+    [
+     "12 & 1,5 Alt",
+     0.1369
+    ],
+    [
+     "12 & 2,5 Üst",
+     0.5207
+    ],
+    [
+     "12 & 2,5 Alt",
+     0.2443
+    ],
+    [
+     "12 & 3,5 Üst",
+     0.2983
+    ],
+    [
+     "12 & 3,5 Alt",
+     0.4667
+    ],
+    [
+     "X2 & 1,5 Üst",
+     0.5184
+    ],
+    [
+     "X2 & 1,5 Alt",
+     0.1123
+    ],
+    [
+     "X2 & 2,5 Üst",
+     0.3566
+    ],
+    [
+     "X2 & 2,5 Alt",
+     0.2741
+    ],
+    [
+     "X2 & 3,5 Üst",
+     0.2416
+    ],
+    [
+     "X2 & 3,5 Alt",
+     0.389
+    ]
+   ]
+  },
+  {
+   "kategori": "KOMBİNE (SONUÇ + GOL)",
+   "yontem": "gol",
+   "pazar": "İlk Yarı/Maç Sonucu ve Toplam Gol",
+   "oneri": "2/2 & 2,5 Üst",
+   "olasilik": 0.1653,
+   "adil_oran": 6.05,
+   "en_olasi": "2/2 & 2,5 Üst",
+   "en_olasi_p": 0.1653,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1 & 2,5 Üst",
+     0.1513
+    ],
+    [
+     "1/1 & 2,5 Alt",
+     0.065
+    ],
+    [
+     "1/X & 2,5 Üst",
+     0.0272
+    ],
+    [
+     "1/X & 2,5 Alt",
+     0.0268
+    ],
+    [
+     "1/2 & 2,5 Üst",
+     0.0283
+    ],
+    [
+     "1/2 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "X/1 & 2,5 Üst",
+     0.0723
+    ],
+    [
+     "X/1 & 2,5 Alt",
+     0.0539
+    ],
+    [
+     "X/X & 2,5 Üst",
+     0.0311
+    ],
+    [
+     "X/X & 2,5 Alt",
+     0.0957
+    ],
+    [
+     "X/2 & 2,5 Üst",
+     0.0766
+    ],
+    [
+     "X/2 & 2,5 Alt",
+     0.0562
+    ],
+    [
+     "2/1 & 2,5 Üst",
+     0.0269
+    ],
+    [
+     "2/1 & 2,5 Alt",
+     0.0
+    ],
+    [
+     "2/X & 2,5 Üst",
+     0.028
+    ],
+    [
+     "2/X & 2,5 Alt",
+     0.0261
+    ],
+    [
+     "2/2 & 2,5 Üst",
+     0.1653
+    ],
+    [
+     "2/2 & 2,5 Alt",
+     0.0692
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Her İki Yarıda Gol Olur",
+   "oneri": "Evet",
+   "olasilik": 0.6222,
+   "adil_oran": 1.61,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6222,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6222
+    ],
+    [
+     "Hayır",
+     0.3777
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım",
+   "oneri": "SE Palmeiras",
+   "olasilik": 0.4868,
+   "adil_oran": 2.05,
+   "en_olasi": "SE Palmeiras",
+   "en_olasi_p": 0.4868,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC",
+     0.4703
+    ],
+    [
+     "Gol yok",
+     0.043
+    ],
+    [
+     "SE Palmeiras",
+     0.4868
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Son Golü Atacak Takım",
+   "oneri": "SE Palmeiras",
+   "olasilik": 0.4883,
+   "adil_oran": 2.05,
+   "en_olasi": "SE Palmeiras",
+   "en_olasi_p": 0.4883,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC",
+     0.4688
+    ],
+    [
+     "Gol yok",
+     0.043
+    ],
+    [
+     "SE Palmeiras",
+     0.4883
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golün Atılma Şekli",
+   "oneri": "Şut",
+   "olasilik": 0.6859,
+   "adil_oran": 1.46,
+   "en_olasi": "Şut",
+   "en_olasi_p": 0.6859,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Şut",
+     0.6859
+    ],
+    [
+     "Kafa",
+     0.1464
+    ],
+    [
+     "Penaltı",
+     0.0612
+    ],
+    [
+     "Serbest vuruş",
+     0.0292
+    ],
+    [
+     "Kendi kalesine",
+     0.0343
+    ],
+    [
+     "Gol yok",
+     0.043
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı",
+   "oneri": "1-27 dk",
+   "olasilik": 0.5264,
+   "adil_oran": 1.9,
+   "en_olasi": "1-27 dk",
+   "en_olasi_p": 0.5264,
+   "guven": "orta",
+   "not_": "Sınır 27. dk varsayıldı",
+   "secimler": [
+    [
+     "1-27 dk",
+     0.5264
+    ],
+    [
+     "28-90 dk",
+     0.4306
+    ],
+    [
+     "Gol yok",
+     0.043
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "Cruzeiro EC : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.2157,
+   "adil_oran": 4.64,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.2157,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.122
+    ],
+    [
+     "11-20 dk",
+     0.1122
+    ],
+    [
+     "21-30 dk",
+     0.103
+    ],
+    [
+     "31-40 dk",
+     0.0939
+    ],
+    [
+     "41-50 dk",
+     0.0963
+    ],
+    [
+     "51-60 dk",
+     0.069
+    ],
+    [
+     "61-70 dk",
+     0.0624
+    ],
+    [
+     "71-80 dk",
+     0.0554
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0701
+    ],
+    [
+     "Gol yok",
+     0.2157
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "SE Palmeiras : 1. Gol Zamanı (10 dk. Ara)",
+   "oneri": "Gol yok",
+   "olasilik": 0.2025,
+   "adil_oran": 4.94,
+   "en_olasi": "Gol yok",
+   "en_olasi_p": 0.2025,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-10 dk",
+     0.1256
+    ],
+    [
+     "11-20 dk",
+     0.1153
+    ],
+    [
+     "21-30 dk",
+     0.1046
+    ],
+    [
+     "31-40 dk",
+     0.0959
+    ],
+    [
+     "41-50 dk",
+     0.0984
+    ],
+    [
+     "51-60 dk",
+     0.0707
+    ],
+    [
+     "61-70 dk",
+     0.0621
+    ],
+    [
+     "71-80 dk",
+     0.0551
+    ],
+    [
+     "81-90 (+uz.) dk",
+     0.0698
+    ],
+    [
+     "Gol yok",
+     0.2025
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "1. Gol Zamanı (15 dk.)",
+   "oneri": "1-15 dk",
+   "olasilik": 0.3306,
+   "adil_oran": 3.02,
+   "en_olasi": "1-15 dk",
+   "en_olasi_p": 0.3306,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1-15 dk",
+     0.3306
+    ],
+    [
+     "16-30 dk",
+     0.236
+    ],
+    [
+     "31-45 (+uz.) dk",
+     0.1786
+    ],
+    [
+     "46-60 dk",
+     0.0969
+    ],
+    [
+     "61-75 dk",
+     0.0636
+    ],
+    [
+     "76-90 (+uz.) dk",
+     0.0513
+    ],
+    [
+     "Gol yok",
+     0.043
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve Maç Sonucu",
+   "oneri": "İlk gol SE Palmeiras & 2",
+   "olasilik": 0.323,
+   "adil_oran": 3.1,
+   "en_olasi": "İlk gol SE Palmeiras & 2",
+   "en_olasi_p": 0.323,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Cruzeiro EC & 1",
+     0.3015
+    ],
+    [
+     "İlk gol Cruzeiro EC & X",
+     0.0961
+    ],
+    [
+     "İlk gol Cruzeiro EC & 2",
+     0.0726
+    ],
+    [
+     "İlk gol SE Palmeiras & 1",
+     0.0678
+    ],
+    [
+     "İlk gol SE Palmeiras & X",
+     0.0959
+    ],
+    [
+     "İlk gol SE Palmeiras & 2",
+     0.323
+    ],
+    [
+     "Gol yok",
+     0.043
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 1. Yarı Sonucu",
+   "oneri": "İlk gol SE Palmeiras & İY 2",
+   "olasilik": 0.2958,
+   "adil_oran": 3.38,
+   "en_olasi": "İlk gol SE Palmeiras & İY 2",
+   "en_olasi_p": 0.2958,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Cruzeiro EC & İY 1",
+     0.2803
+    ],
+    [
+     "İlk gol Cruzeiro EC & İY X",
+     0.1703
+    ],
+    [
+     "İlk gol Cruzeiro EC & İY 2",
+     0.0197
+    ],
+    [
+     "İlk gol SE Palmeiras & İY 1",
+     0.0184
+    ],
+    [
+     "İlk gol SE Palmeiras & İY X",
+     0.1725
+    ],
+    [
+     "İlk gol SE Palmeiras & İY 2",
+     0.2958
+    ],
+    [
+     "Gol yok",
+     0.043
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL SÜRESİ / İLK-SON GOL",
+   "yontem": "gol-zaman",
+   "pazar": "İlk Golü Atacak Takım ve 2. Yarı Sonucu",
+   "oneri": "İlk gol SE Palmeiras & 2Y 2",
+   "olasilik": 0.2081,
+   "adil_oran": 4.81,
+   "en_olasi": "İlk gol SE Palmeiras & 2Y 2",
+   "en_olasi_p": 0.2081,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk gol Cruzeiro EC & 2Y 1",
+     0.1938
+    ],
+    [
+     "İlk gol Cruzeiro EC & 2Y X",
+     0.1404
+    ],
+    [
+     "İlk gol Cruzeiro EC & 2Y 2",
+     0.1362
+    ],
+    [
+     "İlk gol SE Palmeiras & 2Y 1",
+     0.1323
+    ],
+    [
+     "İlk gol SE Palmeiras & 2Y X",
+     0.1464
+    ],
+    [
+     "İlk gol SE Palmeiras & 2Y 2",
+     0.2081
+    ],
+    [
+     "Gol yok",
+     0.043
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Doğru Skor",
+   "oneri": "1-1",
+   "olasilik": 0.1057,
+   "adil_oran": 9.46,
+   "en_olasi": "1-1",
+   "en_olasi_p": 0.1057,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1-1",
+     0.1057
+    ],
+    [
+     "1-2",
+     0.085
+    ],
+    [
+     "2-1",
+     0.0814
+    ],
+    [
+     "0-1",
+     0.0693
+    ],
+    [
+     "1-0",
+     0.0676
+    ],
+    [
+     "2-2",
+     0.066
+    ],
+    [
+     "0-2",
+     0.0561
+    ],
+    [
+     "2-0",
+     0.0513
+    ],
+    [
+     "1-3",
+     0.0447
+    ],
+    [
+     "Diğer",
+     0.0437
+    ],
+    [
+     "3-1",
+     0.0432
+    ],
+    [
+     "0-0",
+     0.043
+    ],
+    [
+     "2-3",
+     0.0353
+    ],
+    [
+     "3-2",
+     0.0344
+    ],
+    [
+     "0-3",
+     0.03
+    ],
+    [
+     "3-0",
+     0.026
+    ],
+    [
+     "1-4",
+     0.0181
+    ],
+    [
+     "3-3",
+     0.0172
+    ],
+    [
+     "4-1",
+     0.0164
+    ],
+    [
+     "2-4",
+     0.014
+    ],
+    [
+     "4-2",
+     0.0124
+    ],
+    [
+     "0-4",
+     0.0121
+    ],
+    [
+     "4-0",
+     0.0103
+    ],
+    [
+     "3-4",
+     0.0074
+    ],
+    [
+     "4-3",
+     0.0066
+    ],
+    [
+     "4-4",
+     0.0029
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Herhangi Bir Zamanda Doğru Skor",
+   "oneri": "0-1 herhangi bir anda",
+   "olasilik": 0.4798,
+   "adil_oran": 2.08,
+   "en_olasi": "0-1 herhangi bir anda",
+   "en_olasi_p": 0.4798,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 herhangi bir anda",
+     0.4798
+    ],
+    [
+     "1-0 herhangi bir anda",
+     0.4629
+    ],
+    [
+     "1-1 herhangi bir anda",
+     0.4028
+    ],
+    [
+     "1-2 herhangi bir anda",
+     0.2272
+    ],
+    [
+     "2-1 herhangi bir anda",
+     0.2198
+    ],
+    [
+     "0-2 herhangi bir anda",
+     0.2099
+    ],
+    [
+     "2-0 herhangi bir anda",
+     0.1941
+    ],
+    [
+     "2-2 herhangi bir anda",
+     0.1418
+    ],
+    [
+     "1-3 herhangi bir anda",
+     0.0967
+    ],
+    [
+     "3-1 herhangi bir anda",
+     0.0914
+    ],
+    [
+     "0-3 herhangi bir anda",
+     0.0792
+    ],
+    [
+     "3-0 herhangi bir anda",
+     0.0704
+    ],
+    [
+     "2-3 herhangi bir anda",
+     0.0653
+    ],
+    [
+     "3-2 herhangi bir anda",
+     0.0622
+    ],
+    [
+     "3-3 herhangi bir anda",
+     0.0296
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Skor Kombinasyonları",
+   "oneri": "SE Palmeiras 0-1/0-2/1-2",
+   "olasilik": 0.2104,
+   "adil_oran": 4.75,
+   "en_olasi": "SE Palmeiras 0-1/0-2/1-2",
+   "en_olasi_p": 0.2104,
+   "guven": "yüksek",
+   "not_": "Sitedeki gruplar farklı olabilir",
+   "secimler": [
+    [
+     "Cruzeiro EC 1-0/2-0/2-1",
+     0.2003
+    ],
+    [
+     "Cruzeiro EC 3-0/3-1/4-0",
+     0.0795
+    ],
+    [
+     "0-0/1-1",
+     0.1486
+    ],
+    [
+     "SE Palmeiras 0-1/0-2/1-2",
+     0.2104
+    ],
+    [
+     "SE Palmeiras 0-3/1-3/0-4",
+     0.0868
+    ],
+    [
+     "2-2/3-3",
+     0.0832
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "1.Yarı/Maç Skoru",
+   "oneri": "İY 0-0 / MS 0-0",
+   "olasilik": 0.043,
+   "adil_oran": 23.28,
+   "en_olasi": "İY 0-0 / MS 0-0",
+   "en_olasi_p": 0.043,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 0-0 / MS 0-0",
+     0.043
+    ],
+    [
+     "İY 0-0 / MS 0-1",
+     0.0388
+    ],
+    [
+     "İY 0-0 / MS 1-0",
+     0.038
+    ],
+    [
+     "İY 0-0 / MS 1-1",
+     0.0328
+    ],
+    [
+     "İY 0-1 / MS 0-1",
+     0.0305
+    ],
+    [
+     "İY 1-0 / MS 1-0",
+     0.0296
+    ],
+    [
+     "İY 0-1 / MS 0-2",
+     0.0279
+    ],
+    [
+     "İY 1-0 / MS 1-1",
+     0.0268
+    ],
+    [
+     "İY 0-1 / MS 1-1",
+     0.0261
+    ],
+    [
+     "İY 1-0 / MS 2-0",
+     0.0258
+    ],
+    [
+     "İY 0-1 / MS 1-2",
+     0.0228
+    ],
+    [
+     "İY 1-0 / MS 2-1",
+     0.0223
+    ]
+   ]
+  },
+  {
+   "kategori": "DOĞRU SKOR",
+   "yontem": "gol",
+   "pazar": "Maç Skoru Beraberlik (0-0 hariç)",
+   "oneri": "Hayır",
+   "olasilik": 0.8079,
+   "adil_oran": 1.24,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8079,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.192
+    ],
+    [
+     "Hayır",
+     0.8079
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Cruzeiro EC Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.191,
+   "adil_oran": 5.24,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.191,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.191
+    ],
+    [
+     "2 farkla",
+     0.1095
+    ],
+    [
+     "3 farkla",
+     0.0465
+    ],
+    [
+     "4+ farkla",
+     0.0223
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "SE Palmeiras : Kesin Gol Farkıyla Kazanır",
+   "oneri": "1 farkla",
+   "olasilik": 0.198,
+   "adil_oran": 5.05,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.198,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.198
+    ],
+    [
+     "2 farkla",
+     0.1174
+    ],
+    [
+     "3 farkla",
+     0.0532
+    ],
+    [
+     "4+ farkla",
+     0.0269
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Cruzeiro EC Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.1327,
+   "adil_oran": 7.54,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.1327,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.0676
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.1327
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.1035
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.0655
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "SE Palmeiras Kazanır ve Kesin Gol Atar",
+   "oneri": "Kazanır & 2 gol",
+   "olasilik": 0.1411,
+   "adil_oran": 7.09,
+   "en_olasi": "Kazanır & 2 gol",
+   "en_olasi_p": 0.1411,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Kazanır & 1 gol",
+     0.0693
+    ],
+    [
+     "Kazanır & 2 gol",
+     0.1411
+    ],
+    [
+     "Kazanır & 3 gol",
+     0.11
+    ],
+    [
+     "Kazanır & 4+ gol",
+     0.0752
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Cruzeiro EC Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8405,
+   "adil_oran": 1.19,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8405,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1595
+    ],
+    [
+     "Hayır",
+     0.8405
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "SE Palmeiras Gol Yemeden Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8273,
+   "adil_oran": 1.21,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8273,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1727
+    ],
+    [
+     "Hayır",
+     0.8273
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Cruzeiro EC İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8439,
+   "adil_oran": 1.18,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8439,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.156
+    ],
+    [
+     "Hayır",
+     0.8439
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "SE Palmeiras İki veya Üç Gol Farkla Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8294,
+   "adil_oran": 1.21,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8294,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1706
+    ],
+    [
+     "Hayır",
+     0.8294
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Cruzeiro EC Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.574,
+   "adil_oran": 1.74,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.574,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.426
+    ],
+    [
+     "Hayır",
+     0.574
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "SE Palmeiras Bir Gol Farkla Kazanır veya Berabere Kalır",
+   "oneri": "Hayır",
+   "olasilik": 0.5669,
+   "adil_oran": 1.76,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5669,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.433
+    ],
+    [
+     "Hayır",
+     0.5669
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Cruzeiro EC En Az Bir Yarıyı Kazanır",
+   "oneri": "Evet",
+   "olasilik": 0.527,
+   "adil_oran": 1.9,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.527,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.527
+    ],
+    [
+     "Hayır",
+     0.473
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "SE Palmeiras En Az Bir Yarıyı Kazanır",
+   "oneri": "Evet",
+   "olasilik": 0.5514,
+   "adil_oran": 1.81,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5514,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5514
+    ],
+    [
+     "Hayır",
+     0.4486
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "Cruzeiro EC İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.9176,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9176,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0824
+    ],
+    [
+     "Hayır",
+     0.9176
+    ]
+   ]
+  },
+  {
+   "kategori": "KAZANMA ŞEKLİ",
+   "yontem": "gol",
+   "pazar": "SE Palmeiras İlk Yarıyı Kazanır ve Maçı Kazanamaz",
+   "oneri": "Hayır",
+   "olasilik": 0.919,
+   "adil_oran": 1.09,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.919,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.081
+    ],
+    [
+     "Hayır",
+     0.919
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Sonucu",
+   "oneri": "X",
+   "olasilik": 0.3858,
+   "adil_oran": 2.59,
+   "en_olasi": "X",
+   "en_olasi_p": 0.3858,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Cruzeiro EC)",
+     0.2987
+    ],
+    [
+     "X",
+     0.3858
+    ],
+    [
+     "2 (SE Palmeiras)",
+     0.3155
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Çifte Şans",
+   "oneri": "X2",
+   "olasilik": 0.7013,
+   "adil_oran": 1.43,
+   "en_olasi": "X2",
+   "en_olasi_p": 0.7013,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.6845
+    ],
+    [
+     "12",
+     0.6142
+    ],
+    [
+     "X2",
+     0.7013
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.7496,
+   "adil_oran": 1.33,
+   "en_olasi": "Toplam 2,5 Alt",
+   "en_olasi_p": 0.8381,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.7496
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.2504
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.4021
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.5979
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.1619
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.8381
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 1. Takım Toplam Gol",
+   "oneri": "Cruzeiro EC 0,5 Alt",
+   "olasilik": 0.5071,
+   "adil_oran": 1.97,
+   "en_olasi": "Cruzeiro EC 1,5 Alt",
+   "en_olasi_p": 0.853,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC 0,5 Üst",
+     0.4929
+    ],
+    [
+     "Cruzeiro EC 0,5 Alt",
+     0.5071
+    ],
+    [
+     "Cruzeiro EC 1,5 Üst",
+     0.1469
+    ],
+    [
+     "Cruzeiro EC 1,5 Alt",
+     0.853
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı 2. Takım Toplam Gol",
+   "oneri": "SE Palmeiras 0,5 Üst",
+   "olasilik": 0.5062,
+   "adil_oran": 1.98,
+   "en_olasi": "SE Palmeiras 1,5 Alt",
+   "en_olasi_p": 0.8423,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "SE Palmeiras 0,5 Üst",
+     0.5062
+    ],
+    [
+     "SE Palmeiras 0,5 Alt",
+     0.4938
+    ],
+    [
+     "SE Palmeiras 1,5 Üst",
+     0.1577
+    ],
+    [
+     "SE Palmeiras 1,5 Alt",
+     0.8423
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Cruzeiro EC Toplam Gol Asya",
+   "oneri": "Cruzeiro EC Asya 1 Alt",
+   "olasilik": 0.7753,
+   "adil_oran": 1.29,
+   "en_olasi": "Cruzeiro EC Asya 1 Alt",
+   "en_olasi_p": 0.7753,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC Asya 0,5 Üst",
+     0.4929
+    ],
+    [
+     "Cruzeiro EC Asya 0,5 Alt",
+     0.5071
+    ],
+    [
+     "Cruzeiro EC Asya 0,75 Üst",
+     0.3868
+    ],
+    [
+     "Cruzeiro EC Asya 0,75 Alt",
+     0.6132
+    ],
+    [
+     "Cruzeiro EC Asya 1 Üst",
+     0.2247
+    ],
+    [
+     "Cruzeiro EC Asya 1 Alt",
+     0.7753
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı SE Palmeiras Toplam Gol Asya",
+   "oneri": "SE Palmeiras Asya 0,25 Üst",
+   "olasilik": 0.6722,
+   "adil_oran": 1.49,
+   "en_olasi": "SE Palmeiras Asya 0,25 Üst",
+   "en_olasi_p": 0.6722,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "SE Palmeiras Asya 0,25 Üst",
+     0.6722
+    ],
+    [
+     "SE Palmeiras Asya 0,25 Alt",
+     0.3278
+    ],
+    [
+     "SE Palmeiras Asya 0,5 Üst",
+     0.5062
+    ],
+    [
+     "SE Palmeiras Asya 0,5 Alt",
+     0.4938
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7505,
+   "adil_oran": 1.33,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7505,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2495
+    ],
+    [
+     "Hayır",
+     0.7505
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı",
+   "oneri": "SE Palmeiras +0,5",
+   "olasilik": 0.7013,
+   "adil_oran": 1.43,
+   "en_olasi": "SE Palmeiras +1,5",
+   "en_olasi_p": 0.9163,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC -1,5",
+     0.0837
+    ],
+    [
+     "SE Palmeiras +1,5",
+     0.9163
+    ],
+    [
+     "Cruzeiro EC -0,5",
+     0.2987
+    ],
+    [
+     "SE Palmeiras +0,5",
+     0.7013
+    ],
+    [
+     "Cruzeiro EC +0,5",
+     0.6845
+    ],
+    [
+     "SE Palmeiras -0,5",
+     0.3155
+    ],
+    [
+     "Cruzeiro EC +1,5",
+     0.9074
+    ],
+    [
+     "SE Palmeiras -1,5",
+     0.0926
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Goller Asya Handikapı",
+   "oneri": "SE Palmeiras Asya +0,5",
+   "olasilik": 0.7013,
+   "adil_oran": 1.43,
+   "en_olasi": "SE Palmeiras Asya +0,5",
+   "en_olasi_p": 0.7013,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC Asya -1",
+     0.1067
+    ],
+    [
+     "SE Palmeiras Asya -1",
+     0.1191
+    ],
+    [
+     "Cruzeiro EC Asya -0,75",
+     0.2143
+    ],
+    [
+     "SE Palmeiras Asya -0,75",
+     0.2296
+    ],
+    [
+     "Cruzeiro EC Asya -0,5",
+     0.2987
+    ],
+    [
+     "SE Palmeiras Asya -0,5",
+     0.3155
+    ],
+    [
+     "Cruzeiro EC Asya -0,25",
+     0.3701
+    ],
+    [
+     "SE Palmeiras Asya -0,25",
+     0.3909
+    ],
+    [
+     "Cruzeiro EC Asya 0",
+     0.4864
+    ],
+    [
+     "SE Palmeiras Asya 0",
+     0.5136
+    ],
+    [
+     "Cruzeiro EC Asya +0,25",
+     0.6091
+    ],
+    [
+     "SE Palmeiras Asya +0,25",
+     0.6299
+    ],
+    [
+     "Cruzeiro EC Asya +0,5",
+     0.6845
+    ],
+    [
+     "SE Palmeiras Asya +0,5",
+     0.7013
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "SE Palmeiras (-1)",
+   "olasilik": 0.7013,
+   "adil_oran": 1.43,
+   "en_olasi": "SE Palmeiras (-2)",
+   "en_olasi_p": 0.9163,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC (-2)",
+     0.0171
+    ],
+    [
+     "X (-2)",
+     0.0666
+    ],
+    [
+     "SE Palmeiras (-2)",
+     0.9163
+    ],
+    [
+     "Cruzeiro EC (-1)",
+     0.0837
+    ],
+    [
+     "X (-1)",
+     0.215
+    ],
+    [
+     "SE Palmeiras (-1)",
+     0.7013
+    ],
+    [
+     "Cruzeiro EC (+1)",
+     0.6845
+    ],
+    [
+     "X (+1)",
+     0.2229
+    ],
+    [
+     "SE Palmeiras (+1)",
+     0.0926
+    ],
+    [
+     "Cruzeiro EC (+2)",
+     0.9074
+    ],
+    [
+     "X (+2)",
+     0.0727
+    ],
+    [
+     "SE Palmeiras (+2)",
+     0.0198
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Asya",
+   "oneri": "Toplam Asya 0,75 Üst",
+   "olasilik": 0.6969,
+   "adil_oran": 1.43,
+   "en_olasi": "Toplam Asya 0,75 Üst",
+   "en_olasi_p": 0.6969,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam Asya 0,75 Üst",
+     0.6969
+    ],
+    [
+     "Toplam Asya 0,75 Alt",
+     0.3031
+    ],
+    [
+     "Toplam Asya 1 Üst",
+     0.6162
+    ],
+    [
+     "Toplam Asya 1 Alt",
+     0.3838
+    ],
+    [
+     "Toplam Asya 1,25 Üst",
+     0.4866
+    ],
+    [
+     "Toplam Asya 1,25 Alt",
+     0.5134
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Toplam Gol (3-İhtimalli)",
+   "oneri": "1 Üst",
+   "olasilik": 0.4021,
+   "adil_oran": 2.49,
+   "en_olasi": "1 Üst",
+   "en_olasi_p": 0.4021,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 Alt",
+     0.2504
+    ],
+    [
+     "Tam 1",
+     0.3476
+    ],
+    [
+     "1 Üst",
+     0.4021
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "2 & KG Yok",
+   "olasilik": 0.2567,
+   "adil_oran": 3.9,
+   "en_olasi": "2 & KG Yok",
+   "en_olasi_p": 0.2567,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0554
+    ],
+    [
+     "1 & KG Yok",
+     0.2434
+    ],
+    [
+     "X & KG Var",
+     0.1354
+    ],
+    [
+     "X & KG Yok",
+     0.2504
+    ],
+    [
+     "2 & KG Var",
+     0.0588
+    ],
+    [
+     "2 & KG Yok",
+     0.2567
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol Aralığı",
+   "oneri": "2-3 gol",
+   "olasilik": 0.3507,
+   "adil_oran": 2.85,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.3507,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2504
+    ],
+    [
+     "1 gol",
+     0.3476
+    ],
+    [
+     "2-3 gol",
+     0.3507
+    ],
+    [
+     "4+ gol",
+     0.0514
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Cruzeiro EC Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.5071,
+   "adil_oran": 1.97,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5071,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5071
+    ],
+    [
+     "1 gol",
+     0.3459
+    ],
+    [
+     "2+ gol",
+     0.1469
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı SE Palmeiras Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.4938,
+   "adil_oran": 2.03,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4938,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4938
+    ],
+    [
+     "1 gol",
+     0.3485
+    ],
+    [
+     "2+ gol",
+     0.1577
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.5979,
+   "adil_oran": 1.67,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.5979,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.5979
+    ],
+    [
+     "1-2 gol",
+     0.5877
+    ],
+    [
+     "2-3 gol",
+     0.3507
+    ],
+    [
+     "3+ gol",
+     0.1619
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.5071,
+   "adil_oran": 1.97,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.853,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5071
+    ],
+    [
+     "0-1 gol",
+     0.853
+    ],
+    [
+     "1-2 gol",
+     0.4623
+    ],
+    [
+     "2+ gol",
+     0.1469
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0 gol",
+   "olasilik": 0.4938,
+   "adil_oran": 2.03,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.8423,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4938
+    ],
+    [
+     "0-1 gol",
+     0.8423
+    ],
+    [
+     "1-2 gol",
+     0.4718
+    ],
+    [
+     "2+ gol",
+     0.1577
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3476,
+   "adil_oran": 2.88,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3476,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.2504
+    ],
+    [
+     "1 gol",
+     0.3476
+    ],
+    [
+     "2 gol",
+     0.2401
+    ],
+    [
+     "3 gol",
+     0.1106
+    ],
+    [
+     "4+ gol",
+     0.0514
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Cruzeiro EC Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.5071,
+   "adil_oran": 1.97,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.5071,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.5071
+    ],
+    [
+     "1 gol",
+     0.3459
+    ],
+    [
+     "2 gol",
+     0.1163
+    ],
+    [
+     "3+ gol",
+     0.0306
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı SE Palmeiras Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.4938,
+   "adil_oran": 2.03,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4938,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4938
+    ],
+    [
+     "1 gol",
+     0.3485
+    ],
+    [
+     "2 gol",
+     0.1232
+    ],
+    [
+     "3+ gol",
+     0.0344
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Cruzeiro EC Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.215,
+   "adil_oran": 4.65,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.215,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.215
+    ],
+    [
+     "2 farkla",
+     0.0666
+    ],
+    [
+     "3+ farkla",
+     0.0171
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı SE Palmeiras Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.2229,
+   "adil_oran": 4.49,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2229,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2229
+    ],
+    [
+     "2 farkla",
+     0.0727
+    ],
+    [
+     "3+ farkla",
+     0.0198
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Cruzeiro EC Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7566,
+   "adil_oran": 1.32,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7566,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2434
+    ],
+    [
+     "Hayır",
+     0.7566
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı SE Palmeiras Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7433,
+   "adil_oran": 1.35,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7433,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2567
+    ],
+    [
+     "Hayır",
+     0.7433
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı İlk Golü Atacak Takım",
+   "oneri": "SE Palmeiras",
+   "olasilik": 0.3818,
+   "adil_oran": 2.62,
+   "en_olasi": "SE Palmeiras",
+   "en_olasi_p": 0.3818,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC",
+     0.3678
+    ],
+    [
+     "Gol yok",
+     0.2504
+    ],
+    [
+     "SE Palmeiras",
+     0.3818
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Son Golü Atacak Takım",
+   "oneri": "SE Palmeiras",
+   "olasilik": 0.383,
+   "adil_oran": 2.61,
+   "en_olasi": "SE Palmeiras",
+   "en_olasi_p": 0.383,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC",
+     0.3666
+    ],
+    [
+     "Gol yok",
+     0.2504
+    ],
+    [
+     "SE Palmeiras",
+     0.383
+    ]
+   ]
+  },
+  {
+   "kategori": "1. YARI",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı Doğru Skor",
+   "oneri": "0-0",
+   "olasilik": 0.2504,
+   "adil_oran": 3.99,
+   "en_olasi": "0-0",
+   "en_olasi_p": 0.2504,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-0",
+     0.2504
+    ],
+    [
+     "0-1",
+     0.1766
+    ],
+    [
+     "1-0",
+     0.1709
+    ],
+    [
+     "1-1",
+     0.1203
+    ],
+    [
+     "0-2",
+     0.0624
+    ],
+    [
+     "2-0",
+     0.0573
+    ],
+    [
+     "1-2",
+     0.0429
+    ],
+    [
+     "2-1",
+     0.0409
+    ],
+    [
+     "0-3",
+     0.0143
+    ],
+    [
+     "2-2",
+     0.0142
+    ],
+    [
+     "3-0",
+     0.0126
+    ],
+    [
+     "Diğer",
+     0.0114
+    ],
+    [
+     "1-3",
+     0.0097
+    ],
+    [
+     "3-1",
+     0.0088
+    ],
+    [
+     "2-3",
+     0.0033
+    ],
+    [
+     "3-2",
+     0.0032
+    ],
+    [
+     "3-3",
+     0.0008
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Sonucu",
+   "oneri": "2 (SE Palmeiras)",
+   "olasilik": 0.3442,
+   "adil_oran": 2.91,
+   "en_olasi": "2 (SE Palmeiras)",
+   "en_olasi_p": 0.3442,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Cruzeiro EC)",
+     0.3261
+    ],
+    [
+     "X",
+     0.3297
+    ],
+    [
+     "2 (SE Palmeiras)",
+     0.3442
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Çifte Şans",
+   "oneri": "X2",
+   "olasilik": 0.6739,
+   "adil_oran": 1.48,
+   "en_olasi": "X2",
+   "en_olasi_p": 0.6739,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.6558
+    ],
+    [
+     "12",
+     0.6703
+    ],
+    [
+     "X2",
+     0.6739
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.8297,
+   "adil_oran": 1.21,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.8297,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.8297
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.1703
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.5226
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.4774
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.2571
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.7429
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Cruzeiro EC Toplam Gol",
+   "oneri": "Cruzeiro EC 1,5 Alt",
+   "olasilik": 0.7852,
+   "adil_oran": 1.27,
+   "en_olasi": "Cruzeiro EC 1,5 Alt",
+   "en_olasi_p": 0.7852,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC 0,5 Üst",
+     0.5765
+    ],
+    [
+     "Cruzeiro EC 0,5 Alt",
+     0.4235
+    ],
+    [
+     "Cruzeiro EC 1,5 Üst",
+     0.2148
+    ],
+    [
+     "Cruzeiro EC 1,5 Alt",
+     0.7852
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı SE Palmeiras Toplam Gol",
+   "oneri": "SE Palmeiras 1,5 Alt",
+   "olasilik": 0.7752,
+   "adil_oran": 1.29,
+   "en_olasi": "SE Palmeiras 1,5 Alt",
+   "en_olasi_p": 0.7752,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "SE Palmeiras 0,5 Üst",
+     0.5912
+    ],
+    [
+     "SE Palmeiras 0,5 Alt",
+     0.4088
+    ],
+    [
+     "SE Palmeiras 1,5 Üst",
+     0.2248
+    ],
+    [
+     "SE Palmeiras 1,5 Alt",
+     0.7752
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.662,
+   "adil_oran": 1.51,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.662,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.338
+    ],
+    [
+     "Hayır",
+     0.662
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı",
+   "oneri": "SE Palmeiras +0,5",
+   "olasilik": 0.6739,
+   "adil_oran": 1.48,
+   "en_olasi": "SE Palmeiras +1,5",
+   "en_olasi_p": 0.8891,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC -1,5",
+     0.1109
+    ],
+    [
+     "SE Palmeiras +1,5",
+     0.8891
+    ],
+    [
+     "Cruzeiro EC -0,5",
+     0.3261
+    ],
+    [
+     "SE Palmeiras +0,5",
+     0.6739
+    ],
+    [
+     "Cruzeiro EC +0,5",
+     0.6558
+    ],
+    [
+     "SE Palmeiras -0,5",
+     0.3442
+    ],
+    [
+     "Cruzeiro EC +1,5",
+     0.8794
+    ],
+    [
+     "SE Palmeiras -1,5",
+     0.1206
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Gol Handikapı 3 İhtimalli",
+   "oneri": "SE Palmeiras (-1)",
+   "olasilik": 0.6739,
+   "adil_oran": 1.48,
+   "en_olasi": "SE Palmeiras (-2)",
+   "en_olasi_p": 0.8891,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC (-2)",
+     0.0275
+    ],
+    [
+     "X (-2)",
+     0.0834
+    ],
+    [
+     "SE Palmeiras (-2)",
+     0.8891
+    ],
+    [
+     "Cruzeiro EC (-1)",
+     0.1109
+    ],
+    [
+     "X (-1)",
+     0.2152
+    ],
+    [
+     "SE Palmeiras (-1)",
+     0.6739
+    ],
+    [
+     "Cruzeiro EC (+1)",
+     0.6558
+    ],
+    [
+     "X (+1)",
+     0.2236
+    ],
+    [
+     "SE Palmeiras (+1)",
+     0.1206
+    ],
+    [
+     "Cruzeiro EC (+2)",
+     0.8794
+    ],
+    [
+     "X (+2)",
+     0.0885
+    ],
+    [
+     "SE Palmeiras (+2)",
+     0.0321
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı : Sonuç ve Her İki Takımda Gol Atar",
+   "oneri": "2 & KG Yok",
+   "olasilik": 0.2532,
+   "adil_oran": 3.95,
+   "en_olasi": "2 & KG Yok",
+   "en_olasi_p": 0.2532,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 & KG Var",
+     0.0876
+    ],
+    [
+     "1 & KG Yok",
+     0.2385
+    ],
+    [
+     "X & KG Var",
+     0.1594
+    ],
+    [
+     "X & KG Yok",
+     0.1703
+    ],
+    [
+     "2 & KG Var",
+     0.091
+    ],
+    [
+     "2 & KG Yok",
+     0.2532
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol Aralığı",
+   "oneri": "2-3 gol",
+   "olasilik": 0.4208,
+   "adil_oran": 2.38,
+   "en_olasi": "2-3 gol",
+   "en_olasi_p": 0.4208,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.1703
+    ],
+    [
+     "1 gol",
+     0.3071
+    ],
+    [
+     "2-3 gol",
+     0.4208
+    ],
+    [
+     "4+ gol",
+     0.1019
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Cruzeiro EC Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.4235,
+   "adil_oran": 2.36,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4235,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4235
+    ],
+    [
+     "1 gol",
+     0.3616
+    ],
+    [
+     "2+ gol",
+     0.2148
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı SE Palmeiras Toplam Gol (Aralık)",
+   "oneri": "0 gol",
+   "olasilik": 0.4088,
+   "adil_oran": 2.45,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4088,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4088
+    ],
+    [
+     "1 gol",
+     0.3664
+    ],
+    [
+     "2+ gol",
+     0.2248
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "1-2 gol",
+   "olasilik": 0.5726,
+   "adil_oran": 1.75,
+   "en_olasi": "1-2 gol",
+   "en_olasi_p": 0.5726,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-1 gol",
+     0.4774
+    ],
+    [
+     "1-2 gol",
+     0.5726
+    ],
+    [
+     "2-3 gol",
+     0.4208
+    ],
+    [
+     "3+ gol",
+     0.2571
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7852,
+   "adil_oran": 1.27,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7852,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4235
+    ],
+    [
+     "0-1 gol",
+     0.7852
+    ],
+    [
+     "1-2 gol",
+     0.5202
+    ],
+    [
+     "2+ gol",
+     0.2148
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)",
+   "oneri": "0-1 gol",
+   "olasilik": 0.7752,
+   "adil_oran": 1.29,
+   "en_olasi": "0-1 gol",
+   "en_olasi_p": 0.7752,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4088
+    ],
+    [
+     "0-1 gol",
+     0.7752
+    ],
+    [
+     "1-2 gol",
+     0.5285
+    ],
+    [
+     "2+ gol",
+     0.2248
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Toplam Gol (Kesin)",
+   "oneri": "1 gol",
+   "olasilik": 0.3071,
+   "adil_oran": 3.26,
+   "en_olasi": "1 gol",
+   "en_olasi_p": 0.3071,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.1703
+    ],
+    [
+     "1 gol",
+     0.3071
+    ],
+    [
+     "2 gol",
+     0.2655
+    ],
+    [
+     "3 gol",
+     0.1552
+    ],
+    [
+     "4+ gol",
+     0.1019
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Cruzeiro EC Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.4235,
+   "adil_oran": 2.36,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4235,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4235
+    ],
+    [
+     "1 gol",
+     0.3616
+    ],
+    [
+     "2 gol",
+     0.1585
+    ],
+    [
+     "3+ gol",
+     0.0563
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı SE Palmeiras Toplam Gol (Kesin)",
+   "oneri": "0 gol",
+   "olasilik": 0.4088,
+   "adil_oran": 2.45,
+   "en_olasi": "0 gol",
+   "en_olasi_p": 0.4088,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0 gol",
+     0.4088
+    ],
+    [
+     "1 gol",
+     0.3664
+    ],
+    [
+     "2 gol",
+     0.1621
+    ],
+    [
+     "3+ gol",
+     0.0627
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Cruzeiro EC Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.2152,
+   "adil_oran": 4.65,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2152,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2152
+    ],
+    [
+     "2 farkla",
+     0.0834
+    ],
+    [
+     "3+ farkla",
+     0.0275
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı SE Palmeiras Kazanır Kesin Gol Farkla",
+   "oneri": "1 farkla",
+   "olasilik": 0.2236,
+   "adil_oran": 4.47,
+   "en_olasi": "1 farkla",
+   "en_olasi_p": 0.2236,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1 farkla",
+     0.2236
+    ],
+    [
+     "2 farkla",
+     0.0885
+    ],
+    [
+     "3+ farkla",
+     0.0321
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Cruzeiro EC Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7615,
+   "adil_oran": 1.31,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7615,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2385
+    ],
+    [
+     "Hayır",
+     0.7615
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı SE Palmeiras Sıfıra Karşı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7468,
+   "adil_oran": 1.34,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7468,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2532
+    ],
+    [
+     "Hayır",
+     0.7468
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı İlk Golü Atacak Takım",
+   "oneri": "SE Palmeiras",
+   "olasilik": 0.4214,
+   "adil_oran": 2.37,
+   "en_olasi": "SE Palmeiras",
+   "en_olasi_p": 0.4214,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC",
+     0.4083
+    ],
+    [
+     "Gol yok",
+     0.1703
+    ],
+    [
+     "SE Palmeiras",
+     0.4214
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Son Golü Atacak Takım",
+   "oneri": "SE Palmeiras",
+   "olasilik": 0.423,
+   "adil_oran": 2.36,
+   "en_olasi": "SE Palmeiras",
+   "en_olasi_p": 0.423,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC",
+     0.4067
+    ],
+    [
+     "Gol yok",
+     0.1703
+    ],
+    [
+     "SE Palmeiras",
+     0.423
+    ]
+   ]
+  },
+  {
+   "kategori": "2. YARI",
+   "yontem": "gol-yari",
+   "pazar": "2. Yarı Doğru Skor",
+   "oneri": "0-0",
+   "olasilik": 0.1703,
+   "adil_oran": 5.87,
+   "en_olasi": "0-0",
+   "en_olasi_p": 0.1703,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "0-0",
+     0.1703
+    ],
+    [
+     "0-1",
+     0.1571
+    ],
+    [
+     "1-0",
+     0.15
+    ],
+    [
+     "1-1",
+     0.1313
+    ],
+    [
+     "0-2",
+     0.0691
+    ],
+    [
+     "2-0",
+     0.0652
+    ],
+    [
+     "1-2",
+     0.0582
+    ],
+    [
+     "2-1",
+     0.0575
+    ],
+    [
+     "2-2",
+     0.0259
+    ],
+    [
+     "Diğer",
+     0.0246
+    ],
+    [
+     "0-3",
+     0.0211
+    ],
+    [
+     "3-0",
+     0.0185
+    ],
+    [
+     "1-3",
+     0.0175
+    ],
+    [
+     "3-1",
+     0.0167
+    ],
+    [
+     "2-3",
+     0.0078
+    ],
+    [
+     "3-2",
+     0.0072
+    ],
+    [
+     "3-3",
+     0.0021
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Karşılıklı Gol",
+   "oneri": "İY Yok / 2Y Yok",
+   "olasilik": 0.4971,
+   "adil_oran": 2.01,
+   "en_olasi": "İY Yok / 2Y Yok",
+   "en_olasi_p": 0.4971,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY Var / 2Y Var",
+     0.0846
+    ],
+    [
+     "İY Var / 2Y Yok",
+     0.1649
+    ],
+    [
+     "İY Yok / 2Y Var",
+     0.2534
+    ],
+    [
+     "İY Yok / 2Y Yok",
+     0.4971
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı veya Maç Sonucu",
+   "oneri": "İY X veya MS X",
+   "olasilik": 0.4939,
+   "adil_oran": 2.02,
+   "en_olasi": "İY X veya MS X",
+   "en_olasi_p": 0.4939,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "İY 1 veya MS 1",
+     0.4518
+    ],
+    [
+     "İY X veya MS X",
+     0.4939
+    ],
+    [
+     "İY 2 veya MS 2",
+     0.4766
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarı/Maç Sonucu",
+   "oneri": "2/2",
+   "olasilik": 0.2345,
+   "adil_oran": 4.26,
+   "en_olasi": "2/2",
+   "en_olasi_p": 0.2345,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.2164
+    ],
+    [
+     "1/X",
+     0.0541
+    ],
+    [
+     "1/2",
+     0.0283
+    ],
+    [
+     "X/1",
+     0.1261
+    ],
+    [
+     "X/X",
+     0.1268
+    ],
+    [
+     "X/2",
+     0.1328
+    ],
+    [
+     "2/1",
+     0.0269
+    ],
+    [
+     "2/X",
+     0.0541
+    ],
+    [
+     "2/2",
+     0.2345
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1. Yarı/2. Yarı Sonucu",
+   "oneri": "X/2",
+   "olasilik": 0.1328,
+   "adil_oran": 7.53,
+   "en_olasi": "X/2",
+   "en_olasi_p": 0.1328,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1/1",
+     0.0978
+    ],
+    [
+     "1/X",
+     0.0978
+    ],
+    [
+     "1/2",
+     0.1032
+    ],
+    [
+     "X/1",
+     0.1261
+    ],
+    [
+     "X/X",
+     0.1268
+    ],
+    [
+     "X/2",
+     0.1328
+    ],
+    [
+     "2/1",
+     0.1022
+    ],
+    [
+     "2/X",
+     0.105
+    ],
+    [
+     "2/2",
+     0.1083
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.4629,
+   "adil_oran": 2.16,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.4629,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.3039
+    ],
+    [
+     "Eşit",
+     0.2332
+    ],
+    [
+     "2. Yarı",
+     0.4629
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "En Çok Gol Atılan Yarı : Çifte Şans",
+   "oneri": "1. veya 2. Yarı",
+   "olasilik": 0.7668,
+   "adil_oran": 1.3,
+   "en_olasi": "1. veya 2. Yarı",
+   "en_olasi_p": 0.7668,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı veya Eşit",
+     0.5371
+    ],
+    [
+     "2. Yarı veya Eşit",
+     0.6961
+    ],
+    [
+     "1. veya 2. Yarı",
+     0.7668
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Cruzeiro EC : En Çok Gol Attığı Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.3729,
+   "adil_oran": 2.68,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.3729,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2667
+    ],
+    [
+     "Eşit",
+     0.3605
+    ],
+    [
+     "2. Yarı",
+     0.3729
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "SE Palmeiras : En Çok Gol Attığı Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.3775,
+   "adil_oran": 2.65,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.3775,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.2698
+    ],
+    [
+     "Eşit",
+     0.3527
+    ],
+    [
+     "2. Yarı",
+     0.3775
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Cruzeiro EC : Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.7149,
+   "adil_oran": 1.4,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7149,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2851
+    ],
+    [
+     "Hayır",
+     0.7149
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "SE Palmeiras Her İki Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.7001,
+   "adil_oran": 1.43,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7001,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2999
+    ],
+    [
+     "Hayır",
+     0.7001
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Cruzeiro EC : İlk Yarıda Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.5071,
+   "adil_oran": 1.97,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5071,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4929
+    ],
+    [
+     "Hayır",
+     0.5071
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "SE Palmeiras İlk Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.5062,
+   "adil_oran": 1.98,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5062,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5062
+    ],
+    [
+     "Hayır",
+     0.4938
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Cruzeiro EC : İkinci Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.5765,
+   "adil_oran": 1.73,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5765,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5765
+    ],
+    [
+     "Hayır",
+     0.4235
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "SE Palmeiras İkinci Yarıda Gol Atar",
+   "oneri": "Evet",
+   "olasilik": 0.5912,
+   "adil_oran": 1.69,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5912,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5912
+    ],
+    [
+     "Hayır",
+     0.4088
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İlk Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.7496,
+   "adil_oran": 1.33,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.7496,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.7496
+    ],
+    [
+     "Hayır",
+     0.2504
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "İkinci Yarıda Gol",
+   "oneri": "Evet",
+   "olasilik": 0.8297,
+   "adil_oran": 1.21,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.8297,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.8297
+    ],
+    [
+     "Hayır",
+     0.1703
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarıda da 1.5 Üst Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7889,
+   "adil_oran": 1.27,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7889,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2111
+    ],
+    [
+     "Hayır",
+     0.7889
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Her İki Yarı Goller 1.5 Alt",
+   "oneri": "Hayır",
+   "olasilik": 0.7135,
+   "adil_oran": 1.4,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7135,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2865
+    ],
+    [
+     "Hayır",
+     0.7135
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Cruzeiro EC : Gol Atar 1.Yarı/2.Yarı",
+   "oneri": "Hayır/Evet",
+   "olasilik": 0.2914,
+   "adil_oran": 3.43,
+   "en_olasi": "Hayır/Evet",
+   "en_olasi_p": 0.2914,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.2851
+    ],
+    [
+     "Evet/Hayır",
+     0.2078
+    ],
+    [
+     "Hayır/Evet",
+     0.2914
+    ],
+    [
+     "Hayır/Hayır",
+     0.2157
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "SE Palmeiras Gol Atar İlk Yarı/İkinci Yarı",
+   "oneri": "Evet/Evet",
+   "olasilik": 0.2999,
+   "adil_oran": 3.33,
+   "en_olasi": "Evet/Evet",
+   "en_olasi_p": 0.2999,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet/Evet",
+     0.2999
+    ],
+    [
+     "Evet/Hayır",
+     0.2063
+    ],
+    [
+     "Hayır/Evet",
+     0.2913
+    ],
+    [
+     "Hayır/Hayır",
+     0.2025
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarıları Farklı Takımlar Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.7947,
+   "adil_oran": 1.26,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7947,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2053
+    ],
+    [
+     "Hayır",
+     0.7947
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "Yarılardan En Az Birinde Beraberlik",
+   "oneri": "Evet",
+   "olasilik": 0.5886,
+   "adil_oran": 1.7,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.5886,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.5886
+    ],
+    [
+     "Hayır",
+     0.4114
+    ]
+   ]
+  },
+  {
+   "kategori": "YARI KARŞILAŞTIRMA",
+   "yontem": "gol-yari",
+   "pazar": "1.Yarı Toplam Gol'e karşı 2. Yarı Toplam Gol Handikapı",
+   "oneri": "1. Yarı +1,5",
+   "olasilik": 0.7516,
+   "adil_oran": 1.33,
+   "en_olasi": "1. Yarı +1,5",
+   "en_olasi_p": 0.7516,
+   "guven": "yüksek",
+   "not_": null,
+   "secimler": [
+    [
+     "2. Yarı -1,5",
+     0.2484
+    ],
+    [
+     "2. Yarı -0,5",
+     0.4629
+    ],
+    [
+     "2. Yarı +0,5",
+     0.6961
+    ],
+    [
+     "1. Yarı +1,5",
+     0.7516
+    ],
+    [
+     "1. Yarı +0,5",
+     0.5371
+    ],
+    [
+     "1. Yarı -0,5",
+     0.3039
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7657,
+   "adil_oran": 1.31,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7657,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2343
+    ],
+    [
+     "Hayır",
+     0.7657
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Köşe Vuruşu",
+   "oneri": "Evet",
+   "olasilik": 0.6625,
+   "adil_oran": 1.51,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.6625,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.6625
+    ],
+    [
+     "Hayır",
+     0.3375
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "Cruzeiro EC : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "Cruzeiro EC 0,5 Alt",
+   "olasilik": 0.6291,
+   "adil_oran": 1.59,
+   "en_olasi": "Cruzeiro EC 1,5 Alt",
+   "en_olasi_p": 0.9217,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC 0,5 Üst",
+     0.3709
+    ],
+    [
+     "Cruzeiro EC 0,5 Alt",
+     0.6291
+    ],
+    [
+     "Cruzeiro EC 1,5 Üst",
+     0.0783
+    ],
+    [
+     "Cruzeiro EC 1,5 Alt",
+     0.9217
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "SE Palmeiras : İlk 10 Dakika (00:00 - 09:59) Kornerler",
+   "oneri": "SE Palmeiras 0,5 Alt",
+   "olasilik": 0.5373,
+   "adil_oran": 1.86,
+   "en_olasi": "SE Palmeiras 0,5 Alt",
+   "en_olasi_p": 0.5373,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "SE Palmeiras 0,5 Üst",
+     0.4627
+    ],
+    [
+     "SE Palmeiras 0,5 Alt",
+     0.5373
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "İlk 10 Dakika (00:00 - 09:59) Sarı Kartlar",
+   "oneri": "Hayır",
+   "olasilik": 0.7343,
+   "adil_oran": 1.36,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7343,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2657
+    ],
+    [
+     "Hayır",
+     0.7343
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.6935,
+   "adil_oran": 1.44,
+   "en_olasi": "X",
+   "en_olasi_p": 0.6935,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Cruzeiro EC)",
+     0.1504
+    ],
+    [
+     "X",
+     0.6935
+    ],
+    [
+     "2 (SE Palmeiras)",
+     0.156
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Gol Handikapı",
+   "oneri": "SE Palmeiras (-1)",
+   "olasilik": 0.8496,
+   "adil_oran": 1.18,
+   "en_olasi": "SE Palmeiras (-1)",
+   "en_olasi_p": 0.8496,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC (-1)",
+     0.0143
+    ],
+    [
+     "X (-1)",
+     0.1361
+    ],
+    [
+     "SE Palmeiras (-1)",
+     0.8496
+    ],
+    [
+     "Cruzeiro EC (+1)",
+     0.844
+    ],
+    [
+     "X (+1)",
+     0.1402
+    ],
+    [
+     "SE Palmeiras (+1)",
+     0.0158
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Toplam Goller",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.6657,
+   "adil_oran": 1.5,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9362,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.3343
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.6657
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0638
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9362
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. Cruzeiro EC Toplam Goller",
+   "oneri": "Cruzeiro EC 0,5 Alt",
+   "olasilik": 0.8186,
+   "adil_oran": 1.22,
+   "en_olasi": "Cruzeiro EC 1,5 Alt",
+   "en_olasi_p": 0.9824,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC 0,5 Üst",
+     0.1814
+    ],
+    [
+     "Cruzeiro EC 0,5 Alt",
+     0.8186
+    ],
+    [
+     "Cruzeiro EC 1,5 Üst",
+     0.0176
+    ],
+    [
+     "Cruzeiro EC 1,5 Alt",
+     0.9824
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. SE Palmeiras Toplam Goller",
+   "oneri": "SE Palmeiras 0,5 Alt",
+   "olasilik": 0.813,
+   "adil_oran": 1.23,
+   "en_olasi": "SE Palmeiras 0,5 Alt",
+   "en_olasi_p": 0.813,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "SE Palmeiras 0,5 Üst",
+     0.187
+    ],
+    [
+     "SE Palmeiras 0,5 Alt",
+     0.813
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-15 Dk. İki Takım Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.9659,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9659,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0341
+    ],
+    [
+     "Hayır",
+     0.9659
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Galibi",
+   "oneri": "X",
+   "olasilik": 0.5085,
+   "adil_oran": 1.97,
+   "en_olasi": "X",
+   "en_olasi_p": 0.5085,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Cruzeiro EC)",
+     0.241
+    ],
+    [
+     "X",
+     0.5085
+    ],
+    [
+     "2 (SE Palmeiras)",
+     0.2505
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Gol Handikapı",
+   "oneri": "SE Palmeiras (-1)",
+   "olasilik": 0.759,
+   "adil_oran": 1.32,
+   "en_olasi": "SE Palmeiras (-1)",
+   "en_olasi_p": 0.759,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC (-1)",
+     0.0448
+    ],
+    [
+     "X (-1)",
+     0.1962
+    ],
+    [
+     "SE Palmeiras (-1)",
+     0.759
+    ],
+    [
+     "Cruzeiro EC (+1)",
+     0.7495
+    ],
+    [
+     "X (+1)",
+     0.2013
+    ],
+    [
+     "SE Palmeiras (+1)",
+     0.0493
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Toplam Goller",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.7923,
+   "adil_oran": 1.26,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.7923,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.5715
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.4285
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.2077
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.7923
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. Cruzeiro EC Toplam Goller",
+   "oneri": "Cruzeiro EC 0,5 Alt",
+   "olasilik": 0.6595,
+   "adil_oran": 1.52,
+   "en_olasi": "Cruzeiro EC 1,5 Alt",
+   "en_olasi_p": 0.9345,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC 0,5 Üst",
+     0.3405
+    ],
+    [
+     "Cruzeiro EC 0,5 Alt",
+     0.6595
+    ],
+    [
+     "Cruzeiro EC 1,5 Üst",
+     0.0655
+    ],
+    [
+     "Cruzeiro EC 1,5 Alt",
+     0.9345
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-30 Dk. SE Palmeiras Toplam Goller",
+   "oneri": "SE Palmeiras 0,5 Alt",
+   "olasilik": 0.6503,
+   "adil_oran": 1.54,
+   "en_olasi": "SE Palmeiras 0,5 Alt",
+   "en_olasi_p": 0.6503,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "SE Palmeiras 0,5 Üst",
+     0.3497
+    ],
+    [
+     "SE Palmeiras 0,5 Alt",
+     0.6503
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Galibi",
+   "oneri": "2 (SE Palmeiras)",
+   "olasilik": 0.3481,
+   "adil_oran": 2.87,
+   "en_olasi": "2 (SE Palmeiras)",
+   "en_olasi_p": 0.3481,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Cruzeiro EC)",
+     0.3282
+    ],
+    [
+     "X",
+     0.3237
+    ],
+    [
+     "2 (SE Palmeiras)",
+     0.3481
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Gol Handikapı",
+   "oneri": "SE Palmeiras +0,5",
+   "olasilik": 0.6718,
+   "adil_oran": 1.49,
+   "en_olasi": "SE Palmeiras +1,5",
+   "en_olasi_p": 0.8837,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC -1,5",
+     0.1163
+    ],
+    [
+     "SE Palmeiras +1,5",
+     0.8837
+    ],
+    [
+     "Cruzeiro EC -0,5",
+     0.3282
+    ],
+    [
+     "SE Palmeiras +0,5",
+     0.6718
+    ],
+    [
+     "Cruzeiro EC +0,5",
+     0.6519
+    ],
+    [
+     "SE Palmeiras -0,5",
+     0.3481
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Toplam Goller",
+   "oneri": "Toplam 2,5 Alt",
+   "olasilik": 0.7121,
+   "adil_oran": 1.4,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.8452,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.8452
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.1548
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.5574
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.4426
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.2879
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.7121
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Cruzeiro EC Toplam Goller",
+   "oneri": "Cruzeiro EC 1,5 Alt",
+   "olasilik": 0.7662,
+   "adil_oran": 1.31,
+   "en_olasi": "Cruzeiro EC 1,5 Alt",
+   "en_olasi_p": 0.7662,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC 0,5 Üst",
+     0.5997
+    ],
+    [
+     "Cruzeiro EC 0,5 Alt",
+     0.4003
+    ],
+    [
+     "Cruzeiro EC 1,5 Üst",
+     0.2338
+    ],
+    [
+     "Cruzeiro EC 1,5 Alt",
+     0.7662
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. SE Palmeiras Toplam Goller",
+   "oneri": "SE Palmeiras 0,5 Üst",
+   "olasilik": 0.6145,
+   "adil_oran": 1.63,
+   "en_olasi": "SE Palmeiras 0,5 Üst",
+   "en_olasi_p": 0.6145,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "SE Palmeiras 0,5 Üst",
+     0.6145
+    ],
+    [
+     "SE Palmeiras 0,5 Alt",
+     0.3855
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-60 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.631,
+   "adil_oran": 1.58,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.631,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.369
+    ],
+    [
+     "Hayır",
+     0.631
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Galibi",
+   "oneri": "2 (SE Palmeiras)",
+   "olasilik": 0.3723,
+   "adil_oran": 2.69,
+   "en_olasi": "2 (SE Palmeiras)",
+   "en_olasi_p": 0.3723,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Cruzeiro EC)",
+     0.3496
+    ],
+    [
+     "X",
+     0.2781
+    ],
+    [
+     "2 (SE Palmeiras)",
+     0.3723
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Gol Handikapı",
+   "oneri": "SE Palmeiras +0,5",
+   "olasilik": 0.6504,
+   "adil_oran": 1.54,
+   "en_olasi": "SE Palmeiras +1,5",
+   "en_olasi_p": 0.855,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC -1,5",
+     0.145
+    ],
+    [
+     "SE Palmeiras +1,5",
+     0.855
+    ],
+    [
+     "Cruzeiro EC -0,5",
+     0.3496
+    ],
+    [
+     "SE Palmeiras +0,5",
+     0.6504
+    ],
+    [
+     "Cruzeiro EC +0,5",
+     0.6277
+    ],
+    [
+     "SE Palmeiras -0,5",
+     0.3723
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Toplam Goller",
+   "oneri": "Toplam 1,5 Üst",
+   "olasilik": 0.689,
+   "adil_oran": 1.45,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.9075,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.9075
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.0925
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.689
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.311
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.4273
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.5727
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Cruzeiro EC Toplam Goller",
+   "oneri": "Cruzeiro EC 0,5 Üst",
+   "olasilik": 0.6894,
+   "adil_oran": 1.45,
+   "en_olasi": "Cruzeiro EC 0,5 Üst",
+   "en_olasi_p": 0.6894,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC 0,5 Üst",
+     0.6894
+    ],
+    [
+     "Cruzeiro EC 0,5 Alt",
+     0.3106
+    ],
+    [
+     "Cruzeiro EC 1,5 Üst",
+     0.3263
+    ],
+    [
+     "Cruzeiro EC 1,5 Alt",
+     0.6737
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. SE Palmeiras Toplam Goller",
+   "oneri": "SE Palmeiras 0,5 Üst",
+   "olasilik": 0.704,
+   "adil_oran": 1.42,
+   "en_olasi": "SE Palmeiras 0,5 Üst",
+   "en_olasi_p": 0.704,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "SE Palmeiras 0,5 Üst",
+     0.704
+    ],
+    [
+     "SE Palmeiras 0,5 Alt",
+     0.296
+    ]
+   ]
+  },
+  {
+   "kategori": "DAKİKA ARALIKLARI",
+   "yontem": "gol-zaman",
+   "pazar": "1-75 Dk. Karşılıklı Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.5141,
+   "adil_oran": 1.95,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.5141,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.4859
+    ],
+    [
+     "Hayır",
+     0.5141
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kafa Golü Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.617,
+   "adil_oran": 1.62,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.617,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.383
+    ],
+    [
+     "Hayır",
+     0.617
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Frikikten Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9095,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9095,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0905
+    ],
+    [
+     "Hayır",
+     0.9095
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Rövaşata ile Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.9933,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9933,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0066
+    ],
+    [
+     "Hayır",
+     0.9933
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Ceza Sahası Dışından Gol",
+   "oneri": "Hayır",
+   "olasilik": 0.7101,
+   "adil_oran": 1.41,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7101,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2899
+    ],
+    [
+     "Hayır",
+     0.7101
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Maçta Kendi Kalesine Gol Atılır",
+   "oneri": "Hayır",
+   "olasilik": 0.896,
+   "adil_oran": 1.12,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.896,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.104
+    ],
+    [
+     "Hayır",
+     0.896
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Oyuncu Hat-trick Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.972,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.972,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0279
+    ],
+    [
+     "Hayır",
+     0.972
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "Herhangi Bir Kaleci Asist Yapar",
+   "oneri": "Hayır",
+   "olasilik": 0.9879,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9879,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0121
+    ],
+    [
+     "Hayır",
+     0.9879
+    ]
+   ]
+  },
+  {
+   "kategori": "GOL TÜRÜ / ÖZEL",
+   "yontem": "ozel",
+   "pazar": "VAR'lar: Toplam (Yalnızca Sahada İnceleme veya Video İnceleme İşareti (TV))",
+   "oneri": "Toplam 0,5 Alt",
+   "olasilik": 0.584,
+   "adil_oran": 1.71,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.8973,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.416
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.584
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.1027
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.8973
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Sonuç",
+   "oneri": "2 (SE Palmeiras)",
+   "olasilik": 0.6379,
+   "adil_oran": 1.57,
+   "en_olasi": "2 (SE Palmeiras)",
+   "en_olasi_p": 0.6379,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Cruzeiro EC)",
+     0.2572
+    ],
+    [
+     "X",
+     0.1048
+    ],
+    [
+     "2 (SE Palmeiras)",
+     0.6379
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam",
+   "oneri": "Toplam 8,5 Üst",
+   "olasilik": 0.8078,
+   "adil_oran": 1.24,
+   "en_olasi": "Toplam 7,5 Üst",
+   "en_olasi_p": 0.8856,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 7,5 Üst",
+     0.8856
+    ],
+    [
+     "Toplam 7,5 Alt",
+     0.1144
+    ],
+    [
+     "Toplam 8,5 Üst",
+     0.8078
+    ],
+    [
+     "Toplam 8,5 Alt",
+     0.1922
+    ],
+    [
+     "Toplam 9,5 Üst",
+     0.7098
+    ],
+    [
+     "Toplam 9,5 Alt",
+     0.2902
+    ],
+    [
+     "Toplam 10,5 Üst",
+     0.5951
+    ],
+    [
+     "Toplam 10,5 Alt",
+     0.4049
+    ],
+    [
+     "Toplam 11,5 Üst",
+     0.4779
+    ],
+    [
+     "Toplam 11,5 Alt",
+     0.5221
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : Cruzeiro EC",
+   "oneri": "Cruzeiro EC 6,5 Alt",
+   "olasilik": 0.7782,
+   "adil_oran": 1.29,
+   "en_olasi": "Cruzeiro EC 7,5 Alt",
+   "en_olasi_p": 0.8781,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC 3,5 Üst",
+     0.7201
+    ],
+    [
+     "Cruzeiro EC 3,5 Alt",
+     0.2798
+    ],
+    [
+     "Cruzeiro EC 4,5 Üst",
+     0.5388
+    ],
+    [
+     "Cruzeiro EC 4,5 Alt",
+     0.4612
+    ],
+    [
+     "Cruzeiro EC 5,5 Üst",
+     0.3654
+    ],
+    [
+     "Cruzeiro EC 5,5 Alt",
+     0.6346
+    ],
+    [
+     "Cruzeiro EC 6,5 Üst",
+     0.2218
+    ],
+    [
+     "Cruzeiro EC 6,5 Alt",
+     0.7782
+    ],
+    [
+     "Cruzeiro EC 7,5 Üst",
+     0.1219
+    ],
+    [
+     "Cruzeiro EC 7,5 Alt",
+     0.8781
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : SE Palmeiras",
+   "oneri": "SE Palmeiras 4,5 Üst",
+   "olasilik": 0.7856,
+   "adil_oran": 1.27,
+   "en_olasi": "SE Palmeiras 1,5 Üst",
+   "en_olasi_p": 0.9898,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "SE Palmeiras 1,5 Üst",
+     0.9898
+    ],
+    [
+     "SE Palmeiras 1,5 Alt",
+     0.0102
+    ],
+    [
+     "SE Palmeiras 2,5 Üst",
+     0.9597
+    ],
+    [
+     "SE Palmeiras 2,5 Alt",
+     0.0403
+    ],
+    [
+     "SE Palmeiras 3,5 Üst",
+     0.8945
+    ],
+    [
+     "SE Palmeiras 3,5 Alt",
+     0.1055
+    ],
+    [
+     "SE Palmeiras 4,5 Üst",
+     0.7856
+    ],
+    [
+     "SE Palmeiras 4,5 Alt",
+     0.2144
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Handikap",
+   "oneri": "SE Palmeiras +1,5",
+   "olasilik": 0.8306,
+   "adil_oran": 1.2,
+   "en_olasi": "SE Palmeiras +4,5",
+   "en_olasi_p": 0.9675,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC -4,5",
+     0.0325
+    ],
+    [
+     "SE Palmeiras +4,5",
+     0.9675
+    ],
+    [
+     "Cruzeiro EC -3,5",
+     0.0609
+    ],
+    [
+     "SE Palmeiras +3,5",
+     0.9391
+    ],
+    [
+     "Cruzeiro EC -2,5",
+     0.1047
+    ],
+    [
+     "SE Palmeiras +2,5",
+     0.8953
+    ],
+    [
+     "Cruzeiro EC -1,5",
+     0.1694
+    ],
+    [
+     "SE Palmeiras +1,5",
+     0.8306
+    ],
+    [
+     "Cruzeiro EC -0,5",
+     0.2572
+    ],
+    [
+     "SE Palmeiras +0,5",
+     0.7428
+    ],
+    [
+     "Cruzeiro EC +0,5",
+     0.3621
+    ],
+    [
+     "SE Palmeiras -0,5",
+     0.6379
+    ],
+    [
+     "Cruzeiro EC +1,5",
+     0.4775
+    ],
+    [
+     "SE Palmeiras -1,5",
+     0.5225
+    ],
+    [
+     "Cruzeiro EC +2,5",
+     0.5961
+    ],
+    [
+     "SE Palmeiras -2,5",
+     0.4039
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (3-İhtimalli)",
+   "oneri": "9 Üst",
+   "olasilik": 0.7098,
+   "adil_oran": 1.41,
+   "en_olasi": "9 Üst",
+   "en_olasi_p": 0.7098,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "9 Alt",
+     0.1922
+    ],
+    [
+     "10 Alt",
+     0.2902
+    ],
+    [
+     "Tam 9",
+     0.0979
+    ],
+    [
+     "Tam 10",
+     0.1147
+    ],
+    [
+     "9 Üst",
+     0.7098
+    ],
+    [
+     "10 Üst",
+     0.5951
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Toplam (Aralık)",
+   "oneri": "12+ korner",
+   "olasilik": 0.4779,
+   "adil_oran": 2.09,
+   "en_olasi": "12+ korner",
+   "en_olasi_p": 0.4779,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "0-8 korner",
+     0.1922
+    ],
+    [
+     "9-11 korner",
+     0.3298
+    ],
+    [
+     "12+ korner",
+     0.4779
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Tek/Çift",
+   "oneri": "Çift",
+   "olasilik": 0.5011,
+   "adil_oran": 2.0,
+   "en_olasi": "Çift",
+   "en_olasi_p": 0.5011,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Tek",
+     0.4989
+    ],
+    [
+     "Çift",
+     0.5011
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Korner Yarışı",
+   "oneri": "9 kornere kimse ulaşamaz",
+   "olasilik": 0.7321,
+   "adil_oran": 1.37,
+   "en_olasi": "9 kornere kimse ulaşamaz",
+   "en_olasi_p": 0.7321,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "İlk 3 korner Cruzeiro EC",
+     0.3568
+    ],
+    [
+     "İlk 3 korner SE Palmeiras",
+     0.6272
+    ],
+    [
+     "3 kornere kimse ulaşamaz",
+     0.0055
+    ],
+    [
+     "İlk 5 korner Cruzeiro EC",
+     0.284
+    ],
+    [
+     "İlk 5 korner SE Palmeiras",
+     0.6117
+    ],
+    [
+     "5 kornere kimse ulaşamaz",
+     0.0984
+    ],
+    [
+     "İlk 7 korner Cruzeiro EC",
+     0.1587
+    ],
+    [
+     "İlk 7 korner SE Palmeiras",
+     0.4414
+    ],
+    [
+     "7 kornere kimse ulaşamaz",
+     0.3978
+    ],
+    [
+     "İlk 9 korner Cruzeiro EC",
+     0.0532
+    ],
+    [
+     "İlk 9 korner SE Palmeiras",
+     0.2143
+    ],
+    [
+     "9 kornere kimse ulaşamaz",
+     0.7321
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Sonucu",
+   "oneri": "2 (SE Palmeiras)",
+   "olasilik": 0.5489,
+   "adil_oran": 1.82,
+   "en_olasi": "2 (SE Palmeiras)",
+   "en_olasi_p": 0.5489,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Cruzeiro EC)",
+     0.2849
+    ],
+    [
+     "X",
+     0.1662
+    ],
+    [
+     "2 (SE Palmeiras)",
+     0.5489
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Handikap",
+   "oneri": "SE Palmeiras +0,5",
+   "olasilik": 0.7151,
+   "adil_oran": 1.4,
+   "en_olasi": "SE Palmeiras +2,5",
+   "en_olasi_p": 0.9272,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC -2,5",
+     0.0728
+    ],
+    [
+     "SE Palmeiras +2,5",
+     0.9272
+    ],
+    [
+     "Cruzeiro EC -1,5",
+     0.1543
+    ],
+    [
+     "SE Palmeiras +1,5",
+     0.8457
+    ],
+    [
+     "Cruzeiro EC -0,5",
+     0.2849
+    ],
+    [
+     "SE Palmeiras +0,5",
+     0.7151
+    ],
+    [
+     "Cruzeiro EC +0,5",
+     0.4511
+    ],
+    [
+     "SE Palmeiras -0,5",
+     0.5489
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Toplam",
+   "oneri": "Toplam 3,5 Üst",
+   "olasilik": 0.7844,
+   "adil_oran": 1.27,
+   "en_olasi": "Toplam 3,5 Üst",
+   "en_olasi_p": 0.7844,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 3,5 Üst",
+     0.7844
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.2155
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.6252
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.3748
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.4522
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.5478
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı Cruzeiro EC Toplam",
+   "oneri": "Cruzeiro EC 3,5 Alt",
+   "olasilik": 0.7995,
+   "adil_oran": 1.25,
+   "en_olasi": "Cruzeiro EC 3,5 Alt",
+   "en_olasi_p": 0.7995,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC 1,5 Üst",
+     0.668
+    ],
+    [
+     "Cruzeiro EC 1,5 Alt",
+     0.332
+    ],
+    [
+     "Cruzeiro EC 2,5 Üst",
+     0.4034
+    ],
+    [
+     "Cruzeiro EC 2,5 Alt",
+     0.5966
+    ],
+    [
+     "Cruzeiro EC 3,5 Üst",
+     0.2005
+    ],
+    [
+     "Cruzeiro EC 3,5 Alt",
+     0.7995
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : 1. Yarı SE Palmeiras Toplam",
+   "oneri": "SE Palmeiras 1,5 Üst",
+   "olasilik": 0.8144,
+   "adil_oran": 1.23,
+   "en_olasi": "SE Palmeiras 0,5 Üst",
+   "en_olasi_p": 0.9553,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "SE Palmeiras 0,5 Üst",
+     0.9553
+    ],
+    [
+     "SE Palmeiras 0,5 Alt",
+     0.0447
+    ],
+    [
+     "SE Palmeiras 1,5 Üst",
+     0.8144
+    ],
+    [
+     "SE Palmeiras 1,5 Alt",
+     0.1856
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Toplam Korner : 2. Yarı",
+   "oneri": "Toplam 4,5 Üst",
+   "olasilik": 0.7276,
+   "adil_oran": 1.37,
+   "en_olasi": "Toplam 4,5 Üst",
+   "en_olasi_p": 0.7276,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 4,5 Üst",
+     0.7276
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.2724
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.5689
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.4311
+    ],
+    [
+     "Toplam 6,5 Üst",
+     0.4082
+    ],
+    [
+     "Toplam 6,5 Alt",
+     0.5918
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : İlk Korner",
+   "oneri": "SE Palmeiras",
+   "olasilik": 0.5327,
+   "adil_oran": 1.88,
+   "en_olasi": "SE Palmeiras",
+   "en_olasi_p": 0.5327,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC",
+     0.4673
+    ],
+    [
+     "SE Palmeiras",
+     0.5327
+    ],
+    [
+     "Korner yok",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "Kornerler : Son Korner",
+   "oneri": "SE Palmeiras",
+   "olasilik": 0.5362,
+   "adil_oran": 1.87,
+   "en_olasi": "SE Palmeiras",
+   "en_olasi_p": 0.5362,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC",
+     0.4638
+    ],
+    [
+     "SE Palmeiras",
+     0.5362
+    ],
+    [
+     "Korner yok",
+     0.0
+    ]
+   ]
+  },
+  {
+   "kategori": "KORNER",
+   "yontem": "korner",
+   "pazar": "En Fazla Korner Olan Yarı",
+   "oneri": "2. Yarı",
+   "olasilik": 0.5224,
+   "adil_oran": 1.91,
+   "en_olasi": "2. Yarı",
+   "en_olasi_p": 0.5224,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1. Yarı",
+     0.361
+    ],
+    [
+     "Eşit",
+     0.1166
+    ],
+    [
+     "2. Yarı",
+     0.5224
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan : Sonuç",
+   "oneri": "1 (Cruzeiro EC)",
+   "olasilik": 0.4686,
+   "adil_oran": 2.13,
+   "en_olasi": "1 (Cruzeiro EC)",
+   "en_olasi_p": 0.4686,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "1 (Cruzeiro EC)",
+     0.4686
+    ],
+    [
+     "X",
+     0.1578
+    ],
+    [
+     "2 (SE Palmeiras)",
+     0.3737
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Puan Handikapı",
+   "oneri": "Cruzeiro EC +15,5",
+   "olasilik": 0.7823,
+   "adil_oran": 1.28,
+   "en_olasi": "Cruzeiro EC +15,5",
+   "en_olasi_p": 0.7823,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Cruzeiro EC -15,5",
+     0.2992
+    ],
+    [
+     "SE Palmeiras +15,5",
+     0.7008
+    ],
+    [
+     "Cruzeiro EC -5,5",
+     0.4583
+    ],
+    [
+     "SE Palmeiras +5,5",
+     0.5417
+    ],
+    [
+     "Cruzeiro EC +5,5",
+     0.6373
+    ],
+    [
+     "SE Palmeiras -5,5",
+     0.3627
+    ],
+    [
+     "Cruzeiro EC +15,5",
+     0.7823
+    ],
+    [
+     "SE Palmeiras -15,5",
+     0.2177
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam Puan",
+   "oneri": "Toplam 35,5 Üst",
+   "olasilik": 0.7568,
+   "adil_oran": 1.32,
+   "en_olasi": "Toplam 25,5 Üst",
+   "en_olasi_p": 0.8836,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 25,5 Üst",
+     0.8836
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.1164
+    ],
+    [
+     "Toplam 35,5 Üst",
+     0.7568
+    ],
+    [
+     "Toplam 35,5 Alt",
+     0.2432
+    ],
+    [
+     "Toplam 45,5 Üst",
+     0.5939
+    ],
+    [
+     "Toplam 45,5 Alt",
+     0.4061
+    ],
+    [
+     "Toplam 55,5 Üst",
+     0.4284
+    ],
+    [
+     "Toplam 55,5 Alt",
+     0.5716
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Cruzeiro EC : Toplam Kart Puanı",
+   "oneri": "Cruzeiro EC 15,5 Üst",
+   "olasilik": 0.7517,
+   "adil_oran": 1.33,
+   "en_olasi": "Cruzeiro EC 5,5 Üst",
+   "en_olasi_p": 0.9304,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Cruzeiro EC 5,5 Üst",
+     0.9304
+    ],
+    [
+     "Cruzeiro EC 5,5 Alt",
+     0.0696
+    ],
+    [
+     "Cruzeiro EC 15,5 Üst",
+     0.7517
+    ],
+    [
+     "Cruzeiro EC 15,5 Alt",
+     0.2483
+    ],
+    [
+     "Cruzeiro EC 25,5 Üst",
+     0.5165
+    ],
+    [
+     "Cruzeiro EC 25,5 Alt",
+     0.4835
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : SE Palmeiras : Toplam Kart Puanı",
+   "oneri": "SE Palmeiras 35,5 Alt",
+   "olasilik": 0.7558,
+   "adil_oran": 1.32,
+   "en_olasi": "SE Palmeiras 5,5 Üst",
+   "en_olasi_p": 0.907,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "SE Palmeiras 5,5 Üst",
+     0.907
+    ],
+    [
+     "SE Palmeiras 5,5 Alt",
+     0.093
+    ],
+    [
+     "SE Palmeiras 15,5 Üst",
+     0.6926
+    ],
+    [
+     "SE Palmeiras 15,5 Alt",
+     0.3074
+    ],
+    [
+     "SE Palmeiras 25,5 Üst",
+     0.4436
+    ],
+    [
+     "SE Palmeiras 25,5 Alt",
+     0.5564
+    ],
+    [
+     "SE Palmeiras 35,5 Üst",
+     0.2442
+    ],
+    [
+     "SE Palmeiras 35,5 Alt",
+     0.7558
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : Toplam (Aralıklar)",
+   "oneri": "41-60 puan",
+   "olasilik": 0.2964,
+   "adil_oran": 3.37,
+   "en_olasi": "41-60 puan",
+   "en_olasi_p": 0.2964,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "0-20 puan",
+     0.1158
+    ],
+    [
+     "21-40 puan",
+     0.2816
+    ],
+    [
+     "41-60 puan",
+     0.2964
+    ],
+    [
+     "61+ puan",
+     0.2522
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Toplam Kart Puanı",
+   "oneri": "Toplam 25,5 Alt",
+   "olasilik": 0.7094,
+   "adil_oran": 1.41,
+   "en_olasi": "Toplam 5,5 Üst",
+   "en_olasi_p": 0.8373,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Toplam 5,5 Üst",
+     0.8373
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.1627
+    ],
+    [
+     "Toplam 15,5 Üst",
+     0.5493
+    ],
+    [
+     "Toplam 15,5 Alt",
+     0.4507
+    ],
+    [
+     "Toplam 25,5 Üst",
+     0.2906
+    ],
+    [
+     "Toplam 25,5 Alt",
+     0.7094
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : Cruzeiro EC : Toplam Kart Puanı",
+   "oneri": "Cruzeiro EC 15,5 Alt",
+   "olasilik": 0.7409,
+   "adil_oran": 1.35,
+   "en_olasi": "Cruzeiro EC 15,5 Alt",
+   "en_olasi_p": 0.7409,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Cruzeiro EC 5,5 Üst",
+     0.6162
+    ],
+    [
+     "Cruzeiro EC 5,5 Alt",
+     0.3838
+    ],
+    [
+     "Cruzeiro EC 15,5 Üst",
+     0.2591
+    ],
+    [
+     "Cruzeiro EC 15,5 Alt",
+     0.7409
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 1. Yarı : SE Palmeiras : Toplam Kart Puanı",
+   "oneri": "SE Palmeiras 15,5 Alt",
+   "olasilik": 0.7772,
+   "adil_oran": 1.29,
+   "en_olasi": "SE Palmeiras 15,5 Alt",
+   "en_olasi_p": 0.7772,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "SE Palmeiras 5,5 Üst",
+     0.5737
+    ],
+    [
+     "SE Palmeiras 5,5 Alt",
+     0.4263
+    ],
+    [
+     "SE Palmeiras 15,5 Üst",
+     0.2228
+    ],
+    [
+     "SE Palmeiras 15,5 Alt",
+     0.7772
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : Cruzeiro EC : Toplam Kart Puanı",
+   "oneri": "Cruzeiro EC 5,5 Üst",
+   "olasilik": 0.8182,
+   "adil_oran": 1.22,
+   "en_olasi": "Cruzeiro EC 5,5 Üst",
+   "en_olasi_p": 0.8182,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "Cruzeiro EC 5,5 Üst",
+     0.8182
+    ],
+    [
+     "Cruzeiro EC 5,5 Alt",
+     0.1818
+    ],
+    [
+     "Cruzeiro EC 15,5 Üst",
+     0.5219
+    ],
+    [
+     "Cruzeiro EC 15,5 Alt",
+     0.4781
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (PUAN)",
+   "yontem": "kart",
+   "pazar": "Kartlar : 2. Yarı : SE Palmeiras : Toplam Kart Puanı",
+   "oneri": "SE Palmeiras 25,5 Alt",
+   "olasilik": 0.7811,
+   "adil_oran": 1.28,
+   "en_olasi": "SE Palmeiras 25,5 Alt",
+   "en_olasi_p": 0.7811,
+   "guven": "orta",
+   "not_": "Sarı = 10, kırmızı = 25 puan varsayıldı",
+   "secimler": [
+    [
+     "SE Palmeiras 5,5 Üst",
+     0.781
+    ],
+    [
+     "SE Palmeiras 5,5 Alt",
+     0.219
+    ],
+    [
+     "SE Palmeiras 15,5 Üst",
+     0.4603
+    ],
+    [
+     "SE Palmeiras 15,5 Alt",
+     0.5396
+    ],
+    [
+     "SE Palmeiras 25,5 Üst",
+     0.2189
+    ],
+    [
+     "SE Palmeiras 25,5 Alt",
+     0.7811
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Direkt Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9053,
+   "adil_oran": 1.1,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9053,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0946
+    ],
+    [
+     "Hayır",
+     0.9053
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Yarıda Kart Olur",
+   "oneri": "Evet",
+   "olasilik": 0.8037,
+   "adil_oran": 1.24,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.8037,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.8037
+    ],
+    [
+     "Hayır",
+     0.1963
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kırmızı Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.9939,
+   "adil_oran": 1.01,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9939,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0061
+    ],
+    [
+     "Hayır",
+     0.9939
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Kart Alır",
+   "oneri": "Evet",
+   "olasilik": 0.8438,
+   "adil_oran": 1.19,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.8438,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.8438
+    ],
+    [
+     "Hayır",
+     0.1562
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da 2 veya Daha Fazla Kart Görür",
+   "oneri": "Evet",
+   "olasilik": 0.515,
+   "adil_oran": 1.94,
+   "en_olasi": "Evet",
+   "en_olasi_p": 0.515,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.515
+    ],
+    [
+     "Hayır",
+     0.485
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Her İki Takım da Her İki Yarıda Kart Alır",
+   "oneri": "Hayır",
+   "olasilik": 0.7752,
+   "adil_oran": 1.29,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7752,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2248
+    ],
+    [
+     "Hayır",
+     0.7752
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İlk Kartı Görecek Takım",
+   "oneri": "Cruzeiro EC",
+   "olasilik": 0.5227,
+   "adil_oran": 1.91,
+   "en_olasi": "Cruzeiro EC",
+   "en_olasi_p": 0.5227,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC",
+     0.5227
+    ],
+    [
+     "SE Palmeiras",
+     0.4709
+    ],
+    [
+     "Kart yok",
+     0.0064
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Son Kartı Görecek Takım",
+   "oneri": "Cruzeiro EC",
+   "olasilik": 0.5231,
+   "adil_oran": 1.91,
+   "en_olasi": "Cruzeiro EC",
+   "en_olasi_p": 0.5231,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC",
+     0.5231
+    ],
+    [
+     "SE Palmeiras",
+     0.4705
+    ],
+    [
+     "Kart yok",
+     0.0064
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Maçta Penaltı, Kırmızı Kart ve Kendi Kalesine Gol Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9964,
+   "adil_oran": 1.0,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9964,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0036
+    ],
+    [
+     "Hayır",
+     0.9964
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarı Uzatma Dakikalarında Kart Gösterilir (90+ dak)",
+   "oneri": "Hayır",
+   "olasilik": 0.6742,
+   "adil_oran": 1.48,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6742,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3258
+    ],
+    [
+     "Hayır",
+     0.6742
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "İkinci Yarının Uzatma Dakikalarında Kırmızı Kart veya Gol Olur (90+ dakika)",
+   "oneri": "Hayır",
+   "olasilik": 0.8122,
+   "adil_oran": 1.23,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8122,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1878
+    ],
+    [
+     "Hayır",
+     0.8122
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Toplam Kırmızı Kartlar",
+   "oneri": "Toplam 1,5 Alt",
+   "olasilik": 0.9885,
+   "adil_oran": 1.01,
+   "en_olasi": "Toplam 1,5 Alt",
+   "en_olasi_p": 0.9885,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.1483
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.8517
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.0115
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.9885
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "Cruzeiro EC : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9227,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9227,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0773
+    ],
+    [
+     "Hayır",
+     0.9227
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "SE Palmeiras : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9229,
+   "adil_oran": 1.08,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9229,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0771
+    ],
+    [
+     "Hayır",
+     0.9229
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "1. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.946,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.946,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.054
+    ],
+    [
+     "Hayır",
+     0.946
+    ]
+   ]
+  },
+  {
+   "kategori": "KART (GENEL)",
+   "yontem": "kart",
+   "pazar": "2. Yarı : Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9001,
+   "adil_oran": 1.11,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9001,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0999
+    ],
+    [
+     "Hayır",
+     0.9001
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Sonuç",
+   "oneri": "1 (Cruzeiro EC)",
+   "olasilik": 0.4601,
+   "adil_oran": 2.17,
+   "en_olasi": "1 (Cruzeiro EC)",
+   "en_olasi_p": 0.4601,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Cruzeiro EC)",
+     0.4601
+    ],
+    [
+     "X",
+     0.1827
+    ],
+    [
+     "2 (SE Palmeiras)",
+     0.3572
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Çifte Şans",
+   "oneri": "12",
+   "olasilik": 0.8173,
+   "adil_oran": 1.22,
+   "en_olasi": "12",
+   "en_olasi_p": 0.8173,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1X",
+     0.6428
+    ],
+    [
+     "12",
+     0.8173
+    ],
+    [
+     "X2",
+     0.5399
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Handikap",
+   "oneri": "Cruzeiro EC +1,5",
+   "olasilik": 0.797,
+   "adil_oran": 1.25,
+   "en_olasi": "Cruzeiro EC +1,5",
+   "en_olasi_p": 0.797,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC -1,5",
+     0.2882
+    ],
+    [
+     "SE Palmeiras +1,5",
+     0.7118
+    ],
+    [
+     "Cruzeiro EC -0,5",
+     0.4601
+    ],
+    [
+     "SE Palmeiras +0,5",
+     0.5399
+    ],
+    [
+     "Cruzeiro EC +0,5",
+     0.6428
+    ],
+    [
+     "SE Palmeiras -0,5",
+     0.3572
+    ],
+    [
+     "Cruzeiro EC +1,5",
+     0.797
+    ],
+    [
+     "SE Palmeiras -1,5",
+     0.203
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Toplam",
+   "oneri": "Toplam 3,5 Üst",
+   "olasilik": 0.7289,
+   "adil_oran": 1.37,
+   "en_olasi": "Toplam 2,5 Üst",
+   "en_olasi_p": 0.8702,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 2,5 Üst",
+     0.8702
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.1298
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.7289
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.2711
+    ],
+    [
+     "Toplam 4,5 Üst",
+     0.5503
+    ],
+    [
+     "Toplam 4,5 Alt",
+     0.4497
+    ],
+    [
+     "Toplam 5,5 Üst",
+     0.3757
+    ],
+    [
+     "Toplam 5,5 Alt",
+     0.6243
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Cruzeiro EC : Toplam",
+   "oneri": "Cruzeiro EC 1,5 Üst",
+   "olasilik": 0.737,
+   "adil_oran": 1.36,
+   "en_olasi": "Cruzeiro EC 0,5 Üst",
+   "en_olasi_p": 0.927,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC 0,5 Üst",
+     0.927
+    ],
+    [
+     "Cruzeiro EC 0,5 Alt",
+     0.0731
+    ],
+    [
+     "Cruzeiro EC 1,5 Üst",
+     0.737
+    ],
+    [
+     "Cruzeiro EC 1,5 Alt",
+     0.263
+    ],
+    [
+     "Cruzeiro EC 2,5 Üst",
+     0.4871
+    ],
+    [
+     "Cruzeiro EC 2,5 Alt",
+     0.5129
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : SE Palmeiras : Toplam",
+   "oneri": "SE Palmeiras 3,5 Alt",
+   "olasilik": 0.7933,
+   "adil_oran": 1.26,
+   "en_olasi": "SE Palmeiras 0,5 Üst",
+   "en_olasi_p": 0.9024,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "SE Palmeiras 0,5 Üst",
+     0.9024
+    ],
+    [
+     "SE Palmeiras 0,5 Alt",
+     0.0976
+    ],
+    [
+     "SE Palmeiras 1,5 Üst",
+     0.6747
+    ],
+    [
+     "SE Palmeiras 1,5 Alt",
+     0.3253
+    ],
+    [
+     "SE Palmeiras 2,5 Üst",
+     0.4108
+    ],
+    [
+     "SE Palmeiras 2,5 Alt",
+     0.5892
+    ],
+    [
+     "SE Palmeiras 3,5 Üst",
+     0.2067
+    ],
+    [
+     "SE Palmeiras 3,5 Alt",
+     0.7933
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Sonucu",
+   "oneri": "1 (Cruzeiro EC)",
+   "olasilik": 0.3629,
+   "adil_oran": 2.76,
+   "en_olasi": "1 (Cruzeiro EC)",
+   "en_olasi_p": 0.3629,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Cruzeiro EC)",
+     0.3629
+    ],
+    [
+     "X",
+     0.3317
+    ],
+    [
+     "2 (SE Palmeiras)",
+     0.3054
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Handikap",
+   "oneri": "Cruzeiro EC +0,5",
+   "olasilik": 0.6946,
+   "adil_oran": 1.44,
+   "en_olasi": "Cruzeiro EC +0,5",
+   "en_olasi_p": 0.6946,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC -0,5",
+     0.3629
+    ],
+    [
+     "SE Palmeiras +0,5",
+     0.6371
+    ],
+    [
+     "Cruzeiro EC +0,5",
+     0.6946
+    ],
+    [
+     "SE Palmeiras -0,5",
+     0.3054
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı : Toplam",
+   "oneri": "Toplam 0,5 Üst",
+   "olasilik": 0.8306,
+   "adil_oran": 1.2,
+   "en_olasi": "Toplam 0,5 Üst",
+   "en_olasi_p": 0.8306,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 0,5 Üst",
+     0.8306
+    ],
+    [
+     "Toplam 0,5 Alt",
+     0.1694
+    ],
+    [
+     "Toplam 1,5 Üst",
+     0.5285
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.4715
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.2613
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.7387
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı Cruzeiro EC Toplam",
+   "oneri": "Cruzeiro EC 1,5 Alt",
+   "olasilik": 0.7591,
+   "adil_oran": 1.32,
+   "en_olasi": "Cruzeiro EC 1,5 Alt",
+   "en_olasi_p": 0.7591,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC 0,5 Üst",
+     0.6086
+    ],
+    [
+     "Cruzeiro EC 0,5 Alt",
+     0.3914
+    ],
+    [
+     "Cruzeiro EC 1,5 Üst",
+     0.2409
+    ],
+    [
+     "Cruzeiro EC 1,5 Alt",
+     0.7591
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 1. Yarı SE Palmeiras Toplam",
+   "oneri": "SE Palmeiras 1,5 Alt",
+   "olasilik": 0.7962,
+   "adil_oran": 1.26,
+   "en_olasi": "SE Palmeiras 1,5 Alt",
+   "en_olasi_p": 0.7962,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "SE Palmeiras 0,5 Üst",
+     0.5651
+    ],
+    [
+     "SE Palmeiras 0,5 Alt",
+     0.4349
+    ],
+    [
+     "SE Palmeiras 1,5 Üst",
+     0.2038
+    ],
+    [
+     "SE Palmeiras 1,5 Alt",
+     0.7962
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Sonuç",
+   "oneri": "1 (Cruzeiro EC)",
+   "olasilik": 0.4258,
+   "adil_oran": 2.35,
+   "en_olasi": "1 (Cruzeiro EC)",
+   "en_olasi_p": 0.4258,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "1 (Cruzeiro EC)",
+     0.4258
+    ],
+    [
+     "X",
+     0.2323
+    ],
+    [
+     "2 (SE Palmeiras)",
+     0.3419
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı Handikap",
+   "oneri": "Cruzeiro EC +0,5",
+   "olasilik": 0.6581,
+   "adil_oran": 1.52,
+   "en_olasi": "Cruzeiro EC +0,5",
+   "en_olasi_p": 0.6581,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC -0,5",
+     0.4258
+    ],
+    [
+     "SE Palmeiras +0,5",
+     0.5742
+    ],
+    [
+     "Cruzeiro EC +0,5",
+     0.6581
+    ],
+    [
+     "SE Palmeiras -0,5",
+     0.3419
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Toplam",
+   "oneri": "Toplam 1,5 Üst",
+   "olasilik": 0.8254,
+   "adil_oran": 1.21,
+   "en_olasi": "Toplam 1,5 Üst",
+   "en_olasi_p": 0.8254,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Toplam 1,5 Üst",
+     0.8254
+    ],
+    [
+     "Toplam 1,5 Alt",
+     0.1746
+    ],
+    [
+     "Toplam 2,5 Üst",
+     0.6168
+    ],
+    [
+     "Toplam 2,5 Alt",
+     0.3832
+    ],
+    [
+     "Toplam 3,5 Üst",
+     0.3919
+    ],
+    [
+     "Toplam 3,5 Alt",
+     0.6081
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : 2. Yarı : Cruzeiro EC Toplam",
+   "oneri": "Cruzeiro EC 0,5 Üst",
+   "olasilik": 0.8125,
+   "adil_oran": 1.23,
+   "en_olasi": "Cruzeiro EC 0,5 Üst",
+   "en_olasi_p": 0.8125,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC 0,5 Üst",
+     0.8125
+    ],
+    [
+     "Cruzeiro EC 0,5 Alt",
+     0.1875
+    ],
+    [
+     "Cruzeiro EC 1,5 Üst",
+     0.5031
+    ],
+    [
+     "Cruzeiro EC 1,5 Alt",
+     0.4969
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : İlk Sarı Kartı Görür",
+   "oneri": "Cruzeiro EC",
+   "olasilik": 0.523,
+   "adil_oran": 1.91,
+   "en_olasi": "Cruzeiro EC",
+   "en_olasi_p": 0.523,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC",
+     0.523
+    ],
+    [
+     "SE Palmeiras",
+     0.4699
+    ],
+    [
+     "Sarı kart yok",
+     0.0071
+    ]
+   ]
+  },
+  {
+   "kategori": "SARI KART",
+   "yontem": "kart",
+   "pazar": "Sarı Kartlar : Son Sarı Kartı Görür",
+   "oneri": "Cruzeiro EC",
+   "olasilik": 0.5233,
+   "adil_oran": 1.91,
+   "en_olasi": "Cruzeiro EC",
+   "en_olasi_p": 0.5233,
+   "guven": "orta",
+   "not_": null,
+   "secimler": [
+    [
+     "Cruzeiro EC",
+     0.5233
+    ],
+    [
+     "SE Palmeiras",
+     0.4697
+    ],
+    [
+     "Sarı kart yok",
+     0.0071
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.7706,
+   "adil_oran": 1.3,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.7706,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.2294
+    ],
+    [
+     "Hayır",
+     0.7706
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Cruzeiro EC : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.877,
+   "adil_oran": 1.14,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.877,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.123
+    ],
+    [
+     "Hayır",
+     0.877
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "SE Palmeiras : Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.8786,
+   "adil_oran": 1.14,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8786,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1214
+    ],
+    [
+     "Hayır",
+     0.8786
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "İki Takım da Penaltı Kazanır",
+   "oneri": "Hayır",
+   "olasilik": 0.985,
+   "adil_oran": 1.02,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.985,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.015
+    ],
+    [
+     "Hayır",
+     0.985
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta İki Penaltı Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.9714,
+   "adil_oran": 1.03,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9714,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0286
+    ],
+    [
+     "Hayır",
+     0.9714
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "1. Yarı : Penaltı",
+   "oneri": "Hayır",
+   "olasilik": 0.8922,
+   "adil_oran": 1.12,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8922,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1078
+    ],
+    [
+     "Hayır",
+     0.8922
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltıdan Gol Atar",
+   "oneri": "Hayır",
+   "olasilik": 0.8189,
+   "adil_oran": 1.22,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.8189,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.1811
+    ],
+    [
+     "Hayır",
+     0.8189
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı Kaçırır",
+   "oneri": "Hayır",
+   "olasilik": 0.941,
+   "adil_oran": 1.06,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.941,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.059
+    ],
+    [
+     "Hayır",
+     0.941
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Penaltı ve Kırmızı Kart",
+   "oneri": "Hayır",
+   "olasilik": 0.9655,
+   "adil_oran": 1.04,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.9655,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.0345
+    ],
+    [
+     "Hayır",
+     0.9655
+    ]
+   ]
+  },
+  {
+   "kategori": "PENALTI",
+   "yontem": "penalti",
+   "pazar": "Maçta Penaltı veya Kırmızı Kart Olur",
+   "oneri": "Hayır",
+   "olasilik": 0.6568,
+   "adil_oran": 1.52,
+   "en_olasi": "Hayır",
+   "en_olasi_p": 0.6568,
+   "guven": "düşük",
+   "not_": null,
+   "secimler": [
+    [
+     "Evet",
+     0.3432
+    ],
+    [
+     "Hayır",
+     0.6568
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Şutları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pasları",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Pas Denemeleri",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncunun Yaptığı Fauller",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncuya Faul Yapılır",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Topa Müdahaleler",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ofsayta Düşer",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Kaleci Kurtarışları",
+   "oneri": "SE Palmeiras kalecisi 4,5 Alt",
+   "olasilik": 0.7201,
+   "adil_oran": 1.39,
+   "en_olasi": "Cruzeiro EC kalecisi 1,5 Üst",
+   "en_olasi_p": 0.8816,
+   "guven": "düşük",
+   "not_": "Rakibin beklenen golünden türetildi",
+   "secimler": [
+    [
+     "Cruzeiro EC kalecisi 1,5 Üst",
+     0.8816
+    ],
+    [
+     "Cruzeiro EC kalecisi 1,5 Alt",
+     0.1184
+    ],
+    [
+     "Cruzeiro EC kalecisi 2,5 Üst",
+     0.7122
+    ],
+    [
+     "Cruzeiro EC kalecisi 2,5 Alt",
+     0.2878
+    ],
+    [
+     "Cruzeiro EC kalecisi 3,5 Üst",
+     0.5002
+    ],
+    [
+     "Cruzeiro EC kalecisi 3,5 Alt",
+     0.4998
+    ],
+    [
+     "Cruzeiro EC kalecisi 4,5 Üst",
+     0.3077
+    ],
+    [
+     "Cruzeiro EC kalecisi 4,5 Alt",
+     0.6923
+    ],
+    [
+     "SE Palmeiras kalecisi 1,5 Üst",
+     0.8663
+    ],
+    [
+     "SE Palmeiras kalecisi 1,5 Alt",
+     0.1337
+    ],
+    [
+     "SE Palmeiras kalecisi 2,5 Üst",
+     0.6817
+    ],
+    [
+     "SE Palmeiras kalecisi 2,5 Alt",
+     0.3183
+    ],
+    [
+     "SE Palmeiras kalecisi 3,5 Üst",
+     0.4679
+    ],
+    [
+     "SE Palmeiras kalecisi 3,5 Alt",
+     0.5321
+    ],
+    [
+     "SE Palmeiras kalecisi 4,5 Üst",
+     0.2799
+    ],
+    [
+     "SE Palmeiras kalecisi 4,5 Alt",
+     0.7201
+    ]
+   ]
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Pas Veren Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "En Çok Faul Yapan Oyuncu",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 1. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu 2. Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Her İki Yarıda Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Çektiği Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Ceza Sahası Dışından Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Kafayla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  },
+  {
+   "kategori": "OYUNCU – İSTATİSTİK",
+   "yontem": "oyuncu",
+   "pazar": "Oyuncu Sağ Ayakla Kaleyi Bulan Şutlar",
+   "oneri": null,
+   "olasilik": null,
+   "adil_oran": null,
+   "en_olasi": null,
+   "en_olasi_p": null,
+   "guven": "düşük",
+   "not_": "Oyuncu istatistiği (90 dk başına) bulunamadı; değerlendirilmedi",
+   "secimler": []
+  }
+ ],
+ "eksik": [
+  "Herhangi Bir Zamanda Gol Atar",
+  "İlk Golcü",
+  "İlk Golcü Çifte Şans",
+  "Son Golcü",
+  "{EV} : İlk Golü Atar",
+  "{DEP} : İlk Golü Atar",
+  "{EV} : Son Golcü",
+  "{DEP} : Son Golü Atar",
+  "Oyuncu En Az 2 Gol Atar",
+  "Oyuncu En Az 3 Gol Atar",
+  "Oyuncu 4 veya Daha Çok Gol Atar",
+  "Herhangi Bir Zaman Gol Atar Çifte Şans",
+  "Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar",
+  "2 Oyuncu Toplamda Üst 1.5 Gol Atar",
+  "2 Oyuncu Toplamda Üst 2.5 Gol Atar",
+  "2 Oyuncu Toplamda Üst 3.5 Gol Atar",
+  "Oyuncu 1. Yarıda Gol Atar",
+  "Oyuncu 2. Yarıda Gol Atar",
+  "Oyuncu Her İki Yarıda da Gol Atar",
+  "İlk 10 Dakikada Gol Atar",
+  "Oyuncu Penaltıdan Gol Atar",
+  "Oyuncu Ceza Sahası Dışından Gol Atar",
+  "Oyuncu Kale Sahası İçinden Gol Atar",
+  "Oyuncu Kafa Golü Atar",
+  "Oyuncu Serbest Vuruştan Gol Atar",
+  "Oyuncu Sağ Ayağıyla Gol Atar",
+  "Oyuncu Gol Atar ve Takımı Kazanır",
+  "Oyuncu Gol Atar ve Rakip Takım Kazanır",
+  "Oyuncu Gol Atar ve Maç Berabere Biter",
+  "Oyuncu Asist Yapar",
+  "Oyuncu Gol Atar veya Asist Yapar",
+  "Oyuncu Gol Atar veya Asist Yapar (Çifte Şans)",
+  "Oyuncu Gol Atar ve Asist Yapar",
+  "Gol Asisti Yapar Çifte Şans",
+  "Oyuncu Penaltı Kaçırır",
+  "Penaltı Kazandıran Oyuncu",
+  "Oyuncu Kart Görür",
+  "Oyuncu Kart Görür Çifte Şans",
+  "Oyuncu Sarı Kart Görür",
+  "Kart Görecek İlk Oyuncu",
+  "Son Kartı Görecek Oyuncu",
+  "Oyundan Uzaklaştırılır"
+ ]
+}

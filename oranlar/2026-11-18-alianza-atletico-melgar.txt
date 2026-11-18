@@ -1,0 +1,5672 @@
+Maç Sonucu
+Alianza Atletico Sullana
+Beraberlik
+FBC Melgar
+1.93
+3.33
+3.53
+Çifte Şans
+1X
+12
+X2
+1.27
+1.30
+1.77
+Toplam Goller
+Üst
+Alt
+1.5
+1.29
+3.25
+2
+1.46
+2.52
+2.5
+1.91
+1.79
+3
+2.62
+1.43
+3.5
+3.20
+1.30
+Alianza Atletico Sullana : Toplam Gol
+Üst
+Alt
+1
+1.39
+2.75
+1.5
+2.02
+1.70
+FBC Melgar : Toplam Gol
+Üst
+Alt
+0.5
+1.43
+2.62
+1
+2.01
+1.71
+1.5
+3.05
+1.33
+Her iki takımda gol atar
+Evet
+Hayır
+1.77
+1.93
+Her İki Takım da 2 veya Daha Fazla Gol Atar
+YENİ
+Evet
+No
+5.85
+1.10
+Gol Handikapı
+Alianza Atletico Sullana
+FBC Melgar
+-1.5
+3.65
++1.5
+1.24
+-1
+2.85
++1
+1.37
+-0.5
+1.93
++0.5
+1.77
+0
+1.44
+0
+2.59
++0.5
+1.27
+-0.5
+3.40
+Goller Asya Handikapı
+Alianza Atletico Sullana
+FBC Melgar
+-1.25
+3.20
++1.25
+1.30
+-0.75
+2.23
++0.75
+1.58
+-0.25
+1.68
++0.25
+2.05
++0.25
+1.34
+-0.25
+3.00
+Gol Handikapı (3-İhtimalli)
+Alianza Atletico Sullana
+Beraberlik : FBC Melgar
+FBC Melgar
+-1
+3.72
++1
+3.62
++1
+1.77
+Toplam Goller Asya
+Üst
+Alt
+1.75
+1.36
+2.87
+2.25
+1.69
+2.04
+2.75
+2.17
+1.61
+3.25
+2.95
+1.35
+Alianza Atletico Sullana : Asist Yapar. Toplam
+YENİ
+1+
+1.57
+2+
+3.65
+3+
+10.00
+4+
+23.00
+FBC Melgar : Asist Yapar. Toplam
+YENİ
+1+
+1.79
+2+
+4.85
+3+
+15.00
+4+
+31.00
+Her iki yarıda gol olur
+Evet
+Hayır
+1.77
+1.93
+İlk Golü Atacak Takım
+Alianza Atletico Sullana
+FBC Melgar
+Gol Yok
+1.68
+2.31
+11.00
+Son Golü Atacak Takım
+Alianza Atletico Sullana
+FBC Melgar
+Gol Yok
+1.68
+2.31
+11.00
+Alianza Atletico Sullana : Toplam Gol Asya
+Üst
+Alt
+1.25
+1.71
+2.01
+1.75
+2.40
+1.50
+FBC Melgar : Toplam Gol Asya
+Üst
+Alt
+0.75
+1.59
+2.21
+1.25
+2.52
+1.46
+Toplam Gol Tek / Çift
+Çift
+Tek
+1.78
+1.92
+Alianza Atletico Sullana : Gol Atar
+Evet
+Hayır
+1.21
+3.90
+FBC Melgar Gol Atar
+Evet
+Hayır
+1.43
+2.62
+Alianza Atletico Sullana Gol Atar ve Maç Sonucu
+Evet ve Alianza Atletico Sullana
+1.93
+Evet ve Berabere
+4.40
+Hayır ve Berabere
+11.00
+Evet ve FBC Melgar
+7.00
+Hayır ve FBC Melgar
+6.20
+FBC Melgar Gol Atar ve Maç Sonucu
+Evet ve Alianza Atletico Sullana
+4.10
+Hayır ve Alianza Atletico Sullana
+3.30
+Evet ve Berabere
+4.40
+Hayır ve Berabere
+11.00
+Evet ve FBC Melgar
+3.40
+Alianza Atletico Sullana : Bahis Yok
+Beraberlik
+FBC Melgar
+1.80
+1.90
+FBC Melgar : Bahis Yok
+Alianza Atletico Sullana
+Beraberlik
+1.47
+2.50
+Maç Sonucu ve Karşılıklı Gol
+Alianza Atletico Sullana Ve Evet
+4.10
+Beraberlik Ve Hayır
+11.00
+Alianza Atletico Sullana Ve Hayır
+3.30
+FBC Melgar Ve Evet
+7.00
+Beraberlik ve Evet
+4.40
+FBC Melgar Ve Hayır
+6.20
+Çifte Şans ve Karşılıklı Gol
+1X Ve Evet
+2.10
+12 Ve Hayır
+2.13
+1X Ve Hayır
+2.62
+X2 Ve Evet
+2.63
+12 Ve Evet
+2.51
+X2 Ve Hayır
+3.71
+Maç Sonucu ve Toplam Gol 1.5
+Alianza Atletico Sullana ve Üst 1.5
+2.49
+Alianza Atletico Sullana ve Alt 1.5
+7.00
+Beraberlik ve Üst 1.5
+4.40
+Beraberlik ve Alt 1.5
+11.00
+FBC Melgar ve Üst 1.5
+4.80
+FBC Melgar ve Alt 1.5
+11.00
+1X ve Üst 1.5
+1.68
+1X ve Alt 1.5
+4.50
+12 ve Üst 1.5
+1.73
+12 ve Alt 1.5
+4.50
+X2 ve Üst 1.5
+2.43
+X2 ve Alt 1.5
+5.60
+Maç Sonucu ve Toplam Gol 2.5
+Alianza Atletico Sullana ve Üst 2.5
+3.14
+Alianza Atletico Sullana ve Alt 2.5
+4.33
+Beraberlik ve Üst 2.5
+12.00
+Beraberlik ve Alt 2.5
+4.20
+FBC Melgar ve Üst 2.5
+6.00
+FBC Melgar ve Alt 2.5
+7.20
+1X ve Üst 2.5
+2.60
+1X ve Alt 2.5
+2.26
+12 ve Üst 2.5
+2.18
+12 ve Alt 2.5
+2.85
+X2 ve Üst 2.5
+4.30
+X2 ve Alt 2.5
+2.80
+Maç Sonucu ve Toplam Gol 3.5
+Alianza Atletico Sullana ve Üst 3.5
+6.00
+Alianza Atletico Sullana ve Alt 3.5
+2.65
+Beraberlik ve Üst 3.5
+12.00
+Beraberlik ve Alt 3.5
+4.20
+FBC Melgar ve Üst 3.5
+13.00
+FBC Melgar ve Alt 3.5
+4.50
+1X ve Üst 3.5
+4.20
+1X ve Alt 3.5
+1.71
+12 ve Üst 3.5
+4.30
+12 ve Alt 3.5
+1.75
+X2 ve Üst 3.5
+6.60
+X2 ve Alt 3.5
+2.29
+Maç Sonucu ve Toplam Gol 4.5
+Alianza Atletico Sullana ve Üst 4.5
+10.00
+Alianza Atletico Sullana ve Alt 4.5
+2.27
+Beraberlik ve Üst 4.5
+61.00
+Beraberlik ve Alt 4.5
+3.40
+FBC Melgar ve Üst 4.5
+21.00
+FBC Melgar ve Alt 4.5
+3.98
+1X ve Üst 4.5
+9.10
+1X ve Alt 4.5
+1.43
+12 ve Üst 4.5
+7.30
+12 ve Alt 4.5
+1.52
+X2 ve Üst 4.5
+17.00
+X2 ve Alt 4.5
+1.94
+Sonuç ve Alianza Atletico Sullana : Toplam Gol
+Alianza Atletico Sullana ve Üst (1.5)
+2.32
+Alianza Atletico Sullana ve Alt (1.5)
+6.15
+Beraberlik ve Üst (1.5)
+10.00
+Beraberlik ve Alt (1.5)
+3.77
+FBC Melgar ve Üst (1.5)
+21.00
+FBC Melgar ve Alt (1.5)
+3.47
+Alianza Atletico Sullana ve Üst (2.5)
+4.10
+Alianza Atletico Sullana ve Alt (2.5)
+2.77
+Beraberlik ve Üst (2.5)
+46.00
+Beraberlik ve Alt (2.5)
+3.10
+FBC Melgar ve Üst (2.5)
+126.00
+FBC Melgar ve Alt (2.5)
+3.19
+Alianza Atletico Sullana ve Üst (3.5)
+9.60
+Alianza Atletico Sullana ve Alt (3.5)
+2.09
+Beraberlik ve Üst (3.5)
+351.00
+Beraberlik ve Alt (3.5)
+3.00
+FBC Melgar ve Üst (3.5)
+276.00
+FBC Melgar ve Alt (3.5)
+3.16
+Sonuç ve FBC Melgar : Toplam Gol
+Alianza Atletico Sullana ve Üst (1.5)
+14.00
+Alianza Atletico Sullana ve Alt (1.5)
+1.99
+Beraberlik ve Üst (1.5)
+10.00
+Beraberlik ve Alt (1.5)
+3.77
+FBC Melgar ve Üst (1.5)
+4.30
+FBC Melgar ve Alt (1.5)
+8.80
+Alianza Atletico Sullana ve Üst (2.5)
+81.00
+Alianza Atletico Sullana ve Alt (2.5)
+1.85
+Beraberlik ve Üst (2.5)
+46.00
+Beraberlik ve Alt (2.5)
+3.10
+FBC Melgar ve Üst (2.5)
+8.80
+FBC Melgar ve Alt (2.5)
+4.30
+Alianza Atletico Sullana ve Üst (3.5)
+351.00
+Alianza Atletico Sullana ve Alt (3.5)
+1.83
+Beraberlik ve Üst (3.5)
+351.00
+Beraberlik ve Alt (3.5)
+3.00
+FBC Melgar ve Üst (3.5)
+26.00
+FBC Melgar ve Alt (3.5)
+3.41
+Sonuç veya Toplam Gol
+Alianza Atletico Sullana veya Üst (2.5)
+1.36
+Alianza Atletico Sullana veya Alt (2.5)
+1.19
+Beraberlik veya Üst (2.5)
+1.35
+Beraberlik veya Alt (2.5)
+1.55
+FBC Melgar veya Üst (2.5)
+1.52
+FBC Melgar veya Alt (2.5)
+1.44
+Alianza Atletico Sullana veya Üst (3.5)
+1.50
+Alianza Atletico Sullana veya Alt (3.5)
+1.10
+Beraberlik veya Üst (3.5)
+1.86
+Beraberlik veya Alt (3.5)
+1.18
+FBC Melgar veya Üst (3.5)
+1.91
+FBC Melgar veya Alt (3.5)
+1.19
+Daha Fazla Seçeneği Göster
+Maç Sonucu ve Toplam Gol (Kesin)
+Alianza Atletico Sullana ve 1
+6.80
+Alianza Atletico Sullana ve 2
+9.70
+Alianza Atletico Sullana ve 3
+5.80
+Alianza Atletico Sullana ve 4+
+5.90
+Beraberlik ve 0
+10.00
+Beraberlik ve 2
+6.00
+Beraberlik ve 4
+13.00
+Beraberlik ve 6+
+56.00
+FBC Melgar ve 1
+9.80
+FBC Melgar ve 2
+17.00
+FBC Melgar ve 3
+9.50
+FBC Melgar ve 4+
+12.00
+Sonuç ve Toplam Gol (Genişletilmiş Aralık)
+Alianza Atletico Sullana ve 1-2
+4.20
+Alianza Atletico Sullana ve 1-3
+2.59
+Alianza Atletico Sullana ve 1-4
+2.23
+Alianza Atletico Sullana ve 1-5
+2.00
+Alianza Atletico Sullana ve 1-6
+1.94
+Alianza Atletico Sullana ve 2-3
+3.79
+Alianza Atletico Sullana ve 2-4
+3.04
+Alianza Atletico Sullana ve 2-5
+2.62
+Alianza Atletico Sullana ve 2-6
+2.51
+Alianza Atletico Sullana ve 3-4
+4.10
+Alianza Atletico Sullana ve 3-5
+3.37
+Alianza Atletico Sullana ve 3-6
+3.19
+Daha Fazla Seçeneği Göster
+Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)
+1X ve 1-2
+2.66
+1X ve 1-3
+1.93
+1X ve 1-4
+1.58
+1X ve 1-5
+1.47
+1X ve 1-6
+1.42
+1X ve 2-3
+2.50
+1X ve 2-4
+1.94
+1X ve 2-5
+1.77
+1X ve 2-6
+1.69
+1X ve 3-4
+3.33
+1X ve 3-5
+2.83
+1X ve 3-6
+2.63
+1X ve 4-5
+4.90
+1X ve 4-6
+4.33
+1X ve 5-6
+10.00
+1X ve Herhangi bir diğer
+8.90
+12 ve 1-2
+2.79
+12 ve 1-3
+1.73
+Daha Fazla Seçeneği Göster
+Sonuç veya Doğru Skor
+Alianza Atletico Sullana veya 0-0: Evet
+1.67
+Alianza Atletico Sullana veya 0-0: Hayır
+2.02
+FBC Melgar veya 0-0: Evet
+2.68
+FBC Melgar veya 0-0: Hayır
+1.40
+Alianza Atletico Sullana veya 1-1: Evet
+1.53
+Alianza Atletico Sullana veya 1-1: Hayır
+2.28
+FBC Melgar veya 1-1: Evet
+2.32
+FBC Melgar veya 1-1: Hayır
+1.51
+Alianza Atletico Sullana veya 0-1: Evet
+1.66
+Alianza Atletico Sullana veya 0-1: Hayır
+2.02
+FBC Melgar veya 1-0: Evet
+2.40
+FBC Melgar veya 1-0: Hayır
+1.48
+Her İki Yarı Toplam Gol Kombinasyonu
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+2.64
+İlk yarıda 0.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+5.30
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 0.5 Üst gol
+2.98
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 1.5 Üst gol
+4.80
+İlk yarıda 1.5 Üst gol ve İkinci yarıda 2.5 Üst gol
+9.70
+İlk yarıda 0.5 Üst gol ve Maç sonucu 1.5 Üst gol
+1.47
+İlk yarıda 0.5 Üst gol ve Maç sonucu 2.5 Üst gol
+1.93
+İlk yarıda 0.5 Üst gol ve Maç sonucu 3.5 Üst gol
+3.00
+İlk yarıda 0.5 Üst gol ve Maç sonucu 4.5 Üst gol
+5.40
+İlk yarıda 1.5 Üst gol ve Maç sonucu 2.5 Üst gol
+2.74
+İlk yarıda 1.5 Üst gol ve Maç sonucu 3.5 Üst gol
+3.80
+İlk yarıda 1.5 Üst gol ve Maç sonucu 4.5 Üst gol
+6.30
+İlk yarıda 2.5 Üst gol ve Maç sonucu 3.5 Üst gol
+6.50
+İlk yarıda 2.5 Üst gol ve Maç sonucu 4.5 Üst gol
+9.30
+Toplam Gol (Kesin)
+0
+11.00
+1
+4.30
+2
+3.41
+3
+3.84
+4
+5.60
+5
+10.00
+6 veya Daha Fazla
+14.00
+Alianza Atletico Sullana : Toplam Gol (Kesin)
+0
+3.38
+1
+2.51
+2
+3.29
+3
+6.00
+4 veya Daha Fazla
+11.00
+FBC Melgar : Toplam Gol (Kesin)
+0
+2.62
+1
+2.33
+2
+4.10
+3
+10.00
+4 veya Daha Fazla
+26.00
+Toplam Gol (Aralık)
+0-1
+3.25
+2-3
+1.91
+4 ila 6
+2.95
+7 veya Daha fazla
+34.00
+Toplam Gol (Genişletilmiş Gol Aralığı)
+1-2
+1.75
+1-3
+1.32
+1-4
+1.15
+1-5
+1.08
+1-6
+1.05
+2-3
+1.91
+2-4
+1.39
+2-5
+1.28
+2-6
+1.24
+3-4
+2.00
+3-5
+1.75
+3-6
+1.95
+Daha Fazla Seçeneği Göster
+Alianza Atletico Sullana Kesin Gol Farkıyla Kazanır
+Evet
+Hayır
+1
+3.57
+1.25
+2
+5.55
+1.11
+3
+8.70
+1.035
+FBC Melgar : Kesin Gol Farkıyla Kazanır
+Evet
+Hayır
+1
+4.90
+1.14
+2
+8.50
+1.04
+Alianza Atletico Sullana Kazanır ve Kesin Gol Atar
+Evet
+Hayır
+1
+6.15
+1.09
+2
+4.57
+1.16
+3
+6.15
+1.09
+FBC Melgar Kazanır ve Kesin gol atar
+Evet
+Hayır
+1
+7.85
+1.05
+2
+6.70
+1.075
+3
+9.00
+1.03
+En Az Bir Takım Üst Gol Atar
+YENİ
+Evet
+No
+1.5
+1.56
+2.27
+2.5
+3.20
+1.30
+3.5
+7.10
+1.065
+1. Gol Zamanı
+1-10
+3.45
+11-20
+3.82
+21-30
+4.60
+31-40
+5.30
+41-50
+6.20
+51-60
+10.00
+61-70
+13.00
+71-80
+14.00
+81-90+
+14.00
+Gol Yok
+7.60
+Doğru Skor
+1-0
+6.50
+0-0
+11.00
+0-1
+7.85
+2-0
+9.20
+1-1
+6.30
+0-2
+17.00
+2-1
+7.70
+2-2
+13.00
+1-2
+11.00
+3-0
+15.00
+3-3
+56.00
+0-3
+36.00
+3-1
+15.00
+4-4
+301.00
+1-3
+26.00
+3-2
+25.00
+5-5
+301.00
+2-3
+34.00
+Daha Fazla Seçeneği Göster
+Herhangi Bir Zamanda Doğru Skor
+0-1
+2.30
+0-2
+6.20
+0-3
+19.00
+0-4
+76.00
+0-5
+226.00
+1-0
+1.67
+1-1
+2.44
+1-2
+5.40
+1-3
+15.00
+1-4
+56.00
+1-5
+226.00
+2-0
+3.27
+2-1
+3.93
+2-2
+8.00
+2-3
+21.00
+2-4
+76.00
+2-5
+226.00
+3-0
+7.50
+Daha Fazla Seçeneği Göster
+1.Yarı Sonucu
+Alianza Atletico Sullana
+Beraberlik
+FBC Melgar
+2.46
+2.12
+3.83
+1.Yarı Çifte Şans
+1X
+12
+X2
+1.22
+1.60
+1.46
+1. Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.37
+2.85
+1
+1.82
+1.88
+1.5
+2.70
+1.40
+1. Yarı 1. Takım Toplam Gol
+Üst
+Alt
+0.5
+1.85
+1.85
+1. Yarı 2. Takım Toplam Gol
+Üst
+Alt
+0.5
+2.39
+1.51
+1. Yarı Alianza Atletico Sullana Toplam Goller Asya
+Üst
+Alt
+0.75
+2.30
+1.55
+1. Yarı Karşılıklı Gol
+Evet
+Hayır
+4.30
+1.18
+1. Yarı Gol Handikapı
+Alianza Atletico Sullana
+FBC Melgar
+-0.5
+2.50
++0.5
+1.47
+0
+1.50
+0
+2.40
+1. Yarı Goller Asya Handikapı
+Alianza Atletico Sullana
+FBC Melgar
+-0.75
+3.25
++0.75
+1.29
+-0.25
+2.00
++0.25
+1.72
++0.25
+1.31
+-0.25
+3.15
+1.Yarı Toplam Gol Asya
+Üst
+Alt
+0.75
+1.51
+2.39
+1.25
+2.27
+1.56
+1.75
+3.47
+1.26
+1. Yarı: Sonuç ve Her İki Takımda Gol atar
+Alianza Atletico Sullana Ve Evet
+8.30
+Beraberlik ve Hayır
+2.23
+Alianza Atletico Sullana Ve Hayır
+2.85
+FBC Melgar ve Evet
+11.00
+Beraberlik ve Evet
+4.60
+FBC Melgar ve Hayır
+4.30
+1. Yarı Toplam Gol Aralığı
+0-1
+1.40
+2-3
+2.79
+4 ila 6
+19.00
+7 veya Daha fazla
+29.00
+1.Yarı Alianza Atletico Sullana Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.11
+4.40
+111.00
+1.Yarı FBC Melgar Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.04
+5.70
+276.00
+1. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.60
+1-3
+1.42
+1-4
+1.37
+2-3
+2.79
+2-4
+2.70
+3-4
+7.10
+Herhangi Diğer
+2.72
+1.Yarı Toplam Gol (Kesin)
+0
+2.85
+1
+2.21
+2
+3.38
+3
+7.20
+4 veya Daha Fazla
+15.00
+1.Yarı Alianza Atletico Sullana Toplam Gol (Kesin)
+0
+1
+2+
+1.85
+2.51
+5.40
+1.Yarı FBC Melgar Toplam Gol (Kesin)
+0
+1
+2+
+1.51
+2.84
+9.60
+1. Yarı Alianza Atletico Sullana Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+3.40
+1.27
+2
+7.50
+1.055
+1. Yarı FBC Melgar Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+4.57
+1.16
+1. Yarı Alianza Atletico Sullana Sıfıra Karşı Kazanır
+Evet
+Hayır
+2.85
+1.37
+1. Yarı FBC Melgar Sıfıra Karşı Kazanır
+Evet
+Hayır
+4.30
+1.18
+1. Yarı İlk Golü Atacak Takım
+Alianza Atletico Sullana
+FBC Melgar
+Gol yok
+2.17
+3.13
+2.79
+1. Yarı Son Golü Atacak Takım
+Alianza Atletico Sullana
+FBC Melgar
+Gol yok
+2.17
+3.13
+2.79
+1.Yarı Doğru Skor
+1-0
+3.80
+0-0
+2.81
+0-1
+5.20
+2-0
+9.70
+1-1
+7.20
+0-2
+19.00
+2-1
+19.00
+2-2
+67.00
+1-2
+25.00
+3-0
+36.00
+3-3
+301.00
+0-3
+91.00
+3-1
+67.00
+1-3
+126.00
+3-2
+226.00
+2-3
+226.00
+2. Yarı Sonucu
+Alianza Atletico Sullana
+Beraberlik
+FBC Melgar
+2.32
+2.42
+3.64
+2. Yarı Çifte Şans
+1X
+12
+X2
+1.25
+1.49
+1.52
+2.Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.25
+3.57
+1
+1.48
+2.45
+1.5
+2.17
+1.61
+2
+3.65
+1.24
+2.Yarı Alianza Atletico Sullana Toplam Gol
+Üst
+Alt
+0.5
+1.63
+2.13
+1
+2.68
+1.41
+2.Yarı FBC Melgar Toplam Gol
+Üst
+Alt
+0.5
+2.05
+1.68
+2. Yarı Karşılıklı Gol
+Evet
+Hayır
+3.30
+1.28
+2. Yarı Gol Handikapı
+Alianza Atletico Sullana
+FBC Melgar
+0
+1.51
+0
+2.39
+2. Yarı Gol Handikapı 3 İhtimalli
+Alianza Atletico Sullana
+Beraberlik FBC Melgar
+FBC Melgar
+0
+2.32
+0
+2.42
+0
+3.64
+2.Yarı: Sonuç ve Her İki Takımda Gol Atar
+Alianza Atletico Sullana Ve Evet
+6.00
+Beraberlik ve Hayır
+3.74
+Alianza Atletico Sullana Ve Hayır
+2.80
+FBC Melgar ve Evet
+8.40
+Beraberlik ve Evet
+4.00
+FBC Melgar ve Hayır
+4.30
+2. Yarı Toplam Gol Aralığı
+0-1
+1.61
+2-3
+2.25
+4 ila 6
+10.00
+7 veya Daha fazla
+29.00
+2.Yarı Alianza Atletico Sullana Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.17
+3.69
+61.00
+2.Yarı FBC Melgar Toplam Gol (Aralık)
+0-1
+2-3
+4 veya daha fazla
+1.07
+4.90
+151.00
+2. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.57
+1-3
+1.34
+1-4
+1.27
+2-3
+2.25
+2-4
+2.19
+3-4
+5.00
+Herhangi Diğer
+3.31
+2.Yarı Toplam Gol (Kesin)
+0
+3.57
+1
+2.31
+2
+3.02
+3
+5.40
+4+
+9.60
+2.Yarı Alianza Atletico Sullana Toplam Gol (Kesin)
+0
+1
+2+
+2.13
+2.42
+4.10
+2.Yarı FBC Melgar Toplam Gol (Kesin)
+0
+1
+2+
+1.70
+2.61
+6.70
+2. Yarı Alianza Atletico Sullana Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+3.40
+1.27
+2
+6.90
+1.07
+2. Yarı FBC Melgar Kazanır Kesin Gol Farkla
+Evet
+Hayır
+1
+4.42
+1.17
+2.Yarı Alianza Atletico Sullana Sıfıra karşı Kazanır
+Evet
+Hayır
+2.80
+1.38
+2.Yarı FBC Melgar Sıfıra karşı Kazanır
+Evet
+Hayır
+4.30
+1.18
+2. Yarı -İlk Golü Atacak Takım
+Alianza Atletico Sullana
+FBC Melgar
+Gol yok
+2.03
+2.86
+3.74
+2. Yarı Son Golü Atacak Takım
+Alianza Atletico Sullana
+FBC Melgar
+Gol yok
+2.03
+2.86
+3.74
+2. Yarı Doğru Skor
+1-0
+4.10
+0-0
+3.57
+0-1
+5.40
+2-0
+8.80
+1-1
+6.40
+0-2
+15.00
+2-1
+14.00
+2-2
+41.00
+1-2
+19.00
+3-0
+26.00
+3-3
+301.00
+0-3
+67.00
+3-1
+41.00
+1-3
+76.00
+3-2
+126.00
+2-3
+151.00
+1. Yarı/2. Yarı Karşılıklı Gol
+Evet/Evet
+11.00
+Hayır/Evet
+3.45
+Evet/Hayır
+4.70
+Hayır/Hayır
+1.47
+1. Yarı veya Maç Sonucu
+Alianza Atletico Sullana
+X
+FBC Melgar
+1.70
+1.78
+2.66
+İlk Yarı/Maç Sonucu
+Alianza Atletico Sullana/Alianza Atletico Sullana
+2.76
+Beraberlik/Alianza Atletico Sullana
+4.50
+FBC Melgar/Alianza Atletico Sullana
+23.00
+Alianza Atletico Sullana/Beraberlik
+13.00
+Beraberlik/Beraberlik
+4.75
+FBC Melgar/Beraberlik
+13.00
+Alianza Atletico Sullana/FBC Melgar
+34.00
+Beraberlik/FBC Melgar
+6.90
+FBC Melgar/FBC Melgar
+5.10
+En Çok Gol Atılan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.91
+3.40
+2.12
+En Çok Gol Atılan Yarı : Çifte Şans
+1. Yarı veya Beraberlik
+1. veya 2.
+2. Yarı veya Beraberlik
+1.63
+1.28
+1.36
+Alianza Atletico Sullana : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+3.30
+2.53
+2.43
+FBC Melgar : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+3.71
+2.15
+2.67
+Sarı Kartlar: Sonuç
+Alianza Atletico Sullana
+X
+FBC Melgar
+2.76
+4.40
+1.80
+Sarı Kartlar: Çifte Şans
+1X
+12
+X2
+1.80
+1.18
+1.35
+Sarı Kartlar: Handikap
+Alianza Atletico Sullana
+FBC Melgar
+0
+2.30
+0
+1.47
++0.5
+1.80
+-0.5
+1.80
++1
+1.50
+-1
+2.22
+Sarı Kartlar: Toplam
+Üst
+Alt
+3.5
+1.42
+2.45
+4
+1.60
+2.04
+4.5
+1.90
+1.70
+5
+2.45
+1.42
+Sarı Kartlar: FBC Melgar : Toplam
+Üst
+Alt
+2.5
+1.93
+1.67
+Sarı Kartlar: İlk Sarı Kartı Görür
+Alianza Atletico Sullana
+FBC Melgar
+2.07
+1.67
+Sarı Kartlar: Son Sarı Kartı Görür
+Alianza Atletico Sullana
+FBC Melgar
+2.07
+1.67
+Maçta kendi kalesine gol atılır
+Evet
+Hayır
+8.50
+1.04
+Herhangi Bir Zamanda Gol Atar
+Bernardo Cuesta
+2.55
+Valentin Robaldo
+2.65
+Jairo Molina
+2.70
+Jose Maria Ingratti
+2.95
+Cristian Penilla
+3.30
+Jhonny Vidales
+3.40
+Guillermo Larios
+3.70
+Jorge del Castillo
+3.80
+Cristian Bordacahar
+4.10
+Nicolas Quagliata
+4.20
+Ariel Munoz
+4.30
+Franco Zanelatto
+4.90
+Daha Fazla Seçeneği Göster
+İlk Golcü
+Bernardo Cuesta
+5.10
+Jairo Molina
+5.40
+Valentin Robaldo
+5.50
+Jose Maria Ingratti
+6.00
+Cristian Penilla
+6.70
+Guillermo Larios
+7.50
+Jhonny Vidales
+7.60
+Jorge del Castillo
+7.70
+Nicolas Quagliata
+8.90
+Ariel Munoz
+9.10
+Cristian Bordacahar
+9.40
+Franco Zanelatto
+11.00
+Daha Fazla Seçeneği Göster
+İlk Golcü. Çifte Şans
+Cristian Penilla or Bernardo Cuesta
+3.75
+Cristian Penilla or Valentin Robaldo
+3.75
+Bernardo Cuesta or Valentin Robaldo
+3.75
+Valentin Robaldo or Jhonny Vidales
+4.00
+Bernardo Cuesta or Jhonny Vidales
+4.00
+Cristian Penilla or Jhonny Vidales
+4.00
+German Diaz or Nicolas Quagliata
+5.00
+Hernan Lupu or German Diaz
+6.00
+Hernan Lupu or Nicolas Quagliata
+6.00
+Matias Zegarra or German Diaz
+6.00
+Son Golcü
+Bernardo Cuesta
+5.10
+Jairo Molina
+5.40
+Valentin Robaldo
+5.50
+Jose Maria Ingratti
+6.00
+Cristian Penilla
+6.70
+Jhonny Vidales
+7.00
+Guillermo Larios
+8.20
+Cristian Bordacahar
+8.40
+Jorge del Castillo
+8.50
+Nicolas Quagliata
+8.90
+Ariel Munoz
+9.10
+Franco Zanelatto
+12.00
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 2 Gol Atar
+Bernardo Cuesta
+11.00
+Valentin Robaldo
+11.00
+Jairo Molina
+11.00
+Jose Maria Ingratti
+14.00
+Guillermo Larios
+17.00
+Jhonny Vidales
+19.00
+Cristian Penilla
+19.00
+Jorge del Castillo
+21.00
+Cristian Bordacahar
+23.00
+Ariel Munoz
+25.00
+Nicolas Quagliata
+31.00
+Franco Zanelatto
+36.00
+Daha Fazla Seçeneği Göster
+Oyuncu En Az 3 Gol Atar
+Bernardo Cuesta
+56.00
+Valentin Robaldo
+61.00
+Jairo Molina
+67.00
+Jose Maria Ingratti
+91.00
+Anthony Gordillo
+126.00
+Franco Zanelatto
+126.00
+Marcos Portillo
+126.00
+Alec Deneumostier
+126.00
+Jesus Alcantar
+126.00
+Jose Lujan
+126.00
+Cristian Penilla
+126.00
+Jesus Mendieta
+126.00
+Daha Fazla Seçeneği Göster
+Oyuncu Asist Yapar
+YENİ
+Nicolas Quagliata 1+
+3.20
+Cristian Penilla 1+
+4.60
+Jorge Del Castillo 1+
+5.10
+Lautaro Guzman 1+
+5.20
+Franco Zanelatto 1+
+5.30
+Ariel Munoz 1+
+5.60
+Cristian Bordacahar 1+
+5.80
+Guillermo Larios 1+
+6.20
+Jhonny Vidales 1+
+6.50
+Matias Zegarra 1+
+6.70
+Jimmy Perez 1+
+6.70
+Jose Maria Ingratti 1+
+7.20
+Bernardo Cuesta 1+
+7.70
+Juan Delgado 1+
+7.90
+Marcos Portillo 1+
+7.90
+German Diaz 1+
+8.10
+Anthony Gordillo 1+
+8.20
+Jairo Molina 1+
+8.30
+Hernan Lupu 1+
+8.60
+Valentin Robaldo 1+
+8.70
+Jesus Mendieta 1+
+8.80
+Stefano Fernandez 1+
+9.50
+Nelson Cabanillas 1+
+10.00
+Kevin Minda 1+
+11.00
+Walter Tandazo 1+
+11.00
+Horacio Orzan 1+
+14.00
+Williams Guzman 1+
+15.00
+Jose Villegas 1+
+21.00
+Leonel Gonzalez 1+
+23.00
+Roman Suarez 1+
+25.00
+Jose Lujan 1+
+26.00
+Jesus Alcantar 1+
+26.00
+Alec Deneumostier 1+
+29.00
+Juan Escobar 1+
+29.00
+Oyuncu Gol Atar veya Asist Yapar
+Bernardo Cuesta
+2.07
+Nicolas Quagliata
+2.12
+Valentin Robaldo
+2.17
+Jairo Molina
+2.21
+Cristian Penilla
+2.21
+Jose Maria Ingratti
+2.30
+Jorge del Castillo
+2.45
+Jhonny Vidales
+2.50
+Guillermo Larios
+2.55
+Cristian Bordacahar
+2.65
+Ariel Munoz
+2.70
+Franco Zanelatto
+2.85
+Daha Fazla Seçeneği Göster
+Oyuncu Penaltıdan Gol Atar
+YENİ
+Cristian Penilla
+6.20
+Ariel Munoz
+7.80
+Jhonny Vidales
+8.80
+Nicolas Quagliata
+11.00
+German Diaz
+12.00
+Jairo Molina
+12.00
+Valentin Robaldo
+23.00
+Jorge del Castillo
+25.00
+Bernardo Cuesta
+25.00
+Juan Delgado
+25.00
+Guillermo Larios
+25.00
+Jose Maria Ingratti
+25.00
+Jimmy Perez
+29.00
+Cristian Bordacahar
+31.00
+Franco Zanelatto
+31.00
+Hernan Lupu
+34.00
+Lautaro Guzman
+36.00
+Marcos Portillo
+41.00
+Matias Zegarra
+51.00
+Kevin Minda
+51.00
+Walter Tandazo
+51.00
+Stefano Fernandez
+56.00
+Horacio Orzan
+71.00
+Jesus Mendieta
+81.00
+Juan Escobar
+91.00
+Jesus Alcantar
+91.00
+Williams Guzman
+91.00
+Roman Suarez
+91.00
+Jose Villegas
+91.00
+Alec Deneumostier
+91.00
+Jose Lujan
+91.00
+Leonel Gonzalez
+91.00
+Anthony Gordillo
+91.00
+Nelson Cabanillas
+91.00
+Oyuncu Ceza Sahası Dışından Gol Atar
+Ariel Munoz
+6.30
+Valentin Robaldo
+7.10
+Cristian Penilla
+9.20
+Jimmy Perez
+10.00
+Nicolas Quagliata
+11.00
+Marcos Portillo
+12.00
+Jorge del Castillo
+14.00
+Franco Zanelatto
+17.00
+Lautaro Guzman
+17.00
+Bernardo Cuesta
+19.00
+German Diaz
+23.00
+Jhonny Vidales
+25.00
+Daha Fazla Seçeneği Göster
+Oyuncu Penaltı Kaçırır
+YENİ
+Jairo Molina
+23.00
+Cristian Penilla
+34.00
+Valentin Robaldo
+34.00
+Jhonny Vidales
+36.00
+Bernardo Cuesta
+36.00
+Ariel Munoz
+41.00
+Jose Maria Ingratti
+46.00
+Nicolas Quagliata
+46.00
+Guillermo Larios
+51.00
+Jorge del Castillo
+71.00
+Cristian Bordacahar
+71.00
+Franco Zanelatto
+81.00
+Marcos Portillo
+91.00
+Jesus Mendieta
+91.00
+Lautaro Guzman
+91.00
+Jose Villegas
+91.00
+Williams Guzman
+91.00
+Jimmy Perez
+91.00
+Horacio Orzan
+91.00
+Leonel Gonzalez
+91.00
+Roman Suarez
+91.00
+Hernan Lupu
+91.00
+Anthony Gordillo
+91.00
+Walter Tandazo
+91.00
+Stefano Fernandez
+91.00
+Nelson Cabanillas
+91.00
+German Diaz
+91.00
+Jose Lujan
+91.00
+Jesus Alcantar
+91.00
+Alec Deneumostier
+91.00
+Matias Zegarra
+91.00
+Juan Escobar
+91.00
+Juan Delgado
+91.00
+Kevin Minda
+91.00
+Penaltı Kazandıran Oyuncu
+YENİ
+Franco Zanelatto 1+
+23.00
+Jorge Del Castillo 1+
+23.00
+Jairo Molina 1+
+29.00
+Cristian Bordacahar 1+
+29.00
+Lautaro Guzman 1+
+29.00
+Guillermo Larios 1+
+31.00
+Valentin Robaldo 1+
+31.00
+Cristian Penilla 1+
+31.00
+Bernardo Cuesta 1+
+31.00
+Jhonny Vidales 1+
+31.00
+Jimmy Perez 1+
+31.00
+Matias Zegarra 1+
+36.00
+Jose Maria Ingratti 1+
+36.00
+Nelson Cabanillas 1+
+36.00
+Nicolas Quagliata 1+
+36.00
+Marcos Portillo 1+
+41.00
+Hernan Lupu 1+
+46.00
+Ariel Munoz 1+
+51.00
+Juan Delgado 1+
+56.00
+Jesus Mendieta 1+
+56.00
+Anthony Gordillo 1+
+61.00
+German Diaz 1+
+67.00
+Kevin Minda 1+
+71.00
+Williams Guzman 1+
+71.00
+Stefano Fernandez 1+
+71.00
+Alec Deneumostier 1+
+71.00
+Horacio Orzan 1+
+71.00
+Juan Escobar 1+
+71.00
+Roman Suarez 1+
+71.00
+Jose Villegas 1+
+71.00
+Jose Lujan 1+
+71.00
+Jesus Alcantar 1+
+71.00
+Leonel Gonzalez 1+
+71.00
+Walter Tandazo 1+
+71.00
+Oyuncu Kale Sahası İçinden Gol Atar
+YENİ
+Jose Maria Ingratti
+4.80
+Jairo Molina
+5.30
+Juan Delgado
+7.00
+Guillermo Larios
+9.80
+Bernardo Cuesta
+10.00
+Jose Villegas
+10.00
+Jhonny Vidales
+11.00
+Williams Guzman
+12.00
+Jimmy Perez
+13.00
+Valentin Robaldo
+13.00
+Walter Tandazo
+14.00
+Franco Zanelatto
+15.00
+Hernan Lupu
+17.00
+Jesus Alcantar
+26.00
+Cristian Bordacahar
+26.00
+Jorge del Castillo
+29.00
+Cristian Penilla
+29.00
+Roman Suarez
+31.00
+Jesus Mendieta
+31.00
+Matias Zegarra
+31.00
+Juan Escobar
+34.00
+Ariel Munoz
+36.00
+Nicolas Quagliata
+36.00
+Anthony Gordillo
+41.00
+Lautaro Guzman
+41.00
+Horacio Orzan
+41.00
+Jose Lujan
+41.00
+Marcos Portillo
+46.00
+Stefano Fernandez
+51.00
+Nelson Cabanillas
+51.00
+Kevin Minda
+51.00
+Alec Deneumostier
+51.00
+German Diaz
+51.00
+Leonel Gonzalez
+51.00
+Oyuncu Kafa Golü Atar
+Jairo Molina
+6.20
+Jose Maria Ingratti
+6.90
+Bernardo Cuesta
+9.10
+Valentin Robaldo
+9.60
+Jose Villegas
+11.00
+Guillermo Larios
+12.00
+Cristian Bordacahar
+12.00
+Matias Zegarra
+15.00
+Jhonny Vidales
+17.00
+Juan Delgado
+17.00
+Alec Deneumostier
+19.00
+Hernan Lupu
+19.00
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar Çifte Şans
+Valentin Robaldo or Bernardo Cuesta
+1.61
+Jairo Molina or Bernardo Cuesta
+1.62
+Valentin Robaldo or Jairo Molina
+1.65
+Bernardo Cuesta or Jose Maria Ingratti
+1.67
+Valentin Robaldo or Jose Maria Ingratti
+1.70
+Jairo Molina or Jose Maria Ingratti
+1.71
+Daha Fazla Seçeneği Göster
+Herhangi bir zaman gol atar. Üçlü Şans
+Valentin Robaldo or Jairo Molina or Bernardo Cuesta
+1.31
+Valentin Robaldo or Bernardo Cuesta or Jose Maria Ingratti
+1.33
+Jairo Molina or Bernardo Cuesta or Jose Maria Ingratti
+1.34
+Valentin Robaldo or Jairo Molina or Jose Maria Ingratti
+1.35
+Valentin Robaldo or Bernardo Cuesta or Cristian Penilla
+1.36
+Jairo Molina or Bernardo Cuesta or Cristian Penilla
+1.36
+Daha Fazla Seçeneği Göster
+Her İki Oyuncu da Herhangi Bir Zamanda Gol Atar
+Valentin Robaldo and Bernardo Cuesta
+6.80
+Jairo Molina and Bernardo Cuesta
+6.90
+Valentin Robaldo and Jairo Molina
+7.20
+Bernardo Cuesta and Jose Maria Ingratti
+7.50
+Valentin Robaldo and Jose Maria Ingratti
+7.80
+Jairo Molina and Jose Maria Ingratti
+8.00
+Daha Fazla Seçeneği Göster
+Üç Oyuncu da Herhangi Bir Zamanda Gol Atar
+Valentin Robaldo and Jairo Molina and Bernardo Cuesta
+19.00
+Valentin Robaldo and Bernardo Cuesta and Jose Maria Ingratti
+19.00
+Jairo Molina and Bernardo Cuesta and Jose Maria Ingratti
+21.00
+Valentin Robaldo and Jairo Molina and Jose Maria Ingratti
+21.00
+Valentin Robaldo and Bernardo Cuesta and Cristian Penilla
+23.00
+Jairo Molina and Bernardo Cuesta and Cristian Penilla
+23.00
+Daha Fazla Seçeneği Göster
+Oyuncu 1. Yarıda Gol Atar
+Bernardo Cuesta
+4.40
+Valentin Robaldo
+4.60
+Jairo Molina
+4.70
+Jose Maria Ingratti
+5.10
+Cristian Penilla
+5.90
+Jhonny Vidales
+6.00
+Guillermo Larios
+6.60
+Jorge del Castillo
+6.80
+Cristian Bordacahar
+7.30
+Nicolas Quagliata
+7.50
+Ariel Munoz
+7.60
+Franco Zanelatto
+8.70
+Lautaro Guzman
+9.60
+Matias Zegarra
+9.70
+Hernan Lupu
+10.00
+Juan Delgado
+10.00
+Jimmy Perez
+11.00
+German Diaz
+14.00
+Marcos Portillo
+17.00
+Williams Guzman
+19.00
+Kevin Minda
+19.00
+Jose Villegas
+19.00
+Stefano Fernandez
+21.00
+Walter Tandazo
+21.00
+Jesus Mendieta
+21.00
+Horacio Orzan
+23.00
+Anthony Gordillo
+25.00
+Jesus Alcantar
+26.00
+Jose Lujan
+26.00
+Alec Deneumostier
+29.00
+Nelson Cabanillas
+29.00
+Roman Suarez
+34.00
+Juan Escobar
+34.00
+Leonel Gonzalez
+34.00
+Oyuncu 2. Yarıda Gol Atar
+Bernardo Cuesta
+3.65
+Valentin Robaldo
+3.80
+Jairo Molina
+3.90
+Jose Maria Ingratti
+4.30
+Cristian Penilla
+4.85
+Jhonny Vidales
+5.00
+Guillermo Larios
+5.50
+Jorge del Castillo
+5.60
+Cristian Bordacahar
+6.00
+Nicolas Quagliata
+6.20
+Ariel Munoz
+6.30
+Franco Zanelatto
+7.20
+Lautaro Guzman
+8.00
+Matias Zegarra
+8.00
+Hernan Lupu
+8.30
+Juan Delgado
+8.40
+Jimmy Perez
+8.90
+German Diaz
+11.00
+Marcos Portillo
+13.00
+Williams Guzman
+15.00
+Kevin Minda
+15.00
+Jose Villegas
+17.00
+Walter Tandazo
+17.00
+Stefano Fernandez
+17.00
+Jesus Mendieta
+19.00
+Horacio Orzan
+19.00
+Anthony Gordillo
+21.00
+Jesus Alcantar
+23.00
+Jose Lujan
+23.00
+Nelson Cabanillas
+25.00
+Alec Deneumostier
+25.00
+Leonel Gonzalez
+29.00
+Roman Suarez
+29.00
+Juan Escobar
+29.00
+Oyuncu Her İki Yarıda da Gol Atar
+Bernardo Cuesta
+12.00
+Jairo Molina
+13.00
+Valentin Robaldo
+13.00
+Jose Maria Ingratti
+15.00
+Cristian Penilla
+19.00
+Jhonny Vidales
+21.00
+Guillermo Larios
+23.00
+Jorge del Castillo
+23.00
+Cristian Bordacahar
+26.00
+Nicolas Quagliata
+26.00
+Ariel Munoz
+29.00
+Franco Zanelatto
+34.00
+Matias Zegarra
+41.00
+Lautaro Guzman
+41.00
+Juan Delgado
+41.00
+Hernan Lupu
+41.00
+Oyuncu Sağ Ayağıyla Gol Atar
+YENİ
+Bernardo Cuesta
+3.55
+Cristian Penilla
+3.80
+Jairo Molina
+3.90
+Jhonny Vidales
+4.50
+Jorge del Castillo
+4.70
+Jose Maria Ingratti
+4.70
+Nicolas Quagliata
+4.75
+Guillermo Larios
+5.20
+Cristian Bordacahar
+5.90
+Jimmy Perez
+6.70
+Hernan Lupu
+7.40
+Franco Zanelatto
+7.80
+German Diaz
+9.00
+Marcos Portillo
+11.00
+Walter Tandazo
+13.00
+Kevin Minda
+13.00
+Juan Delgado
+14.00
+Stefano Fernandez
+15.00
+Valentin Robaldo
+17.00
+Horacio Orzan
+19.00
+Williams Guzman
+19.00
+Matias Zegarra
+26.00
+Nelson Cabanillas
+41.00
+Leonel Gonzalez
+41.00
+Jesus Alcantar
+41.00
+Alec Deneumostier
+41.00
+Anthony Gordillo
+41.00
+Lautaro Guzman
+41.00
+Jesus Mendieta
+41.00
+Ariel Munoz
+41.00
+Roman Suarez
+41.00
+Juan Escobar
+41.00
+Jose Lujan
+41.00
+Jose Villegas
+41.00
+Oyuncu Serbest Vuruştan Gol Atar
+YENİ
+Nicolas Quagliata
+17.00
+Lautaro Guzman
+31.00
+Jesus Mendieta
+41.00
+Cristian Penilla
+41.00
+Valentin Robaldo
+41.00
+German Diaz
+46.00
+Marcos Portillo
+46.00
+Ariel Munoz
+67.00
+Jose Maria Ingratti
+71.00
+Juan Delgado
+76.00
+Jimmy Perez
+76.00
+Jairo Molina
+76.00
+Hernan Lupu
+81.00
+Walter Tandazo
+86.00
+Kevin Minda
+86.00
+Jorge del Castillo
+86.00
+Jose Lujan
+91.00
+Cristian Bordacahar
+91.00
+Jesus Alcantar
+91.00
+Roman Suarez
+91.00
+Juan Escobar
+91.00
+Jose Villegas
+91.00
+Anthony Gordillo
+91.00
+Williams Guzman
+91.00
+Bernardo Cuesta
+91.00
+Nelson Cabanillas
+91.00
+Guillermo Larios
+91.00
+Horacio Orzan
+91.00
+Stefano Fernandez
+91.00
+Alec Deneumostier
+91.00
+Leonel Gonzalez
+91.00
+Jhonny Vidales
+91.00
+Franco Zanelatto
+91.00
+Matias Zegarra
+91.00
+Oyuncu Sol Ayağıyla Gol Atar
+YENİ
+Valentin Robaldo
+3.35
+Ariel Munoz
+4.50
+Lautaro Guzman
+5.90
+Matias Zegarra
+8.40
+Bernardo Cuesta
+10.00
+Juan Delgado
+12.00
+Franco Zanelatto
+14.00
+Jesus Mendieta
+14.00
+Jose Maria Ingratti
+14.00
+Jhonny Vidales
+17.00
+Anthony Gordillo
+17.00
+Cristian Penilla
+19.00
+Guillermo Larios
+21.00
+Jairo Molina
+21.00
+Nelson Cabanillas
+23.00
+Cristian Bordacahar
+23.00
+Jorge del Castillo
+25.00
+Nicolas Quagliata
+26.00
+Leonel Gonzalez
+36.00
+Hernan Lupu
+41.00
+Jose Lujan
+41.00
+Williams Guzman
+41.00
+German Diaz
+41.00
+Jimmy Perez
+41.00
+Jose Villegas
+41.00
+Horacio Orzan
+41.00
+Kevin Minda
+41.00
+Roman Suarez
+41.00
+Marcos Portillo
+41.00
+Walter Tandazo
+41.00
+Alec Deneumostier
+41.00
+Jesus Alcantar
+41.00
+Juan Escobar
+41.00
+Stefano Fernandez
+41.00
+İlk 10 Dakikada Gol Atar
+Valentin Robaldo
+17.00
+Bernardo Cuesta
+17.00
+Jairo Molina
+19.00
+Jose Maria Ingratti
+19.00
+Jhonny Vidales
+23.00
+Cristian Penilla
+23.00
+Guillermo Larios
+25.00
+Jorge del Castillo
+26.00
+Ariel Munoz
+26.00
+Cristian Bordacahar
+26.00
+Nicolas Quagliata
+29.00
+Franco Zanelatto
+31.00
+Matias Zegarra
+34.00
+Juan Delgado
+34.00
+Hernan Lupu
+34.00
+Lautaro Guzman
+34.00
+Jimmy Perez
+36.00
+German Diaz
+56.00
+Marcos Portillo
+61.00
+Kevin Minda
+67.00
+Williams Guzman
+67.00
+Walter Tandazo
+71.00
+Jose Villegas
+71.00
+Jesus Mendieta
+76.00
+Stefano Fernandez
+81.00
+Juan Escobar
+81.00
+Nelson Cabanillas
+81.00
+Horacio Orzan
+81.00
+Jose Lujan
+81.00
+Leonel Gonzalez
+81.00
+Anthony Gordillo
+81.00
+Jesus Alcantar
+81.00
+Alec Deneumostier
+81.00
+Roman Suarez
+81.00
+Oyuncu Kart Görür
+Marcos Portillo
+3.00
+Alec Deneumostier
+3.00
+Guillermo Larios
+3.20
+Ariel Munoz
+3.25
+Stefano Fernandez
+3.25
+Matias Zegarra
+3.35
+Hernan Lupu
+3.35
+Jesus Alcantar
+3.50
+Juan Escobar
+3.50
+Jose Villegas
+3.55
+Walter Tandazo
+3.55
+Williams Guzman
+3.55
+Daha Fazla Seçeneği Göster
+Oyuncu Sarı Kart Görür
+Marcos Portillo
+3.15
+Alec Deneumostier
+3.20
+Guillermo Larios
+3.40
+Stefano Fernandez
+3.45
+Ariel Munoz
+3.45
+Hernan Lupu
+3.50
+Matias Zegarra
+3.60
+Juan Escobar
+3.70
+Walter Tandazo
+3.70
+Jesus Alcantar
+3.70
+Williams Guzman
+3.70
+Horacio Orzan
+3.75
+Jose Villegas
+3.75
+Roman Suarez
+3.80
+Jorge del Castillo
+3.85
+German Diaz
+3.95
+Leonel Gonzalez
+4.00
+Jose Lujan
+4.20
+Cristian Bordacahar
+4.20
+Jimmy Perez
+4.30
+Nelson Cabanillas
+4.30
+Kevin Minda
+4.30
+Lautaro Guzman
+4.33
+Jose Maria Ingratti
+4.33
+Jairo Molina
+4.40
+Juan Delgado
+4.50
+Valentin Robaldo
+4.50
+Anthony Gordillo
+4.50
+Franco Zanelatto
+4.70
+Jesus Mendieta
+4.75
+Cristian Penilla
+4.85
+Jhonny Vidales
+5.20
+Nicolas Quagliata
+5.40
+Bernardo Cuesta
+6.20
+Jorge Cabezudo
+10.00
+Carlos Caceda
+10.00
+Daniel Prieto
+11.00
+Steven Rivadeneyra
+12.00
+Kart Görecek İlk Oyuncu
+Marcos Portillo
+10.00
+Alec Deneumostier
+10.00
+Ariel Munoz
+11.00
+Stefano Fernandez
+11.00
+Guillermo Larios
+11.00
+Matias Zegarra
+11.00
+Hernan Lupu
+11.00
+Juan Escobar
+12.00
+Jorge del Castillo
+12.00
+Jose Villegas
+12.00
+Williams Guzman
+12.00
+Walter Tandazo
+12.00
+Daha Fazla Seçeneği Göster
+Son Kartı Görecek Oyuncu
+YENİ
+Marcos Portillo
+10.00
+Alec Deneumostier
+10.00
+Guillermo Larios
+11.00
+Matias Zegarra
+11.00
+Hernan Lupu
+11.00
+Stefano Fernandez
+11.00
+Ariel Munoz
+11.00
+Walter Tandazo
+12.00
+Roman Suarez
+12.00
+Jorge del Castillo
+12.00
+Williams Guzman
+12.00
+Horacio Orzan
+12.00
+Jesus Alcantar
+12.00
+Jose Villegas
+12.00
+Juan Escobar
+12.00
+Jose Lujan
+13.00
+German Diaz
+13.00
+Cristian Bordacahar
+13.00
+Leonel Gonzalez
+13.00
+Nelson Cabanillas
+14.00
+Lautaro Guzman
+14.00
+Jairo Molina
+14.00
+Jose Maria Ingratti
+14.00
+Jimmy Perez
+14.00
+Kevin Minda
+14.00
+Valentin Robaldo
+14.00
+Franco Zanelatto
+15.00
+Juan Delgado
+15.00
+Anthony Gordillo
+15.00
+Cristian Penilla
+17.00
+Jesus Mendieta
+17.00
+Jhonny Vidales
+17.00
+Nicolas Quagliata
+19.00
+Bernardo Cuesta
+21.00
+Jorge Cabezudo
+31.00
+Carlos Caceda
+31.00
+Daniel Prieto
+34.00
+Steven Rivadeneyra
+36.00
+Oyundan Uzaklaştırılır
+YENİ
+Guillermo Larios
+13.00
+Ariel Munoz
+14.00
+Matias Zegarra
+15.00
+Alec Deneumostier
+15.00
+Stefano Fernandez
+17.00
+Jorge del Castillo
+17.00
+Jairo Molina
+17.00
+Cristian Bordacahar
+17.00
+Valentin Robaldo
+19.00
+Marcos Portillo
+19.00
+Jesus Alcantar
+19.00
+Williams Guzman
+19.00
+Daha Fazla Seçeneği Göster
+Alianza Atletico Sullana : Her İki Yarıda Gol Atar
+Evet
+Hayır
+3.10
+1.32
+FBC Melgar Her İki Yarıda Gol Atar
+Evet
+Hayır
+4.75
+1.15
+Alianza Atletico Sullana : Her İki Yarıda Kazanır
+Evet
+Hayır
+5.35
+1.12
+Alianza Atletico Sullana : İlk Yarıda Gol Atar
+Evet
+Hayır
+1.85
+1.85
+FBC Melgar İlk Yarıda Gol Atar
+Evet
+Hayır
+2.39
+1.51
+Alianza Atletico Sullana : İkinci Yarıda Gol Atar
+Evet
+Hayır
+1.63
+2.13
+FBC Melgar İkinci Yarıda Gol Atar
+Evet
+Hayır
+2.05
+1.68
+İlk Yarıda Gol
+Evet
+Hayır
+1.37
+2.85
+İkinci Yarıda Gol
+Evet
+Hayır
+1.25
+3.57
+Her İki Yarııda da 1.5 Üst Gol
+Evet
+Hayır
+5.35
+1.12
+Her İki Yarı Goller 1.5 Alt
+Evet
+Hayır
+2.33
+1.54
+Alianza Atletico Sullana Gol Yemeden Kazanır
+Evet
+Hayır
+3.25
+1.29
+FBC Melgar Gol Yemeden Kazanır
+Evet
+Hayır
+5.55
+1.11
+Alianza Atletico Sullana İki veya Üç Gol Farkla Kazanır
+Evet
+Hayır
+4.05
+1.20
+FBC Melgar İki veya Üç Gol Farkla Kazanır
+Evet
+Hayır
+7.10
+1.065
+Alianza Atletico Sullana Bir Gol Farkla Kazanır veya Berabere
+Evet
+Hayır
+1.81
+1.89
+FBC Melgar Bir Gol Farkla Kazanır veya Berabere Kalır
+Evet
+Hayır
+2.15
+1.62
+Alianza Atletico Sullana En Az Bir Yarıyı Kazanır
+Evet
+Hayır
+1.53
+2.35
+FBC Melgar En Az Bir Yarıda Kazanır
+Evet
+Hayır
+2.23
+1.58
+Alianza Atletico Sullana İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+8.70
+1.035
+FBC Melgar İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+8.50
+1.04
+Alianza Atletico Sullana : Gol Atar 1.Yarı/2.Yarı
+Evet/Hayır
+3.31
+Evet/Evet
+3.10
+Hayır/Hayır
+3.38
+Hayır/Evet
+2.67
+FBC Melgar Gol Atar İlk Yarı/İkinci Yarı
+Evet/Hayır
+3.41
+Evet/Evet
+4.75
+Hayır/Hayır
+2.32
+Hayır/Evet
+2.69
+Yarıları Farklı Takımlar Kazanır
+Evet
+Hayır
+4.57
+1.16
+Yarılardan En Az Birinde Beraberlik
+Evet
+Hayır
+1.48
+2.45
+Maç Skoru Beraberlik (0-0 hariç)
+Evet
+Hayır
+4.15
+1.19
+Kesin Gol Sayısı
+Gol Yok
+11.00
+Kesin 1
+4.30
+Kesin 2
+3.41
+Kesin 3
+3.84
+Kesin 4
+5.60
+Kesin 5
+10.00
+Kesin 6 veya Fazla
+14.00
+Maçta 1 Gol Olur
+Evet
+Hayır
+4.30
+1.18
+Maçta 2 Gol Olur
+Evet
+Hayır
+3.40
+1.27
+Maçta 3 Gol Olur
+Evet
+Hayır
+3.83
+1.22
+Maçta 4 Gol Olur
+Evet
+Hayır
+5.35
+1.12
+Alianza Atletico Sullana : Kazanma Marjı
+1
+3.57
+2
+5.40
+3
+8.70
+4+
+12.00
+FBC Melgar : Kazanma Marjı
+1
+4.90
+2
+8.50
+3
+23.00
+4+
+67.00
+Skor Kombinasyonları
+1-0 / 2-0 / 3-0
+3.04
+4-0 / 5-0 / 6-0
+19.00
+2-1 / 3-1 / 4-1
+4.20
+3-2 / 4-2 / 4-3
+12.00
+0-1 / 0-2 / 0-3
+5.00
+0-4 / 0-5 / 0-6
+71.00
+1-2 / 1-3 / 1-4
+6.70
+2-3 / 2-4 / 3-4
+19.00
+1-15 Dk. Galibi
+Alianza Atletico Sullana
+X
+FBC Melgar
+6.00
+1.22
+8.50
+1-15 Dk. Gol Handikapı
+Alianza Atletico Sullana
+FBC Melgar
+0
+1.57
+0
+2.25
+1-15 Dk. Toplam Goller
+Üst
+Alt
+0.5
+2.87
+1.36
+1
+8.20
+1.045
+1-15 Dk. Alianza Atletico Sullana Toplam Goller
+Üst
+Alt
+0.5
+4.30
+1.18
+1-15 Dk. FBC Melgar Toplam Goller
+Üst
+Alt
+0.5
+5.35
+1.12
+1-15 Dk. İki Takım Gol Atar
+Evet
+Hayır
+12.50
+1.008
+1-30 Dk. Galibi
+Alianza Atletico Sullana
+X
+FBC Melgar
+3.53
+1.61
+5.10
+1-30 Dk. Gol Handikapı
+Alianza Atletico Sullana
+FBC Melgar
+0
+1.56
+0
+2.27
+1-30 Dk. Toplam Goller
+Üst
+Alt
+0.5
+1.75
+1.95
+1
+3.20
+1.30
+1-30 Dk. Alianza Atletico Sullana Toplam Goller
+Üst
+Alt
+0.5
+2.52
+1.46
+1
+6.90
+1.07
+1-30 Dk. FBC Melgar Toplam Goller
+Üst
+Alt
+0.5
+3.20
+1.30
+1-30 Dk. Karşılıklı Gol
+Evet
+Hayır
+7.10
+1.065
+1-60 Dk. Galibi
+Alianza Atletico Sullana
+X
+FBC Melgar
+2.30
+2.50
+3.78
+1-60 Dk. Gol Handikapı
+Alianza Atletico Sullana
+FBC Melgar
+0
+1.50
+0
+2.40
+1-60 Dk. Toplam Goller
+Üst
+Alt
+1.5
+1.85
+1.85
+2
+2.80
+1.38
+1-60 Dk. Alianza Atletico Sullana Toplam Goller
+Üst
+Alt
+0.5
+1.51
+2.39
+1
+2.25
+1.57
+1-60 Dk. FBC Melgar Toplam Goller
+Üst
+Alt
+0.5
+1.87
+1.83
+1
+3.65
+1.24
+1-60 Dk. Karşılıklı Gol
+Evet
+Hayır
+2.85
+1.37
+1-75 Dk. Galibi
+Alianza Atletico Sullana
+X
+FBC Melgar
+2.11
+2.92
+3.53
+1-75 Dk. Gol Handikapı
+Alianza Atletico Sullana
+FBC Melgar
+0
+1.48
+0
+2.45
+1-75 Dk. Toplam Goller
+Üst
+Alt
+2
+1.84
+1.86
+2.5
+2.40
+1.50
+1-75 Dk. Alianza Atletico Sullana Toplam Goller
+Üst
+Alt
+1
+1.66
+2.08
+1.5
+2.45
+1.48
+1-75 Dk. FBC Melgar Toplam Goller
+Üst
+Alt
+0.5
+1.59
+2.21
+1
+2.55
+1.45
+1-75 Dk. Karşılıklı Gol
+Evet
+Hayır
+2.15
+1.62
+Farklı Kombineler
+Alianza Atletico Sullana Kazanır veya Üst (2.5) Gol
+1.36
+Beraberlik veya Üst 2.5 Gol
+1.35
+FBC Melgar Kazanır veya 2.5 Üst Gol
+1.52
+Alianza Atletico Sullana Kazanır veya Alt (2.5) Gol
+1.19
+Beraberlik veya Alt 2.5 Gol
+1.55
+FBC Melgar kazanır veya 2,5 alt gol
+1.44
+Daha Fazla Seçeneği Göster
+Çifte Şans Kombo
+1X ve Üst (2.5) Gol
+2.30
+1X ve Alt (2.5) Gol
+2.03
+X2 ve Üst (2.5) Gol
+3.52
+X2 ve Alt (2.5) Gol
+2.44
+12 ve Üst (2.5) Gol
+1.97
+12 ve Alt (2.5) Gol
+2.79
+1X ve Karşılıklı Gol Olur
+2.10
+Alianza Atletico Sullana 0'a karşı kazanır veya Doğru Skor 0-0
+2.62
+X2 ve Karşılıklı Gol Olur
+2.63
+FBC Melgar 0'a karşı kazanır veya Doğru Skor 0 : 0
+3.71
+12 ve Karşılıklı Gol Olur
+2.51
+Alianza Atletico Sullana veya FBC Melgar - Gol Yemeden Kazanır
+2.13
+Daha Fazla Seçeneği Göster
+1.Yarı/Maç Skoru
+0-0/0-0
+8.30
+0-1/0-1
+15.00
+0-2/0-2
+51.00
+0-3/0-3
+226.00
+0-4/0-4
+276.00
+1-0/1-0
+11.00
+1-1/1-1
+21.00
+1-2/1-2
+67.00
+1-3/1-3
+276.00
+1-4/1-4
+276.00
+2-0/2-0
+26.00
+2-1/2-1
+51.00
+2-2/2-2
+151.00
+2-3/2-3
+276.00
+2-4/2-4
+276.00
+3-0/3-0
+91.00
+3-1/3-1
+151.00
+3-2/3-2
+276.00
+Daha Fazla Seçeneği Göster
+Karşılıklı Gol ve Toplam Goller 2.5
+Evet ve Üst 2.5
+2.29
+Evet ve Alt 2.5
+6.30
+Hayır ve Üst 2.5
+9.30
+Hayır ve Alt 2.5
+2.35
+Karşılıklı Gol ve Toplam Goller 3.5
+Evet ve Üst 3.5
+3.70
+Evet ve Alt 3.5
+3.06
+Hayır ve Üst 3.5
+25.00
+Hayır ve Alt 3.5
+2.06
+Her İki Yarıda da Karşılıklı Gol
+Evet
+Hayır
+12.50
+1.03
+İlk Golü Atacak Takım ve Maç Sonucu
+Alianza Atletico Sullana ve Alianza Atletico Sullana
+2.07
+Alianza Atletico Sullana ve Berabere
+7.10
+Alianza Atletico Sullana ve FBC Melgar
+15.00
+FBC Melgar ve Alianza Atletico Sullana
+10.00
+FBC Melgar ve Berabere
+7.10
+FBC Melgar ve FBC Melgar
+3.62
+Gol Yok
+11.00
+İlk Yarı/Maç Sonucu ve Toplam Gol
+Alianza Atletico Sullana/Alianza Atletico Sullana ve Üst (1.5)
+3.03
+Alianza Atletico Sullana/Alianza Atletico Sullana ve Alt (1.5)
+11.00
+Alianza Atletico Sullana/Beraberlik ve Üst (1.5)
+13.00
+Alianza Atletico Sullana/FBC Melgar ve Üst (1.5)
+34.00
+Beraberlik/Alianza Atletico Sullana ve Üst (1.5)
+6.00
+Beraberlik/Alianza Atletico Sullana ve Alt (1.5)
+9.00
+Beraberlik/Beraberlik ve Üst (1.5)
+7.20
+Beraberlik/Beraberlik ve Alt (1.5)
+8.30
+Beraberlik/FBC Melgar ve Üst (1.5)
+9.70
+Beraberlik/FBC Melgar ve Alt (1.5)
+12.00
+FBC Melgar/Alianza Atletico Sullana ve Üst (1.5)
+23.00
+FBC Melgar/Beraberlik ve Üst (1.5)
+13.00
+Daha Fazla Seçeneği Göster
+Oyuncu Kaleyi Bulan Şutlar
+YENİ
+Alec Deneumostier 1+
+6.80
+Alec Deneumostier 2+
+19.00
+Anthony Gordillo 1+
+4.10
+Anthony Gordillo 2+
+14.00
+Ariel Munoz 1+
+1.34
+Ariel Munoz 2+
+2.49
+Ariel Munoz 3+
+5.90
+Ariel Munoz 4+
+13.00
+Bernardo Cuesta 1+
+1.27
+Bernardo Cuesta 2+
+2.17
+Bernardo Cuesta 3+
+4.90
+Bernardo Cuesta 4+
+12.00
+Cristian Bordacahar 1+
+1.59
+Cristian Bordacahar 2+
+3.85
+Cristian Bordacahar 3+
+11.00
+Cristian Bordacahar 4+
+21.00
+Cristian Penilla 1+
+1.31
+Cristian Penilla 2+
+2.35
+Cristian Penilla 3+
+5.40
+Cristian Penilla 4+
+12.00
+Franco Zanelatto 1+
+1.74
+Franco Zanelatto 2+
+4.33
+Franco Zanelatto 3+
+11.00
+Franco Zanelatto 4+
+23.00
+German Diaz 1+
+1.97
+German Diaz 2+
+5.80
+German Diaz 3+
+15.00
+Guillermo Larios 1+
+1.48
+Guillermo Larios 2+
+3.25
+Guillermo Larios 3+
+9.00
+Guillermo Larios 4+
+17.00
+Hernan Lupu 1+
+1.71
+Hernan Lupu 2+
+4.33
+Hernan Lupu 3+
+11.00
+Hernan Lupu 4+
+23.00
+Horacio Orzan 1+
+5.70
+Horacio Orzan 2+
+15.00
+Jairo Molina 1+
+1.28
+Jairo Molina 2+
+2.23
+Jairo Molina 3+
+5.10
+Jairo Molina 4+
+12.00
+Jesus Alcantar 1+
+3.80
+Jesus Alcantar 2+
+13.00
+Jesus Alcantar 3+
+36.00
+Jesus Mendieta 1+
+2.40
+Jesus Mendieta 2+
+8.40
+Jesus Mendieta 3+
+17.00
+Jhonny Vidales 1+
+1.35
+Jhonny Vidales 2+
+2.55
+Jhonny Vidales 3+
+6.20
+Jhonny Vidales 4+
+14.00
+Jimmy Perez 1+
+1.93
+Jimmy Perez 2+
+5.70
+Jimmy Perez 3+
+15.00
+Jimmy Perez 4+
+34.00
+Jorge Del Castillo 1+
+1.46
+Jorge Del Castillo 2+
+3.15
+Jorge Del Castillo 3+
+8.60
+Jorge Del Castillo 4+
+17.00
+Jose Lujan 1+
+4.50
+Jose Lujan 2+
+14.00
+Jose Maria Ingratti 1+
+1.29
+Jose Maria Ingratti 2+
+2.26
+Jose Maria Ingratti 3+
+5.20
+Jose Maria Ingratti 4+
+12.00
+Jose Villegas 1+
+4.20
+Jose Villegas 2+
+15.00
+Juan Delgado 1+
+1.90
+Juan Delgado 2+
+5.60
+Juan Delgado 3+
+14.00
+Juan Delgado 4+
+31.00
+Juan Escobar 1+
+5.40
+Juan Escobar 2+
+15.00
+Kevin Minda 1+
+4.00
+Kevin Minda 2+
+14.00
+Lautaro Guzman 1+
+1.64
+Lautaro Guzman 2+
+4.10
+Lautaro Guzman 3+
+12.00
+Lautaro Guzman 4+
+23.00
+Leonel Gonzalez 1+
+6.80
+Leonel Gonzalez 2+
+19.00
+Marcos Portillo 1+
+2.45
+Marcos Portillo 2+
+8.90
+Marcos Portillo 3+
+19.00
+Matias Zegarra 1+
+1.92
+Matias Zegarra 2+
+5.80
+Matias Zegarra 3+
+14.00
+Matias Zegarra 4+
+31.00
+Nelson Cabanillas 1+
+4.33
+Nelson Cabanillas 2+
+14.00
+Nicolas Quagliata 1+
+1.45
+Nicolas Quagliata 2+
+3.10
+Nicolas Quagliata 3+
+8.40
+Nicolas Quagliata 4+
+17.00
+Roman Suarez 1+
+7.20
+Roman Suarez 2+
+21.00
+Stefano Fernandez 1+
+3.85
+Stefano Fernandez 2+
+13.00
+Valentin Robaldo 1+
+1.18
+Valentin Robaldo 2+
+1.80
+Valentin Robaldo 3+
+3.50
+Valentin Robaldo 4+
+8.10
+Walter Tandazo 1+
+2.80
+Walter Tandazo 2+
+11.00
+Walter Tandazo 3+
+23.00
+Williams Guzman 1+
+3.00
+Williams Guzman 2+
+11.00
+Williams Guzman 3+
+26.00
+Oyuncu Şutları
+YENİ
+Alec Deneumostier 1+
+2.19
+Alec Deneumostier 2+
+7.30
+Alec Deneumostier 3+
+19.00
+Alec Deneumostier 4+
+36.00
+Anthony Gordillo 1+
+1.41
+Anthony Gordillo 2+
+2.85
+Anthony Gordillo 3+
+7.20
+Anthony Gordillo 4+
+17.00
+Ariel Munoz 2+
+1.15
+Ariel Munoz 3+
+1.45
+Ariel Munoz 4+
+2.08
+Ariel Munoz 5+
+3.40
+Ariel Munoz 6+
+6.20
+Bernardo Cuesta 2+
+1.18
+Bernardo Cuesta 3+
+1.53
+Bernardo Cuesta 4+
+2.28
+Bernardo Cuesta 5+
+3.90
+Bernardo Cuesta 6+
+7.40
+Cristian Bordacahar 2+
+1.38
+Cristian Bordacahar 3+
+2.12
+Cristian Bordacahar 4+
+3.90
+Cristian Bordacahar 5+
+8.00
+Cristian Penilla 3+
+1.31
+Cristian Penilla 4+
+1.75
+Cristian Penilla 5+
+2.65
+Cristian Penilla 6+
+4.50
+Franco Zanelatto 1+
+1.12
+Franco Zanelatto 2+
+1.50
+Franco Zanelatto 3+
+2.40
+Franco Zanelatto 4+
+4.40
+Franco Zanelatto 5+
+8.10
+German Diaz 1+
+1.16
+German Diaz 2+
+1.69
+German Diaz 3+
+3.05
+German Diaz 4+
+6.30
+Guillermo Larios 2+
+1.23
+Guillermo Larios 3+
+1.68
+Guillermo Larios 4+
+2.65
+Guillermo Larios 5+
+4.90
+Hernan Lupu 1+
+1.15
+Hernan Lupu 2+
+1.64
+Hernan Lupu 3+
+2.90
+Hernan Lupu 4+
+5.90
+Horacio Orzan 1+
+2.05
+Horacio Orzan 2+
+6.30
+Horacio Orzan 3+
+17.00
+Horacio Orzan 4+
+36.00
+Jairo Molina 3+
+1.42
+Jairo Molina 4+
+2.02
+Jairo Molina 5+
+3.30
+Jairo Molina 6+
+6.00
+Jesus Alcantar 1+
+1.87
+Jesus Alcantar 2+
+5.40
+Jesus Alcantar 3+
+15.00
+Jesus Alcantar 4+
+31.00
+Jesus Mendieta 1+
+1.20
+Jesus Mendieta 2+
+1.85
+Jesus Mendieta 3+
+3.60
+Jesus Mendieta 4+
+8.00
+Jhonny Vidales 2+
+1.35
+Jhonny Vidales 3+
+2.03
+Jhonny Vidales 4+
+3.60
+Jhonny Vidales 5+
+7.20
+Jimmy Perez 1+
+1.12
+Jimmy Perez 2+
+1.53
+Jimmy Perez 3+
+2.55
+Jimmy Perez 4+
+5.10
+Jorge Del Castillo 2+
+1.15
+Jorge Del Castillo 3+
+1.46
+Jorge Del Castillo 4+
+2.11
+Jorge Del Castillo 5+
+3.50
+Jorge Del Castillo 6+
+6.50
+Jose Lujan 1+
+1.70
+Jose Lujan 2+
+4.50
+Jose Lujan 3+
+13.00
+Jose Lujan 4+
+23.00
+Jose Maria Ingratti 3+
+1.36
+Jose Maria Ingratti 4+
+1.89
+Jose Maria Ingratti 5+
+3.00
+Jose Maria Ingratti 6+
+5.30
+Jose Villegas 1+
+1.60
+Jose Villegas 2+
+3.75
+Jose Villegas 3+
+9.40
+Jose Villegas 4+
+23.00
+Juan Delgado 1+
+1.18
+Juan Delgado 2+
+1.77
+Juan Delgado 3+
+3.35
+Juan Delgado 4+
+7.40
+Juan Escobar 1+
+1.86
+Juan Escobar 2+
+5.30
+Juan Escobar 3+
+15.00
+Juan Escobar 4+
+29.00
+Kevin Minda 1+
+1.39
+Kevin Minda 2+
+2.70
+Kevin Minda 3+
+6.60
+Kevin Minda 4+
+15.00
+Lautaro Guzman 2+
+1.37
+Lautaro Guzman 3+
+2.09
+Lautaro Guzman 4+
+3.80
+Lautaro Guzman 5+
+7.80
+Leonel Gonzalez 1+
+2.23
+Leonel Gonzalez 2+
+7.60
+Leonel Gonzalez 3+
+17.00
+Leonel Gonzalez 4+
+36.00
+Marcos Portillo 1+
+1.13
+Marcos Portillo 2+
+1.55
+Marcos Portillo 3+
+2.65
+Marcos Portillo 4+
+5.50
+Matias Zegarra 1+
+1.11
+Matias Zegarra 2+
+1.49
+Matias Zegarra 3+
+2.47
+Matias Zegarra 4+
+4.90
+Matias Zegarra 5+
+10.00
+Nelson Cabanillas 1+
+1.88
+Nelson Cabanillas 2+
+5.50
+Nelson Cabanillas 3+
+14.00
+Nelson Cabanillas 4+
+31.00
+Nicolas Quagliata 2+
+1.26
+Nicolas Quagliata 3+
+1.75
+Nicolas Quagliata 4+
+2.85
+Nicolas Quagliata 5+
+5.40
+Roman Suarez 1+
+2.02
+Roman Suarez 2+
+6.30
+Roman Suarez 3+
+15.00
+Roman Suarez 4+
+34.00
+Stefano Fernandez 1+
+1.52
+Stefano Fernandez 2+
+3.40
+Stefano Fernandez 3+
+9.40
+Stefano Fernandez 4+
+21.00
+Valentin Robaldo 3+
+1.25
+Valentin Robaldo 4+
+1.60
+Valentin Robaldo 5+
+2.31
+Valentin Robaldo 6+
+3.75
+Walter Tandazo 1+
+1.32
+Walter Tandazo 2+
+2.40
+Walter Tandazo 3+
+5.60
+Walter Tandazo 4+
+13.00
+Williams Guzman 1+
+1.48
+Williams Guzman 2+
+3.20
+Williams Guzman 3+
+8.20
+Williams Guzman 4+
+19.00
+Oyuncunun Yaptığı Fauller
+YENİ
+Alec Deneumostier 1+
+1.36
+Alec Deneumostier 2+
+2.65
+Alec Deneumostier 3+
+6.70
+Alec Deneumostier 4+
+13.00
+Anthony Gordillo 1+
+1.51
+Anthony Gordillo 2+
+3.45
+Anthony Gordillo 3+
+9.40
+Anthony Gordillo 4+
+17.00
+Ariel Munoz 1+
+1.35
+Ariel Munoz 2+
+2.60
+Ariel Munoz 3+
+6.50
+Ariel Munoz 4+
+13.00
+Bernardo Cuesta 1+
+1.59
+Bernardo Cuesta 2+
+3.90
+Bernardo Cuesta 3+
+11.00
+Bernardo Cuesta 4+
+19.00
+Carlos Caceda 1+
+29.00
+Cristian Bordacahar 1+
+1.33
+Cristian Bordacahar 2+
+2.48
+Cristian Bordacahar 3+
+6.20
+Cristian Bordacahar 4+
+13.00
+Cristian Penilla 1+
+1.56
+Cristian Penilla 2+
+3.75
+Cristian Penilla 3+
+10.00
+Cristian Penilla 4+
+19.00
+Daniel Prieto 1+
+29.00
+Franco Zanelatto 1+
+1.35
+Franco Zanelatto 2+
+2.60
+Franco Zanelatto 3+
+6.50
+Franco Zanelatto 4+
+13.00
+German Diaz 1+
+1.36
+German Diaz 2+
+2.65
+German Diaz 3+
+6.60
+German Diaz 4+
+13.00
+Guillermo Larios 1+
+1.19
+Guillermo Larios 2+
+1.81
+Guillermo Larios 3+
+3.55
+Guillermo Larios 4+
+8.10
+Hernan Lupu 1+
+1.25
+Hernan Lupu 2+
+2.12
+Hernan Lupu 3+
+4.75
+Hernan Lupu 4+
+11.00
+Horacio Orzan 1+
+1.34
+Horacio Orzan 2+
+2.55
+Horacio Orzan 3+
+6.30
+Horacio Orzan 4+
+13.00
+Jairo Molina 1+
+1.31
+Jairo Molina 2+
+2.38
+Jairo Molina 3+
+5.70
+Jairo Molina 4+
+12.00
+Jesus Alcantar 1+
+1.48
+Jesus Alcantar 2+
+3.25
+Jesus Alcantar 3+
+8.80
+Jesus Alcantar 4+
+17.00
+Jesus Mendieta 1+
+1.55
+Jesus Mendieta 2+
+3.70
+Jesus Mendieta 3+
+10.00
+Jesus Mendieta 4+
+19.00
+Jhonny Vidales 1+
+1.52
+Jhonny Vidales 2+
+3.50
+Jhonny Vidales 3+
+9.60
+Jhonny Vidales 4+
+17.00
+Jimmy Perez 1+
+1.39
+Jimmy Perez 2+
+2.80
+Jimmy Perez 3+
+7.20
+Jimmy Perez 4+
+13.00
+Jorge Cabezudo 1+
+29.00
+Jorge Del Castillo 1+
+1.33
+Jorge Del Castillo 2+
+2.50
+Jorge Del Castillo 3+
+6.20
+Jorge Del Castillo 4+
+13.00
+Jose Lujan 1+
+1.60
+Jose Lujan 2+
+3.95
+Jose Lujan 3+
+11.00
+Jose Lujan 4+
+19.00
+Jose Maria Ingratti 1+
+1.30
+Jose Maria Ingratti 2+
+2.35
+Jose Maria Ingratti 3+
+5.60
+Jose Maria Ingratti 4+
+12.00
+Jose Villegas 1+
+1.45
+Jose Villegas 2+
+3.10
+Jose Villegas 3+
+8.30
+Jose Villegas 4+
+15.00
+Juan Delgado 1+
+1.41
+Juan Delgado 2+
+2.90
+Juan Delgado 3+
+7.60
+Juan Delgado 4+
+13.00
+Juan Escobar 1+
+1.53
+Juan Escobar 2+
+3.55
+Juan Escobar 3+
+9.70
+Juan Escobar 4+
+19.00
+Kevin Minda 1+
+1.53
+Kevin Minda 2+
+3.60
+Kevin Minda 3+
+9.80
+Kevin Minda 4+
+19.00
+Lautaro Guzman 1+
+1.46
+Lautaro Guzman 2+
+3.15
+Lautaro Guzman 3+
+8.50
+Lautaro Guzman 4+
+15.00
+Leonel Gonzalez 1+
+1.58
+Leonel Gonzalez 2+
+3.80
+Leonel Gonzalez 3+
+10.00
+Leonel Gonzalez 4+
+19.00
+Marcos Portillo 1+
+1.17
+Marcos Portillo 2+
+1.72
+Marcos Portillo 3+
+3.25
+Marcos Portillo 4+
+7.30
+Matias Zegarra 1+
+1.25
+Matias Zegarra 2+
+2.08
+Matias Zegarra 3+
+4.60
+Matias Zegarra 4+
+11.00
+Nelson Cabanillas 1+
+1.38
+Nelson Cabanillas 2+
+2.75
+Nelson Cabanillas 3+
+7.10
+Nelson Cabanillas 4+
+13.00
+Nicolas Quagliata 1+
+1.67
+Nicolas Quagliata 2+
+4.33
+Nicolas Quagliata 3+
+12.00
+Nicolas Quagliata 4+
+21.00
+Roman Suarez 1+
+1.51
+Roman Suarez 2+
+3.45
+Roman Suarez 3+
+9.40
+Roman Suarez 4+
+17.00
+Stefano Fernandez 1+
+1.33
+Stefano Fernandez 2+
+2.50
+Stefano Fernandez 3+
+6.20
+Stefano Fernandez 4+
+13.00
+Steven Rivadeneyra 1+
+29.00
+Valentin Robaldo 1+
+1.30
+Valentin Robaldo 2+
+2.34
+Valentin Robaldo 3+
+5.50
+Valentin Robaldo 4+
+12.00
+Walter Tandazo 1+
+1.39
+Walter Tandazo 2+
+2.85
+Walter Tandazo 3+
+7.30
+Walter Tandazo 4+
+13.00
+Williams Guzman 1+
+1.34
+Williams Guzman 2+
+2.50
+Williams Guzman 3+
+6.20
+Williams Guzman 4+
+13.00
+Oyuncuya Faul Yapılır
+YENİ
+Alec Deneumostier 1+
+1.84
+Alec Deneumostier 2+
+5.40
+Alec Deneumostier 3+
+12.00
+Alec Deneumostier 4+
+25.00
+Anthony Gordillo 1+
+1.65
+Anthony Gordillo 2+
+4.30
+Anthony Gordillo 3+
+11.00
+Anthony Gordillo 4+
+21.00
+Ariel Munoz 1+
+1.42
+Ariel Munoz 2+
+2.95
+Ariel Munoz 3+
+7.80
+Ariel Munoz 4+
+14.00
+Bernardo Cuesta 1+
+1.44
+Bernardo Cuesta 2+
+3.05
+Bernardo Cuesta 3+
+8.20
+Bernardo Cuesta 4+
+14.00
+Cristian Bordacahar 1+
+1.20
+Cristian Bordacahar 2+
+1.88
+Cristian Bordacahar 3+
+3.85
+Cristian Bordacahar 4+
+8.80
+Cristian Penilla 1+
+1.29
+Cristian Penilla 2+
+2.30
+Cristian Penilla 3+
+5.40
+Cristian Penilla 4+
+12.00
+Franco Zanelatto 2+
+1.24
+Franco Zanelatto 3+
+1.71
+Franco Zanelatto 4+
+2.80
+Franco Zanelatto 5+
+5.30
+German Diaz 1+
+1.37
+German Diaz 2+
+2.70
+German Diaz 3+
+6.90
+German Diaz 4+
+13.00
+Guillermo Larios 1+
+1.24
+Guillermo Larios 2+
+2.04
+Guillermo Larios 3+
+4.50
+Guillermo Larios 4+
+10.00
+Hernan Lupu 1+
+1.26
+Hernan Lupu 2+
+2.15
+Hernan Lupu 3+
+4.80
+Hernan Lupu 4+
+11.00
+Horacio Orzan 1+
+1.51
+Horacio Orzan 2+
+3.45
+Horacio Orzan 3+
+9.30
+Horacio Orzan 4+
+17.00
+Jairo Molina 1+
+1.29
+Jairo Molina 2+
+2.30
+Jairo Molina 3+
+5.40
+Jairo Molina 4+
+12.00
+Jesus Alcantar 1+
+1.95
+Jesus Alcantar 2+
+6.00
+Jesus Alcantar 3+
+12.00
+Jesus Alcantar 4+
+29.00
+Jesus Mendieta 1+
+1.53
+Jesus Mendieta 2+
+3.60
+Jesus Mendieta 3+
+9.80
+Jesus Mendieta 4+
+19.00
+Jhonny Vidales 1+
+1.36
+Jhonny Vidales 2+
+2.65
+Jhonny Vidales 3+
+6.60
+Jhonny Vidales 4+
+13.00
+Jimmy Perez 1+
+1.19
+Jimmy Perez 2+
+1.82
+Jimmy Perez 3+
+3.60
+Jimmy Perez 4+
+8.20
+Jorge Del Castillo 2+
+1.39
+Jorge Del Castillo 3+
+2.17
+Jorge Del Castillo 4+
+4.10
+Jorge Del Castillo 5+
+8.50
+Jose Lujan 1+
+1.88
+Jose Lujan 2+
+5.60
+Jose Lujan 3+
+12.00
+Jose Lujan 4+
+26.00
+Jose Maria Ingratti 1+
+1.52
+Jose Maria Ingratti 2+
+3.50
+Jose Maria Ingratti 3+
+9.50
+Jose Maria Ingratti 4+
+17.00
+Jose Villegas 1+
+1.99
+Jose Villegas 2+
+6.30
+Jose Villegas 3+
+12.00
+Juan Delgado 1+
+1.56
+Juan Delgado 2+
+3.75
+Juan Delgado 3+
+10.00
+Juan Delgado 4+
+19.00
+Juan Escobar 1+
+1.86
+Juan Escobar 2+
+5.50
+Juan Escobar 3+
+12.00
+Juan Escobar 4+
+26.00
+Kevin Minda 1+
+1.57
+Kevin Minda 2+
+3.80
+Kevin Minda 3+
+10.00
+Kevin Minda 4+
+19.00
+Lautaro Guzman 2+
+1.28
+Lautaro Guzman 3+
+1.83
+Lautaro Guzman 4+
+3.10
+Lautaro Guzman 5+
+6.20
+Leonel Gonzalez 1+
+1.80
+Leonel Gonzalez 2+
+5.10
+Leonel Gonzalez 3+
+12.00
+Leonel Gonzalez 4+
+25.00
+Marcos Portillo 2+
+1.43
+Marcos Portillo 3+
+2.27
+Marcos Portillo 4+
+4.40
+Marcos Portillo 5+
+9.20
+Matias Zegarra 1+
+1.36
+Matias Zegarra 2+
+2.65
+Matias Zegarra 3+
+6.60
+Matias Zegarra 4+
+13.00
+Nelson Cabanillas 1+
+1.15
+Nelson Cabanillas 2+
+1.66
+Nelson Cabanillas 3+
+3.05
+Nelson Cabanillas 4+
+6.70
+Nicolas Quagliata 1+
+1.46
+Nicolas Quagliata 2+
+3.20
+Nicolas Quagliata 3+
+8.60
+Nicolas Quagliata 4+
+15.00
+Roman Suarez 1+
+1.85
+Roman Suarez 2+
+5.40
+Roman Suarez 3+
+12.00
+Roman Suarez 4+
+26.00
+Stefano Fernandez 1+
+1.64
+Stefano Fernandez 2+
+4.20
+Stefano Fernandez 3+
+11.00
+Stefano Fernandez 4+
+21.00
+Valentin Robaldo 1+
+1.34
+Valentin Robaldo 2+
+2.50
+Valentin Robaldo 3+
+6.20
+Valentin Robaldo 4+
+13.00
+Walter Tandazo 1+
+1.56
+Walter Tandazo 2+
+3.75
+Walter Tandazo 3+
+10.00
+Walter Tandazo 4+
+19.00
+Williams Guzman 1+
+1.72
+Williams Guzman 2+
+4.70
+Williams Guzman 3+
+12.00
+Williams Guzman 4+
+23.00
+Kaleci Kurtarışları
+YENİ
+Carlos Caceda 3+
+1.36
+Carlos Caceda 4+
+1.87
+Carlos Caceda 5+
+2.95
+Carlos Caceda 6+
+5.20
+Daniel Prieto 2+
+1.23
+Daniel Prieto 3+
+1.66
+Daniel Prieto 4+
+2.65
+Daniel Prieto 5+
+4.85
+Daniel Prieto 6+
+9.60
+Jorge Cabezudo 3+
+1.34
+Jorge Cabezudo 4+
+1.81
+Jorge Cabezudo 5+
+2.80
+Jorge Cabezudo 6+
+4.90
+Steven Rivadeneyra 2+
+1.22
+Steven Rivadeneyra 3+
+1.64
+Steven Rivadeneyra 4+
+2.60
+Steven Rivadeneyra 5+
+4.70
+Steven Rivadeneyra 6+
+9.20
+En Çok Faul Yapan Oyuncu
+YENİ
+Marcos Portillo
+8.50
+Guillermo Larios
+10.00
+Hernan Lupu
+14.00
+Matias Zegarra
+14.00
+Valentin Robaldo
+19.00
+Jose Maria Ingratti
+19.00
+Cristian Bordacahar
+21.00
+Jairo Molina
+21.00
+Williams Guzman
+21.00
+Stefano Fernandez
+21.00
+Jorge del Castillo
+23.00
+Franco Zanelatto
+23.00
+German Diaz
+23.00
+Alec Deneumostier
+23.00
+Ariel Munoz
+23.00
+Horacio Orzan
+23.00
+Walter Tandazo
+25.00
+Nelson Cabanillas
+25.00
+Jimmy Perez
+25.00
+Juan Delgado
+26.00
+Jose Villegas
+31.00
+Lautaro Guzman
+31.00
+Jesus Alcantar
+36.00
+Anthony Gordillo
+36.00
+Roman Suarez
+41.00
+Juan Escobar
+41.00
+Jhonny Vidales
+46.00
+Kevin Minda
+46.00
+Jesus Mendieta
+46.00
+Cristian Penilla
+46.00
+Bernardo Cuesta
+51.00
+Leonel Gonzalez
+51.00
+Jose Lujan
+56.00
+Nicolas Quagliata
+67.00
+Daniel Prieto
+101.00
+Carlos Caceda
+101.00
+Steven Rivadeneyra
+101.00
+Jorge Cabezudo
+101.00
+Oyuncu 1. Yarıda Kaleyi Bulan Şutlar
+YENİ
+Alec Deneumostier 1+
+14.00
+Alec Deneumostier 2+
+36.00
+Anthony Gordillo 1+
+8.20
+Anthony Gordillo 2+
+23.00
+Ariel Munoz 1+
+2.08
+Ariel Munoz 2+
+6.70
+Ariel Munoz 3+
+17.00
+Ariel Munoz 4+
+36.00
+Bernardo Cuesta 1+
+1.90
+Bernardo Cuesta 2+
+5.60
+Bernardo Cuesta 3+
+15.00
+Bernardo Cuesta 4+
+29.00
+Cristian Bordacahar 1+
+2.65
+Cristian Bordacahar 2+
+10.00
+Cristian Bordacahar 3+
+23.00
+Cristian Penilla 1+
+1.99
+Cristian Penilla 2+
+6.20
+Cristian Penilla 3+
+15.00
+Cristian Penilla 4+
+31.00
+Franco Zanelatto 1+
+2.95
+Franco Zanelatto 2+
+10.00
+Franco Zanelatto 3+
+25.00
+German Diaz 1+
+3.55
+German Diaz 2+
+12.00
+German Diaz 3+
+31.00
+Guillermo Larios 1+
+2.43
+Guillermo Larios 2+
+8.80
+Guillermo Larios 3+
+19.00
+Hernan Lupu 1+
+2.95
+Hernan Lupu 2+
+11.00
+Hernan Lupu 3+
+25.00
+Horacio Orzan 1+
+12.00
+Horacio Orzan 2+
+29.00
+Jairo Molina 1+
+1.93
+Jairo Molina 2+
+5.80
+Jairo Molina 3+
+14.00
+Jairo Molina 4+
+31.00
+Jesus Alcantar 1+
+7.70
+Jesus Alcantar 2+
+21.00
+Jesus Mendieta 1+
+4.50
+Jesus Mendieta 2+
+15.00
+Jhonny Vidales 1+
+2.10
+Jhonny Vidales 2+
+6.80
+Jhonny Vidales 3+
+17.00
+Jhonny Vidales 4+
+36.00
+Jimmy Perez 1+
+3.45
+Jimmy Perez 2+
+12.00
+Jimmy Perez 3+
+31.00
+Jorge Del Castillo 1+
+2.37
+Jorge Del Castillo 2+
+8.50
+Jorge Del Castillo 3+
+19.00
+Jose Lujan 1+
+9.20
+Jose Lujan 2+
+23.00
+Jose Maria Ingratti 1+
+1.95
+Jose Maria Ingratti 2+
+6.00
+Jose Maria Ingratti 3+
+14.00
+Jose Maria Ingratti 4+
+31.00
+Jose Villegas 1+
+8.60
+Jose Villegas 2+
+25.00
+Juan Delgado 1+
+3.35
+Juan Delgado 2+
+12.00
+Juan Delgado 3+
+29.00
+Juan Escobar 1+
+11.00
+Juan Escobar 2+
+26.00
+Kevin Minda 1+
+8.10
+Kevin Minda 2+
+23.00
+Lautaro Guzman 1+
+2.80
+Lautaro Guzman 2+
+11.00
+Lautaro Guzman 3+
+23.00
+Leonel Gonzalez 1+
+14.00
+Leonel Gonzalez 2+
+36.00
+Marcos Portillo 1+
+4.60
+Marcos Portillo 2+
+14.00
+Matias Zegarra 1+
+3.45
+Matias Zegarra 2+
+13.00
+Matias Zegarra 3+
+31.00
+Nelson Cabanillas 1+
+8.70
+Nelson Cabanillas 2+
+23.00
+Nicolas Quagliata 1+
+2.34
+Nicolas Quagliata 2+
+8.30
+Nicolas Quagliata 3+
+19.00
+Nicolas Quagliata 4+
+36.00
+Roman Suarez 1+
+15.00
+Roman Suarez 2+
+36.00
+Stefano Fernandez 1+
+7.70
+Stefano Fernandez 2+
+21.00
+Valentin Robaldo 1+
+1.69
+Valentin Robaldo 2+
+4.50
+Valentin Robaldo 3+
+13.00
+Valentin Robaldo 4+
+25.00
+Walter Tandazo 1+
+5.40
+Walter Tandazo 2+
+14.00
+Williams Guzman 1+
+5.90
+Williams Guzman 2+
+15.00
+Oyuncu 2. Yarıda Kaleyi Bulan Şutlar
+YENİ
+Alec Deneumostier 1+
+12.00
+Alec Deneumostier 2+
+31.00
+Anthony Gordillo 1+
+7.20
+Anthony Gordillo 2+
+19.00
+Ariel Munoz 1+
+1.86
+Ariel Munoz 2+
+5.40
+Ariel Munoz 3+
+13.00
+Ariel Munoz 4+
+29.00
+Bernardo Cuesta 1+
+1.72
+Bernardo Cuesta 2+
+4.60
+Bernardo Cuesta 3+
+13.00
+Bernardo Cuesta 4+
+25.00
+Cristian Bordacahar 1+
+2.36
+Cristian Bordacahar 2+
+8.40
+Cristian Bordacahar 3+
+19.00
+Cristian Bordacahar 4+
+36.00
+Cristian Penilla 1+
+1.80
+Cristian Penilla 2+
+5.00
+Cristian Penilla 3+
+13.00
+Cristian Penilla 4+
+26.00
+Franco Zanelatto 1+
+2.65
+Franco Zanelatto 2+
+9.20
+Franco Zanelatto 3+
+21.00
+German Diaz 1+
+3.10
+German Diaz 2+
+11.00
+German Diaz 3+
+26.00
+Guillermo Larios 1+
+2.15
+Guillermo Larios 2+
+7.20
+Guillermo Larios 3+
+15.00
+Guillermo Larios 4+
+36.00
+Hernan Lupu 1+
+2.60
+Hernan Lupu 2+
+9.30
+Hernan Lupu 3+
+21.00
+Horacio Orzan 1+
+10.00
+Horacio Orzan 2+
+26.00
+Jairo Molina 1+
+1.74
+Jairo Molina 2+
+4.70
+Jairo Molina 3+
+13.00
+Jairo Molina 4+
+25.00
+Jesus Alcantar 1+
+6.50
+Jesus Alcantar 2+
+19.00
+Jesus Mendieta 1+
+3.95
+Jesus Mendieta 2+
+13.00
+Jhonny Vidales 1+
+1.89
+Jhonny Vidales 2+
+5.60
+Jhonny Vidales 3+
+14.00
+Jhonny Vidales 4+
+31.00
+Jimmy Perez 1+
+3.05
+Jimmy Perez 2+
+11.00
+Jimmy Perez 3+
+26.00
+Jorge Del Castillo 1+
+2.11
+Jorge Del Castillo 2+
+6.90
+Jorge Del Castillo 3+
+15.00
+Jorge Del Castillo 4+
+36.00
+Jose Lujan 1+
+7.80
+Jose Lujan 2+
+21.00
+Jose Maria Ingratti 1+
+1.76
+Jose Maria Ingratti 2+
+4.80
+Jose Maria Ingratti 3+
+13.00
+Jose Maria Ingratti 4+
+26.00
+Jose Villegas 1+
+7.40
+Jose Villegas 2+
+19.00
+Juan Delgado 1+
+3.00
+Juan Delgado 2+
+11.00
+Juan Delgado 3+
+26.00
+Juan Escobar 1+
+9.50
+Juan Escobar 2+
+25.00
+Kevin Minda 1+
+7.10
+Kevin Minda 2+
+19.00
+Lautaro Guzman 1+
+2.47
+Lautaro Guzman 2+
+9.00
+Lautaro Guzman 3+
+19.00
+Leonel Gonzalez 1+
+12.00
+Leonel Gonzalez 2+
+31.00
+Marcos Portillo 1+
+4.10
+Marcos Portillo 2+
+13.00
+Marcos Portillo 3+
+36.00
+Matias Zegarra 1+
+3.00
+Matias Zegarra 2+
+12.00
+Matias Zegarra 3+
+26.00
+Nelson Cabanillas 1+
+7.70
+Nelson Cabanillas 2+
+21.00
+Nicolas Quagliata 1+
+2.11
+Nicolas Quagliata 2+
+6.90
+Nicolas Quagliata 3+
+14.00
+Nicolas Quagliata 4+
+36.00
+Roman Suarez 1+
+13.00
+Roman Suarez 2+
+34.00
+Stefano Fernandez 1+
+6.70
+Stefano Fernandez 2+
+19.00
+Valentin Robaldo 1+
+1.54
+Valentin Robaldo 2+
+3.55
+Valentin Robaldo 3+
+10.00
+Valentin Robaldo 4+
+19.00
+Walter Tandazo 1+
+4.70
+Walter Tandazo 2+
+14.00
+Williams Guzman 1+
+5.10
+Williams Guzman 2+
+17.00
+Oyuncu Her İki Yarıda Kaleyi Bulan Şutlar
+YENİ
+Ariel Munoz 1+
+3.50
+Ariel Munoz 2+
+17.00
+Bernardo Cuesta 1+
+3.00
+Bernardo Cuesta 2+
+13.00
+Cristian Bordacahar 1+
+5.40
+Cristian Bordacahar 2+
+29.00
+Cristian Penilla 1+
+3.30
+Cristian Penilla 2+
+15.00
+Franco Zanelatto 1+
+6.60
+Franco Zanelatto 2+
+31.00
+German Diaz 1+
+8.90
+Guillermo Larios 1+
+4.60
+Guillermo Larios 2+
+25.00
+Hernan Lupu 1+
+6.40
+Jairo Molina 1+
+3.10
+Jairo Molina 2+
+14.00
+Jesus Alcantar 1+
+31.00
+Jesus Mendieta 1+
+13.00
+Jhonny Vidales 1+
+3.60
+Jhonny Vidales 2+
+17.00
+Jimmy Perez 1+
+8.50
+Jorge Del Castillo 1+
+4.50
+Jorge Del Castillo 2+
+23.00
+Jose Maria Ingratti 1+
+3.15
+Jose Maria Ingratti 2+
+14.00
+Jose Villegas 1+
+31.00
+Juan Delgado 1+
+8.20
+Lautaro Guzman 1+
+5.90
+Lautaro Guzman 2+
+31.00
+Marcos Portillo 1+
+14.00
+Matias Zegarra 1+
+8.40
+Nicolas Quagliata 1+
+4.33
+Nicolas Quagliata 2+
+23.00
+Stefano Fernandez 1+
+31.00
+Valentin Robaldo 1+
+2.45
+Valentin Robaldo 2+
+9.40
+Walter Tandazo 1+
+19.00
+Williams Guzman 1+
+21.00
+Oyuncu Ceza Sahası Dışından Çektiği Şutlar
+YENİ
+Alec Deneumostier 1+
+11.00
+Alec Deneumostier 2+
+26.00
+Anthony Gordillo 1+
+1.59
+Anthony Gordillo 2+
+3.80
+Anthony Gordillo 3+
+10.00
+Anthony Gordillo 4+
+19.00
+Ariel Munoz 1+
+1.03
+Ariel Munoz 2+
+1.16
+Ariel Munoz 3+
+1.46
+Ariel Munoz 4+
+2.11
+Bernardo Cuesta 1+
+1.50
+Bernardo Cuesta 2+
+3.35
+Bernardo Cuesta 3+
+9.30
+Bernardo Cuesta 4+
+17.00
+Cristian Bordacahar 1+
+1.78
+Cristian Bordacahar 2+
+5.00
+Cristian Bordacahar 3+
+13.00
+Cristian Bordacahar 4+
+26.00
+Cristian Penilla 1+
+1.06
+Cristian Penilla 2+
+1.28
+Cristian Penilla 3+
+1.81
+Cristian Penilla 4+
+3.05
+Franco Zanelatto 1+
+2.06
+Franco Zanelatto 2+
+6.30
+Franco Zanelatto 3+
+17.00
+German Diaz 1+
+1.18
+German Diaz 2+
+1.78
+German Diaz 3+
+3.35
+German Diaz 4+
+7.10
+Guillermo Larios 1+
+1.74
+Guillermo Larios 2+
+4.70
+Guillermo Larios 3+
+13.00
+Guillermo Larios 4+
+25.00
+Hernan Lupu 1+
+1.81
+Hernan Lupu 2+
+5.10
+Hernan Lupu 3+
+13.00
+Hernan Lupu 4+
+25.00
+Horacio Orzan 1+
+2.17
+Horacio Orzan 2+
+7.10
+Horacio Orzan 3+
+17.00
+Jairo Molina 1+
+1.50
+Jairo Molina 2+
+3.40
+Jairo Molina 3+
+9.30
+Jairo Molina 4+
+17.00
+Jesus Alcantar 1+
+8.10
+Jesus Alcantar 2+
+21.00
+Jesus Mendieta 1+
+1.33
+Jesus Mendieta 2+
+2.44
+Jesus Mendieta 3+
+5.70
+Jesus Mendieta 4+
+13.00
+Jhonny Vidales 1+
+1.89
+Jhonny Vidales 2+
+5.60
+Jhonny Vidales 3+
+14.00
+Jhonny Vidales 4+
+26.00
+Jimmy Perez 1+
+1.28
+Jimmy Perez 2+
+2.21
+Jimmy Perez 3+
+4.90
+Jimmy Perez 4+
+11.00
+Jorge Del Castillo 1+
+1.16
+Jorge Del Castillo 2+
+1.69
+Jorge Del Castillo 3+
+3.15
+Jorge Del Castillo 4+
+6.90
+Jose Lujan 1+
+4.20
+Jose Lujan 2+
+13.00
+Jose Lujan 3+
+36.00
+Jose Maria Ingratti 1+
+1.49
+Jose Maria Ingratti 2+
+3.30
+Jose Maria Ingratti 3+
+9.00
+Jose Maria Ingratti 4+
+17.00
+Jose Villegas 1+
+6.30
+Jose Villegas 2+
+17.00
+Juan Delgado 1+
+1.38
+Juan Delgado 2+
+2.70
+Juan Delgado 3+
+6.80
+Juan Delgado 4+
+15.00
+Juan Escobar 1+
+10.00
+Juan Escobar 2+
+25.00
+Kevin Minda 1+
+1.52
+Kevin Minda 2+
+3.40
+Kevin Minda 3+
+8.90
+Kevin Minda 4+
+19.00
+Lautaro Guzman 1+
+1.20
+Lautaro Guzman 2+
+1.86
+Lautaro Guzman 3+
+3.75
+Lautaro Guzman 4+
+8.60
+Leonel Gonzalez 1+
+4.10
+Leonel Gonzalez 2+
+13.00
+Leonel Gonzalez 3+
+34.00
+Marcos Portillo 1+
+1.12
+Marcos Portillo 2+
+1.51
+Marcos Portillo 3+
+2.55
+Marcos Portillo 4+
+5.10
+Matias Zegarra 1+
+1.89
+Matias Zegarra 2+
+5.60
+Matias Zegarra 3+
+14.00
+Matias Zegarra 4+
+29.00
+Nelson Cabanillas 1+
+2.48
+Nelson Cabanillas 2+
+9.00
+Nelson Cabanillas 3+
+19.00
+Nicolas Quagliata 1+
+1.15
+Nicolas Quagliata 2+
+1.65
+Nicolas Quagliata 3+
+2.95
+Nicolas Quagliata 4+
+6.40
+Roman Suarez 1+
+3.55
+Roman Suarez 2+
+13.00
+Roman Suarez 3+
+31.00
+Stefano Fernandez 1+
+2.44
+Stefano Fernandez 2+
+8.80
+Stefano Fernandez 3+
+19.00
+Valentin Robaldo 1+
+1.18
+Valentin Robaldo 2+
+1.79
+Valentin Robaldo 3+
+3.50
+Valentin Robaldo 4+
+7.90
+Walter Tandazo 1+
+1.60
+Walter Tandazo 2+
+3.90
+Walter Tandazo 3+
+11.00
+Walter Tandazo 4+
+21.00
+Williams Guzman 1+
+2.34
+Williams Guzman 2+
+8.00
+Williams Guzman 3+
+17.00
+Oyuncu Ceza Sahası Dışından Kaleyi Bulan Şutlar
+YENİ
+Alec Deneumostier 1+
+31.00
+Anthony Gordillo 1+
+5.70
+Anthony Gordillo 2+
+15.00
+Ariel Munoz 1+
+1.39
+Ariel Munoz 2+
+2.75
+Ariel Munoz 3+
+6.90
+Bernardo Cuesta 1+
+2.65
+Bernardo Cuesta 2+
+9.80
+Bernardo Cuesta 3+
+21.00
+Cristian Bordacahar 1+
+4.85
+Cristian Bordacahar 2+
+13.00
+Cristian Bordacahar 3+
+36.00
+Cristian Penilla 1+
+1.64
+Cristian Penilla 2+
+4.20
+Cristian Penilla 3+
+11.00
+Franco Zanelatto 1+
+7.50
+Franco Zanelatto 2+
+21.00
+German Diaz 1+
+2.45
+German Diaz 2+
+8.40
+German Diaz 3+
+17.00
+Guillermo Larios 1+
+4.75
+Guillermo Larios 2+
+12.00
+Guillermo Larios 3+
+36.00
+Hernan Lupu 1+
+4.70
+Hernan Lupu 2+
+14.00
+Horacio Orzan 1+
+6.40
+Horacio Orzan 2+
+17.00
+Jairo Molina 1+
+3.70
+Jairo Molina 2+
+12.00
+Jairo Molina 3+
+31.00
+Jesus Alcantar 1+
+21.00
+Jesus Alcantar 2+
+36.00
+Jesus Mendieta 1+
+2.85
+Jesus Mendieta 2+
+10.00
+Jesus Mendieta 3+
+23.00
+Jhonny Vidales 1+
+5.10
+Jhonny Vidales 2+
+13.00
+Jimmy Perez 1+
+2.49
+Jimmy Perez 2+
+8.80
+Jimmy Perez 3+
+19.00
+Jorge Del Castillo 1+
+2.07
+Jorge Del Castillo 2+
+6.80
+Jorge Del Castillo 3+
+14.00
+Jose Lujan 1+
+13.00
+Jose Lujan 2+
+29.00
+Jose Maria Ingratti 1+
+3.95
+Jose Maria Ingratti 2+
+12.00
+Jose Maria Ingratti 3+
+31.00
+Jose Villegas 1+
+23.00
+Juan Delgado 1+
+5.00
+Juan Delgado 2+
+13.00
+Juan Escobar 1+
+31.00
+Kevin Minda 1+
+5.30
+Kevin Minda 2+
+13.00
+Lautaro Guzman 1+
+2.45
+Lautaro Guzman 2+
+8.90
+Lautaro Guzman 3+
+19.00
+Leonel Gonzalez 1+
+14.00
+Leonel Gonzalez 2+
+31.00
+Marcos Portillo 1+
+2.37
+Marcos Portillo 2+
+8.40
+Marcos Portillo 3+
+17.00
+Matias Zegarra 1+
+6.00
+Matias Zegarra 2+
+17.00
+Nelson Cabanillas 1+
+17.00
+Nelson Cabanillas 2+
+36.00
+Nicolas Quagliata 1+
+2.01
+Nicolas Quagliata 2+
+6.40
+Nicolas Quagliata 3+
+13.00
+Roman Suarez 1+
+29.00
+Stefano Fernandez 1+
+12.00
+Stefano Fernandez 2+
+26.00
+Valentin Robaldo 1+
+2.12
+Valentin Robaldo 2+
+7.10
+Valentin Robaldo 3+
+15.00
+Walter Tandazo 1+
+5.10
+Walter Tandazo 2+
+13.00
+Williams Guzman 1+
+13.00
+Williams Guzman 2+
+31.00
+Oyuncu Sağ Ayakla Kaleyi Bulan Şutlar
+YENİ
+Alec Deneumostier 1+
+36.00
+Anthony Gordillo 1+
+36.00
+Ariel Munoz 1+
+13.00
+Ariel Munoz 2+
+31.00
+Bernardo Cuesta 1+
+1.58
+Bernardo Cuesta 2+
+3.70
+Bernardo Cuesta 3+
+10.00
+Bernardo Cuesta 4+
+19.00
+Cristian Bordacahar 1+
+2.17
+Cristian Bordacahar 2+
+7.20
+Cristian Bordacahar 3+
+17.00
+Cristian Bordacahar 4+
+36.00
+Cristian Penilla 1+
+1.47
+Cristian Penilla 2+
+3.15
+Cristian Penilla 3+
+8.40
+Cristian Penilla 4+
+19.00
+Franco Zanelatto 1+
+2.60
+Franco Zanelatto 2+
+9.00
+Franco Zanelatto 3+
+23.00
+German Diaz 1+
+2.38
+German Diaz 2+
+8.20
+German Diaz 3+
+21.00
+Guillermo Larios 1+
+1.99
+Guillermo Larios 2+
+6.20
+Guillermo Larios 3+
+17.00
+Guillermo Larios 4+
+31.00
+Hernan Lupu 1+
+2.32
+Hernan Lupu 2+
+7.90
+Hernan Lupu 3+
+19.00
+Horacio Orzan 1+
+8.50
+Horacio Orzan 2+
+23.00
+Jairo Molina 1+
+1.72
+Jairo Molina 2+
+4.60
+Jairo Molina 3+
+13.00
+Jairo Molina 4+
+25.00
+Jesus Alcantar 1+
+31.00
+Jesus Mendieta 1+
+25.00
+Jhonny Vidales 1+
+1.68
+Jhonny Vidales 2+
+4.30
+Jhonny Vidales 3+
+12.00
+Jhonny Vidales 4+
+23.00
+Jimmy Perez 1+
+2.22
+Jimmy Perez 2+
+7.40
+Jimmy Perez 3+
+19.00
+Jorge Del Castillo 1+
+1.73
+Jorge Del Castillo 2+
+4.60
+Jorge Del Castillo 3+
+13.00
+Jorge Del Castillo 4+
+25.00
+Jose Lujan 1+
+36.00
+Jose Maria Ingratti 1+
+1.87
+Jose Maria Ingratti 2+
+5.40
+Jose Maria Ingratti 3+
+15.00
+Jose Maria Ingratti 4+
+29.00
+Jose Villegas 1+
+36.00
+Juan Delgado 1+
+5.10
+Juan Delgado 2+
+17.00
+Juan Escobar 1+
+17.00
+Juan Escobar 2+
+36.00
+Kevin Minda 1+
+5.60
+Kevin Minda 2+
+17.00
+Lautaro Guzman 1+
+12.00
+Lautaro Guzman 2+
+31.00
+Leonel Gonzalez 1+
+36.00
+Marcos Portillo 1+
+3.20
+Marcos Portillo 2+
+13.00
+Marcos Portillo 3+
+29.00
+Matias Zegarra 1+
+8.60
+Matias Zegarra 2+
+23.00
+Nelson Cabanillas 1+
+26.00
+Nicolas Quagliata 1+
+1.65
+Nicolas Quagliata 2+
+4.20
+Nicolas Quagliata 3+
+12.00
+Nicolas Quagliata 4+
+23.00
+Roman Suarez 1+
+29.00
+Stefano Fernandez 1+
+5.60
+Stefano Fernandez 2+
+15.00
+Valentin Robaldo 1+
+4.60
+Valentin Robaldo 2+
+13.00
+Valentin Robaldo 3+
+36.00
+Walter Tandazo 1+
+3.45
+Walter Tandazo 2+
+13.00
+Walter Tandazo 3+
+31.00
+Williams Guzman 1+
+5.60
+Williams Guzman 2+
+17.00
+Oyuncu Sol Ayakla Kaleyi Bulan Şutlar
+YENİ
+Alec Deneumostier 1+
+29.00
+Anthony Gordillo 1+
+5.20
+Anthony Gordillo 2+
+17.00
+Ariel Munoz 1+
+1.43
+Ariel Munoz 2+
+2.95
+Ariel Munoz 3+
+7.70
+Ariel Munoz 4+
+17.00
+Bernardo Cuesta 1+
+3.50
+Bernardo Cuesta 2+
+14.00
+Bernardo Cuesta 3+
+31.00
+Cristian Bordacahar 1+
+6.80
+Cristian Bordacahar 2+
+19.00
+Cristian Penilla 1+
+5.10
+Cristian Penilla 2+
+15.00
+Franco Zanelatto 1+
+5.10
+Franco Zanelatto 2+
+17.00
+German Diaz 1+
+14.00
+German Diaz 2+
+34.00
+Guillermo Larios 1+
+6.30
+Guillermo Larios 2+
+19.00
+Hernan Lupu 1+
+13.00
+Hernan Lupu 2+
+31.00
+Horacio Orzan 1+
+36.00
+Jairo Molina 1+
+7.70
+Jairo Molina 2+
+21.00
+Jesus Alcantar 1+
+10.00
+Jesus Alcantar 2+
+25.00
+Jesus Mendieta 1+
+2.90
+Jesus Mendieta 2+
+11.00
+Jesus Mendieta 3+
+25.00
+Jhonny Vidales 1+
+4.60
+Jhonny Vidales 2+
+15.00
+Jimmy Perez 1+
+29.00
+Jorge Del Castillo 1+
+7.40
+Jorge Del Castillo 2+
+21.00
+Jose Lujan 1+
+11.00
+Jose Lujan 2+
+26.00
+Jose Maria Ingratti 1+
+4.50
+Jose Maria Ingratti 2+
+13.00
+Jose Maria Ingratti 3+
+36.00
+Jose Villegas 1+
+31.00
+Juan Delgado 1+
+3.75
+Juan Delgado 2+
+13.00
+Juan Delgado 3+
+34.00
+Juan Escobar 1+
+36.00
+Kevin Minda 1+
+36.00
+Lautaro Guzman 1+
+1.83
+Lautaro Guzman 2+
+5.20
+Lautaro Guzman 3+
+14.00
+Lautaro Guzman 4+
+29.00
+Leonel Gonzalez 1+
+12.00
+Leonel Gonzalez 2+
+31.00
+Marcos Portillo 1+
+13.00
+Marcos Portillo 2+
+31.00
+Matias Zegarra 1+
+2.80
+Matias Zegarra 2+
+11.00
+Matias Zegarra 3+
+23.00
+Nelson Cabanillas 1+
+6.00
+Nelson Cabanillas 2+
+17.00
+Nicolas Quagliata 1+
+6.90
+Nicolas Quagliata 2+
+21.00
+Roman Suarez 1+
+36.00
+Stefano Fernandez 1+
+36.00
+Valentin Robaldo 1+
+1.46
+Valentin Robaldo 2+
+3.10
+Valentin Robaldo 3+
+8.30
+Valentin Robaldo 4+
+17.00
+Walter Tandazo 1+
+23.00
+Williams Guzman 1+
+23.00
+Oyuncu Direkten Dönen Şutlar
+YENİ
+Ariel Munoz 1+
+4.50
+Jhonny Vidales 1+
+5.20
+Jose Maria Ingratti 1+
+6.00
+Roman Suarez 1+
+6.70
+Bernardo Cuesta 1+
+6.70
+Matias Zegarra 1+
+7.50
+Valentin Robaldo 1+
+7.50
+Cristian Penilla 1+
+8.30
+Cristian Bordacahar 1+
+8.70
+Hernan Lupu 1+
+9.30
+Jorge Del Castillo 1+
+9.60
+Jairo Molina 1+
+9.60
+Nicolas Quagliata 1+
+11.00
+Guillermo Larios 1+
+11.00
+Lautaro Guzman 1+
+12.00
+Franco Zanelatto 1+
+12.00
+Walter Tandazo 1+
+15.00
+Jimmy Perez 1+
+15.00
+Stefano Fernandez 1+
+17.00
+Juan Delgado 1+
+17.00
+German Diaz 1+
+19.00
+Marcos Portillo 1+
+19.00
+Jesus Mendieta 1+
+21.00
+Jose Villegas 1+
+25.00
+Kevin Minda 1+
+26.00
+Williams Guzman 1+
+26.00
+Anthony Gordillo 1+
+29.00
+Jose Lujan 1+
+34.00
+Juan Escobar 1+
+36.00
+Jesus Alcantar 1+
+36.00
+Alec Deneumostier 1+
+36.00
+Nelson Cabanillas 1+
+36.00
+Leonel Gonzalez 1+
+41.00
+Horacio Orzan 1+
+46.00
