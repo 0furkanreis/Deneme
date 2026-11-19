@@ -40,6 +40,22 @@
    "oran": 48.65,
    "donus": 0.0,
    "durum": "kaybetti"
+  },
+  {
+   "no": 6,
+   "aciklama": "Tek bahis @4,20 (muhtemelen Queensland – Wollongong, Wollongong kazanır)",
+   "yatirilan": 860.0,
+   "oran": 4.2,
+   "donus": 3612.0,
+   "durum": "bekliyor"
+  },
+  {
+   "no": 7,
+   "aciklama": "Arkadaşa gönderilen para (bahis değil)",
+   "yatirilan": 200.0,
+   "oran": null,
+   "donus": 0.0,
+   "durum": "çekim"
   }
  ]
 }
