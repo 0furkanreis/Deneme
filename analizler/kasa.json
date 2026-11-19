@@ -1,10 +1,45 @@
 {
  "baslangic": 3000.0,
  "hareketler": [
-  {"no": 1, "aciklama": "Tek bahis @2,02", "yatirilan": 3000.0, "oran": 2.02, "donus": 6060.0, "durum": "kazandı"},
-  {"no": 2, "aciklama": "Bahis", "yatirilan": 1000.0, "oran": null, "donus": 0.0, "durum": "kaybetti"},
-  {"no": 3, "aciklama": "Kupon 1", "yatirilan": 1200.0, "oran": 6.4775, "donus": 7772.96, "durum": "bekliyor"},
-  {"no": 4, "aciklama": "Kupon 2", "yatirilan": 600.0, "oran": 9.4354, "donus": 5661.23, "durum": "bekliyor"},
-  {"no": 5, "aciklama": "Kupon 3", "yatirilan": 200.0, "oran": 48.65, "donus": 9730.0, "durum": "bekliyor"}
+  {
+   "no": 1,
+   "aciklama": "Tek bahis @2,02",
+   "yatirilan": 3000.0,
+   "oran": 2.02,
+   "donus": 6060.0,
+   "durum": "kazandı"
+  },
+  {
+   "no": 2,
+   "aciklama": "Bahis",
+   "yatirilan": 1000.0,
+   "oran": null,
+   "donus": 0.0,
+   "durum": "kaybetti"
+  },
+  {
+   "no": 3,
+   "aciklama": "Kupon 1",
+   "yatirilan": 1200.0,
+   "oran": 6.4775,
+   "donus": 0.0,
+   "durum": "kaybetti"
+  },
+  {
+   "no": 4,
+   "aciklama": "Kupon 2",
+   "yatirilan": 600.0,
+   "oran": 9.4354,
+   "donus": 0.0,
+   "durum": "kaybetti"
+  },
+  {
+   "no": 5,
+   "aciklama": "Kupon 3",
+   "yatirilan": 200.0,
+   "oran": 48.65,
+   "donus": 0.0,
+   "durum": "kaybetti"
+  }
  ]
 }
