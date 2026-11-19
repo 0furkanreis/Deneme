@@ -1,0 +1,1824 @@
+Maç Sonucu
+Queensland Lions
+Beraberlik
+Wollongong Wolves
+1.60
+4.10
+4.33
+Çifte Şans
+1X
+12
+X2
+1.20
+1.22
+2.15
+Toplam Goller
+Üst
+Alt
+2
+1.18
+4.30
+2.5
+1.45
+2.55
+3
+1.69
+2.04
+3.5
+2.13
+1.63
+4
+2.95
+1.35
+4.5
+3.47
+1.26
+Queensland Lions : Toplam Gol
+Üst
+Alt
+1
+1.13
+5.10
+1.5
+1.50
+2.40
+2
+1.88
+1.82
+2.5
+2.50
+1.47
+3
+4.05
+1.20
+3.5
+4.75
+1.15
+Wollongong Wolves : Toplam Gol
+Üst
+Alt
+0.5
+1.35
+2.95
+1
+1.73
+1.97
+1.5
+2.65
+1.42
+2
+5.10
+1.13
+Her iki takımda gol atar
+Evet
+Hayır
+1.50
+2.40
+Gol Handikapı
+Queensland Lions
+Wollongong Wolves
+-2.5
+4.42
++2.5
+1.17
+-2
+3.83
++2
+1.22
+-1.5
+2.52
++1.5
+1.46
+-1
+1.97
++1
+1.73
+-0.5
+1.60
++0.5
+2.20
+0
+1.28
+0
+3.30
++0.5
+1.20
+-0.5
+4.05
+Goller Asya Handikapı
+Queensland Lions
+Wollongong Wolves
+-2.75
+5.35
++2.75
+1.12
+-2.25
+4.05
++2.25
+1.20
+-1.75
+3.00
++1.75
+1.34
+-1.25
+2.27
++1.25
+1.56
+-0.75
+1.74
++0.75
+1.96
+-0.25
+1.45
++0.25
+2.55
++0.25
+1.23
+-0.25
+3.75
++0.75
+1.13
+-0.75
+5.10
+Gol Handikapı (3-İhtimalli)
+Queensland Lions
+Beraberlik : Wollongong Wolves
+Wollongong Wolves
+-2
+4.60
++2
+5.00
++2
+1.46
+-1
+2.54
++1
+3.87
++1
+2.19
+Toplam Goller Asya
+Üst
+Alt
+2.25
+1.32
+3.10
+2.75
+1.55
+2.30
+3.25
+1.91
+1.79
+3.75
+2.40
+1.50
+4.25
+3.20
+1.30
+4.75
+4.15
+1.19
+Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+2
+1.44
+4.15
+5.20
+3
+2.13
+3.83
+2.61
+4
+3.56
+4.42
+1.65
+5
+6.40
+6.40
+1.26
+6
+13.00
+9.70
+1.09
+Her iki yarıda gol olur
+Evet
+Hayır
+1.44
+2.59
+İlk Golü Atacak Takım
+Queensland Lions
+Wollongong Wolves
+Gol Yok
+1.49
+2.48
+21.00
+Son Golü Atacak Takım
+Queensland Lions
+Wollongong Wolves
+Gol Yok
+1.49
+2.48
+21.00
+Queensland Lions : Toplam Gol Asya
+Üst
+Alt
+1.25
+1.31
+3.15
+1.75
+1.63
+2.13
+2.25
+2.20
+1.60
+2.75
+3.00
+1.34
+3.25
+4.42
+1.17
+Wollongong Wolves : Toplam Gol Asya
+Üst
+Alt
+0.75
+1.47
+2.50
+1.25
+2.17
+1.61
+1.75
+3.30
+1.28
+2.25
+5.55
+1.11
+Queensland Lions : Gol Atar
+Evet
+Hayır
+1.09
+6.15
+Wollongong Wolves Gol Atar
+Evet
+Hayır
+1.35
+2.95
+Queensland Lions : Bahis Yok
+Beraberlik
+Wollongong Wolves
+1.79
+1.91
+Wollongong Wolves : Bahis Yok
+Queensland Lions
+Beraberlik
+1.30
+3.20
+Maç Sonucu ve Karşılıklı Gol
+Queensland Lions Ve Evet
+2.78
+Beraberlik Ve Hayır
+21.00
+Queensland Lions Ve Hayır
+3.25
+Wollongong Wolves Ve Evet
+6.90
+Beraberlik ve Evet
+4.75
+Wollongong Wolves Ve Hayır
+7.85
+Çifte Şans ve Karşılıklı Gol
+1X Ve Evet
+1.75
+12 Ve Hayır
+2.46
+1X Ve Hayır
+2.77
+X2 Ve Evet
+2.70
+12 Ve Evet
+1.94
+X2 Ve Hayır
+6.20
+Maç Sonucu ve Toplam Gol 1.5
+Queensland Lions ve Üst 1.5
+1.82
+Queensland Lions ve Alt 1.5
+11.00
+Beraberlik ve Üst 1.5
+4.75
+Beraberlik ve Alt 1.5
+21.00
+Wollongong Wolves ve Üst 1.5
+5.20
+Wollongong Wolves ve Alt 1.5
+19.00
+1X ve Üst 1.5
+1.38
+1X ve Alt 1.5
+7.40
+12 ve Üst 1.5
+1.42
+12 ve Alt 1.5
+7.10
+X2 ve Üst 1.5
+2.63
+X2 ve Alt 1.5
+10.00
+Maç Sonucu ve Toplam Gol 2.5
+Queensland Lions ve Üst 2.5
+2.13
+Queensland Lions ve Alt 2.5
+5.50
+Beraberlik ve Üst 2.5
+9.70
+Beraberlik ve Alt 2.5
+6.30
+Wollongong Wolves ve Üst 2.5
+6.00
+Wollongong Wolves ve Alt 2.5
+12.00
+1X ve Üst 2.5
+1.81
+1X ve Alt 2.5
+3.10
+12 ve Üst 2.5
+1.65
+12 ve Alt 2.5
+3.95
+X2 ve Üst 2.5
+3.94
+X2 ve Alt 2.5
+4.33
+Maç Sonucu ve Toplam Gol 3.5
+Queensland Lions ve Üst 3.5
+3.23
+Queensland Lions ve Alt 3.5
+2.87
+Beraberlik ve Üst 3.5
+9.60
+Beraberlik ve Alt 3.5
+6.30
+Wollongong Wolves ve Üst 3.5
+11.00
+Wollongong Wolves ve Alt 3.5
+6.50
+1X ve Üst 3.5
+2.52
+1X ve Alt 3.5
+2.07
+12 ve Üst 3.5
+2.60
+12 ve Alt 3.5
+2.09
+X2 ve Üst 3.5
+5.40
+X2 ve Alt 3.5
+3.36
+Maç Sonucu ve Toplam Gol 4.5
+Queensland Lions ve Üst 4.5
+4.85
+Queensland Lions ve Alt 4.5
+2.23
+Beraberlik ve Üst 4.5
+34.00
+Beraberlik ve Alt 4.5
+4.40
+Wollongong Wolves ve Üst 4.5
+15.00
+Wollongong Wolves ve Alt 4.5
+5.50
+1X ve Üst 4.5
+4.40
+1X ve Alt 4.5
+1.56
+12 ve Üst 4.5
+3.87
+12 ve Alt 4.5
+1.66
+X2 ve Üst 4.5
+11.00
+X2 ve Alt 4.5
+2.59
+Sonuç ve Queensland Lions : Toplam Gol
+Queensland Lions ve Üst (1.5)
+1.74
+Queensland Lions ve Alt (1.5)
+8.80
+Beraberlik ve Üst (1.5)
+8.10
+Beraberlik ve Alt (1.5)
+5.50
+Wollongong Wolves ve Üst (1.5)
+15.00
+Wollongong Wolves ve Alt (1.5)
+4.60
+Queensland Lions ve Üst (2.5)
+2.51
+Queensland Lions ve Alt (2.5)
+3.16
+Beraberlik ve Üst (2.5)
+26.00
+Beraberlik ve Alt (2.5)
+3.93
+Wollongong Wolves ve Üst (2.5)
+67.00
+Wollongong Wolves ve Alt (2.5)
+3.95
+Queensland Lions ve Üst (3.5)
+4.60
+Queensland Lions ve Alt (3.5)
+2.05
+Beraberlik ve Üst (3.5)
+126.00
+Beraberlik ve Alt (3.5)
+3.67
+Wollongong Wolves ve Üst (3.5)
+351.00
+Wollongong Wolves ve Alt (3.5)
+3.82
+Sonuç ve Wollongong Wolves : Toplam Gol
+Queensland Lions ve Üst (1.5)
+7.30
+Queensland Lions ve Alt (1.5)
+1.80
+Beraberlik ve Üst (1.5)
+8.20
+Beraberlik ve Alt (1.5)
+5.40
+Wollongong Wolves ve Üst (1.5)
+4.60
+Wollongong Wolves ve Alt (1.5)
+17.00
+Queensland Lions ve Üst (2.5)
+31.00
+Queensland Lions ve Alt (2.5)
+1.59
+Beraberlik ve Üst (2.5)
+26.00
+Beraberlik ve Alt (2.5)
+3.92
+Wollongong Wolves ve Üst (2.5)
+8.10
+Wollongong Wolves ve Alt (2.5)
+6.00
+Queensland Lions ve Üst (3.5)
+201.00
+Queensland Lions ve Alt (3.5)
+1.55
+Beraberlik ve Üst (3.5)
+141.00
+Beraberlik ve Alt (3.5)
+3.64
+Wollongong Wolves ve Üst (3.5)
+21.00
+Wollongong Wolves ve Alt (3.5)
+4.40
+Sonuç ve Toplam Gol (Genişletilmiş Aralık)
+Queensland Lions ve 1-2
+5.30
+Queensland Lions ve 1-3
+2.81
+Queensland Lions ve 1-4
+2.19
+Queensland Lions ve 1-5
+1.83
+Queensland Lions ve 1-6
+1.70
+Queensland Lions ve 2-3
+3.63
+Queensland Lions ve 2-4
+2.65
+Queensland Lions ve 2-5
+2.12
+Queensland Lions ve 2-6
+1.95
+Queensland Lions ve 3-4
+3.36
+Queensland Lions ve 3-5
+2.54
+Queensland Lions ve 3-6
+2.29
+Daha Fazla Seçeneği Göster
+Çifte Şans ve Toplam Gol (Genişletilmiş Aralık)
+1X ve 1-2
+3.40
+1X ve 1-3
+2.20
+1X ve 1-4
+1.63
+1X ve 1-5
+1.42
+1X ve 1-6
+1.32
+1X ve 2-3
+2.65
+1X ve 2-4
+1.86
+1X ve 2-5
+1.59
+1X ve 2-6
+1.46
+1X ve 3-4
+2.75
+1X ve 3-5
+2.19
+1X ve 3-6
+1.93
+1X ve 4-5
+3.38
+1X ve 4-6
+2.79
+1X ve 5-6
+5.30
+1X ve Herhangi bir diğer
+9.60
+12 ve 1-2
+3.85
+12 ve 1-3
+2.05
+Daha Fazla Seçeneği Göster
+Toplam Gol (Kesin)
+0
+21.00
+1
+6.15
+2
+4.15
+3
+3.83
+4
+4.42
+5
+6.40
+6 veya Daha Fazla
+6.40
+Queensland Lions : Toplam Gol (Kesin)
+0
+6.50
+1
+3.25
+2
+3.10
+3
+4.20
+4 veya Daha Fazla
+4.75
+Wollongong Wolves : Toplam Gol (Kesin)
+0
+2.95
+1
+2.38
+2
+3.76
+3
+8.50
+4 veya Daha Fazla
+19.00
+Toplam Gol (Aralık)
+0-1
+5.20
+2-3
+2.12
+4 ila 6
+2.30
+7 veya Daha fazla
+13.00
+Queensland Lions : Toplam Gol (Aralık)
+0-1
+2.40
+2-3
+1.91
+4 ila 6
+4.70
+7 veya Daha fazla
+76.00
+Wollongong Wolves : Toplam Gol (Aralık)
+0-1
+1.42
+2-3
+2.73
+4 ila 6
+19.00
+7 veya Daha fazla
+351.00
+Toplam Gol (Genişletilmiş Gol Aralığı)
+1-2
+2.22
+1-3
+1.53
+1-4
+1.24
+1-5
+1.11
+1-6
+1.05
+2-3
+2.12
+2-4
+1.40
+2-5
+1.23
+2-6
+1.16
+3-4
+1.85
+3-5
+1.54
+3-6
+1.41
+Daha Fazla Seçeneği Göster
+Queensland Lions : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.73
+1-3
+1.31
+1-4
+1.17
+2-3
+1.95
+2-4
+1.63
+3-4
+2.91
+Herhangi Diğer
+4.50
+Wollongong Wolves : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.58
+1-3
+1.40
+1-4
+1.35
+2-3
+2.73
+2-4
+2.63
+3-4
+6.90
+Herhangi Diğer
+2.81
+En Az Bir Takım Üst Gol Atar
+YENİ
+Evet
+No
+1.5
+1.27
+3.40
+2.5
+2.10
+1.65
+3.5
+4.15
+1.19
+1. Gol Zamanı
+1-10
+2.70
+11-20
+3.45
+21-30
+4.60
+31-40
+6.00
+41-50
+7.40
+51-60
+11.00
+61-70
+17.00
+71-80
+21.00
+81-90+
+29.00
+Gol Yok
+8.30
+Queensland Lions : 1. Gol Zamanı (10 dk. Ara)
+1-10
+3.55
+11-20
+4.40
+21-30
+5.10
+31-40
+6.00
+41-50
+6.70
+51-60
+8.70
+61-70
+11.00
+71-80
+14.00
+81-90+
+13.00
+Gol Yok
+4.80
+Wollongong Wolves : 1. Gol Zamanı (10 dk. Ara)
+1-10
+4.90
+11-20
+6.90
+21-30
+7.30
+31-40
+7.70
+41-50
+8.10
+51-60
+9.30
+61-70
+10.00
+71-80
+12.00
+81-90+
+10.00
+Gol Yok
+2.34
+Doğru Skor
+1-0
+9.10
+0-0
+21.00
+0-1
+17.00
+2-0
+9.30
+1-1
+8.30
+0-2
+25.00
+2-1
+7.40
+2-2
+11.00
+1-2
+13.00
+3-0
+12.00
+3-3
+34.00
+0-3
+56.00
+3-1
+11.00
+4-4
+176.00
+1-3
+29.00
+3-2
+15.00
+5-5
+301.00
+2-3
+29.00
+Daha Fazla Seçeneği Göster
+Herhangi Bir Zamanda Doğru Skor
+0-1
+2.50
+0-2
+6.90
+0-3
+21.00
+0-4
+76.00
+0-5
+226.00
+1-0
+1.50
+1-1
+2.24
+1-2
+4.90
+1-3
+14.00
+1-4
+46.00
+1-5
+176.00
+2-0
+2.49
+2-1
+2.94
+2-2
+5.70
+2-3
+15.00
+2-4
+46.00
+2-5
+176.00
+3-0
+4.70
+Daha Fazla Seçeneği Göster
+1.Yarı Sonucu
+Queensland Lions
+Beraberlik
+Wollongong Wolves
+2.01
+2.47
+4.30
+1.Yarı Çifte Şans
+1X
+12
+X2
+1.18
+1.46
+1.71
+1. Yarı Toplam Gol
+Üst
+Alt
+1
+1.43
+2.62
+1.5
+2.08
+1.66
+2
+3.40
+1.27
+1. Yarı 1. Takım Toplam Gol
+Üst
+Alt
+0.5
+1.52
+2.37
+1
+2.25
+1.57
+1.5
+3.40
+1.27
+1. Yarı 2. Takım Toplam Gol
+Üst
+Alt
+0.5
+2.30
+1.55
+1
+5.55
+1.11
+1. Yarı Queensland Lions Toplam Goller Asya
+Üst
+Alt
+0.75
+1.73
+1.97
+1.25
+2.85
+1.37
+1.75
+4.57
+1.16
+1. Yarı Wollongong Wolves Toplam Gol Asya
+Üst
+Alt
+0.75
+3.05
+1.33
+1. Yarı Karşılıklı Gol
+Evet
+Hayır
+3.47
+1.26
+1. Yarı Gol Handikapı
+Queensland Lions
+Wollongong Wolves
+-1.5
+4.57
++1.5
+1.16
+-1
+3.47
++1
+1.26
+-0.5
+2.01
++0.5
+1.71
+0
+1.34
+0
+3.00
++0.5
+1.18
+-0.5
+4.30
+1. Yarı Goller Asya Handikapı
+Queensland Lions
+Wollongong Wolves
+-1.25
+4.05
++1.25
+1.20
+-0.75
+2.45
++0.75
+1.48
+-0.25
+1.68
++0.25
+2.05
++0.25
+1.23
+-0.25
+3.75
+1.Yarı Toplam Gol Asya
+Üst
+Alt
+0.75
+1.30
+3.20
+1.25
+1.77
+1.93
+1.75
+2.50
+1.47
+1. . Yarı : Toplam Gol (3-İhtimalli)
+Üst
+Kesin
+Alt
+1
+2.08
+2.67
+3.90
+1. Yarı: Sonuç ve Her İki Takımda Gol atar
+Queensland Lions Ve Evet
+5.60
+Beraberlik ve Hayır
+3.83
+Queensland Lions Ve Hayır
+1.96
+Wollongong Wolves ve Evet
+10.00
+Beraberlik ve Evet
+4.20
+Wollongong Wolves ve Hayır
+3.68
+1. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.57
+1-3
+1.33
+1-4
+1.26
+2-3
+2.35
+2-4
+2.12
+3-4
+4.75
+Herhangi Diğer
+3.45
+1. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.68
+1-3
+1.54
+1-4
+1.51
+2-3
+3.57
+2-4
+3.39
+3-4
+10.00
+Herhangi Diğer
+2.29
+1. Yarı Takım 2 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+2.30
+1-3
+2.30
+1-4
+2.23
+2-3
+8.30
+2-4
+8.20
+3-4
+41.00
+Herhangi Diğer
+1.55
+1.Yarı Queensland Lions Toplam Gol (Kesin)
+0
+1
+2+
+2.37
+2.40
+3.40
+1.Yarı Wollongong Wolves Toplam Gol (Kesin)
+0
+1
+2+
+1.55
+2.77
+8.60
+1.Yarı Doğru Skor
+1-0
+3.68
+0-0
+3.83
+0-1
+6.50
+2-0
+7.00
+1-1
+6.70
+0-2
+21.00
+2-1
+13.00
+2-2
+41.00
+1-2
+23.00
+3-0
+19.00
+3-3
+301.00
+0-3
+101.00
+3-1
+34.00
+1-3
+111.00
+3-2
+111.00
+2-3
+201.00
+2. Yarı Sonucu
+Queensland Lions
+Beraberlik
+Wollongong Wolves
+1.87
+2.89
+4.20
+2. Yarı Çifte Şans
+1X
+12
+X2
+1.21
+1.36
+1.78
+2.Yarı Toplam Gol
+Üst
+Alt
+0.5
+1.13
+5.10
+1
+1.22
+3.83
+1.5
+1.66
+2.08
+2
+2.27
+1.56
+2.5
+3.00
+1.34
+3
+5.35
+1.12
+3.5
+6.00
+1.095
+4
+10.00
+1.02
+4.5
+10.30
+1.017
+2. Yarı Karşılıklı Gol
+Evet
+Hayır
+2.62
+1.43
+2. Yarı Gol Handikapı
+Queensland Lions
+Wollongong Wolves
+-1.5
+3.83
++1.5
+1.22
+-1
+3.00
++1
+1.34
+0
+1.35
+0
+2.95
+2.Yarı: Sonuç ve Her İki Takımda Gol Atar
+Queensland Lions Ve Evet
+4.10
+Beraberlik ve Hayır
+5.10
+Queensland Lions Ve Hayır
+2.03
+Wollongong Wolves ve Evet
+7.00
+Beraberlik ve Evet
+3.67
+Wollongong Wolves ve Hayır
+3.75
+2. Yarı Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.64
+1-3
+1.30
+1-4
+1.19
+2-3
+2.05
+2-4
+1.77
+3-4
+3.41
+Herhangi Diğer
+4.20
+2. Yarı Takım 1 : Toplam Gol (Genişletilmiş Aralıklar)
+1-2
+1.59
+1-3
+1.41
+1-4
+1.36
+2-3
+2.84
+2-4
+2.64
+3-4
+6.90
+Herhangi Diğer
+2.77
+2. Yarı Takım 2 : Toplam Gol Sayısı (Genişletilmiş Aralıklar)
+1-2
+1.96
+1-3
+1.87
+1-4
+1.85
+2-3
+5.60
+2-4
+5.50
+3-4
+23.00
+Herhangi Diğer
+1.77
+2. Yarı Doğru Skor
+1-0
+4.33
+0-0
+5.10
+0-1
+7.20
+2-0
+6.80
+1-1
+6.20
+0-2
+19.00
+2-1
+9.60
+2-2
+25.00
+1-2
+15.00
+3-0
+15.00
+3-3
+201.00
+0-3
+71.00
+3-1
+21.00
+1-3
+61.00
+3-2
+56.00
+2-3
+91.00
+1. Yarı veya Maç Sonucu
+Queensland Lions
+X
+Wollongong Wolves
+1.42
+2.04
+3.18
+İlk Yarı/Maç Sonucu
+Queensland Lions /Queensland Lions
+2.19
+Beraberlik/Queensland Lions
+4.40
+Wollongong Wolves /Queensland Lions
+17.00
+Queensland Lions /Beraberlik
+13.00
+Beraberlik/Beraberlik
+6.40
+Wollongong Wolves /Beraberlik
+14.00
+Queensland Lions /Wollongong Wolves
+31.00
+Beraberlik/Wollongong Wolves
+8.80
+Wollongong Wolves /Wollongong Wolves
+6.40
+1.Yarı/2.Yarı Sonucu
+Queensland Lions /Queensland Lions
+2.85
+Queensland Lions /Beraberlik
+3.88
+Queensland Lions /Wollongong Wolves
+5.10
+Beraberlik/Queensland Lions
+3.38
+Beraberlik/Beraberlik
+4.60
+Beraberlik/Wollongong Wolves
+6.00
+Wollongong Wolves /Queensland Lions
+5.30
+Wollongong Wolves /Beraberlik
+7.20
+Wollongong Wolves /Wollongong Wolves
+9.40
+En Çok Gol Atılan Yarı
+1 > 2
+1 = 2
+1 < 2
+2.90
+3.92
+1.96
+En Çok Gol Atılan Yarı : Çifte Şans
+1. Yarı veya Beraberlik
+1. veya 2.
+2. Yarı veya Beraberlik
+1.73
+1.23
+1.36
+Queensland Lions : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+3.00
+3.10
+2.20
+Wollongong Wolves : En Çok Gol Attığı Yarı
+1 > 2
+1 = 2
+1 < 2
+3.50
+2.25
+2.63
+Kornerler : Sonuç
+Queensland Lions
+X
+Wollongong Wolves
+1.35
+9.10
+3.34
+Kornerler : Toplam
+Üst
+Alt
+9.5
+1.72
+1.87
+10
+1.93
+1.67
+Toplam Korner : Queensland Lions
+Üst
+Alt
+5.5
+1.65
+2.05
+6
+1.89
+1.77
+Toplam Korner : Wollongong Wolves
+Üst
+Alt
+3.5
+1.75
+1.92
+4
+2.14
+1.58
+Kornerler: Handikap
+Queensland Lions
+Wollongong Wolves
+-2.5
+1.98
++2.5
+1.70
+-2
+1.75
++2
+1.92
+Kornerler : Toplam (3-İhtimalli)
+Üst
+Kesin
+Alt
+11
+2.99
+7.40
+1.52
+10
+2.18
+6.80
+1.87
+9
+1.72
+6.60
+2.53
+8
+1.42
+7.10
+3.62
+7
+1.22
+8.10
+5.60
+Kornerler: Tek/Çift
+Çift
+Tek
+1.80
+1.80
+Kornerler: 1. Yarı Sonucu
+Queensland Lions
+X
+Wollongong Wolves
+1.51
+5.60
+3.26
+Kornerler: 1. Yarı Toplam
+Üst
+Alt
+4
+1.55
+2.12
+4.5
+1.82
+1.78
+5
+2.12
+1.55
+Kornerler: 1. Yarı Queensland Lions Toplam
+Üst
+Alt
+2.5
+1.65
+1.95
+3
+2.00
+1.62
+Kornerler: 1.Yarı Wollongong Wolves Toplam
+Üst
+Alt
+1.5
+1.72
+1.87
+2
+2.35
+1.45
+Queensland Lions : Her İki Yarıda Gol Atar
+Evet
+Hayır
+2.12
+1.64
+Wollongong Wolves Her İki Yarıda Gol Atar
+Evet
+Hayır
+4.15
+1.19
+Queensland Lions : Her İki Yarıda Kazanır
+Evet
+Hayır
+3.83
+1.22
+Queensland Lions : İlk Yarıda Gol Atar
+Evet
+Hayır
+1.52
+2.37
+Wollongong Wolves İlk Yarıda Gol Atar
+Evet
+Hayır
+2.30
+1.55
+İlk Yarıda Gol
+Evet
+Hayır
+1.24
+3.65
+İkinci Yarıda Gol
+Evet
+Hayır
+1.13
+5.10
+Her İki Yarııda da 1.5 Üst Gol
+Evet
+Hayır
+3.47
+1.26
+Her İki Yarı Goller 1.5 Alt
+Evet
+Hayır
+3.40
+1.27
+Queensland Lions Gol Yemeden Kazanır
+Evet
+Hayır
+3.25
+1.29
+Wollongong Wolves Gol Yemeden Kazanır
+Evet
+Hayır
+7.85
+1.05
+Queensland Lions İki veya Üç Gol Farkla Kazanır
+Evet
+Hayır
+3.15
+1.31
+Wollongong Wolves İki veya Üç Gol Farkla Kazanır
+Evet
+Hayır
+8.20
+1.045
+Queensland Lions Bir Gol Farkla Kazanır veya Berabere
+Evet
+Hayır
+2.07
+1.67
+Wollongong Wolves Bir Gol Farkla Kazanır veya Berabere Kalır
+Evet
+Hayır
+2.65
+1.42
+Queensland Lions En Az Bir Yarıyı Kazanır
+Evet
+Hayır
+1.32
+3.10
+Wollongong Wolves En Az Bir Yarıda Kazanır
+Evet
+Hayır
+2.50
+1.47
+Queensland Lions İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+8.50
+1.04
+Wollongong Wolves İlk Yarıyı Kazanır ve Maçı Kazanamaz
+Evet
+Hayır
+7.85
+1.05
+Yarılardan En Az Birinde Beraberlik
+Evet
+Hayır
+1.68
+2.05
+Maç Skoru Beraberlik (0-0 hariç)
+Evet
+Hayır
+4.42
+1.17
+Kesin Gol Sayısı
+Gol Yok
+21.00
+Kesin 1
+6.15
+Kesin 2
+4.15
+Kesin 3
+3.83
+Kesin 4
+4.42
+Kesin 5
+6.40
+Kesin 6 veya Fazla
+6.40
+Maçta 1 Gol Olur
+Evet
+Hayır
+6.15
+1.09
+Maçta 2 Gol Olur
+Evet
+Hayır
+4.15
+1.19
+Maçta 3 Gol Olur
+Evet
+Hayır
+3.83
+1.22
+Maçta 4 Gol Olur
+Evet
+Hayır
+4.42
+1.17
+1-15 Dk. Galibi
+Queensland Lions
+X
+Wollongong Wolves
+4.50
+1.32
+8.20
+1-15 Dk. Gol Handikapı
+Queensland Lions
+Wollongong Wolves
+0
+1.44
+0
+2.59
+1-15 Dk. Toplam Goller
+Üst
+Alt
+0.5
+2.40
+1.50
+1
+6.30
+1.085
+1-15 Dk. Queensland Lions Toplam Goller
+Üst
+Alt
+0.5
+3.40
+1.27
+1-15 Dk. Wollongong Wolves Toplam Goller
+Üst
+Alt
+0.5
+5.10
+1.13
+1-15 Dk. İki Takım Gol Atar
+Evet
+Hayır
+10.50
+1.015
+1-30 Dk. Galibi
+Queensland Lions
+X
+Wollongong Wolves
+2.69
+1.84
+5.40
+1-30 Dk. Gol Handikapı
+Queensland Lions
+Wollongong Wolves
+0
+1.40
+0
+2.70
+1-30 Dk. Toplam Goller
+Üst
+Alt
+0.5
+1.52
+2.37
+1
+2.30
+1.55
+1-30 Dk. Queensland Lions Toplam Goller
+Üst
+Alt
+0.5
+1.97
+1.73
+1
+4.30
+1.18
+1-30 Dk. Wollongong Wolves Toplam Goller
+Üst
+Alt
+0.5
+3.00
+1.34
+1
+8.70
+1.035
+1-30 Dk. Karşılıklı Gol
+Evet
+Hayır
+5.55
+1.11
+1-60 Dk. Galibi
+Queensland Lions
+X
+Wollongong Wolves
+1.87
+2.98
+4.33
+1-60 Dk. Gol Handikapı
+Queensland Lions
+Wollongong Wolves
+-1
+2.70
++1
+1.40
+1-60 Dk. Toplam Goller
+Üst
+Alt
+1.5
+1.49
+2.44
+2
+1.86
+1.84
+1-60 Dk. Queensland Lions Toplam Goller
+Üst
+Alt
+1
+1.54
+2.33
+1.5
+2.30
+1.55
+1-60 Dk. Wollongong Wolves Toplam Goller
+Üst
+Alt
+0.5
+1.73
+1.97
+1
+3.10
+1.32
+1-60 Dk. Karşılıklı Gol
+Evet
+Hayır
+2.25
+1.57
+1-75 Dk. Galibi
+Queensland Lions
+X
+Wollongong Wolves
+1.71
+3.53
+4.30
+1-75 Dk. Gol Handikapı
+Queensland Lions
+Wollongong Wolves
+-1
+2.23
++1
+1.58
+1-75 Dk. Toplam Goller
+Üst
+Alt
+2.5
+1.76
+1.94
+3
+2.33
+1.54
+1-75 Dk. Queensland Lions Toplam Goller
+Üst
+Alt
+1.5
+1.76
+1.94
+2
+2.50
+1.47
+1-75 Dk. Wollongong Wolves Toplam Goller
+Üst
+Alt
+0.5
+1.49
+2.44
+1
+2.20
+1.60
+1-75 Dk. Karşılıklı Gol
+Evet
+Hayır
+1.76
+1.94
+Farklı Kombineler
+Queensland Lions Kazanır veya Üst (2.5) Gol
+1.17
+Beraberlik veya Üst 2.5 Gol
+1.19
+Wollongong Wolves Kazanır veya 2.5 Üst Gol
+1.28
+Queensland Lions Kazanır veya Alt (2.5) Gol
+1.20
+Beraberlik veya Alt 2.5 Gol
+2.10
+Wollongong Wolves kazanır veya 2,5 alt gol
+1.74
+Daha Fazla Seçeneği Göster
+Çifte Şans Kombo
+1X ve Üst (2.5) Gol
+1.67
+1X ve Alt (2.5) Gol
+2.67
+X2 ve Üst (2.5) Gol
+3.30
+X2 ve Alt (2.5) Gol
+3.58
+12 ve Üst (2.5) Gol
+1.55
+12 ve Alt (2.5) Gol
+3.85
+1X ve Karşılıklı Gol Olur
+1.70
+Queensland Lions 0'a karşı kazanır veya Doğru Skor 0-0
+2.60
+X2 ve Karşılıklı Gol Olur
+2.55
+Wollongong Wolves 0'a karşı kazanır veya Doğru Skor 0 : 0
+5.50
+12 ve Karşılıklı Gol Olur
+1.88
+Queensland Lions veya Wollongong Wolves - Gol Yemeden Kazanır
+2.33
+Daha Fazla Seçeneği Göster
+Karşılıklı Gol ve Toplam Goller 2.5
+Evet ve Üst 2.5
+1.76
+Evet ve Alt 2.5
+8.30
+Hayır ve Üst 2.5
+6.80
+Hayır ve Alt 2.5
+3.45
+Karşılıklı Gol ve Toplam Goller 3.5
+Evet ve Üst 3.5
+2.39
+Evet ve Alt 3.5
+3.53
+Hayır ve Üst 3.5
+14.00
+Hayır ve Alt 3.5
+2.79
+Her İki Yarıda da Karşılıklı Gol
+Evet
+Hayır
+9.00
+1.06
+İlk Golü Atacak Takım ve Maç Sonucu
+Queensland Lions ve Queensland Lions
+1.80
+Queensland Lions ve Berabere
+7.60
+Queensland Lions ve Wollongong Wolves
+15.00
+Wollongong Wolves ve Queensland Lions
+7.20
+Wollongong Wolves ve Berabere
+7.60
+Wollongong Wolves ve Wollongong Wolves
+4.60
+Gol Yok
+21.00
+1.Yarı Toplam Gol 'e karşı 2. Yarı Toplam Gol Handikapı
+İlk Yarı Toplam Goller
+İkinci Yarı Toplam Goller
++1.5
+1.28
+-1.5
+3.30
++0.5
+1.75
+-0.5
+1.96
+-0.5
+2.90
++0.5
+1.37
+İlk Yarı/Maç Sonucu ve Toplam Gol
+Queensland Lions /Queensland Lions ve Üst (3.5)
+3.50
+Queensland Lions /Queensland Lions ve Alt (3.5)
+3.75
+Queensland Lions /Beraberlik ve Üst (3.5)
+19.00
+Queensland Lions /Beraberlik ve Alt (3.5)
+21.00
+Queensland Lions /Wollongong Wolves ve Üst (3.5)
+41.00
+Queensland Lions /Wollongong Wolves ve Alt (3.5)
+46.00
+Beraberlik/Queensland Lions ve Üst (3.5)
+9.50
+Beraberlik/Queensland Lions ve Alt (3.5)
+5.50
+Beraberlik/Beraberlik ve Üst (3.5)
+17.00
+Beraberlik/Beraberlik ve Alt (3.5)
+7.40
+Beraberlik/Wollongong Wolves ve Üst (3.5)
+23.00
+Beraberlik/Wollongong Wolves ve Alt (3.5)
+10.00
+Daha Fazla Seçeneği Göster
