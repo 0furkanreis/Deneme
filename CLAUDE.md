@@ -53,3 +53,11 @@ Her analiz şu kutuyla biter:
 - Güven: düşük / orta / yüksek ve önerilen miktar (birim: 0,5 / 1 / 2)
 - Tek cümle gerekçe
 - Oynamamak gereken durum (ör. ilk 11'de X varsa, oran düştüyse)
+
+## 19.11 dersleri — yeni kurallar (kullanıcı eleştirisi: "sadece kart ve kornere odaklandın")
+- **Her maçta tüm pazar aileleri** tabloda değerlendirilir: maç sonucu, çifte şans, beraberlikte iade, handikap, alt/üst, KG, yarılar, korner, kart. Her aileden en iyi aday + değer gösterilir; öneri tek aileye yığılmaz.
+- Ana pazarlarda Lord Palace oranı Oddsportal ortalamasıyla kıyaslanır; LP ≥ piyasa ise modelden bağımsız değer işareti.
+- Korner/kart: son 5 maç küçük örnek → olasılık en az yarı yarıya site/lig ortalamasına çekilir; "yüksek güven" verilmez.
+- **Tekli öneri.** Kupon istenirse en fazla 2'li ve farklı/bağımsız pazarlardan.
+- Miktar: kasanın en fazla %5'i (kasa: `analizler/kasa.json`, `python3 motor/kasa.py`).
+- 18/19 Kasım: kart önerileri 3/4, korner 1/4; kullanıcının kombine kuponları hepsi kaybetti.
