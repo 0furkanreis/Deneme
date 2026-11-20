@@ -1,5 +1,7 @@
 # Maç Önü Bahis Analizi — çalışma talimatı
 
+> **Ana protokol:** `analiz-sistemi.md` (kullanıcının 20.11 tanımladığı Profesyonel Futbol Bahis Analiz ve Karar Sistemi). Her maç analizi bu akış ve sonuç formatıyla yapılır; aşağıdaki kurallar onu tamamlar. Son karar etiketleri: DEĞERLİ BAHİS / SINIRLI AVANTAJ / BAHİS YAPMA (kasa yönetimi ve NİHAİ ÖNERİ kutusundaki miktar/oran eşiği de eklenir).
+
 Kullanıcı Türkçe konuşur; tüm yanıtlar Türkçe olmalı.
 
 ## Kalıcı bahis kataloğu
