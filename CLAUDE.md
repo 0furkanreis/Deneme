@@ -63,3 +63,8 @@ Her analiz şu kutuyla biter:
 - **Tekli öneri.** Kupon istenirse en fazla 2'li ve farklı/bağımsız pazarlardan.
 - Miktar: kasanın en fazla %5'i (kasa: `analizler/kasa.json`, `python3 motor/kasa.py`).
 - 18/19 Kasım: kart önerileri 3/4, korner 1/4; kullanıcının kombine kuponları hepsi kaybetti.
+
+## Nesine (20.11: kullanıcı Lord Palace'ı bıraktı, artık Nesine'den oynuyor)
+- Oranlar: `python3 -I motor/araclar/nesine.py <takım> [<takım2>]` — herkese açık bülten (cdnbulten.nesine.com/api/bulten/getprebultenfull). Doğrulanmış MTID'ler aracın başında; doğrulanmamış pazarlar (korner, kart, takım alt/üst, yarı alt/üst) kullanılmadan önce sitenin maç detay sayfasıyla eşleştirilmeli.
+- Ek istatistik: https://istatistik.nesine.com/<maç kodu>/ozet (puan tablosu, son maçlar, kadrolar, korner & kart, hakem) — `render.js` ile açılır.
+- Değer kontrolü: Nesine oranı ↔ Oddsportal ortalaması ↔ model.
