@@ -68,3 +68,8 @@ Her analiz şu kutuyla biter:
 - Oranlar: `python3 -I motor/araclar/nesine.py <takım> [<takım2>]` — herkese açık bülten (cdnbulten.nesine.com/api/bulten/getprebultenfull). Doğrulanmış MTID'ler aracın başında; doğrulanmamış pazarlar (korner, kart, takım alt/üst, yarı alt/üst) kullanılmadan önce sitenin maç detay sayfasıyla eşleştirilmeli.
 - Ek istatistik: https://istatistik.nesine.com/<maç kodu>/ozet (puan tablosu, son maçlar, kadrolar, korner & kart, hakem) — `render.js` ile açılır.
 - Değer kontrolü: Nesine oranı ↔ Oddsportal ortalaması ↔ model.
+
+## Kullanıcının beğendiği cevap biçimi (20.11, WSW–Adelaide)
+- MBS (Nesine minimum kupon) önemsiz: kullanıcı başka yasal siteden tekli oynayabiliyor.
+- Kullanıcının sitesinin oranı bilinmiyorsa: her market için **temkinli olasılık · adil oran · oynanabilir eşik (≈ +%5 EV) · güven** tablosu ver; piyasa ortalamasını (Oddsportal) referans göster.
+- Sonda tek bahis: SON KARAR etiketi + en düşük kabul edilebilir oran + miktar (kasanın %2–5'i, ₺ olarak) + gerekçe + risk + "oynamayın, eğer".
