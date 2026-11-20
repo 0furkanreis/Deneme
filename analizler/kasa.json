@@ -3,5 +3,14 @@
  "baslangic_tarihi": "2026-11-20",
  "gunluk_kayip_limiti": 3000.0,
  "not": "Kullanıcının isteğiyle kasa 20.11'de 3.000 ₺ ile sıfırdan başlatıldı; önceki kayıtlar kasa-arsiv-2026-11-19.json'da. Önerilen bahis miktarı: kasanın %2–5'i.",
- "hareketler": []
+ "hareketler": [
+  {
+   "no": 1,
+   "aciklama": "WS Wanderers – Adelaide: MS 1 (WSW) @1,63 — öneri eşiği 1,75 idi",
+   "yatirilan": 3000.0,
+   "oran": 1.63,
+   "donus": 4890.0,
+   "durum": "bekliyor"
+  }
+ ]
 }
